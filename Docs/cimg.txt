@@ -1,0 +1,14 @@
+char[4] - Magic Stamp
+uint32_t - Posição da paleta de cores?
+uint16_t - Posição não sei do que
+uint16_t - Número de entradas (Cada entrada ocupa 8 bytes)
+uint16_t - Posição não sei do que
+uint16_t - Número de entradas (Cada entrada ocupa 3 bytes)
+uint16_t - Posição do tilemap
+uint16_t - Número de entradas (Cada entrada ocupa 2 bytes)
+uint16_t - Posição dos tiles
+uint16_t - Número de entradas (Cada entrada ocupa 64 bytes)
+uint16_t - Número de paletas de cores? Modo? (4bpp,8bpp) dont know
+uint16_t - Número de entradas (Cada entrada ocupa 2 bytes)
+uint16_t - Largura (0x0100)
+uint16_t - Altura (0x00C0)
