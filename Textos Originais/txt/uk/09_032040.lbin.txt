@@ -1,62 +1,80 @@
+<HDR:838B815B834E>
 <T>Aha! There's a trapdoor here!
 !******************************!
+<HDR:838C834383678393>
 <T>Then my hunch was right. It looks
 as if we've found a way out of here.
 !******************************!
+<HDR:836883938145837C815B838B>
 <T><A2/3>Oof! They must have built this
 stairwell for men less, er, buff and
 muscular than me!
 !******************************!
+<HDR:836883938145837C815B838B>
 <T><A3/5>And there's more than one path!
 Which way do we go, Layton?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Look, there's a map here that
 charts out the network of tunnels
 below us.
 !******************************!
+<HDR:838C834383678393>
 <T>Let me see. <W>My, this is a bit of a
 tangled mess, isn't it?
 !******************************!
+<HDR:838C834383678393>
 <T>Strange. I was sure I'd found a
 way through. I'll just have to try
 again.
 !******************************!
+<HDR:838C834383678393>
 <T>We need to plot our escape route
 before heading down.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/4>The passages below are too narrow
 for all of us to move through at
 the same time.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>If we want to get out of here
 quickly, we'll need to split into
 two groups.
 !******************************!
+<HDR:838C834383678393>
 <T>Hmm. I don't like it, but it seems
 we've no choice. Now, who should I
 take with me...?
 !******************************!
+<HDR:836883938145837C815B838B>
 <T><A1/1>You always get to be the gentleman.
 This time, I want to escort the
 young lady.
 !******************************!
+<HDR:838C834383678393>
 <T>Sorry, but I'd prefer you to come
 with me, Don Paolo.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/2>Very well then. Flora and I will go
 together.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Luke, you go with the professor
 and help him keep an eye on Don
 Paolo.
 !******************************!
+<HDR:8341838D837D>
 <T><A1/5>Trade with me, Little Luke! I want
 to be in the professor's group.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>We'll see each other soon enough,
 Flora.<W> Go with Big Luke, and we'll
 meet back at the hotel.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>All right, the groups are set.<W>
 Let's get moving.
 !******************************!

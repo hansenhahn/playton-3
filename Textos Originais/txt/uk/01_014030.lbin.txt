@@ -1,44 +1,58 @@
+<HDR:838C834383678393>
 <T>Why...it appears to be my beloved
 Laytonmobile.
 !******************************!
+<HDR:838B815B834E>
 <T>That's what I thought, too.<W> I've
 never seen anyone else with such a
 funny-shaped car, after all.
 !******************************!
+<HDR:838C834383678393>
 <T>Funny-shaped?<W> I'll have you know
 that this is a classic, my dear boy.
 !******************************!
+<HDR:838B815B834E>
 <T>Judging by all the dust and dirt on
 it, it must be.
 !******************************!
+<HDR:838B815B834E>
 <T>It doesn't look like anyone's been
 taking care of your car while it's
 been parked out here, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>Indeed.<W><A3/1> It does appear to have
 been exposed to the elements for
 quite some time.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Why don't we see if it still works?
 We won't need to rely on the train
 any more if it does.
 !******************************!
+<HDR:838C834383678393>
 <T>That's an excellent suggestion,
 Luke.<W></T> <TW><K>Hmm?
 !******************************!
+<HDR:838B815B834E>
 <T><A4>What's the matter, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Someone's installed a peculiar lock
 on the door. Who could have done
 such a thing?
 !******************************!
+<HDR:838C834383678393>
 <T>The Laytonmobile's not going
 anywhere unless we open this lock.
 !******************************!
+<HDR:838C834383678393>
 <T>Let's get this vexing lock open so
 we can try starting up the car.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>There we are. It's finally open.
 !******************************!
+<HDR:838B815B834E>
 <T>All right! Start her up, Professor!
 !******************************!

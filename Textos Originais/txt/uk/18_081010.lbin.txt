@@ -1,11 +1,15 @@
+<HDR:838B815B834E>
 <T>Look! A hidden puzzle!
 !******************************!
+<HDR:838B815B834E>
 <T>I'm just going to take a little break
 before I dive back in.
 !******************************!
+<HDR:838B815B834E>
 <T>All right! It's time to put this hidden
 puzzle to bed!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>Stick a fork in this puzzle -
 it's done!
 !******************************!

@@ -1,19 +1,25 @@
+<HDR:838B815B834E>
 Urgh. I hate that
 hospital smell...
 !******************************!
+<HDR:838C834383678393>
 The wards appear to
 be upstairs.
 !******************************!
+<HDR:838C834383678393>
 How about a quick
 check-up while we're
 here, Luke?
 !******************************!
+<HDR:8341838D837D>
 There don't seem to
 be many patients here.
 !******************************!
+<HDR:834E838983458358>
 Don't worry, Flora.
 You'll be quite healthy
 in 10 years' time!
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

@@ -1,15 +1,20 @@
+<HDR:838B815B834E>
 <T><A1/3>Hey! The door just slammed shut
 behind us, and now it's locked!<W>
 That's not very polite!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Hmm. We do appear to have been
 locked out.
 !******************************!
+<HDR:838B815B834E>
 <T>...<W><A4/4>And why does everything look so
 different out here?
 !******************************!
+<HDR:838C834383678393>
 <T>I honestly don't know, Luke.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Since we're unable to go back into
 the clock shop, however, why don't
 we have a look around?

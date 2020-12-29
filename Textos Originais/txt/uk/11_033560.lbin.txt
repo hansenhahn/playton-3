@@ -1,13 +1,18 @@
+<HDR:837C815B838D>
 <T>C'est okay. I'll find my own way out
 of here eventually.
 !******************************!
+<HDR:837C815B838D>
 <T>My beloved compass is kaputt.
 !******************************!
+<HDR:837C815B838D>
 <T>Oh, double gracias, my monsieur.
 Thanks to you, I can now continue
 my travels.
 !******************************!
+<HDR:838C834383678393>
 <T>Do be careful out there, Pavel.
 !******************************!
+<HDR:837C815B838D>
 <T>Bon! Now, which way should I go...?
 !******************************!

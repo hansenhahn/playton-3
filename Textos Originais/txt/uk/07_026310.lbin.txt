@@ -1,51 +1,66 @@
+<HDR:838B815B834E>
 <T>Oh, hi there, Becky. On your way
 out?
 !******************************!
+<HDR:83788362834C815B>
 <T>That's right. That older gentleman
 who's staying with us asked me to
 run an errand for him.
 !******************************!
+<HDR:838B815B834E>
 <T>You mean Dean Delmona?
 !******************************!
+<HDR:83788362834C815B>
 <T><A1/5>Yeah, that's the chap. I don't know
 why a man with so little hair needs
 a tub of hair gel, though...
 !******************************!
+<HDR:838C834383678393>
 <T>Hair gel?<W> To style that little tuft?
 !******************************!
+<HDR:83788362834C815B>
 <T>Strange, eh? Still, you can't blame
 a man for trying to stay stylish
 in his old age. Tee hee!
 !******************************!
+<HDR:838C834383678393>
 <T>That is quite curious. He never
 struck me as the hair gel type.
 !******************************!
+<HDR:83788362834C815B>
 <T><A2/2>By the way, since we're on the
 subject of shopping trips, there's
 something I need your help with.
 !******************************!
+<HDR:83788362834C815B>
 <T>Well, I suppose there are some
 mysteries too complex for even
 the greatest of minds.
 !******************************!
+<HDR:83788362834C815B>
 <T>Oh, you want to take another
 crack at my shopping puzzle?
 What a gentleman you are!
 !******************************!
+<HDR:83788362834C815B>
 <T>I knew you'd work it out,
 Professor.
 !******************************!
+<HDR:83788362834C815B>
 <T>I had a question for Mr Delmona,
 you know, but he disappeared
 when I wasn't looking. Oh well. 
 !******************************!
+<HDR:83788362834C815B>
 <T>Hey, don't tell Mr Delmona that I
 was wondering about his hair gel,
 okay?
 !******************************!
+<HDR:83788362834C815B>
 <T>I'll even give you a little something
 for keeping the matter hush-hush.
 !******************************!
+<HDR:83788362834C815B>
 <T>I had a question for Mr Delmona,
 but he ran off when I wasn't
 looking. I wonder where he's gone?

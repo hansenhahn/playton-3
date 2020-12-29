@@ -1,37 +1,48 @@
+<HDR:838B815B834E>
 <T>Hello Constable. Fancy seeing you
 here!
 !******************************!
+<HDR:836F815B83678393>
 <T><A3/0>Oh, hello.<A2/1> I've been all over
 town gathering information, you
 know.
 !******************************!
+<HDR:836F815B83678393>
 <T>But all that walking has put me in
 the mood for a snack.
 !******************************!
+<HDR:838B815B834E>
 <T><A2/2>So that's why you were peeking
 through the restaurant window!
 !******************************!
+<HDR:836F815B83678393>
 <T>Yes. I must confess that a lovely
 wobbly jelly caught my eye.
 !******************************!
+<HDR:836F815B83678393>
 <T>Do a hungry man a favour and keep
 my little break a secret from the
 inspector, won't you?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Ha ha! I wouldn't dream of reporting
 you, my good man. But now that you
 mention it, where is the inspector?
 !******************************!
+<HDR:836F815B83678393>
 <T><A1/1>He's been conducting a series
 of exhaustive interviews with
 everyone he meets in town.
 !******************************!
+<HDR:836F815B83678393>
 <T>Once he finds a useful source, he
 really knows how to wring out
 every last detail.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>I bet...
 !******************************!
+<HDR:836F815B83678393>
 <T>I'd like to submit a request for a
 snack break.
 !******************************!

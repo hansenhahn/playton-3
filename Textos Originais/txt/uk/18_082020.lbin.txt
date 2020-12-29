@@ -1,14 +1,19 @@
+<HDR:838C834383678393>
 <T>Let's see how this puzzle treats
 you.
 !******************************!
+<HDR:838C834383678393>
 <T>This puzzle is harder than it looks,
 isn't it?
 !******************************!
+<HDR:838C834383678393>
 <T>Good to see you haven't given up.
 Now then, back to work.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Excellent work there!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Back to solve this one again?
 I know that feeling!
 !******************************!

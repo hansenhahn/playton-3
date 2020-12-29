@@ -1,26 +1,35 @@
+<HDR:>
 Overwrite the file
 {''}%s{''}?
 !******************************!
+<HDR:>
 There are currently no puzzles
 for you to solve here.
 !******************************!
+<HDR:>
 Solve puzzle %03d,
 {''}%s{''}?
 !******************************!
+<HDR:>
 Puzzle %03d: %s
 !******************************!
+<HDR:>
 You solved the puzzle
 {''}%s{''}!
 !******************************!
+<HDR:>
 You solved that puzzle without
 looking at a single hint! Great job! 
 !******************************!
+<HDR:>
 You viewed %d hint while
 solving this puzzle.
 !******************************!
+<HDR:>
 You viewed %d hints while solving
 this puzzle.
 !******************************!
+<HDR:>
 Incorrect password. You
 may have made a mistake in
 entering the password.

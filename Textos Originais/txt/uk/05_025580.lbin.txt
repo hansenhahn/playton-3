@@ -1,27 +1,36 @@
+<HDR:8366837283628367>
 <T>Oh, hey, it's you again. Where are
 you off to now, squirt?
 !******************************!
+<HDR:838B815B834E>
 <T>I...<W>can't say. It's a secret.
 !******************************!
+<HDR:8366837283628367>
 <T><A2/2>Oh.<W> Well, I was going to offer you
 a puzzle, but it looks like you're
 in a hurry, so...
 !******************************!
+<HDR:838B815B834E>
 <T>What's that? You've got a puzzle
 that needs solving?
 !******************************!
+<HDR:8366837283628367>
 <T><A4/6>Hoo hoo! Now I've got your
 attention, eh?
 !******************************!
+<HDR:8366837283628367>
 <T>I understand. Sometimes you need
 to give your brain some space to
 breathe.
 !******************************!
+<HDR:8366837283628367>
 <T>Back for more puzzle action,
 kiddo?
 !******************************!
+<HDR:8366837283628367>
 <T>Splendiferous job!
 !******************************!
+<HDR:8366837283628367>
 <T>So... Are you sure you don't want
 to tell me where you're headed?
 !******************************!

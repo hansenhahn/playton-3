@@ -1,100 +1,130 @@
+<HDR:83608346838B837E815B>
 <T>Well, Layton, did your investigation
 bear any fruit?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>It did indeed!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>But before I explain, please allow
 me a few questions.
 !******************************!
+<HDR:838C834383678393>
 <T>Inspector, were you involved in the
 investigation into the explosion at
 that institute 10 years ago?
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/5>Yes... Ages ago, it was. I remember
 I had just been promoted to
 sergeant.
 !******************************!
+<HDR:838C834383678393>
 <T>I see.<W> And do you remember the
 names of the scientists thought
 to have caused the explosion?
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/1>Let me think...<W> Ah, it's coming back
 to me now. One was called Allen...<W>
 Dr Dimitri Allen.
 !******************************!
+<HDR:838C834383678393>
 <T>Weren't there two scientists
 implicated?<W> Do you remember the
 second scientist's name?
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/6>Erm... It WAS quite a long time ago,
 you know.
 !******************************!
+<HDR:838C834383678393>
 <T>I see you're having some difficulty
 remembering.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/1><K>Hmph.
 !******************************!
+<HDR:838C834383678393>
 <T>Well then, what about the victims?
 Do you remember anything about
 them?
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/5>The explosion caused substantial
 damage to the area and destroyed
 a nearby block of flats.
 !******************************!
+<HDR:83608346838B837E815B>
 <T>Several of the building's tenants
 perished in the explosion, as well
 as one of the lab assistants.
 !******************************!
+<HDR:83608346838B837E815B>
 <T>Strangely enough, though, I think
 that both the scientists involved
 in the experiment survived.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>That was very informative.
 Thank you, Inspector.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/1>Right, now I've got a few questions
 of my own.
 !******************************!
+<HDR:83608346838B837E815B>
 <T>How do you think this old case
 relates to my current one?
 !******************************!
+<HDR:838C834383678393>
 <T>This is just a theory...
 !******************************!
+<HDR:838C834383678393>
 <T>But I think the prime minister is
 being held somewhere beyond
 the influence of Scotland Yard.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/1>Do you mean to say he's being
 held in another country?
 !******************************!
+<HDR:838C834383678393>
 <T>You may find what I'm about to
 tell you hard to believe...
 !******************************!
+<HDR:838C834383678393>
 <T><J54>But I think Bill Hawks is being
 held captive in the future.<Q><K></J>
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/5>If this is your idea of a joke,
 Layton, I'm not laughing!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>I can understand your scepticism...
 Well, thank you for all your help
 today, Inspector.
 !******************************!
+<HDR:838C834383678393>
 <T>Should I learn anything else about 
 the prime minister's whereabouts,
 you will be the first to know.
 !******************************!
+<HDR:838C834383678393>
 <T>Come now, Luke. Let's be off.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A5/0>Now wait right there! <A3/1>We had a
 deal! Surely you've got more for
 me than that far-fetched theory.
 !******************************!
+<HDR:838C834383678393>
 <T>Inspector, I've told you as much
 as I know at the moment.<W> Now,
 please excuse us.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/1>The future, you say? Are you
 talking in riddles?
 !******************************!

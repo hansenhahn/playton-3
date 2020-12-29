@@ -1,16 +1,21 @@
+<HDR:838B815B834E>
 <T>Wow! Look at this!
 !******************************!
+<HDR:838C834383678393>
 <T>I think it's safe to say that we've
 arrived at Dimitri's research 
 facility.
 !******************************!
+<HDR:8341838D837D>
 <T>Do you think the prime minister is
 being held here, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T>That's more than likely, which
 would mean the place is probably
 under very heavy guard.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/1>Be on the lookout for trouble,
 everyone.
 !******************************!

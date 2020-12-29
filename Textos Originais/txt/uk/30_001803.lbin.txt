@@ -1,16 +1,21 @@
+<HDR:838B815B834E>
 Every room in this
 fortress has a horrid
 metallic smell.
 !******************************!
+<HDR:838B815B834E>
 How many floors do
 you think there are in
 this fortress?
 !******************************!
+<HDR:838C834383678393>
 How on earth did he
 manage to construct
 such a huge fortress?
 !******************************!
+<HDR:8341838D837D>
 Eww... It's all sticky.
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

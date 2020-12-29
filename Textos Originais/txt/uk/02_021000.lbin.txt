@@ -1,21 +1,28 @@
+<HDR:96A29788838B815B834E>
 <V0010><T><A2/2>It seems you're the genuine article,
 Professor.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0020><T><A1/2>I'm glad to see that I've finally
 convinced you.</V>
 !******************************!
+<HDR:96A29788838B815B834E>
 <V0030><T>To be honest, I was convinced from
 the beginning.</V>
 !******************************!
+<HDR:96A29788838B815B834E>
 <V0040><T>But I just couldn't pass up the
 opportunity to pit myself against
 my mentor in a battle of wits.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0060><T>Hmm. I'm flattered...I suppose.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0050><T><A1/6>So? Out with it! Why did you call
 us here?</V>
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>There are too many eyes on us in
 here. There's a storeroom in the
 back where we can talk. Follow me.

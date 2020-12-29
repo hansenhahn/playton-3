@@ -1,10 +1,13 @@
+<HDR:8369838C815B835683878393>
 <T>Layton and the others are cornered
 deep inside the research facility
 by Bostro and his thugs.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>With nowhere to run, things are
 looking bleak for our heroes.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Suddenly, a mysterious woman
 appears out of nowhere and leads
 the group to safety.

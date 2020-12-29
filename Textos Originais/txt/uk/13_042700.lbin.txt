@@ -1,6 +1,8 @@
+<HDR:834E838983458358>
 <V0010><T>You never fail to impress. Sadly, I
 must leave you now, as the main
 event is about to start.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0020><T>What do you mean?</V>
 !******************************!

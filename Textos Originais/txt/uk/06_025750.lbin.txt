@@ -1,20 +1,27 @@
+<HDR:838C834383678393>
 <T>Luke, I've just remembered
 something...
 !******************************!
+<HDR:838B815B834E>
 <T>What's that, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T>We've neglected to explain the
 situation to Flora.
 !******************************!
+<HDR:838B815B834E>
 <T>Gosh, you're right! It completely
 slipped my mind!
 !******************************!
+<HDR:8341838D837D>
 <T>Oh, it's all right. I'm just happy
 I could come along.
 !******************************!
+<HDR:838C834383678393>
 <T>Be that as it may, I think an
 explanation is in order.<W> Let's
 stop at the hotel for a quick chat.
 !******************************!
+<HDR:838B815B834E>
 <T>All right, Professor.
 !******************************!

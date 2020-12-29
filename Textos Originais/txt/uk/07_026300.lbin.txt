@@ -1,25 +1,33 @@
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W><A1/2> Who's that lovely
 girl you're with?
 !******************************!
+<HDR:838B815B834E>
 <T><K>Hmm?</K><W> Oh, you mean Flora?
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W> Correct!<W> What a
 pretty name. You've got to
 introduce us.
 !******************************!
+<HDR:8341838D837D>
 <T>Who's this?<W> Hi there. Are you one
 of Luke's friends? It's nice to
 meet you!
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DIIIING!<W> Oh yeah, Luke
 and I go way back. We're old pals.
 !******************************!
+<HDR:837D8362834E8358>
 <T><A1/5>Anyway, you have a lovely day,
 Flora!
 !******************************!
+<HDR:838B815B834E>
 <T>Funny...<W> I didn't realise you thought
 so highly of me, Max.
 !******************************!
+<HDR:837D8362834E8358>
 <T>If you have any more pretty lady
 friends, bring them round to say
 hello! DING DING DING! 

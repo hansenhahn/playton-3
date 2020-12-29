@@ -1,30 +1,39 @@
+<HDR:8341838D837D>
 <T>This metal shutter is blocking our
 way. I'm starting to get the feeling
 we're not welcome here.
 !******************************!
+<HDR:838B815B834E>
 <T>Of course not, Flora. That's how
 criminals work. The dirtier the deed,
 the more cautious they get!
 !******************************!
+<HDR:838B815B834E>
 <T>See, they've even gone out of their
 way to fit a puzzle lock to the
 shutter.
 !******************************!
+<HDR:838B815B834E>
 <T>Phew! This puzzle's a tough one all
 right!
 !******************************!
+<HDR:838B815B834E>
 <T>Just watch. This time I'm going to
 crack this puzzle wide open!
 !******************************!
+<HDR:8341838D837D>
 <T>You can do it, Luke.
 !******************************!
+<HDR:838B815B834E>
 <T>Ha ha! That lock didn't stand a
 chance against me!<W> Stupid lock.
 !******************************!
+<HDR:8341838D837D>
 <T><A1/5>I hope you didn't enjoy cracking
 that lock too much, Luke. It could
 lead you to a life of crime!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Thanks, Flora. I'll, um, bear that
 in mind.
 !******************************!

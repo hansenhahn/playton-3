@@ -1,21 +1,27 @@
+<HDR:838B815B834E>
 This back room is
 a bit of a dump...
 !******************************!
+<HDR:838B815B834E>
 Could that be a trap
 to keep out
 intruders like us?
 !******************************!
+<HDR:838C834383678393>
 Dimitri must use these
 stairs to come and go
 as he pleases.
 !******************************!
+<HDR:8341838D837D>
 It's ever so dark and
 dingy in here! Let's
 move on.
 !******************************!
+<HDR:838C834383678393>
 My word, look at this
 dust... It's making
 my nose itch.
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

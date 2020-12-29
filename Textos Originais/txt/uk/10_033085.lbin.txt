@@ -1,14 +1,18 @@
+<HDR:837D8343836C83628360>
 <T>Hey, what's wrong? You look all
 worried.
 !******************************!
+<HDR:838C834383678393>
 <T>Hello there, young lady. Have you
 seen a boy coming out of the hotel
 recently?
 !******************************!
+<HDR:837D8343836C83628360>
 <T>Oh, the boy in blue? Yep, I saw him
 come out...but I don't remember
 which way he went. Sorry.
 !******************************!
+<HDR:838C834383678393>
 <T>That's quite all right. You've been
 most helpful.
 !******************************!

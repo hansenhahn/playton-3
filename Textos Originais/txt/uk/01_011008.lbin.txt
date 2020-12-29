@@ -1,5 +1,7 @@
+<HDR:838B815B834E>
 <T><A1/3>The shop door is still locked.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Not to worry, Luke. The world
 outside the shop contains plenty
 of mysteries for us to investigate.

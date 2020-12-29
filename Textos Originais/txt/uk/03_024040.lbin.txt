@@ -1,54 +1,71 @@
+<HDR:96A29788838B815B834E>
 <T>Just a little further, Luke. We're
 almost at the arcade now.
 !******************************!
+<HDR:838B815B834E>
 <T>I know. We walked through here
 earlier.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/2>Oh right. Of course you did. You
 mentioned that before, didn't you?
 !******************************!
+<HDR:838B815B834E>
 <T>Yeah...<W> Hey, you know, there's
 something I've been wondering
 about.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>What's on your mind?
 !******************************!
+<HDR:838B815B834E>
 <T>Well, a machine that can take
 people to any point in time would
 really change the world.
 !******************************!
+<HDR:838B815B834E>
 <T>And not only that - it could improve
 people's lives!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/1>Yes, it would certainly have the
 potential to do that.
 !******************************!
+<HDR:838B815B834E>
 <T>But even though this time machine
 could do so much for people, you
 want to stop it from being made?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Picture this scenario. Imagine
 there's this bully who's always
 giving you trouble.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Go on.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Now, let's say you had that time
 machine we've been talking about.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/2>Would you travel back in time to
 when that bully was a teensy five-
 year-old and get your own back?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>Of course not! That'd be cruel.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/4>Of course you wouldn't, but that's
 because you've got a good heart.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Imagine the damage that someone
 less kind could do with a machine
 like that.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Cor... I never thought of it like
 that. We've got to stop that
 machine from being built!

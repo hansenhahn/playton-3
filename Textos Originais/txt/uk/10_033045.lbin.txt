@@ -1,7 +1,9 @@
+<HDR:83788362834C815B>
 <T>Welcome back, esteemed guests.
 Your friends arrived a while ago, so
 I invited them to wait in your room.
 !******************************!
+<HDR:838B815B834E>
 <T>Oh good! It sounds like Flora and
 Luke made it back safely.
 !******************************!

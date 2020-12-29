@@ -1,17 +1,23 @@
+<HDR:834F8389836E8380>
 <T>Oh, thank goodness you're here!
 London's most debonair man
 requires some assistance.
 !******************************!
+<HDR:838B815B834E>
 <T>Er... All right.<W> What's the matter?
 !******************************!
+<HDR:834F8389836E8380>
 <T><A2/3>It's that blasted bird over there!
 !******************************!
+<HDR:834F8389836E8380>
 <T>The dreadful creature swooped
 down and plucked my best cufflinks
 right off my sleeves!
 !******************************!
+<HDR:838B815B834E>
 <T>What bird?
 !******************************!
+<HDR:834F8389836E8380>
 <T>Look, there it is, flapping about!
 I think it's taunting me!
 !******************************!

@@ -1,90 +1,118 @@
+<HDR:838C834383678393>
 <T><A3/1>It would seem the tables have
 turned, Dimitri.
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T><A3/2>That's a rather delusional
 statement for someone with your
 penchant for logical thought.
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T>Look around you. In case you
 hadn't noticed, you're deep within
 the Family's headquarters.
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T>I need only say the word and my
 men will come rushing to my aid.
 !******************************!
+<HDR:838C834383678393>
 <T>You underestimate me, Dimitri.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>Do you think I'd be so na{:i}ve as to
 set foot in your base without a
 plan of my own?
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T><A1/1>Meaning?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>This building is fascinating in its
 complexity.
 !******************************!
+<HDR:838C834383678393>
 <T>I saw plenty of spots where one
 might conceal a trap or the like.
 !******************************!
+<HDR:838C834383678393>
 <T>On my way up here, I set up a few
 diversions of my own. Call for your
 henchmen, if you like.
 !******************************!
+<HDR:838C834383678393>
 <T>I imagine most of them will have
 their hands full for a few more
 minutes at least.
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T>Hmph. Clever, Hershel. Very clever.
 !******************************!
+<HDR:837B83588367838D>
 <T>C'mon, Boss! We've got to scarper!
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T>It seems I must concede defeat for
 now, but this is far from over.
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T>I look forward to seeing you when
 our paths cross next.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Drat. They're much faster than I
 thought. There's no chance of us
 catching them.
 !******************************!
+<HDR:838C834383678393>
 <T>Oh no!
 !******************************!
+<HDR:838B815B834E>
 <T>What's wrong?
 !******************************!
+<HDR:838C834383678393>
 <T>All this commotion allowed Dimitri
 and his men to grab the prime
 minister and take him with them.
 !******************************!
+<HDR:838B815B834E>
 <T>Uh-oh. That doesn't sound good.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/5>Dimitri's activated an alarm. This
 place will be flooded with Family
 thugs before long.
 !******************************!
+<HDR:838C834383678393>
 <T>There's the distinct possibility
 that we may have to fight our way
 out of the Towering Pagoda...
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>But didn't you take care of
 Dimitri's henchmen on the way in,
 Professor?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Not quite, I'm afraid. The few
 diversions I managed to set up will
 only last a few more minutes.
 !******************************!
+<HDR:838C834383678393>
 <T>The path we took on the way in
 is almost certainly swarming with
 Family now.
 !******************************!
+<HDR:838C834383678393>
 <T>Our only hope is to find some sort
 of emergency escape route.
 !******************************!
+<HDR:838C834383678393>
 <T>Dimitri is a prudent man. He may
 have one hidden somewhere in this
 room.
 !******************************!
+<HDR:838C834383678393>
 <T>We must search this place
 thoroughly.
 !******************************!

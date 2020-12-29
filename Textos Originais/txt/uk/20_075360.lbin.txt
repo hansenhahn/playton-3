@@ -1,52 +1,66 @@
+<HDR:8369838C815B835683878393>
 <T>Fill in the missing elements of the
 story by placing stickers into each
 picture book.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Touch <CR>Place</C> to display a bar
 containing all the stickers that
 you have collected for this book.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Touch a sticker and slide it to the
 position of your choice to stick
 it on the page.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>To remove a sticker from the page,
 slide it back to the bar at the
 bottom of the Touch Screen.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Touch <CR>Remove</C> to remove all the
 stickers from the picture book.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Touch the arrows on the left and
 right sides of the Touch Screen to
 turn the page.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>The text on the top screen changes
 automatically to match the stickers
 you've placed.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Try to create a story that makes
 sense by placing all the stickers in
 the correct positions.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>You'll collect more stickers as you
 play through the game and solve
 puzzles.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Solve as many puzzles as you can
 and try to collect every sticker.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>There are a total of three picture
 books for you to complete.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Each picture book has its own set
 of stickers which can only be used
 in that book.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Complete the first picture book to
 unlock the second, and complete
 the second to unlock the third.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>When you've successfully completed
 every picture book, something
 wonderful will happen!

@@ -1,55 +1,71 @@
+<HDR:838C834383678393>
 <T>It's been a while, hasn't it,
 Andrew?
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>Indeed, Hershel. I trust you're
 still spending the majority of your
 waking hours doing research?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>What can I say? I learned from
 the best.<W> Having an office in which
 to work has made life easier, too.
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>You've got your own office? <W>Oh,
 what am I saying? You've had
 one for some time, haven't you?
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>And you deserve it.
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>I've seen my share of scholars, but
 you were the brightest to ever set
 foot in my classroom.
 !******************************!
+<HDR:838B815B834E>
 <T>Naturally!
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>Oh dear! With all this excitement, I
 nearly forgot to take my medicine.
 Silly me. 
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>I've got the bottle here, but
 working out the correct dosage is
 proving rather taxing.
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>Luke, be a good boy and help me
 work out how much of this I need
 to drink.
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>You're giving up? But it's nearly
 time for my medicine!
 
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>You're back! Did you think of a way
 for me to take my medicine?
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>You've taught this boy well,
 Hershel. You've clearly passed
 down some of my skills, heh heh!
 !******************************!
+<HDR:838B815B834E>
 <T>Um...
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>Yes, as I was saying, you always
 were the brightest, though there
 was one other pupil who came close.
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T>That boy was something of a whizz
 as well. I wonder what became of
 him...

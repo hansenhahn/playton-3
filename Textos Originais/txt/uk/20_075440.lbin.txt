@@ -1,13 +1,17 @@
+<HDR:83608346838B837E815B>
 <T>Heading back already, Layton?
 I've still got a few leads to chase,
 so I'm going to stay here for now.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>I'm afraid I'll have to stay
 behind as well, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>All right. We won't be long. Please
 wait for us here.
 !******************************!
+<HDR:835783838362834E>
 <T>Okay, now that they've left, let's
 get going.<W> <A3/0>Here we go!
 !******************************!

@@ -1,34 +1,45 @@
+<HDR:83788362834C815B>
 <T>Welcome back to the Hotel Duke.
 Oh!<W> Hello there, young lady!
 And who might you be?
 !******************************!
+<HDR:8341838D837D>
 <T>My name's Flora. I'm a guest of the
 professor and Luke's.<W> Well, sort of.
 !******************************!
+<HDR:8341838D837D>
 <T>Actually, what really happened is I
 followed them here because they
 ran off without me.
 !******************************!
+<HDR:8341838D837D>
 <T>They're always doing that and it's
 really quite upsetting at times. I-
 !******************************!
+<HDR:8341838D837D>
 <T><A2/5>Oh dear, I'm sorry! I didn't mean
 to babble!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>What are you talking about, Flora?
 !******************************!
+<HDR:838C834383678393>
 <T>Don't mind her, Becky.<W> Flora can
 get quite nervous around new
 people.
 !******************************!
+<HDR:83788362834C815B>
 <T>Oh, I would never pry into a guest's
 personal affairs. That's against
 hotel policy!
 !******************************!
+<HDR:83788362834C815B>
 <T>I'll be off now. Have a pleasant day!
 !******************************!
+<HDR:838B815B834E>
 <T>I hope you don't think the worse of
 us for leaving Flora behind...
 !******************************!
+<HDR:83788362834C815B>
 <T>I hope you have a lovely day!
 !******************************!

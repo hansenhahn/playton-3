@@ -1,15 +1,20 @@
+<HDR:834A838C838A83698EF1918A9576906C>
 <V0010><T>Oh, this food is simply dreadful,
 Bill. <W>Do get this over with quickly so
 we can leave.</V>
 !******************************!
+<HDR:8372838B8145837A815B834E>
 <V0020><T>Yes, dear...</V>
 !******************************!
+<HDR:834A838C838A83698EF1918A9576906C>
 <T><A1/5>This event is a complete charade! 
 <A1/2>Don't you agree, Bill?
 !******************************!
+<HDR:8372838B8145837A815B834E>
 <T>Hmmm? What's that? Oh yes, a
 complete charade.
 !******************************!
+<HDR:834A838C838A83698EF1918A9576906C>
 <T><A1/1>Well, I hope the presentation is
 brief. We do have places to be,
 you know.

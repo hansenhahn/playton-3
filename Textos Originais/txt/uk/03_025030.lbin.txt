@@ -1,27 +1,37 @@
+<HDR:838B815B834E>
 <T>Is this really the way to Chinatown?<W>
 It's awfully dirty...and dark.
 !******************************!
+<HDR:838C834383678393>
 <T>Does this place frighten you, my
 boy?
 !******************************!
+<HDR:838B815B834E>
 <T>Me? Scared? No way! I just want
 to get to Chinatown. Let's go!
 !******************************!
+<HDR:838C834383678393>
 <T>There's no need to dash off, Luke.<W>
 Do be careful, you could sli-
 !******************************!
+<HDR:838B815B834E>
 <T>Whoa!<W> Ow!<W> Ow ow ow OW!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Oh dear. What did I just tell you? 
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>Are you laughing at me, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Laughing? Me?<W> Certainly not!<W> Are
 you quite all right?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Of course I am. I just bumped my
 knee a little. I'll walk it off.
 !******************************!
+<HDR:838C834383678393>
 <T>Oh good. I was worried for a
 moment there. Let's go.
 !******************************!

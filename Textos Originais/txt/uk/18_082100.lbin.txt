@@ -1,16 +1,21 @@
+<HDR:838C834383678393>
 <T>I expect you'll make short work of
 this puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T>Well, there's no harm in taking a
 step back to mull over your
 options.
 !******************************!
+<HDR:838C834383678393>
 <T>Good on you for not giving up.
 Let's return to that puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Well I am impressed! That was
 expertly executed!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Back for more fun with an old
 friend? Enjoy!
 !******************************!

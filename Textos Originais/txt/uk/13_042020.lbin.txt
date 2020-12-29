@@ -1,19 +1,26 @@
+<HDR:838B815B834E>
 <T>The door is locked with a puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T>I wouldn't expect anything less from
 Clive.
 !******************************!
+<HDR:838C834383678393>
 <T>It's clear that we're not getting
 inside without doing some thinking.
 !******************************!
+<HDR:838C834383678393>
 <T>This puzzle isn't going down without
 a fight. I'll have to try again.
 !******************************!
+<HDR:838C834383678393>
 <T>I'm confident I can find the
 solution this time.
 !******************************!
+<HDR:838C834383678393>
 <T>Excellent! With the puzzle solved,
 we're free to go in.
 !******************************!
+<HDR:838B815B834E>
 <T>Great! Then let's head in!
 !******************************!

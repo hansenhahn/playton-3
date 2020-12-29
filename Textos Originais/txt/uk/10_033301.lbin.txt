@@ -1,49 +1,66 @@
+<HDR:838B815B834E>
 <T>Hello there.
 !******************************!
+<HDR:83778343835B838B>
 <T>Augh!<W> Not you again!
 !******************************!
+<HDR:83778343835B838B>
 <T><A5/1>Stay away, you m-<W30>m-<W30>monster!
 !******************************!
+<HDR:838B815B834E>
 <T>You've got it all wrong. He's an
 archaeology professor, and I'm his
 apprentice. That's all.
 !******************************!
+<HDR:83778343835B838B>
 <T>You can't fool me with those lies.
 You're the b-<W30>b-<W>boss of the Family!
 !******************************!
+<HDR:838C834383678393>
 <T>You're quite mistaken, my good
 man.<W> The boss of the Family has
 modelled his appearance on mine.
 !******************************!
+<HDR:83778343835B838B>
 <T><A2/5>The boss of the Family decided
 to model himself on you?
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>Precisely.
 !******************************!
+<HDR:83778343835B838B>
 <T>If the b-<W30>b-<W30>baddest b-<W30>b-<W30>baddie
 around looks up to you, what does
 that say about you?
 !******************************!
+<HDR:83778343835B838B>
 <T><A4/5>Somebody help!<A6/0> Heeeeeelp!
 !******************************!
+<HDR:838C834383678393>
 <T>There's just no reasoning with
 that fellow.
 !******************************!
+<HDR:838B815B834E>
 <T>I'm starting to think he actually
 enjoys being in a state of constant
 terror.
 !******************************!
+<HDR:838B815B834E>
 <T><K>Hmm?<W></K> What are you still doing
 here? I thought you'd run away.
 !******************************!
+<HDR:83778343835B838B>
 <T>What's it to you?<W> I can come and
 go as I please, shorty.
 !******************************!
+<HDR:838C834383678393>
 <T>What's all this now?
 !******************************!
+<HDR:83778343835B838B>
 <T><A5/1>Augh!<W> I, d-<W30>d-<W30>didn't realise...<W> I mean,
 I didn't think... I-<W> Forgive meeee!
 !******************************!
+<HDR:838C834383678393>
 <T>Strangely enough, I'm starting to
 get used to people fleeing from me
 in a state of panic.

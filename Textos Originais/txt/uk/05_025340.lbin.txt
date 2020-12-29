@@ -1,91 +1,120 @@
+<HDR:8366838B838283698A7792B7>
 <T>Hershel, my boy! I've been looking
 for you!
 !******************************!
+<HDR:838C834383678393>
 <T>Hello there, Dean Delmona. Didn't
 you receive my holiday request?
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Oh, that? Yes, yes, everything's in
 order there. It's something else
 that I need your help with.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Well, in that case, please tell me how
 I can be of assistance.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Come a bit closer, my boy. What I'm
 about to ask you... Well, I wouldn't
 like anyone else to hear it.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>The thing is, I have this puzzle that
 I simply can't work out on my own.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>My darling granddaughter brought
 it to me, but I can't for the life
 of me solve the blasted thing.
 !******************************!
+<HDR:838C834383678393>
 <T>I can see how that could be rather
 vexing.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T><A2/4>{''}Vexing{''} would be putting it politely.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>It's hard to feel like the king of
 your castle when you can't even
 solve your grandchildren's puzzles.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>This is a rather serious issue for
 me, Hershel.
 !******************************!
+<HDR:838C834383678393>
 <T>It certainly sounds like it.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T><A1/1>Yes.<W> So I take it I can count on
 you to help me work this one out?
 !******************************!
+<HDR:838C834383678393>
 <T>But of course!
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Please don't give up, Hershel. My
 granddaughter will lose all respect
 for me if I can't solve this thing.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Have you worked out how to solve
 that puzzle?
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Oho! That's it!<W> My granddaughter's
 going to be over the moon when she
 hears how clever her grandad is!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>I'm glad I could help.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Likewise.<W> By the way, Hershel, I do
 have one more small favour to ask
 of you.
 !******************************!
+<HDR:838C834383678393>
 <T>Certainly.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Let's keep the fact that you helped
 me with this puzzle between you, me
 and the wall, shall we, my boy?
 !******************************!
+<HDR:838C834383678393>
 <T>Of course. You may count on me.
 After all, you've a reputation to
 maintain with your granddaughter.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Hoo hoo!<W> Perceptive as always.<W>
 And what about you there, young 
 man? Can you keep a secret?
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Of course! My lips are sealed, sir.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>Splendid! For that you have my
 thanks.
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>One last thing, Hershel. There's
 a young lady in your office.<W>
 She said she's waiting for you.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>I see...
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>Professor, he must be talking
 about Flora!
 !******************************!
+<HDR:8366838B838283698A7792B7>
 <T>There's a young lady waiting for
 you in your office, Hershel.
 !******************************!

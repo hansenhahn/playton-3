@@ -1,43 +1,55 @@
+<HDR:838B815B834E>
 <T>So where are we headed to now
 then, um,<W> Mr Triton?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/5>Luke, please call me anything but
 Mr Triton. It's really strange
 being called that by myself.
 !******************************!
+<HDR:838B815B834E>
 <T>It's pretty awkward for me too,
 but what else am I supposed to call
 you?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>I don't see why you can't both be
 called Luke.
 !******************************!
+<HDR:838C834383678393>
 <T>Should the need to distinguish
 between you arise, you can be {''}Big
 Luke{''}, and you can be {''}Little Luke{''}.
 !******************************!
+<HDR:838B815B834E>
 <T>I'm not too keen on {''}Little Luke{''},
 but it's better than all this
 confusion.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/2>You're the boss, Professor.<W>
 It's a pleasure to make your
 acquaintance, Little Luke!
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Oh no, the pleasure is all mine,
 Big Luke!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/1>Heh heh. Now, where were we?<W>
 Ah yes. There was something I
 needed to check up on.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Professor, did you pass a
 restaurant in the shopping
 arcade on the way to the casino?
 !******************************!
+<HDR:838C834383678393>
 <T>The one near the arcade's southern
 exit?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>That's the one. We'll head there
 first. A friend of mine is waiting
 for us.

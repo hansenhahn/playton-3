@@ -1,7 +1,10 @@
+<HDR:838B815B834E>
 <T>Look, there's the restaurant!
 !******************************!
+<HDR:838C834383678393>
 <T>Is this the place you had in mind,
 Big Luke?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Yes, this is the one. Let's head in.
 !******************************!

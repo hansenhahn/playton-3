@@ -1,121 +1,160 @@
+<HDR:838B815B834E>
 <T><A1/5>This place is a mess! That droopy
 flower has even got some kind of
 insect buzzing around it!
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Hold it right there, sonny boy!
 I wouldn't go bad-mouthing that
 blossom if I were you.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/3>Augh! There's someone lurking in
 the shadows!
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Ehee hee, oh yes. Wherever there
 are lost puzzles, there am I.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Oh, it's you!
 !******************************!
+<HDR:8369835D815B836F>
 <T>Have we met before?
 !******************************!
+<HDR:8369835D815B836F>
 <T>No? Well then, allow me to introduce
 myself!
 !******************************!
+<HDR:8369835D815B836F>
 <T>Before you stands the beautiful and
 clairvoyant Granny Riddleton.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>B-beautiful?<W> Hmm, well you do
 look pretty good for your age, I
 suppose.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Watch your words, Luke! We don't
 want to offend the lady, do we?
 !******************************!
+<HDR:8369835D815B836F>
 <T><A1/5>Have you ever noticed how many
 mysteries there are in the world?<W>
 How many puzzles?
 !******************************!
+<HDR:8369835D815B836F>
 <T>Puzzles that tease your brain?
 Puzzles that bend your mind?
 !******************************!
+<HDR:8369835D815B836F>
 <T>Puzzles that are just plain
 infuriating?
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Certainly.
 !******************************!
+<HDR:8369835D815B836F>
 <T>And what about the puzzles that you
 miss or leave unsolved? They've got
 to go somewhere, haven't they?
 !******************************!
+<HDR:8369835D815B836F>
 <T>Where do they go, you ask?<W> Well,
 they come and stay with me!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>That's very good to know.
 !******************************!
+<HDR:8369835D815B836F>
 <T><A1/1>Or I suppose I should say they used
 to come and stay with me. Things
 are about to change.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Are they?
 !******************************!
+<HDR:8369835D815B836F>
 <T>You might not be able to tell from
 my looks, but I'm no spring chicken.<W>
 Truth be told, I'm getting tired.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Oh?
 !******************************!
+<HDR:8369835D815B836F>
 <T>I think it's time for me to retire
 from this puzzle-minding business.
 I've earned it.
 !******************************!
+<HDR:838B815B834E>
 <T>But...
 !******************************!
+<HDR:838B815B834E>
 <T><A1/3>You can't retire! You mustn't!
 Without you, what will happen to
 all the puzzles we leave behind?
 !******************************!
+<HDR:8369835D815B836F>
 <T>Are you saying that without me, you
 two would find yourselves in a
 pickle?
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>A huge pickle!
 !******************************!
+<HDR:8369835D815B836F>
 <T>How about the debonair gentleman
 in the top hat? What do you think?
 !******************************!
+<HDR:838C834383678393>
 <T>I concur with my friend here.
 !******************************!
+<HDR:8369835D815B836F>
 <T>Ehee hee.<W> Yep, I thought you might
 say that.
 !******************************!
+<HDR:8369835D815B836F>
 <T>But don't fret. I'll make sure you're
 taken care of.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>How?
 !******************************!
+<HDR:8369835D815B836F>
 <T><A1/6>Ehee hee!<W><A1/1> You'll just have to wait
 and see for yourselves, laddies.
 !******************************!
+<HDR:8369835D815B836F>
 <T>Come back here when you've lost a
 few puzzles. It should all become
 clear then.
 !******************************!
+<HDR:8369835D815B836F>
 <T>Now, I know we just met, but you'll
 have to excuse me. I'm going off on
 a well-deserved holiday.
 !******************************!
+<HDR:8369835D815B836F>
 <T>I may never see you again, so
 ta-ta, and have a positively
 puzzly day!
 !******************************!
+<HDR:838B815B834E>
 <T>A...puzzly day?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>What a strange conversation that
 was. Let's be sure to come back
 here later.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Definitely.<W> Though that thing
 that's flying around is giving me the
 heebie-jeebies.
 !******************************!
+<HDR:838B815B834E>
 <T>I wonder where Granny Riddleton is
 going on holiday?
 !******************************!

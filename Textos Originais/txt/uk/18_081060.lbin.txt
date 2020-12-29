@@ -1,12 +1,16 @@
+<HDR:838C834383678393>
 <T>What a lovely surprise! We've found
 a hidden puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Sometimes one just needs to step
 away from a problem and let the
 solution present itself.
 !******************************!
+<HDR:838C834383678393>
 <T>Oh, here's that hidden puzzle from
 earlier. I'd best hop to it.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Done and dusted.
 !******************************!

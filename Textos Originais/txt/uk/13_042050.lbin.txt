@@ -1,9 +1,12 @@
+<HDR:838C834383678393>
 <T>I think this is the room we're
 looking for.
 !******************************!
+<HDR:838B815B834E>
 <T>Flora must be on the other side of
 this big door.
 !******************************!
+<HDR:838C834383678393>
 <T>Yes. We can only hope that she's
 unharmed.<W> Let's go in.
 !******************************!

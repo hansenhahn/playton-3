@@ -1,63 +1,83 @@
+<HDR:8341838D837D>
 <T>Professor! Luke! Welcome back!
 I'm so glad you're both safe.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>Good to see you too, Flora.
 I trust you didn't have too much
 trouble getting out of the pagoda?
 !******************************!
+<HDR:8341838D837D>
 <T>Oh no, Big Luke was kind enough to
 lead the way for me.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Speaking of Big Luke, where is he?
 !******************************!
+<HDR:8341838D837D>
 <T>Oh. Well, when we got back here, a
 man with a moustache was waiting
 in the lobby.
 !******************************!
+<HDR:838B815B834E>
 <T>A man with a moustache? Was he
 dressed in black?
 !******************************!
+<HDR:8341838D837D>
 <T>Yes, that's right. He had a black
 uniform.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>That sounds like Shipley to me.
 !******************************!
+<HDR:8341838D837D>
 <T>Whoever he was, he walked straight
 up to Luke and started talking all
 fast and furious.
 !******************************!
+<HDR:8341838D837D>
 <T>At some point in the conversation,
 Luke started looking worried and
 said...
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/5>Flora, some very important 
 business has come up and I need
 to take care of it immediately.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Please tell the professor to
 continue his investigation without
 me for now.
 !******************************!
+<HDR:838B815B834E>
 <T>Did he tell you where he was going?
 !******************************!
+<HDR:8341838D837D>
 <T>No, but he did promise he would join
 us again later.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/5>Big Luke is even more perceptive
 than I thought. He seems to know
 exactly what our next move will be.
 !******************************!
+<HDR:838B815B834E>
 <T>Professor, is something the
 matter?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>I'm just thinking back to what
 happened earlier...
 !******************************!
+<HDR:838C834383678393>
 <T>Do you remember who first told us
 that we had travelled into the
 future?
 !******************************!
+<HDR:838B815B834E>
 <T>Well...that'd be Big Luke, I believe.
 !******************************!
+<HDR:838C834383678393>
 <T>Yes... Yes, that's right.
 !******************************!

@@ -1,14 +1,19 @@
+<HDR:838C834383678393>
 <T>Let's see how you handle this puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T>Hmm, this one isn't going down
 without a fight, is it?
 !******************************!
+<HDR:838C834383678393>
 <T>That's the spirit! Now let's return
 to the puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Very nicely done. I don't think I
 could have done any better myself.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Back with this puzzle again? Well,
 just think of it as reuniting with
 an old friend.

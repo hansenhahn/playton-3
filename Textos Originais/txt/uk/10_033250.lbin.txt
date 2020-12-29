@@ -1,81 +1,106 @@
+<HDR:838C834383678393>
 <T>Hello Grafton.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Oho,<A2/1> that's the first time
 someone's called me by me real name
 in ages. Where'd you hear it?
 !******************************!
+<HDR:838C834383678393>
 <T>The proprietress of the hotel
 informed us of your name.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Ah, dear old Maggie. She can be
 quite fearsome, but underneath it
 all, she's a good egg.
 !******************************!
+<HDR:835A834B815B838B>
 <T><A2/2>Anyway, what can I do for ya?
 !******************************!
+<HDR:838C834383678393>
 <T>We're trying to find a way across
 the river. We were told you might
 be able to help us.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Have ya tried jumpin'?
 !******************************!
+<HDR:838C834383678393>
 <T>I must admit that's an option we've
 never considered...
 !******************************!
+<HDR:835A834B815B838B>
 <T><A1/1>Heh, I'm just pullin' yer leg.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Well, there's a couple of boats
 that leave from outside the
 Thames Arms...
 !******************************!
+<HDR:835A834B815B838B>
 <T>Those are just for those Family
 thugs to use, mind.
 !******************************!
+<HDR:838C834383678393>
 <T>I was told you knew of another way
 across.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Ah, so Maggie laid it all out for
 ya, did she?
 !******************************!
+<HDR:838C834383678393>
 <T>More or less.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Hmph. All right then. But things
 are pretty rough across the river.
 !******************************!
+<HDR:835A834B815B838B>
 <T>If yer set on headin' there, I need
 to at least make sure ye've got
 the brains to get across.
 !******************************!
+<HDR:835A834B815B838B>
 <T>If ya can't even solve that little
 puzzle, ye'll never make it across
 the river!
 !******************************!
+<HDR:835A834B815B838B>
 <T>I see ye've got the guts to give
 me puzzle another try. But have
 ya got the brains to solve it?
 !******************************!
+<HDR:835A834B815B838B>
 <T>Hmph. Right, I see ye've got enough
 brains to look after yerself out
 there, so listen up.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Down by the riverside, there's a
 door that leads to a tunnel under
 the river.
 !******************************!
+<HDR:835A834B815B838B>
 <T>That door's locked tighter than
 a bank safe. But here's the thing.
 There's a way to open it.
 !******************************!
+<HDR:838C834383678393>
 <T>Go on.
 !******************************!
+<HDR:835A834B815B838B>
 <T><A2/1>Course, it's not a button or
 anythin' that straightforward.
 It's a fancy coded lock.
 !******************************!
+<HDR:835A834B815B838B>
 <T>But since ya just solved me puzzle,
 I reckon ya might have what it
 takes to break the code.
 !******************************!
+<HDR:835A834B815B838B>
 <T>I don't think anyone's used the
 tunnel for yonks, but I'm sure ye'll
 be able to break into it.

@@ -1,61 +1,79 @@
+<HDR:838B815B834E>
 <T>Do you know this statue, Luke?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/1>Hmm? Oh, the one with the man that
 looks like the professor?<W>
 Of course I do.
 !******************************!
+<HDR:838B815B834E>
 <T>Seeing it just now got me thinking
 about, you know, the future.
 !******************************!
+<HDR:838B815B834E>
 <T>One thing in particular occurred to
 me: you know how everything is
 going to turn out.
 !******************************!
+<HDR:838B815B834E>
 <T>I mean, you're me, so you already
 went through this scenario 10 years
 ago, didn't you?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/2>Well, in a way, yes. But I can't tell
 you what's going to happen.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/5>You having that knowledge could
 alter the course of history, you
 see.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Some of the things that are
 supposed to happen might not
 happen at all.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Time travel has changed the way
 events unfold here, and look at
 the mess it's made.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>We wouldn't want to add to that
 chaos, would we?
 !******************************!
+<HDR:838B815B834E>
 <T>I never really thought about
 it that way...
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>What's more, knowing about your
 future self could actually change
 who you become.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A4/4>And just to complicate things
 further, it's probably worth noting
 that technically you aren't me.
 !******************************!
+<HDR:838B815B834E>
 <T>I'm not?<W> Then who am I?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/4>That's a tough question. The fact
 that we've met has changed things
 for both of us.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/5>Only the past is certain.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Therefore, I was you in the past,
 but you may not be me in the future.
 Do you see?
 !******************************!
+<HDR:838B815B834E>
 <T>I think I do.<W> But time travel really
 is complicated!
 !******************************!

@@ -1,13 +1,17 @@
+<HDR:838B815B834E>
 <T>Hey, look! There's a guard. He
 looks just like those Family
 gangsters we saw before!
 !******************************!
+<HDR:838C834383678393>
 <T>Indeed, it's remarkable just how 
 anonymous they seem to be.
 !******************************!
+<HDR:838B815B834E>
 <T>Say, Professor, isn't that the
 sign for the train station?
 !******************************!
+<HDR:838C834383678393>
 <T>Indeed it is. It took longer than
 expected, but we've finally arrived
 at the station.

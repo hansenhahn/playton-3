@@ -1,38 +1,47 @@
+<HDR:>
 Your Nintendo Wi-Fi Connection
 User Information may have been
 erased. Check your connection
 settings with the Nintendo Wi-Fi
 Connection setup.
 !******************************!
+<HDR:>
 Connect to Nintendo Wi-Fi
 Connection?
 !******************************!
+<HDR:>
 Connecting to Nintendo
 Wi-Fi Connection...
 Please wait a moment...
 !******************************!
+<HDR:>
 Disconnecting from Nintendo Wi-Fi
 Connection.
 !******************************!
+<HDR:>
 You have been disconnected from 
 Nintendo Wi-Fi Connection.
 !******************************!
+<HDR:>
 Unable to connect to Nintendo Wi-Fi
 Connection. For help, check the
 software Instruction Booklet, or
 visit support.nintendo.com.
 !******************************!
+<HDR:>
 Either Nintendo Wi-Fi Connection
 is experiencing high traffic volumes
 or the service is down.
 Please try again later. For help,
 visit support.nintendo.com.
 !******************************!
+<HDR:>
 This Nintendo Wi-Fi Connection ID
 was removed because it was inactive
 for a long time. For help, visit
 support.nintendo.com.
 !******************************!
+<HDR:>
 Nintendo Wi-Fi Connection service
 for this software has been
 discontinued. Visit
@@ -40,71 +49,87 @@ support.nintendo.com for a list of
 current Nintendo Wi-Fi
 Connection-compatible software.
 !******************************!
+<HDR:>
 The access point is busy. Unable to
 connect. Please try again later.
 For help, visit
 support.nintendo.com.
 !******************************!
+<HDR:>
 No access point in range.
 Please try again when closer
 to an access point. For help,
 visit support.nintendo.com.
 !******************************!
+<HDR:>
 No compatible access point in
 range. Check your connection
 settings and try again. For help,
 visit support.nintendo.com.
 !******************************!
+<HDR:>
 Unable to connect to the Nintendo
 Wi-Fi Connector. Confirm
 connection settings in the Nintendo
 Wi-Fi Connection setup. For help,
 visit support.nintendo.com.
 !******************************!
+<HDR:>
 Unable to connect to Nintendo Wi-Fi
 Connection. Check your connection
 settings and try again. For help,
 visit support.nintendo.com.
 !******************************!
+<HDR:>
 You have been disconnected from 
 Nintendo Wi-Fi Connection because
 of a communication error.
 !******************************!
+<HDR:>
 Communication error. For help,
 visit support.nintendo.com.
 !******************************!
+<HDR:>
 Download failed. For help, visit
 support.nintendo.com.
 !******************************!
+<HDR:>
 Nintendo Wi-Fi Connection cannot be
 used because an error has
 occurred. Turn off the power and
 try again.
 !******************************!
+<HDR:>
 Error Code: %d
 !******************************!
+<HDR:>
 Downloading...
 Please wait a moment.
 !******************************!
+<HDR:>
 Download complete.
 
 Your Weekly Puzzle list has
 been updated.
 !******************************!
+<HDR:>
 Download complete.
 
 Your Weekly Puzzle list
 is already up to date.
 !******************************!
+<HDR:>
 Download complete.
 
 Number of new puzzles
 downloaded: %d
 !******************************!
+<HDR:>
 Saving downloaded data.
 
 Do not turn off your DS system.
 !******************************!
+<HDR:>
 The Weekly Puzzle download
 service has not started yet.
 

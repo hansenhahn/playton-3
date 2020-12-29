@@ -1,32 +1,42 @@
+<HDR:838B815B834E>
 <T>I suppose it would be too much to
 expect the door to be open...
 !******************************!
+<HDR:838C834383678393>
 <T>Let's see. The eyes of this dragon
 seem to be the key that unlocks
 this door.
 !******************************!
+<HDR:838B815B834E>
 <T><A2/2>Sounds like a puzzle! Let me handle
 it, Professor. I'll have the door
 open before you know it!
 !******************************!
+<HDR:838B815B834E>
 <T>I think I need another minute to
 think about this...
 !******************************!
+<HDR:838C834383678393>
 <T>Would you like me to have a go
 at it, Luke?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>That won't be necessary,
 Professor. I'm sure I can solve
 this one!
 !******************************!
+<HDR:838C834383678393>
 <T>I'm confident the door will open
 just as soon as we solve this
 puzzle.
 !******************************!
+<HDR:838B815B834E>
 <T>All set!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>Smashing work, Luke.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>There's no time to celebrate. Let's
 head inside.
 !******************************!

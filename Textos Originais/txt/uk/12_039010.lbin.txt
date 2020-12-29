@@ -1,105 +1,135 @@
+<HDR:838C834383678393>
 <V0010><T>Clive, you lived next door to the
 lab that exploded 10 years ago.
 You were just a child then.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0020><T>That blast demolished half of the
 building you lived in.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0030><T>Reports indicate that 10 people
 were killed in the explosion, two of
 whom were your parents.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0040><T>It must have been a terrible shock.<W>
 In the span of a few seconds, you
 lost your family and your home.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0050><T>When the initial shock wore off, it
 was replaced with anger.</V>
 !******************************!
+<HDR:838C834383678393>
 <T><V0051>You became obsessed with exacting
 revenge on those who had wronged
 you.</V>
 !******************************!
+<HDR:834E838983458358816996588E7182A082E8816A>
 <V0060><T><K><A4/1>...</V>
 !******************************!
+<HDR:838C834383678393>
 <V0070><T><A3/1>You were lucky enough to be adopted
 by a kindly woman in her golden
 years, Constance Dove.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0080><T>Miss Dove's extreme kindness was
 matched in scale only by the
 enormous fortune she possessed.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0090><T><A1/1>You two lived quite happily as a
 family for a time.<W> Sadly, it wasn't
 to last.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0100><T>Miss Dove departed from this world
 five short years later, leaving
 her fortune to you.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0110><T>Before long, you graduated from
 secondary school and took a part-
 time job at a prominent newspaper.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0120><T>Considering your sizeable
 inheritance, I don't think you
 took the job for pocket money.</V>
 !******************************!
+<HDR:838C834383678393>
 <T><V0121>You were searching for something.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0130><T>Using the newspaper's resources,
 you finally hunted down the men
 responsible for your misery.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0140><T>You knew that both Bill Hawks and
 Dimitri Allen were responsible for
 the explosion.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0150><T>Armed with this information, you
 concocted a plan to avenge your
 parents.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0160><T><A2/1>First, you befriended Dimitri and
 convinced him to resume his
 research on the time machine.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0170><T>Then you used your inheritance to
 set up this elaborate facsimile
 of London.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0180><T>With your stage in place, you used
 your contacts in the press to find
 the best scientists in the country.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0190><T>After all, you would need quite a
 bit of help to complete this time
 machine.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0200><T>You then proceeded to lure these
 brilliant men into your trap.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0210><T>However, unbeknownst to Dimitri,
 most of your staff were not
 working on the time machine.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0220><T>Wh-what?</V>
 !******************************!
+<HDR:834E838983458358816996588E7182A082E8816A>
 <V0230><T><K>...</V>
 !******************************!
+<HDR:838C834383678393>
 <V0240><T>Clive had secretly reassigned
 many of the scientists to a
 different project.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0250><T>You might think of it as his pet
 project.</V>
 !******************************!
+<HDR:83608346838B837E815B>
 <V0260><T>We don't have all day, Layton!
 What was the second project?</V>
 !******************************!
+<HDR:838C834383678393>
 <V0270><T>A weapon designed to cause
 destruction on an unimaginable
 scale.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0280><T>A weapon?! Is this true, Clive?</V>
 !******************************!

@@ -1,52 +1,78 @@
+<HDR:>
 Professor Layton's Theme
 !******************************!
+<HDR:>
 The Lost Future Theme
 !******************************!
+<HDR:>
 Puzzles Reinvented
 !******************************!
+<HDR:>
 London Streets
 !******************************!
+<HDR:>
 Searching for Clues
 !******************************!
+<HDR:>
 Tension
 !******************************!
+<HDR:>
 London Streets Remapped
 !******************************!
+<HDR:>
 A Spot of Peace
 !******************************!
+<HDR:>
 Puzzles
 !******************************!
+<HDR:>
 The Gilded 7 Casino
 !******************************!
+<HDR:>
 Sorrow
 !******************************!
+<HDR:>
 Suspicion
 !******************************!
+<HDR:>
 Chinatown
 !******************************!
+<HDR:>
 Puzzle Battle
 !******************************!
+<HDR:>
 Memories
 !******************************!
+<HDR:>
 The Towering Pagoda
 !******************************!
+<HDR:>
 The Professor's Deductions
 !******************************!
+<HDR:>
 Don Paolo's Theme
 !******************************!
+<HDR:>
 Crisis
 !******************************!
+<HDR:>
 The Science Labs
 !******************************!
+<HDR:>
 Puzzles Reinvented (Remix)
 !******************************!
+<HDR:>
 The Monstrous Fortress
 !******************************!
+<HDR:>
 The Picture Book
 !******************************!
+<HDR:>
 The Miniature Car
 !******************************!
+<HDR:>
 The Parrot
 !******************************!
+<HDR:>
 A Journey Through Time
 !******************************!

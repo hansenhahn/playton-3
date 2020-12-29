@@ -1,35 +1,47 @@
+<HDR:838C834383678393>
 <V0010><T>No, there's no mistake here. And
 there's no hiding it any more, Luke.<W><W>
 Or should I call you Clive?</V>
 !******************************!
+<HDR:834E838983458358816996588E7182A082E8816A>
 <V0020><T>Huh?!</V>
 !******************************!
+<HDR:838C834383678393>
 <V0030><T>It took some time to put together
 the pieces of your plan.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0040><T>But when I finally understood it all,
 the sheer evil of it sent a chill
 down my spine.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0050><T>Wh-what is he talking about, Clive?</V>
 !******************************!
+<HDR:834E838983458358816996588E7182A082E8816A>
 <V0060><T><A1/4><K>...</V>
 !******************************!
+<HDR:838C834383678393>
 <V0070><T>You kept your true intentions
 hidden from everyone, Clive. Even
 your partner, Dimitri.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0080><T>What are you saying, Hershel?</V>
 !******************************!
+<HDR:834E838983458358816996588E7182A082E8816A>
 <V0090><T><A1/1>Ahh...</V>
 !******************************!
+<HDR:838C834383678393>
 <V0100><T>Clive was aiming for revenge on a
 massive scale and you were nothing
 more than a pawn, Dimitri.</V>
 !******************************!
+<HDR:834E838983458358816996588E7182A082E8816A>
 <V0110><T><A2/6>Tremendous work, Professor!
 You've found me out.</V>
 !******************************!
+<HDR:83608346838B837E815B>
 <V0120><T>Stop speaking in riddles, Layton!
 What's this all about?</V>
 !******************************!

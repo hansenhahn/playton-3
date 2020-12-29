@@ -1,79 +1,104 @@
+<HDR:834583628359>
 <T><A3/1><K>...<W></K>Here, you two saw that
 ne'er-do-well skulking around,
 didn't you?
 !******************************!
+<HDR:838C834383678393>
 <T>Yes we did. Why do you ask?
 !******************************!
+<HDR:834583628359>
 <T>I thought I should give you a word
 of advice. That whole gang is bad
 news.
 !******************************!
+<HDR:834583628359>
 <T>They call themselves {''}the Family{''},
 and they monitor everything people
 get up to around these parts.
 !******************************!
+<HDR:838C834383678393>
 <T>Who are you talking about exactly?
 !******************************!
+<HDR:834583628359>
 <T>I'm sure you've seen them, all
 dressed the same, in their long
 grey coats and matching hats.
 !******************************!
+<HDR:834583628359>
 <T>Oh, and don't even try to be a
 hero. Bravery will only get you
 in the worst kind of trouble.
 !******************************!
+<HDR:838B815B834E>
 <T>But why don't the police do
 something about them?
 !******************************!
+<HDR:834583628359>
 <T>Police?<W> Now there's a word I
 haven't heard in a while...
 !******************************!
+<HDR:834583628359>
 <T>I haven't seen police on these
 streets for years. It's the Family
 who make the law nowadays.
 !******************************!
+<HDR:838C834383678393>
 <T>How terrible.
 !******************************!
+<HDR:834583628359>
 <T>You're telling me. I- Oops, here
 comes one of their boys now.<A4/1> Try
 not to stare.
 !******************************!
+<HDR:838C834383678393>
 <T>Would you mind if I had a look at
 that paper you're holding, sir?
 !******************************!
+<HDR:834583628359>
 <T><A3/1>Go for it. Knock yourself out.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>N-no! That can't be...
 !******************************!
+<HDR:838B815B834E>
 <T>Professor, look at the date on
 this paper!
 !******************************!
+<HDR:834583628359>
 <T><A1/1>Keep your hair on, fellas. It's just
 a newspaper.
 !******************************!
+<HDR:834583628359>
 <T>Right, I've got to go. Places to be
 and all that. Can I have my paper
 back?
 !******************************!
+<HDR:838B815B834E>
 <T>Oh yes, of course. Thank you.
 !******************************!
+<HDR:838B815B834E>
 <T>I didn't misread the date on that
 paper, did I, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T>I don't think so, Luke. It was dated
 10 years in the future.<W> It's as if
 we've travelled through time...
 !******************************!
+<HDR:838B815B834E>
 <T>So maybe the reason why nothing
 looks familiar is that we're in the
 London of the future.
 !******************************!
+<HDR:838C834383678393>
 <T>It would appear so...
 !******************************!
+<HDR:838C834383678393>
 <T>Whoever wrote us that last letter
 assured us that we'd find proof of
 our time travel at Green Hospital.
 !******************************!
+<HDR:838C834383678393>
 <T>Let's make our way over there
 without further delay.
 !******************************!

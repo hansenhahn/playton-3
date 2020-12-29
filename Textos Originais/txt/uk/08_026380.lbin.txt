@@ -1,40 +1,52 @@
+<HDR:838C834383678393>
 <T>Hello there.
 !******************************!
+<HDR:834E838C8343834F>
 <T>Oh, hullo th-<W> <A1/3>Ach no,
 it isnae you again!
 !******************************!
+<HDR:838B815B834E>
 <T>He's not who you think he is! This is
 all just a big misunderstanding!
 !******************************!
+<HDR:834E838C8343834F>
 <T>Oh aye? Well jist who is he then?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/3>You think that he's the head of the
 Family, but he's not!<W> Honest, he's
 not!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>I mean, just look at those eyes.
 You can see for yourself they
 aren't the eyes of a criminal!
 !******************************!
+<HDR:834E838C8343834F>
 <T><A1/1>Ye think? They're such
 beady-looking wee things, Ah
 cannae tell...
 !******************************!
+<HDR:834E838C8343834F>
 <T>Well, but now Ah've made myself
 cross-eyed looking at them, they
 do seem trustworthy, Ah suppose.
 !******************************!
+<HDR:8341838D837D>
 <T>You know, now that I look more
 closely, your eyes are pretty
 beady too!
 !******************************!
+<HDR:838C834383678393>
 <T>Yes, well that's enough on that
 subject.<W> Tell me, sir, what are you
 doing out here?
 !******************************!
+<HDR:834E838C8343834F>
 <T><A1/4>Ah was meant tae meet a friend,
 but he's awful late...
 !******************************!
+<HDR:834E838C8343834F>
 <T>Ach, Ah feel like Ah've been
 standing here half ma life. Ah
 wonder whit's happened tae him...

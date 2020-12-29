@@ -1,8 +1,11 @@
+<HDR:838B815B834E>
 <T>Hey there, Max. Up to anything
 interesting?
 !******************************!
+<HDR:837D8362834E8358>
 <T>BZZT!<W> I'm not up to anything at all.
 !******************************!
+<HDR:838B815B834E>
 <T>Ah, gotcha. You're bored, in other
 words.
 !******************************!

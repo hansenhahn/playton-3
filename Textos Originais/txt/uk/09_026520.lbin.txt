@@ -1,37 +1,50 @@
+<HDR:837C838B8365>
 <T>Welcome to Pepper's Noodle Palace!
 !******************************!
+<HDR:838B815B834E>
 <T>Hello there, Pepper!
 !******************************!
+<HDR:837C838B8365>
 <T>And a big {''}hello there{''} to you too,
 gents. Thanks for stopping by
 again.<W> Hungry already, are you?
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>I'm still quite full, actually.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>We do know one police officer who'd
 never turn down a bowl of noodles,
 mind...
 !******************************!
+<HDR:837C838B8365>
 <T><A2/1>Hungry customers are my favourite
 customers! I think I'll treat him to
 a bowl on the house.
 !******************************!
+<HDR:837C838B8365>
 <T>It's not just the noodles that are
 good here, you know - the noodle
 puzzles aren't bad either. Here!
 !******************************!
+<HDR:837C838B8365>
 <T>Aww. Not to your taste?
 !******************************!
+<HDR:837C838B8365>
 <T>Hungry for a noodle puzzle?<W> Then
 dig your chopsticks into this!
 !******************************!
+<HDR:837C838B8365>
 <T>Nice work there! 
 !******************************!
+<HDR:837C838B8365>
 <T>Hello there! What can I get you?
 !******************************!
+<HDR:838C834383678393>
 <T>Nothing for now, thank you, but
 we're looking forward to coming
 by for another meal later.
 !******************************!
+<HDR:837C838B8365>
 <T>Oh, okay then. See you soon!
 !******************************!

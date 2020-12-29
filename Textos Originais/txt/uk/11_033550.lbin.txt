@@ -1,55 +1,71 @@
+<HDR:8354838A83418358>
 <V0010><T>The answer to everything lies in
 the old father's embrace! It is
 there we will meet next!</V>
 !******************************!
+<HDR:838C834383678393>
 <V0020><T>Celeste was clearly trying to give
 us a hint as to our next rendezvous
 point.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0030><T>Oh, of course. She used a code to
 hide our meeting place from the
 Family.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0040><T><A4/1>But what could that code possibly
 mean?</V>
 !******************************!
+<HDR:838C834383678393>
 <V0050><T><A2/2>Think of it as a puzzle, Luke.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0060><T>Though I suspect the answer to this
 puzzle will be much more than
 our next meeting place.</V>
 !******************************!
+<HDR:838C834383678393>
 <T><V0061>I'd wager that it's also the
 Family's secret headquarters and
 where Dimitri's been hiding.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0070><T><A1/6>If that's the case, it's even more
 important that we find out where
 this place is!</V>
 !******************************!
+<HDR:838C834383678393>
 <V0080><T><A1/1>Luke, do you remember seeing a flyer
 for a restaurant named {''}The
 Thames Arms{''} on the way here?</V>
 !******************************!
+<HDR:838C834383678393>
 <V0085><T>That's where Celeste will be waiting
 for us.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0090><T><A1/1>At the Thames Arms? But how
 did you work that out?</V>
 !******************************!
+<HDR:838C834383678393>
 <V0100><T><A1/2>Well, Luke, have you ever heard
 of Old Father Thames?</V>
 !******************************!
+<HDR:838C834383678393>
 <V0110><T>Rivers are often personified in
 folklore and literature, and
 the River Thames is no exception.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0120><T>When Celeste said that the answer
 lies in the {''}old father's embrace{''}...</V>
 !******************************!
+<HDR:838C834383678393>
 <T><V0121>The {''}father{''} she was talking about
 was Old Father Thames.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0130><T>Oh, I get it! And an embrace happens
 in someone's arms. In this case, the
 arms of the Thames!</V>

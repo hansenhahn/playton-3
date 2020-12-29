@@ -1,16 +1,22 @@
+<HDR:838C834383678393>
 <T>Luke, do you remember the secret
 knock that Big Luke used when we
 entered the clock shop last time?
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Of course! Allow me, Professor.
 !******************************!
+<HDR:8354837D838A815B>
 <T>Come on in!
 !******************************!
+<HDR:8354837D838A815B>
 <T>Welcome back, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>Sorry to keep you waiting.<W> Where is
 Cogg, by the way?
 !******************************!
+<HDR:8354837D838A815B>
 <T>Oh, same place as always. In the
 back, tinkering with that big clock.
 <A1/5>Tee hee hoo.

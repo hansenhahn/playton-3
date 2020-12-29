@@ -1,8 +1,11 @@
+<HDR:83608346838B837E815B>
 <V0020><T>Is that the last of them, then?</V>
 !******************************!
+<HDR:836F815B83678393>
 <V0030><T><A2/1>Yes, sir! All residents of the
 underground city have been
 brought topside, sir. Yes, sir!</V>
 !******************************!
+<HDR:83608346838B837E815B>
 <V0040><T>Hurry up, Layton...</V>
 !******************************!

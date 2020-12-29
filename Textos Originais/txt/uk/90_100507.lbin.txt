@@ -1,12 +1,16 @@
+<HDR:8372837283418393>
 <T><A5/3>What? A teddy for me?<W>
 Well, if I can't have a pet, this
 little chap will keep me company!
 !******************************!
+<HDR:834983458380>
 <T>Awwwrk!
 !******************************!
+<HDR:8372837283418393>
 <T><A2/1>You're not my pet, but it's great
 to talk to you all the same,
 Mr Parrot.<W> Bye-bye for now!
 !******************************!
+<HDR:834983458380>
 <T><A4/0>Bye-bye! Bye-bye!
 !******************************!

@@ -1,21 +1,27 @@
+<HDR:838C834383678393>
 The air around here
 seems to be awfully
 stagnant.
 !******************************!
+<HDR:838B815B834E>
 It's completely
 rusted. I suppose no
 one takes care of it.
 !******************************!
+<HDR:838C834383678393>
 This is {''}Anita's Caf{'e}{''},
 according to the sign.
 !******************************!
+<HDR:8341838D837D>
 Ah! I can see the clock
 shop! Look, over
 there!
 !******************************!
+<HDR:834E838983458358>
 Shall we use that
 short cut to get to
 the Flatstone area?
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

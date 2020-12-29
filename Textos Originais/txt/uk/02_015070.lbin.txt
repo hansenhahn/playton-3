@@ -1,29 +1,38 @@
+<HDR:834E838D815B8393837D837483428341>
 <T>You've got exactly five seconds
 to stop gawpin', boy.<W> One...<W> Two...
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>I-I'm very sorry, sir!
 !******************************!
+<HDR:838C834383678393>
 <T>I gather that didn't go very well,
 Luke?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/3>Let's ask someone else, Professor.
 I can't even look at that man
 without him snapping at me.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>And all this time I thought you had
 a talent for communicating with
 wild animals! Ha ha!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>Don't laugh, Professor!<W> That man
 was scary!
 !******************************!
+<HDR:838C834383678393>
 <T>Now now, don't look so sour. I was
 only trying to lighten the mood a
 little.
 !******************************!
+<HDR:838C834383678393>
 <T>Why don't we find someone else to
 help us?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>I thought I told you to stop
 gawpin'?!<W> Now get outta my face!
 !******************************!

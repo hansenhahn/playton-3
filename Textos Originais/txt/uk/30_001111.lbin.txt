@@ -1,15 +1,20 @@
+<HDR:838C834383678393>
 {''}Hotel Duke{''}.
 That's the name of
 this establishment.
 !******************************!
+<HDR:838B815B834E>
 Look, a ladybird. How
 cute!
 !******************************!
+<HDR:8341838D837D>
 The sky's looking
 a little hazy.
 !******************************!
+<HDR:834E838983458358>
 Eugh, a snail. Horrible
 slimy thing...
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

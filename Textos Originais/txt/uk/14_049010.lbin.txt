@@ -1,16 +1,22 @@
+<HDR:838B815B834E>
 <T><A1/3>Now what do we do? The road's
 blocked!
 !******************************!
+<HDR:838C834383678393>
 <T>Don't panic, Luke. I'm sure you can
 find a way over this mess for us!
 !******************************!
+<HDR:838C834383678393>
 <T>You'll have to try again, Luke!
 !******************************!
+<HDR:838C834383678393>
 <T>Come on, Luke. I know you can do it
 this time!
 !******************************!
+<HDR:838B815B834E>
 <T>Yes! We did it, Professor!
 !******************************!
+<HDR:838C834383678393>
 <T>We're not out of the woods yet.
 Hold on tight, everyone!
 

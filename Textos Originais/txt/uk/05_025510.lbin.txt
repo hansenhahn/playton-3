@@ -1,7 +1,9 @@
+<HDR:8352815B834D815B>
 <T>Hello there, young man. Exploring
 the police station on your own,
 are you?
 !******************************!
+<HDR:8352815B834D815B>
 <T>Do you need to see the inspector
 again?
 !******************************!

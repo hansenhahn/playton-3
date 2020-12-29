@@ -1,58 +1,75 @@
+<HDR:836F815B8357838B>
 <T><A3/3>It's becomin' cleeear. I've just
 seen a startlin' vision of your
 fuuuture!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>Woah! You scared me! Who are you,
 anyway?
 !******************************!
+<HDR:836F815B8357838B>
 <T><A4/5>The name, boy, is Marzano. I have
 been gifted with the power of
 clairvoyance.
 !******************************!
+<HDR:836F815B8357838B>
 <T>Sadly, it is also my burden.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>You mean you can see into the
 future?
 !******************************!
+<HDR:836F815B8357838B>
 <T><A2/1>That's right. Not the whole future,
 of course, but snapshots of other
 people's futures.
 !******************************!
+<HDR:836F815B8357838B>
 <T>Here, let me show you.
 !******************************!
+<HDR:836F815B8357838B>
 <T><A4/5>It was foolish of me to think a boy
 like you could understand the
 terrible nature of my power.
 !******************************!
+<HDR:836F815B8357838B>
 <T><A1/1>Let me show you how my power
 offers me a terrifyin' glimpse
 into the fuuuture!
 !******************************!
+<HDR:836F815B8357838B>
 <T><A3/3>Wh-wha? How'd you know that?<W><A4/5>
 Blow me down! You must have
 powers an' all!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Oh no, I'm not seeing into the
 future. It's just a simple
 matter of-
 !******************************!
+<HDR:836F815B8357838B>
 <T><A4/5>And here I was, thinkin' I was the
 only one! I'm so glad there's
 someone else like me in the world.
 !******************************!
+<HDR:836F815B8357838B>
 <T>Someone else who understands this
 terrible and awe-inspirin' gift!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>I don't think he's listening to you
 any more, Luke. Let's leave him be.
 !******************************!
+<HDR:836F815B8357838B>
 <T><A2/1>No need to say a word, boy. I know
 how you feel. And not just because
 I'm clairvoyant.
 !******************************!
+<HDR:836F815B8357838B>
 <T>From now on, you and are gonna
 shoulder this burden...<W>together.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Um, I think there's been some
 misunderstanding here, sir...
 !******************************!

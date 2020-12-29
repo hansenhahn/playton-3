@@ -1,30 +1,39 @@
+<HDR:837883828389>
 <T><A2/1>Hrrrm?<W> I see you staring at me.
 What do you need, boy?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Oh, nothing, sir. I just saw you
 there and thought I'd say hello.
 !******************************!
+<HDR:837883828389>
 <T><A3/2>Hyaah haa haa!<W> You've got some
 guts, trying to say hello to me.
 It makes me laugh! Hyaah haa haa!
 !******************************!
+<HDR:837883828389>
 <T><A4/3>It's been a while since I had myself
 a chuckle like that. Let me thank
 you with a puzzle.
 !******************************!
+<HDR:837883828389>
 <T><A1/1>Hrrrm? Giving up, are we?
 !******************************!
+<HDR:837883828389>
 <T><A3/2>Back to try again? Hyaah haa haa!
 You've got gusto, boy. I like that.
 !******************************!
+<HDR:837883828389>
 <T><A1/1>Let this puzzle be a lesson to you.
 If you're careless with your things,
 you'll lose them.
 !******************************!
+<HDR:837883828389>
 <T>Here, take this. I found it over
 there. You must have left it behind
 the last time you were here.
 !******************************!
+<HDR:837883828389>
 <T><A2/1>Hrrrm. It's maddeningly quiet. I
 cannot comprehend why the boss
 would post me here.

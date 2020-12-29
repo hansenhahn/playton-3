@@ -1,15 +1,21 @@
+<HDR:>
 Save your progress?
 !******************************!
+<HDR:>
 Save your completed game?
 !******************************!
+<HDR:>
 Return to the Title Screen?
 All unsaved progress will be
 lost.
 !******************************!
+<HDR:>
 Travel back to the present?
 !******************************!
+<HDR:>
 Travel to the future?
 !******************************!
+<HDR:>
 You will not be able to save
 after this point. Are you
 ready to continue?

@@ -1,49 +1,65 @@
+<HDR:8366834283898393>
 <T>What's up, fellas?
 !******************************!
+<HDR:838B815B834E>
 <T>We went to see the man in the
 Towering Pagoda, but he was out.
 Do you know where he might be?
 !******************************!
+<HDR:8366834283898393>
 <T><A2/6>I've got a pretty good idea...
 <A2/5>But I'm not telling. He's dangerous.
 You don't wanna tangle with him.
 !******************************!
+<HDR:838C834383678393>
 <T>Come now, surely there's no harm
 in letting us know where he might
 be?
 !******************************!
+<HDR:8366834283898393>
 <T>You're wrong there, but...<A1/4>I s'pose
 I can tell you what I've heard. It's
 just a rumour, though.
 !******************************!
+<HDR:8366834283898393>
 <T>You sure you wanna know this?
 I'm telling you, this fella's bad
 news.<W> Proper bad.
 !******************************!
+<HDR:838B815B834E>
 <T>We can handle it. What have you
 heard?
 !******************************!
+<HDR:8366834283898393>
 <T>People say he disguises himself and
 goes walking around town.
 !******************************!
+<HDR:8366834283898393>
 <T>He could be standing next to us now
 and we wouldn't even know!
 !******************************!
+<HDR:8366834283898393>
 <T>Scary stuff, eh?<W> Actually, I'm
 getting spooked myself, so let's
 end this little chat, okay?<W> Laters.
 !******************************!
+<HDR:838B815B834E>
 <T>Why would the professor of the
 future want to dress up and run
 around town?
 !******************************!
+<HDR:838B815B834E>
 <T>You never do that, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>Oh? How would you know, Luke?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>Huh?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Ha ha. Just pulling your leg, my boy.
 !******************************!
+<HDR:8366834283898393>
 <T>You be careful out there, all right?
 !******************************!

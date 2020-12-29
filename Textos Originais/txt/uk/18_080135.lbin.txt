@@ -1,19 +1,25 @@
+<HDR:838B815B834E>
 <T>Look at this box of matches,
 Professor. It has the hotel's
 name on it.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>Tell me, Luke, are you in the mood
 for a simply sublime matchbox
 puzzle?
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Absolutely.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Come now, Luke, don't tell me you're
 giving up so soon?
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>Take another swing at this
 matchbox puzzle, Luke.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>You got it, my boy! I must say, I'm
 rather impressed.
 !******************************!

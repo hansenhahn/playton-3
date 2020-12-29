@@ -1,22 +1,28 @@
+<HDR:835783838362834E>
 <T>Seems you've got your time-
 travelling legs, Professor. You
 don't look shaken at all.
 !******************************!
+<HDR:838C834383678393>
 <T>I suppose I'm getting used to it,
 though I wouldn't say I find the
 process pleasurable.
 !******************************!
+<HDR:835783838362834E>
 <T>Yes, squeezing yourself through a
 vortex in time and coming out the
 other side can be draining.
 !******************************!
+<HDR:835783838362834E>
 <T>You probably want to get going, but
 do <CR>come to me if you ever need to
 return to your time</C>.
 !******************************!
+<HDR:835783838362834E>
 <T>You're a good man. We'd be glad to
 help you out any time.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Thank you, Cogg. We'll be back if we
 need anything.
 !******************************!

@@ -1,97 +1,124 @@
+<HDR:837D8382838A8358>
 <T>Well, hello. And who might you be?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>My name is Hershel Layton. I don't
 believe I've made your
 acquaintance, Mr...?
 !******************************!
+<HDR:837D8382838A8358>
 <T><A5/8>Me? I'm Beacon. <A5/7>I take care of that
 lighthouse on the river.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Then shouldn't you be in there, um,
 protecting the shore from errant
 boats?
 !******************************!
+<HDR:837D8382838A8358>
 <T><A1/1>Oh, hello little boy. You were so
 quiet, I didn't notice you down
 there!
 !******************************!
+<HDR:837D8382838A8358>
 <T>So you want to know why I'm here?<W>
 I'd be happy to tell you, but first
 I could really use some help.
 !******************************!
+<HDR:837D8382838A8358>
 <T><A4/6>There's this puzzle I just can't
 solve. It's been keeping me up all
 night, and I need my beauty sleep.
 !******************************!
+<HDR:837D8382838A8358>
 <T>Won't you help me find the answer
 to this troublesome little thing?
 !******************************!
+<HDR:837D8382838A8358>
 <T><A5/7>Giving up already?<W> Oh fiddlesticks!
 !******************************!
+<HDR:837D8382838A8358>
 <T><A2/3>I've lost so much sleep over this
 puzzle. Won't you help me solve
 the dreadful thing, please?
 !******************************!
+<HDR:837D8382838A8358>
 <T><A5/7>Goodness, you're quite the
 intellectual, aren't you?
 !******************************!
+<HDR:837D8382838A8358>
 <T>Now, what was it that you and your
 little friend wanted to talk to me
 about?
 !******************************!
+<HDR:838C834383678393>
 <T><A2/1>We were just wondering what you
 were doing here on the shore,
 instead of in the lighthouse.
 !******************************!
+<HDR:837D8382838A8358>
 <T><A4/6>Ah yes. Well, mine's a rather sad
 story, so I hope you're not criers.
 I'll try to keep it brief.
 !******************************!
+<HDR:837D8382838A8358>
 <T><A1/1>Before I came to London, I was
 the star lighthouse keeper down in
 Dover.
 !******************************!
+<HDR:837D8382838A8358>
 <T>But then my employer fitted the
 place out with a mechanical
 control system.
 !******************************!
+<HDR:837D8382838A8358>
 <T>With the machine there, I was made,
 as they say, redundant!<W> I was
 utterly crushed!
 !******************************!
+<HDR:837D8382838A8358>
 <T><A2/3>I was living my dream down there,
 only to be chased out by a machine!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>That is a terribly unfortunate turn
 of events.
 !******************************!
+<HDR:837D8382838A8358>
 <T><A3/5>Just wait, it gets worse. After
 being run out of town, I found
 work here in London.
 !******************************!
+<HDR:837D8382838A8358>
 <T>The ad said I'd be looking after the
 lighthouse, but when I peeked
 inside, I got a horrible shock!
 !******************************!
+<HDR:837D8382838A8358>
 <T>The whole thing was filled with
 awful machines buzzing, whirring
 and doing other machiney things!
 !******************************!
+<HDR:837D8382838A8358>
 <T><A1/1>This morning, I just couldn't stand
 being around all that clanking, so I
 came for a walk to clear my head.
 !******************************!
+<HDR:838B815B834E>
 <T><A2/1>Strange. Why would the owner put
 out an ad for a lighthouse keeper
 when the machines do all the work?
 !******************************!
+<HDR:838B815B834E>
 <T>There's something fishy about this,
 Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>I agree.<W> I have a feeling there's
 more going on here than you, I or
 Beacon are aware of.
 !******************************!
+<HDR:837D8382838A8358>
 <T><A3/5>I should never have come to London.
 I would've been better off staying
 on the coast.

@@ -1,56 +1,74 @@
+<HDR:83778343835B838B>
 <T><A2/5>What do you want from me?<W> Don't
 hurt me! Please, I'm b-<W30>b-<W30>begging you!
 !******************************!
+<HDR:838B815B834E>
 <T>What? Why are you scared of me?
 !******************************!
+<HDR:83778343835B838B>
 <T>You?<W> No, it's your friend there
 with the b-<W30>b-<W30>big hat!<W> <A4/5>Augh! He's
 looking right at me!
 !******************************!
+<HDR:838C834383678393>
 <T>Please calm down, sir. I mean you
 no harm. You must have me confused
 with someone else.
 !******************************!
+<HDR:838C834383678393>
 <T>The only thing I want to know is the
 location of the Gilded 7 Casino. It
 is around here, isn't it?
 !******************************!
+<HDR:83778343835B838B>
 <T>The casino?
 !******************************!
+<HDR:83778343835B838B>
 <T><A5/1>Oh, I get it!<W> You're testing me!<W>
 You want to see if Edgar's going to
 spill the b-<W30>b-<W30>beans!
 !******************************!
+<HDR:83778343835B838B>
 <T>And if I do, you're going to send me
 on a one-way trip to nowhere!
 !******************************!
+<HDR:838B815B834E>
 <T>What are you talking about?
 !******************************!
+<HDR:83778343835B838B>
 <T>Augh!<W> <A6/0>Somebody help meee!
 !******************************!
+<HDR:838B815B834E>
 <T>There he goes again...
 !******************************!
+<HDR:838C834383678393>
 <T>Poor fellow.<W> It sounds as though
 he's had a run-in with someone who
 looks like me.
 !******************************!
+<HDR:838B815B834E>
 <T>He's not the first person to react
 strangely to your hat.
 !******************************!
+<HDR:838C834383678393>
 <T>Hmm. Yes, it seems my doppelg{:a}nger
 has quite a fearsome reputation.
 !******************************!
+<HDR:838B815B834E>
 <T>Well... Maybe you should take your
 hat off for the time being. Just to
 avoid confusion, you know.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>Nonsense, Luke. A gentleman can't
 very well walk around with a bare
 head now, can he?
 !******************************!
+<HDR:838B815B834E>
 <T>Er... I suppose not.<W> Well, what's
 our next move?
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>That girl from the hotel, Becky,
 has been quite helpful. Let's try
 asking her for directions.

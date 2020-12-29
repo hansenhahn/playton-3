@@ -1,70 +1,92 @@
+<HDR:834E838C8343834F>
 <T>Oh, hullo there.
 !******************************!
+<HDR:838B815B834E>
 <T>Say, do you happen to know if this
 is the way to Chinatown?
 !******************************!
+<HDR:834E838C8343834F>
 <T>Ah reckon this path'll most likely
 take ye there, aye.
 !******************************!
+<HDR:838B815B834E>
 <T>You reckon? Haven't you taken
 this path before?
 !******************************!
+<HDR:834E838C8343834F>
 <T><A1/3>Nae chance! Ah've a feeling
 something could happen tae me
 doon that way. Something bad.
 !******************************!
+<HDR:834E838C8343834F>
 <T>Like, Ah could get intae a rammy
 with that Family lot.
 !******************************!
+<HDR:834E838C8343834F>
 <T>Ah'm better off jist staying here
 and solving puzzles.
 !******************************!
+<HDR:834E838C8343834F>
 <T>Aye, it's a tough one, eh?
 !******************************!
+<HDR:834E838C8343834F>
 <T>Ah don't think ye should be going
 doon there then.
 !******************************!
+<HDR:834E838C8343834F>
 <T>Ye'll need to prove that yer on the
 ball by solving that wee puzzle
 first.
 !******************************!
+<HDR:834E838C8343834F>
 <T>Ah've a feeling that Chinatown
 place is bad news. Much safer tae
 stay here and do a bit of puzzling.
 !******************************!
+<HDR:834E838C8343834F>
 <T>Huh, ye've solved ma puzzle. Looks
 like yer nae part of that Family lot
 then. They're not too bright, see.
 !******************************!
+<HDR:838B815B834E>
 <T>Of course not! We're no Family
 minions! I'm Luke, and this here
 is the famous Professor Layton!
 !******************************!
+<HDR:834E838C8343834F>
 <T><A2/8>Whit?!<W> L-Layton, ye say? Course
 he's not a Family minion!<W> He's the
 head honcho!
 !******************************!
+<HDR:834E838C8343834F>
 <T>Help! Somebody help me!
 !******************************!
+<HDR:838B815B834E>
 <T>Oops. I forgot how the name
 Layton scares the living daylights
 out of people in this time.
 !******************************!
+<HDR:838C834383678393>
 <T>Yes, it's unfortunate, but people
 do seem to think I'm a criminal.
 !******************************!
+<HDR:838C834383678393>
 <T>On a more interesting note, have
 a look at the ground, Luke.
 !******************************!
+<HDR:838B815B834E>
 <T>Those footprints must belong to
 the man who just ran off.
 !******************************!
+<HDR:838B815B834E>
 <T>Come to think of it, his shoes and
 trousers were soaking. But why?
 !******************************!
+<HDR:838B815B834E>
 <T>It's a bit chilly to go out for a
 swim, don't you think?
 !******************************!
+<HDR:838C834383678393>
 <T>Indeed. So how did he get so wet?
 Hmm...
 !******************************!

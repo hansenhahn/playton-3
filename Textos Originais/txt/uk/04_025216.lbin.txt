@@ -1,29 +1,37 @@
+<HDR:835783838362834E>
 <T>Hrm? You two don't seem to have
 explored this London very
 thoroughly.
 !******************************!
+<HDR:835783838362834E>
 <T>If you want to make some real
 headway in your case, you'll have
 to do a bit more research.
 !******************************!
+<HDR:838C834383678393>
 <T>Exactly how much research do we
 need to do?
 !******************************!
+<HDR:835783838362834E>
 <T><K>Hmm...<W></K> Tell you what. Come back
 when you've solved 30 puzzles, and
 I'll return you to your own time.
 !******************************!
+<HDR:838C834383678393>
 <T>All right then, Cogg. You've been in
 on this plan longer than we have,
 so I bow to your judgement.
 !******************************!
+<HDR:838C834383678393>
 <T>We shall see if we can find a few
 more puzzles out there to solve.
 !******************************!
+<HDR:835783838362834E>
 <T>Hmm. You should probably do a bit
 more investigating here before
 returning to your own time.
 !******************************!
+<HDR:835783838362834E>
 <T>Come back when you've solved 30
 puzzles and I'll take you back to
 your London.

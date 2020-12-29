@@ -1,14 +1,18 @@
+<HDR:8369838C815B835683878393>
 <T>Did you enjoy Professor Layton
 and the Lost Future?
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>You've solved every puzzle in the
 story mode of this game.
 Congratulations! <Q><W30><J402></J>
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>For more fun, try Layton's
 Challenges or the Weekly Puzzles
 in the Bonuses section.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Enjoy the rest of the game!
 And once again, great work!
 !******************************!

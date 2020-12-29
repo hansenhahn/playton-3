@@ -1,28 +1,37 @@
+<HDR:83778355815B>
 <T>Hello there! How's that lovely
 parrot of yours, eh? What was his
 name again? <N1>?
 !******************************!
+<HDR:838B815B834E>
 <T>He's doing very well, thank you.
 !******************************!
+<HDR:83778355815B>
 <T><A2/4>Good, good.<W> Um, I hate to have
 to ask, but have you seen my
 good-for-nothing husband around?
 !******************************!
+<HDR:838C834383678393>
 <T>I assume you're referring to
 Rudolph?
 !******************************!
+<HDR:83778355815B>
 <T>That's the one, yes.
 !******************************!
+<HDR:838B815B834E>
 <T>We saw him just now, actually.
 Outside the shop.
 !******************************!
+<HDR:83778355815B>
 <T><A4/4>Just out for a nice little stroll, eh?
 As if he hadn't a care in the world.
 Is that what you're saying?!
 !******************************!
+<HDR:83778355815B>
 <T>Oooh, when I get my hands on that
 man...
 !******************************!
+<HDR:838B815B834E>
 <T>Ack! Maybe I should've kept my
 mouth shut...
 !******************************!

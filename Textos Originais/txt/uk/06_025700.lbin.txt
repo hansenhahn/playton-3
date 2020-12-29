@@ -1,9 +1,12 @@
+<HDR:838B815B834E>
 <T>Where's the other Luke, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T>Now that you mention it, we never
 decided on a meeting place.<A2/2> Perhaps
 we should pay Shipley a visit.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Of course! He can get in touch with
 Big Luke for us! Shall we head over
 to the restaurant, then?

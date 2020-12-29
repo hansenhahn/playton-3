@@ -1,40 +1,52 @@
+<HDR:834E838D815B8393837D837483428341>
 <T>You'd better have a good reason
 for talkin' to me.
 !******************************!
+<HDR:838C834383678393>
 <T>Sorry to bother you, but have you
 seen the young boy I've been
 travelling with?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>The knobbly-kneed squirt in the
 blue hat?
 !******************************!
+<HDR:838C834383678393>
 <T>Er, yes. That would be him.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Yeah, I saw him go by.
 !******************************!
+<HDR:838C834383678393>
 <T>Did you happen to see in which
 direction he went?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>I, uh, suppose I could tell you, but
 not for free. Scratch my back and
 I'll scratch yours, okay?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Tsk-tsk. Can't help me with my
 problem? Fine. Then I can't help
 you with yours, either.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>I might've seen where your little
 friend ran off to, but until you
 solve my puzzle, my lips are sealed.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Ah, it feels good to finally wash
 my hands of that puzzle. So, about
 that small friend of yours...
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>The lad came out and walked off
 towards Flatstone Street. Had the
 glummest expression on his face...
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Your friend went off towards
 Flatstone Street.
 !******************************!

@@ -1,19 +1,25 @@
+<HDR:8354838A83418358>
 <T><A2/2>Professor Layton! It's such a relief
 to see you made it out all right.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>Why, I could hardly let myself get
 caught before hearing about that
 secret you mentioned, could I?
 !******************************!
+<HDR:8354838A83418358>
 <T>Something tells me you've already
 worked most of it out for yourself.
 Am I right?
 !******************************!
+<HDR:838B815B834E>
 <T>Huh?!<W> Professor, is that true?
 !******************************!
+<HDR:83608346838B837E815B>
 <T>If you know something, Layton, spit
 it out!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>All concerned parties seem to be in
 attendance, so I'll try to explain
 things as best I can.

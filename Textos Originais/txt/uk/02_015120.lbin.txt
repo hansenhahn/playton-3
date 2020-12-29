@@ -1,15 +1,20 @@
+<HDR:838B815B834E>
 <T>Hiya Max. Do you know where the
 Gilded 7 Casino is?
 !******************************!
+<HDR:837D8362834E8358>
 <T><A3/0>BZZT!<W> <A2/5>My dad says the casino's no
 place for children. We probably
 shouldn't even be talking about it.
 !******************************!
+<HDR:838B815B834E>
 <T>But you do know where it is?
 !******************************!
+<HDR:837D8362834E8358>
 <T><A1/1>DING DING DING!<W> Correct!<W> But I
 can't tell you. My dad would kill me!
 !******************************!
+<HDR:837D8362834E8358>
 <T>Maybe Becky can tell you, though.
 Try asking her!
 !******************************!

@@ -1,20 +1,26 @@
+<HDR:8369835D815B8372815B>
 <T><A1/3>Ohh...
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>That's an awfully big sigh for such
 a small bee. What's the matter?
 !******************************!
+<HDR:8369835D815B8372815B>
 <T><A1/1>Well you know, even a honeybee
 like myself gets a little down in the
 dumps every now and then.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>It must be awfully hard looking
 after of all those puzzles, being,
 you know, a bee.
 !******************************!
+<HDR:8369835D815B8372815B>
 <T>Oh, that? No, that's a piece of
 cake, kid. My problem is that I'm
 different from all the other bees.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>You can say that again. What's your
 story anyway, Beasly?
 !******************************!

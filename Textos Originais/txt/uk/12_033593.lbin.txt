@@ -1,54 +1,70 @@
+<HDR:83608346838B837E815B>
 <T>Ah, Layton. Any breakthroughs in
 your investigation?
 !******************************!
+<HDR:838C834383678393>
 <T>Possibly, Inspector. In fact, I'm
 very glad to see you. I need you to
 accompany me to the Thames Arms.
 !******************************!
+<HDR:83608346838B837E815B>
 <T>The Thames Arms? 
 !******************************!
+<HDR:836F815B83678393>
 <T>My investigation of those premises
 revealed delicious smells, sir.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A3/5>Be quiet for just a minute, will you,
 Barton?
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A3/1>What is there at the Thames Arms
 that's so amazing that I need to
 head there this very instant?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>I make no promises, but it's likely
 that what happens there will lead
 you to the prime minister.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/5>Really now?<W> <A2/1>Hmm... Well, my interest
 is piqued. But there's the matter
 of this blasted puzzle...
 !******************************!
+<HDR:838C834383678393>
 <T>What puzzle?
 !******************************!
+<HDR:83608346838B837E815B>
 <T>It's in this note I found. I have a
 feeling it could have some bearing
 on the case.
 !******************************!
+<HDR:838C834383678393>
 <T>Would you mind if I had a look at it,
 Inspector?
 !******************************!
+<HDR:83608346838B837E815B>
 <T>No luck? Well, I'm afraid I'm stuck
 here until I get this puzzle solved.
 !******************************!
+<HDR:83608346838B837E815B>
 <T>I'm sure there's a useful clue to be
 found in this note, if only I could
 solve the puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T>I'm sorry, Inspector, but this
 letter doesn't appear to have any
 relevance to your case.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/5>Oh. Well, isn't that just wonderful!
 Another prospective lead fizzles
 out.<A3/5> I'm at my wits' end, I tell you.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A3/1>Whatever you've got to show me at
 the Thames Arms, it has to be more
 useful than that note.

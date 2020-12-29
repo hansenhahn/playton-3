@@ -1,52 +1,67 @@
+<HDR:835A834B815B838B>
 <T>Psst. Oi oi, you two, look sharp.
 Ye've got a lost look about ya.
 Do ya know where ye are?
 !******************************!
+<HDR:838C834383678393>
 <T>I must confess we do not. It's our
 first time in this area.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Listen. I could be wrong, but it
 looks like you two are a couple
 of fine, upstandin' citizens.
 !******************************!
+<HDR:835A834B815B838B>
 <T>I'm a nice fella, so I'll clue ye in.
 Yer standin' right in the middle of
 the black market bazaar.
 !******************************!
+<HDR:838B815B834E>
 <T>Black market?!<W> <A1/6>Wow!
 !******************************!
+<HDR:835A834B815B838B>
 <T>Wow is right, sonny. We sell a lot of
 dodgy stuff out here and no one
 questions where it comes from.
 !******************************!
+<HDR:835A834B815B838B>
 <T>If it was me in those shiny loafers
 of yours, I'd keep me head down
 and leg it, quick as I could.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>That would seem prudent indeed.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Before we go, though, I've got a
 question. Why do people come all
 the way out here to shop?
 !******************************!
+<HDR:835A834B815B838B>
 <T><A1/2>Listen, son. The things for sale
 here... Let's just say ya won't
 find them at the local corner shop.
 !******************************!
+<HDR:835A834B815B838B>
 <T>But come to the bazaar and who
 can say what treasures ye'll find?
 !******************************!
+<HDR:838B815B834E>
 <T><A2/1>Oh, I suppose you mean antiques
 and other rare items?
 !******************************!
+<HDR:838C834383678393>
 <T>I think we've asked enough
 questions for one day, Luke.
 Let's move on, shall we?
 !******************************!
+<HDR:835A834B815B838B>
 <T>You two be careful! Oh and if yer
 ever in the market for somethin'...
 hard to find, swing by.
 !******************************!
+<HDR:835A834B815B838B>
 <T>You two still hoverin' around here?
 I'd get goin' if I was you.
 !******************************!

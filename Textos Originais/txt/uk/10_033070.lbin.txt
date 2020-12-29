@@ -1,14 +1,18 @@
+<HDR:8341838D837D>
 <T>I'm worried, Professor. Where
 could Luke have run off to?
 !******************************!
+<HDR:838C834383678393>
 <T>I don't know, but I share your
 concern. It's unlike Luke to take
 off without so much as a word.
 !******************************!
+<HDR:8341838D837D>
 <T><A1/2>Maybe he decided to go on a secret
 mission of his own, like you did when
 we went to the Towering Pagoda.
 !******************************!
+<HDR:838C834383678393>
 <T>Hmph. Well, whatever his reasons,
 he shouldn't be out there alone. We
 need to find him.

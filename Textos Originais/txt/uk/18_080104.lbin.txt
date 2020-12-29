@@ -1,33 +1,44 @@
+<HDR:838B815B834E>
 <T><A1/1>There are too many toys to count
 in here!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Imagine if you lived here, Luke.
 You'd never leave!
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Hey, look at that interesting cat
 ornament.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>It is curious. You know, it reminds
 me of a wonderful puzzle I heard the
 other day.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Hmm. I need to think about this one
 a little bit longer.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>Finally ready to solve that puzzle
 about the cat ornaments, Luke?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>That's one hundred percent
 correct. Smashing work, my boy.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>You know, despite this toy shop
 being here, I haven't seen that
 many children around town.
 !******************************!
+<HDR:838B815B834E>
 <T>Does everyone play indoors in
 the future?
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Maybe so, Luke.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>This place is wall-to-wall with toys!
 !******************************!

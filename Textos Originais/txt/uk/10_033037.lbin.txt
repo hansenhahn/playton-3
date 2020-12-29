@@ -1,15 +1,19 @@
+<HDR:837E815B837D>
 <T>I'm obsessed with organisation and
 scheduling. It's really useful, but
 it can be stressful at times.
 !******************************!
+<HDR:838C834383678393>
 <T>Well, you can't organise everything.
 Sometimes it's best to just take
 things as they come.
 !******************************!
+<HDR:838C834383678393>
 <T>Next time you start fretting, I'd
 recommend a five-minute break and
 a cup of tea.
 !******************************!
+<HDR:837E815B837D>
 <T>That's not a bad idea. I'll pencil
 a tea break into my daily study
 hour.

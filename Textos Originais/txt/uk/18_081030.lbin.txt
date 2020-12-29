@@ -1,11 +1,15 @@
+<HDR:838B815B834E>
 <T>I spy with my little eye...<W>a hidden
 puzzle!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>Hmm... Better let this one
 percolate for a little longer.
 !******************************!
+<HDR:838B815B834E>
 <T>Okay! I'm ready to tackle this puzzle
 again!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>Ha! I knew I could do it!
 !******************************!

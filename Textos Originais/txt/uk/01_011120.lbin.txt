@@ -1,50 +1,67 @@
+<HDR:838B815B834E>
 <T>The bus stop looks like it's about
 to collapse!
 !******************************!
+<HDR:838C834383678393>
 <T>Oh dear. It really is in quite a
 state of disrepair.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>But how can that be? It looked
 fine when we got here a little while
 ago.
 !******************************!
+<HDR:838C834383678393>
 <T>Oh look, there's a poster on the
 side of the bus stop.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>I'll go and see what it says.
 !******************************!
+<HDR:838C834383678393>
 <T>Well?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/3>I don't understand this at all!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>What do you mean, Luke?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>The poster says that this route
 has been discontinued.
 !******************************!
+<HDR:838C834383678393>
 <T>I don't doubt it, given the state of
 this bus stop.
 !******************************!
+<HDR:838B815B834E>
 <T>Yes, but here's the strange part.
 The date on this poster is five
 years in the future!
 !******************************!
+<HDR:838C834383678393>
 <T>What?<W> Luke, let me have a look at
 that.
 !******************************!
+<HDR:838B815B834E>
 <T><A2/1>I just had a thought, Professor...
 !******************************!
+<HDR:838B815B834E>
 <T>Could we possibly have travelled to
 the future?
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>We have certainly encountered
 much here to suggest we're no
 longer in the London we know.
 !******************************!
+<HDR:838C834383678393>
 <T>All the same, I believe it's rather
 early to jump to that conclusion,
 Luke.
 !******************************!
+<HDR:838C834383678393>
 <T>Let's do some more exploring and
 see what else we can find out.
 !******************************!

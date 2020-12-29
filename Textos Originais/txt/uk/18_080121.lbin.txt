@@ -1,33 +1,42 @@
+<HDR:836F8362834A8358>
 <T><A1/1>Welcome to London's most delicious
 destination! I hope you brought
 your appetites!
 !******************************!
+<HDR:836F8362834A8358>
 <T><A1/1>By the way... The postman tells me
 you've got a real knack for solving
 puzzles.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>I suppose you could say that. Why
 do you bring it up, sir?
 !******************************!
+<HDR:836F8362834A8358>
 <T><A2/5>I ordered a few numbered plates
 a while back you see, but the
 company made a mistake...
 !******************************!
+<HDR:836F8362834A8358>
 <T><A3/2>Stumped?<W> So am I! Don't worry, I'm
 sure I'll work out what to do sooner
 or later.
 !******************************!
+<HDR:836F8362834A8358>
 <T><A3/2>Got any solutions to my numbered
 plate dilemma?
 !******************************!
+<HDR:836F8362834A8358>
 <T><A1/1>It looks like I asked the right fella
 for help! Cheers, I won't forget
 this.
 !******************************!
+<HDR:836F8362834A8358>
 <T>There'll be more than a little extra
 gravy on the next pie you order
 here, believe me.
 !******************************!
+<HDR:836F8362834A8358>
 <T><A1/1>Drop by any time. I've got some new
 dishes in the works that will leave
 you both stunned and full! Har har!

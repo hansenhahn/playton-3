@@ -1,50 +1,65 @@
+<HDR:83788362834C815B>
 <T><A1/2>Welcome to the Hotel Duke, one of
 London's finest and most renowned
 establishments.
 !******************************!
+<HDR:838B815B834E>
 <T>Oh, hello again!
 !******************************!
+<HDR:83788362834C815B>
 <T>Tee hee!<W> I ran ahead and took the
 liberty of preparing a room for
 you.
 !******************************!
+<HDR:83788362834C815B>
 <T>May I help you with your bags?
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Oh, um, that's very kind of
 you, but we only wanted to ask
 directions to the train station.
 !******************************!
+<HDR:83788362834C815B>
 <T><A1/1>Come along now, sirs. I take it
 you're here on holiday?
 !******************************!
+<HDR:83788362834C815B>
 <T>Well, the Hotel Duke is centrally
 located, as you can see.
 !******************************!
+<HDR:83788362834C815B>
 <T>Stay with us, and you'll spend less
 time travelling and more time
 having fun in the city.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Ha ha! You do make a compelling
 argument, young lady. Location is
 everything, after all.
 !******************************!
+<HDR:838C834383678393>
 <T>We'll take that room - and
 directions to the train station
 as well, of course.
 !******************************!
+<HDR:83788362834C815B>
 <T>Please, sir, none of that {''}young
 lady{''} stuff. Just call me Becky.
 !******************************!
+<HDR:83788362834C815B>
 <T>Now, if I could just ask you to sign
 the hotel guestbook...
 !******************************!
+<HDR:838B815B834E>
 <T>Um, Professor, are we really going
 to stay here?
 !******************************!
+<HDR:838C834383678393>
 <T><A2/1>Indeed we are. Somehow, you and I
 have managed to get ourselves
 lost in an unfamiliar area.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>As Becky noted, having a central
 location to return to while we're
 here could prove very useful.

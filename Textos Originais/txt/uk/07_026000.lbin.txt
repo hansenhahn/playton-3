@@ -1,6 +1,8 @@
+<HDR:838B815B834E>
 <V0010><T>I still can't believe there's another
 Professor Layton running around.</V>
 !******************************!
+<HDR:96A29788838B815B834E>
 <V0020><T><A2/4>I assure you, the man is real.
 You'll see soon enough.</V>
 !******************************!

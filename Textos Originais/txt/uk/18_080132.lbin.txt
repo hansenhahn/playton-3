@@ -1,29 +1,38 @@
+<HDR:836F815B8367839381699048816A>
 <T>Chomp chomp chomp...
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Hello Barton. How is everything
 going?
 !******************************!
+<HDR:836F815B8367839381699048816A>
 <T>I was just taking a break to, um,
 reflect upon a case the inspector
 and I were on the other day.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>I see. What exactly happened on
 that case?
 !******************************!
+<HDR:836F815B8367839381699048816A>
 <T>We had to chase a suspect across
 the river, but I can't remember how
 long it took... Chew.
 !******************************!
+<HDR:836F815B8367839381699048816A>
 <T>Hard to - chomp chomp - work it
 out, isn't it, Professor?<W> Gulp!
 !******************************!
+<HDR:836F815B8367839381699048816A>
 <T>Now then, just how long did it take
 - om nom - to cross that river?
 !******************************!
+<HDR:836F815B8367839381699048816A>
 <T>Ah yes, that's right. Thanks for
 helping me to remember. Now I can
 finally get back to<W>...snacking.
 !******************************!
+<HDR:836F815B8367839381699048816A>
 <T>Chew<W>.<W>.<W>.<W>gulp! This steamed pork bun
 is dreamy.
 !******************************!

@@ -1,54 +1,74 @@
+<HDR:838B815B834E>
 <T>Hello, mister.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Hoo hoo. Hello back at you, lad.
 !******************************!
+<HDR:838B815B834E>
 <T>So...
 !******************************!
+<HDR:838B8368838B8374>
 <T><K>Hmm?
 !******************************!
+<HDR:838B815B834E>
 <T>Is something the matter?<W> You don't
 seem as...upbeat as usual.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Oh no, no. I'm as sunny as always.
 !******************************!
+<HDR:838B815B834E>
 <T><K>...
 !******************************!
+<HDR:838B8368838B8374>
 <T><K>...
 !******************************!
+<HDR:838B815B834E>
 <T>Are you sure something isn't the
 matter? Our conversation seems
 to be lacking its usual...sparkle.
 !******************************!
+<HDR:838B8368838B8374>
 <T>No sparkle, you say? Hmm. Maybe
 that's the case.
 !******************************!
+<HDR:838B815B834E>
 <T><K>...
 !******************************!
+<HDR:838B8368838B8374>
 <T><K>...
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Let me guess. You haven't been
 home to clear up the situation
 with your wife yet, have you?
 !******************************!
+<HDR:838B8368838B8374>
 <T>Er...
 !******************************!
+<HDR:838C834383678393>
 <T>I wouldn't put it off any longer
 than necessary, sir.
 !******************************!
+<HDR:838C834383678393>
 <T>If there's been a misunderstanding,
 it's best to sort it out straight
 away.
 !******************************!
+<HDR:838B8368838B8374>
 <T>I can't pretend I'm looking forward
 to that...
 !******************************!
+<HDR:838B8368838B8374>
 <T>But I suppose it's the best thing
 to do, isn't it?
 !******************************!
+<HDR:838C834383678393>
 <T>It certainly is. You should talk to
 your wife before the problem gets
 out of control.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Oh yes.<W> She does sound frightfully
 irritated.
 !******************************!

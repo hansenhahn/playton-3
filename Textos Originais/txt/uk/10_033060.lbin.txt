@@ -1,76 +1,101 @@
+<HDR:83788362834C815B>
 <T>Oh, heading out again already?
 !******************************!
+<HDR:838C834383678393>
 <T>That's right.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>By the way, Becky, I was wondering
 if there's somewhere nearby where
 we can cross the river.
 !******************************!
+<HDR:83788362834C815B>
 <T>There's the bridge,<A1/5> but it's quite
 a long way out beyond Chinatown.
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Do excuse me, but I couldn't help
 but hear that you're trying to
 cross the river?
 !******************************!
+<HDR:83788362834C815B>
 <T><A1/1>Granny! I didn't realise you
 were awake.
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Becky, we've been over this! In
 front of the guests, you're to 
 refer to me as {''}the manager{''}!
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Now where were we?<W> Oh yes,
 crossing the river.
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>There used to be a tunnel that
 would take you across.
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>It went right under the river and
 people could just walk through to
 the other side.
 !******************************!
+<HDR:8341838D837D>
 <T>Wow! A tunnel under the river
 sounds amazing!
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Unfortunately, once the Family
 gained control of the city, they
 shut down the tunnel.
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Grafton might still know how to get
 in, though...
 !******************************!
+<HDR:838C834383678393>
 <T>Grafton?
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Don't you know him? He's easy to
 spot with those bushy eyebrows,
 blue hat and scheming smile.
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Ah yes, we go back a long way...
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>He spends most of his time down at
 the black market these days.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Ah, yes, I do believe we've met this
 friend of yours before.
 !******************************!
+<HDR:838C834383678393>
 <T>You remember him, don't you, Luke?<W>
 Luke?
 !******************************!
+<HDR:8341838D837D>
 <T><A2/5><K>Hmm?<W></K> Where'd he go?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>He was here just a moment ago.
 !******************************!
+<HDR:83788362834C815B>
 <T>Oh, are you looking for little Luke?<W>
 I just saw him leaving.
 !******************************!
+<HDR:838C834383678393>
 <T>By himself? But where could he
 possibly be going?
 !******************************!
+<HDR:838C834383678393>
 <T>Please excuse me, madam, but I
 have to go and find Luke. Thank
 you for directing us to Grafton.
 !******************************!
+<HDR:837D815B834B838C83628367>
 <T>Not at all. We at the Hotel Duke
 are always delighted to assist our
 guests. 

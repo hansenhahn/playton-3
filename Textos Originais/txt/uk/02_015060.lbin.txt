@@ -1,13 +1,17 @@
+<HDR:838C834383678393>
 <T>Here we are, back on Flatstone
 Street.
 !******************************!
+<HDR:838B815B834E>
 <T><A2/1>Yes, but I can't see anything
 around here that looks like a
 casino.
 !******************************!
+<HDR:838C834383678393>
 <T>I think our best bet would be to ask
 a local.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Oh look! There's someone we can
 ask! Wait here, Professor.
 !******************************!

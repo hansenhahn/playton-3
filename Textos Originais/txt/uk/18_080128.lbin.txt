@@ -1,63 +1,80 @@
+<HDR:8389838B8374>
 <T><A1/3>You there, what do you think
 you're doing? Children in the
 casino?! Have you lost your mind?
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Yikes!<W> S-sorry, sir! We didn't mean
 to break the rules of your
 establishment.
 !******************************!
+<HDR:8389838B8374>
 <T><A2/1>If you're really sorry, prove it
 by solving this puzzle. It's been
 bothering me all day.
 !******************************!
+<HDR:8389838B8374>
 <T><A3/8>If you don't even have the nous to
 solve this puzzle, you're going to be
 leaving here with empty pockets.
 !******************************!
+<HDR:8389838B8374>
 <T><A2/1>Ah, so you're back to try and
 make amends again?<W> Well, go on
 then. Get solving!
 !******************************!
+<HDR:8389838B8374>
 <T><A2/5>Oh, it looks like you solved that
 puzzle. Thanks for entertaining me.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>What do you mean, {''}entertaining{''}
 you? Didn't you say that puzzle had
 been bothering you all day?
 !******************************!
+<HDR:8389838B8374>
 <T><A1/4>I did say that, but I was lying. I was
 just bored and wanted someone to
 chat to.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Chat? But don't you have work to
 be doing? Considering you own the
 casino?
 !******************************!
+<HDR:8389838B8374>
 <T><A1/4>Ah yes...I lied about that too.
 Sorry, I was so bored I just
 couldn't help messing with you two. 
 !******************************!
+<HDR:8389838B8374>
 <T><A1/1>In reality I'm just a normal, 
 everyday chap.<W> <A4/9>My name's Mark,
 in case you're wondering.
 !******************************!
+<HDR:8389838B8374>
 <T><A3/8>I hope you remember my name. No one
 ever seems to, and it makes me feel
 ever so lonely.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Wow, this London really is full
 of weirdos.
 !******************************!
+<HDR:8389838B8374>
 <T><A1/1>Crikey, if I were any more bored,
 I'd be growing splinters.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>But you're in a casino! If you're
 that bored, why not go and play a
 few games?
 !******************************!
+<HDR:8389838B8374>
 <T><A1/4>Ha! I would if I could, but I've
 already put every penny I had
 into the slots here.
 !******************************!
+<HDR:838B815B834E>
 <T>Oh...
 !******************************!

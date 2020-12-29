@@ -1,39 +1,50 @@
+<HDR:8369838C815B835683878393>
 <V0030><T>Professor, if you're reading this,
 it means you've made it safely to
 my time.</V>
 !******************************!
+<HDR:8369838C815B835683878393>
 <T><V0031>I can hardly wait to see you again.</V>
 !******************************!
+<HDR:8369838C815B835683878393>
 <V0040><T>I wish to enlist your help in freeing
 this town from the tragedy that
 has befallen it.</V>
 !******************************!
+<HDR:8369838C815B835683878393>
 <V0050><T>But first, I'm sure you'll want some
 proof that you're actually in the
 future.</V>
 !******************************!
+<HDR:8369838C815B835683878393>
 <V0060><T>I've thought long and hard about
 the best way of convincing you.</V>
 !******************************!
+<HDR:8369838C815B835683878393>
 <V0070><T>Make your way through town to the
 address below. What you find there
 is sure to quell any doubts.</V>
 !******************************!
+<HDR:8369838C815B835683878393>
 <V0080><T>Room 312
 Green Hospital
 123 Auckland Lane</V>
 !******************************!
+<HDR:838C834383678393>
 <T>It seems our next destination has
 been decided for us. Let's pay this
 hospital a visit.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Sounds good, Professor. But how
 do we get to Auckland Lane?
 !******************************!
+<HDR:838C834383678393>
 <T>It would be easy if the buses were
 running, but unfortunately that's
 not the case.
 !******************************!
+<HDR:838C834383678393>
 <T>Perhaps that lady over there
 knows of a different way to get
 around town.

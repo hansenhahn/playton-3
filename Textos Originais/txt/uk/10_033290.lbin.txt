@@ -1,32 +1,41 @@
+<HDR:838B815B834E>
 <T><A1/6>Yikes! This place is disgusting!
 !******************************!
+<HDR:838C834383678393>
 <T>It seems this tunnel has been
 neglected for some time. It's
 started to leak and fall apart.
 !******************************!
+<HDR:838C834383678393>
 <T>There's no way to get to the other
 side without getting one's feet
 thoroughly soaked.
 !******************************!
+<HDR:838B815B834E>
 <T>No wonder those scientists always
 have wet shoes!
 !******************************!
+<HDR:838C834383678393>
 <T>With all the boats in the area
 under Family supervision, crossing
 the river is no easy task.
 !******************************!
+<HDR:838C834383678393>
 <T>The tunnel is their best bet for
 unimpeded movement between both
 sides of the river.
 !******************************!
+<HDR:8341838D837D>
 <T><A2/5>Professor! Luke! Wait! If we try
 and walk through this mess, we'll
 all get absolutely soaked.
 !******************************!
+<HDR:838B815B834E>
 <T>I know it's hard, Flora.<W> <A2/1>But
 sometimes sacrifices must be made
 for the sake of the investigation.
 !******************************!
+<HDR:8341838D837D>
 <T><A3/3>That's easy for you to say, Luke.
 You're wearing shorts!
 !******************************!

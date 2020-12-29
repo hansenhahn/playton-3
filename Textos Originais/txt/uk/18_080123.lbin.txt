@@ -1,39 +1,50 @@
+<HDR:83608346838B837E815B>
 <T>Good day, Layton. How's your
 investigation going?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>I believe I'm making good progress -
 with a little help from Scotland
 Yard, of course.
 !******************************!
+<HDR:838C834383678393>
 <T>How about yourself, Inspector?
 Have you come across any promising
 leads?
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/1>I'd say so. You won't believe the
 chat I heard a couple of suspicious
 blokes having a moment ago.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Oh really?<W> Would you care to tell
 me what you heard, perhaps?
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A3/5>Giving up, Layton? This puzzle might
 contain information vital to both
 our investigations, you know.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/1>Layton, help me make sense of this
 puzzle. Solving it might blow our
 case wide open.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A4/2>There, it's solved!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>True, but unfortunately I don't see
 any link between this puzzle and
 our case.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/6>Oh?<W> Hmm, yes, I suppose that's
 true. Hrmph! Back to pounding the
 pavement it is, then...
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A3/1>I'm going to get to the bottom of
 this and rescue the prime minister.
 You can bet on that, Layton.

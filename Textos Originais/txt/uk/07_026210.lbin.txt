@@ -1,57 +1,75 @@
+<HDR:838B815B834E>
 <T>Hey there!
 !******************************!
+<HDR:8372837283418393>
 <T><A5/1>Hello there Mr Gentlemen!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>Are you looking for a new toy?
 !******************************!
+<HDR:8372837283418393>
 <T><A5/3>Not really. I mean the toy cars are
 rather fun, but there isn't much
 else to shout about in here.
 !******************************!
+<HDR:8372837283418393>
 <T>They should really spice up their
 stock with some new products.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Crikey, you're not half picky when
 it comes to toy shopping.
 !******************************!
+<HDR:8372837283418393>
 <T><A2/1>Well, Mother has a certain
 philosophy:
 !******************************!
+<HDR:8372837283418393>
 <T>{''}Only shabby shoppers shop at
 shabby shops.{''} That's what she
 always says.
 !******************************!
+<HDR:8372837283418393>
 <T>Chequer tries his best, but this
 place really needs to get its act
 together.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Oh my, I hope poor Chequer didn't
 hear that...
 !******************************!
+<HDR:8372837283418393>
 <T>Shopping is serious business. You
 need brains to do it right.<W>
 Let me give you an example.
 !******************************!
+<HDR:8372837283418393>
 <T>Is my puzzle too hard for you?
 Hmm. Maybe you just aren't a
 savvy shopper.
 !******************************!
+<HDR:8372837283418393>
 <T>Shopping can be such mentally
 exhausting work sometimes.
 !******************************!
+<HDR:8372837283418393>
 <T>You know, I think I've had enough
 of those toy cars. They're for
 little children.
 !******************************!
+<HDR:8372837283418393>
 <T>I mean, a young gentleman like you
 wouldn't be interested in something
 so childish, would you?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>Those silly things?<W> Of course not!
 I've never even touched one!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Now, Luke, telling fibs is unbecoming
 for a gentleman...
 !******************************!
+<HDR:8372837283418393>
 <T>Hello there Mr Gentlemen! 
 !******************************!

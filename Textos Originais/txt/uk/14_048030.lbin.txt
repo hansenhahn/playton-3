@@ -1,14 +1,19 @@
+<HDR:838C834383678393>
 <T>There's no time to waste! Get in
 the car!
 !******************************!
+<HDR:8372838B8145837A815B834E>
 <T>We're making our escape by car?!<W>
 Is this some kind of joke?
 !******************************!
+<HDR:838C834383678393>
 <T>I'll do my best to drive safely,
 Prime Minister.
 !******************************!
+<HDR:838B815B834E>
 <T>What are you waiting for? We've
 got to go!
 !******************************!
+<HDR:8372838B8145837A815B834E>
 <T>This is madness...
 !******************************!

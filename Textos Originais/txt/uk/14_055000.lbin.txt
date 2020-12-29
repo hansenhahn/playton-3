@@ -1,99 +1,132 @@
+<HDR:838C834383678393>
 <V0010><T><K>Hmm?</V>
 !******************************!
+<HDR:8354838A83418358>
 <V0020><T>I don't think I have much longer
 here, Hershel.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0030><T>I don't know what you mean.</V>
 !******************************!
+<HDR:8354838A83418358>
 <V0040><T><A5/0>You've taken awfully good care of
 that hat I gave you.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0050><T>What did you say?</V>
 !******************************!
+<HDR:83608346838B837E815B>
 <V0060><T>Oi, there you are, Layton! I did a
 background check on Claire's family,
 like you asked.</V>
 !******************************!
+<HDR:83608346838B837E815B>
 <T><V0061>There's no record of Claire having
 a younger sister.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0070><T><A1/1>Then...</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0080><T>Yes, it was quite a shock when
 I first worked it out.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0090><T>But you... You can't really mean...</V>
 !******************************!
+<HDR:834E838C8341>
 <V0100><T>It's me, Hershel. It's Claire.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0110><T>While it defies logic, it seems the
 experiment 10 years ago wasn't
 a complete failure.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0120><T>Somehow Claire was shot 10 years
 into the future.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0130><T>To our present!</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0140><T>Yes. The time machine worked, if
 only for that single moment before
 it exploded.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0150><T>That's...that's not possible!</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0160><T><A1/4>Unfortunately, however, there
 were more complications.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0170><T>Shortly after appearing in the
 present, Claire's body showed signs
 of...molecular instability.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <T><V0171>It was trying to return to its own
 time.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0180><T>I attribute that phenomenon to
 the incomplete nature of the time
 machine. She didn't have long here.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0190><T>I worked on the machine in the
 hopes of finding a way to stabilise
 her existence in the present.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0200><T>But it seems inevitable that she'll
 return to her own time...<W>to the
 moment of the blast.</V>
 !******************************!
+<HDR:834E838C8341>
 <V0210><T><A4/4>I begged Dimitri to stop his work.
 Tampering further with time can
 only result in more anomalies.</V>
 !******************************!
+<HDR:834E838C8341>
 <V0220><T>There's no telling what chaos we'd
 release upon the world if we tried
 to save the dead from their fate.</V>
 !******************************!
+<HDR:834E838C8341>
 <V0230><T>The flow of time must remain linear.</V>
 !******************************!
+<HDR:834E838C8341>
 <T><V0231>We all know the consequences
 of changing its course.</V>
 !******************************!
+<HDR:834E838C8341>
 <V0240><T>But Dimitri wouldn't listen to me.
 That's when I knew the only way to
 stop him was through you, Hershel.</V>
 !******************************!
+<HDR:834E838C8341>
 <V0250><T>What Dimitri, Bill and I did 10 years
 ago broke the laws of nature. And
 now we must pay.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0260><T><A5/1>This is all so...incomprehensible.</V>
 !******************************!
+<HDR:834E838C8341>
 <V0270><T><A1/1>It's time to end this, Dimitri.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0280><T>Yes...it does seem that way.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0290><T><A1/1>My research has threatened our
 very existence and it could do so
 again.</V>
 !******************************!
+<HDR:83668342837E8367838A815B>
 <V0300><T>Tonight, I will close the book on
 the time machine forever.</V>
 !******************************!

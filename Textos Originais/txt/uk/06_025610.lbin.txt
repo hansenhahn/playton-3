@@ -1,28 +1,37 @@
+<HDR:83718351837D83748389815B>
 <T><A3/0>Keh heh heh!<W> <A2/1>All right, what mischief
 have you two got yourselves into
 now, then?
 !******************************!
+<HDR:838B815B834E>
 <T>Excuse me? I don't know what
 you're talking about.
 !******************************!
+<HDR:83718351837D83748389815B>
 <T><A2/3>No point playing innocent, boy!
 Old Stachenscarfen knows more
 than you think!
 !******************************!
+<HDR:83718351837D83748389815B>
 <T><A3/0>Keh heh heh!<W><A1/1> They might be hidden,
 but I DO have eyes, you know.
 !******************************!
+<HDR:83718351837D83748389815B>
 <T>And these eyes can see that the
 law's right on your tail!
 !******************************!
+<HDR:838B815B834E>
 <T>I don't think I understand...
 !******************************!
+<HDR:83718351837D83748389815B>
 <T><A2/1>Say no more, boy. Just know that
 I'm always on your side.<W> If you call
 me, I'll come running!
 !******************************!
+<HDR:838B815B834E>
 <T>Oh... Well, thanks, I suppose.
 !******************************!
+<HDR:838C834383678393>
 <T>We ought to be off now, Luke. I have
 the feeling that things are about to
 get interesting.

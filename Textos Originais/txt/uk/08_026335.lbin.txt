@@ -1,7 +1,9 @@
+<HDR:838B815B834E>
 <T>I know we could take the train,
 Professor, but I think I'd rather
 walk to our next destination.
 !******************************!
+<HDR:838C834383678393>
 <T>Good idea, Luke. Let's head there
 on foot.
 !******************************!

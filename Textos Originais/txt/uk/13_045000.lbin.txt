@@ -1,28 +1,36 @@
+<HDR:834E838983458358>
 <V0010><T>Ha ha ha ha!<W> <A2/6>I knew you'd find your
 way here sooner or later.</V>
 !******************************!
+<HDR:834E838983458358>
 <V0020><T>Though if you're hoping to find our
 fearless leader, I'm afraid he's
 indisposed at the moment.</V>
 !******************************!
+<HDR:834E838983458358>
 <V0030><T><A2/6>I know how you like to play the
 hero, but I'd advise you not to get
 any foolish ideas.</V>
 !******************************!
+<HDR:834E838983458358>
 <T><V0031>You see, the prime minister is
 perched on a very special seat.</V>
 !******************************!
+<HDR:834E838983458358>
 <V0040><T>And should you try to move him from
 that pod, this whole fortress will
 detonate.</V>
 !******************************!
+<HDR:834E838983458358>
 <V0050><T>Also, you should know that there's
 enough charge in here to level most
 of London.</V>
 !******************************!
+<HDR:834E838983458358>
 <V0060><T>Of course, London's getting levelled
 either way. He he he!</V>
 !******************************!
+<HDR:834E838983458358>
 <V0070><T>Now, I do hate to run, but I have
 work to do.</V>
 !******************************!

@@ -1,24 +1,32 @@
+<HDR:838C834383678393>
 <V0010><T>The London we are presently in, this
 London of the future, is a fake.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0020><T>More precisely, it's a set designed
 to make us believe that we've
 travelled 10 years into the future.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0030><T>Because, you see, there is no time
 machine. Not here, not anywhere.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0040><T><A1/6>What?!</V>
 !******************************!
+<HDR:96A29788838B815B834E>
 <V0050><K><T>Hmm.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0060><T><A4/3>We were all led to believe that the
 clock shop was a portal to the
 future.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0070><T><A1/1>But the truth about that shop is,
 in some ways, just as bewildering.</V>
 !******************************!
+<HDR:838C834383678393>
 <V0080><T>The back room of the clock shop is
 no time machine.<W> It's a lift
 leading down into the earth.</V>

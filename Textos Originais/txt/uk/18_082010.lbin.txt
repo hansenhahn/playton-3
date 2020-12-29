@@ -1,13 +1,18 @@
+<HDR:838C834383678393>
 <T>Let's see how you fare against
 this puzzle.
 !******************************!
+<HDR:838C834383678393>
 <T>This one is tougher than it looks,
 isn't it?
 !******************************!
+<HDR:838C834383678393>
 <T>Ah yes, perseverance is a virtue.
 Let's try this puzzle again.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Very nice!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Can't get enough of this one, eh?
 !******************************!

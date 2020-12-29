@@ -1,61 +1,79 @@
+<HDR:>
 <S13>You got %s!
 !******************************!
+<HDR:>
 <S13>You got a sticker for
 Picture Book 1:
 {''}%s{''}!
 !******************************!
+<HDR:>
 <S13>You got a sticker for
 Picture Book 2:
 {''}%s{''}!
 !******************************!
+<HDR:>
 <S13>You got a sticker for
 Picture Book 3:
 {''}%s{''}!
 !******************************!
+<HDR:>
 <S13><N1> got a
 delivery request:
 {''}%s{''}!
 !******************************!
+<HDR:>
 <S13>You got a new course for
 the toy car:
 {''}%s{''}!
 !******************************!
+<HDR:>
 Puzzle %03d,
 {''}%s{''},
 is now in your Puzzle Index!
 !******************************!
+<HDR:>
 <J403>The Toy Car minigame has
 been added to the trunk!</J>
 !******************************!
+<HDR:>
 <J403>The Picture Book minigame
 has been added to the trunk!</J>
 !******************************!
+<HDR:>
 <J403>The Parrot minigame
 has been added to the trunk!</J>
 !******************************!
+<HDR:>
 <S13>You've arrived at
 %s.
 !******************************!
+<HDR:>
 <S13>You've arrived at
 %s.
 !******************************!
+<HDR:>
 <S13>You've arrived at the
 %s.
 !******************************!
+<HDR:>
 <J402>You have solved all the
 puzzles in this adventure!
 Congratulations!</J>
 !******************************!
+<HDR:>
 Now try your hand at
 Layton's Challenges and
 the Weekly Puzzles!
 !******************************!
+<HDR:>
 You completed the game!
 !******************************!
+<HDR:>
 The children's painting has
 been completed! It's a
 masterpiece of London art.
 !******************************!
+<HDR:>
 <J414>You've earned this person's
 gratitude with your expert
 delivery skills!

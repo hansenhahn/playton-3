@@ -1,8 +1,11 @@
+<HDR:96A29788838B815B834E>
 <T><A2/2>Let's take the path on the left
 up here.
 !******************************!
+<HDR:838B815B834E>
 <T>The left?<W> Will that way take us
 back to Midland Road as well?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>It will, and in half the time.
 !******************************!

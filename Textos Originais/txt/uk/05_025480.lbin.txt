@@ -1,31 +1,41 @@
+<HDR:836F815B83678393>
 <T><A2/1>Welcome to the archives.
 !******************************!
+<HDR:836F815B83678393>
 <T><A2/1>I've gathered all the case files
 pertaining to the explosion.
 !******************************!
+<HDR:838C834383678393>
 <T>Thank you, Barton. Your hard work
 has saved us considerable time.
 !******************************!
+<HDR:838B815B834E>
 <T>Yuck! These papers are all mildewy
 and covered in dust!
 !******************************!
+<HDR:836F815B83678393>
 <T><A1/1>These files are off-limits to most
 people. You're the first to touch
 them in a long time.
 !******************************!
+<HDR:838C834383678393>
 <T>I see.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>Hand some of those over and I'll
 help you look through them. Where
 should I start?
 !******************************!
+<HDR:838C834383678393>
 <T>I appreciate the offer, Luke, but I
 should handle these myself.<A2/1>
 They are top secret, after all.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Oh...<W> Of course. If you say so,
 Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>Just a bit longer, Luke. I'll be
 finished soon.
 !******************************!

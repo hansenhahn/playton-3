@@ -1,116 +1,151 @@
+<HDR:838C834383678393>
 <T>What exactly do you have in mind?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/2>As a cautious man, I'm sure you
 have questions about my identity
 as well.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>I therefore suggest that we each
 prove our identity to the other's
 satisfaction.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>To this end, I propose that we
 demonstrate the power of our
 respective intellects.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>I've prepared a puzzle that can
 only be solved by someone as
 insightful as Professor Layton.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Should you find the solution, I will
 give you the chance to present me
 with a similar challenge.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>If I am who I say I am, I should
 have no trouble solving whatever
 you throw my way, should I?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/1>Let's get started.<W> Before us are
 four cards arranged according to
 the following set of conditions:
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A3/5>First, a heart is next to a diamond.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Second, a club is not next to a
 spade.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Finally, a heart is directly to the
 right of a club.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Using just these three conditions,
 I challenge you to find the spade
 amongst these four cards.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Are you quite sure about your
 answer, Professor? I'd reconsider
 it if I were you.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><S671><A2/2>Yes, that is indeed the location of
 the spade. Impressive, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Thank you.<W> Now, if I may present
 you with a puzzle of my own design?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/2>Nothing would please me more.
 !******************************!
+<HDR:838C834383678393>
 <T>Good. I appreciated the idea behind
 your puzzle, so if you don't mind,
 I'd like to do something similar.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/1>Here are the conditions for my
 four cards:
 !******************************!
+<HDR:838C834383678393>
 <T>A club lies directly to the right
 of a heart.
 !******************************!
+<HDR:838C834383678393>
 <T>A diamond is on the far left or far
 right and has a heart next to it.
 !******************************!
+<HDR:838C834383678393>
 <T>Finally, a club is also the far left
 or far right card.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Are you able to find the spade
 using these conditions?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/4>You almost had me there,
 Professor.<W> But as you know, this
 puzzle is flawed. It's unsolvable.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Is that so?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/4>Yes. I tried several solutions, but
 none work, given the conditions
 you've set forth.
 !******************************!
+<HDR:838C834383678393>
 <T>Oh really?
 !******************************!
+<HDR:838C834383678393>
 <T>Tell me, did I ever state that the
 four cards on the table included
 one card from each suit?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A3/5>Hmph.<W> So the answer is...there is
 no spade?
 !******************************!
+<HDR:838C834383678393>
 <T><A2/1>Precisely. This was a trick question,
 but it makes a pertinent point.
 !******************************!
+<HDR:838C834383678393>
 <T>In the puzzle you issued me, you
 failed to specify that the four
 cards included one from each suit.
 !******************************!
+<HDR:838C834383678393>
 <T>Leaving in a loophole like that can
 make the puzzle unsolvable.
 !******************************!
+<HDR:838C834383678393>
 <T>The same omission can also open
 the door to alternate solutions.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>You intentionally presented me
 with a puzzle that, when examined
 closely, is actually incomplete.
 !******************************!
+<HDR:838C834383678393>
 <T>That was the real test you set out
 for me, was it not? To see if I
 would spot the loophole?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Four cards sit in a line:
 
 {.}A heart is next to a diamond.
@@ -120,6 +155,7 @@ would spot the loophole?
 Can you work out which one is the spade,
 Professor? Touch that card.
 !******************************!
+<HDR:838C834383678393>
 <T>Four cards sit in a line:
 
 {.}A club sits directly to the right of

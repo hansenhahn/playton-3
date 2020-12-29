@@ -1,15 +1,19 @@
+<HDR:838C834383678393>
 <T>Excuse me. Have you seen the small
 boy who was with me last time I was
 here?
 !******************************!
+<HDR:8341836A815B835E>
 <T>Oh, the little hungry chap? No, he
 hasn't been here since I last saw
 you. Why do you ask?
 !******************************!
+<HDR:838C834383678393>
 <T>I've been out looking for him for
 some time now, with no luck. Well,
 thanks for your help.
 !******************************!
+<HDR:8341836A815B835E>
 <T>No problem. If he comes in, I'll let
 him know you've been on the hunt
 for him.

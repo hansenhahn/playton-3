@@ -1,85 +1,110 @@
+<HDR:8354837D838A815B>
 <T><A1/2>That'll be my husband.
 !******************************!
+<HDR:835783838362834E>
 <T><A1/1>Wait till you see the little gem I
 picked up today, love...<W> <A2/1>Oh my,
 customers!
 !******************************!
+<HDR:8354837D838A815B>
 <T>Welcome back, dear. This here is
 Professor Layton.
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/5>He tells me he has some business
 in our shop.
 !******************************!
+<HDR:835783838362834E>
 <T>Layton? You're Professor Layton?<W>
 My apologies! I wasn't expecting
 you so soon!
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>No apology necessary, my good
 man.<W> Oh, and allow me to introduce
 my-
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Apprentice! I'm the professor's
 apprentice, Luke! Pleased to meet
 you, sir!
 !******************************!
+<HDR:835783838362834E>
 <T>Luke, you say? Hmm...
 !******************************!
+<HDR:835783838362834E>
 <T>What I mean to say is, those are
 some fine manners, lad! It's nice to
 meet you too. The name's Cogg.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>You seemed a bit flustered by our
 arrival, Cogg. We certainly don't
 mean to impose...
 !******************************!
+<HDR:835783838362834E>
 <T>Oh no, no, no. It's no trouble
 at all.
 !******************************!
+<HDR:835783838362834E>
 <T>It's just that I had instructions
 to show you our biggest clock in
 action upon your arrival.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>It certainly is a beauty. Pity it's
 not in working order.
 !******************************!
+<HDR:835783838362834E>
 <T>Yes, I'd planned to give her a
 tune-up before you stopped by, so
 you could see her in all her glory.
 !******************************!
+<HDR:835783838362834E>
 <T>But I'm getting on a bit these days,
 and I have trouble keeping the old
 girl in good repair.
 !******************************!
+<HDR:835783838362834E>
 <T>I can't remember where to insert
 this last gear, and the clock won't
 work without it.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Ah, I see. That does indeed sound
 problematic.
 !******************************!
+<HDR:835783838362834E>
 <T>Maybe you can help. The papers say
 you're a learned man. Can you work
 out where this gear goes?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Hmm? Me?<W> Well, I'd like to help,
 but I'm no expert in mechanics...
 !******************************!
+<HDR:835783838362834E>
 <T>Well, at least give it a try. Don't
 you want to see our biggest clock
 in its full working glory?
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>I certainly do.<W> <A4/2>Very well, I'll
 give it a shot.
 !******************************!
+<HDR:835783838362834E>
 <T>Sorry, Professor. Until we get
 that gear back in place, I can't
 show you the clock in motion.
 !******************************!
+<HDR:835783838362834E>
 <T>Can you work out where this gear
 goes, Professor?
 !******************************!
+<HDR:835783838362834E>
 <T>That did the trick!<W> <A3/0>Just wait here,
 and I'll go and start her up!
 !******************************!
+<HDR:835783838362834E>
 <T>Here goes!
 !******************************!

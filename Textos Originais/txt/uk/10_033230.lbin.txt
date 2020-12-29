@@ -1,163 +1,213 @@
+<HDR:838B815B834E>
 <T><K>...
 !******************************!
+<HDR:838C834383678393>
 <T>Luke! There you are!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/4>Oh... Hi, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>I see you've gone out for a stroll.
 May I join you?
 !******************************!
+<HDR:838B815B834E>
 <T>Of course.<W> I-I'm sorry for running
 off.<W> I was just...<W> Well, I was just
 thinking.
 !******************************!
+<HDR:838B815B834E>
 <T>We've had so much fun these last
 few years. And I've become so used
 to going everywhere together.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Of course you have. After all,
 we're the best of friends. It's only
 natural we'd spend time together.
 !******************************!
+<HDR:838B815B834E>
 <T>B-but...<W> Dad told me the other
 day that he's being transferred.
 We'll all be moving away.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Ah, yes. Your father mentioned
 that to me as well.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>Now tell me, Luke, do you believe
 that we're true friends?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>Of course I do! How can you even
 ask that?
 !******************************!
+<HDR:838C834383678393>
 <T>Good. Then there's no need to
 worry. True friends, you see,
 share a special connection.
 !******************************!
+<HDR:838C834383678393>
 <T>And this connection endures, no
 matter how far apart they may be
 in the world.
 !******************************!
+<HDR:838C834383678393>
 <T>Distance and time apart cannot
 break the bonds formed by a true
 friendship. Do you see?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>I...I think I do, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>Excellent! Then let's get back to
 our investigation. We've got many
 mysteries to solve!
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Let's go, Professor!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>Ho ho! It's good to see you back in
 high spirits, my boy.
 !******************************!
+<HDR:838C834383678393>
 <T>Now tell me, can you guess where
 we're headed next?
 !******************************!
+<HDR:838B815B834E>
 <T><A2/1>I've been thinking about it and I'm
 sure Dimitri fled to the place where
 he's building the time machine.
 !******************************!
+<HDR:838B815B834E>
 <T>But the question is, where? We
 already know that this research
 lab isn't in the Towering Pagoda.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>That's right. So we must review
 all the clues we've gathered in our
 investigation of this London.
 !******************************!
+<HDR:838C834383678393>
 <T>Has anything we've seen around the
 city struck you as suspicious?
 !******************************!
+<HDR:838B815B834E>
 <T><A2/2>Oh! What about all the men in white
 coats we've bumped into?
 !******************************!
+<HDR:838B815B834E>
 <T>Those were lab coats, no doubt
 about it. Perhaps those men are
 involved in Dimitri's research!
 !******************************!
+<HDR:838C834383678393>
 <T>Excellent. Now let's think carefully.
 We've met several men in lab coats
 around this London.
 !******************************!
+<HDR:838C834383678393>
 <T>Other than their garb, what else
 did all these men have in common?
 !******************************!
+<HDR:838B815B834E>
 <T><J411><A1/6>Oh, of course!<Q><K></J>
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>They all had wet shoes!
 !******************************!
+<HDR:838B815B834E>
 <T>So they must have walked through
 a very wet area.<A4/2> But where
 could that be?
 !******************************!
+<HDR:8341838D837D>
 <T>The River Thames!
 !******************************!
+<HDR:8341838D837D>
 <T>Maybe they came to this part of
 town through the tunnel under
 the river!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Um, Flora?
 !******************************!
+<HDR:838B815B834E>
 <T>What tunnel under the river?
 !******************************!
+<HDR:8341838D837D>
 <T>We asked the lady at the hotel how
 to get across the river, and she
 told us about this tunnel.
 !******************************!
+<HDR:838B815B834E>
 <T>Wow...
 !******************************!
+<HDR:838C834383678393>
 <T><A4/5>Yes, we've met quite a few
 scientists during our time here.
 !******************************!
+<HDR:838C834383678393>
 <T>Though they haven't been very
 forthcoming with details, it's clear
 where they've been coming from.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>My suspicion is that these men work
 at a research facility located near
 the river.
 !******************************!
+<HDR:838C834383678393>
 <T>They probably come into town to
 refresh themselves after long
 hours of research.
 !******************************!
+<HDR:838B815B834E>
 <T>And you've known this the whole
 time, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>It's been a working theory for a
 while, yes. After all, who goes
 around in soggy shoes?
 !******************************!
+<HDR:838C834383678393>
 <T>We've seen too many men walking
 about like that for me to write
 the whole thing off as coincidence.
 !******************************!
+<HDR:838C834383678393>
 <T>I therefore believe that this
 research facility is somewhere on
 the other side of the river.
 !******************************!
+<HDR:838B815B834E>
 <T>Amazing. I've clearly still got a
 long way to go before I can reason
 as well as you do, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>All right, everyone. We're going
 back to the black market bazaar.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Why there? If we're trying to get
 across the river, shouldn't we
 head back to the riverside area?
 !******************************!
+<HDR:8341838D837D>
 <T>I'm sure we'll be going there
 eventually.
 !******************************!
+<HDR:8341838D837D>
 <T>But first, we have to talk to that
 man at the bazaar with the
 eyebrows. Grafton, I think.
 !******************************!
+<HDR:838B815B834E>
 <T>Okay, if you say so...
 !******************************!

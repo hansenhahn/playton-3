@@ -1,7 +1,9 @@
+<HDR:838B815B834E>
 <T>Drat! It looks like those two are
 still guarding the entrance to
 Chinatown.
 !******************************!
+<HDR:838C834383678393>
 <T>Don't worry. We'll find a way past
 them sooner or later, Luke.
 !******************************!

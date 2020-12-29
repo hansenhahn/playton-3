@@ -1,25 +1,32 @@
+<HDR:834F8389836E8380>
 <T><A1/1>Thank goodness you caught that
 fluffy fiend. What fine young men
 you two are!
 !******************************!
+<HDR:834F8389836E8380>
 <T>Keep at it and one day you will each
 become a true gentleman, just like
 myself.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Glad we could help.<W> Here's your
 garnet and...I believe these
 cufflinks are yours too.
 !******************************!
+<HDR:834F8389836E8380>
 <T>Oh, yes.<W> There we are. With these
 in place I'm even more devastatingly
 handsome than before.
 !******************************!
+<HDR:834F8389836E8380>
 <T>Now I believe you two young men
 deserve something for your
 trouble.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Oh, there's really no need, sir.
 !******************************!
+<HDR:838B815B834E>
 <T>Helping people is reward enough
 for any gentleman!
 !******************************!

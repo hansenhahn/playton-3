@@ -1,44 +1,57 @@
+<HDR:836883938145837C815B838B>
 <T><A2/3>Isn't this usually when you like to
 show off? You are planning to
 rescue Flora, aren't you, Layton? 
 !******************************!
+<HDR:838C834383678393>
 <T>Of course. But how can I gain
 access to the fortress's interior?
 !******************************!
+<HDR:838B815B834E>
 <T>We could try scaling one of its
 legs...
 !******************************!
+<HDR:836883938145837C815B838B>
 <T>Foolish boy! You'd be squashed
 flatter than a pancake!
 !******************************!
+<HDR:836883938145837C815B838B>
 <T><A4/1>Hey Layton, how would you like to
 use your own car to get to the
 fortress?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>You mean the one at the hospital?
 But that was just a model to make
 us believe we were in the future!
 !******************************!
+<HDR:836883938145837C815B838B>
 <T><A4/5>Hah! But I stole the blueprints for
 it and made my own improved
 Laytonmobile! Fully kitted out!
 !******************************!
+<HDR:836883938145837C815B838B>
 <T>I was saving it for a special
 occasion, but too bad. I can
 always make another one.
 !******************************!
+<HDR:836883938145837C815B838B>
 <T>The car is waiting for you on the
 hill over there. Get a move on!
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>Many thanks, Paul.
 !******************************!
+<HDR:836883938145837C815B838B>
 <T><A5/5>Don't get all sappy on me, Layton.
 I'm only doing this for Flora!
 !******************************!
+<HDR:836883938145837C815B838B>
 <T>I've parked your car up on that hill
 over there. What are you waiting
 for?
 !******************************!
+<HDR:838C834383678393>
 <T>My apologies, Paul. I'll go and fetch
 it immediately!
 !******************************!

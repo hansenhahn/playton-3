@@ -1,117 +1,154 @@
+<HDR:838B8368838B8374>
 <T>Hoo hoo! Did you deliver the
 message to my sugar lump?
 
 !******************************!
+<HDR:838B815B834E>
 <T>We did, but I have to tell you, she
 was absolutely seething by the time
 we left.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Whatever for?
 !******************************!
+<HDR:838C834383678393>
 <T>She seemed rather upset at the 
 thought that you might be dining
 at Pepper's Noodle Palace...
 !******************************!
+<HDR:838B8368838B8374>
 <T><A2/1>Hoo hoo hoo. Dear me, I fear there
 may be a misunderstanding brewing
 here.
 !******************************!
+<HDR:838C834383678393>
 <T>Do go on.
 !******************************!
+<HDR:838B8368838B8374>
 <T>My wife is a gem. I treat her like
 a queen.<W> And queens shouldn't
 have to prepare lunch!
 !******************************!
+<HDR:838B8368838B8374>
 <T>She works so hard that I don't
 want to add to her burden.<W> Plus,
 who doesn't love noodle soup?
 !******************************!
+<HDR:838B8368838B8374>
 <T><A1/1>Anyway, I'm boring you now.<W> Let me
 give you that bit of information I
 promised.
 !******************************!
+<HDR:838B8368838B8374>
 <T>This is just a rumour, but I've
 heard that the fellow you're after
 is quite fond of Old Father Thames.
 !******************************!
+<HDR:838B8368838B8374>
 <T>It's said he likes going for walks
 to admire the river whenever he
 has a spare moment.
 !******************************!
+<HDR:838C834383678393>
 <T>Interesting. So there's a chance
 we'll find our man down by the
 river?
 !******************************!
+<HDR:838B8368838B8374>
 <T>Hoo hoo! As I said, it's a rumour
 and nothing more. But go and see,
 there may be some truth in it.
 !******************************!
+<HDR:838C834383678393>
 <T>We shall do just that.<W> Thank you for
 the tip.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Just a moment now! Hoo hoo! You
 whippersnappers are always rushing,
 aren't you? Here, take this.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>A flyer?
 !******************************!
+<HDR:838B8368838B8374>
 <T>It's for a small restaurant by the
 Thames.
 !******************************!
+<HDR:838B815B834E>
 <T>The Thames Arms?
 !******************************!
+<HDR:838B8368838B8374>
 <T>A lovely little place. If you're in the
 area and have the time, you really
 should drop in.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/2>It sounds like the perfect place to
 take a break. We'll be sure to visit
 if time allows. 
 !******************************!
+<HDR:838C834383678393>
 <T>Good day, sir.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Oh! You lad, wait just a moment!
 !******************************!
+<HDR:838B815B834E>
 <T>Yes?
 !******************************!
+<HDR:838B8368838B8374>
 <T>My wife, Myrtle. How, um, angry was
 she, exactly?
 !******************************!
+<HDR:838B815B834E>
 <T>Furious.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Oho. I see.<W> Thank you. That'll be all.
 !******************************!
+<HDR:838B8368838B8374>
 <T>Oh dear...
 !******************************!
+<HDR:838C834383678393>
 <T>Is there a spot with a good view of
 the river around here?
 !******************************!
+<HDR:838B815B834E>
 <T>There was that hill we walked over
 on the way to Chinatown. You
 could see the river from up there.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>The place that Luke's talking about
 has some stairs that run down to
 the riverside.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>It might be worth investigating.
 !******************************!
+<HDR:8341838D837D>
 <T>Oh, goody! A walk by the river
 sounds wonderful!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/5>Flora, focus! This is serious
 business. We're hot on the
 trail of a criminal mastermind!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/2>Come on, Luke, loosen up a little.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>We're making progress on the case,
 and Flora's just finding her own
 way to enjoy it.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>I suppose that's true.<W> Well, what
 are we waiting for?
 !******************************!
+<HDR:838C834383678393>
 <T>Nothing, Luke. Let's head for the
 hill.
 !******************************!

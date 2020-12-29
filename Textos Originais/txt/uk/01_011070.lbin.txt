@@ -1,29 +1,37 @@
+<HDR:838B815B834E>
 <T><A2/1>Hmm... There's something fishy
 about this area too.<W> It looks
 completely different from before.
 !******************************!
+<HDR:838C834383678393>
 <T>Indeed, Luke. <A4/5>There's something
 going on here that I don't fully
 understand.
 !******************************!
+<HDR:838B815B834E>
 <T>Oh, wait! I think I know what
 happened!<W><A3/2> We must've left the
 shop through a different door.
 !******************************!
+<HDR:838B815B834E>
 <T>We're probably taking a different
 route away from the shop.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>No, that can't be right.<W> Think back
 to when we left the shop, Luke.
 !******************************!
+<HDR:838C834383678393>
 <T>We left through the same door that
 we used to enter. I'm absolutely
 certain of that.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Yes, I suppose you're right,
 Professor.<W> But what else could
 explain this change in scenery?
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Let's investigate the vicinity a bit
 more. Perhaps that will help us
 shed some light on things. 

@@ -1,41 +1,55 @@
+<HDR:837D8362834E8358>
 <T>Hey, want to hear a juicy rumour?
 !******************************!
+<HDR:838B815B834E>
 <T>Of course we do! Are you going to
 tell us?
 !******************************!
+<HDR:837D8362834E8358>
 <T>BZZT!<W> Sorry, I can only share this
 rumour with people who solve my
 puzzle.
 !******************************!
+<HDR:837D8362834E8358>
 <T>BZZT!<W> Looks like you'll have to go
 rumourless for today.
 !******************************!
+<HDR:837D8362834E8358>
 <T>Want to hear a juicy rumour?<W>
 Then solve my puzzle!
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W> Correct!<W> Now I'll
 tell you about the fabulous prize
 you just won.
 !******************************!
+<HDR:838B815B834E>
 <T>Let me guess. You're going to tell
 us that rumour?
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W> Correct!<W> I've been
 hearing talk about an amazing
 parrot.
 !******************************!
+<HDR:838B815B834E>
 <T>A parrot, eh?
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W> Correct!
 !******************************!
+<HDR:837D8362834E8358>
 <T>Not only can this parrot talk, he
 can copy sounds perfectly!
 !******************************!
+<HDR:838B815B834E>
 <T>That sounds an awful lot like
 <N1>...
 !******************************!
+<HDR:837D8362834E8358>
 <T>You mean you know this famous
 parrot?! Wow!
 !******************************!
+<HDR:837D8362834E8358>
 <T>How's your parrot friend doing?
 !******************************!

@@ -1,15 +1,20 @@
+<HDR:838B815B834E>
 <T>Hello sir.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Oh, it's you, lad. I heard ya had a
 run-in with the head of the Family.
 !******************************!
+<HDR:838B815B834E>
 <T>That we did! And he turned out to
 be nothing more than a fake!
 !******************************!
+<HDR:835A834B815B838B>
 <T>Heh. Well, that's the Family for
 ya. A bunch of frauds playin'
 the parts they're given.
 !******************************!
+<HDR:835A834B815B838B>
 <T>All the same, they're dangerous.
 And now they'll be lookin' for ya.
 Watch yerself out there, okay?

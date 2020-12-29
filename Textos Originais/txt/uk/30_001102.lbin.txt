@@ -1,21 +1,27 @@
+<HDR:838C834383678393>
 What's this place?
 The sign is quite
 cryptic.
 !******************************!
+<HDR:838B815B834E>
 This corner shop
 seems to have closed
 down. Pity...
 !******************************!
+<HDR:838B815B834E>
 Huh?! Oh, it's just
 some rubbish.
 !******************************!
+<HDR:8341838D837D>
 Oh... It looks as if
 this shop has been
 abandoned for a while.
 !******************************!
+<HDR:834E838983458358>
 Oh dear. These weeds
 have just been left to
 grow out of control.
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

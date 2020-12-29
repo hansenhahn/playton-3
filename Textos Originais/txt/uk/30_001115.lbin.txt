@@ -1,19 +1,25 @@
+<HDR:838C834383678393>
 This shop must have
 been abandoned for
 quite a while.
 !******************************!
+<HDR:838B815B834E>
 I wonder what kind of
 shop this was?
 !******************************!
+<HDR:838B815B834E>
 Eugh, the floor's
 filthy...
 !******************************!
+<HDR:8341838D837D>
 Eep! What if something
 crawls out of there?
 !******************************!
+<HDR:834E838983458358>
 A-choo! Aaaa-choo!
 There's so much dust 
 in here...
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

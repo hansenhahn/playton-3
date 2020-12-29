@@ -1,37 +1,50 @@
+<HDR:8366834283898393>
 <T><A2/4>What was she thinking...?
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Is something the matter?
 !******************************!
+<HDR:8366834283898393>
 <T><A1/5>Yeah. I'm supposed to go to my
 friend's house today, but I don't
 know where it is.
 !******************************!
+<HDR:8366834283898393>
 <T>Her instructions make no sense at
 all. They're absolute gibberish.<W>
 Here, have a look.
 !******************************!
+<HDR:8366834283898393>
 <T><A2/4>Nope, that won't do it.
 !******************************!
+<HDR:8366834283898393>
 <T><A1/5>Hey, give me a hand with this will
 you? I'm completely stuck here.
 !******************************!
+<HDR:8366834283898393>
 <T><A1/1>Hey, well done.<W> Recently I've been
 playing with my friend, like, every
 day.
 !******************************!
+<HDR:8366834283898393>
 <T><A2/5>My dad's never home and neither
 are her parents.
 !******************************!
+<HDR:8366834283898393>
 <T>They all stay cooped up at the
 research facility, day and night.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>So your father is a researcher?
 !******************************!
+<HDR:8366834283898393>
 <T><A3/1>Him and almost everyone else in this
 part of town.
 !******************************!
+<HDR:838C834383678393>
 <T>Interesting...
 !******************************!
+<HDR:8366834283898393>
 <T><A1/1>Hey there. Out for a stroll or
 something?
 !******************************!

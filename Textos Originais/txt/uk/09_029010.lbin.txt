@@ -1,92 +1,121 @@
+<HDR:82C982B9838C834383678393>
 <T>Fascinating! Do continue.
 !******************************!
+<HDR:838C834383678393>
 <T>Luke, would you be so kind as to
 solve a quick puzzle for me?
 !******************************!
+<HDR:838B815B834E>
 <T>Uh...right now, Professor?<W> Aren't
 we in the middle of something here?
 !******************************!
+<HDR:838C834383678393>
 <T>Give it some more thought, Luke.
 !******************************!
+<HDR:838C834383678393>
 <T>Let's try this once more.
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T>Yes, yes, the boy is quite bright.
 We all know that. But what does
 that have to do with anything?
 !******************************!
+<HDR:838C834383678393>
 <T>I'm getting there.<W> But first, a
 question. I have a pen in my pocket
 that's either red or blue.
 !******************************!
+<HDR:838C834383678393>
 <T>Could you tell me which colour it
 is?
 
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T>What a terribly uncharacteristic
 query for you to make. There's no
 logic for me to work through.
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T>I'm not a mind-reader, and I refuse
 to guess blindly. How can I solve
 your puzzle without a single hint?
 !******************************!
+<HDR:838C834383678393>
 <T>So in other words, you have no
 idea what colour pen I have in my
 pocket?
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T>Of course not.
 !******************************!
+<HDR:838C834383678393>
 <T>That's funny.
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T>Oh?
 !******************************!
+<HDR:838C834383678393>
 <T><A2/1>Luke, what would happen if you
 removed the bottom row of blocks
 from that pile I just showed you?
 !******************************!
+<HDR:838B815B834E>
 <T>The rest of the blocks would fall
 down, I suppose.
 !******************************!
+<HDR:838C834383678393>
 <T>That's right. Those blocks in the
 middle of the structure don't float
 in mid-air.
 !******************************!
+<HDR:838C834383678393>
 <T>Only by resting on the blocks
 beneath can those blocks stay
 elevated.
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T><K>...
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>If you were really my future self,
 you would have experienced this
 very moment before.
 !******************************!
+<HDR:838C834383678393>
 <T>There is simply no way you could
 forget it.
 !******************************!
+<HDR:838C834383678393>
 <T>Given your answer, I can only
 assume that your memory of this
 crucial event is missing.
 !******************************!
+<HDR:838C834383678393>
 <T>But remember those blocks. All
 blocks are supported by other
 blocks.
 !******************************!
+<HDR:838C834383678393>
 <T>When you remove one, everything
 on top of it comes tumbling down.
 <W>The same goes for memory.
 !******************************!
+<HDR:838C834383678393>
 <T>You can't simply be missing a
 whole block of memory. It would
 destroy your very persona.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>It all makes sense now!
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T>I see... So, what colour is the pen
 in your pocket, then?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>My pockets are empty. There was
 never a pen there to begin with.
 !******************************!
+<HDR:82C982B9838C834383678393>
 <T><K>...
 !******************************!

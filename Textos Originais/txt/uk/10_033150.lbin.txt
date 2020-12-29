@@ -1,19 +1,25 @@
+<HDR:838C834383678393>
 <T>Hello, Paillard. Could you tell me if
 young Luke has been here recently?
 !******************************!
+<HDR:836F8362834A8358>
 <T>The little fella with the rumbling
 tummy? Har har! No, I haven't seen
 him.
 !******************************!
+<HDR:838C834383678393>
 <T>Oh dear.<W> He's been missing for some
 time and I haven't had much success
 in finding him.
 !******************************!
+<HDR:836F8362834A8358>
 <T>Poor lad. Maybe he got lost while
 wandering about town.
 !******************************!
+<HDR:838C834383678393>
 <T>If he comes by, let him know I'm
 looking for him, will you?
 !******************************!
+<HDR:836F8362834A8358>
 <T>Of course. 
 !******************************!

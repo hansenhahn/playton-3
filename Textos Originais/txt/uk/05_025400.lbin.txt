@@ -1,52 +1,69 @@
+<HDR:4F50838B815B834E8251>
 <T>All that stuff in your notebook,
 Professor...
 !******************************!
+<HDR:4F50838B815B834E8251>
 <T>What was this explosion you were
 researching? 
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>It all happened quite a few years
 ago, when you were very small.
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>Two scientists working in a physics
 lab accidentally caused an
 explosion during an experiment.
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>The blast devastated the
 surrounding area.
 !******************************!
+<HDR:4F50838B815B834E8251>
 <T>That must have been all over the
 news.
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>You'd think so, wouldn't you?
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>However, though many perished in
 the blast, few records of the
 accident remain.
 !******************************!
+<HDR:4F50838B815B834E8251>
 <T>What happened?
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>That's something I'm still trying to
 work out myself.
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>But answer me this, Luke: what is
 the first thing that comes to mind
 when you think of an explosion?
 !******************************!
+<HDR:4F50838B815B834E8251>
 <T>Why, the explosion at the
 presentation of Dr Stahngun's
 time machine, of course!
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>That was my first thought as well.
 I have a strong suspicion that
 these two incidents are connected.
 !******************************!
+<HDR:4F50838B815B834E8251>
 <T>Why's that?
 !******************************!
+<HDR:4F50838C8343836783938251>
 <T>Well, it's nothing more than a hunch
 at the moment, so I can't really
 say any more.
 !******************************!
+<HDR:4F50838B815B834E8251>
 <T><K>Hmm...
 !******************************!
+<HDR:4F50838B815B834E8251>
 <T>Oh, Professor, this is our stop!
 !******************************!

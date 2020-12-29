@@ -1,13 +1,17 @@
+<HDR:838C834383678393>
 <T>Hello there, Max. Have you seen
 Luke around here, by any chance?
 !******************************!
+<HDR:837D8362834E8358>
 <T><A3/0>BZZT!<W><A2/3> Nope. I don't think he's come
 through this way.<W> <A1/1>Why? Is something
 wrong?
 !******************************!
+<HDR:838C834383678393>
 <T>It's probably nothing serious. But
 if you see him, do please let him
 know I'm looking for him.
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W> <A1/2>Understood.
 !******************************!

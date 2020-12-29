@@ -1,18 +1,24 @@
+<HDR:83778343835B838B>
 <T><A4/5>AUGH!<W>
 <A2/5>Oh, it's you, parrot. You made me
 jump!
 !******************************!
+<HDR:834983458380>
 <T><A3/0>Prrresent! Prrresent!
 !******************************!
+<HDR:83778343835B838B>
 <T><A1/1>Wow! This is a great present! I bet
 she'll love this! Thank you so much,
 little bird!
 !******************************!
+<HDR:834983458380>
 <T><A4/0>You'rrre welcome!
 !******************************!
+<HDR:83778343835B838B>
 <T><A3/4>But... How will I ever pluck up
 the courage to give it to her?
 <W>My lovely B-<W30>B-<W30>Becky...
 !******************************!
+<HDR:834983458380>
 <T><A2/1>Becky? Becky?
 !******************************!

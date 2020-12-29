@@ -1,43 +1,57 @@
+<HDR:837B83588367838D>
 <T><A2/3>You're supposed to be on guard
 duty, you clown! Stop slackin' off!
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>I wasn't slackin' off, Bostro! I was
 just-
 !******************************!
+<HDR:837B83588367838D>
 <T>Graah! You know the only thing I
 'ate more than a loafer is a loafer
 who makes excuses!
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>B-but...
 !******************************!
+<HDR:837B83588367838D>
 <T>There ain't no buts about it! That
 attitude is what stops you movin'
 up in this 'ere organisation.
 !******************************!
+<HDR:837B83588367838D>
 <T><A4/0>You know what?<W> You're finished
 'ere!<A2/3> The Family don't need no
 clowns like you! Get lost!
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Aw come on, Bostro! Don't kick me
 out! I ain't got nowhere to go!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>There! Did you hear that?
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>Yes, I heard {''}get lost{''}, loud and
 clear.
 !******************************!
+<HDR:8341838D837D>
 <T>What about <N1>?
 Did he manage to pick it up?
 !******************************!
+<HDR:838B815B834E>
 <T>Did you hear what that big man
 said, <N1>?
 !******************************!
+<HDR:8349834583808251>
 <T>Awwwrk!<W> Get...<W> Get lost, get lost!
 
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A2/2>It's uncanny how much he sounds
 like Bostro!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/2>A performance like that is sure
 to fool those two guards at the
 gate. Let's head to Chinatown!

@@ -1,22 +1,28 @@
+<HDR:838B815B834E>
 It's not showing any
 signs of movement. It
 must be for show.
 !******************************!
+<HDR:838C834383678393>
 This is one of the
 entrances to the
 arcade.
 !******************************!
+<HDR:838C834383678393>
 {''}Graffiti prohibited!{''}
 ...according to this
 piece of graffiti.
 !******************************!
+<HDR:8341838D837D>
 What a nice stripy
 pattern on that
 house!
 !******************************!
+<HDR:834E838983458358>
 Arcades like this are
 a fairly recent
 development.
 !******************************!
+<HDR:835283438393>
 You got a hint coin!
 !******************************!

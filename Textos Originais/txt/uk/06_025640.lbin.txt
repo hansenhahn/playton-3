@@ -1,39 +1,53 @@
+<HDR:835783838362834E>
 <T>Okay! End of the line! Everyone out!
 Heh heh!
 !******************************!
+<HDR:83608346838B837E815B>
 <T>What in the world...?
 !******************************!
+<HDR:838B815B834E>
 <T>Urgh... My stomach's doing backflips
 again.
 !******************************!
+<HDR:83608346838B837E815B>
 <T>Hey, Layton! What just happened?
 !******************************!
+<HDR:838C834383678393>
 <T>Step outside and see for yourself,
 Inspector. That should serve as
 sufficient explanation.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/6>What are you on about now?<W>
 Hmph. Come on then, Barton.
 Let's go outside.
 !******************************!
+<HDR:836F815B83678393>
 <T>Just a moment, Inspector. I'm
 feeling a little queasy.<W> Very
 queasy, actually...
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/1>Pull yourself together, Constable!
 We're going outside.
 !******************************!
+<HDR:8341838D837D>
 <T><A1/4>Please don't jostle me. I'm feeling
 a bit green...
 !******************************!
+<HDR:838B815B834E>
 <T>Are you okay, Flora?
 !******************************!
+<HDR:838C834383678393>
 <T>It was a rather bumpy ride.
 !******************************!
+<HDR:838B815B834E>
 <T>I'll say. Time travel really takes it
 out of you.
 !******************************!
+<HDR:8341838D837D>
 <T>I'm just...<W>a little...<W>dizzy...
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>Oh no! Flora!
 !******************************!

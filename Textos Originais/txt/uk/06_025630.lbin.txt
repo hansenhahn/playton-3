@@ -1,118 +1,157 @@
+<HDR:835783838362834E>
 <T>Welcome back.<W> I take it you found
 the information you were after?
 !******************************!
+<HDR:838C834383678393>
 <T>We did.<W> I hope Luke hasn't got
 tired of waiting for us back in
 the future.
 !******************************!
+<HDR:835783838362834E>
 <T>Yep, we mustn't keep the young
 sir waiting.
 !******************************!
+<HDR:838B815B834E>
 <T>{''}Young sir{''}?
 !******************************!
+<HDR:835783838362834E>
 <T><A2/1><K>Hrm?<W></K> Oh! Heh heh heh! Did I just
 call Luke {''}sir{''}?
 !******************************!
+<HDR:835783838362834E>
 <T>Sorry, it's an old habit from being
 in service.
 !******************************!
+<HDR:835783838362834E>
 <T>My mind's just not as sharp as it
 used to be, you know. I often get
 a little muddled and-
 !******************************!
+<HDR:835783838362834E>
 <T>Hrm? Someone's at the door.
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/1>You can't just barge onto private
 property! It's illegal!<W> Not to
 mention ungentlemanly!
 !******************************!
+<HDR:83608346838B837E815B>
 <T>But I, madam, am no gentleman! I'm
 an officer of the law, and I'm here
 on an important investigation.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>Wh-what's Inspector Chelmey doing
 here?!
 !******************************!
+<HDR:838C834383678393>
 <T>You tailed us, didn't you,
 Inspector?
 !******************************!
+<HDR:838C834383678393>
 <T>In which case, Spring is right. It is
 very unbecoming of a gentleman.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/5>Say what you will, Layton. The fact
 remains that our prime minister is
 missing!
 !******************************!
+<HDR:83608346838B837E815B>
 <T>And if I have to step on a few toes
 to find him, then that's what I'll do!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Inspector...
 !******************************!
+<HDR:83608346838B837E815B>
 <T>And I'll keep doing it until you
 lay your cards on the table, Layton.<W>
 ALL of them.
 !******************************!
+<HDR:8341838D837D>
 <T><A3/3>I can't believe you, Professor!
 !******************************!
+<HDR:8341838D837D>
 <T>You too, Luke!
 !******************************!
+<HDR:838B815B834E>
 <T>F-Flora!
 !******************************!
+<HDR:8341838D837D>
 <T>You ran off and left me on my own
 again! I'd even made you those
 nice cucumber sandwiches!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Flora, please. We just didn't want
 to put you in danger, that's all.
 !******************************!
+<HDR:8341838D837D>
 <T><A1/5>You say that, but the real reason
 you won't take me is because you
 think I'll get in the way! Isn't it?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/3>No! That's not it at all!
 !******************************!
+<HDR:838C834383678393>
 <T>Flora, you have to understand.
 <W>You could be put in harm's way.
 It's for your own safety that-
 !******************************!
+<HDR:8341838D837D>
 <T><A1/3>I don't know anyone else here.
 What am I supposed to do when you
 two run off?
 !******************************!
+<HDR:8341838D837D>
 <T>Just sit there like a lemon and
 wait?!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Well, when you put it that way...
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Luke!
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/6>You know, Layton, I think the girl
 has a point.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/1>You may be leaving her behind out
 of concern, but that doesn't help
 anyone if it gets her all upset.
 !******************************!
+<HDR:838C834383678393>
 <T>Inspector? You too?
 !******************************!
+<HDR:835783838362834E>
 <T>Er, sorry to interrupt, but we've 
 got to get going. We can't keep
 Luke waiting any longer.
 !******************************!
+<HDR:835783838362834E>
 <T>I have to start her up now.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>But there are several people here
 who have nothing to do with the
 matter at hand.
 !******************************!
+<HDR:835783838362834E>
 <T>Well...<W> The more the merrier, that's
 what they say, isn't it?
 !******************************!
+<HDR:838C834383678393>
 <T>That's ridiculous. I beg you to
 reconsider.
 !******************************!
+<HDR:835783838362834E>
 <T>Sorry, Professor. We've got to go.<A3/0>
 Hold on, everyone!<A1/1>
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/5>Hold on? What for?
 !******************************!

@@ -1,37 +1,49 @@
+<HDR:838B815B834E>
 <T>There's no doubt about it,
 Professor. We're back in our time.
 !******************************!
+<HDR:838C834383678393>
 <T>The surroundings here certainly
 do seem familiar.
 !******************************!
+<HDR:838B815B834E>
 <T>Phew. All this time travel has
 really worn me out, you know.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Yes, I could do with a rest myself.
 But we mustn't keep Cogg waiting.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>You're right. So, shall we go and
 find Inspector Chelmey?
 !******************************!
+<HDR:838C834383678393>
 <T>That will be our second stop.
 I'd like to drop by my office at
 the university first.
 !******************************!
+<HDR:838B815B834E>
 <T>For a quick rest?
 !******************************!
+<HDR:838C834383678393>
 <T><A2/2>Not quite. I need to check a few
 things before our meeting with
 Inspector Chelmey.
 !******************************!
+<HDR:838C834383678393>
 <T>Preparation, my boy, is the
 foundation upon which every good
 investigation is built.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>Right you are, Professor!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>Now that we're back in our own
 time, we can reach the university
 in a matter of minutes by bus.
 !******************************!
+<HDR:838C834383678393>
 <T>Let's go, Luke.
 !******************************!

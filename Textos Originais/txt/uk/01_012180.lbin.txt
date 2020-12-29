@@ -1,6 +1,8 @@
+<HDR:838C834383678393>
 <T>We need to buy tickets before
 boarding. Will you take care of
 that, Luke?
 !******************************!
+<HDR:838B815B834E>
 <T>Of course, Professor.
 !******************************!

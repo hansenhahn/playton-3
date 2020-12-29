@@ -1,82 +1,112 @@
+<HDR:96A29788838B815B834E>
 <T>Professor Layton, Luke, welcome
 to the London of the future.
 !******************************!
+<HDR:838C834383678393>
 <T><K>Hmm.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Still not convinced?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>You saw Dr Schrader, didn't you?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/4>You must have noticed the toll that
 time has taken on your mentor.
 !******************************!
+<HDR:838C834383678393>
 <T>Yes, we saw him...
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>And what of fair London? You've
 walked around enough now to see
 how she's changed.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Could you imagine there being a
 casino in this sleepy part of town
 back in your time?
 !******************************!
+<HDR:838B815B834E>
 <T>Yeah, everything's changed! What's
 happened to this city?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/5>A genius appeared...<W>an evil genius
 who turned the city on its head.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/3>Oh, I know where this is going.<W>
 Don Paolo took over the city,
 didn't he?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/1>Don Paolo?<W> <A1/4>Oh no, I'm talking about
 a truly brilliant man.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Someone the three of us all know
 quite well.
 !******************************!
+<HDR:838B815B834E>
 <T><A2/1>Well, if it's not Don Paolo, then
 who is it?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>What do you think, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T>I really couldn't say.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Hmm... Really?
 !******************************!
+<HDR:838B815B834E>
 <T>Who is it? I've just got to know!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>His name is Hershel Layton.<W> The
 evil genius is you, Professor.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>WHAAAAT?!
 !******************************!
+<HDR:838C834383678393>
 <T>I...<W>was afraid you'd say that.
 !******************************!
+<HDR:838B815B834E>
 <T>That can't possibly be right!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>I'm sorry to say that it is.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>They call him {''}the devil in the top
 hat{''}, and he rules London from the
 shadows.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>It's common knowledge for people
 in this part of London.
 !******************************!
+<HDR:838C834383678393>
 <T>Tell me more, Luke.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>What? I don't know any more than
 you do, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>No, I meant the other Luke.<W>
 Goodness, this is getting rather
 complicated, isn't it?
 !******************************!
+<HDR:838C834383678393>
 <T>Tell me, Luke, how did I rise to rule
 over all of London?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Where to begin...?<W> Here, Professor,
 surely you remember this?
 !******************************!

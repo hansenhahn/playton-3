@@ -1,44 +1,56 @@
+<HDR:834E838D815B8393837D837483428341>
 <T>Oi! What are you lookin' at,
 pint-size?
 !******************************!
+<HDR:838B815B834E>
 <T>Oh, um, hello sir. Didn't we just
 meet in front of the hotel?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>What hotel?<W> Not that it's any of
 your business, but I've been posted
 here all day.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Bostro'd have my guts for garters
 if I even thought about sneakin'
 off.
 !******************************!
+<HDR:838B815B834E>
 <T>Yikes!<W> Well, um, it looks like
 I got you mixed up with someone
 else. Have a good day, sir.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Hold your horses, shorty! You're
 the one who wanted to talk, so you
 ain't runnin' out on me now.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Standin' around all day ain't that
 thrillin'. Watchin' you squirm with
 this puzzle might help pass the time.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Oh, so you're just gonna walk away
 without solvin' my puzzle? I won't
 forget this, you know!
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Gimme a hand with this puzzle, will
 you? It's the only thing that's
 keepin' me from dyin' of boredom.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>What?! You solved it already?
 Great. How am I supposed to stop
 myself noddin' off on the job now?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Stop hasslin' me, all right? I ain't
 got no more puzzles for you.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>I'll see if I can think up another
 one, but I'm warnin' you - it's
 gonna take a while.

@@ -1,14 +1,18 @@
+<HDR:8369838C815B835683878393>
 <T>Luke and Layton encounter
 Dr Schrader in Green Hospital.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>The doctor instructs the pair to
 head to the back of the hospital,
 where they find the Laytonmobile.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>In the car, they find another letter
 from Future Luke, telling them where
 to meet him.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Luke and Layton head for the
 Gilded 7 Casino on Flatstone
 Street.

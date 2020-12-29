@@ -1,44 +1,58 @@
+<HDR:838B815B834E>
 <T><A1/1>Here to check out all those great
 toy cars?
 !******************************!
+<HDR:8366834283898393>
 <T><A1/1>Toy cars?<W> Puh-lease.<A1/4> Those are
 for babies.
 !******************************!
+<HDR:835883658342815B8375>
 <T><A3/1>That's strange. I could've sworn
 I saw you playing with one of those
 cars just a few minutes ago.
 !******************************!
+<HDR:835883658342815B8375>
 <T>I believe your exact words were:
 {''}Vroom vroom wheeeeeee!{''}
 !******************************!
+<HDR:8366834283898393>
 <T><A1/5>Keep it down, Chequer. I'm trying
 to look cool here, yeah?
 !******************************!
+<HDR:835883658342815B8375>
 <T><A1/1>Hyeh heh! Sorry, Duncan, but I for
 one hope you never grow out of toy
 cars. You're my best customer! 
 !******************************!
+<HDR:838B815B834E>
 <T><A4/2>Well, they are really good fun...
 !******************************!
+<HDR:8366834283898393>
 <T><A3/1>Too right. I just wish Chequer
 wouldn't go around letting
 everyone know I like them!
 !******************************!
+<HDR:8366834283898393>
 <T>A fella's gotta try and look cool,
 you know?<W> Speaking of cars,
 though, I've got a puzzle for you!
 !******************************!
+<HDR:8366834283898393>
 <T><A2/1>Giving up?<W> Boooo.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>I've definitely got it this time.
 Just watch!
 !******************************!
+<HDR:8366834283898393>
 <T><A3/1>Good skills.<W> Now, if you'll excuse
 me, I have some stuff I need to
 take care of.<W> Cool stuff.
 !******************************!
+<HDR:835883658342815B8375>
 <T><A1/1>Hyeh heh! He's actually just going
 off to polish his toy cars.
 !******************************!
+<HDR:8366834283898393>
 <T><A1/1>How's that toy car of yours doing?
 !******************************!

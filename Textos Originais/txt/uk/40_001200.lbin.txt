@@ -1,3 +1,4 @@
+<HDR:50726F666573736F72204C6179746F6E>
 Though his main passions
 are solving puzzles and
 enjoying a nice cup of
@@ -10,6 +11,7 @@ hat that was given to
 him by his sweetheart,
 Claire.
 !******************************!
+<HDR:4C756B65>
 The professor's self-
 proclaimed apprentice,
 Luke is a very bright
@@ -22,6 +24,7 @@ than one investigation
 and his appetite is
 legendary.
 !******************************!
+<HDR:466C6F7261>
 Layton's prot{'e}g{'e}e and
 devoted follower, Flora
 refuses to be left
@@ -32,6 +35,7 @@ known to turn stomachs,
 but it seems to have
 improved a bit recently.
 !******************************!
+<HDR:446F6E2050616F6C6F>
 A brilliant scientist who
 believes himself to be
 Layton's arch-nemesis.
@@ -44,6 +48,7 @@ His skill as an inventor
 is matched only by his
 mastery of disguise.
 !******************************!
+<HDR:496E73706563746F72204368656C6D6579>
 The mere mention of
 Inspector Chelmey has
 the London underworld
@@ -56,6 +61,7 @@ bars, but at home with
 his wife he is the model
 of a loving husband.
 !******************************!
+<HDR:426172746F6E>
 A placid bon vivant,
 Constable Barton is
 the perfect foil for
@@ -67,6 +73,7 @@ which he satisfies by
 frequent visits to the
 canteen for a snack.
 !******************************!
+<HDR:467574757265204C756B65>
 An older version of
 Luke from 10 years in
 the future. Future Luke
@@ -79,6 +86,7 @@ genuine love of puzzles.
 He is later revealed to
 be Clive in disguise.
 !******************************!
+<HDR:43656C65737465>
 A young woman who
 claims to be Claire's
 sister, Celeste has
@@ -91,6 +99,7 @@ clues. It is finally
 revealed that she is
 in fact Claire herself.
 !******************************!
+<HDR:44696D6974726920416C6C656E>
 A researcher in the
 field of time travel,
 Dimitri's love for Claire
@@ -103,6 +112,7 @@ but, blinded by a desire
 for revenge, he became
 a pawn in Clive's plans.
 !******************************!
+<HDR:42696C6C204861776B73>
 The prime minister of
 the United Kingdom, Bill
 once worked with Dimitri
@@ -115,6 +125,7 @@ Even after being
 abducted by Dimitri, Bill
 remains unremorseful.
 !******************************!
+<HDR:537072696E67>
 When she's not working
 in the clock shop,
 Spring is a shameless
@@ -127,6 +138,7 @@ rudely interrupted by
 Cogg turning the lights
 off for his own work.
 !******************************!
+<HDR:436F6767>
 Cogg the clock shop
 owner was once a
 lackey at the Dove
@@ -139,6 +151,7 @@ the shop are Cogg's
 handiwork - except the
 giant one, of course.
 !******************************!
+<HDR:467574757265205363687261646572>
 An impersonation of
 Dr Schrader by Don
 Paolo, his former
@@ -151,6 +164,7 @@ Dr Schrader's favourite
 student, Hershel Layton.
 
 !******************************!
+<HDR:4675747572652044656C6D6F6E61>
 A fake future Dean
 Delmona staying at
 the hotel, he is really
@@ -162,6 +176,7 @@ years, but this subtle
 touch was what gave him
 away.
 !******************************!
+<HDR:536869706C6579>
 Shipley is the postman
 who delivered the letter
 from the future to
@@ -174,6 +189,7 @@ plumper. He started out
 as a gardener at the
 Dove household.
 !******************************!
+<HDR:4772616E6E7920526964646C65746F6E>
 Puzzle savante Granny
 Riddleton used to store
 puzzles that Luke and
@@ -186,6 +202,7 @@ on holiday. The elusive
 lady now pops up in the
 most unexpected places.
 !******************************!
+<HDR:50757A7A6C65747465>
 Puzzlette is Granny
 Riddleton's
 granddaughter and
@@ -198,6 +215,7 @@ She sounds a bit dozy,
 but there could be more
 than meets the eye...
 !******************************!
+<HDR:426561736C79>
 A bee with a taste for
 sweet puzzle nectar,
 there is likely a long
@@ -210,6 +228,7 @@ forever. Beasly is a
 talkative chap with a
 spirit of chivalry.
 !******************************!
+<HDR:506172726F74>
 This clever parrot has
 a knack for learning
 words and using them
@@ -222,6 +241,7 @@ voices, but also at
 delivering items across
 treacherous terrain.
 !******************************!
+<HDR:5375626A6563742033>
 A rabbit with attitude,
 Subject 3 developed a
 profound mistrust of
@@ -233,6 +253,7 @@ wild rabbit, he has
 acquired the ability to
 walk on two legs.
 !******************************!
+<HDR:426F7374726F>
 As Dimitri's head
 henchman, Bostro has
 never doubted that his
@@ -244,6 +265,7 @@ him a useful tool for
 Clive, but he remains
 blissfully ignorant.
 !******************************!
+<HDR:46616D696C792054687567>
 These ubiquitous gang
 thugs like to hang
 around street corners.
@@ -256,6 +278,7 @@ atrocious, but they
 have shown a certain
 fondness for puzzles.
 !******************************!
+<HDR:4C6F636B6A6177>
 Posing as Bostro's
 underling, in truth
 Lockjaw answers only
@@ -266,6 +289,7 @@ information slip makes
 him something of a
 liability for his boss.
 !******************************!
+<HDR:53706C696E74657273>
 Splinters is a brutish,
 bloodthirsty man who
 works for Bostro.
@@ -278,6 +302,7 @@ only a young man of 28,
 he's already concerned
 by his receding hairline.
 !******************************!
+<HDR:4D61727A616E6F>
 Marzano is a mid-ranking
 gang member who is
 wrapped up in his own
@@ -290,6 +315,7 @@ laments his tragic life,
 he doesn't actually
 consider it all that bad.
 !******************************!
+<HDR:4C61796D616E>
 Layman is a gangster
 with romantic ideals.
 Though not very tall,
@@ -302,6 +328,7 @@ boss's notice, he leads
 an unrewarding life
 in the back streets.
 !******************************!
+<HDR:46697368657965>
 Fisheye is a gangster
 who answers directly
 to Clive. He is a
@@ -314,6 +341,7 @@ skill with knives, not
 least when it comes to
 juggling them.
 !******************************!
+<HDR:53696C6B79>
 Silky is a gangster
 known for his unique
 laugh and unusual
@@ -326,6 +354,7 @@ He takes pride in his
 beard and is never
 without his trimmer.
 !******************************!
+<HDR:4368656C746F6E>
 Chelton is a rough
 gangster who works for
 Bostro. His close
@@ -338,6 +367,7 @@ his boss's wrath and
 can frequently be heard
 grumbling about him.
 !******************************!
+<HDR:4261726D6579>
 Barmey is an underling
 of Bostro's who looks
 remarkably like
@@ -350,6 +380,7 @@ brother. He is a regular
 customer at Pepper's
 Noodle Palace.
 !******************************!
+<HDR:57617264>
 Ward guards the way
 to various Family
 establishments, such
@@ -362,6 +393,7 @@ guard duty makes him
 an unwitting favourite
 among the scientists.
 !******************************!
+<HDR:536D697468>
 Smith was once a guard
 at the exhibition site,
 but lost his job after
@@ -373,6 +405,7 @@ Gressenheller
 University, watching out
 for student high jinks.
 !******************************!
+<HDR:466C6F72656E6365>
 Florence is an eccentric
 old lady who teaches
 you all about hint coins.
@@ -385,6 +418,7 @@ the fruit of several
 hours' work every day.
 
 !******************************!
+<HDR:5669746F>
 Vito is a mean-spirited
 little man who hangs
 around Midland Road.
@@ -397,6 +431,7 @@ latest cause for
 grumpiness.
 
 !******************************!
+<HDR:417274>
 Art is a builder who's
 working single-handedly
 to reclaim the future
@@ -409,6 +444,7 @@ He is a real pro who'll
 turn his hand to
 anything.
 !******************************!
+<HDR:4E696B6C617573>
 Niklaus is a boorish
 fellow who inhabits
 Midland Road. He hates
@@ -421,6 +457,7 @@ He has a lot of respect
 for Art, who is cleaning
 up Midland Road.
 !******************************!
+<HDR:416E697461>
 Anita is the owner of
 the caf{'e} on Midland
 Road. She's a tough
@@ -433,6 +470,7 @@ who's been spreading
 the word about her
 luscious ham sandwiches.
 !******************************!
+<HDR:416C666965>
 Alfie is a regular
 customer at Anita's
 caf{'e}. It is even
@@ -443,6 +481,7 @@ talking to young people,
 but his enthusiasm is
 rarely reciprocated.
 !******************************!
+<HDR:4564676172>
 Edgar is a faint-hearted
 youth who gets scared
 and runs away at the
@@ -454,6 +493,7 @@ himself. He is Rudolph
 and Myrtle's grandson.
 
 !******************************!
+<HDR:4164656C696E65>
 Adeline is a fiery
 Welsh dragon with the
 pride of a queen. Born
@@ -466,6 +506,7 @@ preserve her looks, but
 the results are hardly
 worth the sacrifice.
 !******************************!
+<HDR:4D6178>
 Max is a strange boy
 whose conversation
 consists mainly of game
@@ -477,6 +518,7 @@ nuggets of information.
 He hates it when Becky
 patronises him.
 !******************************!
+<HDR:4265636B79>
 Becky is the lively maid
 at the Hotel Duke.
 When her grandma is
@@ -487,6 +529,7 @@ She likes to think of
 Max as her prot{'e}g{'e}.
 
 !******************************!
+<HDR:4D61726761726574>
 Margaret is the manager
 of the Hotel Duke on
 Southern Street.
@@ -499,6 +542,7 @@ unwavering. She is
 married to Grafton, but
 he is rarely around.
 !******************************!
+<HDR:5061696C6C617264>
 Paillard is the owner
 of the restaurant. He
 gained renown as a chef
@@ -511,6 +555,7 @@ Max, of late, which is
 causing him concern.
 
 !******************************!
+<HDR:447570726565>
 Dupree is a bearded
 man who spends his time
 reading newspapers.
@@ -523,6 +568,7 @@ the newspaper without
 question has made him
 the Family's puppet.
 !******************************!
+<HDR:4E6174616C6961>
 Natalia is a nurse who
 works on reception at
 Green Hospital. She
@@ -535,6 +581,7 @@ that her patients worry
 more about her than
 she does about them.
 !******************************!
+<HDR:4861726F6C64>
 Harold is the casino's
 bouncer, whose
 unexpectedly liberal
@@ -545,6 +592,7 @@ Despite working in a
 casino, he is appallingly
 bad at card games.
 !******************************!
+<HDR:486F72616365>
 Horace is a scientist
 who was abducted and
 taken to future London.
@@ -556,6 +604,7 @@ threats from the Family.
 He has a girlfriend
 down in Chinatown.
 !******************************!
+<HDR:4861726479>
 Hardy is a workman
 drafted in to help with
 the construction of
@@ -568,6 +617,7 @@ barely notices which
 decade he's in.
 
 !******************************!
+<HDR:4375746862657274>
 One of the abducted
 scientists taken to
 future London,
@@ -580,6 +630,7 @@ science and invention,
 but sadly has no
 sense of humour at all.
 !******************************!
+<HDR:47726166746F6E>
 Grafton is a crafty
 character who lurks in
 the black market
@@ -592,6 +643,7 @@ not a bad person, he
 somehow projects a
 suspicious aura.
 !******************************!
+<HDR:436174616E6F7661>
 Not even the awful
 dogs can discourage
 the devoted Catanova
@@ -603,6 +655,7 @@ but it certainly makes
 him popular with the
 ladies.
 !******************************!
+<HDR:526F7365747461>
 Rosetta is a student
 of Professor Layton's
 who is rather enamoured
@@ -615,6 +668,7 @@ forwardness causes
 confusion to many,
 including Layton himself.
 !******************************!
+<HDR:436F6C6279>
 Colby is a constable
 who works on reception
 in Scotland Yard and a
@@ -626,6 +680,7 @@ station. His chin gets
 even longer when he
 laughs!
 !******************************!
+<HDR:5275646F6C7068>
 No one knows what's
 going down in Chinatown
 better than Rudolph.
@@ -638,6 +693,7 @@ Myrtle, his love of food
 seems to come first. His
 grandson is Edgar.
 !******************************!
+<HDR:4D69736861>
 Misha is a thoughtful
 and poetic woman with a
 philosophical outlook on
@@ -648,6 +704,7 @@ and improving her mind.
 Her origin and family
 ties are a mystery.
 !******************************!
+<HDR:44756E63616E>
 Duncan is a boy living in
 Chinatown, whose
 brusque manner
@@ -660,6 +717,7 @@ visits are getting more
 secretive as he gets
 older.
 !******************************!
+<HDR:566976>
 Viv is a well-mannered
 little girl who lives
 in Chinatown with her
@@ -672,6 +730,7 @@ has made her somewhat
 uptight, but she is a
 gentle girl at heart.
 !******************************!
+<HDR:506570706572>
 Pepper is the owner of
 the noodle shop in
 Chinatown, which is
@@ -684,6 +743,7 @@ inhabitants of future
 London. Her speciality is
 jellied eel noodle soup.
 !******************************!
+<HDR:43686571756572>
 Chequer is a toymaker
 who works in the toy
 shop in Chinatown.
@@ -694,6 +754,7 @@ inundated with
 customers in search
 of collectables.
 !******************************!
+<HDR:41766F676164726F>
 Avogadro is a scientist
 who works in the labs.
 He is impatient and
@@ -705,6 +766,7 @@ sensitive about his
 height.
 
 !******************************!
+<HDR:4D617961>
 Maya runs the
 bookshop in Chinatown -
 the natural vocation
@@ -717,6 +779,7 @@ and sometimes even
 directs her customers
 to the library.
 !******************************!
+<HDR:4D7972746C65>
 Myrtle runs the little
 pet shop in Chinatown.
 She and her husband
@@ -729,6 +792,7 @@ gentle animal-lover, but
 you wouldn't like her
 when she's angry!
 !******************************!
+<HDR:42656C6C65>
 Belle is a young lady
 who has developed a
 big crush on Little Luke.
@@ -741,6 +805,7 @@ one to let such
 obstacles get in the
 way of true love.
 !******************************!
+<HDR:47726168616D>
 Graham is, in his own
 eyes, the city's most
 stylish gentleman. He
@@ -753,6 +818,7 @@ Family gangsters. His
 dream is to start a
 clothing line with Belle.
 !******************************!
+<HDR:536C617465>
 Ever since the wall of
 Slate's garden was
 covered in messy
@@ -765,6 +831,7 @@ paintbrush himself, but
 his kindness makes him
 popular with the kids.
 !******************************!
+<HDR:45726E657374>
 Ernest is a timid old
 man who dislikes talking
 to strangers, and so
@@ -776,6 +843,7 @@ often goes round to
 the clock shop for a
 cup of tea.
 !******************************!
+<HDR:4265727461>
 Berta is a cheerful,
 motherly type with a
 loud laugh. She doesn't
@@ -788,6 +856,7 @@ Avogadro, but still
 has food on the table
 whenever he comes home.
 !******************************!
+<HDR:4D696E6E6965>
 Minnie is a laid-back girl
 with something of a
 sweet tooth. She takes
@@ -800,6 +869,7 @@ she takes great
 pleasure in feeding her
 home-made cakes.
 !******************************!
+<HDR:5061696765>
 Paige is a soft-spoken
 shy girl who wears
 glasses. She is earnest
@@ -812,6 +882,7 @@ practises projecting
 at home. Her hobby is
 writing poetry.
 !******************************!
+<HDR:52616C65696768>
 Raleigh is an assertive,
 immature boy. He is
 fascinated by beetles
@@ -824,6 +895,7 @@ moods, especially if
 there's a football to be
 kicked.
 !******************************!
+<HDR:426561636F6E>
 A passionate lighthouse
 keeper, Beacon has
 unfortunately been
@@ -836,6 +908,7 @@ dance. He is currently
 choreographing a
 tribute to lighthouses.
 !******************************!
+<HDR:4D61726B>
 Mark's bland exterior
 hides a deeply curious
 individual. He tends to
@@ -848,6 +921,7 @@ casino, where he serves
 as an easy target for
 experienced gamblers.
 !******************************!
+<HDR:5374616368656E7363617266656E>
 Why, it's our old friend
 Mr Stachenscarfen!
 Where'd he come from?
@@ -859,6 +933,7 @@ up tomorrow is as much
 of a mystery as his
 identity.
 !******************************!
+<HDR:506176656C>
 A man of contradictions,
 Pavel is a fearless
 adventurer with no
@@ -870,6 +945,7 @@ ability to get lost
 no matter how detailed
 a map he is using.
 !******************************!
+<HDR:447220416E64726577205363687261646572>
 Dr Andrew Schrader is
 Professor Layton and
 Don Paolo's old teacher.
@@ -882,6 +958,7 @@ students. His collection
 of antiques is the
 stuff of legend.
 !******************************!
+<HDR:4465616E2044656C6D6F6E61>
 Dean Delmona is the
 head of Gressenheller
 University, a kind man
@@ -894,6 +971,7 @@ His toupee protects
 passers-by from the
 glare of his shiny pate.
 !******************************!
+<HDR:4361726F6C696E65>
 Caroline is the wife of
 Prime Minister Bill Hawks,
 a calculating woman
@@ -905,6 +983,7 @@ dismayed husband has
 no idea of the limits of
 her greed.
 !******************************!
+<HDR:436C697665>
 Posing as an older Luke,
 Clive is the instigator
 of the terrible attack
@@ -917,6 +996,7 @@ his parents' premature
 deaths. He has shown
 a desire for atonement.
 !******************************!
+<HDR:436C61697265>
 Claire is Layton's old
 girlfriend. Though she
 worked as Dimitri's
@@ -929,6 +1009,7 @@ Layton his beloved hat.
 She lost her life in a
 failed experiment.
 !******************************!
+<HDR:416C61696E20537461686E67756E>
 Dr Stahngun was the
 identity assumed by
 Dimitri while building
@@ -941,6 +1022,7 @@ he had in fact departed
 to future London, along
 with the prime minister.
 !******************************!
+<HDR:467574757265204C6179746F6E>
 This is the future
 Professor Layton, who
 rules the dark city of 
@@ -953,6 +1035,7 @@ required of a gentleman.
 He was revealed to be
 Dimitri in disguise.
 !******************************!
+<HDR:42617274656E646572>
 The bartender at the
 Thames Arms is a role
 Dimitri likes to adopt
@@ -964,6 +1047,7 @@ The lower ranks of the
 Family are still unaware
 of his real identity.
 !******************************!
+<HDR:4C6179746F6E>
 Before he considered
 himself an English
 gentleman, Hershel
@@ -976,6 +1060,7 @@ He became a professor
 at 27, but remains
 young at heart.
 !******************************!
+<HDR:4C6179746F6E6D6F62696C65>
 Layton's pride and joy,
 this little red car has
 served him well on his
@@ -988,6 +1073,7 @@ Layton the headroom he
 needs to drive with his
 hat on.
 !******************************!
+<HDR:50757A7A6C65204C61642031>
 Puzzle Lad 1 is a
 mischievous boy who
 livens up any puzzle.
@@ -1000,6 +1086,7 @@ into trouble, but he's
 not one to start a
 fight.
 !******************************!
+<HDR:50757A7A6C65204C61642032>
 Puzzle Lad 2 is a
 clever boy who seems
 to do well at whatever
@@ -1012,6 +1099,7 @@ him. He has an agile
 body for sport and a
 good mind for games.
 !******************************!
+<HDR:50757A7A6C65204C61642033>
 The effective personnel
 manager of the puzzle
 troupe, Puzzle Lad
@@ -1023,6 +1111,7 @@ dislikes violence, so he
 usually plays the role
 of peacekeeper.
 !******************************!
+<HDR:50757A7A6C65204C61642034>
 The biggest eater in
 the group, Puzzle Lad
 4 is a taciturn
@@ -1035,6 +1124,7 @@ case he gets bored and
 fancies a bite to eat.
 
 !******************************!
+<HDR:50757A7A6C65204C61642035>
 Puzzle Lad 5 is a
 scaredy cat whose
 actions don't live up to
@@ -1047,6 +1137,7 @@ the one to carry them
 out, as he doesn't much
 like physical activities.
 !******************************!
+<HDR:50757A7A6C65204C6173732031>
 Puzzle Lass 1 is a
 hard-working girl who
 follows fashion closely
@@ -1059,6 +1150,7 @@ professional potter but
 was told that her style
 was too avant-garde.
 !******************************!
+<HDR:50757A7A6C65204C6173732032>
 Puzzle Lass 2 is a
 kindly old lady with
 a romantic streak, who
@@ -1071,6 +1163,7 @@ part of everybody's
 grandma.
 
 !******************************!
+<HDR:50757A7A6C65204C6173732033>
 A great art-lover,
 Puzzle Lass 3 can
 usually be found
@@ -1083,6 +1176,7 @@ pretentious, she is
 reliable and always
 keeps her cool.
 !******************************!
+<HDR:50757A7A6C65204C6173732034>
 Puzzle Lass 4 is a
 motherly lady who looks
 after the puzzle troupe
@@ -1095,6 +1189,7 @@ started. She enjoys
 handpicking ingredients
 to cook delicious meals.
 !******************************!
+<HDR:50757A7A6C65204C6173732035>
 Puzzle Lass 5 is a
 headstrong intellectual,
 and yet her greatest

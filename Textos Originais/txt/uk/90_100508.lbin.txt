@@ -1,11 +1,15 @@
+<HDR:837D815B8384>
 <T><A5/1>Phew! I think that's the lot!<W>
 <A2/1>Thanks for your help, parrot!
 !******************************!
+<HDR:834983458380>
 <T><A3/0>Awrk, the lot! Awrk, the lot!
 !******************************!
+<HDR:837D815B8384>
 <T><A3/1>There's nothing like watching
 contented customers browsing
 through well-ordered bookshelves.
 !******************************!
+<HDR:834983458380>
 <T><A2/1>Boorrrks?
 !******************************!

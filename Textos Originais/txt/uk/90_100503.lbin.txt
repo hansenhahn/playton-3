@@ -1,11 +1,15 @@
+<HDR:83418366838A8393>
 <T><A2/5>Mmm, what a delicious scent!
 Spot on, my feathered friend.
 Thank you.
 !******************************!
+<HDR:834983458380>
 <T><A1/5>Perrrk, perrrfume!
 !******************************!
+<HDR:83418366838A8393>
 <T>Well, well! Talking too, is it?
 What a remarkable bird!<A3/0> Hoo hoo!
 !******************************!
+<HDR:834983458380>
 <A4/0>Hoo hoo!
 !******************************!

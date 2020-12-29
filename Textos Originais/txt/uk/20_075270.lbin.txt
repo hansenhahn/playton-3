@@ -1,36 +1,48 @@
+<HDR:838B815B834E>
 <T><A1/6>Cripes! It broke!
 !******************************!
+<HDR:838C834383678393>
 <T>Well what do you expect when you
 go around prodding everything?
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>But Professor, I wasn't prodding
 it that hard!
 !******************************!
+<HDR:838C834383678393>
 <T><A4/5>Luke...
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>I'm sorry. I should probably be more
 careful.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Indeed you should.<W> Now let's see
 what kind of damage you've caused
 here.
 !******************************!
+<HDR:838C834383678393>
 <T>What's this?<W> I do believe this leads
 somewhere interesting.<W><A2/2> Let's have
 a look at what's on the other side.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>But...isn't this trespassing,
 Professor?<W> P-Professor, wait
 for me!
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Ah, so this is where it leads!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Can we leave now, Professor? The
 casino staff won't be happy if they
 find us in here...
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Ha ha! You worry too much, Luke!
 !******************************!
+<HDR:838B815B834E>
 <T>Maybe so, but I still think we should
 leave now!
 !******************************!

@@ -1,32 +1,41 @@
+<HDR:835A834B815B838B>
 <T>Salutations and whatnot. What
 brings upstandin' citizens like
 yerselves back through here?
 !******************************!
+<HDR:838B815B834E>
 <T>We're tracking down the boss of
 the Family. We got a hot tip that
 he's down by the river!
 !******************************!
+<HDR:835A834B815B838B>
 <T><A2/1>Whoa now! Slow down!
 !******************************!
+<HDR:835A834B815B838B>
 <T>Keep sniffin' around for trouble
 like that and something's bound to
 start stinkin'. Take it from me.
 !******************************!
+<HDR:838C834383678393>
 <T>You certainly appear to be an
 authority on such subjects.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Don't you know it. And I can see
 that you two aren't going to heed
 my warning, either.
 !******************************!
+<HDR:835A834B815B838B>
 <T><A2/2>If yer dead set on goin' to the
 riverside, ye should drop by the
 restaurant down there.
 !******************************!
+<HDR:835A834B815B838B>
 <T>Their grub is top-notch. If yer
 going to look for trouble, you might
 as well do it on a full stomach.
 !******************************!
+<HDR:835A834B815B838B>
 <T><A2/2>There's a gem of a restaurant by
 the riverside that ye should try.
 The grub's out of this world.

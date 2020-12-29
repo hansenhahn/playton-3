@@ -1,31 +1,41 @@
+<HDR:83778343835B838B>
 <T><A5/1>Augh!<A6/0> What do you want?! Please
 don't hurt meee!
 !******************************!
+<HDR:838C834383678393>
 <T>I simply wish to ask you a question,
 sir. No need for theatrics.
 !******************************!
+<HDR:83778343835B838B>
 <T><A2/5>Well...all right.
 !******************************!
+<HDR:838C834383678393>
 <T>The young fellow I've been
 travelling with - have you seen
 him anywhere around here?
 !******************************!
+<HDR:83778343835B838B>
 <T><A1/1>You mean the one with the
 blue hat and the p-<W30>p-<W30>piercing
 stare?
 !******************************!
+<HDR:838C834383678393>
 <T>I'd hardly describe his stare as
 {''}piercing{''}, but yes, I think we're
 talking about the same boy.
 !******************************!
+<HDR:83778343835B838B>
 <T>I haven't seen him around here.</T>
 <TW>Is he lost?
 !******************************!
+<HDR:838C834383678393>
 <T>Either lost or wandering. I'm not
 quite sure yet.
 !******************************!
+<HDR:83778343835B838B>
 <T>If it will keep you from hunting me
 down, I h-<W30>h-<W30>hope you find him soon.
 !******************************!
+<HDR:838C834383678393>
 <T>Er... Thank you.
 !******************************!

@@ -1,9 +1,11 @@
+<HDR:546865204C65747465722066726F6D2074686520467574757265>
 Professor Layton has received a
 mysterious letter. The sender
 claims to be Luke from 10 years
 in the future, but how can this be
 possible?
 !******************************!
+<HDR:>
 A grown-up Luke used a time
 machine to send the letter back
 to the present, requesting the
@@ -11,12 +13,14 @@ help of his former teacher,
 Professor Layton, in rescuing the
 chaotic future city of London.
 !******************************!
+<HDR:546865204D697373696E67205072696D65204D696E6973746572>
 Prime Minister Bill Hawks
 mysteriously disappeared in the
 accident at the time machine
 presentation. What could
 possibly have happened to him?
 !******************************!
+<HDR:>
 Prime Minister Bill Hawks, who
 was unaccounted for after the
 accident at the time machine
@@ -26,17 +30,20 @@ London. He was abducted by Dimitri
 and is now being held prisoner. Will
 the heroes be able to rescue him?
 !******************************!
+<HDR:576172706564204C6F6E646F6E>
 When Professor Layton and Luke
 emerged from the clock shop,
 the streets of London suddenly
 looked quite different. What
 could have happened?
 !******************************!
+<HDR:>
 The strange, unfamiliar streets
 belong to a future London from
 10 years after Professor Layton
 and Luke's time.
 !******************************!
+<HDR:>
 Future London turned out to be
 a fake city built in an underground
 cavern beneath the real London.
@@ -46,6 +53,7 @@ in the future so that they would
 put every effort into completing a
 functioning time machine.
 !******************************!
+<HDR:467269676874656E6564204C6F6E646F6E657273>
 Many people in this part of London
 seem to be afraid of Professor
 Layton. Why would ordinary people
@@ -55,6 +63,7 @@ and gentlemanly Layton?
 It seems to be something to do
 with his hat...
 !******************************!
+<HDR:>
 In the future, the city of London
 is in the thrall of an evil Layton.
 The sight of the professor, who
@@ -62,17 +71,20 @@ looks just the same as his future
 self, is enough to spark fear
 among the local people.
 !******************************!
+<HDR:54686520467574757265204C756B65>
 This young man sent Professor
 Layton a letter, claiming to be
 Luke from the future. But how is
 that even possible?
 !******************************!
+<HDR:>
 The young man signing himself {''}Luke
 Triton{''} turned out to be an older
 Luke from 10 years in the future.
 He wrote to his old trusted
 teacher to request his aid.
 !******************************!
+<HDR:>
 Future Luke is really a young man
 named Clive who lost his parents in
 the time machine accident 10 years
@@ -82,18 +94,21 @@ ever since. He called upon Layton
 hoping that the professor could
 save him from his own madness.
 !******************************!
+<HDR:537573706963696F757320496E646976696475616C73>
 A selection of shady characters,
 all dressed identically in grey,
 seem to lurk on every street
 corner in the future London.
 What are they up to?
 !******************************!
+<HDR:>
 The shady characters dressed
 in grey are members of a gang
 under the control of the future
 Layton, the boss of the London
 underworld.
 !******************************!
+<HDR:546865204576696C204C6179746F6E>
 The future Hershel Layton is a
 crime lord who terrorises London
 with his gang of thugs. Known and
@@ -102,6 +117,7 @@ devil in the top hat{''}, how
 could this model English gentleman
 have turned into such a monster?
 !******************************!
+<HDR:>
 The future Layton turned out to
 be Dimitri Allen, the famous
 scientist renowned for his
@@ -110,6 +126,7 @@ But what was Dimitri's reason
 for posing as a future Professor
 Layton?
 !******************************!
+<HDR:447220537461686E67756E>
 Dr Stahngun is the scientist who
 unveiled the time machine at the
 presentation, but no records
@@ -118,16 +135,19 @@ name. He must be somebody else,
 using an alias to cover up his
 true identity. Who is he really?
 !******************************!
+<HDR:>
 Dr Stahngun is really Dimitri Allen,
 one of the scientists involved in
 the time machine accident 10 years
 ago.
 !******************************!
+<HDR:546865204D7973746572696F757320576F6D616E>
 A woman who looks uncannily like
 Professor Layton's old
 sweetheart, Claire, is wandering
 around town. Who could she be?
 !******************************!
+<HDR:>
 The enigmatic woman is none other
 than Claire's younger sister,
 Celeste. She came to the future
@@ -137,6 +157,7 @@ death, and is following Professor
 Layton in the belief that he will
 uncover the truth.
 !******************************!
+<HDR:>
 Celeste turns out to be Claire
 herself, sent into the present
 from the day of her accident 10
@@ -145,6 +166,7 @@ bids farewell to Professor Layton
 and travels back to her own time,
 to the day of her tragic accident.
 !******************************!
+<HDR:546865204D656E20696E204C616220436F617473>
 Men in white laboratory coats
 seem to be all over this part
 of town, but the odd thing is that
@@ -154,6 +176,7 @@ reason could they have for
 walking around London with wet
 feet?
 !******************************!
+<HDR:>
 The white-clad men walking around
 with wet feet are in fact
 scientists put to work by Dimitri

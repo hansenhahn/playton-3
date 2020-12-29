@@ -1,63 +1,84 @@
+<HDR:838B815B834E>
 <T>The Towering Pagoda's not far
 now.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/2>The Layton from your time and the
 one from mine are finally going to
 meet face-to-face...
 !******************************!
+<HDR:8341838D837D>
 <T>That might be tricky, because our
 professor's not here...
 !******************************!
+<HDR:838B815B834E>
 <T>Huh?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><K><A1/1>Hmm?
 !******************************!
+<HDR:838B815B834E>
 <T><A1/6>Where's the professor?!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>It's like he just disappeared.
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>But he just solved that puzzle that
 got us through the gate!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>Yes, and then we walked through
 the gate together.
 !******************************!
+<HDR:8341838D837D>
 <T>He was a bit ahead of us by that
 point. I think he might've waved at
 me before he vanished.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/5>What?!<W> But where did he go?
 !******************************!
+<HDR:8341838D837D>
 <T>I'm not sure.<W> He was smiling as he
 dashed off, though.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>But...why?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A4/4>I have no idea. The professor's
 actions always have some purpose,
 though...
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Hey Flora, there's a piece of
 paper stuck to your back.
 !******************************!
+<HDR:8341838D837D>
 <T><A2/5>Oh! How embarrassing! Someone
 must be playing a trick on me.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>There's something written on it -
 it's in the professor's handwriting!
 !******************************!
+<HDR:838B815B834E>
 <T>Let's have a look. It says:
 {''}Go on without me. I'll catch up
 with you soon{''}.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/1>I think we should do as he says.
 The professor's never led us
 astray, after all.
 !******************************!
+<HDR:838B815B834E>
 <T>I agree. This is probably all part
 of some brilliant plan that the
 professor's concocted.
 !******************************!
+<HDR:8341838D837D>
 <T>That's all very well, but will one of
 you Lukes please take this paper
 off my back?

@@ -1,43 +1,57 @@
+<HDR:838B815B834E>
 <T>Hi there. We're looking for a hotel
 on Southern Street. Is it one of
 these buildings?
 !******************************!
+<HDR:837D8362834E8358>
 <T><A3/0>BZZT!<W> <A2/3>Incorrect!
 !******************************!
+<HDR:838B815B834E>
 <T>Wait... We are on Southern Street
 here, aren't we? But the hotel
 is not here?
 !******************************!
+<HDR:837D8362834E8358>
 <T><A1/1>DING DING DING!<W> <A1/2>You're in the
 neighbourhood! In the neighbourhood
 of correct, that is.
 !******************************!
+<HDR:838B815B834E>
 <T>I can't make head nor tail of what
 this boy's saying, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>He's only trying to help, Luke. You
 just need to keep to very simple
 questions. Observe.
 !******************************!
+<HDR:838C834383678393>
 <T>Tell me, young man, is this Southern
 Street?
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W> Correct!
 !******************************!
+<HDR:838C834383678393>
 <T>And is there a hotel east of here?
 !******************************!
+<HDR:837D8362834E8358>
 <T>DING DING DING!<W> Correct again!<W>
 Just look for the white building
 up ahead.
 !******************************!
+<HDR:838C834383678393>
 <T>Thank you.
 !******************************!
+<HDR:838C834383678393>
 <T>All right, Luke. Unless our friend
 here is mistaken, we need to head
 east to get to our destination.
 !******************************!
+<HDR:838B815B834E>
 <T>Erm... If you say so, Professor.
 !******************************!
+<HDR:837D8362834E8358>
 <T>The hotel is the big white building
 up ahead. Just keep heading east!
 !******************************!

@@ -1,19 +1,24 @@
+<HDR:838B815B834E>
 <T><A3/2>Look at the bird in the sky over
 there, Professor!<W> What a beautiful
 colour it is!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>That's no ordinary bird, Luke. It's
 a parrot.<W> How do you suppose it got
 here?
 !******************************!
+<HDR:838B815B834E>
 <T>Let's ask him!<W> <A4/1>Hiya, Mr Parrot!<W>
 Where did you come from?
 
 !******************************!
+<HDR:838C834383678393>
 <T><A4/2>Ho ho! I think you may have been a
 bit too eager there, my boy. You
 scared him off!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>Aw.<W> I was just trying to be
 friendly...
 !******************************!

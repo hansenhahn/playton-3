@@ -1,32 +1,42 @@
+<HDR:83778343835B838B>
 <T><A4/5>Augh!<W> What is it?!<W> <A5/1>I didn't d-<W30>d-<W30>do
 anything, I swear!<W> I know nothing!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Are you all right, sir? You're
 dripping with perspiration. May I
 suggest a calming cup of tea?
 !******************************!
+<HDR:83778343835B838B>
 <T><A6/0>Sorry about the s-<W30>s-<W30>sweat, sir!
 !******************************!
+<HDR:83778343835B838B>
 <T>I'll make your t-<W30>t-<W30>tea right away!
 !******************************!
+<HDR:838B815B834E>
 <T><A1/1>Crikey, he didn't half leave in a
 hurry!
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>Actually, you seem to be making a
 lot of people nervous around here,
 Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>That would certainly appear to be
 the case, though I can't imagine
 why.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>My hat, in particular, seems to
 be making many of the people we
 meet feel uncomfortable...
 !******************************!
+<HDR:838B815B834E>
 <T><A2/1>I don't know why anyone would be
 afraid of you or your hat.
 !******************************!
+<HDR:838B815B834E>
 <T>After all, it's not like you go
 around menacing people when I'm
 not there. Hmm...

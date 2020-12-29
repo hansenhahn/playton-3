@@ -1,24 +1,31 @@
+<HDR:8354837D838A815B>
 <T>I just can't believe Clive would do
 something like this. He was always
 such a nice boy.
 !******************************!
+<HDR:838C834383678393>
 <T>It's clear that Clive took pains
 to hide his plan from you and your
 husband.
 !******************************!
+<HDR:8354837D838A815B>
 <T>You must believe me, Professor.
 Deep down, Clive is a kind, gentle
 person.
 !******************************!
+<HDR:8354837D838A815B>
 <T>I know what it looks like, but he's
 not a cold-hearted criminal.
 !******************************!
+<HDR:838C834383678393>
 <T>I know. I'll do my best to put an
 end to this and bring him back.
 !******************************!
+<HDR:8354837D838A815B>
 <T>Thank you, Professor.<W> We'll stay
 here and help everyone out.
 !******************************!
+<HDR:8354837D838A815B>
 <T>Professor, don't let Clive do this.
 You've got to stop him before he
 goes any further.

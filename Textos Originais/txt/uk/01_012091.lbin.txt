@@ -1,59 +1,76 @@
+<HDR:83788362834C815B>
 <T>You want to get to the station,
 don't you?<W> Well, solve this puzzle
 and I'll tell you how to get there.
 !******************************!
+<HDR:83788362834C815B>
 <T><A4/5>Hey, no backing out! You have to
 solve my puzzle if you want me to
 tell you where the station is.
 !******************************!
+<HDR:83788362834C815B>
 <T>I'll be happy to tell you how to get
 to the station if you solve this
 puzzle!
 !******************************!
+<HDR:83788362834C815B>
 <T><A1/1>Nicely done! Oh! I nearly forgot
 you were trying to get to the
 station.
 !******************************!
+<HDR:83788362834C815B>
 <T>It's not too far. Just head east
 down Southern Street as you leave
 the hotel.
 !******************************!
+<HDR:83788362834C815B>
 <T>You'll soon come to Flatstone
 Street. Head north up there and
 the station will be on your right.
 !******************************!
+<HDR:838B815B834E>
 <T>Thanks Becky. I think we{9}ll
 be able to find it now.
 !******************************!
+<HDR:83788362834C815B>
 <T>Hey wait! One more thing.
 !******************************!
+<HDR:838B815B834E>
 <T>Hmm? What's that?
 !******************************!
+<HDR:83788362834C815B>
 <T>It's a bit of a detour, but you
 should drop by the arcade on your
 way to the station.
 !******************************!
+<HDR:83788362834C815B>
 <T>There's a restaurant there that's 
 just scrumptious!
 !******************************!
+<HDR:83788362834C815B>
 <T><A1/5>It's not a patch on the food we
 serve here, of course, but it's not
 half bad, you know?
 !******************************!
+<HDR:838B815B834E>
 <T>The arcade? You mean that place
 where the little boy is standing,
 blocking the entrance?
 !******************************!
+<HDR:83788362834C815B>
 <T><A2/2>Little boy? Oh, you must be talking
 about Max.
 !******************************!
+<HDR:83788362834C815B>
 <T>I've got him wrapped around my
 little finger.
 !******************************!
+<HDR:83788362834C815B>
 <T>Just let him know that Becky sent
 you and he'll let you straight
 through.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Ha ha! Good to know. Well, we might
 as well go through the arcade and
 see a bit more of the area.

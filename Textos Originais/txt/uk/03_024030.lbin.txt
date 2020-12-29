@@ -1,24 +1,33 @@
+<HDR:837A838A8358>
 <T>Yikes!<W> What are you doing, sneaking
 up on me like that?! You almost
 gave me a heart attack!
 !******************************!
+<HDR:838B815B834E>
 <T>S-sorry, sir.<W> I didn't think a simple
 hello would scare you so much.
 !******************************!
+<HDR:837A838A8358>
 <T>I was lost in thought and didn't 
 see you coming. Anyway, I have
 things to do. Goodbye.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1><K>Hmm...
 !******************************!
+<HDR:838B815B834E>
 <T>What's the matter, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T>Look at the ground, Luke.
 !******************************!
+<HDR:838B815B834E>
 <T>Wet footprints... But it hasn't
 rained since we got here.
 !******************************!
+<HDR:838B815B834E>
 <T>How come his shoes are wet?
 !******************************!
+<HDR:838C834383678393>
 <T>I haven't the faintest idea.
 !******************************!

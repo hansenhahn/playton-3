@@ -1,29 +1,39 @@
+<HDR:8341838D837D>
 <T>Look at all these monitors!
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>We should be able to see all parts
 of the fortress from here.
 !******************************!
+<HDR:838B815B834E>
 <T>So we'll be able to find the location
 of the generator room!
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>That's right, Luke. Now let's get
 searching.
 !******************************!
+<HDR:838B815B834E>
 <T>Crikey. Maybe this isn't going to be
 as easy as I thought.
 !******************************!
+<HDR:838C834383678393>
 <T>We mustn't stop searching, Luke.
 There are lives at stake.
 !******************************!
+<HDR:838C834383678393>
 <T>These monitors can help us pinpoint
 the location of the generator
 room.
 !******************************!
+<HDR:838B815B834E>
 <T>Ah, there it is!
 !******************************!
+<HDR:838C834383678393>
 <T>That's it, Luke!<W> Now all we have to
 do is feed these coordinates into
 the transport pod. Let's go!
 !******************************!
+<HDR:838B815B834E>
 <T>We're right behind you, Professor!
 !******************************!

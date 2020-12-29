@@ -1,84 +1,110 @@
+<HDR:8354838A83418358>
 <T>Look at this device. It seems to be
 monitoring the prime minister's
 heartbeat.
 !******************************!
+<HDR:8354838A83418358>
 <T>It will detonate the charge if the
 sound of his heartbeat disappears.
 !******************************!
+<HDR:838C834383678393>
 <T>Perhaps we can sever the
 connection somehow.
 !******************************!
+<HDR:8354838A83418358>
 <T>I wouldn't do that, Professor.
 !******************************!
+<HDR:8354838A83418358>
 <T>See how there are two sets of wires
 in the circuit?
 !******************************!
+<HDR:8354838A83418358>
 <T>I don't think we'll be able to cut
 both sets before the device
 reacts.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Amazing, Celeste. You obviously
 possess a better understanding
 of mechanics than I do.
 !******************************!
+<HDR:838C834383678393>
 <T>Your sister would be very proud.
 !******************************!
+<HDR:8354838A83418358>
 <T>Hey, I've just had an idea.<W> <A2/2>What
 if we use this?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>That...is the pocket watch I gave
 Claire, long ago.
 !******************************!
+<HDR:838C834383678393>
 <T>And here I thought it had been lost
 in the explosion.
 !******************************!
+<HDR:8354838A83418358>
 <T><A2/6>No... I actually found it when going
 through Claire's things after the
 accident.
 !******************************!
+<HDR:8354838A83418358>
 <T>Unfortunately, the watch has been
 broken since I found it.
 !******************************!
+<HDR:8354838A83418358>
 <T>No matter how much I wind it up,
 it never seems to run for more
 than 10 minutes.
 !******************************!
+<HDR:838C834383678393>
 <T>I see where you're going with this,
 Celeste.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>You're suggesting we replace the
 sound of the prime minister's heart
 with that of the pocket watch?
 !******************************!
+<HDR:8354838A83418358>
 <T><A1/1>Exactly. It's risky, but it seems
 to be the only option we've got.
 !******************************!
+<HDR:8354838A83418358>
 <T>We'll need to disconnect the circuit
 from the prime minister and attach
 the watch in one fell swoop.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>But even if we succeed, the watch
 will stop running in 10 minutes and
 the fortress will explode anyway!
 !******************************!
+<HDR:838B815B834E>
 <T>We could end up putting the people
 of London in real danger!
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Luke, if we take no action, London
 will face a greater danger than
 any explosion.
 !******************************!
+<HDR:838C834383678393>
 <T>This is our only chance to stop
 Clive. The chances of success
 are slim, but we must try.
 !******************************!
+<HDR:838C834383678393>
 <T>Argh. I'll have to try again.
 !******************************!
+<HDR:838C834383678393>
 <T>I must get it right this time.
 !******************************!
+<HDR:8354838A83418358>
 <T>Professor, that's it! The watch is
 connected now!
 !******************************!
+<HDR:838C834383678393>
 <T>Yes, but our work here is far
 from over.
 !******************************!

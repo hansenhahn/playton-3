@@ -1,85 +1,113 @@
+<HDR:838C834383678393>
 <T>Greetings, Shipley.
 !******************************!
+<HDR:837583628360>
 <T>Ah, Professor. Good timing. I just
 got a message for ya from Luke.
 !******************************!
+<HDR:837583628360>
 <T>He wants ya to go to the
 observatory in the park
 that's north of here.
 !******************************!
+<HDR:837583628360>
 <T>Make sure yer not followed.
 !******************************!
+<HDR:838C834383678393>
 <T>This park is just off the path that
 connects Flatstone Street to
 Midland Road, correct?
 !******************************!
+<HDR:837583628360>
 <T>That's the one. Luke will be waiting
 for ya there.
 !******************************!
+<HDR:838B815B834E>
 <T>Why do we need to make sure we're
 not followed?
 !******************************!
+<HDR:838C834383678393>
 <T>It sounds as though someone out
 there may be monitoring our
 movements.
 !******************************!
+<HDR:838C834383678393>
 <T>Are you paying attention to this,
 Flora? It's very important.
 !******************************!
+<HDR:8341838D837D>
 <T>Of course I'm listening, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>Moving around in a group of three
 will make us more conspicuous.
 !******************************!
+<HDR:838C834383678393>
 <T>I know you don't want to be left
 alone, but I think it would be best
 if you waited for us at the hotel.
 !******************************!
+<HDR:8341838D837D>
 <T><A1/5>What?!
 !******************************!
+<HDR:838C834383678393>
 <T>As soon as we've caught up with the
 other Luke, we'll come and get you.
 !******************************!
+<HDR:8341838D837D>
 <T>No! I'm coming with you.
 !******************************!
+<HDR:838C834383678393>
 <T>Now, Flora...
 !******************************!
+<HDR:838B815B834E>
 <T>Oh, come on, Professor. Let her
 come along. We'll do our best to be
 stealthy on our way to the park!
 !******************************!
+<HDR:838C834383678393>
 <T><K>Hmm...
 !******************************!
+<HDR:838B815B834E>
 <T>It'll be fine. Besides, it might be
 more dangerous to leave Flora all
 by herself.
 !******************************!
+<HDR:838C834383678393>
 <T>I suppose you may have a point
 there, Luke.
 !******************************!
+<HDR:838C834383678393>
 <T>Flora, you do realise that where
 we're headed could be extremely
 dangerous, don't you?
 !******************************!
+<HDR:838C834383678393>
 <T>Are you really sure you want to
 come with us?
 !******************************!
+<HDR:8341838D837D>
 <T><A1/2>Of course I do! I'm not scared.
 !******************************!
+<HDR:838B815B834E>
 <T>Well, that settles it. Let's get
 moving.
 !******************************!
+<HDR:838C834383678393>
 <T>Well Luke, it looks as though
 we'll have to put our dinner plans
 on hold again, I'm afraid.
 !******************************!
+<HDR:838B815B834E>
 <T>I understand, Professor. I'm pretty
 hungry, but we shouldn't keep
 Big Luke waiting.
 !******************************!
+<HDR:8341838D837D>
 <T>Well then, what are we waiting for?
 Let's go!
 !******************************!
+<HDR:837583628360>
 <T>Luke's waiting for ya at the park
 observatory.
 !******************************!

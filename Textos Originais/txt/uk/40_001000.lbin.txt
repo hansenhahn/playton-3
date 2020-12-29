@@ -1,3 +1,4 @@
+<HDR:41204C65747465722066726F6D2074686520467574757265>
 A letter arrived for me today.
 Curiously, the postmark is dated
 10 years from now, and it was sent
@@ -8,6 +9,7 @@ piqued my curiosity, and I have
 decided to head for the clock shop
 it mentions, on Midland Road.
 !******************************!
+<HDR:5468652054696D65204D616368696E652050726573656E746174696F6E>
 Casting my mind back to the
 accident that occurred during
 the time machine presentation,
@@ -18,6 +20,7 @@ hope we can find some clues at
 the clock shop that will help us
 make sense of all this.
 !******************************!
+<HDR:446F776E2074686520456E64206F66204D69646C616E6420526F6164>
 The clock shop was hidden away at
 the unfashionable end of Midland
 Road, and awaiting us there was a
@@ -28,6 +31,7 @@ letter we received, so I suppose
 all we can do is wait for her
 husband to return.
 !******************************!
+<HDR:54686520456E6F726D6F757320436C6F636B20696E207468652053686F70>
 After talking to Cogg, the owner
 of the clock shop, it seems the
 letter writer wanted us to see the
@@ -38,6 +42,7 @@ model. I was even asked to help
 repair it - quite the challenge
 for an amateur such as myself!
 !******************************!
+<HDR:5468652043697479205472616E73666F726D6564>
 Just as Cogg got the big clock
 working again, the entire building
 started shaking. When Luke and I
@@ -49,6 +54,7 @@ locked, however, so there is no
 way of going back inside to find
 out what has really happened.
 !******************************!
+<HDR:497320536F6D657468696E672057726F6E672077697468206D79204861743F>
 There's no doubt we're still in
 London, but things have been very
 strange ever since we stepped out
@@ -61,6 +67,7 @@ we're wrapped up in some kind of
 illusion. What on earth is going
 on here?
 !******************************!
+<HDR:54686520446572656C696374204275732053746F70>
 After talking to a few people
 around town, we made our way
 back to the bus stop, only to
@@ -72,6 +79,7 @@ from the London we know. Could
 it be possible that we have
 travelled through time?
 !******************************!
+<HDR:546865205365636F6E64204C6574746572>
 I can scarcely believe it, but it
 really does seem that we have
 somehow ended up in a London
@@ -84,6 +92,7 @@ one step ahead of us. It says
 that our next clue awaits us in
 Green Hospital, Auckland Lane.
 !******************************!
+<HDR:546F20477265656E20486F73706974616C>
 It seems that the train is the only
 way to get to Green Hospital. At
 the invitation of a resourceful
@@ -96,6 +105,7 @@ there, so we can easily take the
 train to the hospital.
 
 !******************************!
+<HDR:4D656574696E6720447220536368726164657220416761696E>
 The clue the letter said awaited
 us in the hospital turned out to
 be my mentor, Dr Schrader, albeit
@@ -105,6 +115,7 @@ saw him a few days ago, so what
 could possibly have happened?
 Is this really the future?
 !******************************!
+<HDR:546F207468652047696C646564203720436173696E6F>
 The letter that Future Luke left in
 the Laytonmobile told us to head
 for a place called the Gilded 7
@@ -117,6 +128,7 @@ got over the shock of seeing the
 Laytonmobile in such a condition,
 that is.
 !******************************!
+<HDR:5468652050757A7A6C696E6720596F756E67204C616479>
 What is happening here? That girl
 who just walked past, was it...?
 No, there's simply no way she could
@@ -126,6 +138,7 @@ Anyway, there isn't time to think
 of such things now. We must make
 haste to the casino.
 !******************************!
+<HDR:546F20576865726520467574757265204C756B6520417761697473>
 After asking in the hotel, we
 learned that the casino is located
 at the far end of Flatstone
@@ -137,6 +150,7 @@ will we really meet Future Luke
 there? There's only one way to
 find out...
 !******************************!
+<HDR:467574757265204C6F6E646F6E>
 According to Future Luke, this
 London is under the command of my
 future self. It seems I've become
@@ -148,6 +162,7 @@ are true, then stopping my future
 self is my duty as an English
 gentleman.
 !******************************!
+<HDR:546F207468652052657374617572616E7420696E2074686520417263616465>
 We ran into a spot of trouble
 as we were leaving the casino, and
 were attacked by the Family. One
@@ -161,6 +176,7 @@ Following Future Luke's lead, we
 have now decided to head for the
 restaurant in the arcade.
 !******************************!
+<HDR:546865204261736520696E2074686520546F776572696E67205061676F6461>
 It appears that my future self has
 set up his base in the Towering
 Pagoda, located in an area called
@@ -170,6 +186,7 @@ along with the scientists who were
 kidnapped. We'll need a plan before
 approaching the enemy base.
 !******************************!
+<HDR:46697273742C20746F204368696E61746F776E>
 Future Luke has gone off on his
 own, but Shipley told us how to
 get to the Chinatown area. It
@@ -180,6 +197,7 @@ We must be careful and make sure
 we aren't spotted by the Family.
 
 !******************************!
+<HDR:5468652048617420616E642074686520566F77>
 That woman... Who could she be?
 She's like a ghost that's been
 haunting me ever since we came
@@ -193,6 +211,7 @@ said - I became obsessed with
 turning back time, back to the
 time of that experiment...
 !******************************!
+<HDR:5468652053746174756520616E6420746865204C69676874686F757365>
 London appears to have changed
 significantly over the last 10
 years. None of its sights are
@@ -204,6 +223,7 @@ big lighthouse overlooking the
 Thames is a recent addition.
 
 !******************************!
+<HDR:576869746520436F61747320616E64205765742046656574>
 We encountered a man in a white
 lab coat standing on the iron
 bridge. When we asked him for
@@ -216,6 +236,7 @@ shoes and trousers. What possible
 reason could there be for going
 about in damp clothing?
 !******************************!
+<HDR:47756172647320617420746865204368696E61746F776E2047617465>
 The two chaps guarding the gate
 bore a striking resemblance to
 Inspector Chelmey and Constable
@@ -228,6 +249,7 @@ we should return to our own time
 and have a word with the
 inspector.
 !******************************!
+<HDR:54686520506172726F74>
 On the way back to the clock shop
 we encountered a fellow named
 Graham, who was rather upset
@@ -240,6 +262,7 @@ of both Lukes, we were able to
 befriend the parrot and recover
 the cufflinks.
 !******************************!
+<HDR:4261636B20746F204F75722054696D65>
 It seems the purpose of the big
 clock in Cogg's shop is to activate
 a wormhole. It's no wonder he and
@@ -250,6 +273,7 @@ Anyway, Cogg says he can help us
 return to our own time.
 
 !******************************!
+<HDR:4F75722046697273742053746F703A204D79204F6666696365>
 The London that greeted us when
 we exited the clock shop is the
 familiar old London that we
@@ -258,6 +282,7 @@ for nostalgia, however. I have to
 drop by my office before going to
 meet Inspector Chelmey.
 !******************************!
+<HDR:546865204C656174686572204E6F7465626F6F6B>
 Flora was waiting for us in my
 office. She seemed terribly upset
 that we had gone off without her
@@ -271,6 +296,7 @@ left the room for a while, giving
 us the chance to find the notebook
 and leave before she returns.
 !******************************!
+<HDR:546F2053636F746C616E642059617264>
 I feel guilty for leaving Flora,
 but I simply cannot embroil her
 in such a dangerous situation.
@@ -283,6 +309,7 @@ hear his opinion on the events
 that occurred at the time machine
 presentation.
 !******************************!
+<HDR:54686520446F63756D656E7473206174207468652053746174696F6E>
 Inspector Chelmey kindly allowed
 me to view the case files for the
 lab accident that occurred 10
@@ -295,6 +322,7 @@ that dark, future London hides
 some secrets that even Future
 Luke has yet to uncover.
 !******************************!
+<HDR:4E6F20506C61636520666F722061204C616479>
 Events have taken an unexpected
 turn. We've been followed into
 the future, not only by Inspector
@@ -307,6 +335,7 @@ but these streets are simply too
 dangerous for Flora. How can I
 make her understand this?
 !******************************!
+<HDR:54686520467574757265204465616E2044656C6D6F6E61>
 We decided to go and find Shipley
 at the restaurant, in order to
 make contact with Future Luke.
@@ -319,6 +348,7 @@ be all right. On our way out, we
 met Dean Delmona, whose hair is
 now white as snow!
 !******************************!
+<HDR:52656A6F696E696E6720467574757265204C756B65>
 According to Shipley, Future Luke
 is waiting for us in the park 
 observatory north of the 
@@ -332,6 +362,7 @@ doesn't matter for now, though.
 We have to meet up with Future 
 Luke and decide our next step.
 !******************************!
+<HDR:41204368617420696E20746865205061726B204F627365727661746F7279>
 We have finally managed to reunite
 with Future Luke. It seems that if
 we are to enter Chinatown, we
@@ -345,6 +376,7 @@ return to the casino and attempt
 to capture Bostro's voice with the
 help of our talented parrot mimic.
 !******************************!
+<HDR:47657474696E6720526964206F662074686520477561726473>
 We located Bostro outside the
 casino and successfully managed
 to get our feathered friend to
@@ -355,6 +387,7 @@ struggle to tell the difference.
 The guards are certain to be
 fooled. Time to head to Chinatown!
 !******************************!
+<HDR:496E73696465204368696E61746F776E>
 Our plan to get rid of the guards
 went like clockwork and we
 successfully entered Chinatown.
@@ -365,6 +398,7 @@ Family's base was established.
 Our destination lies ahead, deep
 in the heart of the area.
 !******************************!
+<HDR:4368696E61746F776E>
 Chinatown seems to be home to all
 sorts of people. It is an area
 unlike any that exists in our
@@ -377,6 +411,7 @@ street. Let's keep our eyes and
 ears open for new information as
 we push onwards.
 !******************************!
+<HDR:49732074686520467574757265204D65204E6F7420486F6D653F>
 We've finally arrived at the
 Towering Pagoda, my future self's
 base of operations, but I don't
@@ -385,6 +420,7 @@ I...he have gone? Perhaps some of
 the locals know something. Let's
 ask around.
 !******************************!
+<HDR:576865726520686173206D79204675747572652053656C6620476F6E653F>
 Pepper, the owner of the noodle
 shop, says that she hasn't seen
 the future Layton. Where could he
@@ -392,6 +428,7 @@ have gone?
 I suppose there's nothing for it
 but to ask around a little more.
 !******************************!
+<HDR:5275646F6C706827732052657175657374>
 A streetwise chap by the name of
 Rudolph seems to have an inkling
 of where my future self may be.
@@ -403,6 +440,7 @@ now head to the pet shop where
 she works.
 
 !******************************!
+<HDR:5275646F6C70682773204D657373616765>
 Myrtle did not react well to
 receiving Rudolph's message, and
 indeed became rather agitated,
@@ -415,6 +453,7 @@ go and tell Rudolph that we
 have delivered his message.
 
 !******************************!
+<HDR:4C6F6F6B696E6720666F72206D79204675747572652053656C66>
 Rudolph informed us that there is
 a strong possibility that my
 future self is to be found
@@ -427,6 +466,7 @@ a restaurant down by the river.
 Perhaps we'll be able to ask in
 there for more information.
 !******************************!
+<HDR:54657272696679696E67204578706572696D656E7473>
 We encountered a rabbit blocking
 our path. According to his tale of
 woe, there is a research facility
@@ -440,6 +480,7 @@ In any case, it is essential that I
 find my future self and put an end
 to his evil designs.
 !******************************!
+<HDR:5269766572736964652052657374617572616E74>
 The Thames Arms is a quaint little
 restaurant on the riverside. The
 bartender informed me that a
@@ -452,6 +493,7 @@ Towering Pagoda. I also can't
 shake the feeling that I've met
 the bartender before...
 !******************************!
+<HDR:4261636B20746F2074686520546F776572696E67205061676F6461>
 We returned to Belltower Gate
 and, after solving a puzzle, headed
 on towards the Towering Pagoda.
@@ -464,6 +506,7 @@ will be a problem if I go off for
 a little while, as long as I leave
 a note first...
 !******************************!
+<HDR:496E746F20746865205061676F646120576520476F21>
 After finishing my little personal
 investigation, I was able to catch
 up with Luke and the others before
@@ -476,6 +519,7 @@ is just his style... As an English
 gentleman, it is my duty to stop
 him.
 !******************************!
+<HDR:54616B696E67205468696E67732046757274686572>
 The Towering Pagoda has a very
 complex internal structure. One
 would think this would hinder the
@@ -486,6 +530,7 @@ sterling job of solving the puzzles,
 and I am sure we shall reach the
 top of the pagoda in no time.
 !******************************!
+<HDR:546865204F746865722053696465206F662074686520446F6F72>
 After defeating complex machine
 puzzles, assembling a walkway and
 overcoming all sorts of obstacles,
@@ -498,6 +543,7 @@ people's suffering.
 
 
 !******************************!
+<HDR:53686F77646F776E207769746820467574757265204C6179746F6E21>
 The suspicious man in black we
 confronted is dressed like me, but
 he hasn't noticed that the current
@@ -508,6 +554,7 @@ past self was doing at this moment
 10 years ago. His mask has
 slipped...
 !******************************!
+<HDR:44696D6974726920697320746865204D616E20696E20426C61636B>
 The true identity of the man who
 claimed to be my future self is none
 other than Dimitri Allen, head of
@@ -520,6 +567,7 @@ the scientists. With Bill Hawks as
 his hostage, there's nothing I can
 do right now, however...
 !******************************!
+<HDR:44696D697472692773204772616E642044657369676E73>
 I thought that rescuing Luke and
 the others from the cage would
 turn the tables in our favour, but
@@ -531,6 +579,7 @@ the tower, and will try to save
 Claire based on this data.
 
 !******************************!
+<HDR:4573636170696E672074686520546F776572696E67205061676F6461>
 Surrounded by Dimitri's henchmen,
 we split into two groups and
 somehow managed to escape. The
@@ -543,6 +592,7 @@ unacceptable. I must do whatever
 it takes to stop him.
 
 !******************************!
+<HDR:5061756C2773204D656D6F72696573>
 It seems that Paul has been
 keeping my journal up to date in
 my absence, and my little personal
@@ -556,6 +606,7 @@ his assistance. To think that
 Dimitri is connected to that
 terrible event...
 !******************************!
+<HDR:5265736561726368696E672050617374204576656E7473>
 Dimitri is interested in the
 explosion at the Institute of
 Polydimensional Research as well...
@@ -568,6 +619,7 @@ escaped me at the time. In any
 case, our first step now is to go
 and meet Flora and Future Luke.
 !******************************!
+<HDR:54696D65204D616368696E652052657365617263683F>
 It would appear that the Towering
 Pagoda is not Dimitri's main base
 of operations after all. There
@@ -579,6 +631,7 @@ appears to have been specially set
 up, so we'll enquire as to its
 location at the hotel.
 !******************************!
+<HDR:5768657265277320467574757265204C756B6520476F6E653F>
 Flora was waiting for us at the
 hotel. She and Future Luke escaped
 together, but it seems he has now
@@ -591,6 +644,7 @@ sudden departure?
 We've no choice but to continue
 our investigation by ourselves.
 !******************************!
+<HDR:546865204769726C2057686F204C6F6F6B73204C696B6520436C61697265>
 It seems that Inspector Chelmey
 has also seen a girl who looks like
 Claire. However, it simply cannot
@@ -601,6 +655,7 @@ that this girl is a relative of
 hers. Inspector Chelmey has said
 he will look into this for me.
 !******************************!
+<HDR:4C756B65277320446973617070656172616E6365>
 While I was busy enquiring as to
 how to cross the Thames, Luke
 seems to have run off somewhere
@@ -612,6 +667,7 @@ Something must be troubling him.
 Finding Luke is now our first
 priority.
 !******************************!
+<HDR:416E20457465726E616C20467269656E6473686970>
 We found Luke crying in front of
 the statue in the square. It would
 appear that his father is being
@@ -624,6 +680,7 @@ endure, even when we are apart,
 just like the gentleman and the
 boy in the statue.
 !******************************!
+<HDR:43726F7373696E6720746865205468616D6573>
 Now that Luke is feeling better,
 his powers of reasoning are back
 on top form. The scientists that
@@ -637,6 +694,7 @@ The first thing we need to do now
 is find Grafton, who should be able
 to tell us how to get into it.
 !******************************!
+<HDR:496E73696465207468652054756E6E656C>
 Just as Grafton told us, the
 passage under the Thames is no
 longer in use. It looks full of
@@ -645,6 +703,7 @@ getting my hat wet, but at least
 we won't be spotted down here.
 Right, it's time to cross the river.
 !******************************!
+<HDR:4F7574736964652074686520526573656172636820466163696C697479>
 A closed-off research facility has
 been constructed at the other
 end of the passage. An industrial
@@ -657,6 +716,7 @@ kidnapped scientists there, as well
 as Dimitri himself. There has to be
 an entrance here somewhere...
 !******************************!
+<HDR:54686520526573656172636820466163696C697479277320536563726574>
 The research facility contains
 things more terrifying than we'd
 dared to imagine. Does Dimitri
@@ -668,6 +728,7 @@ choice but to leave those two
 guards unconscious so that we can
 move on unimpeded.
 !******************************!
+<HDR:436C616972652773205369737465722C2043656C65737465>
 In escaping from Bostro and his
 thugs, we were aided by the girl
 who looks just like Claire. Her
@@ -681,6 +742,7 @@ to ask her, but we were separated
 again before I had a chance to do
 so.
 !******************************!
+<HDR:41204D656574696E6720617420746865205468616D65732041726D73>
 The {''}old father's embrace{''} that
 Celeste was talking about is in
 fact the Thames Arms restaurant.
@@ -691,6 +753,7 @@ I believe I know what she meant...
 Everything will become clear at
 the Thames Arms. Let's hurry.
 !******************************!
+<HDR:54686520436F7665722D7570>
 I have been thinking about the
 accident that happened all those
 years ago. The facts may have
@@ -703,6 +766,7 @@ that time are being repeated.
 I must stop that from happening,
 whatever it takes.
 !******************************!
+<HDR:546865204661637473206F6620746865204D6174746572>
 We have reached the meeting point
 and enjoyed a stroke of luck in
 bumping into Inspector Chelmey
@@ -714,6 +778,7 @@ reveal the details of this terrible
 mystery. I must put an end to the
 destructive wills at work here.
 !******************************!
+<HDR:426C75657072696E747320666F72206120467574757265204C6F6E646F6E>
 I don't think I've ever seen
 planning on such a grand scale
 before. A working time machine...
@@ -725,6 +790,7 @@ scientists and inhabitants of this
 town in the dark as to its true
 nature and location.
 !******************************!
+<HDR:546865205265616C20507570706574204D6173746572>
 Dimitri, whom we found posing as
 the bartender in the restaurant,
 told us about the accident at the
@@ -738,6 +804,7 @@ strings, however, using Dimitri's
 desire for revenge for their own
 gain...
 !******************************!
+<HDR:467574757265204C756B652773205265616C204964656E74697479>
 I don't know why the grown-up
 Luke...Clive, that is, invited
 me here, but my reading of the
@@ -751,6 +818,7 @@ restaurant and taken Flora with
 him. We must hurry and catch up
 with them.
 !******************************!
+<HDR:4120466F72747265737320456D6572676573>
 We followed Clive to see where he
 had taken Flora, only to be
 greeted by the sight of an
@@ -763,6 +831,7 @@ I dread to think what might happen
 to London if we don't stop that
 fortress soon...
 !******************************!
+<HDR:496E746F20746865204D6F62696C6520466F727472657373>
 The mobile fortress threatens to
 destroy everything around it. It is
 imperative that we get Flora out
@@ -776,6 +845,7 @@ which Paul has kindly provided for
 me and left on the hill. I just hope
 this goes to plan...
 !******************************!
+<HDR:4C6F6F6B696E6720666F7220466C6F7261>
 It is little wonder that the
 fortress is such a technological
 marvel considering it has been
@@ -788,6 +858,7 @@ ventilation room, so that's where
 we need to head first. We must
 hurry!
 !******************************!
+<HDR:5472617070656420466C6F7261>
 We found Flora in a pitiful state,
 trapped inside a glass cage in the
 ventilation room. We managed to
@@ -800,6 +871,7 @@ the danger in staying up here.
 I've no time to reason with them
 now. We've got to stop Clive!
 !******************************!
+<HDR:436C69766520696E20746865205375727665696C6C616E636520526F6F6D>
 Having established that Clive is in
 the surveillance room, we headed
 over there in the transport pod.
@@ -810,6 +882,7 @@ The surveillance room is just up
 these stairs. We must get to Clive
 as soon as possible.
 !******************************!
+<HDR:54686520466F727472657373205375726661636573>
 Having confronted Clive, it has
 become apparent that the powers
 of reasoning he displayed while
@@ -821,6 +894,7 @@ revenge. It is pointless to try to
 talk him out of this now that the
 fortress has surfaced.
 !******************************!
+<HDR:546F2074686520466F72747265737327732047656E657261746F7221>
 The fortress continues to wreak
 destruction upon London. The city
 will be nothing but ruins if this
@@ -832,6 +906,7 @@ the surveillance room, we should
 be able to find the generator.
 
 !******************************!
+<HDR:5468652057696E6E65722054616B657320697420416C6C>
 We arrived in the generator room
 to find Bill Hawks in a terrible
 state, his heart rate being
@@ -845,6 +920,7 @@ only work for 10 minutes, after
 which the fortress will explode.
 We must prepare for the worst...
 !******************************!
+<HDR:536176696E67204C6F6E646F6E>
 With Celeste's help, we managed to
 save the prime minister, but the
 exploding fortress is going to
@@ -856,6 +932,7 @@ Celeste appears to be well versed
 in physics, so with her help I
 should be able to do it.
 !******************************!
+<HDR:3130204D696E75746573206F6620557068656176616C>
 The fortress started to destroy
 itself as it returned the way it
 had come. Fortunately, Paul had
@@ -867,6 +944,7 @@ underground and London was
 saved, albeit heavily damaged.
 That was a very long 10 minutes...
 !******************************!
+<HDR:437261636B696E67207468652043617365>
 I finally understand why Clive
 asked me to come here. He is the
 boy I saved from that explosion
@@ -879,6 +957,7 @@ my investigation, and I, for one,
 believe his promises to atone for
 his sins.
 !******************************!
+<HDR:57696E64696E6720446F776E>
 The truths that Celeste and
 Dimitri shared with me were hard
 to accept. Celeste is not just

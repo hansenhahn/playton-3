@@ -1,28 +1,37 @@
+<HDR:96A2978883568385838C815B835F815B>
 <V0010><T>Who's that?<W> Oh, it's you, Hershel!
 And little Luke!</V>
 !******************************!
+<HDR:838C834383678393>
 <V0020><T>Andrew?!</V>
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <V0030><T>Hmm? Why the quizzical look,
 Hershel? Have I got food in my
 beard again?</V>
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T><V0031>Oh, don't mind that, my boy. Sit
 down, sit down!</V>
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <V0040><T>You know, I've been hearing some
 very unsavoury rumours about you
 recently.</V>
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T><V0041>But I don't believe a single one
 of them!</V>
 !******************************!
+<HDR:838C834383678393>
 <V0050><T>What sort of unsavoury rumours?</V>
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <V0060><T>What sorts, you ask? The ones
 about the whojiwhatsit. The
 thingamawhizzer. The... Oh, drat.</V>
 !******************************!
+<HDR:96A2978883568385838C815B835F815B>
 <T><V0061>I seem to have forgotten them
 completely.<W> Well, never mind all
 that then.</V>

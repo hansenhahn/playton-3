@@ -1,62 +1,81 @@
+<HDR:838F838B837E815B>
 <T><A2/5>So, you're the one who's been
 bullyin' my bruvver Barmey! You're
 gonna pay for that!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A4/1>Well well. Look who went crying to
 the older boys.<W> What an impressive
 act of bravery.
 !******************************!
+<HDR:838F838B815B83678393>
 <T>Quiet, you! What was I supposed to
 do back there? I was outnumbered!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A4/2>There, there, I understand. You're
 only small and you knew you had
 no chance of stopping us.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>So, you're getting this big lump
 here to do the dirty work for you.
 !******************************!
+<HDR:838F838B837E815B>
 <T><A3/5>Hmph! Sticks and stones, sunshine!
 !******************************!
+<HDR:838F838B837E815B>
 <T>Believe you me, if the boss allowed
 violence in the pagoda, I'd have
 pounded you already!
 !******************************!
+<HDR:838F838B837E815B>
 <T>Since I can't do that, I'll have to
 sock it to you with this vicious
 puzzle!
 !******************************!
+<HDR:838C834383678393>
 <T>Would you like me to deal with this
 one, Big Luke?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/2>Don't trouble yourself with this
 piece of riff-raff, Professor. I
 can handle anything he dishes out.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>This puzzle's no joke.
 !******************************!
+<HDR:838C834383678393>
 <T>Would you like me to step in for
 you, Luke?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>I appreciate the offer, but I've
 got this, Professor. I just need a
 break to regain my focus.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>All right, let's try this again!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/5>So much for that puzzle. What are
 you going to do now?
 !******************************!
+<HDR:838F838B837E815B>
 <T>Hmph! You're lucky the boss
 doesn't let me rough people up
 in here.
 !******************************!
+<HDR:838F838B837E815B>
 <T>But you've gotta go outside at
 some point, and when you do, watch
 your back!
 !******************************!
+<HDR:838F838B815B83678393>
 <T>Yeah! Too right!
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A1/2>All bark and no bite. Come on,
 everyone. We've got places to be!
 !******************************!

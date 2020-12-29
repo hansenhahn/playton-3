@@ -1,85 +1,110 @@
+<HDR:8354837D838A815B>
 <T><A1/2>Oh gracious, customers! <W>We haven't
 had any of those in ages. Welcome!
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Good day to you, madam. You'll
 have to excuse us, we're not here
 to buy anything, I'm afraid.
 !******************************!
+<HDR:838C834383678393>
 <T>I received a letter the other day,
 you see, instructing me to come
 here.
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/5>Tee hee hoo. A letter, you say?
 <W><A1/2>Let me have a look at it, dearie.
 !******************************!
+<HDR:8354837D838A815B>
 <T>Hmm, yes. There's no mistake here.
 <W>Whoever sent you this letter wanted
 you to visit our little shop.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>So you don't know who sent it to
 me?
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/1>Unfortunately, I can't say that I
 do. But I do know who you are,
 Professor Layton!
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Oh really? And how do you know the
 professor?
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/2>Tee hee hoo! Well, it's hard not to
 know a man who's in the papers so
 often.
 !******************************!
+<HDR:8354837D838A815B>
 <T>And I do so love my morning paper.
 I read it front to back, every day.
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/5>So of course I know about the
 professor.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Hey, did you hear that, Professor?
 Further proof that you're famous
 throughout London.
 !******************************!
+<HDR:838B815B834E>
 <T>Even all the way out here!
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/1>Hey now! What do you mean, {''}all the
 way out here{''}?
 !******************************!
+<HDR:8354837D838A815B>
 <T>Just because we don't fancy living
 in sardine-tin flats doesn't mean
 we're not central!
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/2>Still, it is quite a shock to see
 the famous Professor Layton in
 the flesh.
 !******************************!
+<HDR:8354837D838A815B>
 <T>Such a shock, in fact, that I'm
 going to need some proof that
 you're not one of those lookalikes!
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/2>They say there isn't a puzzle
 around that you can't solve, but
 I won't believe it until I see it!
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/2>I won't believe you're the real
 Professor Layton until you solve
 this puzzle!
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/5>Well, I must say that I'm thoroughly
 convinced. You certainly do live up
 to your reputation.
 !******************************!
+<HDR:838B815B834E>
 <T><A2/2>Of course he does!
 !******************************!
+<HDR:8354837D838A815B>
 <T><A1/2>Yes, well, about that letter...
 !******************************!
+<HDR:8354837D838A815B>
 <T>I can't say I've seen it before, but
 my husband might know something.
 !******************************!
+<HDR:8354837D838A815B>
 <T>He's out at the moment, but he
 should be back soon. Why not look
 around the shop while you wait?
 !******************************!
+<HDR:8354837D838A815B>
 <T>My husband will be back soon, so
 just have a look around the shop
 while you wait.

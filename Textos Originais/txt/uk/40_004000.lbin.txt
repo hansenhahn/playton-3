@@ -1,18 +1,24 @@
+<HDR:>
 This stop lies at the bottom of
 the quaint, winding Midland Road.
 !******************************!
+<HDR:>
 This is the stop all the students
 use when they go to the university.
 !******************************!
+<HDR:>
 This is the stop for Scotland Yard,
 headquarters of the London police.
 !******************************!
+<HDR:>
 This station is often used by
 patrons of the Gilded 7 Casino.
 !******************************!
+<HDR:>
 This stop is conveniently located
 right in front of Green Hospital.
 !******************************!
+<HDR:>
 This station is situated in the
 heart of exotic Chinatown.
 !******************************!

@@ -1,12 +1,16 @@
+<HDR:838B815B834E>
 <V0010><T>We've got 10 minutes to get out
 of here before the fortress
 explodes! Now what?!</V>
 !******************************!
+<HDR:838C834383678393>
 <V0020><T>We need to reverse the energy flow.
 That will break the generator and
 shut down the fortress.</V>
 !******************************!
+<HDR:838B815B834E>
 <V0030><T>How are we going to do that?</V>
 !******************************!
+<HDR:8354838A83418358>
 <V0040><T>I have an idea! Look over here!</V>
 !******************************!

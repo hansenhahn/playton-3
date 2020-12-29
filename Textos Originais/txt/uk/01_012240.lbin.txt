@@ -1,66 +1,87 @@
+<HDR:83568383838D8393>
 <T>Oh, hello.
 !******************************!
+<HDR:838C834383678393>
 <T>Good day, madam. Would you mind
 helping us with something?
 !******************************!
+<HDR:83568383838D8393>
 <T>Why not? I've got nothing better
 to do today. This place is dead.
 !******************************!
+<HDR:838C834383678393>
 <T>We're here to visit someone in your
 care. Could you point us towards
 Room 312?
 !******************************!
+<HDR:83568383838D8393>
 <T>Room 312, huh? Let's see...<W> Ah,
 Dr Andrew Schrader? Of course,
 just a sec-
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>What?!<W> I'm sorry, did you just say
 Andrew Schrader?
 !******************************!
+<HDR:83568383838D8393>
 <T>Keep it down, will you? You're in a
 hospital, you know.</T> <TW>So, are you two
 relatives of Dr Schrader, then?
 !******************************!
+<HDR:838C834383678393>
 <T>Actually no, I'm a former student
 of his.
 !******************************!
+<HDR:83568383838D8393>
 <T>And your little friend there?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>He's, well...
 !******************************!
+<HDR:838B815B834E>
 <T><A3/2>Dr Schrader's student's apprentice!
 !******************************!
+<HDR:83568383838D8393>
 <T>Oh. Old 312's got a bit of a fan
 club, has he?
 !******************************!
+<HDR:83568383838D8393>
 <T>All right, you can see him if you
 like, but I'm going to need you to
 complete some paperwork first.
 !******************************!
+<HDR:838C834383678393>
 <T>Paperwork?
 !******************************!
+<HDR:83568383838D8393>
 <T>Hospital policy, I'm afraid. Don't
 worry, though. It's just one
 question.
 !******************************!
+<HDR:83568383838D8393>
 <T><K>Hmm.<W></K> Sorry, no visitors are
 allowed in without completing the
 necessary paperwork.
 !******************************!
+<HDR:83568383838D8393>
 <T>Sorry to force this on you, but
 it's a hospital directive. My hands
 are tied.
 !******************************!
+<HDR:83568383838D8393>
 <T>If you want to visit Dr Schrader,
 you need to complete this
 paperwork first.
 !******************************!
+<HDR:83568383838D8393>
 <T><A2/1>Thanks for that. You can visit
 Dr Schrader now.
 !******************************!
+<HDR:83568383838D8393>
 <T>His room's on the third floor. Just
 take those stairs over there.
 !******************************!
+<HDR:83568383838D8393>
 <T>Dr Schrader's room is up those
 stairs over there.
 !******************************!

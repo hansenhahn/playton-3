@@ -1,15 +1,20 @@
+<HDR:838B815B834E>
 <T>Say, when was that lighthouse on
 the river built?
 !******************************!
+<HDR:96A29788838B815B834E>
 <T>About five years ago.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Did anyone comment on its peculiar
 location?
 !******************************!
+<HDR:838C834383678393>
 <T>Building a structure like that in
 the middle of the river seems to
 serve little purpose.
 !******************************!
+<HDR:96A29788838B815B834E>
 <T><A3/5>That's not untrue, Professor...
 But let's discuss the city later. We
 need to make for the clock shop.

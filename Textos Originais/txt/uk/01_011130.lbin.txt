@@ -1,30 +1,39 @@
+<HDR:837583628360>
 <T>There's only one fella who wears a
 top hat like that...<W> You're
 Professor Layton, ain't ya?
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Indeed I am, sir. And who might you
 be?
 !******************************!
+<HDR:837583628360>
 <T>That ain't important right now.
 Here's what is important: this
 urgent letter I've got for ya.
 !******************************!
+<HDR:837583628360>
 <T>Before I hand it over, though,
 I need to verify yer identity.
 !******************************!
+<HDR:837583628360>
 <T>I've got a puzzle here tailor-made
 for that purpose, so get solving!
 !******************************!
+<HDR:837583628360>
 <T><A1/5>I can't be sure yer the real
 Professor Layton until ya
 solve this puzzle, can I now?
 !******************************!
+<HDR:837583628360>
 <T>If yer the real Professor
 Layton, prove it by solving this
 puzzle.
 !******************************!
+<HDR:837583628360>
 <T>All right, I'm convinced, Professor.<W>
 Here's yer letter.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>Let's see what it says.
 !******************************!

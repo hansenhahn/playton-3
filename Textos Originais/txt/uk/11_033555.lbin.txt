@@ -1,118 +1,152 @@
+<HDR:838B815B834E>
 <T>I've been thinking, Professor.
 !******************************!
+<HDR:838C834383678393>
 <T>What about, Luke?
 !******************************!
+<HDR:838B815B834E>
 <T><A4/1>About how you, Dimitri and Don
 Paolo all have a personal tie to
 poor Claire.
 !******************************!
+<HDR:838B815B834E>
 <T>And all of you seem to question the
 circumstances surrounding her
 death. Even Celeste does.
 !******************************!
+<HDR:838B815B834E>
 <T>Why do I get the feeling that many
 of the mysteries in this city
 lead back to that explosion?
 !******************************!
+<HDR:838C834383678393>
 <T><K><A4/5>...
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>The explosion that killed Claire
 didn't just destroy the lab in which
 she worked...
 !******************************!
+<HDR:838C834383678393>
 <T>By the time I got word of the
 accident and ran to the site, the
 whole place was in flames.
 !******************************!
+<HDR:838C834383678393>
 <T>A block of flats next to the lab
 had also been destroyed by the
 blast.
 !******************************!
+<HDR:838C834383678393>
 <T>The entire area was devastated.
 !******************************!
+<HDR:838C834383678393>
 <T><A5/1>Looking upon that scene, I knew
 that Claire was lost to me
 forever.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>And I wasn't the only one who lost
 something that day. Many others
 were wounded or lost loved ones.
 !******************************!
+<HDR:838C834383678393>
 <T>To this day, I still remember an
 orphaned child I met wandering
 the street, wailing for his parents.
 !******************************!
+<HDR:838C834383678393>
 <T>For some time after the incident, I
 was in a state of shocked grief.
 !******************************!
+<HDR:838C834383678393>
 <T>Then, when I came back to my
 senses, I noticed something
 curious.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/1>Despite the scale of the damage,
 there was no follow-up coverage
 in the media.
 !******************************!
+<HDR:838C834383678393>
 <T>Not one word about the incident
 was printed or broadcast after
 the initial reports.
 !******************************!
+<HDR:838C834383678393>
 <T>I knew the only way I'd get answers
 about what happened was by
 running my own investigation.
 !******************************!
+<HDR:838C834383678393>
 <T>I immediately set to work
 researching Claire's lab and the
 scientists she had worked with.
 !******************************!
+<HDR:838C834383678393>
 <T>During my investigation, I learned
 that powerful political forces had
 suppressed reports of the blast.
 !******************************!
+<HDR:838C834383678393>
 <T><A>It was right after this discovery
 that I was viciously assaulted.
 !******************************!
+<HDR:838C834383678393>
 <T>My injuries were so severe that I
 was in hospital for a month. I was
 lucky to be alive.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/1>When I returned to work, my office
 had been torn apart.
 !******************************!
+<HDR:838C834383678393>
 <T>The majority of the information
 I'd gathered on the case had been
 stolen.
 !******************************!
+<HDR:838C834383678393>
 <T>That explosion was no ordinary
 accident. Someone with serious
 political clout was involved.
 !******************************!
+<HDR:838C834383678393>
 <T>And this person abused his or her
 power to keep any facts about the
 event from ever coming to light.
 !******************************!
+<HDR:838C834383678393>
 <T><A4/5>I tried to dig back into the case
 several times, but it was no use.
 !******************************!
+<HDR:838C834383678393>
 <T>Every time I tried to make progress,
 I was met with resistance and
 threats of violence.
 !******************************!
+<HDR:838C834383678393>
 <T><A3/1>Claire is lost to me forever, I know
 that. But I must know the truth of
 what happened that day.
 !******************************!
+<HDR:838C834383678393>
 <T>It's a feeling I'm sure Don Paolo
 and Celeste share as well.
 !******************************!
+<HDR:838B815B834E>
 <T><A4/4>So you think Dimitri knows the
 truth?
 !******************************!
+<HDR:838C834383678393>
 <T>Dimitri and perhaps one other
 person...
 !******************************!
+<HDR:838B815B834E>
 <T>Who else do you mean, Professor?
 !******************************!
+<HDR:838C834383678393>
 <T>Everything will become clear at
 the Thames Arms. Let's go.
 !******************************!

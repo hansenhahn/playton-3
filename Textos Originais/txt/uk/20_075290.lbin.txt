@@ -1,29 +1,37 @@
+<HDR:8369838C815B835683878393>
 <T>Did you enjoy Professor Layton and
 the Lost Future?
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>You have reached the end of the
 story, but the game is far from
 over!
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>There are exactly 153 puzzles
 scattered throughout the story
 you've just completed.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>See if you can complete each and
 every one of them!
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Be sure to check the Bonuses
 section. Unlock more bonus content
 by fulfilling certain conditions.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>A number of extra-challenging
 puzzles await you in the Bonuses
 section.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>See if you have what it takes to
 conquer some of the most baffling
 puzzles in the game.
 !******************************!
+<HDR:8369838C815B835683878393>
 <T>Have fun with the rest of
 Professor Layton and the Lost
 Future!

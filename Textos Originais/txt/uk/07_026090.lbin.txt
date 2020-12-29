@@ -1,51 +1,67 @@
+<HDR:838B815B834E>
 <T>Look at all these toys, Professor!
 !******************************!
+<HDR:835883658342815B8375>
 <T>Into your toys, are you, lad?
 !******************************!
+<HDR:838B815B834E>
 <T>I used to be! <A3/2>But I don't have much
 time for toys now that I'm older.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Ho ho! But what about that toy car
 you're so fond of?
 !******************************!
+<HDR:838B815B834E>
 <T>I suppose you've got me there,
 Professor. That car's just too
 much fun to put down!
 !******************************!
+<HDR:835883658342815B8375>
 <T>A toy car, you say? Let's have a
 look...<W> <A3/1>Ah yes, this is one of my
 creations.
 !******************************!
+<HDR:838B815B834E>
 <T><A3/1>Really?!<W> Wow... That is so cool!
 !******************************!
+<HDR:835883658342815B8375>
 <T>Hyeh heh! Thank you kindly. Here,
 since you're such a fan, I'll make
 you a special offer.
 !******************************!
+<HDR:835883658342815B8375>
 <T>If you can solve this puzzle of mine,
 I'll give you a special track for
 your toy car!
 !******************************!
+<HDR:838B815B834E>
 <T>A special track just for solving a
 puzzle?<W2> <A3/2>This is my lucky day!
 !******************************!
+<HDR:835883658342815B8375>
 <T>Are you really giving up, lad? But
 you seemed so confident just a
 moment ago.
 !******************************!
+<HDR:835883658342815B8375>
 <T>I have a new track that'll knock
 your socks off. But first, you'll
 have to solve my puzzle.
 !******************************!
+<HDR:835883658342815B8375>
 <T>Good use of the grey matter, lad!
 Here's that track, as promised.
 !******************************!
+<HDR:838B815B834E>
 <T>Thank you so much!
 !******************************!
+<HDR:835883658342815B8375>
 <T>Hyeh heh! The name's Chequer, by
 the way. Feel free to drop by the
 shop for a browse any time.
 !******************************!
+<HDR:835883658342815B8375>
 <T>And remember lad, you're never too
 old to play with toys!
 !******************************!

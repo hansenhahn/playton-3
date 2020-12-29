@@ -1,63 +1,81 @@
+<HDR:83608346838B837E815B>
 <T>You there, with the shady
 expression! Look me in the
 eyes when I talk to you.
 !******************************!
+<HDR:834583628359>
 <T><A3/1>Buzz off, will you? I'm reading here!
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A2/1>Listen, you hooligan, I'm acting
 under the authority of Scotland
 Yard!
 !******************************!
+<HDR:83608346838B837E815B>
 <T>I demand that you comply with my
 investigation!
 !******************************!
+<HDR:834583628359>
 <T>Scotland Yard? Pfft.<W> It's been
 years since the police had any
 power in this city.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A5/0>No power, you say? You'd do well
 to take a close look at the man
 before you!
 !******************************!
+<HDR:83608346838B837E815B>
 <T>The very sight of this face sends
 thugs running for the hills!
 !******************************!
+<HDR:834583628359>
 <T><A5/0>Whoa there, settle down!<W>
 <A4/1>S-somebody help me! This oddball's
 getting too c-close for comfort!
 !******************************!
+<HDR:838B815B834E>
 <T>Inspector, please calm down!
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A1/1>Hrm? Ah, Luke. Not now, lad. I'm
 putting the screws on this dubious
 character here.
 !******************************!
+<HDR:838C834383678393>
 <T><A1/2>Inspector, please. I can vouch for
 this man. He's just an ordinary
 citizen.
 !******************************!
+<HDR:83608346838B837E815B>
 <T><A3/1>Oh, so he's a friend of yours,
 Layton? You should've said so
 earlier.
 !******************************!
+<HDR:83608346838B837E815B>
 <T>You're off the hook, newspaper
 boy. But listen well, because I'll
 only say this once.
 !******************************!
+<HDR:834583628359>
 <T>Th-thanks!<A3/1> I'm l-listening!
 !******************************!
+<HDR:83608346838B837E815B>
 <T>The soul of Scotland Yard and what
 it stands for is immortal! Even in a
 corrupt pit of depravity like this!
 !******************************!
+<HDR:83608346838B837E815B>
 <T>Now if you'll excuse me, I've got an
 investigation to attend to.<W>
 Good day, Layton.
 !******************************!
+<HDR:834583628359>
 <T><A2/1>Phew!<W> Thanks for saving me from
 that loon. What was all that
 gibberish about Scotland Yard?
 !******************************!
+<HDR:838B815B834E>
 <T>Oh, the inspector doesn't mean any
 harm. He just tends to get a little
 worked up.

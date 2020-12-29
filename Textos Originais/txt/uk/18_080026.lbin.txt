@@ -1,35 +1,46 @@
+<HDR:834E838D815B8393837D837483428341>
 <T>Aw man...
 !******************************!
+<HDR:838B815B834E>
 <T>Why the long face, sir?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Bostro just gave me an earful for
 loafin' on the job. A cardboard
 cut-out could do better, he said.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Some leader, eh? I re-<W> Hey! <A5/1>Why am
 I spillin' Family secrets to you?
 !******************************!
+<HDR:838B815B834E>
 <T>Erm... I'm not sure.
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Oooh! Think you're brainy, gettin'
 me to fess up and tell the truth,
 do you?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>You won't look so clever when my
 puzzle stumps you, short stuff!<W>
 Spot the liar!
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T><A1/1>Ha! Don't feel so clever now, do
 you?
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T><A1/1>Think you can solve my puzzle this
 time, do you? Pfeh! I'll believe
 that when I see it!
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T>Wow. That dozy expression of
 yours had me fooled. You're
 brighter than you look!
 !******************************!
+<HDR:834E838D815B8393837D837483428341>
 <T><A5/1>Stop hasslin' me! I have to at
 least look like I'm workin', you
 know.

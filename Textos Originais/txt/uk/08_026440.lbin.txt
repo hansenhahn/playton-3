@@ -1,8 +1,11 @@
+<HDR:8341838D837D>
 <T>What a quaint little restaurant.
 !******************************!
+<HDR:838B815B834E>
 <T>Hey, look at the sign. It seems
 we've found the Thames Arms.
 !******************************!
+<HDR:838C834383678393>
 <T>Indeed, and it seems to be both open
 and inviting. What say we step inside
 and have a look around?

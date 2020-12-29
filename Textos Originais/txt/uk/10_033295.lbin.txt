@@ -1,52 +1,68 @@
+<HDR:8366838D8343>
 <T>Hmph.<W> Well, look who we have here...
 !******************************!
+<HDR:838C834383678393>
 <T>You!
 !******************************!
+<HDR:838B815B834E>
 <T>I thought this place was unguarded!
 !******************************!
+<HDR:8366838D8343>
 <T><A2/5>You've got it all wrong, boy. I'm not
 on guard.<W> <A2/6>I'm just having a break.
 It's nice and quiet down here.
 !******************************!
+<HDR:8366838D8343>
 <T>But now that I've seen you, I can't
 very well let you just waltz on
 past, can I?
 !******************************!
+<HDR:838B815B834E>
 <T>Listen, we really need to pass
 through. Can't you just look the
 other way?
 !******************************!
+<HDR:8366838D8343>
 <T><A3/1>Hmph.<W> Headed for the research
 facility, are you?
 !******************************!
+<HDR:8366838D8343>
 <T>Okay, whatever. I'm not exactly on
 the clock here, after all.
 !******************************!
+<HDR:8366838D8343>
 <T>But that doesn't mean I don't have
 standards, and if you can't
 measure up, you're out of luck.
 !******************************!
+<HDR:838C834383678393>
 <T>Standards? What kind of
 standards?
 !******************************!
+<HDR:8366838D8343>
 <T><A1/1>You need to have solved at least
 80 puzzles.<W> Which you seem to have
 done. You're free to go through.
 !******************************!
+<HDR:838C834383678393>
 <T>Aren't you worried about what
 will happen if people find out you
 let us pass?
 !******************************!
+<HDR:8366838D8343>
 <T><A6/0>Hmph. So what if you do pass? You
 won't stop the boss. No one's got
 the brains for that.
 !******************************!
+<HDR:8366838D8343>
 <T><A3/1>And now that he's got his eye on
 you, it's only a matter of time
 before he traps you.
 !******************************!
+<HDR:838C834383678393>
 <T>We'll see about that.
 !******************************!
+<HDR:8366838D8343>
 <T><A5/5>Hmph! My break's over now. I don't
 imagine we'll be seeing each other
 again. Goodbye. 

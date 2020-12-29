@@ -1,9 +1,12 @@
+<HDR:838C834383678393>
 <T>This seems to be a map of the
 entire contraption.
 !******************************!
+<HDR:838B815B834E>
 <T>Oh look! There's the ventilation
 room!
 !******************************!
+<HDR:838C834383678393>
 <T>It seems this pod will take us there
 at the touch of a button.<W>
 Let's be off!

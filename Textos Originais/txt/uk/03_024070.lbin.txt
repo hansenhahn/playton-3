@@ -1,26 +1,34 @@
+<HDR:83788362834C815B>
 <T>Shh! Be quiet or you'll wake Granny
 up!
 !******************************!
+<HDR:838B815B834E>
 <T>Guess what, Becky? The professor
 and I are going to Chinatown.
 !******************************!
+<HDR:83788362834C815B>
 <T>Crikey, first the casino and now
 Chinatown? You two are proper
 tourists!
 !******************************!
+<HDR:83788362834C815B>
 <T><A1/2>It does sound like fun though. What
 are you planning to do there?
 !******************************!
+<HDR:838B815B834E>
 <T>I can't tell you just yet. The
 professor and I are on a
 top-secret mission, you see.
 !******************************!
+<HDR:838C834383678393>
 <T>Come along, Luke. We need to get
 moving.
 !******************************!
+<HDR:83788362834C815B>
 <T>Shh! Be quiet or you'll wake Granny
 up!
 !******************************!
+<HDR:83788362834C815B>
 <T>Just promise you'll fill me in on all
 the juicy details when you come
 back!
