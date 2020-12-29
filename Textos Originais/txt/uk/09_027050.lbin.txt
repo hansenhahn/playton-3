@@ -1,0 +1,40 @@
+<T>Strange... This whole room is
+covered in mirrors.
+!******************************!
+<T><A4/4>It's very confusing. I've got no
+idea which way we need to go.
+!******************************!
+<T><A4/1>It seems we've hit a dead end. How
+do you think we should proceed,
+Big Luke?
+!******************************!
+<T><A3/5>Maybe we have to press a hidden
+panel on one of the walls to open
+the door out of here.
+!******************************!
+<T><A2/2>Close, but not quite. If my guess
+is correct, the door is hidden in
+the dark over there.
+!******************************!
+<T>But we can't just rush headlong
+into the shadows. There's no
+telling what traps await us there.
+!******************************!
+<T><A2/2>Ah, now I see what you're getting
+at!
+!******************************!
+<T>Are you saying that this room
+is a puzzle, Professor?
+!******************************!
+<T>That's right, Luke. And I'm about
+to solve our way out of here.
+!******************************!
+<T>Hmm. I may need to ponder this one
+a little bit more.
+!******************************!
+<T>All right. I'm quite sure I've got
+the answer this time.
+!******************************!
+<T>It seems my theory was right.
+This way, everyone. 
+!******************************!

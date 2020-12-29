@@ -1,0 +1,41 @@
+<T>I suppose we have to head back to
+future London now, don't we?
+!******************************!
+<T>What's the matter, Luke? Are you
+scared of travelling through time
+again?
+!******************************!
+<T>Yes...<W> I mean, no. As long as I
+don't have to do it alone.
+!******************************!
+<T><A1/2>Of course not. I'll be right
+here with you.
+!******************************!
+<T>Our first step is to head to
+Chinatown to meet the future
+Professor Layton, I suppose?
+!******************************!
+<T><A4/1>That's right. If my assumptions
+are correct, we'll find the prime
+minister there as well.
+!******************************!
+<T>Do you think we'll run into trouble
+along the way?
+!******************************!
+<T>Considering the warm welcome we
+received from the Family at the
+casino, I'd say anything's possible.
+!******************************!
+<T>Luke, there's no telling what kind
+of dangers await us in the future.
+!******************************!
+<T>Maybe it would be best for you to
+remain here in our time.
+!******************************!
+<T><A1/3>What kind of apprentice would I be
+if I left you to face those dangers
+all alone?
+!******************************!
+<T>I'm coming with you, Professor.
+Let's go!
+!******************************!

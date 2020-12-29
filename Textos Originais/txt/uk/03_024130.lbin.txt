@@ -1,0 +1,169 @@
+<T>Sorry to keep you waiting, Shipley.
+!******************************!
+<T>Not at all. I just got here a minute
+ago myself.
+!******************************!
+<T>You've all met before, but I don't
+think you were properly introduced.
+!******************************!
+<T>This is my good friend, Shipley.
+!******************************!
+<T>He has played a vital role in bringing
+you and Little Luke here to our
+time.
+!******************************!
+<T><A1/2>Pleased to meet you, Shipley.
+!******************************!
+<T>Likewise, Professor. Sorry I had
+to be so brief with ya when we last
+met.
+!******************************!
+<T>Luke here told me I shouldn't share
+any details until he had the chance
+to speak to ya himself.
+!******************************!
+<T>Don't give it another thought.
+Luke needed to test us before
+sharing the details of his plan.
+!******************************!
+<T>Shipley, did you manage to do some
+reconnaissance work in Chinatown
+as I asked?
+!******************************!
+<T>Certainly did, Luke. That filthy
+scumbag Layton-
+!******************************!
+<T>Er, apologies, Professor. I'm
+talking about the evil Layton, of
+course.
+!******************************!
+<T>The professor is aware of the
+situation. Do continue.
+!******************************!
+<T>Right. Ya know the Towering Pagoda
+in Chinatown?
+!******************************!
+<T>Evil Layton is holding them captured
+scientists there, apparently.
+!******************************!
+<T>He's got them working like slaves
+on something or other.
+!******************************!
+<T><A1/4>So the scientists are in the
+Towering Pagoda...<W> That's going
+to make things very difficult.
+!******************************!
+<T>I heard another peculiar rumour
+while I was about town.
+!******************************!
+<T><A1/1>Yes?
+!******************************!
+<T>Word has it that the prime minister
+who disappeared 10 years ago is
+being held up there too.
+!******************************!
+<T><A1/5>What?!
+!******************************!
+<T><A4/5>Bill Hawks...
+!******************************!
+<T><A4/1>He's been missing ever since the
+day of the accident.
+!******************************!
+<T><A3/5>It's been 10 years now...
+!******************************!
+<T>Do you suppose evil Layton might
+have abducted the prime minister
+as well as all those scientists?
+!******************************!
+<T>We won't know until we check the
+facts for ourselves.
+!******************************!
+<T><A1/1>Big Luke, you seemed apprehensive
+at the mention of the Towering
+Pagoda.<W> What is this place?
+!******************************!
+<T>The Towering Pagoda is the Family
+stronghold, situated among a sea
+of warehouses in Chinatown.
+!******************************!
+<T>To complicate matters, all of
+Chinatown is under Family control.
+!******************************!
+<T>Which means it'll be difficult just
+to get within walking distance.
+!******************************!
+<T>Be that as it may, we need to
+uncover the truth.
+!******************************!
+<T>Can you guide us safely to the
+pagoda?
+!******************************!
+<T><A1/1>Hmm... Infiltrating a place like
+that is going to require a bit of
+preparation.
+!******************************!
+<T>Why don't we split up for a bit and
+I'll see if I can secure us a safe
+route there?
+!******************************!
+<T>You go on and head for Chinatown
+without me. Shipley will tell you how
+to get that far. All right?
+!******************************!
+<T>Very well.
+!******************************!
+<T>Good. Now I need to get moving. Be
+careful out there.
+!******************************!
+<T>Crikey, he didn't half leave in a
+hurry.
+!******************************!
+<T>We need to get to Chinatown,
+Shipley. What's the best way
+to get there?
+!******************************!
+<T>Let's see... Yer best bet is to
+head back up Flatstone Street.
+!******************************!
+<T>As ya head north towards the
+casino, there's a small set of
+stairs on the right.
+!******************************!
+<T>Do ya know the ones I mean?
+!******************************!
+<T>Ah, yes. Now that you mention it, I
+do recall passing by an area that
+fits that description.
+!******************************!
+<T>Good. Head up them stairs and
+follow the narrow alley at the top
+until ya hit a path above the river.
+!******************************!
+<T>From there, just follow that path
+and it'll take ya straight into
+Chinatown.
+!******************************!
+<T>You're not coming with us, Shipley?
+!******************************!
+<T>I wish I could, but I've got to stay
+here and wait for word from yer
+older self.
+!******************************!
+<T>Very well. Thank you for your
+assistance, Shipley.<W> Come, Luke.
+We mustn't tarry here.
+!******************************!
+<T>Be careful out there! If ya run
+into any trouble, ya can always
+find me here.
+!******************************!
+<T>To get to Chinatown, head north up
+Flatstone Street.
+!******************************!
+<T>Then climb the stairs on the right
+and go down the alley at the top.
+!******************************!
+<T>After a while, ye'll come to a path
+above the river. Follow that path
+to get to Chinatown.
+!******************************!

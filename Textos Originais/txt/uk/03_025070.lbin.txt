@@ -1,0 +1,23 @@
+<T>You know, Professor, what with all
+the trees and stuff, this hill is a
+bit...creepy.
+!******************************!
+<T>What's the matter, Luke? You're
+not afraid of seeing a ghost, are
+you?
+!******************************!
+<T><A1/3>C-come on, P-Professor! I know
+y-you would n-never believe in
+something s-so unscientific!
+!******************************!
+<T>Unscientific, you say?
+!******************************!
+<T>Yeah! Th-there's no p-proof that
+ghosts exist!
+!******************************!
+<T><A4/2>And a man of science like you would
+never fear something as silly as
+ghosts, eh, Luke?
+!******************************!
+<T><A1/4>Well...<W>maybe just a little.
+!******************************!

@@ -1,0 +1,11 @@
+<T>You received the latest and
+greatest in toy cars from the
+hotel manager, Margaret.
+!******************************!
+<T>The Toy Car minigame has been
+added to the trunk.
+!******************************!
+<T>Use your wits to steer your car
+through a number of twisty,
+obstacle-ridden courses.
+!******************************!

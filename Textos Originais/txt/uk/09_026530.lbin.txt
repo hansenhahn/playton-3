@@ -1,0 +1,39 @@
+<T>Hmph. Back again, I see.
+!******************************!
+<T>Yes, we heard that Mr Layton had
+returned.
+!******************************!
+<T>That...is not incorrect.
+!******************************!
+<T>Then I assume you'll be letting us
+through?
+!******************************!
+<T>Hmph. I have no objections.<W><A5/5> Well,
+that's not entirely true. There is
+one minor issue left.
+!******************************!
+<T>When the boss got back, he ordered
+me to not let anyone through unless
+they solve this puzzle.
+!******************************!
+<T>Sorry, but the boss said that the
+man wanting to pass through here
+would be able to solve this puzzle...
+!******************************!
+<T><A6/0>Therefore, I can only deduce that
+you're not the man he's expecting.
+!******************************!
+<T>You know the score. If you want to
+get in, you have to solve this
+puzzle first. No exceptions.
+!******************************!
+<T>Hmph. It seems the boss was right
+about you. You must be the one
+he's been waiting for...
+!******************************!
+<T><A3/2>Does that mean we can enter?
+!******************************!
+<T><A4/1>Head down the street to the
+pagoda. I wouldn't keep him
+waiting, if I were you.
+!******************************!

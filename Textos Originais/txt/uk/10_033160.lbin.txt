@@ -1,0 +1,28 @@
+<T>Chomp chomp. Oh, hello Professor.
+Can I - nom nom - help you?
+!******************************!
+<T>Barton, have you seen Luke
+wandering about this area?
+!******************************!
+<T>Shlurp! No. No, sir. Has the lad
+got himself lost? 
+!******************************!
+<T>It's beginning to look like it.
+The thing is, I can't imagine where
+he could be.
+!******************************!
+<T>That - chomp chomp gulp - is a
+little worrying, isn't it?
+!******************************!
+<T><A2/1>Oh, and on the subject of missing
+persons, you should know that the
+inspector is looking for you.
+!******************************!
+<T>Oh... Chomp chomp chomp. I see.
+!******************************!
+<T><A1/2>Do check in with him when you have
+a chance, won't you?
+!******************************!
+<T>Yes, sir. I'll be sure to do so -
+as soon as I finish this cake.
+!******************************!

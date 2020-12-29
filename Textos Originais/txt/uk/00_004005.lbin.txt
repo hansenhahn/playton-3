@@ -1,0 +1,37 @@
+<T>Hrm.<W> Well, the food certainly isn't
+anything to write home about.
+!******************************!
+<T>Sorry you feel that way, sir.
+I think it's quite - chomp chomp -
+scrumptious, myself.
+!******************************!
+<T><A1/2>Bah. This over-salted chop and pile
+of wilted greens have nothing on
+Amelie's cooking.
+!******************************!
+<T>If that's how you feel, sir, I'd be
+happy to relieve you of that, um,
+burden.
+!******************************!
+<T><A1/3>Now see here, Barton! If you don't
+return my chop at once, I'll have
+you driving a desk next week!
+!******************************!
+<T>It would be worth it! Mmm... 
+This crackling is, um, cracking!
+!******************************!
+<T>Hrm! They don't seem to be in any
+hurry to get this show started.
+!******************************!
+<T>Come on, sir, it's not all bad.
+At least there's - shlurp - food
+to enjoy while we wait.
+!******************************!
+<T><A1/2>Honestly, I'm knee-deep in case
+work. I haven't got the time
+for fancy banquets.
+!******************************!
+<T>Chomp! Oh my, sir, you should try
+this. It's - chomp chomp -
+absolutely lovely.
+!******************************!

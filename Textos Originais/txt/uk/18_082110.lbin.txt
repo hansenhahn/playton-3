@@ -1,0 +1,15 @@
+<T>I imagine this puzzle will give you
+no trouble.
+!******************************!
+<T>Hmm, this one is rather difficult.
+!******************************!
+<T>Tenacity is the key virtue of any
+puzzler. Now let's return to the
+puzzle at hand.
+!******************************!
+<T><A1/2>Now that's how you solve a puzzle!
+Excellent work!
+!******************************!
+<T><A1/2>You just can't get enough of some
+puzzles, eh?
+!******************************!

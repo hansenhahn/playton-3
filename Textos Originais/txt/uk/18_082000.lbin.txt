@@ -1,0 +1,15 @@
+<T>Let's see how you fare against
+this puzzle.
+!******************************!
+<T>This one is rather challenging,
+isn't it?
+!******************************!
+<T>I'm glad to see you haven't given
+up. Let's return to the puzzle.
+!******************************!
+<T><A1/2>Wonderful work! I couldn't have
+done it better myself.
+!******************************!
+<T><A1/2>Back to solve this one again?
+Ho ho! I know that feeling.
+!******************************!

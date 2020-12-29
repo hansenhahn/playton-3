@@ -1,0 +1,52 @@
+<T>All that stuff in your notebook,
+Professor...
+!******************************!
+<T>What was this explosion you were
+researching? 
+!******************************!
+<T>It all happened quite a few years
+ago, when you were very small.
+!******************************!
+<T>Two scientists working in a physics
+lab accidentally caused an
+explosion during an experiment.
+!******************************!
+<T>The blast devastated the
+surrounding area.
+!******************************!
+<T>That must have been all over the
+news.
+!******************************!
+<T>You'd think so, wouldn't you?
+!******************************!
+<T>However, though many perished in
+the blast, few records of the
+accident remain.
+!******************************!
+<T>What happened?
+!******************************!
+<T>That's something I'm still trying to
+work out myself.
+!******************************!
+<T>But answer me this, Luke: what is
+the first thing that comes to mind
+when you think of an explosion?
+!******************************!
+<T>Why, the explosion at the
+presentation of Dr Stahngun's
+time machine, of course!
+!******************************!
+<T>That was my first thought as well.
+I have a strong suspicion that
+these two incidents are connected.
+!******************************!
+<T>Why's that?
+!******************************!
+<T>Well, it's nothing more than a hunch
+at the moment, so I can't really
+say any more.
+!******************************!
+<T><K>Hmm...
+!******************************!
+<T>Oh, Professor, this is our stop!
+!******************************!

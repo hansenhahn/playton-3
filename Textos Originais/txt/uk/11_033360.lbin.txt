@@ -1,0 +1,30 @@
+<T>This metal shutter is blocking our
+way. I'm starting to get the feeling
+we're not welcome here.
+!******************************!
+<T>Of course not, Flora. That's how
+criminals work. The dirtier the deed,
+the more cautious they get!
+!******************************!
+<T>See, they've even gone out of their
+way to fit a puzzle lock to the
+shutter.
+!******************************!
+<T>Phew! This puzzle's a tough one all
+right!
+!******************************!
+<T>Just watch. This time I'm going to
+crack this puzzle wide open!
+!******************************!
+<T>You can do it, Luke.
+!******************************!
+<T>Ha ha! That lock didn't stand a
+chance against me!<W> Stupid lock.
+!******************************!
+<T><A1/5>I hope you didn't enjoy cracking
+that lock too much, Luke. It could
+lead you to a life of crime!
+!******************************!
+<T><A1/1>Thanks, Flora. I'll, um, bear that
+in mind.
+!******************************!

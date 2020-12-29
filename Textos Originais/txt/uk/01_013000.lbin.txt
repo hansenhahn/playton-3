@@ -1,0 +1,29 @@
+<V0010><T>Who's that?<W> Oh, it's you, Hershel!
+And little Luke!</V>
+!******************************!
+<V0020><T>Andrew?!</V>
+!******************************!
+<V0030><T>Hmm? Why the quizzical look,
+Hershel? Have I got food in my
+beard again?</V>
+!******************************!
+<T><V0031>Oh, don't mind that, my boy. Sit
+down, sit down!</V>
+!******************************!
+<V0040><T>You know, I've been hearing some
+very unsavoury rumours about you
+recently.</V>
+!******************************!
+<T><V0041>But I don't believe a single one
+of them!</V>
+!******************************!
+<V0050><T>What sort of unsavoury rumours?</V>
+!******************************!
+<V0060><T>What sorts, you ask? The ones
+about the whojiwhatsit. The
+thingamawhizzer. The... Oh, drat.</V>
+!******************************!
+<T><V0061>I seem to have forgotten them
+completely.<W> Well, never mind all
+that then.</V>
+!******************************!

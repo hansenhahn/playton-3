@@ -1,0 +1,11 @@
+<T>Heading back already, Layton?
+I've still got a few leads to chase,
+so I'm going to stay here for now.
+!******************************!
+<T><A1/1>Understood, Inspector. I'll see
+you when I return.
+!******************************!
+<T>Right, would those who aren't
+coming please leave the room?
+<A3/0>I'm flipping the switch now!
+!******************************!

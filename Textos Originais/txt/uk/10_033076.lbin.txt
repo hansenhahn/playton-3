@@ -1,0 +1,11 @@
+<T>He was looking a bit blue before he
+left, sir. Was something bothering
+him?
+!******************************!
+<T>I'm not sure...<W> He probably hasn't
+gone far, so with a little searching,
+I'm sure we'll find him.
+!******************************!
+<T>I'm sure you will, sir. Best of luck
+with your search.
+!******************************!

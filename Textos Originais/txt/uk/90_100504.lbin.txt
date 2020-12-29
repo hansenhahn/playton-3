@@ -1,0 +1,11 @@
+<T>Nicely done!<W>
+It must have been hard work!
+!******************************!
+<T><A3/0>Awwwrk!
+!******************************!
+<T><A2/1>Well then, would you like a slice?
+I made a pot of Earl Grey while I
+was waiting.<W> You do drink tea?
+!******************************!
+<T><A4/0>Earrrl Grey! Earrrl Grey!
+!******************************!

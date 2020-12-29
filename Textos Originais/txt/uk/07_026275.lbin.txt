@@ -1,0 +1,13 @@
+<T>You know, Professor, there's
+something I can't stop thinking
+about...
+!******************************!
+<T>What's that, Flora?
+!******************************!
+<T>Have you seen that charming little
+house above Myrtle's shop?
+What do you suppose is in there?
+!******************************!
+<T>Hmm. I'm not sure... Let's be sure
+to go and have a look sometime.
+!******************************!

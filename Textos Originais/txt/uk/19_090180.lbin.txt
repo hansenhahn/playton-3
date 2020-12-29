@@ -1,0 +1,12 @@
+<T>Having reunited with Layton, our
+heroes begin their ascent of the
+Towering Pagoda.
+!******************************!
+<T>Solving every puzzle in their way,
+the group steadily climb past each
+of the pagoda's floors.
+!******************************!
+<T>Slowly, challenge by challenge, they
+approach the top floor, where the
+future Layton awaits.
+!******************************!

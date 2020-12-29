@@ -1,0 +1,11 @@
+<T>Hello there. We were in the area and
+thought we'd drop by again.
+!******************************!
+<T>Ah, welcome back to the Thames
+Arms. Did you ever find the
+gentleman you were looking for?
+!******************************!
+<T><A1/2>Oh yes - thanks to you, of course.
+!******************************!
+<T>Well, I'm glad to hear that.
+!******************************!

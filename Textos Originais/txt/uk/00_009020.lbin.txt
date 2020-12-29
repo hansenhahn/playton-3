@@ -1,0 +1,47 @@
+<T><A1/1>Say, Professor, how are we going
+to keep track of our progress?
+!******************************!
+<T>Ah yes.<W><A2/2> I suspect we could both use
+a refresher on that subject.
+!******************************!
+<T>To start, touch the trunk icon
+located in the top-right corner of
+the Touch Screen.
+!******************************!
+<T>This will open the trunk, where you
+can access several useful options
+by touching their icons.
+!******************************!
+<T>This is the Puzzle Index. This option
+allows you to review puzzles you've
+found during the adventure.
+!******************************!
+<T>This is the Save option. Touch this
+option to save your progress
+throughout the adventure.
+!******************************!
+<T>This is the Puzzle Index. This option
+allows you to review puzzles you've
+found during the adventure.
+!******************************!
+<T>Solved puzzles are marked with a
+tick. Those you're yet to solve are
+blank.
+!******************************!
+<T>Any previously solved puzzle can
+be replayed from this menu.
+!******************************!
+<T>In order to have another go at an
+unsolved puzzle, however, you'll
+need to return to its location.
+!******************************!
+<T>Finally, this is the Journal. Touch
+the Journal to review the events
+of the story.
+!******************************!
+<T><A3/2>Got it, Professor!
+!******************************!
+<T>That's good to hear, Luke. I imagine
+we'll be making good use of the
+trunk during our investigation.
+!******************************!

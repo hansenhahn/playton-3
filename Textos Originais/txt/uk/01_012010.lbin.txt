@@ -1,0 +1,58 @@
+<T>Excuse me. We're trying to get to
+Auckland Lane, but the buses don't
+seem to go there any more.
+!******************************!
+<T>Spot on, boyo.<W> Them buses had
+already stopped running when I
+moved here, two years ago.
+!******************************!
+<T>Two years ago? But...<W>the poster
+says the buses won't stop running
+for another five years.
+!******************************!
+<T>What are you talking about?<W>
+That poster is five years old!<A3/0> Sums
+not your strong spot, boyo?
+!******************************!
+<T>But that can't be right! Unless...
+!******************************!
+<T>Luke! That's enough.
+!******************************!
+<T>I do apologise for my friend,
+madam.
+!******************************!
+<T>Don't you find the lack of buses in
+this area a bit of an inconvenience,
+though?
+!******************************!
+<T>Not at all. If I need to take
+public transport, I hop on the
+train, don't I?
+!******************************!
+<T>There's a station on Flatstone
+Street, see.
+!******************************!
+<T>Tourists, is it?
+!******************************!
+<T>You should take your questions to
+the hotel on Southern Street. It's
+just down the road.
+!******************************!
+<T>They'll help you find where you need
+to go.
+!******************************!
+<T>Thank you for your assistance,
+madam.
+!******************************!
+<T><A1/5>Tourists? Us?<W> Hmph! 
+!******************************!
+<T>I was born and raised here! I've
+lived in London longer than she has!
+!******************************!
+<T>Now, Luke, there's no need to get
+all wound up. Let's find that hotel.
+!******************************!
+<T>If you've got any more questions
+about the city, ask at the hotel on
+Southern Street, over by there.
+!******************************!

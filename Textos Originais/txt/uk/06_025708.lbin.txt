@@ -1,0 +1,74 @@
+<T>Keh heh heh. Well well, look who's
+back!
+!******************************!
+<T>Mr...Stachenscarfen?!
+!******************************!
+<T>The one and only!<W> And who's your
+feathered friend there?
+!******************************!
+<T>Oh, you mean <N1>?
+!******************************!
+<T>Rrrrrawk! Nice to meetchoo,
+meetchoo!
+!******************************!
+<T>Keh heh heh! Nice to meet you too,
+birdie.
+!******************************!
+<T>Say, you seem like a dependable lot.
+Can I ask you a favour?
+!******************************!
+<T>I've recently become rather fond
+of mushrooms. Especially those
+little red ones, they're dee-licious!
+!******************************!
+<T>That's where you come in. I'd like
+you to seek out one of those fine 
+fungi and bring it back to me!
+!******************************!
+<T>A small, red, delicious mushroom...
+I haven't a clue where we could find
+one of those.
+!******************************!
+<T>Awwwrk! <N1> knows!
+<N1> get!
+!******************************!
+<T>Keh heh heh! Now, that's the kind
+of can-do attitude I like, birdie.
+But are you really up to the task?
+!******************************!
+<T><N1>'s no ordinary
+parrot! This should be a
+doddle for him.
+!******************************!
+<T><N1> can now take on
+requests from people you meet
+during your adventure!<Q><W30><J403></J>
+!******************************!
+<T>Help <N1> complete the
+requests given in the Parrot
+minigame, available in the trunk.
+!******************************!
+<T>The more requests you succeed in
+completing, the more skilful
+<N1> becomes.
+!******************************!
+<T>If you complete enough requests,
+he'll start to help you find hidden
+hint coins.
+!******************************!
+<T>See if you can help <N1>
+complete every delivery
+request you come across.
+!******************************!
+<T>Let's get this show on the road.
+Open the Parrot minigame in the
+trunk and select my request.
+!******************************!
+<T>Fetching my mushroom should be no
+problem for your parrot if he's
+half the bird you say he is. 
+!******************************!
+<T>Now hurry! I can't get enough of
+those little red mushrooms - you
+just have to bring me one, quick!
+!******************************!

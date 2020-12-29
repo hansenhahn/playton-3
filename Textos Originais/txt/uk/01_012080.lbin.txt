@@ -1,0 +1,25 @@
+<T>I'll be showing you to your room
+now, Professor Layton.
+!******************************!
+<T>My name is Becky. Please don't
+hesitate to ask me should you need
+anything.
+!******************************!
+<T><A3/1>We know your name, Becky. You told
+us earlier, remember? <A3/2>My name is
+Luke, by the way!
+!******************************!
+<T>Oh, and there's no need to be so
+formal. All that politeness makes
+me feel awkward.
+!******************************!
+<T><A3/3>Shh! Granny's a stickler for
+service. I have to keep things
+formal when she's in earshot!
+!******************************!
+<T><A4/1>Oh, I see. Righto.
+!******************************!
+<T><A1/1>Now then, if you two gentlemen are
+ready, I shall escort you to your
+room.<W> Right this way, please!
+!******************************!

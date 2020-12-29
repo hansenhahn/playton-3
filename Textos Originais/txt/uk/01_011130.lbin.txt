@@ -1,0 +1,30 @@
+<T>There's only one fella who wears a
+top hat like that...<W> You're
+Professor Layton, ain't ya?
+!******************************!
+<T><A1/1>Indeed I am, sir. And who might you
+be?
+!******************************!
+<T>That ain't important right now.
+Here's what is important: this
+urgent letter I've got for ya.
+!******************************!
+<T>Before I hand it over, though,
+I need to verify yer identity.
+!******************************!
+<T>I've got a puzzle here tailor-made
+for that purpose, so get solving!
+!******************************!
+<T><A1/5>I can't be sure yer the real
+Professor Layton until ya
+solve this puzzle, can I now?
+!******************************!
+<T>If yer the real Professor
+Layton, prove it by solving this
+puzzle.
+!******************************!
+<T>All right, I'm convinced, Professor.<W>
+Here's yer letter.
+!******************************!
+<T><A4/1>Let's see what it says.
+!******************************!

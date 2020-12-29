@@ -1,0 +1,37 @@
+<T>There's no doubt about it,
+Professor. We're back in our time.
+!******************************!
+<T>The surroundings here certainly
+do seem familiar.
+!******************************!
+<T>Phew. All this time travel has
+really worn me out, you know.
+!******************************!
+<T><A1/2>Yes, I could do with a rest myself.
+But we mustn't keep Cogg waiting.
+!******************************!
+<T><A4/2>You're right. So, shall we go and
+find Inspector Chelmey?
+!******************************!
+<T>That will be our second stop.
+I'd like to drop by my office at
+the university first.
+!******************************!
+<T>For a quick rest?
+!******************************!
+<T><A2/2>Not quite. I need to check a few
+things before our meeting with
+Inspector Chelmey.
+!******************************!
+<T>Preparation, my boy, is the
+foundation upon which every good
+investigation is built.
+!******************************!
+<T><A4/2>Right you are, Professor!
+!******************************!
+<T><A4/2>Now that we're back in our own
+time, we can reach the university
+in a matter of minutes by bus.
+!******************************!
+<T>Let's go, Luke.
+!******************************!

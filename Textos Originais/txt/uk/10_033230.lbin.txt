@@ -1,0 +1,163 @@
+<T><K>...
+!******************************!
+<T>Luke! There you are!
+!******************************!
+<T><A1/4>Oh... Hi, Professor.
+!******************************!
+<T><A3/2>I see you've gone out for a stroll.
+May I join you?
+!******************************!
+<T>Of course.<W> I-I'm sorry for running
+off.<W> I was just...<W> Well, I was just
+thinking.
+!******************************!
+<T>We've had so much fun these last
+few years. And I've become so used
+to going everywhere together.
+!******************************!
+<T><A1/2>Of course you have. After all,
+we're the best of friends. It's only
+natural we'd spend time together.
+!******************************!
+<T>B-but...<W> Dad told me the other
+day that he's being transferred.
+We'll all be moving away.
+!******************************!
+<T><A4/1>Ah, yes. Your father mentioned
+that to me as well.
+!******************************!
+<T><A4/2>Now tell me, Luke, do you believe
+that we're true friends?
+!******************************!
+<T><A1/5>Of course I do! How can you even
+ask that?
+!******************************!
+<T>Good. Then there's no need to
+worry. True friends, you see,
+share a special connection.
+!******************************!
+<T>And this connection endures, no
+matter how far apart they may be
+in the world.
+!******************************!
+<T>Distance and time apart cannot
+break the bonds formed by a true
+friendship. Do you see?
+!******************************!
+<T><A1/1>I...I think I do, Professor.
+!******************************!
+<T><A2/2>Excellent! Then let's get back to
+our investigation. We've got many
+mysteries to solve!
+!******************************!
+<T><A3/2>Let's go, Professor!
+!******************************!
+<T><A4/2>Ho ho! It's good to see you back in
+high spirits, my boy.
+!******************************!
+<T>Now tell me, can you guess where
+we're headed next?
+!******************************!
+<T><A2/1>I've been thinking about it and I'm
+sure Dimitri fled to the place where
+he's building the time machine.
+!******************************!
+<T>But the question is, where? We
+already know that this research
+lab isn't in the Towering Pagoda.
+!******************************!
+<T><A1/2>That's right. So we must review
+all the clues we've gathered in our
+investigation of this London.
+!******************************!
+<T>Has anything we've seen around the
+city struck you as suspicious?
+!******************************!
+<T><A2/2>Oh! What about all the men in white
+coats we've bumped into?
+!******************************!
+<T>Those were lab coats, no doubt
+about it. Perhaps those men are
+involved in Dimitri's research!
+!******************************!
+<T>Excellent. Now let's think carefully.
+We've met several men in lab coats
+around this London.
+!******************************!
+<T>Other than their garb, what else
+did all these men have in common?
+!******************************!
+<T><J411><A1/6>Oh, of course!<Q><K></J>
+!******************************!
+<T><A4/1>They all had wet shoes!
+!******************************!
+<T>So they must have walked through
+a very wet area.<A4/2> But where
+could that be?
+!******************************!
+<T>The River Thames!
+!******************************!
+<T>Maybe they came to this part of
+town through the tunnel under
+the river!
+!******************************!
+<T><A1/1>Um, Flora?
+!******************************!
+<T>What tunnel under the river?
+!******************************!
+<T>We asked the lady at the hotel how
+to get across the river, and she
+told us about this tunnel.
+!******************************!
+<T>Wow...
+!******************************!
+<T><A4/5>Yes, we've met quite a few
+scientists during our time here.
+!******************************!
+<T>Though they haven't been very
+forthcoming with details, it's clear
+where they've been coming from.
+!******************************!
+<T><A4/2>My suspicion is that these men work
+at a research facility located near
+the river.
+!******************************!
+<T>They probably come into town to
+refresh themselves after long
+hours of research.
+!******************************!
+<T>And you've known this the whole
+time, Professor?
+!******************************!
+<T><A1/2>It's been a working theory for a
+while, yes. After all, who goes
+around in soggy shoes?
+!******************************!
+<T>We've seen too many men walking
+about like that for me to write
+the whole thing off as coincidence.
+!******************************!
+<T>I therefore believe that this
+research facility is somewhere on
+the other side of the river.
+!******************************!
+<T>Amazing. I've clearly still got a
+long way to go before I can reason
+as well as you do, Professor.
+!******************************!
+<T>All right, everyone. We're going
+back to the black market bazaar.
+!******************************!
+<T><A4/1>Why there? If we're trying to get
+across the river, shouldn't we
+head back to the riverside area?
+!******************************!
+<T>I'm sure we'll be going there
+eventually.
+!******************************!
+<T>But first, we have to talk to that
+man at the bazaar with the
+eyebrows. Grafton, I think.
+!******************************!
+<T>Okay, if you say so...
+!******************************!

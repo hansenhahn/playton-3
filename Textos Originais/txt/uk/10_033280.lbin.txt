@@ -1,0 +1,19 @@
+<T>Bingo!
+!******************************!
+<T>So this is the coded lock that
+Grafton was talking about.
+!******************************!
+<T>I think I can break the code.
+Let's see...
+!******************************!
+<T>Drat. That didn't do it.<W> I suppose
+I'll have to try again.
+!******************************!
+<T>The only way we're going to get
+the door open is by solving this
+puzzle.
+!******************************!
+<T>I think that did the trick!
+!******************************!
+<T>Puzzle solved.
+!******************************!

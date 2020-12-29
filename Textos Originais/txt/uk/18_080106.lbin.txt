@@ -1,0 +1,30 @@
+<T><A1/5>Hey there, little lady!
+!******************************!
+<T>You don't look very well. Are you
+all right?
+!******************************!
+<T><A1/5>No worries, little lady. I'm doing
+just fine.<A2/5><W> <A1/5>FINE!<W> I do appreciate
+your concern, though.
+!******************************!
+<T>By way of thanks for your kind
+words, have this puzzle!
+!******************************!
+<T>It's been sitting in my back pocket,
+so it's a little squashed, but it
+plays just fine.<A2/5><W> <A1/5>FINE!<A3/0>
+!******************************!
+<T><A2/5>Uh...ew?
+!******************************!
+<T><A1/5>Having some trouble there, little
+lady?<A2/5><W> <A1/5>WELL?<W> Don't give up!
+!******************************!
+<T><A1/5>Aha! Back to solve old Alfie's
+puzzle, are you?
+!******************************!
+<T><A1/5>Say, nice going, little lady. You've
+got quite the mind for puzzling.
+!******************************!
+<T><A1/5>Hello again!<W> I trust you are well.<A2/5><W>
+<A1/5>WELL?
+!******************************!

@@ -1,0 +1,10 @@
+<T>Ah, there you are, Layton. I was
+beginning to wonder if you'd ever
+return.
+!******************************!
+<T><A2/2>Welcome back, Professor. Are you
+ready to return to our business
+here?
+!******************************!
+<T><A1/2>Certainly. Let's be off.
+!******************************!

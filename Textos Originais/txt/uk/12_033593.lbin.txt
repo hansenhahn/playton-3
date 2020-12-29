@@ -1,0 +1,55 @@
+<T>Ah, Layton. Any breakthroughs in
+your investigation?
+!******************************!
+<T>Possibly, Inspector. In fact, I'm
+very glad to see you. I need you to
+accompany me to the Thames Arms.
+!******************************!
+<T>The Thames Arms? 
+!******************************!
+<T>My investigation of those premises
+revealed delicious smells, sir.
+!******************************!
+<T><A3/5>Be quiet for just a minute, will you,
+Barton?
+!******************************!
+<T><A3/1>What is there at the Thames Arms
+that's so amazing that I need to
+head there this very instant?
+!******************************!
+<T><A1/2>I make no promises, but it's likely
+that what happens there will lead
+you to the prime minister.
+!******************************!
+<T><A2/5>Really now?<W> <A2/1>Hmm... Well, my interest
+is piqued. But there's the matter
+of this blasted puzzle...
+!******************************!
+<T>What puzzle?
+!******************************!
+<T>It's in this note I found. I have a
+feeling it could have some bearing
+on the case.
+!******************************!
+<T>Would you mind if I had a look at it,
+Inspector?
+!******************************!
+<T>No luck? Well, I'm afraid I'm stuck
+here until I get this puzzle solved.
+!******************************!
+<T>I'm sure there's a useful clue to be
+found in this note, if only I could
+solve the puzzle.
+!******************************!
+<T>I'm sorry, Inspector, but this
+letter doesn't appear to have any
+relevance to your case.
+!******************************!
+<T><A2/5>Oh. Well, isn't that just wonderful!
+Another prospective lead fizzles
+out.<A3/5> I'm at my wits' end, I tell you.
+!******************************!
+<T><A3/1>Whatever you've got to show me at
+the Thames Arms, it has to be more
+useful than that note.
+!******************************!

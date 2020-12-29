@@ -1,0 +1,13 @@
+<T>Let's see how you fare against
+this puzzle.
+!******************************!
+<T>This one is tougher than it looks,
+isn't it?
+!******************************!
+<T>Ah yes, perseverance is a virtue.
+Let's try this puzzle again.
+!******************************!
+<T><A1/2>Very nice!
+!******************************!
+<T><A1/2>Can't get enough of this one, eh?
+!******************************!

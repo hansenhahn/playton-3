@@ -1,0 +1,25 @@
+<T><A5/0>Be straight with me, Layton. Can
+you really stop that contraption?
+!******************************!
+<T><A4/2>If we let it carry on, there's no
+telling how much damage it could do
+to London!
+!******************************!
+<T>I'll do my best to stop the machine.
+In the meantime, I need you to get
+everyone out of here.
+!******************************!
+<T>Lead everyone to the clock shop
+and get them above ground as fast
+as possible. 
+!******************************!
+<T>Don't worry, Layton. I'll make sure
+everyone is safe. You focus on
+stopping that machine.
+!******************************!
+<T>Thank you, Inspector.
+!******************************!
+<T>I'll make sure everyone evacuates
+the area safely. You just focus on
+stopping Clive and his machine.
+!******************************!

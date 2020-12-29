@@ -1,0 +1,43 @@
+<V0010><T>Oi! Come by to dig into a few
+puzzles, did ya?</V>
+!******************************!
+<T>That flower keeps hold of puzzles
+you've left behind!
+!******************************!
+<T>Puzzles you've left behind are
+packed inside that bloom.
+!******************************!
+<V0020><T>So go on! Get to it!</V>
+!******************************!
+<T>Leaving too many unsolved puzzles
+lying around can come back to sting
+you.
+!******************************!
+<V0030><T>So don't just stand there with your
+mouth hanging open. Tap that
+flower and get solving!</V>
+!******************************!
+<T>Puzzles you left behind because they
+were too tough, or whatever,
+are hiding in that blossom.
+!******************************!
+<V0040><T>And they will not be ignored!</V>
+!******************************!
+<T>Flowers like that are fascinating
+plants. Puzzles just love to gather
+around them.
+!******************************!
+<V0050><T>Sounds weird, I know, but if you
+want to see what I mean, just give
+it a tap.</V>
+!******************************!
+<T>I wouldn't advise letting that
+flower get overburdened with
+puzzles, you follow?
+!******************************!
+<V0060><T>All I'm saying is, don't leave puzzles
+for tomorrow when you can solve
+them today!</V>
+!******************************!
+<T>...Bzzz?
+!******************************!

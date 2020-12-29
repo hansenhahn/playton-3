@@ -1,0 +1,43 @@
+<T>What's done is done, so I guess
+there's no point in dwelling on it.
+!******************************!
+<T>You two must be awfully tired
+after all that running around.
+!******************************!
+<T>I just made a pot of tea. I'll go
+fetch it.
+!******************************!
+<T><A4/4>Um, Professor... Did you just make
+a promise to Flora?
+!******************************!
+<T>Yes, I'm rather afraid I did... And
+unfortunately, this is one promise
+I may have to break.
+!******************************!
+<T><A1/3>Professor, that's terrible! You're
+always saying that a gentleman
+never breaks his word.
+!******************************!
+<T>Well, I didn't see you doing anything
+to dissuade the poor girl from
+coming with us, Luke.
+!******************************!
+<T>Besides, you know our current case
+is fraught with danger. I don't
+want her to get hurt.
+!******************************!
+<T>We need to finish what we came here
+to do so that we can find the
+inspector. We'd best move quickly.
+!******************************!
+<T><A1/1>I suppose you're right, Professor.<W>
+So, what are we looking for?
+!******************************!
+<T>Somewhere in my office is a
+leather-bound notebook with a
+yellow note sticking out of it.
+!******************************!
+<T>Do you think you can help me find it?
+!******************************!
+<T><A3/2>Aye aye, Professor. I'm on the case!
+!******************************!

@@ -1,0 +1,36 @@
+<T>Hrm? What is it now, Layton?
+!******************************!
+<T>Inspector, have you seen Luke?
+He slipped off on his own a few
+moments ago.
+!******************************!
+<T><A2/5>Hrm. Strange.<W> <A2/1>Well, he hasn't taken
+the train, or I would've seen him.
+That much I can say for sure.
+!******************************!
+<T>I see...<W> Then he must have headed
+towards the river.
+!******************************!
+<T>I thought that boy was joined to
+you at the hip.
+!******************************!
+<T>Well, I suppose every hatchling has
+to spread their wings one day.
+!******************************!
+<T>Yes, well, I'm just a bit concerned
+as to where he's flown off to.
+!******************************!
+<T><A1/1>I know the feeling. Barton gets me
+fretting over him twice a week at
+the very least.
+!******************************!
+<T>Luke's a fair bit brighter than
+Barton, though, so I wouldn't
+worry yourself. He'll turn up.
+!******************************!
+<T><A3/1>Just the same, if you happen to
+see Luke, please let him know I'm
+looking for him.
+!******************************!
+<T>Will do, Layton.
+!******************************!

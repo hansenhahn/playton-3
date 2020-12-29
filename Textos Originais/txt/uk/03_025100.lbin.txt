@@ -1,0 +1,118 @@
+<T>Oi! Just what do you two think
+you're doing? No one passes
+through this here gate!
+!******************************!
+<T>Now clear off or we'll be having
+more than words with each other.
+!******************************!
+<T>I see...
+!******************************!
+<T><A1/3>What nerve! They're just a pair of
+brutes, don't you agree?
+!******************************!
+<T><A1/1>Um...Professor? What are you
+thinking about?
+!******************************!
+<T><A2/1>Tell me, Luke. Did those two remind
+you of anyone we know?
+!******************************!
+<T><K>Hmm?
+!******************************!
+<T><A2/2>It's not an exact match, but they
+do bear an odd resemblance to a
+certain pair of fellows.
+!******************************!
+<T><A2/1><K>Hmm...
+!******************************!
+<T><A2/2>Of course! You're talking about
+Inspector Chelmey and Barton!
+!******************************!
+<T>I am. The similarities are quite
+striking, don't you think?
+!******************************!
+<T>Big guy in charge, check.<W> Small
+assistant, check!
+!******************************!
+<T>But something tells me the inspector
+wouldn't take kindly to being told
+he resembles a criminal!
+!******************************!
+<T><A1/1>Speaking of the inspector, did his
+presence at that event seem at all
+odd to you?
+!******************************!
+<T><A4/1>Event? Do you mean the time
+machine presentation?
+!******************************!
+<T>Yes. Why do you suppose a police
+inspector was invited to an event
+like that in the first place?
+!******************************!
+<T>Well...<W> He's cracked quite a few
+tough cases. Maybe his celebrity
+status got him invited.
+!******************************!
+<T>Yes, I assumed the same thing.
+After all, pseudo-celebrity status
+is what got you and me our tickets.
+!******************************!
+<T><A4/2>Pseudo-celebrity? Nonsense! You're
+the great Professor Layton.
+!******************************!
+<T>The model modern-day English
+gentleman!
+!******************************!
+<T><A1/2>Ha ha! I hate to say it, Luke, but I
+think you're the only one who'd
+heap that kind of praise on me.
+!******************************!
+<T><A1/1>From what I saw, almost everyone
+there was either from the media or
+London high society.
+!******************************!
+<T>The inspector and I were clear
+exceptions to an otherwise
+homogenous list of names.
+!******************************!
+<T><A1/1>So?
+!******************************!
+<T>So, the question looms before us.
+Why did Dr Stahngun, whoever he is,
+invite the inspector and me?
+!******************************!
+<T>What I wouldn't give to hear the
+inspector's take on the event...
+!******************************!
+<T>Yeah, it's too bad we'd have to go
+back to our own time to ask him.
+!******************************!
+<T><A4/1>Wait a second!<W> What if the inspector
+is still working here in the future?
+!******************************!
+<T>Professor, there you are!
+!******************************!
+<T>Ah, hello Luke.
+!******************************!
+<T>I couldn't help but overhear you as
+I ran up. Did you say you'd like to
+meet the inspector?
+!******************************!
+<T>Yes. Ideally, we would meet him back
+in our time, while the events of
+that time are still fresh.
+!******************************!
+<T>I think we can make that happen.
+!******************************!
+<T><A1/6>But how?!
+!******************************!
+<T>Let's continue this conversation
+where we can't be seen or heard,
+shall we?
+!******************************!
+<T>Why don't we head over to the
+wooded area to the west?
+!******************************!
+<T>There's a way to go back to your
+time, but let's go to the wooded
+area so we can talk in private.
+!******************************!

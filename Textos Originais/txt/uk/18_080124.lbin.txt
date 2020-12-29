@@ -1,0 +1,58 @@
+<T><A3/3>Oh, curse this unfortunate soul of
+mine! My life has taken another turn
+for the tragic.
+!******************************!
+<T><A3/1>What seems to be the trouble
+now?
+!******************************!
+<T><A2/1>I've discovered that, as well as
+seein' the future, I possess yet
+another terrible superpower.
+!******************************!
+<T><A4/5>You see, I know things no human
+bein' should know...<W> Like the
+answer to this puzzle. Look here.
+!******************************!
+<T><A4/5>Hmph, just as I suspected. No
+normal human could possibly untangle
+a puzzle this complex.
+!******************************!
+<T>I'm alone in my comprehension of it.
+Brilliance is a lonely place, I'm
+tellin' you.
+!******************************!
+<T><A1/1>You there, sir, show me I'm not the
+only one burdened with the power
+of puzzle solvin'!
+!******************************!
+<T><A2/1>My word! There's another man who
+shares my superhuman abilities! Oh
+joy, I'm not alone!
+!******************************!
+<T><A4/4>What are you getting so worked
+up about? All he had to do was
+count the rings, you know.
+!******************************!
+<T>I think you may be confused, sir.
+You see-
+!******************************!
+<T><A4/5>Hush now, friend, you don't have
+to say another word. I know exactly
+how you're feeling right now.
+!******************************!
+<T>You could say that it's my sad fate
+to know how conversations end
+before they even begin.
+!******************************!
+<T>Of course, if you always interr-<W>
+<A3/1>I'm sorry, I just remembered I
+have some business to attend to.
+!******************************!
+<T><A2/1>You and I share superpowers that
+will forever alienate us from our
+peers. Ours is a lonely road.
+!******************************!
+<T>This man is extremely confused, but
+I fear there's nothing we can do
+to bring him to his senses.
+!******************************!

@@ -1,0 +1,102 @@
+<T>Oh, that must be the bird that
+fellow is talking about.
+!******************************!
+<T>Oh wow! A parrot!
+!******************************!
+<T><A2/3>Don't just stand there staring!
+Grab the winged menace before it
+flaps off!
+!******************************!
+<T><A1/4>You may not have noticed, sir, but
+we're in a bit of a hurry here.
+!******************************!
+<T>Luke, listen to yourself! Don't you
+remember what the professor
+always says? 
+!******************************!
+<T>Helping people in need is the duty
+of every gentleman.
+!******************************!
+<T>A very good point, Luke.<W> <A1/1>Very well
+then, let's think. This bird clearly
+likes shiny objects.
+!******************************!
+<T>Excuse me sir, would you happen to
+have anything shiny we could
+borrow for a moment?
+!******************************!
+<T><A2/2>Of course! What sort of gentleman
+would I be without the proper
+accoutrements?
+!******************************!
+<T>Here, I always carry a garnet for
+when I need to accessorise with a
+little flash!
+!******************************!
+<T><A3/4>Oh...<W> Oh dear.
+!******************************!
+<T>What's wrong?
+!******************************!
+<T>Curses! The garnet has fallen to
+the bottom of my case and I can't
+reach it!
+!******************************!
+<T><A4/4>You're not making it very easy for
+us to help you.
+!******************************!
+<T>He really should sort out the
+contents of this briefcase
+sometime. It's a bit of a mess.
+!******************************!
+<T>Let me see if I can retrieve that
+garnet this time.
+!******************************!
+<T>Aha! There we are!
+!******************************!
+<T>With any luck, this flashy gem will
+attract the parrot.
+!******************************!
+<T>See if you can tame him when he
+gets close.
+!******************************!
+<T><A3/2>Leave it to me!
+!******************************!
+<T><A1/2>Right then. Here goes!
+!******************************!
+<T>Awwwrk!
+!******************************!
+<T><A1/5>Here he comes!
+!******************************!
+<T>Awwwrk! Skwaaarka skwaaaawk!
+!******************************!
+<T><A1/6>Don't worry, boy! We won't
+hurt you!
+!******************************!
+<T>Skwawk! Skwaaaark!
+!******************************!
+<T><A4/2>You don't say!
+!******************************!
+<T><A2/2>You know, that bird seems pretty
+fond of you, Luke. Are you friends
+now?
+!******************************!
+<T><A2/2>Of course!
+!******************************!
+<T>Well, now that you're friends, why
+don't you give him a name?
+!******************************!
+<T>Good idea, Professor! But what
+should I name him? Hmm...
+!******************************!
+<T>Hallo, hallo! Nice to meetchoo,
+meetchoo! I'm <N1>!
+!******************************!
+<T>Hello there! I'm Luke.<W> It's nice to
+meet you too, <N1>!
+!******************************!
+<T><A1/2>Nice work, Luke! That was amazing!
+!******************************!
+<T><A2/2>Of course! What else would you
+expect from the apprentice of the
+great Professor Layton?
+!******************************!

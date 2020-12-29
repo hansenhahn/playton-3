@@ -1,0 +1,14 @@
+<T>Let's see how you get on with this
+puzzle.
+!******************************!
+<T>Hmm, now this is a challenge.
+!******************************!
+<T>I'm glad to see you haven't given
+up. Let's return to the puzzle.
+!******************************!
+<T><A1/2>Splendid work. I couldn't have done
+better myself.
+!******************************!
+<T><A1/2>Back for another bite of this one?
+Enjoy yourself!
+!******************************!

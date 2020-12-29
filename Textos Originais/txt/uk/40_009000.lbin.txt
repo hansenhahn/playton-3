@@ -1,0 +1,16 @@
+Save your progress?
+!******************************!
+Save your completed game?
+!******************************!
+Return to the Title Screen?
+All unsaved progress will be
+lost.
+!******************************!
+Travel back to the present?
+!******************************!
+Travel to the future?
+!******************************!
+You will not be able to save
+after this point. Are you
+ready to continue?
+!******************************!

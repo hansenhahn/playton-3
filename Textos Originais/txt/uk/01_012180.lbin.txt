@@ -1,0 +1,6 @@
+<T>We need to buy tickets before
+boarding. Will you take care of
+that, Luke?
+!******************************!
+<T>Of course, Professor.
+!******************************!

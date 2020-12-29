@@ -1,0 +1,72 @@
+<T>Oh, my dear, sweet Fluke! I've been
+looking everywhere for you!
+!******************************!
+<T><A1/3>B-Belle?! What are you doing here?
+!******************************!
+<T>Please forgive Luke. He is...easily
+flustered.
+!******************************!
+<T>What a pleasant coincidence it is
+to run into you here.
+!******************************!
+<T><A3/5>Coincidence? Oh no, no, no!
+!******************************!
+<T>This is nothing short of fate!
+Because, you see, Fluke and I are
+destined for each other!
+!******************************!
+<T>Well that's one way of looking at
+it, I suppose.
+!******************************!
+<T>Fate? Destiny? Luke, just what
+have you been telling this poor
+girl?
+!******************************!
+<T><A1/5>Me?! Nothing! It's all one big
+misunderstanding!
+!******************************!
+<T>B-Belle isn't... We aren't...
+anything! We aren't anything!
+!******************************!
+<T><A4/5>Oh Fluke. You're so cute when you
+get all flustered like that. I could
+just eat you up!
+!******************************!
+<T><A1/3>I'm not flustered! Or cute!
+!******************************!
+<T><A2/3>Shush now, my darling. There'll be
+time for chit-chat later.
+!******************************!
+<T>I came to let you know that I've
+been seeing strange men running all
+over town looking for you!
+!******************************!
+<T>They keep going on and on about
+{''}the boss{''}, {''}blue caps{''} and other
+gibberish.
+!******************************!
+<T><A4/4>That sounds bad. Professor, do
+you think the Family has finally
+cottoned on to us?
+!******************************!
+<T>I fear that might be the case.
+If so, we have limited time.
+!******************************!
+<T>We must gain access to the Towering
+Pagoda before the Family sends
+more thugs into the area.
+!******************************!
+<T><A3/10>Don't be scared, my sweet. I won't
+let anyone harm you.
+!******************************!
+<T><A1/5>Look, Belle, thanks for the warning,
+but you can stop worrying about
+me now.
+!******************************!
+<T>And you can stop calling me weird
+names!<W> All right, let's go.
+!******************************!
+<T><A2/8>Oh Fluke, I love it when you play
+hard to get. It just makes me
+swoon.
+!******************************!

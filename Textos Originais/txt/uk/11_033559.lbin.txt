@@ -1,0 +1,38 @@
+<T>I...<W>am lost.
+!******************************!
+<T><A2/5>EEEK!
+!******************************!
+<T>Flora, are you okay?
+!******************************!
+<T>Scusa, comrades. It wasn't my
+intention to scare the young
+fr{:a}ulein.
+!******************************!
+<T><A1/6>Pavel!<W> <A1/1>What are you doing down
+here?
+!******************************!
+<T><A1/5>I was exploring the area and
+somehow ended up here. Perdido.
+!******************************!
+<T><A1/2>Doing some of the cavern
+exploration you were talking
+about before, I take it?
+!******************************!
+<T><A1/1>Da. Earlier in my quest to find
+the great tunnels, I mistakenly
+wandered onto some train tracks.
+!******************************!
+<T>That little viaje put me in great
+peril, but danger is part and parcel
+of exploring el mundo, non?
+!******************************!
+<T>I suppose you could say that.
+!******************************!
+<T>Naturalmente, most of my travel
+woes could've been avoided if my
+compass hadn't been broken.
+!******************************!
+<T><A2/1>Though I think this map might be
+able to show me which way to go.
+A bit of help, bitte?
+!******************************!

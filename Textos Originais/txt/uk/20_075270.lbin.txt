@@ -1,0 +1,36 @@
+<T><A1/6>Cripes! It broke!
+!******************************!
+<T>Well what do you expect when you
+go around prodding everything?
+!******************************!
+<T><A4/4>But Professor, I wasn't prodding
+it that hard!
+!******************************!
+<T><A4/5>Luke...
+!******************************!
+<T><A1/1>I'm sorry. I should probably be more
+careful.
+!******************************!
+<T><A1/2>Indeed you should.<W> Now let's see
+what kind of damage you've caused
+here.
+!******************************!
+<T>What's this?<W> I do believe this leads
+somewhere interesting.<W><A2/2> Let's have
+a look at what's on the other side.
+!******************************!
+<T><A1/6>But...isn't this trespassing,
+Professor?<W> P-Professor, wait
+for me!
+!******************************!
+<T><A3/1>Ah, so this is where it leads!
+!******************************!
+<T><A4/4>Can we leave now, Professor? The
+casino staff won't be happy if they
+find us in here...
+!******************************!
+<T><A1/2>Ha ha! You worry too much, Luke!
+!******************************!
+<T>Maybe so, but I still think we should
+leave now!
+!******************************!

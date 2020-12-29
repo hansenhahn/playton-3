@@ -1,0 +1,86 @@
+<T><A1/2>Oh gracious, customers! <W>We haven't
+had any of those in ages. Welcome!
+!******************************!
+<T><A3/1>Good day to you, madam. You'll
+have to excuse us, we're not here
+to buy anything, I'm afraid.
+!******************************!
+<T>I received a letter the other day,
+you see, instructing me to come
+here.
+!******************************!
+<T><A1/5>Tee hee hoo. A letter, you say?
+<W><A1/2>Let me have a look at it, dearie.
+!******************************!
+<T>Hmm, yes. There's no mistake here.
+<W>Whoever sent you this letter wanted
+you to visit our little shop.
+!******************************!
+<T><A1/1>So you don't know who sent it to
+me?
+!******************************!
+<T><A1/1>Unfortunately, I can't say that I
+do. But I do know who you are,
+Professor Layton!
+!******************************!
+<T><A3/1>Oh really? And how do you know the
+professor?
+!******************************!
+<T><A1/2>Tee hee hoo! Well, it's hard not to
+know a man who's in the papers so
+often.
+!******************************!
+<T>And I do so love my morning paper.
+I read it front to back, every day.
+!******************************!
+<T><A1/5>So of course I know about the
+professor.
+!******************************!
+<T><A3/2>Hey, did you hear that, Professor?
+Further proof that you're famous
+throughout London.
+!******************************!
+<T>Even all the way out here!
+!******************************!
+<T><A1/1>Hey now! What do you mean, {''}all the
+way out here{''}?
+!******************************!
+<T>Just because we don't fancy living
+in sardine-tin flats doesn't mean
+we're not central!
+!******************************!
+<T><A1/2>Still, it is quite a shock to see
+the famous Professor Layton in
+the flesh.
+!******************************!
+<T>Such a shock, in fact, that I'm
+going to need some proof that
+you're not one of those lookalikes!
+!******************************!
+<T><A1/2>They say there isn't a puzzle
+around that you can't solve, but
+I won't believe it until I see it!
+!******************************!
+<T><A1/2>I won't believe you're the real
+Professor Layton until you solve
+this puzzle!
+!******************************!
+<T><A1/5>Well, I must say that I'm thoroughly
+convinced. You certainly do live up
+to your reputation.
+!******************************!
+<T><A2/2>Of course he does!
+!******************************!
+<T><A1/2>Yes, well, about that letter...
+!******************************!
+<T>I can't say I've seen it before, but
+my husband might know something.
+!******************************!
+<T>He's out at the moment, but he
+should be back soon. Why not look
+around the shop while you wait?
+!******************************!
+<T>My husband will be back soon, so
+just have a look around the shop
+while you wait.
+!******************************!

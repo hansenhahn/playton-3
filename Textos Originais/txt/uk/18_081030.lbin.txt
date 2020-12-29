@@ -1,0 +1,11 @@
+<T>I spy with my little eye...<W>a hidden
+puzzle!
+!******************************!
+<T><A1/5>Hmm... Better let this one
+percolate for a little longer.
+!******************************!
+<T>Okay! I'm ready to tackle this puzzle
+again!
+!******************************!
+<T><A4/2>Ha! I knew I could do it!
+!******************************!

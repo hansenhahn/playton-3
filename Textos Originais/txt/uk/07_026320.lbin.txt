@@ -1,0 +1,35 @@
+<T>Oho! There you are, Hershel!
+Dashing about as usual, I see.
+!******************************!
+<T>Hello, Dean Delmona. It's nice to
+see you again.
+!******************************!
+<T><A2/4>Likewise, erm,<W> Floral, was it?<W>
+I'm very bad with names these days. 
+!******************************!
+<T>Oh, and Mr Delmona will suffice now,
+dear.<W> I'm, um, retired! Yes, retired
+for some time now.
+!******************************!
+<T><A1/1>Now, erm, do excuse me. I'm waiting
+for a friend, you see, and he'll be
+here any minute.<W> Bye now!
+!******************************!
+<T>Goodness, Dean Delmona seemed
+awfully flustered there.
+!******************************!
+<T>Yes, I noticed that as well. He froze
+up the second you started talking
+to him.
+!******************************!
+<T><A4/2>I'm sure he was just confused.
+!******************************!
+<T>I mean, here we are 10 years in the
+future and Flora doesn't seem to
+have aged a day.
+!******************************!
+<T>Yeah, I think you're right, Luke.
+!******************************!
+<T><A3/2>Ho ho! That would certainly give a
+man pause for thought, wouldn't it?
+!******************************!

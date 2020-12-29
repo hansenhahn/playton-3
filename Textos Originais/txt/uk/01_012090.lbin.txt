@@ -1,0 +1,85 @@
+<T>This room's got the best view in
+the whole hotel. Lucky for you that
+it was available.
+!******************************!
+<T><A4/1>Did you hear that, Professor?
+What a stroke of luck!
+!******************************!
+<T><A1/5>Yeah... Though come to think of it,
+I suppose it's not really luck at all.
+!******************************!
+<T>We haven't had a single guest since
+we moved the hotel to this new
+location, you see.
+!******************************!
+<T>So the Hotel Duke used to be
+located somewhere else?
+!******************************!
+<T><A4/4>Erm... It's a bit of a touchy
+subject, so I'd rather not go into
+it. I hope you understand...
+!******************************!
+<T><A2/2>Hey, I was really impressed with
+the way you solved the puzzle that
+Granny threw at you, you know.
+!******************************!
+<T>Well, I do like a good puzzle...
+!******************************!
+<T>Me too! How about this: solve this
+puzzle for me, and I'll tell you how
+to get to the station.
+!******************************!
+<T><A4/5>Hey, no backing out! You have to
+solve my puzzle if you want me to
+tell you where the station is.
+!******************************!
+<T>I'll be happy to tell you how to get
+to the station if you solve this
+puzzle!
+!******************************!
+<T><A1/1>Nicely done!<W> Oh! I nearly forgot you
+were trying to get to the station.
+!******************************!
+<T>It's not too far. Just keep going
+east once you leave the hotel.
+!******************************!
+<T>You'll come out onto Flatstone
+Street. Head north and the station
+will be on your right.
+!******************************!
+<T><A4/2>Thanks, Becky. I think we'll be able
+to find it now.
+!******************************!
+<T>Hey wait! One more thing.
+!******************************!
+<T>Hmm? What's that?
+!******************************!
+<T>It's a bit of a detour, but you
+should drop by the arcade on your
+way to the station.
+!******************************!
+<T>There's a restaurant there that's 
+just scrumptious!
+!******************************!
+<T><A1/5>It's not a patch on the food we
+serve here, of course, but it's not
+half bad, you know?
+!******************************!
+<T><A4/1>The arcade? You mean that place
+where the little boy is standing,
+blocking the entrance?
+!******************************!
+<T><A2/2>Little boy? Oh, you must be
+talking about Max.
+!******************************!
+<T>I've got him wrapped around my
+little finger.
+!******************************!
+<T>Just let him know that Becky sent
+you and he'll let you straight
+through.
+!******************************!
+<T><A1/2>Ha ha! Good to know. Well, we might
+as well go through the arcade and
+see a bit more of the area.
+!******************************!

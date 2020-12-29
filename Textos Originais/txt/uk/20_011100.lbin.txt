@@ -1,0 +1,121 @@
+<T><A1/5>This place is a mess! That droopy
+flower has even got some kind of
+insect buzzing around it!
+!******************************!
+<T>Hold it right there, sonny boy!
+I wouldn't go bad-mouthing that
+blossom if I were you.
+!******************************!
+<T><A1/3>Augh! There's someone lurking in
+the shadows!
+!******************************!
+<T>Ehee hee, oh yes. Wherever there
+are lost puzzles, there am I.
+!******************************!
+<T><A1/1>Oh, it's you!
+!******************************!
+<T>Have we met before?
+!******************************!
+<T>No? Well then, allow me to introduce
+myself!
+!******************************!
+<T>Before you stands the beautiful and
+clairvoyant Granny Riddleton.
+!******************************!
+<T><A1/6>B-beautiful?<W> Hmm, well you do
+look pretty good for your age, I
+suppose.
+!******************************!
+<T><A1/1>Watch your words, Luke! We don't
+want to offend the lady, do we?
+!******************************!
+<T><A1/5>Have you ever noticed how many
+mysteries there are in the world?<W>
+How many puzzles?
+!******************************!
+<T>Puzzles that tease your brain?
+Puzzles that bend your mind?
+!******************************!
+<T>Puzzles that are just plain
+infuriating?
+!******************************!
+<T><A3/1>Certainly.
+!******************************!
+<T>And what about the puzzles that you
+miss or leave unsolved? They've got
+to go somewhere, haven't they?
+!******************************!
+<T>Where do they go, you ask?<W> Well,
+they come and stay with me!
+!******************************!
+<T><A4/2>That's very good to know.
+!******************************!
+<T><A1/1>Or I suppose I should say they used
+to come and stay with me. Things
+are about to change.
+!******************************!
+<T><A3/1>Are they?
+!******************************!
+<T>You might not be able to tell from
+my looks, but I'm no spring chicken.<W>
+Truth be told, I'm getting tired.
+!******************************!
+<T><A1/1>Oh?
+!******************************!
+<T>I think it's time for me to retire
+from this puzzle-minding business.
+I've earned it.
+!******************************!
+<T>But...
+!******************************!
+<T><A1/3>You can't retire! You mustn't!
+Without you, what will happen to
+all the puzzles we leave behind?
+!******************************!
+<T>Are you saying that without me, you
+two would find yourselves in a
+pickle?
+!******************************!
+<T><A4/4>A huge pickle!
+!******************************!
+<T>How about the debonair gentleman
+in the top hat? What do you think?
+!******************************!
+<T>I concur with my friend here.
+!******************************!
+<T>Ehee hee.<W> Yep, I thought you might
+say that.
+!******************************!
+<T>But don't fret. I'll make sure you're
+taken care of.
+!******************************!
+<T><A1/1>How?
+!******************************!
+<T><A1/6>Ehee hee!<W><A1/1> You'll just have to wait
+and see for yourselves, laddies.
+!******************************!
+<T>Come back here when you've lost a
+few puzzles. It should all become
+clear then.
+!******************************!
+<T>Now, I know we just met, but you'll
+have to excuse me. I'm going off on
+a well-deserved holiday.
+!******************************!
+<T>I may never see you again, so
+ta-ta, and have a positively
+puzzly day!
+!******************************!
+<T>A...puzzly day?
+!******************************!
+<T><A1/2>What a strange conversation that
+was. Let's be sure to come back
+here later.
+!******************************!
+<T><A1/1>Definitely.<W> Though that thing
+that's flying around is giving me the
+heebie-jeebies.
+!******************************!
+<T>I wonder where Granny Riddleton is
+going on holiday?
+!******************************!

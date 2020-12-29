@@ -1,0 +1,14 @@
+<T>I wonder what this puzzle has in
+store for us.
+!******************************!
+<T>It seems this puzzle just doesn't
+want to be solved!
+!******************************!
+<T>I applaud your tenacity! Now let's
+get back to the puzzle at hand.
+!******************************!
+<T><A1/2>That was expertly solved.
+!******************************!
+<T><A1/2>Back for another round, are you?
+Good luck.
+!******************************!

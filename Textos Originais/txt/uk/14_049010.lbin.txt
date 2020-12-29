@@ -1,0 +1,17 @@
+<T><A1/3>Now what do we do? The road's
+blocked!
+!******************************!
+<T>Don't panic, Luke. I'm sure you can
+find a way over this mess for us!
+!******************************!
+<T>You'll have to try again, Luke!
+!******************************!
+<T>Come on, Luke. I know you can do it
+this time!
+!******************************!
+<T>Yes! We did it, Professor!
+!******************************!
+<T>We're not out of the woods yet.
+Hold on tight, everyone!
+
+!******************************!

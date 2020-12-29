@@ -1,0 +1,45 @@
+<T><A2/2>I'm so glad we're finally able to
+meet again.
+!******************************!
+<T>Where did you run off to?
+!******************************!
+<T>I was doing a little investigating
+of my own, shadowing a suspicious
+woman I'd seen around town.
+!******************************!
+<T>I saw her tailing you, Professor,
+and decided someone had to find
+out who she was.
+!******************************!
+<T><A4/1>Oh! You must be talking about
+Celeste!
+!******************************!
+<T><A1/1>And? Where did you last see her?
+!******************************!
+<T><A1/1>I lost her for a while, but I just
+saw her again, walking into this
+restaurant.
+!******************************!
+<T><A1/2>Seconds later, I saw a friend of
+ours go in as well.
+!******************************!
+<T>Oh, let me guess. Don Paolo!
+!******************************!
+<T><A1/4>I'm beginning to wonder whether I
+even need to explain. You seem to
+know it all already!
+!******************************!
+<T><A4/2>Well, we've been hard at work
+investigating too!
+!******************************!
+<T><A1/2>Of course. I never expected you to
+just wait idly for me to return.<W>
+So, now what?
+!******************************!
+<T>All the players in our mystery are
+here. I think it's time to reconvene
+with Celeste.
+!******************************!
+<T>Players in our mystery?<W> What does
+that mean...?
+!******************************!

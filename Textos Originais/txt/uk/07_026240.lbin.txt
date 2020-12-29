@@ -1,0 +1,56 @@
+<T>Good day, whippersnappers. Did you
+manage to find that dreadful man
+who runs the Towering Pagoda?
+!******************************!
+<T>Unfortunately not. He was out when
+we visited. We are still trying to
+locate him.
+!******************************!
+<T>Ah. Well, you're wasting your time
+searching for him in this part of
+town.
+!******************************!
+<T><A3/1>Does that mean you know where we
+can find him?!
+!******************************!
+<T><A2/1>Hoo hoo hoo! I've said too much.
+I can be so careless at times.
+!******************************!
+<T>So you do know! Please tell us where
+he is. It's very important!
+!******************************!
+<T>I've said it once and I'll say it
+again, lad. I like how forthright
+you are.
+!******************************!
+<T>So I suppose I could drop a
+potentially helpful hint your way.
+On one condition, that is.
+!******************************!
+<T>What {''}condition{''}?
+!******************************!
+<T><A1/1>Run over and tell my darling wife
+that I'll be eating out for lunch
+today.
+!******************************!
+<T>Do that and I'll gladly help you.
+!******************************!
+<T>But we don't know who she is or
+where to find her.
+!******************************!
+<T>Oh, she's easy to find, my Myrtle.
+She runs a pet shop on the edge of
+Chinatown.
+!******************************!
+<T>It shouldn't take you long to find it.
+!******************************!
+<T><A4/2>Very well. We'll deliver the message
+to your wife and return immediately.
+!******************************!
+<T>You still haven't delivered that
+message to my beloved wife?
+!******************************!
+<T>Go to the pet shop on the edge of
+Chinatown. She's the looker that's
+managing the place.
+!******************************!

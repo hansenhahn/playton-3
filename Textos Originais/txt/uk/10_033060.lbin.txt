@@ -1,0 +1,77 @@
+<T>Oh, heading out again already?
+!******************************!
+<T>That's right.
+!******************************!
+<T><A1/1>By the way, Becky, I was wondering
+if there's somewhere nearby where
+we can cross the river.
+!******************************!
+<T>There's the bridge,<A1/5> but it's quite
+a long way out beyond Chinatown.
+!******************************!
+<T>Do excuse me, but I couldn't help
+but hear that you're trying to
+cross the river?
+!******************************!
+<T><A1/1>Granny! I didn't realise you
+were awake.
+!******************************!
+<T>Becky, we've been over this! In
+front of the guests, you're to 
+refer to me as {''}the manager{''}!
+!******************************!
+<T>Now where were we?<W> Oh yes,
+crossing the river.
+!******************************!
+<T>There used to be a tunnel that
+would take you across.
+!******************************!
+<T>It went right under the river and
+people could just walk through to
+the other side.
+!******************************!
+<T>Wow! A tunnel under the river
+sounds amazing!
+!******************************!
+<T>Unfortunately, once the Family
+gained control of the city, they
+shut down the tunnel.
+!******************************!
+<T>Grafton might still know how to get
+in, though...
+!******************************!
+<T>Grafton?
+!******************************!
+<T>Don't you know him? He's easy to
+spot with those bushy eyebrows,
+blue hat and scheming smile.
+!******************************!
+<T>Ah yes, we go back a long way...
+!******************************!
+<T>He spends most of his time down at
+the black market these days.
+!******************************!
+<T><A4/1>Ah, yes, I do believe we've met this
+friend of yours before.
+!******************************!
+<T>You remember him, don't you, Luke?<W>
+Luke?
+!******************************!
+<T><A2/5><K>Hmm?<W></K> Where'd he go?
+!******************************!
+<T><A1/1>He was here just a moment ago.
+!******************************!
+<T>Oh, are you looking for little Luke?<W>
+I just saw him leaving.
+!******************************!
+<T>By himself? But where could he
+possibly be going?
+!******************************!
+<T>Please excuse me, madam, but I
+have to go and find Luke. Thank
+you for directing us to Grafton.
+!******************************!
+<T>Not at all. We at the Hotel Duke
+are always delighted to assist our
+guests. 
+!******************************!

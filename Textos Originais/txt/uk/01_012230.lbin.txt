@@ -1,0 +1,6 @@
+<T>Well, that was easy enough.<W> Look,
+Professor. We're just a few steps
+away from the hospital.
+!******************************!
+<T>Wonderful. In we go.
+!******************************!

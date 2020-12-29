@@ -1,0 +1,37 @@
+<T>Here we are.
+!******************************!
+<T>Ugh... I feel sick.
+!******************************!
+<T>Are you going to be all right, Luke?
+You look positively pea-green.
+!******************************!
+<T>I feel sort of seasick. My ears are
+all stuffy and the ground feels like
+it's made of marshmallow.
+!******************************!
+<T>Ah, that'll be time sickness. The
+first jump I made, I didn't feel
+very well either.
+!******************************!
+<T>Well Cogg, we're going to head off
+now and see what we can find out.
+!******************************!
+<T>Sounds good. I'll be here waiting
+for you. Just use that special
+knock and I'll let you in.
+!******************************!
+<T><A1/2>Excellent.<W> I was wondering how we'd
+contact you if you went back to
+your own time while we were out.
+!******************************!
+<T>Yep, that'd be a pain, all right.
+!******************************!
+<T>Now, you two should get moving. I'd
+like to get home in time for dinner.
+!******************************!
+<T>Have you finished your
+investigation here already?
+!******************************!
+<T>No, quite the opposite. We're just
+getting started.
+!******************************!

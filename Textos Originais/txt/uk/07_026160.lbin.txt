@@ -1,0 +1,61 @@
+<T>Well, well, look who we have here.
+!******************************!
+<T>We met you on our way to the Gilded
+7 Casino, did we not?
+!******************************!
+<T>Hmph. Nice to see that I made an
+impression.
+!******************************!
+<T>Let me guess. You don't want to
+let us through.
+!******************************!
+<T>Hmph! No need for that attitude.
+It's my job to keep out people
+who've got no business being here.
+!******************************!
+<T>You can't fault a fellow for trying
+to make a living, can you?
+!******************************!
+<T>Perhaps not. But we do have
+business here. We've come to meet
+the man who calls himself Layton.
+!******************************!
+<T><A3/1>Hmph. Well, I appreciate your
+honesty.<W> <A6/0>Nevertheless, I'm afraid
+I simply cannot let you pass.
+!******************************!
+<T>Why is that? We've stated our
+business.
+!******************************!
+<T><A4/0>Because my employer, Mr Layton, is
+out at the moment.
+!******************************!
+<T>Which means you have no reason to
+enter the building.
+!******************************!
+<T>You're quite sure he's not in the
+Towering Pagoda?
+!******************************!
+<T><A5/5>Hmph! I didn't just lie to you, if
+that's what you're insinuating.
+!******************************!
+<T>The boss has left the building.<W>
+He's away.<W> Gone.<W> NOT HERE.
+!******************************!
+<T>Where could he possibly have gone?
+!******************************!
+<T>Well we know where he isn't: in the
+Towering Pagoda.
+!******************************!
+<T>Professor, I propose we do some
+sleuthing. I'm sure we can track
+this other Layton down.
+!******************************!
+<T>I agree.<W> Let's ask some of the
+people in the area if they've
+seen my elusive counterpart.
+!******************************!
+<T>You can pester me all you like, but
+the boss is still out. That means
+you're not getting in.
+!******************************!

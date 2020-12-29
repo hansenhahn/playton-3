@@ -1,0 +1,74 @@
+<T><A1/1>Hello there, little chappie. Have
+you ever been so bored you could
+keel over?<W> I have.
+!******************************!
+<T>Why are you so bored?
+!******************************!
+<T><A1/4>Well, I don't have anything to do.
+That's a big factor.
+!******************************!
+<T>But also, I've sort of lost my life,
+and now I can't find it.
+!******************************!
+<T>Uh... How does one lose one's life?
+!******************************!
+<T><A2/5>A while back, this fella tells me I
+can earn a few bob doing this cushy
+job.
+!******************************!
+<T>I was out of work at the time, so
+I thought, why not, you know?
+!******************************!
+<T><A4/1>Makes sense.
+!******************************!
+<T><A2/5>Yeah, I thought so too, until I
+realised I'd been had.
+!******************************!
+<T>Fella threw me in a dark hole and
+had me digging all day and night.
+Working like a dog, I was.
+!******************************!
+<T><A4/4>It sounds like whatever he was
+paying you, it wasn't worth it.
+!******************************!
+<T><A1/4>I haven't even told you the worst
+bit yet! I finally finish the job and
+I head home, yeah?
+!******************************!
+<T>But everything's been switched
+around while I'm in the hole, and
+I can't find my house or my family!
+!******************************!
+<T><A1/6>Oh gosh! Maybe you travelled
+through time like us!
+!******************************!
+<T><A1/1>Who what where now?<W> I don't really
+follow, but I do know I've been out
+here on my own for a while now.
+!******************************!
+<T>The only thing I've got to pass the
+time are these puzzles I do.<W> Here,
+try one.
+!******************************!
+<T><A2/1>No luck?<W> Don't feel bad, chappie.
+You can always come back and try
+again. I'm not going anywhere...
+!******************************!
+<T><A2/1>Let me guess. You've got nothing
+to do.<W> Me neither. Why don't
+you pass the time with a puzzle?
+!******************************!
+<T><A1/4>Good job there, chappie. I can
+tell you're a thinker.
+!******************************!
+<T>You remind me of my son. A right
+know-it-all, he is, but he's a good
+boy really.
+!******************************!
+<T>He used to love it when I'd give him
+a puzzle to work on. I do wish I
+could see the little tyke again.
+!******************************!
+<T><A1/4>I wish I could find my way back home.
+It'd be nice to see the family again.
+!******************************!

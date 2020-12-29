@@ -1,0 +1,44 @@
+<T><A2/3>You're supposed to be on guard
+duty, you clown! Stop slackin' off!
+!******************************!
+<T>I wasn't slackin' off, Bostro! I was
+just-
+!******************************!
+<T>Graah! You know the only thing I
+'ate more than a loafer is a loafer
+who makes excuses!
+!******************************!
+<T>B-but...
+!******************************!
+<T>There ain't no buts about it! That
+attitude is what stops you movin'
+up in this 'ere organisation.
+!******************************!
+<T><A4/0>You know what?<W> You're finished
+'ere!<A2/3> The Family don't need no
+clowns like you! Get lost!
+!******************************!
+<T>Aw come on, Bostro! Don't kick me
+out! I ain't got nowhere to go!
+!******************************!
+<T>There! Did you hear that?
+!******************************!
+<T><A4/2>Yes, I heard {''}get lost{''}, loud and
+clear.
+!******************************!
+<T>What about <N1>?
+Did he manage to pick it up?
+!******************************!
+<T>Did you hear what that big man
+said, <N1>?
+!******************************!
+<T>Awwwrk!<W> Get...<W> Get lost, get lost!
+
+!******************************!
+<T><A2/2>It's uncanny how much he sounds
+like Bostro!
+!******************************!
+<T><A1/2>A performance like that is sure
+to fool those two guards at the
+gate. Let's head to Chinatown!
+!******************************!

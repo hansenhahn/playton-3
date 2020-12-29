@@ -1,0 +1,59 @@
+<T>Hello again, boyo. Enjoying your
+trip to the big city, are you?
+!******************************!
+<T><A1/5>Trip?<W> I'll have you know that I was
+born in this city!
+!******************************!
+<T>Right you are, then. Whatever you
+say.
+!******************************!
+<T>What about yourself, madam? Were
+you born in London as well?
+!******************************!
+<T>Me? Oh no, born and raised in
+Cardiff, I was. Spent most of
+my life there.
+!******************************!
+<T>But then something, erm, unusual
+happened, see, and I ended up moving
+to London.
+!******************************!
+<T>Oh yes, my life story's just like one
+of them sweeping, epic adventures
+you see at the pictures.
+!******************************!
+<T>Speaking of films, have you heard
+this one?
+!******************************!
+<T>Can't solve the puzzle? Oh well.
+That's life, see.
+!******************************!
+<T>When a tall person sits in front of
+you at the pictures, you just have
+to change seats.
+!******************************!
+<T>Gosh, that's terribly poetic...<W>
+Though I'm not sure I understand
+what it means.
+!******************************!
+<T>Oh yes, my life story is a right
+epic film. And here's one of the
+plot twists.
+!******************************!
+<T>Spot on, boyo! That's the answer
+all right! Enjoy the rest of your
+visit to London, won't you?
+!******************************!
+<T><A1/5>How many times do I have to tell
+you?! I'm from London!
+!******************************!
+<T><A3/0>Whatever you say. Don't get lost
+in the big city now, will you?
+Hoo hoo!
+!******************************!
+<T>Ugh. I give up.
+!******************************!
+<T>Enjoying the bright lights of
+London? It must be different to
+the quiet life you're used to!
+!******************************!

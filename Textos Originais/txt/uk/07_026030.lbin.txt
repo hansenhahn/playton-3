@@ -1,0 +1,85 @@
+<T>Good day, whippersnappers! Tell me,
+have you ever stopped to admire
+this marvellous arch?
+!******************************!
+<T>It was constructed to welcome lucky
+spirits into the area.
+!******************************!
+<T><A1/2>It certainly is a breathtaking
+piece of art.<W> I take it you're
+familiar with this part of the city?
+!******************************!
+<T>You mean Chinatown?<W> You could say
+I know a thing or two about the
+area, I suppose.
+!******************************!
+<T>As the name suggests, it's full of
+restaurants and shops selling goods
+from Asia.
+!******************************!
+<T>One thing most people don't know is
+that the buildings here aren't that
+old, despite their appearance.
+!******************************!
+<T><A3/1>I've also heard that the Family's
+headquarters are in this area. I-
+!******************************!
+<T>Whoa there! Keep your voice down,
+will you?
+!******************************!
+<T>That fact might be common
+knowledge, but it's not the kind
+of thing you talk about in public.
+!******************************!
+<T>What the professor wants to know 
+is if you can tell us how to get
+there.
+!******************************!
+<T>Hoo hoo hoo! You don't mince your
+words, do you, boy? I admire that.
+!******************************!
+<T>I'll tell you what I'm going to do: if
+you solve my puzzle, I'll point out
+the Family's headquarters for you.
+!******************************!
+<T>If you can't even solve my puzzle,
+you're hardly equipped to go to
+the Family's headquarters.
+!******************************!
+<T>Back to try again, I see. You must
+really want to know where the
+Family's headquarters are!
+!******************************!
+<T>Hoo hoo! You made short work of
+that puzzle, so here's your reward.
+See that tall building?
+!******************************!
+<T>That one over there?
+!******************************!
+<T>That's the one. It's called the
+Towering Pagoda and it's the
+Family's base of operations.
+!******************************!
+<T>The person in charge is said to be
+more monster than man. And he's
+got a hat just like yours...
+!******************************!
+<T>But enough of that unpleasant
+topic. Enjoy your time in Chinatown.<W>
+Good day.
+!******************************!
+<T>If we wish to meet my future self,
+we must head to the Towering
+Pagoda. That much is clear.
+!******************************!
+<T>Great! So all we have to do now is
+head over and smash down the door.
+Let's go!
+!******************************!
+<T>Something tells me things won't be
+that easy, but there's only one way
+to find out, I suppose.
+!******************************!
+<T>Enjoying your time in Chinatown,
+whippersnappers?
+!******************************!

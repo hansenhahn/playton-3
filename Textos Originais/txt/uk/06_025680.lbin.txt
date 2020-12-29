@@ -1,0 +1,42 @@
+<T><A5/0>Layton!<W> Wh-what's all this? What's
+happened to London?
+!******************************!
+<T>We're still in London, Inspector.
+We've just been transported 10
+years into the future.
+!******************************!
+<T><A2/5>But that's impossible!<W> <A2/6>Isn't it?<W>
+<A2/1>Or...is it possible, Layton?
+!******************************!
+<T><A4/2>One thing is for certain. We're no
+longer in the London we know.
+!******************************!
+<T><A3/2>Hmm. Well, there will be plenty of
+time for debate once my work here
+is done.
+!******************************!
+<T><A3/1>I seem to recall you saying
+something about the prime minister
+being trapped in the future, yes?
+!******************************!
+<T>Yes.<W> It's by no means certain, but
+it remains a definite possibility.
+!******************************!
+<T>Well then, what are we standing
+around here for?<A5/0> The hunt is on,
+Barton!
+!******************************!
+<T><A1/1>We're off to find the prime minister!
+!******************************!
+<T><A1/2>You know, Inspector, we may have
+better luck tracking him down if
+we work together on this case...
+!******************************!
+<T>That's enough from you, Layton.
+The fact remains that you're a
+civilian. I'll handle this on my own!
+!******************************!
+<T>Scotland Yard's finest are on the
+case now! Your help is no longer
+necessary, Layton.
+!******************************!

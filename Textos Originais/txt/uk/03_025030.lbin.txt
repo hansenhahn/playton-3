@@ -1,0 +1,27 @@
+<T>Is this really the way to Chinatown?<W>
+It's awfully dirty...and dark.
+!******************************!
+<T>Does this place frighten you, my
+boy?
+!******************************!
+<T>Me? Scared? No way! I just want
+to get to Chinatown. Let's go!
+!******************************!
+<T>There's no need to dash off, Luke.<W>
+Do be careful, you could sli-
+!******************************!
+<T>Whoa!<W> Ow!<W> Ow ow ow OW!
+!******************************!
+<T><A1/2>Oh dear. What did I just tell you? 
+!******************************!
+<T><A1/5>Are you laughing at me, Professor?
+!******************************!
+<T><A4/1>Laughing? Me?<W> Certainly not!<W> Are
+you quite all right?
+!******************************!
+<T><A1/1>Of course I am. I just bumped my
+knee a little. I'll walk it off.
+!******************************!
+<T>Oh good. I was worried for a
+moment there. Let's go.
+!******************************!

@@ -1,0 +1,11 @@
+<T>I don't think this is the kind of
+place we can stroll into through
+the main gate.
+!******************************!
+<T>Perhaps there's a more discreet
+entrance.
+!******************************!
+<T>Good idea, Professor. We might
+find another way in if we search
+the area carefully.
+!******************************!

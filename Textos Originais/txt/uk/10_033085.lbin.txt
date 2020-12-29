@@ -1,0 +1,14 @@
+<T>Hey, what's wrong? You look all
+worried.
+!******************************!
+<T>Hello there, young lady. Have you
+seen a boy coming out of the hotel
+recently?
+!******************************!
+<T>Oh, the boy in blue? Yep, I saw him
+come out...but I don't remember
+which way he went. Sorry.
+!******************************!
+<T>That's quite all right. You've been
+most helpful.
+!******************************!

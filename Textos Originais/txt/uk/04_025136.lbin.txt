@@ -1,0 +1,25 @@
+<T><A1/1>Thank goodness you caught that
+fluffy fiend. What fine young men
+you two are!
+!******************************!
+<T>Keep at it and one day you will each
+become a true gentleman, just like
+myself.
+!******************************!
+<T>Glad we could help.<W> Here's your
+garnet and...I believe these
+cufflinks are yours too.
+!******************************!
+<T>Oh, yes.<W> There we are. With these
+in place I'm even more devastatingly
+handsome than before.
+!******************************!
+<T>Now I believe you two young men
+deserve something for your
+trouble.
+!******************************!
+<T>Oh, there's really no need, sir.
+!******************************!
+<T>Helping people is reward enough
+for any gentleman!
+!******************************!

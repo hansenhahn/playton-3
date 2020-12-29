@@ -1,0 +1,131 @@
+<V0010><T>Hats off to you, Hershel.</V>
+!******************************!
+<V0020><T>So you're the one who's been
+kidnapping scientists under my
+name. But why?</V>
+!******************************!
+<V0030><T><A3/2>Have you ever tried to build a
+time machine by yourself? It's a
+Herculean task!</V>
+!******************************!
+<V0040><T>And by pinning the blame on you, I
+could disguise myself as one of the
+poor scientists who vanished.</V>
+!******************************!
+<V0050><T><A4/5>Conveniently, that also provided
+an excellent way to lure you here.</V>
+!******************************!
+<V0060><T>After all, the virtuous Hershel
+Layton would never stand by as
+someone sullied his good name.</V>
+!******************************!
+<V0070><T>Sure enough, you came running.
+And faster than expected, at that!</V>
+!******************************!
+<V0080><T><A1/3>You're a real piece of work!</V>
+!******************************!
+<V0090><T>So why me? You could have chosen
+anyone to be the scapegoat.</V>
+!******************************!
+<V0100><T><A2/5>Oh no, it had to be you. You see,
+you play a critical part in the
+completion of my time machine.</V>
+!******************************!
+<V0110><T><A2/5>Or rather, your memories do.</V>
+!******************************!
+<V0120><T>What are you saying?</V>
+!******************************!
+<V0130><T>The best part is that I've already
+got what I need from you.</V>
+!******************************!
+<V0140><T><A3/1>Of course! So that strange
+device...</V>
+!******************************!
+<V0150><T><A3/2>Finally catching on, eh? Those
+glasses you put on were a cognitive
+capture unit of my own design.</V>
+!******************************!
+<T><V0151>In layman's terms, a memory
+recorder.</V>
+!******************************!
+<V0160><T><A1/1>But what use could you possibly
+have for my memories?</V>
+!******************************!
+<V0170><T>Why, they provide me with data,
+of course.</V>
+!******************************!
+<T><V0171>Your memories contain all the
+information I need...to recreate
+that fateful day's experiment.</V>
+!******************************!
+<V0180><T><A4/1>Which day?</V>
+!******************************!
+<V0190><T><A1/4>The day I lost everything that
+mattered to me.</V>
+!******************************!
+<V0200><T>I still don't understand...</V>
+!******************************!
+<V0210><T>I'd imagine you know quite a bit
+about loss yourself, Hershel.
+Think, man!</V>
+!******************************!
+<V0220><T>I'm talking about Claire.</V>
+!******************************!
+<V0230><T>Claire...</V>
+!******************************!
+<V0240><T><A3/5>As you know, time travel is based
+on movement through wormholes.</V>
+!******************************!
+<V0250><T>One end of the wormhole is
+anchored in the present.</V>
+!******************************!
+<T><V0251>But every wormhole also needs a
+point of origin. And to find this
+point of origin, one needs data.</V>
+!******************************!
+<V0260><T><A3/2>Both you and Bill had substantial
+interactions with Claire on the day
+of the accident.</V>
+!******************************!
+<V0270><T>Using your memories of those
+interactions, I will triangulate the
+point right before her death.</V>
+!******************************!
+<V0280><T>Of course, finding a wormhole's
+point of origin is no easy task.</V>
+!******************************!
+<T><V0281>If my calculations were even the
+slightest bit off, I could be
+trapped...forever.</V>
+!******************************!
+<V0290><T>Then why take the risk? What do
+you stand to gain?</V>
+!******************************!
+<V0300><T><A1/4>Everything. You see, like you,
+Hershel...I loved Claire.</V>
+!******************************!
+<V0310><T>So you intend to travel back
+through time and save her?</V>
+!******************************!
+<V0320><T>Surely you wouldn't stop me. After
+all, haven't you wished for this
+yourself?</V>
+!******************************!
+<V00330><T><K>...</V>
+!******************************!
+<V0340><T><A1/1>Nothing can excuse the kidnapping
+of all those scientists. Not even
+this, Dimitri.</V>
+!******************************!
+<V0350><T>You disappoint me.</V>
+!******************************!
+<T><V0351><A4/5>I had hoped a rational man like
+yourself would understand that the
+ends justify the means.</V>
+!******************************!
+<V0360><T>I don't see it that way.</V>
+!******************************!
+<V0370><T>Then, what's your next move?<W>
+<A2/5>Turn me in to the police? Ha! I'd
+like to see you try.</V>
+!******************************!

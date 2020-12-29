@@ -1,0 +1,19 @@
+<T><A1/2>That file yielded some very
+valuable information, Luke.
+!******************************!
+<T>What exactly did you find out,
+Professor?
+!******************************!
+<T>Let's just say I'm very confident
+that the prime minister is still alive.
+!******************************!
+<T>The only way to save him, however,
+is to travel to the other London,
+where he's being held.
+!******************************!
+<T>You think he might be trapped in the
+future?
+!******************************!
+<T>Perhaps. This is something we need
+to discuss with the inspector.
+!******************************!

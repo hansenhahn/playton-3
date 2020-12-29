@@ -1,0 +1,14 @@
+<T>We're in luck! We've found a hidden
+puzzle!
+!******************************!
+<T><A4/1>This puzzle seemed so easy, but
+appearances can be deceiving,
+can't they?
+!******************************!
+<T>Oh, here's that hidden puzzle that
+we neglected to finish earlier.
+!******************************!
+<T><A1/2>There's nothing like the sense of
+achievement one gets from
+finishing a good puzzle.
+!******************************!

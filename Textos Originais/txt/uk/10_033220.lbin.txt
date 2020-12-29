@@ -1,0 +1,14 @@
+<T>Is something the matter?
+!******************************!
+<T>Yes, actually. Little Luke has run
+off somewhere by himself.
+!******************************!
+<T>Young ones can be such a handful.<W>
+But I wouldn't worry. There aren't
+that many places he could go.
+!******************************!
+<T>I'm sure you'll find him soon
+enough.
+!******************************!
+<T>I certainly hope so.
+!******************************!

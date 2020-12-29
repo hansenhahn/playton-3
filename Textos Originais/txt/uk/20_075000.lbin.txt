@@ -1,0 +1,57 @@
+<T><A2/4>Tsk. Some people have no respect
+for others...
+!******************************!
+<T>What seems to be the matter?
+!******************************!
+<T>Just look at this wall of mine!
+Someone has splodged paint all
+over it!
+!******************************!
+<T>I'm sure the little miscreant who did
+it is only having a laugh, but I'm the
+one who has to clean it up.
+!******************************!
+<T><A4/4>Hmm, that paint's completely dry.
+It looks like it would be really hard
+to strip it off.
+!******************************!
+<T>I suppose I'll just have to paint
+over this mess.
+!******************************!
+<T>While we're on the subject of
+painting, I might as well ask...<W>
+<A1/1>You ever heard this puzzle?
+!******************************!
+<T>Giving you a little trouble, is
+it?
+!******************************!
+<T>Let me tell you about that painting
+puzzle again.
+!******************************!
+<T><A3/5>Good thinking! And you know what?<W>
+Your clever thinking has given me
+a brilliant idea of my own!
+!******************************!
+<T><A4/1>Oh? What's that?
+!******************************!
+<T>If I just paint this wall white again,
+I'm practically asking for it to
+be covered in graffiti.
+!******************************!
+<T><A3/2>So maybe I should get someone to
+come by and paint a fancy mural
+on it instead.
+!******************************!
+<T>I mean, a white wall is one thing,
+but you'd have to be a real lout
+to graffiti a nice mural.
+!******************************!
+<T><A4/2>That sounds like a good idea!
+!******************************!
+<T><A1/1>Heh heh! Yeah, I'm pretty
+excited about it myself. 
+!******************************!
+<T><A1/1>A mural is exactly what this wall
+needs. Just thinking about it has
+got me all fired up!
+!******************************!

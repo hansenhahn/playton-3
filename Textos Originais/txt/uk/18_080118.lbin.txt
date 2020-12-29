@@ -1,0 +1,26 @@
+<T><A1/3>Some yobbo dropped a banana skin
+here. How disgusting!
+!******************************!
+<T><A3/1>Oh, what dreadfully uncouth
+behaviour. Be a gentleman and pick
+it up, would you, Luke?
+!******************************!
+<T><A1/1>No worries, Professor.
+!******************************!
+<T><A1/1>Oh, and while you're doing that,
+here's a puzzle to make the chore
+more fun!
+!******************************!
+<T><A1/5>This puzzle is one slippery customer!
+!******************************!
+<T>Let's have another look at that
+banana skin puzzle, shall we?
+!******************************!
+<T><A3/2>There, all cleaned up. That's one
+less banana skin littering the
+streets of London!
+!******************************!
+<T><A4/2>Well done. Your thoughtfulness may
+have just saved someone from
+having a nasty slip.
+!******************************!

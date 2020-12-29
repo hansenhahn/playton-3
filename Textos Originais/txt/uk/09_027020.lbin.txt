@@ -1,0 +1,55 @@
+<T>What's this contraption,
+Professor?
+!******************************!
+<T>It appears to be a peculiar set of
+goggles.
+!******************************!
+<T>I think they're too big for me...
+!******************************!
+<T>Let's see...<W> Ah, this is some sort
+of personal projection device.
+!******************************!
+<T>Personal what?
+!******************************!
+<T><A1/2>Think of it as a television for one,
+Luke. Only the wearer can see the
+image displayed inside.
+!******************************!
+<T>I'd wager that there's a puzzle in
+these goggles that only the wearer
+can see.
+!******************************!
+<T>Solving it is probably the only way
+to get through this door.
+!******************************!
+<T><A4/1>Now that's high-tech!
+!******************************!
+<T>They should fit me comfortably.
+Let's have a look.
+!******************************!
+<T>What do you see, Professor?
+!******************************!
+<T>Tee hee! Those glasses make you
+look like a bug! A robot bug!
+!******************************!
+<T>I think something's coming into
+focus here.
+!******************************!
+<T>I need to rest for a moment. These
+glasses have a very tiring effect
+on the eyes.
+!******************************!
+<T>All right. Time to give this one
+another try.
+!******************************!
+<T>Phew! What a relief to take those
+off. I was feeling all light-headed
+and was having trouble focusing.
+!******************************!
+<T><A3/2>But it was all worth it! Thanks to
+you, the door's unlocked and we're
+free to move on!
+!******************************!
+<T>I don't believe I have any desire to
+wear those strange goggles again.
+!******************************!

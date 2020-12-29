@@ -1,0 +1,10 @@
+<T>Where's the other Luke, Professor?
+!******************************!
+<T>Now that you mention it, we never
+decided on a meeting place.<A2/2> Perhaps
+we should pay Shipley a visit.
+!******************************!
+<T><A4/1>Of course! He can get in touch with
+Big Luke for us! Shall we head over
+to the restaurant, then?
+!******************************!

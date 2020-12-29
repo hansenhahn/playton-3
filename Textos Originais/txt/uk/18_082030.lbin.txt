@@ -1,0 +1,12 @@
+<T>Let's see how you handle this puzzle.
+!******************************!
+<T>It is rather difficult, isn't it?
+!******************************!
+<T>Having another go? Good for you.
+Let's get back to work, then.
+!******************************!
+<T><A1/2>Splendid! Just splendid!
+!******************************!
+<T><A1/2>Back to solve this one again?
+Ho ho! That's a familiar feeling.
+!******************************!

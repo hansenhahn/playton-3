@@ -1,0 +1,7 @@
+<T>Look, there's the restaurant!
+!******************************!
+<T>Is this the place you had in mind,
+Big Luke?
+!******************************!
+<T>Yes, this is the one. Let's head in.
+!******************************!

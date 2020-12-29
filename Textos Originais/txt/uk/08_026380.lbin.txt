@@ -1,0 +1,41 @@
+<T>Hello there.
+!******************************!
+<T>Oh, hullo th-<W> <A1/3>Ach no,
+it isnae you again!
+!******************************!
+<T>He's not who you think he is! This is
+all just a big misunderstanding!
+!******************************!
+<T>Oh aye? Well jist who is he then?
+!******************************!
+<T><A1/3>You think that he's the head of the
+Family, but he's not!<W> Honest, he's
+not!
+!******************************!
+<T><A1/1>I mean, just look at those eyes.
+You can see for yourself they
+aren't the eyes of a criminal!
+!******************************!
+<T><A1/1>Ye think? They're such
+beady-looking wee things, Ah
+cannae tell...
+!******************************!
+<T>Well, but now Ah've made myself
+cross-eyed looking at them, they
+do seem trustworthy, Ah suppose.
+!******************************!
+<T>You know, now that I look more
+closely, your eyes are pretty
+beady too!
+!******************************!
+<T>Yes, well that's enough on that
+subject.<W> Tell me, sir, what are you
+doing out here?
+!******************************!
+<T><A1/4>Ah was meant tae meet a friend,
+but he's awful late...
+!******************************!
+<T>Ach, Ah feel like Ah've been
+standing here half ma life. Ah
+wonder whit's happened tae him...
+!******************************!

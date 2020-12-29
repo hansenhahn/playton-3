@@ -1,0 +1,8 @@
+<T>All right, Luke. This is our chance.
+!******************************!
+<T>Gosh, my heart is pounding!
+!******************************!
+<T>Just relax. All we have to do is
+stay out of sight and let
+<N1> work his magic.
+!******************************!

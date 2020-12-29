@@ -1,0 +1,101 @@
+<T>What a charming room!
+!******************************!
+<T>I'm glad you like it, Flora. Your
+room will soon be ready as well.
+!******************************!
+<T>Oh, no need for that. I'm happy to
+stay in this one with you two. We'll
+just put up a screen.
+!******************************!
+<T>Luke, you're the smallest, so you
+can sleep in that chair there.
+!******************************!
+<T>Then I can take one of the beds
+and the professor can take the
+other one.
+!******************************!
+<T>That's not fair! I'm far too big to
+fold myself into a chair.
+!******************************!
+<T>Erm... We can discuss sleeping
+arrangements later. For now, let's
+bring you up to speed, Flora.
+!******************************!
+<T>All right, I'm all ears!
+!******************************!
+<T>We are currently in a city that
+looks very much like London, but is
+fundamentally different.
+!******************************!
+<T>This city may appear similar to our
+London, but make no mistake, it's a
+far more dangerous place.
+!******************************!
+<T>How so?
+!******************************!
+<T>What he's trying to say is that
+we've travelled through time! This
+is London 10 years in the future!
+!******************************!
+<T>What?!
+!******************************!
+<T>We're currently working with a
+young man who identifies
+himself as the future Luke.
+!******************************!
+<T>According to him, in the 10 years
+between his time and ours, I became
+a rather...unsavoury individual.
+!******************************!
+<T>And here in the future, I rule
+over the city with an iron fist.
+!******************************!
+<T>This young man is working with us
+to try and stop my evil future self.
+!******************************!
+<T>Wow, that's an awfully complicated
+story.
+!******************************!
+<T>Did you follow all of it?
+!******************************!
+<T><A1/2>Yes, I think so.
+!******************************!
+<T>Can you imagine the professor as
+a crime boss? I wonder what he's
+like...
+!******************************!
+<T>Hey, Luke...
+!******************************!
+<T>Yes?
+!******************************!
+<T>If both the professor and you have
+older counterparts here, I should
+have one too, right?
+!******************************!
+<T>Hmm... Well, yes, I suppose so...
+!******************************!
+<T>But you haven't seen a future
+Flora here?
+!******************************!
+<T>Nope. Not yet, anyway.
+!******************************!
+<T>But...didn't it strike you as strange
+that you hadn't seen me?
+!******************************!
+<T>Um... You know, we've had a lot
+going on since we got here, so we
+haven't had time to, er...
+!******************************!
+<T><A1/5>Hmph.<W> Well, I'm curious as to where
+my future self could be, anyway.
+!******************************!
+<T>Ahem.<W> I think we should move on.
+!******************************!
+<T>You know, Flora, the restaurant
+we're going to now is said to be
+one of the best in town!
+!******************************!
+<T><A1/2>Oh, is it really? Let's go, then!
+!******************************!
+<T>Phew! Good thinking, Professor!
+!******************************!

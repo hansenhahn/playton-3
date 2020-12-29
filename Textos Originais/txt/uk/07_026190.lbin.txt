@@ -1,0 +1,43 @@
+<T>Welcome to Pepper's Noodle Palace!
+!******************************!
+<T>What will it be, gents?
+!******************************!
+<T>We're not here to eat, I'm afraid.
+!******************************!
+<T>We just want to ask you a few
+questions about the fellow who
+runs the Towering Pagoda.
+!******************************!
+<T><A1/3>You mean I really can't interest
+you in a bite to eat? Well...<W> All
+right. Now, what were you saying?
+!******************************!
+<T>We'd like to meet the man who runs
+the Towering Pagoda, but he seems
+to be out at the moment.
+!******************************!
+<T>Has he come by your restaurant, by
+any chance?
+!******************************!
+<T><A1/4>I don't think so. I mean, I don't
+even know what he looks like.
+!******************************!
+<T>But his lackeys come by here to
+slack off on a daily basis. Terrible
+table manners they've got, too.
+!******************************!
+<T><A3/1>Come to think of it, that probably
+means the man you're looking for
+never comes in here.
+!******************************!
+<T>I mean, would you go skiving off in
+a place where the boss could burst
+in at any moment?
+!******************************!
+<T><A1/2>You make a good point. That's very
+astute of you.
+!******************************!
+<T><A2/1>Flattery's nice, but if you really
+want to say thanks, order some
+food next time you come in, okay?
+!******************************!

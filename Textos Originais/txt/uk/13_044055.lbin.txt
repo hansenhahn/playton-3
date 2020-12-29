@@ -1,0 +1,21 @@
+<T>Um, Professor, how are we supposed
+to input the generator room
+coordinates?
+!******************************!
+<T><K>Hmm.</K><W> We should be able to enter them
+into one of these devices...
+!******************************!
+<T>Oh! What about that one on the wall
+over there? It's got numbers
+and things all over it.
+!******************************!
+<T>Ah, the one with the green monitor?
+Yes, let's have a look at it.
+!******************************!
+<T>I'm positive the small green screen
+over there is the device we're
+looking for.
+!******************************!
+<T>Leave it to me, Professor. I'll
+investigate.
+!******************************!

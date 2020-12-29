@@ -1,0 +1,28 @@
+<T>Hello there! How's that lovely
+parrot of yours, eh? What was his
+name again? <N1>?
+!******************************!
+<T>He's doing very well, thank you.
+!******************************!
+<T><A2/4>Good, good.<W> Um, I hate to have
+to ask, but have you seen my
+good-for-nothing husband around?
+!******************************!
+<T>I assume you're referring to
+Rudolph?
+!******************************!
+<T>That's the one, yes.
+!******************************!
+<T>We saw him just now, actually.
+Outside the shop.
+!******************************!
+<T><A4/4>Just out for a nice little stroll, eh?
+As if he hadn't a care in the world.
+Is that what you're saying?!
+!******************************!
+<T>Oooh, when I get my hands on that
+man...
+!******************************!
+<T>Ack! Maybe I should've kept my
+mouth shut...
+!******************************!

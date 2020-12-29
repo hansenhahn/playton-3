@@ -1,0 +1,13 @@
+<T>C'est okay. I'll find my own way out
+of here eventually.
+!******************************!
+<T>My beloved compass is kaputt.
+!******************************!
+<T>Oh, double gracias, my monsieur.
+Thanks to you, I can now continue
+my travels.
+!******************************!
+<T>Do be careful out there, Pavel.
+!******************************!
+<T>Bon! Now, which way should I go...?
+!******************************!

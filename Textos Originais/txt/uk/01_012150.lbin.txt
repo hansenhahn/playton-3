@@ -1,0 +1,79 @@
+<T><A3/1><K>...<W></K>Here, you two saw that
+ne'er-do-well skulking around,
+didn't you?
+!******************************!
+<T>Yes we did. Why do you ask?
+!******************************!
+<T>I thought I should give you a word
+of advice. That whole gang is bad
+news.
+!******************************!
+<T>They call themselves {''}the Family{''},
+and they monitor everything people
+get up to around these parts.
+!******************************!
+<T>Who are you talking about exactly?
+!******************************!
+<T>I'm sure you've seen them, all
+dressed the same, in their long
+grey coats and matching hats.
+!******************************!
+<T>Oh, and don't even try to be a
+hero. Bravery will only get you
+in the worst kind of trouble.
+!******************************!
+<T>But why don't the police do
+something about them?
+!******************************!
+<T>Police?<W> Now there's a word I
+haven't heard in a while...
+!******************************!
+<T>I haven't seen police on these
+streets for years. It's the Family
+who make the law nowadays.
+!******************************!
+<T>How terrible.
+!******************************!
+<T>You're telling me. I- Oops, here
+comes one of their boys now.<A4/1> Try
+not to stare.
+!******************************!
+<T>Would you mind if I had a look at
+that paper you're holding, sir?
+!******************************!
+<T><A3/1>Go for it. Knock yourself out.
+!******************************!
+<T><A3/1>N-no! That can't be...
+!******************************!
+<T>Professor, look at the date on
+this paper!
+!******************************!
+<T><A1/1>Keep your hair on, fellas. It's just
+a newspaper.
+!******************************!
+<T>Right, I've got to go. Places to be
+and all that. Can I have my paper
+back?
+!******************************!
+<T>Oh yes, of course. Thank you.
+!******************************!
+<T>I didn't misread the date on that
+paper, did I, Professor?
+!******************************!
+<T>I don't think so, Luke. It was dated
+10 years in the future.<W> It's as if
+we've travelled through time...
+!******************************!
+<T>So maybe the reason why nothing
+looks familiar is that we're in the
+London of the future.
+!******************************!
+<T>It would appear so...
+!******************************!
+<T>Whoever wrote us that last letter
+assured us that we'd find proof of
+our time travel at Green Hospital.
+!******************************!
+<T>Let's make our way over there
+without further delay.
+!******************************!

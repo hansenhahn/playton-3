@@ -1,0 +1,34 @@
+<T>Hello there. Can I help you find
+something?
+!******************************!
+<T>Actually, I was hoping you could
+tell us about the man who rushed
+out of your shop just now.
+!******************************!
+<T><A2/1>Oh, that's Dr Avogadro.
+He's always in a hurry.
+!******************************!
+<T>It was very strange, his trousers
+and shoes were absolutely soaked.
+!******************************!
+<T>That's how it always is. I suppose
+I'm just used to it now.
+!******************************!
+<T><A4/1>He sneaks away from work to come
+and browse through our new books.
+!******************************!
+<T>You know how absent-minded
+geniuses can be. I'm sure he doesn't
+even notice puddles in the road.
+!******************************!
+<T>Or maybe he likes to go fishing on
+his breaks.
+!******************************!
+<T>Perhaps so. He always bursts in,
+buys a few books, and dashes
+out without so much as a word.
+!******************************!
+<T>Dr Avogadro is an odd one. Every
+time he comes here, his shoes and
+trousers are dripping wet.
+!******************************!

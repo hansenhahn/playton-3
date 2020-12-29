@@ -1,0 +1,29 @@
+<T><A3/2>This must be the place, Professor!
+!******************************!
+<T>Yes, finally.
+!******************************!
+<T>Let's go inside!
+!******************************!
+<T><A4/1>Huh?
+!******************************!
+<T>What seems to be the matter, Luke?
+!******************************!
+<T><A4/4>The door's locked. How are we
+supposed to get in?
+!******************************!
+<T><A4/1>Let me have a look.<W><A2/1> Ah, it seems it's
+time for a puzzle. We have to solve
+this one to open the door.
+!******************************!
+<T><A4/4>There's nothing wrong with taking
+a break, but we won't be able to
+enter until we solve that puzzle.
+!******************************!
+<T>The door is fitted with a puzzle.
+We'll need to solve it to gain entry.
+!******************************!
+<T><A3/2>That did the trick!
+!******************************!
+<T><A1/2>There's no sense dawdling outside.
+Come now, in we go.
+!******************************!

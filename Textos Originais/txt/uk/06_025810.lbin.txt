@@ -1,0 +1,46 @@
+<T>Dean Delmona!
+!******************************!
+<T>Oho! Fancy seeing you here,
+Hershel!<W> Have you been keeping well?
+!******************************!
+<T>Very well, thank you. You're looking
+rather well yourself, if I may say
+so. Spry, even!
+!******************************!
+<T><A2/4>Oh goodness no! This old man is
+growing older by the day.
+!******************************!
+<T>My hair's gone completely white,
+see?
+!******************************!
+<T>Ah, yes. I thought there was
+something different about you.
+!******************************!
+<T>Some people say silver hair makes
+a man look distinguished, but I
+was partial to my crop of brown.
+!******************************!
+<T>Now listen, Hershel: London's full
+of people quick to sully your name.
+!******************************!
+<T>Rest assured that I don't believe
+a word of it.
+!******************************!
+<T>That was quite a shock, Professor.<W>
+We saw the dean a few hours ago,
+and now he's aged a full 10 years.
+!******************************!
+<T>Yes... Time certainly appears to
+have left its mark on Dean
+Delmona...
+!******************************!
+<T>Is something the matter,
+Professor?
+!******************************!
+<T>Not at all. I just needed a moment
+to think. Let's be on our way.
+!******************************!
+<T>I came here to meet an old friend of
+mine, but the fellow hasn't turned
+up yet.
+!******************************!

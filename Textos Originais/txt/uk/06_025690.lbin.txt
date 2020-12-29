@@ -1,0 +1,24 @@
+<T><K>...
+!******************************!
+<T>Are you feeling any better,
+Constable?
+!******************************!
+<T>Yes.<W> No.<W> Yes.<W> Um...<W> Where am I?
+!******************************!
+<T>You're in the future! This is London,
+but 10 years in the future.
+!******************************!
+<T>Oh... Oh my.
+!******************************!
+<T>No need to fret, Constable!
+Everything is fine!
+!******************************!
+<T><A3/0>Oh, don't worry about me. <A2/1>The
+inspector is here. You and your
+friends are safe. We'll all be fine.
+!******************************!
+<T>That's right, Constable!
+!******************************!
+<T>All this time travel has me feeling
+a bit...peckish.
+!******************************!

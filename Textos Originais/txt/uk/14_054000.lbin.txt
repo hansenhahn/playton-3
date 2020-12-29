@@ -1,0 +1,102 @@
+<V0010><T>Ugh...</V>
+!******************************!
+<V0020><T>Somebody apprehend that man
+at once!</V>
+!******************************!
+<V0030><T>You're coming with me, boy, and
+I don't want any trouble!</V>
+!******************************!
+<V0040><T>Inspector, a moment please?</V>
+!******************************!
+<V0050><T>Just what do you think you're
+doing? This man poses an imminent
+threat to our national security!</V>
+!******************************!
+<V0060><T>I cannot deny the damage that
+Clive has done to our city.</V>
+!******************************!
+<V0070><T>But we can't forget that he's also
+a victim of a political agenda for
+progress, no matter the cost.</V>
+!******************************!
+<V0080><T>You've got some nerve, man!</V>
+!******************************!
+<V0090><T>Professor, I-</V>
+!******************************!
+<V0100><T><A1/1>Answer me one question, Clive.</V>
+!******************************!
+<T><V0101>You knew full well I'd stand in the
+way of your plot. So why did you
+send for me?</V>
+!******************************!
+<V0110><T><A3/5>Dimitri was sure he needed you for
+his project, but I knew full well of
+the threat you posed to my plan.</V>
+!******************************!
+<V0120><T>Though I suppose I still led you all
+the way to the heart of my base,
+didn't I?</V>
+!******************************!
+<V0130><T><A1/1>At first I was just toying with you.
+But at some point, I realised I was
+enjoying our time together.</V>
+!******************************!
+<V0140><T>Maybe part of me wanted somebody
+to save me from my all-consuming
+madness.</V>
+!******************************!
+<V0150><T>As you did, all those years ago...</V>
+!******************************!
+<V0160><T>I need to go back! My parents
+are still inside!</V>
+!******************************!
+<V0170><T>Pull yourself together, boy!</V>
+!******************************!
+<V0180><T>There's nothing to be done. Jump
+back in there and you'll die too!</V>
+!******************************!
+<V0190><T>No! No...</V>
+!******************************!
+<V0200><T><A3/1>That...was you?</V>
+!******************************!
+<V0210><T><A1/4>Deep down inside, I hoped you might
+be able to talk me down from the
+edge of insanity again.</V>
+!******************************!
+<V0220><T>This is the second time you've
+saved my life now.<W150> Thank you.</V>
+!******************************!
+<V0230><T>Clive...</V>
+!******************************!
+<V0240><T>Don't worry about me. I intend to
+atone for my crimes.</V>
+!******************************!
+<V0250><T>I look forward to the day we meet
+again. Until then, I hope life treats
+you well, Professor.</V>
+!******************************!
+<V0260><T>And you too, Clive.</V>
+!******************************!
+<V0270><T>Barton, take him back to
+headquarters.</V>
+!******************************!
+<V0280><T><Q><A2/1>Yes, sir!</V>
+!******************************!
+<V0290><T>Hah! Criminals like him make me
+think the whole world has gone mad.
+Despicable, just despicable.</V>
+!******************************!
+<V0300><T><A1/5>Yes, people can often be so blinded
+by their own motivations that they
+lose sight of the damage they do.</V>
+!******************************!
+<V0310><T>But criminals aren't the only
+blind ones.</V>
+!******************************!
+<V0320><T><A2/3>Just what are you implying,
+Inspector?</V>
+!******************************!
+<V0330><T><A1/1>Nothing at all. Just stating the
+facts, sir. Now, if you'll excuse
+me, I still have work to do.</V>
+!******************************!

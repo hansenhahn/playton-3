@@ -1,0 +1,43 @@
+<T><A1/2>The mural looks as though it's
+almost finished!
+!******************************!
+<T><A3/2>Yep, we're pretty close now! It's a
+real beauty. You won't find another
+mural like this in all of London.
+!******************************!
+<T>Heh heh! I'm very proud, I have to
+say.
+!******************************!
+<T>Proud?<W> But didn't you say you have
+local children doing all the work?
+!******************************!
+<T><A2/1>Well, they're doing the painting, but
+I've done a lot of the heavy lifting!
+!******************************!
+<T>Literally, in fact! I carried all the
+paint myself!
+!******************************!
+<T><A3/5>You know, one of the pots had this
+great puzzle on the side of it.
+Here, have a look!
+!******************************!
+<T><A4/2>My, you certainly have an affinity
+for paint, don't you?
+!******************************!
+<T><A3/2>Couldn't solve it, eh? Yep, that
+puzzle's a real stumper.
+!******************************!
+<T><A1/1>This puzzle requires some serious
+thought.
+!******************************!
+<T><A3/2>Wow, I think you two are the best
+puzzle solvers I've ever met!
+!******************************!
+<T><A3/2>Well, we do get a lot of practice.
+!******************************!
+<T><A4/6>Impressive stuff, though. Heh heh!
+!******************************!
+<T><A1/1>You have to come back soon to see
+the greatest mural in London in its
+finished state.
+!******************************!

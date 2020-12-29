@@ -1,0 +1,25 @@
+<T><A1/5>Oh no! It just fell apart!
+!******************************!
+<T>Never mind that! Did you see the
+coin that just popped out?<W> That's
+a hint coin, and it's yours to keep.
+!******************************!
+<T>If you ever find yourself stuck on
+a puzzle, you can spend one of
+those lovely coins to get a hint.
+!******************************!
+<T>Just remember that there's a limit
+to the number of hint coins you can
+find.
+!******************************!
+<T>If you use them willy-nilly, you may
+find yourself in a pickle later.
+!******************************!
+<T>Hint coins are tucked away all over
+the place, so touch anything that
+looks fishy. You might find a coin!
+!******************************!
+<T>Well, that's the end of my speech.
+<W>Good luck with whatever it is
+you're doing round here.<W> Ta-ta!
+!******************************!

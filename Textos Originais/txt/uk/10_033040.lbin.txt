@@ -1,0 +1,32 @@
+<T>So, let me get this straight. Dimitri
+is building a time machine to go
+back to the past and save Claire?
+!******************************!
+<T>Correct. Or at least that's what
+he said.
+!******************************!
+<T><A2/1>Funny. We went through every floor
+in the pagoda and I didn't see
+anything like a time machine.
+!******************************!
+<T><A2/2>Well observed, my boy!
+!******************************!
+<T>Dimitri clearly had a destination
+in mind when he escaped from the
+Towering Pagoda.
+!******************************!
+<T>I think he was heading to another
+base, perhaps the facility where he
+conducts his time travel research.
+!******************************!
+<T><A2/2>Is that what you went looking for
+while we were climbing the Towering
+Pagoda with Don Paolo?
+!******************************!
+<T><A4/2>Yes - in part, anyway. I'll explain
+everything once we've caught up
+with Flora and Big Luke.
+!******************************!
+<T>Until then, I challenge you to think
+about the situation on your own.
+!******************************!

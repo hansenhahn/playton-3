@@ -1,0 +1,82 @@
+<T>Professor Layton, Luke, welcome
+to the London of the future.
+!******************************!
+<T><K>Hmm.
+!******************************!
+<T>Still not convinced?
+!******************************!
+<T>You saw Dr Schrader, didn't you?
+!******************************!
+<T><A1/4>You must have noticed the toll that
+time has taken on your mentor.
+!******************************!
+<T>Yes, we saw him...
+!******************************!
+<T>And what of fair London? You've
+walked around enough now to see
+how she's changed.
+!******************************!
+<T>Could you imagine there being a
+casino in this sleepy part of town
+back in your time?
+!******************************!
+<T>Yeah, everything's changed! What's
+happened to this city?
+!******************************!
+<T><A1/5>A genius appeared...<W>an evil genius
+who turned the city on its head.
+!******************************!
+<T><A1/3>Oh, I know where this is going.<W>
+Don Paolo took over the city,
+didn't he?
+!******************************!
+<T><A1/1>Don Paolo?<W> <A1/4>Oh no, I'm talking about
+a truly brilliant man.
+!******************************!
+<T>Someone the three of us all know
+quite well.
+!******************************!
+<T><A2/1>Well, if it's not Don Paolo, then
+who is it?
+!******************************!
+<T>What do you think, Professor?
+!******************************!
+<T>I really couldn't say.
+!******************************!
+<T>Hmm... Really?
+!******************************!
+<T>Who is it? I've just got to know!
+!******************************!
+<T>His name is Hershel Layton.<W> The
+evil genius is you, Professor.
+!******************************!
+<T><A1/6>WHAAAAT?!
+!******************************!
+<T>I...<W>was afraid you'd say that.
+!******************************!
+<T>That can't possibly be right!
+!******************************!
+<T>I'm sorry to say that it is.
+!******************************!
+<T>They call him {''}the devil in the top
+hat{''}, and he rules London from the
+shadows.
+!******************************!
+<T>It's common knowledge for people
+in this part of London.
+!******************************!
+<T>Tell me more, Luke.
+!******************************!
+<T><A1/1>What? I don't know any more than
+you do, Professor.
+!******************************!
+<T>No, I meant the other Luke.<W>
+Goodness, this is getting rather
+complicated, isn't it?
+!******************************!
+<T>Tell me, Luke, how did I rise to rule
+over all of London?
+!******************************!
+<T>Where to begin...?<W> Here, Professor,
+surely you remember this?
+!******************************!

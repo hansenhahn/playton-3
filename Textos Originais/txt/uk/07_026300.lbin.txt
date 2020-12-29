@@ -1,0 +1,26 @@
+<T>DING DING DING!<W><A1/2> Who's that lovely
+girl you're with?
+!******************************!
+<T><K>Hmm?</K><W> Oh, you mean Flora?
+!******************************!
+<T>DING DING DING!<W> Correct!<W> What a
+pretty name. You've got to
+introduce us.
+!******************************!
+<T>Who's this?<W> Hi there. Are you one
+of Luke's friends? It's nice to
+meet you!
+!******************************!
+<T>DING DING DIIIING!<W> Oh yeah, Luke
+and I go way back. We're old pals.
+!******************************!
+<T><A1/5>Anyway, you have a lovely day,
+Flora!
+!******************************!
+<T>Funny...<W> I didn't realise you thought
+so highly of me, Max.
+!******************************!
+<T>If you have any more pretty lady
+friends, bring them round to say
+hello! DING DING DING! 
+!******************************!

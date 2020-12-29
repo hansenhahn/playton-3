@@ -1,0 +1,34 @@
+<T>Welcome back to the Hotel Duke.
+Oh!<W> Hello there, young lady!
+And who might you be?
+!******************************!
+<T>My name's Flora. I'm a guest of the
+professor and Luke's.<W> Well, sort of.
+!******************************!
+<T>Actually, what really happened is I
+followed them here because they
+ran off without me.
+!******************************!
+<T>They're always doing that and it's
+really quite upsetting at times. I-
+!******************************!
+<T><A2/5>Oh dear, I'm sorry! I didn't mean
+to babble!
+!******************************!
+<T><A4/4>What are you talking about, Flora?
+!******************************!
+<T>Don't mind her, Becky.<W> Flora can
+get quite nervous around new
+people.
+!******************************!
+<T>Oh, I would never pry into a guest's
+personal affairs. That's against
+hotel policy!
+!******************************!
+<T>I'll be off now. Have a pleasant day!
+!******************************!
+<T>I hope you don't think the worse of
+us for leaving Flora behind...
+!******************************!
+<T>I hope you have a lovely day!
+!******************************!

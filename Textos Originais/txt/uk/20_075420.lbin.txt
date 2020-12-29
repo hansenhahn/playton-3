@@ -1,0 +1,14 @@
+<T>I fear that going back to your
+time could introduce additional
+anomalies to the flow of time.
+!******************************!
+<T>I've therefore decided to stay
+here until you return.
+!******************************!
+<T><A1/1>I was going to suggest the same
+thing myself. Please wait for us
+here. We'll be back before long.
+!******************************!
+<T>Are you ready to go, then?<W> Good!
+<A3/0>Let's be off!
+!******************************!

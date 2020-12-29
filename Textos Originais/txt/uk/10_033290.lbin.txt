@@ -1,0 +1,32 @@
+<T><A1/6>Yikes! This place is disgusting!
+!******************************!
+<T>It seems this tunnel has been
+neglected for some time. It's
+started to leak and fall apart.
+!******************************!
+<T>There's no way to get to the other
+side without getting one's feet
+thoroughly soaked.
+!******************************!
+<T>No wonder those scientists always
+have wet shoes!
+!******************************!
+<T>With all the boats in the area
+under Family supervision, crossing
+the river is no easy task.
+!******************************!
+<T>The tunnel is their best bet for
+unimpeded movement between both
+sides of the river.
+!******************************!
+<T><A2/5>Professor! Luke! Wait! If we try
+and walk through this mess, we'll
+all get absolutely soaked.
+!******************************!
+<T>I know it's hard, Flora.<W> <A2/1>But
+sometimes sacrifices must be made
+for the sake of the investigation.
+!******************************!
+<T><A3/3>That's easy for you to say, Luke.
+You're wearing shorts!
+!******************************!

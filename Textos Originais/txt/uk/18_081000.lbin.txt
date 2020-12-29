@@ -1,0 +1,12 @@
+<T>Professor, look over here! I think
+I've stumbled across a hidden
+puzzle.
+!******************************!
+<T><A1/5>Phew! I need a break before I do
+any more thinking about this one.
+!******************************!
+<T>Okay! This hidden puzzle's met its
+match this time!
+!******************************!
+<T><A4/2>That puzzle was a piece of cake!
+!******************************!

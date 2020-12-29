@@ -1,0 +1,10 @@
+<T>Strange. The door's locked. The
+place was open last time we were
+here.
+!******************************!
+<T><K>Hmm...
+!******************************!
+<T>Perhaps the bartender had to go
+out on an errand. I can't see 
+anyone inside.
+!******************************!

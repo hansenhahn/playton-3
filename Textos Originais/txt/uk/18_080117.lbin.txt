@@ -1,0 +1,32 @@
+<T><A5/1>Hello there. My name's Paige.
+<A4/1>What's yours?
+!******************************!
+<T><A1/2>I'm Flora.<W> How do you do, Paige?
+!******************************!
+<T><A1/1>Not so well, I'm afraid. I've had
+this puzzle on my mind for days and
+it's got me positively stumped.
+!******************************!
+<T><A2/1>I know we just met and that this is
+terribly forward of me...but would
+you mind having a look at it?
+!******************************!
+<T><A2/1>Couldn't find the answer?<W>
+Then it seems you and I are in
+the same boat.
+!******************************!
+<T><A1/1>Do you really think you can solve
+this puzzle? It's pretty tricky.
+!******************************!
+<T><A4/1>Gosh, you must have some sort of
+super brain to solve a puzzle
+like that so easily.
+!******************************!
+<T><A1/2>Well, I try. After all, brains are
+something no true lady can afford
+to be without!
+!******************************!
+<T><A1/1>I've met a lot of seedy characters
+here in London, so it's refreshing
+to meet some nice people for once.
+!******************************!

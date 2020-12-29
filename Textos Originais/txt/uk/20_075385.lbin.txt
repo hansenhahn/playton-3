@@ -1,0 +1,68 @@
+<T>Your parrot has generously
+volunteered his services as a
+delivery bird.
+!******************************!
+<T>Unfortunately, the heavy objects
+he has to carry make it hard for
+him to fly properly.
+!******************************!
+<T>Predict his flight path and use
+ropes to create perches that
+will guide him to the recipient.
+!******************************!
+<T>Create a perch for your parrot
+by connecting any two posts with a
+rope.
+!******************************!
+<T>The number of ropes at your
+disposal changes with each
+delivery request.
+!******************************!
+<T>The position and angle of each perch
+will affect your parrot's flight
+trajectory.
+!******************************!
+<T>Build efficient perches that will
+help your parrot get to his
+destination as quickly as possible.
+!******************************!
+<T>Ropes can't cross over each other.
+Also, you can't attach more than
+one rope to the same post.
+!******************************!
+<T>Touch <CR>Clear</C> to remove all the
+ropes you've drawn from the
+screen.
+!******************************!
+<T>Touch <CR>Start!</C> to send your parrot
+out to deliver his package. Watch
+carefully how he flies.
+!******************************!
+<T>If you want to cancel a delivery
+attempt while the parrot is flying,
+touch <CR>Quit</C>.
+!******************************!
+<T>When the parrot lands on a flat
+perch, he will return to his basic
+flight path when he next takes off.
+!******************************!
+<T>Using a number of well-placed
+perches, your parrot can fly to
+very high places.
+!******************************!
+<T>Complete a course by guiding
+your parrot over to the delivery
+recipient.
+!******************************!
+<T>During delivery, if your parrot
+flies off the side of the screen or
+falls, you must start again.
+!******************************!
+<T>Your parrot must also reach the
+recipient before time runs out, so
+keep an eye on the time limit.
+!******************************!
+<T>When your parrot has completed
+every delivery request in the game,
+something cool will happen!
+!******************************!

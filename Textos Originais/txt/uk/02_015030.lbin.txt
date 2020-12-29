@@ -1,0 +1,20 @@
+<T>A casino on Flatstone Street?
+!******************************!
+<T>Yeah, there is one, but I'm not
+sure it's the kind of place you can
+take kids...
+!******************************!
+<T>Don't worry, madam. We're just
+meeting a friend there.
+!******************************!
+<T>Do you happen to know where on
+Flatstone Street the casino is
+located?
+!******************************!
+<T>Nah, sorry. Not my scene.<W> You
+should ask someone in the area.
+!******************************!
+<T>Yes, I suppose a resident of
+Flatstone Street would be able to
+tell us. Thank you.
+!******************************!

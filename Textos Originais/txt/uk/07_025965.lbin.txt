@@ -1,0 +1,50 @@
+<T>What's this device that's stuck
+to the door?
+!******************************!
+<T>Oh no...<W> That's a puzzle counter.
+!******************************!
+<T>Oh no?<W> Why {''}oh no{''}?
+!******************************!
+<T><A1/4>These things count how many
+puzzles you've solved.
+!******************************!
+<T>The door will only open for people
+who've solved the required number
+of puzzles.
+!******************************!
+<T>Here, have a look at the display on
+the front of the machine.
+!******************************!
+<T>It says...50.
+!******************************!
+<T><A3/5>You've got at least 50 puzzles
+under your belt, I hope?
+!******************************!
+<T>I don't know, but I can't wait to 
+try out the machine. The future's
+just full of fancy gadgets!
+!******************************!
+<T>BZZEEP! Insufficient puzzles
+solved. Access denied.
+!******************************!
+<T><A1/6>Oh no!
+!******************************!
+<T>I didn't anticipate this. I suppose
+we'll just have to come back
+after solving some more puzzles.
+!******************************!
+<T>The display on the puzzle counter
+says 50.
+!******************************!
+<T>Step up and let the device take a
+reading. We've hopefully solved
+enough puzzles by now.
+!******************************!
+<T>BZZEEP! Insufficient puzzles
+solved. Access denied.
+!******************************!
+<T>Oh no!
+!******************************!
+<T><A4/4>Drat! We'll just have to come back
+after solving a few more puzzles.
+!******************************!

@@ -1,0 +1,41 @@
+<T><A3/1>Well, here we are.<W><A3/2> The clock shop
+that the letter mentioned should be
+around here somewhere. But where?
+!******************************!
+<T>This seems an ideal time to consult
+the map that accompanied the
+letter.
+!******************************!
+<T><A2/1>Here, Luke.<W><A2/2> See if you can find
+the shop's location by yourself.
+!******************************!
+<T><A2/2>Say no more, Professor!
+!******************************!
+<T><A4/4>Hmm. This is more difficult than
+I expected.
+!******************************!
+<T>Let me give this puzzle another
+shot!
+!******************************!
+<T><A3/2>Great! Getting to that clock shop
+should be a doddle now. Let's go,
+Professor!
+!******************************!
+<T><A4/2>All right.<W><A2/2> But before we head off,
+let's quickly review how to move
+around.
+!******************************!
+<T>Care to assist me, Luke?
+!******************************!
+<T>I know the drill, Professor. I can
+take it from here.<W> Let's see...
+To start, touch the shoe icon.
+!******************************!
+<T>Once you've touched the shoe,
+arrows will appear. Touch an arrow
+to move in that direction.
+!******************************!
+<T><A1/2>That's right.<W> So just remember,
+whenever you want to move,
+start by touching the shoe. 
+!******************************!

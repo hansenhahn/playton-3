@@ -1,0 +1,26 @@
+<T><A3/1>Where do you suppose these stairs
+go to, Professor?
+!******************************!
+<T>I'd say they probably lead up to
+that row of charming Victorian
+houses.
+!******************************!
+<T><A1/2>Say, Luke, all this talk of stairs
+has reminded me of a puzzle. Care
+to hear it?
+!******************************!
+<T><A3/2>Would I ever!
+!******************************!
+<T><A4/4>I suppose I'm not in the mood for
+a puzzle after all.
+!******************************!
+<T>Let's give that stairs puzzle
+another go.
+!******************************!
+<T>Exemplary thinking, Luke. Now let's
+get back on track.
+!******************************!
+<T>There probably aren't any clock
+shops in a quiet residential area
+like that.
+!******************************!

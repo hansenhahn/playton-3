@@ -1,0 +1,23 @@
+<V0010><T>I don't know what to say. When I
+think of all the suffering I caused
+in the name of research...</V>
+!******************************!
+<V0020><T>It was terrible. But I see you must
+have loved Claire very much to do
+what you did.</V>
+!******************************!
+<V0030><T>The more I reflect on it, the more
+unsure I am as to whether it was
+love...or pride that compelled me.</V>
+!******************************!
+<V0040><T>For 10 long years, I chased after
+what so many called impossible...<W>
+But I've come to my senses now.</V>
+!******************************!
+<V0050><T><K><A4/3>Hmm.</V>
+!******************************!
+<V0060><T><A3/5>But, you know, Hershel, there is one
+detail that you got wrong.</V>
+!******************************!
+<V0070><T><A1/1>What are you referring to?</V>
+!******************************!

@@ -1,0 +1,59 @@
+<T><A2/6><K>Hrm...<W></K> Blast! Which one is it now?
+!******************************!
+<T><A1/1>You look quite deep in thought
+there, Inspector. Have you found
+any new information on the case?
+!******************************!
+<T><A1/1>Ah, Layton. Just the man I was
+looking for.
+!******************************!
+<T>You see, I've uncovered a clue that
+has simply stumped me. Here, you
+have a look.
+!******************************!
+<T><A1/5>I'm this close to cracking the case
+wide open. This close, I tell you!
+!******************************!
+<T><A1/1>No time for chit-chat, Layton. I've
+a clue that needs deciphering. Here,
+see for yourself.
+!******************************!
+<T><A2/5>That's it! Now I just need to track
+down the fiend who committed this
+crime.
+!******************************!
+<T><A3/1>Um, Inspector, aren't you supposed
+to be searching for the prime
+minister right now?
+!******************************!
+<T><A3/1>Listen lad, a man of the law can't
+simply ignore one case because
+he's busy with another.
+!******************************!
+<T>It's every officer's duty to assist
+and defend the citizens of our fair
+city.
+!******************************!
+<T>That's how I work, even in a place
+as lawless and overrun with
+criminal activity as this.
+!******************************!
+<T>Yes, even in this den of depravity,
+I will ensure that the spirit of
+Scotland Yard burns bright! 
+!******************************!
+<T><A1/2>I'm sure the citizens of this London
+are very grateful for your efforts,
+Inspector.
+!******************************!
+<T><A4/2>Yeah, and maybe you'll find some
+clues to help track down the prime
+minister along the way.
+!******************************!
+<T><A1/1>This blasted case has kept me away
+from home for some time now.
+!******************************!
+<T><A1/5>I hope I can close the book on it
+soon and get back home before
+Amelie starts to worry.
+!******************************!

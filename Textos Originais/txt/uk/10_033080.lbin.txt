@@ -1,0 +1,40 @@
+<T>You'd better have a good reason
+for talkin' to me.
+!******************************!
+<T>Sorry to bother you, but have you
+seen the young boy I've been
+travelling with?
+!******************************!
+<T>The knobbly-kneed squirt in the
+blue hat?
+!******************************!
+<T>Er, yes. That would be him.
+!******************************!
+<T>Yeah, I saw him go by.
+!******************************!
+<T>Did you happen to see in which
+direction he went?
+!******************************!
+<T>I, uh, suppose I could tell you, but
+not for free. Scratch my back and
+I'll scratch yours, okay?
+!******************************!
+<T>Tsk-tsk. Can't help me with my
+problem? Fine. Then I can't help
+you with yours, either.
+!******************************!
+<T>I might've seen where your little
+friend ran off to, but until you
+solve my puzzle, my lips are sealed.
+!******************************!
+<T>Ah, it feels good to finally wash
+my hands of that puzzle. So, about
+that small friend of yours...
+!******************************!
+<T>The lad came out and walked off
+towards Flatstone Street. Had the
+glummest expression on his face...
+!******************************!
+<T>Your friend went off towards
+Flatstone Street.
+!******************************!

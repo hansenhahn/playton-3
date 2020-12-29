@@ -1,0 +1,57 @@
+<T><A1/6>Oh my gosh! That's Don Paolo's
+flying machine!
+!******************************!
+<T>That's right. I begged him to fly me
+up here, so he loaded me in and
+sent me up.
+!******************************!
+<T>He controlled the machine from the
+ground. I didn't have to do
+anything. Amazing, isn't it?
+!******************************!
+<T>You can say that again!
+!******************************!
+<T>Funny, you don't seem so surprised,
+Professor.
+!******************************!
+<T>Well, I already knew Paul had his
+machine with him.
+!******************************!
+<T><A1/2>It's what he used to escape from
+the research facility that we
+infiltrated, isn't it, Celeste?
+!******************************!
+<T><A2/2>Nothing gets past you, does it,
+Professor?
+!******************************!
+<T><A3/1>So, now that we have Don Paolo's
+flying machine, we can come and go
+from here as we please.
+!******************************!
+<T>That's right, Luke.<W> <A2/6>Why, are you
+thinking of abandoning our
+mission?
+!******************************!
+<T>Never! I just thought it might be a
+good idea to drop Flora off
+somewhere safe before heading on.
+!******************************!
+<T><A1/5>No way! I'm staying here!
+!******************************!
+<T><A2/5>I can't say I blame you, Flora.
+You've got to stick close to
+the people you care about.
+!******************************!
+<T>Yes, but it is good to know we can
+<CR>return underground to continue
+exploring</C>.
+!******************************!
+<T>Should we wish to, I mean.
+!******************************!
+<T>All right, everyone, we really
+shouldn't dawdle out here. We need
+to head to the generator room.
+!******************************!
+<T>Oh yes, I'd nearly forgotten. Let's
+go, everyone!
+!******************************!

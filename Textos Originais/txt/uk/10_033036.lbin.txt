@@ -1,0 +1,8 @@
+<T>Hey there, Max. Up to anything
+interesting?
+!******************************!
+<T>BZZT!<W> I'm not up to anything at all.
+!******************************!
+<T>Ah, gotcha. You're bored, in other
+words.
+!******************************!

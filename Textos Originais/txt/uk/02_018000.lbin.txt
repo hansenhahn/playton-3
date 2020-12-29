@@ -1,0 +1,14 @@
+<T>Just look at these fountains! And
+this floor! The owner must be
+filthy rich!
+!******************************!
+<T>I know you're excited, Luke, but do
+try to keep your voice down.
+!******************************!
+<T>Sorry, Professor. This place is
+just so impressive.
+!******************************!
+<T>I understand the feeling. It's also
+quite large. Finding your future
+self in here may prove difficult.
+!******************************!

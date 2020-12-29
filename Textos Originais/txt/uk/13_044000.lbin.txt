@@ -1,0 +1,19 @@
+<V0010><T>There has to be a generator
+somewhere here. All we need to do
+is find it and shut it down.</V>
+!******************************!
+<V0020><T><A4/1>I see! We'll cut off the power at the
+source.</V>
+!******************************!
+<V0030><T><A4/4>But wait... This place is huge. We
+don't have time to scour it all!</V>
+!******************************!
+<V0040><T>What are we going to do?</V>
+!******************************!
+<V0050><T>Look around you. The monitors in
+this control room are linked to
+cameras throughout the fortress.</V>
+!******************************!
+<V0060><T><A2/2>Perhaps they can offer us some clue
+as to the generator's location.</V>
+!******************************!

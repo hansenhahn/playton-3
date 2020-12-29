@@ -1,0 +1,25 @@
+<T>I just can't believe Clive would do
+something like this. He was always
+such a nice boy.
+!******************************!
+<T>It's clear that Clive took pains
+to hide his plan from you and your
+husband.
+!******************************!
+<T>You must believe me, Professor.
+Deep down, Clive is a kind, gentle
+person.
+!******************************!
+<T>I know what it looks like, but he's
+not a cold-hearted criminal.
+!******************************!
+<T>I know. I'll do my best to put an
+end to this and bring him back.
+!******************************!
+<T>Thank you, Professor.<W> We'll stay
+here and help everyone out.
+!******************************!
+<T>Professor, don't let Clive do this.
+You've got to stop him before he
+goes any further.
+!******************************!

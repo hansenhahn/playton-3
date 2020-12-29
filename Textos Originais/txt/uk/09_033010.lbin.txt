@@ -1,0 +1,50 @@
+<V0010><T><A4/1>Layton has been my arch-nemesis
+ever since that fateful day!</V>
+!******************************!
+<V0020><T>I see...</V>
+!******************************!
+<V0030><T><A4/2>Yes, though it's worth mentioning
+that I had no inkling of Paul's
+crush until he told me himself.</V>
+!******************************!
+<V0040><T>He was in the year above me at
+university.</V>
+!******************************!
+<T><V0041>Imagine my surprise when I learned
+that Don Paolo was none other
+than my old classmate Paul.</V>
+!******************************!
+<V0050><T><A4/4>I had no idea you'd been through
+so much. Sorry for being so mean
+to you, um, Paul.</V>
+!******************************!
+<V0060><T><A2/3>Ugh. Spare me your sappy sympathy.
+<A5/2>And my name is Don Paolo. Address
+me as such, boy!</V>
+!******************************!
+<V0070><T><A1/2>Anyway, you put on quite the
+performance, er, Don Paolo.</V>
+!******************************!
+<V0080><T>With you distracting Dimitri, I
+had just enough time to do some
+sleuthing in the area.</V>
+!******************************!
+<V0090><T><A3/2>So, that's what you were doing while
+we were climbing the pagoda! Did
+you find anything?</V>
+!******************************!
+<V0100><T>Yes, but I need to confirm a few
+facts before I can connect all the
+dots.</V>
+!******************************!
+<V0110><T>Then it sounds like that should
+be our next move. Where to,
+Professor?</V>
+!******************************!
+<V0120><T><A1/2>Oh ho ho! I'll let you ponder that
+for yourself.</V>
+!******************************!
+<V0130><T><A2/1>But first, we should head back to
+the hotel. Flora and the other Luke
+are waiting for us there.</V>
+!******************************!

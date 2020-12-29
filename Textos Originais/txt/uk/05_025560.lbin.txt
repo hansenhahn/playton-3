@@ -1,0 +1,100 @@
+<T>Well, Layton, did your investigation
+bear any fruit?
+!******************************!
+<T><A1/2>It did indeed!
+!******************************!
+<T><A1/1>But before I explain, please allow
+me a few questions.
+!******************************!
+<T>Inspector, were you involved in the
+investigation into the explosion at
+that institute 10 years ago?
+!******************************!
+<T><A1/5>Yes... Ages ago, it was. I remember
+I had just been promoted to
+sergeant.
+!******************************!
+<T>I see.<W> And do you remember the
+names of the scientists thought
+to have caused the explosion?
+!******************************!
+<T><A2/1>Let me think...<W> Ah, it's coming back
+to me now. One was called Allen...<W>
+Dr Dimitri Allen.
+!******************************!
+<T>Weren't there two scientists
+implicated?<W> Do you remember the
+second scientist's name?
+!******************************!
+<T><A2/6>Erm... It WAS quite a long time ago,
+you know.
+!******************************!
+<T>I see you're having some difficulty
+remembering.
+!******************************!
+<T><A1/1><K>Hmph.
+!******************************!
+<T>Well then, what about the victims?
+Do you remember anything about
+them?
+!******************************!
+<T><A1/5>The explosion caused substantial
+damage to the area and destroyed
+a nearby block of flats.
+!******************************!
+<T>Several of the building's tenants
+perished in the explosion, as well
+as one of the lab assistants.
+!******************************!
+<T>Strangely enough, though, I think
+that both the scientists involved
+in the experiment survived.
+!******************************!
+<T><A4/1>That was very informative.
+Thank you, Inspector.
+!******************************!
+<T><A2/1>Right, now I've got a few questions
+of my own.
+!******************************!
+<T>How do you think this old case
+relates to my current one?
+!******************************!
+<T>This is just a theory...
+!******************************!
+<T>But I think the prime minister is
+being held somewhere beyond
+the influence of Scotland Yard.
+!******************************!
+<T><A1/1>Do you mean to say he's being
+held in another country?
+!******************************!
+<T>You may find what I'm about to
+tell you hard to believe...
+!******************************!
+<T><J54>But I think Bill Hawks is being
+held captive in the future.<Q><K></J>
+!******************************!
+<T><A2/5>If this is your idea of a joke,
+Layton, I'm not laughing!
+!******************************!
+<T><A1/2>I can understand your scepticism...
+Well, thank you for all your help
+today, Inspector.
+!******************************!
+<T>Should I learn anything else about 
+the prime minister's whereabouts,
+you will be the first to know.
+!******************************!
+<T>Come now, Luke. Let's be off.
+!******************************!
+<T><A5/0>Now wait right there! <A3/1>We had a
+deal! Surely you've got more for
+me than that far-fetched theory.
+!******************************!
+<T>Inspector, I've told you as much
+as I know at the moment.<W> Now,
+please excuse us.
+!******************************!
+<T><A2/1>The future, you say? Are you
+talking in riddles?
+!******************************!

@@ -1,0 +1,37 @@
+<T>Hello Constable. Fancy seeing you
+here!
+!******************************!
+<T><A3/0>Oh, hello.<A2/1> I've been all over
+town gathering information, you
+know.
+!******************************!
+<T>But all that walking has put me in
+the mood for a snack.
+!******************************!
+<T><A2/2>So that's why you were peeking
+through the restaurant window!
+!******************************!
+<T>Yes. I must confess that a lovely
+wobbly jelly caught my eye.
+!******************************!
+<T>Do a hungry man a favour and keep
+my little break a secret from the
+inspector, won't you?
+!******************************!
+<T><A1/2>Ha ha! I wouldn't dream of reporting
+you, my good man. But now that you
+mention it, where is the inspector?
+!******************************!
+<T><A1/1>He's been conducting a series
+of exhaustive interviews with
+everyone he meets in town.
+!******************************!
+<T>Once he finds a useful source, he
+really knows how to wring out
+every last detail.
+!******************************!
+<T><A1/1>I bet...
+!******************************!
+<T>I'd like to submit a request for a
+snack break.
+!******************************!

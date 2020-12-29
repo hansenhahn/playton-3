@@ -1,0 +1,20 @@
+<T>Say, have you seen Luke around
+here?
+!******************************!
+<T>Bzzzz bzzzzzzz bzzzzz. Bzz bzzzzzz
+bzzzz bzzzzzz. Bzz bzz bzzzzzzzzzz.
+!******************************!
+<T><A3/1>It doesn't look as though Luke is
+here. Let's search elsewhere, shall
+we?
+!******************************!
+<T><A1/2>All right, Professor.
+!******************************!
+<T><A1/3>Luke? He's over by the statue in
+the brick courtyard!<W> Hey! HEY!<W>
+Are they even listening?
+!******************************!
+<T>They can't understand a word I'm
+saying, can they? And now they've
+buzzed off. Bah! Honey-grabbers!
+!******************************!

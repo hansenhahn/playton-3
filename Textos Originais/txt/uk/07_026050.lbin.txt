@@ -1,0 +1,44 @@
+<T>What's up, fellas?
+!******************************!
+<T>You don't happen to know anything
+about the man who owns the
+Towering Pagoda, do you?
+!******************************!
+<T><A1/5>Course I do, mate. Everyone does.
+That fella's bad news.<W> Proper bad.
+!******************************!
+<T>What do you mean by that?
+!******************************!
+<T><A2/4>Well...you know.
+!******************************!
+<T>He's got a bunch of thugs working
+for him.<W> <A2/5>And they're, like, thug's
+thugs, if you know what I mean.
+!******************************!
+<T>That means their boss has gotta
+be a real piece of work.
+!******************************!
+<T>I see.
+!******************************!
+<T>His gang's got the whole area
+scared. Most people don't go out
+much.
+!******************************!
+<T>Maybe that's why puzzles are so
+popular.<W> <A2/1>Here's one of the
+latest hits.
+!******************************!
+<T>And there I was, thinking you were
+gonna impress me. What a let-down!
+!******************************!
+<T>What is it?<W> Oh, that puzzle?
+All right, I'll run it by you again.
+!******************************!
+<T><A1/2>Good skills, mate.
+!******************************!
+<T><A1/5>By the way...<W>I'd stay away from the
+Towering Pagoda if I were you.
+!******************************!
+<T>The Towering Pagoda?<W> That place is
+proper dangerous!
+!******************************!

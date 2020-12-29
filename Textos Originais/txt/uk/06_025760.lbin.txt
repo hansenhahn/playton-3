@@ -1,0 +1,41 @@
+<T>Hey, want to hear a juicy rumour?
+!******************************!
+<T>Of course we do! Are you going to
+tell us?
+!******************************!
+<T>BZZT!<W> Sorry, I can only share this
+rumour with people who solve my
+puzzle.
+!******************************!
+<T>BZZT!<W> Looks like you'll have to go
+rumourless for today.
+!******************************!
+<T>Want to hear a juicy rumour?<W>
+Then solve my puzzle!
+!******************************!
+<T>DING DING DING!<W> Correct!<W> Now I'll
+tell you about the fabulous prize
+you just won.
+!******************************!
+<T>Let me guess. You're going to tell
+us that rumour?
+!******************************!
+<T>DING DING DING!<W> Correct!<W> I've been
+hearing talk about an amazing
+parrot.
+!******************************!
+<T>A parrot, eh?
+!******************************!
+<T>DING DING DING!<W> Correct!
+!******************************!
+<T>Not only can this parrot talk, he
+can copy sounds perfectly!
+!******************************!
+<T>That sounds an awful lot like
+<N1>...
+!******************************!
+<T>You mean you know this famous
+parrot?! Wow!
+!******************************!
+<T>How's your parrot friend doing?
+!******************************!

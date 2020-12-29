@@ -1,0 +1,57 @@
+<T>You're looking for a clock shop,
+you say?<W><A3/5> Hmm. Nah, can't say I
+know of one around here. 
+!******************************!
+<T>All right. Well, thanks anyway.
+!******************************!
+<T><A1/1>Oh, wait a minute! <W>On second
+thoughts, I think I passed a clock
+shop just the other day.
+!******************************!
+<T><A3/1>Terrific! Do you remember where
+it was?
+!******************************!
+<T><A3/5>Hmm... That I'm not sure of.
+!******************************!
+<T>I have trouble remembering stuff
+when I have other things on my
+mind...
+!******************************!
+<T>Help me with this puzzle that's been
+bothering me and I might be able to
+remember where I saw that shop.
+!******************************!
+<T><A3/2>You're in luck, sir! I happen to be
+a bit of a whizz when it comes to
+puzzles!
+!******************************!
+<T><A4/6>Yeah, until that puzzle gets solved,
+I don't think I'll be able to
+remember a thing.
+!******************************!
+<T><A2/2>This puzzle's demanding all my
+attention. Solve it for me so I can
+remember where that clock shop is.
+!******************************!
+<T><A4/6>Hey, nice going, kiddo.
+!******************************!
+<T>Thanks. So, about that clock
+shop...
+!******************************!
+<T><A2/2>Right, the clock shop. It's
+somewhere on this road...I think.
+<W><A1/1>Well, got to dash! See you later!
+!******************************!
+<T><A4/4>Wait!<W> Oh. He ran off.
+!******************************!
+<T>Ha ha ha! Something tells me he was
+more interested in getting us to
+solve his puzzle than in helping us.
+!******************************!
+<T><A3/2>Not to worry, though. I'm sure
+we'll be able to find the clock shop
+on our own.
+!******************************!
+<T>It's probably just a bit further
+down this road.
+!******************************!

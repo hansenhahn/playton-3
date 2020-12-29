@@ -1,0 +1,52 @@
+<T>Psst. Oi oi, you two, look sharp.
+Ye've got a lost look about ya.
+Do ya know where ye are?
+!******************************!
+<T>I must confess we do not. It's our
+first time in this area.
+!******************************!
+<T>Listen. I could be wrong, but it
+looks like you two are a couple
+of fine, upstandin' citizens.
+!******************************!
+<T>I'm a nice fella, so I'll clue ye in.
+Yer standin' right in the middle of
+the black market bazaar.
+!******************************!
+<T>Black market?!<W> <A1/6>Wow!
+!******************************!
+<T>Wow is right, sonny. We sell a lot of
+dodgy stuff out here and no one
+questions where it comes from.
+!******************************!
+<T>If it was me in those shiny loafers
+of yours, I'd keep me head down
+and leg it, quick as I could.
+!******************************!
+<T><A4/1>That would seem prudent indeed.
+!******************************!
+<T><A1/1>Before we go, though, I've got a
+question. Why do people come all
+the way out here to shop?
+!******************************!
+<T><A1/2>Listen, son. The things for sale
+here... Let's just say ya won't
+find them at the local corner shop.
+!******************************!
+<T>But come to the bazaar and who
+can say what treasures ye'll find?
+!******************************!
+<T><A2/1>Oh, I suppose you mean antiques
+and other rare items?
+!******************************!
+<T>I think we've asked enough
+questions for one day, Luke.
+Let's move on, shall we?
+!******************************!
+<T>You two be careful! Oh and if yer
+ever in the market for somethin'...
+hard to find, swing by.
+!******************************!
+<T>You two still hoverin' around here?
+I'd get goin' if I was you.
+!******************************!

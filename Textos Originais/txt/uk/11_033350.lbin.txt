@@ -1,0 +1,30 @@
+<T>Okay, everyone, the coast is clear.
+Come on down.
+!******************************!
+<T><A4/5>Ah, this looks like your classic
+underground passageway for
+transporting research materials.
+!******************************!
+<T>I'll bet you anything that this
+tunnel leads all the way back out
+to the Thames.
+!******************************!
+<T>You sound awfully sure about that.
+!******************************!
+<T><A5/2>Pfeh! Remember who you're talking
+to, boy.
+!******************************!
+<T>Nobody does secret research like
+Don Paolo!
+!******************************!
+<T>I suppose everyone's got to have
+a hobby...
+!******************************!
+<T>Oh my...
+!******************************!
+<T>What is it?
+!******************************!
+<T><A3/1>The materials they have here.
+They look like...<W> No. No, I
+must be mistaken. Never mind.
+!******************************!

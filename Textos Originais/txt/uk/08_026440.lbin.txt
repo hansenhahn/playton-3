@@ -1,0 +1,9 @@
+<T>What a quaint little restaurant.
+!******************************!
+<T>Hey, look at the sign. It seems
+we've found the Thames Arms.
+!******************************!
+<T>Indeed, and it seems to be both open
+and inviting. What say we step inside
+and have a look around?
+!******************************!

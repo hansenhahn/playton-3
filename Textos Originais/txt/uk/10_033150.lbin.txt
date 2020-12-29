@@ -1,0 +1,19 @@
+<T>Hello, Paillard. Could you tell me if
+young Luke has been here recently?
+!******************************!
+<T>The little fella with the rumbling
+tummy? Har har! No, I haven't seen
+him.
+!******************************!
+<T>Oh dear.<W> He's been missing for some
+time and I haven't had much success
+in finding him.
+!******************************!
+<T>Poor lad. Maybe he got lost while
+wandering about town.
+!******************************!
+<T>If he comes by, let him know I'm
+looking for him, will you?
+!******************************!
+<T>Of course. 
+!******************************!

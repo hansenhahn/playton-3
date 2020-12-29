@@ -1,0 +1,46 @@
+<T>Oh, hello sir.
+!******************************!
+<T>AUGH!<W> Please don't sneak up on me
+like that!
+!******************************!
+<T>Sorry! It's just that I noticed
+your shoes were soaked and-
+!******************************!
+<T>So what? Wet shoes are the least
+of my worries right now.
+!******************************!
+<T>Oh? What seems to be the problem?
+!******************************!
+<T><A2/4>I arranged to meet my friend here,
+but I think there's been some
+confusion about the time...
+!******************************!
+<T>Sorry. That was probably quite
+hard to wrap your head around.
+!******************************!
+<T>I'm a scientist, you see. I tend to
+explain things in complex ways.
+!******************************!
+<T>Can you help me with this puzzle?
+!******************************!
+<T>Ah, now it all makes sense!
+!******************************!
+<T><A1/2>I'm glad everything has been
+cleared up.
+!******************************!
+<T>Oh yes. As a scientist, it's clear
+to me that you've got a real knack
+for critical thinking.
+!******************************!
+<T><A4/2>I'll say! He's the most acclaimed
+professor of archaeology in
+the country!
+!******************************!
+<T>Ah, that'd explain it.<W> Anyway, you
+have my thanks, Professor.
+!******************************!
+<T>I'm glad I could be of assistance.
+!******************************!
+<T>Hello, Professor. I saw you coming
+this time. That's why I didn't jump.
+!******************************!

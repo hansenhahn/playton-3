@@ -1,0 +1,23 @@
+<T><A1/1>Bom dia, Freunden. Could you do moi
+ein favour and solve a puzzle?
+!******************************!
+<T><A1/5>I simply can't return to my tour
+of el mundo until you solve mein
+puzzle.
+!******************************!
+<T>Por favor, amigos. Solve this
+for me?
+!******************************!
+<T><A1/1>Magnifique! With that solved, I'm
+ready to return to my travels.
+!******************************!
+<T>Arrivederci,<A3/1> and happy travels
+wherever you go.
+!******************************!
+<T><A4/1>I've never met anyone as good at
+getting lost as you. How did you
+even make it here to begin with?
+!******************************!
+<T>Just which way must I venture in
+order to get to Rome?
+!******************************!

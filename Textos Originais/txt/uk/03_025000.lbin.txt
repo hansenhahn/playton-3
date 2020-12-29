@@ -1,0 +1,39 @@
+<K><T>Hmm...
+!******************************!
+<T>Did you see that, Professor? That
+was the same woman we saw earlier,
+wasn't it?
+!******************************!
+<T>I... I suppose it was.
+!******************************!
+<T>You seem distracted, Professor.
+Are you all right?
+!******************************!
+<T>What's that?<W> Oh, I'm fine, Luke.
+Absolutely fine.
+!******************************!
+<T>If you say so, Professor.<W> Hey
+look, I bet these are the stairs
+Shipley mentioned.
+!******************************!
+<T><A4/5>I could've sworn that was Claire.<W>
+But that's impossible...
+!******************************!
+<T>Word has it that the prime minister
+who disappeared 10 years ago is
+being held up there too.
+!******************************!
+<T><A3/1>Perhaps that's what happened when
+the prime minister was abducted 10
+years ago...
+!******************************!
+<T>Perhaps he was sent to the future,
+as we were...<W> What if all this talk
+of time travel is real?
+!******************************!
+<T>If so, then maybe that really was
+Claire...
+!******************************!
+<T>No! It defies all logic. Claire can't
+be here. Not after that day...
+!******************************!

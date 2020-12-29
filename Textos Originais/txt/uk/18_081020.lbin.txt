@@ -1,0 +1,9 @@
+<T>Oh, is this a hidden puzzle?
+!******************************!
+<T><A1/5>Hmm, this one's going to take a
+little more thought...
+!******************************!
+<T>I'm sure I'll get it this time!
+!******************************!
+<T><A4/2>Done and...<W> Done!
+!******************************!

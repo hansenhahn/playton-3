@@ -1,0 +1,27 @@
+<T>Excuse me, sir. Have you happened
+to see my young friend around
+here? You know, the puzzle-lover?
+!******************************!
+<T>Oh, that boy? No, he hasn't been
+through here.
+!******************************!
+<T>It's the strangest thing. He just
+ran off and I haven't seen him
+since.
+!******************************!
+<T>He's too old to be getting lost.
+!******************************!
+<T>I hate to burst your bubble, but
+you should realise that anyone can
+get lost, and at any age.
+!******************************!
+<T>I read about this sort of thing all
+the time in the papers. <A3/1>Look-
+!******************************!
+<T><A3/1>Yes, well I'd best get back to
+searching. If you see my friend, let
+him know I'm looking for him.
+!******************************!
+<T>Of course. I hope you find him 
+soon.
+!******************************!

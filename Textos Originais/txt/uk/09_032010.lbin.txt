@@ -1,0 +1,25 @@
+<V0010><T><A3/5>This is getting far too complicated.</V>
+!******************************!
+<V0020><T><A1/6>Yeah, what's going on?</V>
+!******************************!
+<V0030><T><A2/2>Take note, Luke. A true gentleman
+never plays his ace in the hole until
+absolutely necessary.</V>
+!******************************!
+<V0040><T><A2/3>Hey, Layton, here's an idea for
+you. Why don't you quit it with the
+lectures and get me out of here?</V>
+!******************************!
+<V0050><T><A1/3>Help us, Professor!</V>
+!******************************!
+<V0060><T><A3/1>Be patient, Luke. I just need to
+find a way past this lock.</V>
+!******************************!
+<T>Odd. I was certain that I had the
+answer.
+!******************************!
+<T>Professor, you've got to get us
+out of here!
+!******************************!
+<T>This time I've got it for sure.
+!******************************!

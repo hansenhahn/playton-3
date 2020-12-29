@@ -1,0 +1,17 @@
+<T>Luke, do you remember the secret
+knock that Big Luke used when we
+entered the clock shop last time?
+!******************************!
+<T><A3/2>Of course! Allow me, Professor.
+!******************************!
+<T>Come on in!
+!******************************!
+<T>Welcome back, Professor.
+!******************************!
+<T>Sorry to keep you waiting.<W> Where is
+Cogg, by the way?
+!******************************!
+<T>Oh, same place as always. In the
+back, tinkering with that big clock.
+<A1/5>Tee hee hoo.
+!******************************!

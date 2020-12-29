@@ -1,0 +1,25 @@
+<T><A2/1>Perfect timing, fellows! We just
+finished the mural!
+!******************************!
+<T><A1/2>Oh great!<W> Wow, that's a real work
+of art!
+!******************************!
+<T><A1/1>Thanks! I'll be sure to pass on the
+praise to all the young artists who
+helped create it!
+!******************************!
+<T><A4/2>Don't forget to give yourself a
+pat on the back while you're at it!
+!******************************!
+<T>You may not have painted it, but
+you still put a lot of effort into
+that mural, Slate!
+!******************************!
+<T><A3/2>Heh heh! Thanks!<W> It's not going
+anywhere, so come and have a look
+at it any time you like.
+!******************************!
+The mural is finished! It's a
+beautiful work of art unrivalled
+in all of London.
+!******************************!

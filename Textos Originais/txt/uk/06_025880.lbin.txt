@@ -1,0 +1,155 @@
+<T>Thank you for meeting me here.
+I know it's out of your way.
+!******************************!
+<T>I wanted to make sure you weren't
+followed, and this place offers a
+good view of anyone approaching.
+!******************************!
+<T>Now then, have you made any
+progress in your investigation?
+!******************************!
+<T>We've encountered some unexpected
+turns, but on the whole, it's going
+well.
+!******************************!
+<T>I can't believe I'm meeting Luke
+from the future!
+!******************************!
+<T><A1/1>Eh?
+!******************************!
+<T>Oh, Flora! It's you!
+!******************************!
+<T><A2/2>I didn't recognise you for a moment
+there...
+!******************************!
+<T><A2/4>You'll have to forgive me. This is
+all a bit unexpected.
+!******************************!
+<T>It's nice to know that some things
+never change. I see you're still
+easily flustered. Hee hee!
+!******************************!
+<T><A2/5>You're one to talk, Flora! As I
+recall, you go bright pink at the
+drop of a hat!
+!******************************!
+<T>But it's good to see you anyway.
+You look well.
+!******************************!
+<T>Flora's presence here is one of the
+unexpected turns I mentioned.
+!******************************!
+<T>Inspector Chelmey and Barton are
+here as well.
+!******************************!
+<T>Well, I'm not too surprised by the
+inspector's arrival. That man lives
+for police work.
+!******************************!
+<T>Are you saying you expected him
+to tail us back here?
+!******************************!
+<T><A3/2>Expected? No. But I acknowledged
+it as a possibility.
+!******************************!
+<T><A4/2>Anyway, we really need to discuss
+how we're going to get into
+Chinatown.
+!******************************!
+<T><A4/3>We haven't a chance of getting
+through unless we get those
+guards to leave the gate.
+!******************************!
+<T>You've found a way to lure them
+away, haven't you?
+!******************************!
+<T><A1/1>Yes. See, the guards don't hang
+around that area all the time.
+!******************************!
+<T>They only man their positions
+when Layton tells them to.
+!******************************!
+<T>In other words, my future self has
+some reason to post watchmen
+there now.
+!******************************!
+<T><A1/4>I must confess that may be my
+fault.
+!******************************!
+<T>I've been doing a lot of
+reconnaissance in the area
+and may have been spotted.
+!******************************!
+<T><A1/1>But the crucial point to remember
+is that the guards will leave their
+posts if their boss tells them to.
+!******************************!
+<T>I see. But how do we get my future
+self to issue that order?
+!******************************!
+<T>Fortunately, your future self
+almost never interacts directly
+with the low-level grunts.
+!******************************!
+<T>He has his lieutenant, Bostro, give
+out the orders instead.
+!******************************!
+<T>I'm sure you remember him. He was
+that mountain of a man commanding
+the thugs at the casino.
+!******************************!
+<T>Ah, yes. I know who you're talking
+about.
+!******************************!
+<T>If the thugs by the gate hear
+Bostro telling them to {''}get lost{''},
+I'm sure they'll leave their posts.
+!******************************!
+<T><A3/2>Then all we need to do is record
+Bostro's voice and play it back
+for the guards.
+!******************************!
+<T>Well done, Little Luke.<W> But have you
+thought of how to reproduce
+Bostro's voice? 
+!******************************!
+<T><A2/2><K>Hmmm...
+!******************************!
+<T>I seem to remember you picking up
+a new friend near the river who
+boasts impressive vocal talents...
+!******************************!
+<T><A1/6>Of course! You mean <N1>!
+We can get him to mimic Bostro's
+voice!
+!******************************!
+<T><A2/4>That's the idea. So how do we get 
+<N1> to learn how to
+say {''}get lost{''} in Bostro's voice?
+!******************************!
+<T>That could prove quite difficult.
+!******************************!
+<T><A2/2>Not really. {''}Get lost!{''} is something
+of a catchphrase for Bostro.
+He's always shouting it.
+!******************************!
+<T>I've spent quite a few afternoons
+spying on the man. He uses it at
+least a dozen times a day.
+!******************************!
+<T><A1/1>It's not a very nice thing to say.
+!******************************!
+<T>Well, he's not a very nice fellow, as
+you may have noticed.
+!******************************!
+<T>That catchphrase is our ticket into
+Chinatown. We should start looking
+for him immediately.
+!******************************!
+<T>Excellent. Bostro's likely to be
+lurking somewhere in the vicinity
+of the casino.
+!******************************!
+<T>We'll need to be cautious, but I say
+we start searching for him there.
+!******************************!

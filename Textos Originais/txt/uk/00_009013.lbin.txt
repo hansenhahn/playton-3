@@ -1,0 +1,8 @@
+<T><A2/0>Hey, you two! Don't go rushing off!
+I've got things to tell you!<W>
+Important things!
+!******************************!
+<T><A1/3>Hmph!<W> Didn't anyone ever teach you
+any manners?<W> You can't just walk
+off when I'm mid-lecture!
+!******************************!

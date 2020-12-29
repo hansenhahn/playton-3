@@ -1,0 +1,35 @@
+<T><J54><A6/2>About time!<W> I'm glad to see you had
+enough brains to solve your way
+through my puzzle.<Q><K></J>
+!******************************!
+<T>Oh, hi there, Don Paolo.
+!******************************!
+<T><A2/3>{''}Hi there, Don Paolo{''}?!
+!******************************!
+<T>I'm lurking in the shadows here, boy!
+At least pretend to be startled, will
+you?
+!******************************!
+<T>How did you manage to get across
+the Thames ahead of us, Paul?
+!******************************!
+<T><A7/0>Nyeh heh heh.<A6/2> Let me tell you a little
+something about being a true
+gentleman, Layton.
+!******************************!
+<T>True gentlemen keep their secrets.<W>
+So don't think I'll be sharing them
+with you!
+!******************************!
+<T>You probably just used that ropey
+flying machine of yours to-
+!******************************!
+<T><A1/1>It's not {''}ropey{''}, and I thought I'd
+made myself clear: the matter is not
+open for discussion.
+!******************************!
+<T>Tsk. Nosy brat.
+!******************************!
+<T>Very well, Paul.<W> Now then, everyone,
+let's push on.
+!******************************!

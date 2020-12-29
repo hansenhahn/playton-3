@@ -1,0 +1,22 @@
+<T>HA! I knew you couldn't hide from
+me!
+!******************************!
+<T><A1/3>Oh no! We've been spotted again!
+!******************************!
+<T><A4/2>Relax, Luke. There's little he can
+do from behind that monitor.<W> Now,
+let's go to the surveillance room.
+!******************************!
+<T>Pfeh! Shows what you know! You
+need the key code to go to the
+surveillance room, fools!
+!******************************!
+<T>You ain't going nowhere without
+that!
+!******************************!
+<T>We'll be sure to decipher the
+key code beforehand, then.<W>
+Thanks for the tip.
+!******************************!
+<T>You're welco-<W> Oi!
+!******************************!

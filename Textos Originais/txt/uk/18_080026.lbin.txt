@@ -1,0 +1,36 @@
+<T>Aw man...
+!******************************!
+<T>Why the long face, sir?
+!******************************!
+<T>Bostro just gave me an earful for
+loafin' on the job. A cardboard
+cut-out could do better, he said.
+!******************************!
+<T>Some leader, eh? I re-<W> Hey! <A5/1>Why am
+I spillin' Family secrets to you?
+!******************************!
+<T>Erm... I'm not sure.
+!******************************!
+<T>Oooh! Think you're brainy, gettin'
+me to fess up and tell the truth,
+do you?
+!******************************!
+<T>You won't look so clever when my
+puzzle stumps you, short stuff!<W>
+Spot the liar!
+!******************************!
+<T><A1/1>Ha! Don't feel so clever now, do
+you?
+!******************************!
+<T><A1/1>Think you can solve my puzzle this
+time, do you? Pfeh! I'll believe
+that when I see it!
+!******************************!
+<T>Wow. That dozy expression of
+yours had me fooled. You're
+brighter than you look!
+!******************************!
+<T><A5/1>Stop hasslin' me! I have to at
+least look like I'm workin', you
+know.
+!******************************!

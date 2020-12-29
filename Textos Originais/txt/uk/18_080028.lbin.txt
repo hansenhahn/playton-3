@@ -1,0 +1,19 @@
+<T><A4/1>You know, this statue here-
+!******************************!
+<T><A2/2>Reminds you of a puzzle?
+!******************************!
+<T><A1/2>Precisely.<W> Here, give this one a try.
+!******************************!
+<T><A3/1>Hmm. This one's going to take some
+real thinking.
+!******************************!
+<T><A1/2>Ready to give this one another go,
+Luke?
+!******************************!
+<T><A4/2>Wonderful work. You're really
+getting quite good at this, Luke.
+!******************************!
+<T><A3/2>The two people in that statue
+really do look an awful lot like
+you and me, Professor.
+!******************************!

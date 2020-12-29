@@ -1,0 +1,75 @@
+<T>Hello there, young lady.
+!******************************!
+<T><A5/1>Oh, hello there sir.
+!******************************!
+<T><A3/1>Hiya!
+!******************************!
+<T>And hiya to you too!
+!******************************!
+<T><A2/1>Ooh, wasn't that wonderful? I do
+enjoy a nice round of greetings,
+don't you?
+!******************************!
+<T><A3/2>Well, you'll always get a proper
+greeting from us - that's what
+gentlemen do!
+!******************************!
+<T>Ooh, the world would be a nicer place
+if more people were like you two.
+!******************************!
+<T>People around here are so... What's
+the word? Uncouth? That's what
+Mother calls Londoners.
+!******************************!
+<T>Oh? Do you live around here?
+!******************************!
+<T>I do. Father moved out here and
+brought Mother and me along.
+!******************************!
+<T><A2/3>But I think the move was a rather
+terrible idea.
+!******************************!
+<T>Father hardly ever comes home
+these days, and it's putting Mother
+in a terrible mood...
+!******************************!
+<T><A4/1>What kind of work is he doing
+that keeps him there all the time?
+!******************************!
+<T>I've no idea!<W><A4/3> All I know is that I'm
+never going to become a mechanical
+engineer, or marry one!
+!******************************!
+<T>So your father's an engineer?
+!******************************!
+<T><A5/3>That's right. Father moved us here
+after somebody bought his old
+company.
+!******************************!
+<T>Isn't that amazing? Can you imagine
+buying an entire company? You'd
+have to be ever so rich!
+!******************************!
+<T>You certainly would.
+!******************************!
+<T><A1/1>You know, Father told me a great
+puzzle about a rich man once...
+!******************************!
+<T>Has my puzzle got you stumped?
+!******************************!
+<T>For now. I think my brain needs
+a break.<W> But I'll be back!
+A true gentleman perseveres!
+!******************************!
+<T>Would you like to try my puzzle
+again? Mmm... All right then!
+!******************************!
+<T>Oh! You got it. Jolly good!
+!******************************!
+<T>Thank you! As an aspiring gentleman,
+I do my best to solve any puzzle
+that comes my way!
+!******************************!
+<T>Hello there Mr Gentlemen. How are
+things?
+!******************************!

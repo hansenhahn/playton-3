@@ -1,0 +1,37 @@
+<T><A2/4>What was she thinking...?
+!******************************!
+<T><A3/1>Is something the matter?
+!******************************!
+<T><A1/5>Yeah. I'm supposed to go to my
+friend's house today, but I don't
+know where it is.
+!******************************!
+<T>Her instructions make no sense at
+all. They're absolute gibberish.<W>
+Here, have a look.
+!******************************!
+<T><A2/4>Nope, that won't do it.
+!******************************!
+<T><A1/5>Hey, give me a hand with this will
+you? I'm completely stuck here.
+!******************************!
+<T><A1/1>Hey, well done.<W> Recently I've been
+playing with my friend, like, every
+day.
+!******************************!
+<T><A2/5>My dad's never home and neither
+are her parents.
+!******************************!
+<T>They all stay cooped up at the
+research facility, day and night.
+!******************************!
+<T><A1/1>So your father is a researcher?
+!******************************!
+<T><A3/1>Him and almost everyone else in this
+part of town.
+!******************************!
+<T>Interesting...
+!******************************!
+<T><A1/1>Hey there. Out for a stroll or
+something?
+!******************************!

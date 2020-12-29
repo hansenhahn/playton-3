@@ -1,0 +1,15 @@
+<T>Let's see how you handle this puzzle.
+!******************************!
+<T>Hmm, this one isn't going down
+without a fight, is it?
+!******************************!
+<T>That's the spirit! Now let's return
+to the puzzle.
+!******************************!
+<T><A1/2>Very nicely done. I don't think I
+could have done any better myself.
+!******************************!
+<T><A1/2>Back with this puzzle again? Well,
+just think of it as reuniting with
+an old friend.
+!******************************!

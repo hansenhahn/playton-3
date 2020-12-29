@@ -1,0 +1,85 @@
+<T>Heya, Professor L. Where are you
+rushing off to now?
+!******************************!
+<T><A1/5>We don't have time to talk!
+We're in the middle of an important
+investigation!
+!******************************!
+<T>I wasn't talking to you, shorty.
+Well, Professor L?
+!******************************!
+<T>We are indeed following a lead in
+our investigation.
+!******************************!
+<T><A2/2>Right, right... I don't suppose I
+could have a second of your time
+before you head off, though?
+!******************************!
+<T>Didn't you hear the professor?
+We're in a hurry!
+!******************************!
+<T>Listen, pipsqueak, you might think
+you're the professor's spokesman,
+but, um,<W> YOU AREN'T!
+!******************************!
+<T><A1/3>D-did you just call me {''}pipsqueak{''}?!
+!******************************!
+<T>Now, Luke, calm yourself. There's
+always time for a lady's request.<W>
+What can I do for you, Rosetta?
+!******************************!
+<T><A1/1>Heh heh! I knew you wouldn't let me
+down, Professor L.
+!******************************!
+<T>I've got this puzzle I just can't
+get my head around, you see. Won't
+you help a damsel in distress?
+!******************************!
+<T><A1/2>A puzzle, you say?<W> I think we may
+be able to offer some assistance.
+Let's have a look.
+!******************************!
+<T><A1/5>If all you wanted was some help
+with a puzzle, you should've just
+said so from the start...
+!******************************!
+<T>Can't solve it?<W> You must be tired,
+Professor L.
+!******************************!
+<T>Tell you what, why not come round
+to mine tonight, and we'll think it
+through together over dinner?
+!******************************!
+<T><A1/3>The professor's fully booked
+this evening!<W> And for the rest of
+the year, come to think of it!
+!******************************!
+<T>You will help me with this pesky
+puzzle, won't you, Professor L?
+!******************************!
+<T>Thank you sooo much, Professor L!
+Watching you in action always
+takes my breath away. Heh heh!
+!******************************!
+<T><A1/2>Think nothing of it, Rosetta.<W>
+I hope to see you next week. Be
+sure not to neglect your studies.
+!******************************!
+<T>Heh heh.<W> No worries, Professor L.
+I'm looking forward to our many
+hours of...private instruction.
+!******************************!
+<T>Oh, and make sure you leave your
+little friend at home next time
+we meet.
+!******************************!
+<T>He might distract me from my
+studies.
+!******************************!
+<T><A1/5>I shouldn't say bad things about
+your students, Professor, but she
+is definitely not top of my class!
+!******************************!
+<T>Hope to see you soon, Professor L.
+VERY soon. Heh heh!
+!******************************!

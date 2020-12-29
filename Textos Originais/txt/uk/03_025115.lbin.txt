@@ -1,0 +1,18 @@
+<T>Oh, you again. Back to visit
+someone else? Or are you feeling a
+bit under the weather?
+!******************************!
+<T>We're doing flu jabs now if you
+need one.
+!******************************!
+<T><A4/4>J-jabs?!<W> Oh no, I'm fit as a fiddle!
+Nope, no need to go poking at me
+with a needle!
+!******************************!
+<T>You sure? There's no waiting list,
+you know. You could have it done
+right now...
+!******************************!
+<T>P-Professor, I think our business
+here is finished! Let's go!
+!******************************!

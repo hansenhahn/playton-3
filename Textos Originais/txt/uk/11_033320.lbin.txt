@@ -1,0 +1,25 @@
+<T>I think we can squeeze through here!
+!******************************!
+<T>Hey look, you two. There's a
+message scrawled here.
+!******************************!
+<T>Oh? Where?
+!******************************!
+<T>Right there, on that little scrap of
+paper stuck on the wall. See it?
+!******************************!
+<T>Hmm, this is a tough one.
+!******************************!
+<T>Let me have another look at this.
+!******************************!
+<T>Ha! I did it! Who knows what would
+have happened to us if I hadn't
+solved that puzzle?!
+!******************************!
+<T><A4/2>Your help is greatly appreciated,
+Flora. I do wonder who could have
+left this message here, though.
+!******************************!
+<T>Who could have left this message
+here?
+!******************************!

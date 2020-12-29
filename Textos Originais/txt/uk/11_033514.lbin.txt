@@ -1,0 +1,72 @@
+<T>You're Claire's...younger sister?
+!******************************!
+<T><A3/5>You look exactly like her! It's
+uncanny...
+!******************************!
+<T><A1/1>We've crossed paths several times,
+haven't we?
+!******************************!
+<T>And yet it's strange. Claire never
+mentioned having a sister...
+!******************************!
+<T>It is my greatest regret that we
+spent the last years of her life
+estranged from each other.
+!******************************!
+<T>Forgive me for not getting in touch
+with you earlier, Professor.
+!******************************!
+<T>I wanted to, but I was afraid it
+might attract unwanted attention
+from the Family.
+!******************************!
+<T><A3/5>For your own safety, I decided it
+was best to avoid contact with you.
+!******************************!
+<T>I see.
+!******************************!
+<T><A5/5>You must have cared dearly for
+your sister to come to a place
+like this in search of the truth.
+!******************************!
+<T>Well, if I'm honest, I haven't been
+running my own investigation so
+much as tailing yours, Professor.
+!******************************!
+<T>But why?
+!******************************!
+<T><A2/2>Your reputation. Don't they say
+the great Professor Layton
+can solve any puzzle?
+!******************************!
+<T>I thought that if anyone could get
+to the bottom of what happened
+that day, it would be you.
+!******************************!
+<T>Celeste...<W> On the day of the
+explosion, I-</430>
+!******************************!
+<T><A2/6>Oh no! The Family will be here any
+second! We've got to run!
+!******************************!
+<T><A1/2>Ah, now's my time to shine! No one
+makes a grand escape like
+Don Paolo!
+!******************************!
+<T><A1/1>We can't move quickly in a big
+group like this. We need to split up.
+!******************************!
+<T><A1/1>I couldn't agree more. My dear
+Celeste, please allow me to
+personally escort you to safety.
+!******************************!
+<T>Layton, you take the kids!
+!******************************!
+<T>Celeste, wait! There's still so much
+we need to discuss!
+!******************************!
+<T>Aha! Found you!
+!******************************!
+<T>Professor, this city hides a secret
+so large it defies the imagination.
+!******************************!

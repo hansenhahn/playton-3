@@ -1,0 +1,48 @@
+<T>Good evening, sir.<W> May I see your
+membership card, please?
+!******************************!
+<T>Membership card?
+!******************************!
+<T><A1/2>The Gilded 7 Casino is a haven
+where society's finest ladies and
+gentlemen can gather.
+!******************************!
+<T>We check membership cards upon
+entry to ensure that less savoury
+types are kept out.
+!******************************!
+<T>Hmm... This is certainly the first
+I've heard of such a policy.
+!******************************!
+<T>I don't suppose you'd be willing
+to make an exception for us?
+!******************************!
+<T><A2/2>Well, your hat does show you to be
+a man of impeccable taste. Now we
+just need to test your intellect.
+!******************************!
+<T>If you can solve this puzzle, I'll let
+you in without a card - just this
+once, mind.
+!******************************!
+<T><A4/1>This fellow seems awfully focused
+on your hat as well.
+!******************************!
+<T>Naturally. Is there any greater
+proof of one's gentlemanly nature
+than a fine top hat?
+!******************************!
+<T><A2/1>Come now, sir. Don't tell me
+a gentleman of your calibre is
+incapable of solving a quick puzzle.
+!******************************!
+<T><A2/1>Back to try again, sir?<W> <A2/2>Perhaps
+you can find the correct answer
+this time.
+!******************************!
+<T><A1/1>Expertly solved, sir.
+!******************************!
+<T>You've certainly earned the right
+to enjoy our exclusive facilities.<W>
+<A1/2>Welcome to the Gilded 7.
+!******************************!

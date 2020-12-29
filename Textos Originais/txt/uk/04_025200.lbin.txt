@@ -1,0 +1,208 @@
+<T>I thought I heard voices out front.
+!******************************!
+<T>Nice to see you again, Professor
+and er...
+!******************************!
+<T><A3/2>Luke! The professor's apprentice!
+!******************************!
+<T><A2/1>Yes, yes, Luke, of course.
+!******************************!
+<T>Would you mind telling them about
+the wormhole and how it all
+started, Cogg?
+!******************************!
+<T>I think it would help to have
+everyone on the same page.
+!******************************!
+<T>It'd be my pleasure.<W> Now then, Luke!
+Erm...<W>the smaller Luke, that is.
+!******************************!
+<T><A3/1>Yes?
+!******************************!
+<T>Tell me, lad. What does this
+contraption behind me look like
+to you?
+!******************************!
+<T>A big, old clock.
+!******************************!
+<T>Right you are. By my estimate, this
+clock is well over a hundred years
+old.
+!******************************!
+<T>The old girl needs a lot of TLC to
+keep chugging along, so I spend
+quite a bit of time on maintenance.
+!******************************!
+<T>I was right in the middle of oiling
+her gears one day when two Family
+thugs burst in...
+!******************************!
+<T>Here we go. This has gotta be the
+place the boss was talkin' about.
+!******************************!
+<T>Too right. Hey, boss! There's a big
+clock here, just like you said. It's
+a proper antique, look!
+!******************************!
+<T><A1/1>Hey you! What do you think you're
+doing, barging into my shop? Get
+your hands off my clock!
+!******************************!
+<T>Shut it, you old codger! You don't
+tell us what to do. Don't you know
+who you're dealin' with?
+!******************************!
+<T>I'm dealing with a load of clods
+who won't get out of my shop!
+!******************************!
+<T><A3/3>I'd keep a civil tongue in my head
+if I were you, grandad.
+!******************************!
+<T>Now get outta the way! We've got a
+schedule to keep here.
+!******************************!
+<T><A4/0>What are you clowns waitin'
+for? Get to work!
+!******************************!
+<T><A2/3>If we don't get a move on, things
+won't be ready in time for
+you-know-who!
+!******************************!
+<T>Sorry boss, we're doin' our best,
+but grandad here's got his
+knickers in a twist.
+!******************************!
+<T>Then throw 'im out into the street,
+you numpty!
+!******************************!
+<T>Let me go, you villains!
+!******************************!
+<T>We're just gonna go for a little
+walk, all right, grandad?
+!******************************!
+<T>You keep your filthy hands off
+my clock! You hear me?
+!******************************!
+<T>We're just about on schedule.
+!******************************!
+<T>But we 'ave to wait until the exact
+time the boss said to turn this
+thing on.
+!******************************!
+<T><A2/1>That's all I heard before those
+brutes threw me out of my own shop.
+!******************************!
+<T>It wasn't until later that I found
+out what the thugs wanted from
+my little clock shop.
+!******************************!
+<T>See, the Family was funding the
+construction of a time machine
+by a group of scientists.
+!******************************!
+<T>I think the idea was to use it to
+create some kind of wormhole.
+!******************************!
+<T>But how could they do that?
+!******************************!
+<T>Search me. It was all mumbo-jumbo.
+Something about opening up a
+vortex in the flow of time.
+!******************************!
+<T>Anyway, things didn't go exactly to
+plan, for whatever reason.
+!******************************!
+<T>I see. So...somehow this hole in
+time appeared in this clock of
+yours.
+!******************************!
+<T>That's more or less it. This clock
+has been ticking away for over
+a hundred years.
+!******************************!
+<T>My guess is that something about
+the clock's age caused the warp
+point to gravitate to this spot.
+!******************************!
+<T>The wormhole, or whatever
+it's called, became a part of my
+clock.
+!******************************!
+<T>The thing is, I'm the only one who
+can keep the old girl running.
+!******************************!
+<T>Which means, like it or not, I'm the
+only person who can open and close
+the wormhole.
+!******************************!
+<T><A4/1>Wow, that's really weird!
+!******************************!
+<T>It's a burden, is what it is.
+!******************************!
+<T>Once the Family realised, they
+forced me to work the clock for
+them.
+!******************************!
+<T><A1/2>After a while, I caught wind of
+Cogg's situation.
+!******************************!
+<T>It goes without saying that he's
+not a member of the Family.
+!******************************!
+<T>In fact, the Family's been nothing
+but a source of trouble for him.
+!******************************!
+<T>It certainly sounds like it.
+!******************************!
+<T>So I approached Cogg and Spring
+and explained my plan to them.
+!******************************!
+<T>They agreed to help, and Cogg fired
+up the machine so that I could get
+my message to you.
+!******************************!
+<T>And upon receiving your letter, I
+let my curiosity take Luke and
+myself on a journey that led here.
+!******************************!
+<T>That's quite a plan you concocted,
+Big Luke.
+!******************************!
+<T><A1/1>Thank you... But it's about to get
+even more interesting.
+!******************************!
+<T><A4/1>Oh?
+!******************************!
+<T>Professor, with Cogg's help we can
+send you and Luke back to your own
+time.
+!******************************!
+<T>You'll be able to speak to Inspector
+Chelmey there.
+
+!******************************!
+<T><A1/4>But you will come back to put a
+stop to what's going on here when
+you've finished, won't you?
+!******************************!
+<T><A1/2>You of all people should know the
+answer to that question, Luke.
+!******************************!
+<T>I keep my promises and I intend
+to solve the problem here. It's
+what a gentleman would do.
+!******************************!
+<T>Thank you, Professor. That was
+exactly the answer I was hoping
+for.
+!******************************!
+<T>I wouldn't dream of leaving things
+here in this state.
+!******************************!
+<T>You said it yourself, Luke. The only
+one who can stop Hershel Layton is
+Hershel Layton himself.
+!******************************!
+<T><A2/2>Ha ha! That's true. My apologies.
+I should never have doubted you.
+!******************************!

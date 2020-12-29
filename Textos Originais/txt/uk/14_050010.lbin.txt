@@ -1,0 +1,8 @@
+<V0020><T>Is that the last of them, then?</V>
+!******************************!
+<V0030><T><A2/1>Yes, sir! All residents of the
+underground city have been
+brought topside, sir. Yes, sir!</V>
+!******************************!
+<V0040><T>Hurry up, Layton...</V>
+!******************************!

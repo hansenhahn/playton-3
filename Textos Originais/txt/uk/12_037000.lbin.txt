@@ -1,0 +1,60 @@
+<V0010><T>Because of Bill's greed, Claire was
+lost to me forever.</V>
+!******************************!
+<V0020><T>Life is full of cruel twists.</V>
+!******************************!
+<V0030><T>In the blink of an eye, I lost my
+life's work and the love of my life.</V>
+!******************************!
+<T><V0031>To say I was a broken man would be
+an understatement.</V>
+!******************************!
+<V0040><T><A4/3>Bill, on the other hand, made a full
+recovery from his injuries.</V>
+!******************************!
+<T><V0041>He also completed the deal with the
+corporation, pocketing more money
+than most people see in a lifetime.</V>
+!******************************!
+<V0050><T>He used his new-found fortune to
+climb the political ladder to the
+very top.</V>
+!******************************!
+<V0060><T><A1/1>He killed Claire and was rewarded
+with the most powerful seat in
+government.</V>
+!******************************!
+<T><V0061>If that's not a cruel joke, I don't
+know what it is.</V>
+!******************************!
+<V0070><T>I can't pretend I wasn't bitter,
+and it was this bitterness that
+sent me back to my research.</V>
+!******************************!
+<T><V0071>I thought that if I could travel
+to the past, I could rob Bill of
+all that he had won.</V>
+!******************************!
+<V0080><T>Though of course, there was
+another reason why I wanted to
+go back in time.</V>
+!******************************!
+<T><V0081>To save Claire from her fate.<W>
+Surely you understand, Hershel?</V>
+!******************************!
+<V0090><T><K>...<W><W></K></T><TW><A1/1>Claire is no longer with us.
+There's nothing anyone can do to
+turn back time.</V>
+!******************************!
+<V0100><T>Do you really believe that?</V>
+!******************************!
+<V0110><T><A4/3>I don't want to, but I do.<W><W> <A4/1>I have
+just one more question for you.</V>
+!******************************!
+<V0120><T><A4/3>What is it?</V>
+!******************************!
+<V0130><T><A1/1>Someone's been using you as a
+pawn. <W>Are you aware of this?</V>
+!******************************!
+<V0140><T>What are you talking about?</V>
+!******************************!

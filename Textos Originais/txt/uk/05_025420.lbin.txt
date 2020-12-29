@@ -1,0 +1,55 @@
+<T>Welcome to Scotland Yard,
+headquarters of the London police
+force.<W> What can I do you for?
+!******************************!
+<T><1/2>We're here to see Inspector
+Chelmey.<W> Could you let him know that
+we'd like to speak to him? 
+!******************************!
+<T>I see... While the inspector is
+always happy to meet the public,
+he is terribly busy at the moment.
+!******************************!
+<T>Furthermore, I'm under strict
+orders to issue this puzzle to
+all visitors.
+!******************************!
+<T>Orders are orders. If you want to
+speak to the inspector, you'll
+have to solve the puzzle first.
+!******************************!
+<T>Terribly sorry, sir. If you don't
+solve this puzzle, I can't permit you
+to visit the inspector.
+!******************************!
+<T><A1/2>That's correct! Tremendous work
+as always, Professor Layton!
+!******************************!
+<T>Huh? Do you know the professor?
+!******************************!
+<T><A2/2>Of course! I'm a huuuge fan!
+!******************************!
+<T>How could any self-respecting
+puzzler NOT know the name Layton?
+!******************************!
+<T>I assume that puzzle was one of
+your own design?
+!******************************!
+<T>That's right, guilty as charged!
+Heh heh!
+!******************************!
+<T>I couldn't pass up the chance to
+have Professor Layton solve one
+of my puzzles!
+!******************************!
+<T><A1/2>I'll call to let the inspector know
+you're coming.
+!******************************!
+<T>His office is just up those stairs.
+!******************************!
+<T>Thank you very much.
+!******************************!
+<T>Welcome to Scotland Yard,
+headquarters of the London police
+force.
+!******************************!

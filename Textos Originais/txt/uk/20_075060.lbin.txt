@@ -1,0 +1,36 @@
+<T><A2/2>I see you've managed to lay down
+a rough sketch of the whole mural.
+It looks excellent.
+!******************************!
+<T>Heh heh! It really is something else,
+isn't it? I'm glad I asked those
+kids to do the job.
+!******************************!
+<T><A3/1>So are you going to colour in the
+rest of the piece now?
+!******************************!
+<T><A3/2>Of course! It'll be exploding with
+colour when it's done! It's just
+going to take a little while.
+!******************************!
+<T><A3/5>I bet you can hardly wait, eh?<W>
+Maybe this puzzle about painting
+will help you pass the time.
+!******************************!
+<T>Was that puzzle too tough for you?
+Sorry about that!
+!******************************!
+<T>Ready to paint in an answer for this
+puzzle?
+!******************************!
+<T><A2/1>You two certainly have a way with
+puzzles. I'm tickled pink.
+!******************************!
+<T><A1/2>Thank you, and good luck with the
+rest of your mural. I'm sure the
+finished work will be wonderful.
+!******************************!
+<T><A4/6>Yep, you can count on that! Heh heh!
+!******************************!
+<T>I can hardly stand the wait myself!
+!******************************!

@@ -1,0 +1,36 @@
+<T>Have a look at this X-ray.
+!******************************!
+<T><A4/4>Hmm. Do you think it's
+Dr Schrader's?
+!******************************!
+<T>I believe so. But there's something
+odd about it. Have a look here,
+Luke.
+!******************************!
+<T><A4/1>Curious. Whatever could have
+caused that strange shadow to
+appear on the X-ray?
+!******************************!
+<T><A4/1>Something about this X-ray is not
+quite right.
+!******************************!
+<T><A3/1>That's not funny at all. Who would
+try to play a prank like that on
+poor Dr Schrader?
+!******************************!
+<T><A1/1>Now Luke, let's not jump to any
+conclusions. Andrew is quite the
+prankster himself.
+!******************************!
+<T>It's entirely possible that he placed
+this fake X-ray here to shock his
+visitors.
+!******************************!
+<T><A4/4>If that's the case then it certainly
+worked on me. I was really worried
+for a moment there!
+!******************************!
+<T><A4/1>Some people are willing to go the
+extra mile to pull off a good
+practical joke.
+!******************************!

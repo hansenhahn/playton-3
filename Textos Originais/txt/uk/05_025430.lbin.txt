@@ -1,0 +1,70 @@
+<T>Ahh... Nothing like a nice cup of
+tea to soothe the nerves.
+!******************************!
+<T>Good day, Barton.
+!******************************!
+<T><A1/1>Oh! Er... Good day to you, sir.
+!******************************!
+<T>Barton, we wish to have a few
+words with the inspector, but
+I don't see him here.
+!******************************!
+<T>I don't see him here either.
+!******************************!
+<T>I was led to believe he was here in
+his office...
+!******************************!
+<T>Yes, he was. Then he got up and left.<W>
+It was all very sudden.
+!******************************!
+<T><K>...</K><W>I am puzzled by his sudden
+disappearance.
+!******************************!
+<T><A5/0>Barton! I sincerely hope you're
+not spreading misinformation
+about me!
+!******************************!
+<T><A1/1>It wasn't five minutes ago I told
+you I needed to pop downstairs
+to see the chief constable.
+!******************************!
+<T>Oh yes. You did say that, sir.
+!******************************!
+<T><A1/5>Use your ears, Constable. You'll
+never move up in the force if
+you don't learn to listen.
+!******************************!
+<T>Hello Inspector.
+!******************************!
+<T><A3/1>Ah, sorry about that, Layton.
+What a surprise to see you.<W>
+Welcome to my humble office.
+!******************************!
+<T>Forgive the sudden intrusion,
+Inspector.
+!******************************!
+<T>I heard that you're leading the
+investigation into the prime
+minister's disappearance.
+!******************************!
+<T><A2/6>I am.<W> And since it's you I'm speaking
+to, I'll be quite candid. This case
+has me baffled. 
+!******************************!
+<T>Dozens of eyewitnesses, myself
+included, and not one blasted lead
+to work with!
+!******************************!
+<T><K>Hmm...
+!******************************!
+<T>Since you were there too, I might
+as well hear your take on things.<W>
+Have a seat.
+!******************************!
+<T>I was interviewed on the day of the
+incident, but maybe another chat
+will uncover some new theories.
+!******************************!
+<T>I fear the inspector may be quite
+angry with me at the moment.
+!******************************!

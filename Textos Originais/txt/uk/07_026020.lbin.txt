@@ -1,0 +1,54 @@
+<T>Hello there. Do you live in
+Chinatown? Could you tell us a
+little about the area?
+!******************************!
+<T>Listen to yourself, young man.
+<A2/1>Like all sentient beings, we exist
+both everywhere and nowhere.
+!******************************!
+<T>Well that's very...nice.
+!******************************!
+<T><A3/1>Now, if what you really wanted to
+ask me was where my physical body
+resides, I'll tell you.
+!******************************!
+<T>I do indeed {''}live{''} in Chinatown.
+!******************************!
+<T><A3/3>Here you can find exotic goods
+and rare wonders from all over
+the world.
+!******************************!
+<T>But these things don't interest me.
+Material objects are mere flecks
+of dust on the universe's canvas.
+!******************************!
+<T><A4/4>Ugh. Something tells me I picked the
+wrong person to ask for
+directions.
+!******************************!
+<T><A2/1>You've only just started making
+your way in this world, young one.
+!******************************!
+<T>For you, many of life's greatest
+puzzles remain unsolved.<W> This one,
+for example.
+!******************************!
+<T>Learn, but do not lose your
+individuality. You mustn't conform
+to the values of the masses.
+!******************************!
+<T><A1/1>Erm... I'll try my best.
+!******************************!
+<T>I see you've returned, young one.
+!******************************!
+<T>Yes, that's it! Seek the answers to
+your own questions! That is the
+root of individuality.
+!******************************!
+<T>Only by doing this will you find the
+true value to be had in the infinite
+moment we call the present.
+!******************************!
+<T>Erm...<W> Thanks for the compliment,
+but I have to go now. Bye!
+!******************************!

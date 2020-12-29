@@ -1,0 +1,26 @@
+<T>Well hello there, you strapping
+young things!
+!******************************!
+<T><A2/0>I can tell from the looks on your
+faces that you're just dying to
+hear something useful!
+!******************************!
+<T><A1/1>All right, here's my pearl of wisdom.
+Go and touch that car parked over
+there.
+!******************************!
+<T><A1/1>Oi! Get your hands off me! Touch
+that car parked over there, I said!
+!******************************!
+<T><A4/4>But...what about the car?
+!******************************!
+<T>Dear me, you've made quite a mess,
+haven't you? Now why did you go
+and do a thing like that?
+!******************************!
+<T><A1/5>It wasn't m-my fault! You were the
+one who told me to touch it!
+!******************************!
+<T>Oh, did I now?<W> I certainly don't
+recall saying anything of the sort.
+!******************************!

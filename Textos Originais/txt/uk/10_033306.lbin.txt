@@ -1,0 +1,16 @@
+<T>Hello sir.
+!******************************!
+<T>Oh, it's you, lad. I heard ya had a
+run-in with the head of the Family.
+!******************************!
+<T>That we did! And he turned out to
+be nothing more than a fake!
+!******************************!
+<T>Heh. Well, that's the Family for
+ya. A bunch of frauds playin'
+the parts they're given.
+!******************************!
+<T>All the same, they're dangerous.
+And now they'll be lookin' for ya.
+Watch yerself out there, okay?
+!******************************!

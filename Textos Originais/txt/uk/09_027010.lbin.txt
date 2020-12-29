@@ -1,0 +1,32 @@
+<T>I suppose it would be too much to
+expect the door to be open...
+!******************************!
+<T>Let's see. The eyes of this dragon
+seem to be the key that unlocks
+this door.
+!******************************!
+<T><A2/2>Sounds like a puzzle! Let me handle
+it, Professor. I'll have the door
+open before you know it!
+!******************************!
+<T>I think I need another minute to
+think about this...
+!******************************!
+<T>Would you like me to have a go
+at it, Luke?
+!******************************!
+<T><A1/5>That won't be necessary,
+Professor. I'm sure I can solve
+this one!
+!******************************!
+<T>I'm confident the door will open
+just as soon as we solve this
+puzzle.
+!******************************!
+<T>All set!
+!******************************!
+<T><A4/2>Smashing work, Luke.
+!******************************!
+<T>There's no time to celebrate. Let's
+head inside.
+!******************************!

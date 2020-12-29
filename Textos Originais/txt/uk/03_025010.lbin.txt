@@ -1,0 +1,87 @@
+<T>Do you suppose that bronze statue
+depicts some sort of local hero?<W>
+I'm going to have a quick look.
+!******************************!
+<T><A3/1>Huh? Look, Professor, the man in
+the statue has the same hat as you!
+!******************************!
+<T><A1/2>Ha ha! So he does!<W> If I'm the man
+in the statue, does that make you
+that boy there?
+!******************************!
+<T><A3/2>Hmm, well, I suppose he looks a bit
+like me...
+!******************************!
+<T>Oh, there's a description of the 
+statue here. Let's see...
+!******************************!
+<T><A1/1>It seems our friend here was some
+sort of famous author.
+!******************************!
+<T>An author, you say? Not a
+professor?
+!******************************!
+<T>Imagine if he was! Now that would
+be a coincidence!<W> Let's see what
+else it says.
+!******************************!
+<T>The author used to write big,
+complicated books. But all that
+changed because of this boy.
+!******************************!
+<T>The boy was ill, and to cheer him up,
+the man wrote an adventure novel
+for people of all ages.
+!******************************!
+<T>I suppose the book was so
+successful that he went on to
+write more of them.
+!******************************!
+<T>What a heart-warming story.
+!******************************!
+<T>Oh, but that's not all, Professor.
+Here, I'll read you the rest.
+!******************************!
+<T><CR>{''}In the end, the little boy was
+taken by his illness.
+!******************************!
+<T><CR>However, the extraordinary
+friendship between the author and
+the boy would last forever.{''}</C>
+!******************************!
+<T><A1/4>I can't believe how sad that ending
+is.
+!******************************!
+<T><A4/2>There, there. It's not all bad, my
+boy. It sounds as if the two found
+true friendship in each other.
+!******************************!
+<T>Some people go through their whole
+lives without experiencing such a
+thing.
+!******************************!
+<T>I suppose so.<W> It's still terribly
+sad, though.
+!******************************!
+<T>Look here. It says, <CR>{''}In memory of
+an extraordinary and everlasting
+friendship.{''}</C>
+!******************************!
+<T>Wouldn't it be wonderful if our
+friendship grew to those heights?
+!******************************!
+<T><A1/3>What do you mean, {''}if{''}?!<W> Our
+friendship is already extraordinary
+and everlasting.
+!******************************!
+<T><A1/1>Now, now, Luke. I didn't mean to
+ruffle your feathers. You're right.
+We're very good friends.
+!******************************!
+<T>You're not upset, are you?
+!******************************!
+<T><A1/5>Me? Upset? Of course not.<W> Anyway,
+I think we should move on.
+!******************************!
+<T>Oh dear...
+!******************************!

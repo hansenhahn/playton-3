@@ -1,0 +1,8 @@
+<T>This place is all locked up.
+!******************************!
+<T>It doesn't look as though anyone's
+there. Perhaps we should try again
+later.
+!******************************!
+<T>Sounds good to me.
+!******************************!

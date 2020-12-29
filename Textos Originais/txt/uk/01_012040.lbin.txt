@@ -1,0 +1,44 @@
+<T><A4/1>Whoa whoa WHOA!<W> You ain't tryin'
+to talk to me, are you?<W> Well? Are
+you?
+!******************************!
+<T>Erm... N-no. I-I'm terribly sorry.
+I was only-
+!******************************!
+<T>And you've got some brass neck,
+wanderin' round in that hat! Yeah,
+brass neck but no brains!
+!******************************!
+<T><A1/3>Wh-what's wrong with my hat?
+!******************************!
+<T>I ain't talkin' to you, sunshine.
+I'm talkin' about matey in the top
+hat here.
+!******************************!
+<T><A1/1>Me?<W> Well, I don't see anything
+wrong with my hat either, sir.
+!******************************!
+<T>Listen to you with your {''}I don't
+see anything wrong with my hat{''}!
+!******************************!
+<T>It's time to teach you a lesson.<W>
+Solve this puzzle!
+!******************************!
+<T>Stumped, eh? Well I'll let you get
+away with it this time if you two
+get outta my sight, pronto.
+!******************************!
+<T>There you are! This puzzle still
+needs solvin', you know!
+!******************************!
+<T><A1/1>Well well, someone's brighter than
+he looks.<W> I'll let your friend off
+with a warnin' this time.
+!******************************!
+<T>But if he's still wearin' that hat
+tomorrow, things'll get ugly.<W> And
+by {''}things{''}, I mean {''}his face{''}.
+!******************************!
+<T><A1/1>Didn't I tell you not to talk to me?<W>
+DIDN'T I?!<W> Get outta my sight!
+!******************************!

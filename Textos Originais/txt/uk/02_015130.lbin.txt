@@ -1,0 +1,21 @@
+<T>The casino? With that kid?<W> Are you
+barmy or what?
+!******************************!
+<T>No, sir. You misunderstand me.
+We aren't going there to gamble,
+merely to-
+!******************************!
+<T>A casino ain't no place to take a
+child! Even I know that!
+!******************************!
+<T>Wow! It's really nice of you to
+worry about me.
+!******************************!
+<T>Indeed, but you really needn't be
+concerned about the boy's
+well-being. Especially when-
+!******************************!
+<T>Look mate, you don't take kids
+into a place like that, and that's
+the end of it.
+!******************************!

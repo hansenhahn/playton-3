@@ -1,0 +1,38 @@
+<T>Ah, hello there lad!
+!******************************!
+<T><A1/1>Oh, um, hello.
+!******************************!
+<T>What can I do for you?
+<W>WELL?
+!******************************!
+<T><A1/5>Uh, never mind. It's nothing,
+really. 
+!******************************!
+<T><A1/5>Oh, don't run away! It gets ever
+so lonely round here with no one to
+talk to.
+!******************************!
+<T><A4/4>Oh... That's terrible...
+!******************************!
+<T><A1/1>You're a good lad. Not many
+youngsters would stop to listen
+to an old man's problems.
+!******************************!
+<T>Here's a little something for your
+kindness.
+!******************************!
+<T>Huh?
+!******************************!
+<T><A1/5>Having a spot of trouble with my
+puzzle?<A2/5><W> <A1/5>WELL?<W> Don't fret. If you
+keep at it, you'll get it eventually.
+!******************************!
+<T><A1/5>Back for another crack at that
+puzzle?<A2/5><W> <A1/5>WELL?
+!******************************!
+<T><A1/5>Well, aren't you bright as a button!
+!******************************!
+<T><A1/5>What's that? You want to solve
+another puzzle?<A2/5><W> <A1/5>WELL?<W> I'll think
+of one. Give me a minute.
+!******************************!

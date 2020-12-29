@@ -1,0 +1,31 @@
+<V0010><T>Dear Professor Layton,</V>
+!******************************!
+<V0020><T>It's been a while since we said
+goodbye. How have you been?</V>
+!******************************!
+<V0030><T>I'm all settled in and making new
+friends here.</V>
+!******************************!
+<V0040><T>I am writing to you because
+something deeply puzzling happened
+here recently.</V>
+!******************************!
+<V0050><T>It seems like the sort of mystery
+that's tailor-made for Professor
+Layton and his apprentice.</V>
+!******************************!
+<V0060><T>I don't think anyone else could get
+to the bottom of this.</V>
+!******************************!
+<V0070><T>I've enclosed a document with this
+letter that will tell you more about
+the situation.</V>
+!******************************!
+<V0080><T>I can't wait to start this new
+adventure with you! Please write
+back as soon as you get this!</V>
+!******************************!
+<V0090><T>Your friend and apprentice,
+
+Luke</V>
+!******************************!

@@ -1,0 +1,37 @@
+<V0010><T>I demand an explanation!</V>
+!******************************!
+<V0020><T>Are you really Professor Layton?</V>
+!******************************!
+<V0030><T>Ha ha ha! Yes, of course!</V>
+!******************************!
+<V0040><T><A1/2>Don't you recognise your old
+friend?</V>
+!******************************!
+<V0050><T><A2/1>I don't know... Something about
+you seems...off.</V>
+!******************************!
+<V0060><T>Surely you recognise yourself,
+Hershel?</V>
+!******************************!
+<T><V0061>This fortune - our fortune - is a
+result of your ambition and genius.</V>
+!******************************!
+<V0070><T><K><A4/5>Hmm...</V>
+!******************************!
+<V0080><T><A1/1>What is it, Professor?</V>
+!******************************!
+<V0090><T><A4/1>You've put on quite a show, but it's
+clear to me that you're nothing but
+a charlatan.</V>
+!******************************!
+<V0100><T><A1/1>Oh, is that so?</V>
+!******************************!
+<V0110><T><A1/6>What tipped you off, Professor?</V>
+!******************************!
+<V0120><T><A1/2>Heh heh heh... Yes, what indeed?
+I'm all ears.</V>
+!******************************!
+<T>You, sir, are a fraud, and exposing
+you for the impostor that you are
+will prove simple.
+!******************************!

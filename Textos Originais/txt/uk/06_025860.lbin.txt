@@ -1,0 +1,40 @@
+<T><A2/1>How have you been, fellas?<W> Word
+is there was a shoot-out at the
+Gilded 7 Casino!
+!******************************!
+<T><A1/6>Wow! That's in the papers already?
+!******************************!
+<T><A3/1>Seems some nutters went in there
+and tried to run off with the day's
+profits.
+!******************************!
+<T>When the casino security staff
+caught them red-handed, the
+place turned into the Wild West!
+!******************************!
+<T><A1/6>What?!<W> But that's not how it
+happened at all!
+!******************************!
+<T>Whoa now! Don't shoot the
+messenger! I'm just telling
+you what the paper says.
+!******************************!
+<T>Well, the paper's wrong!
+!******************************!
+<T>Oh yeah? How do you know you're
+not the one who's wrong?
+!******************************!
+<T>But Professor, why would the paper
+print lies?
+!******************************!
+<T>I hate to say this, but I think the
+Family controls the press here. The
+papers print what they're told to.
+!******************************!
+<T>Listen boy, I didn't mean to shout
+at you.
+!******************************!
+<T>But you really should read the
+paper every day if you want to
+stay on the ball, you know?
+!******************************!

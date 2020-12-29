@@ -1,0 +1,20 @@
+<T><A2/2>Professor Layton! It's such a relief
+to see you made it out all right.
+!******************************!
+<T><A3/2>Why, I could hardly let myself get
+caught before hearing about that
+secret you mentioned, could I?
+!******************************!
+<T>Something tells me you've already
+worked most of it out for yourself.
+Am I right?
+!******************************!
+<T>Huh?!<W> Professor, is that true?
+!******************************!
+<T>If you know something, Layton, spit
+it out!
+!******************************!
+<T><A1/2>All concerned parties seem to be in
+attendance, so I'll try to explain
+things as best I can.
+!******************************!

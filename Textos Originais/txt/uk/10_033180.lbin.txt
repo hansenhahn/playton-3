@@ -1,0 +1,16 @@
+<T>Excuse me. Have you seen the small
+boy who was with me last time I was
+here?
+!******************************!
+<T>Oh, the little hungry chap? No, he
+hasn't been here since I last saw
+you. Why do you ask?
+!******************************!
+<T>I've been out looking for him for
+some time now, with no luck. Well,
+thanks for your help.
+!******************************!
+<T>No problem. If he comes in, I'll let
+him know you've been on the hunt
+for him.
+!******************************!

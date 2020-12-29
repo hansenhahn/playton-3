@@ -1,0 +1,28 @@
+<T>Brr! This place is like a deep freeze.
+<A1/5>Why do we have to stand guard down
+here anyway?
+!******************************!
+<T>The most we're ever gonna find is
+a rat.
+!******************************!
+<T><A3/5>We're down here 'cause we
+messed up, ain't we?
+!******************************!
+<T>This is our punishment, and I'd say 
+we got off lightly.
+!******************************!
+<T>If Bostro hears you harpin' on like
+that, he'll knock your block off.
+!******************************!
+<T><A4/0>I wish I'd stayed in school, bruv.
+I shoulda known no good would come
+from this line of work.
+!******************************!
+<T><A2/5>Shut it, mopey!<W> We've got 10 hours
+till our shift ends, and we've just
+gotta stick it out.
+!******************************!
+<T>If you really wanna make the time
+go faster, stop your moanin' and
+tell me a joke or something.
+!******************************!

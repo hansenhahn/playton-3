@@ -1,0 +1,153 @@
+<T>We've already established that
+you were there when the explosion
+occurred.
+!******************************!
+<T>Yes, I certainly was.
+!******************************!
+<T>Then you must believe, as I do, that
+there's no way anyone could have
+survived that blast.
+!******************************!
+<T>Not that quack Stahngun, not his
+staff and, though I hate to say
+it, not the prime minister.
+!******************************!
+<T>But what confounds me is that we
+haven't found a single trace of
+any of them.
+!******************************!
+<T>What do you mean?
+!******************************!
+<T><A1/5>We went through the place with a
+fine-tooth comb and didn't find
+anything related to the victims.
+!******************************!
+<T>No bodies, no clothing and no shoes.
+Not even so much as a pocket watch
+or ring!
+!******************************!
+<T>All we recovered from the scene
+was the 10 tons of scrap metal
+that used to be the machine.
+!******************************!
+<T>No people.
+!******************************!
+<T>There were eight of them, sir.
+!******************************!
+<T>What? Did you just say something,
+Constable?
+!******************************!
+<T>There were eight of them, sir.
+Eight people vanished.
+!******************************!
+<T><A2/1>Ah, yes. According to eyewitness
+reports, eight people vanished from
+the scene.
+!******************************!
+<T>That group consisted of Stahngun,
+a handful of his assistants and the
+prime minister.
+!******************************!
+<T>Now, how in the world do eight
+people just vanish? It's like a
+blasted magic trick!
+!******************************!
+<T>Don't worry, Inspector. From what
+I've heard, the prime minister is
+still alive!
+!******************************!
+<T><A2/5><K>Hmm?<W></K><A2/1> Ah, young Luke. Be a good lad
+and keep quiet, all right?
+!******************************!
+<T>The adults are having a serious
+conversation here.
+!******************************!
+<T>If you're bored, why don't you and
+Barton go and play in the lobby?
+!******************************!
+<T>Inspector, I assure you Luke isn't
+making this up. There's a very real
+possibility that Bill Hawks is alive.
+!******************************!
+<T><A2/5>What?!<W> Well, don't leave me here
+scratching my head like a fool!
+Explain yourself, Layton.
+!******************************!
+<T>I will, but I must ask a favour of
+you first.
+!******************************!
+<T><A1/1>And what would that be?
+!******************************!
+<T>Do you recall the explosion at the
+Institute of Polydimensional
+Research, 10 years ago?
+!******************************!
+<T><J54>What did you just say?!<K><Q></J>
+!******************************!
+<T>I'll take that as a yes.<W> It is
+imperative that I see any and all
+case files on that incident.
+!******************************!
+<T><A1/5>It sounds like you're on to
+something here, Layton. What do
+you know?
+!******************************!
+<T>Nothing at the moment. But I have
+a suspicion your current case is
+somehow linked to this old one.
+!******************************!
+<T>Hmm. I'd like to help, really I
+would. But those files are sealed
+and require top-level clearance.
+!******************************!
+<T>Even a high-ranking officer like
+myself would have trouble getting
+his hands on those.
+!******************************!
+<T>I see...
+!******************************!
+<T>I had hoped a man of your status
+might have the necessary clout to
+acquire those documents.
+!******************************!
+<T>Unfortunately, it seems I may have
+hoped for too much. I'm sorry to
+have asked the impossible of you.
+!******************************!
+<T><A1/1>Er...<W> Wait just a moment, Layton.
+I...just might be able to get
+you access to the case files.
+!******************************!
+<T>Excellent. I would be extremely
+grateful for that.
+!******************************!
+<T>Just one thing, though. These
+documents don't come for free.
+!******************************!
+<T>I want to hear everything you know,
+or suspect, about the prime
+minister's whereabouts.
+!******************************!
+<T><A3/2>Of course. Once I've seen the
+documents and I'm sure my theory
+is sound, every detail will be yours.
+!******************************!
+<T><A4/2>Barton! Head down to the archives
+and find those old files. Tell them
+you're there on my orders.
+!******************************!
+<T><A3/0>Right away, sir!<A2/1>
+!******************************!
+<T><A1/1>Those files can't leave the
+archives, but you can read
+them down there.
+!******************************!
+<T>Take the stairs down from the
+lobby to the cellar.
+!******************************!
+<T>Much appreciated, Inspector.
+!******************************!
+<T>The archives are in the cellar
+under the lobby. You can peruse
+the documents down there.
+!******************************!

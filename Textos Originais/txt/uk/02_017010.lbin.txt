@@ -1,0 +1,53 @@
+<T>Hmph. And just where do you two
+think you're going?
+!******************************!
+<T>We're on our way to meet someone
+at the Gilded 7 Casino.
+!******************************!
+<T>I see.<W> Going to the casino to {''}meet
+someone{''}, are you?<W> Interesting.
+Veeery interesting...
+!******************************!
+<T>Psst, Professor, I think this man
+is trying to intimidate us.
+!******************************!
+<T><A6/0>Stop that whispering, boy! I'm right
+here, you know!
+!******************************!
+<T>Oops!<W> Um... Sorry, mister.
+!******************************!
+<T><A3/1>Hmph.<W> Well, since you've apologised,
+I suppose I can overlook your
+rudeness this time.
+!******************************!
+<T>I'm sorry to impose, sir, but would
+you be so kind as to let us pass?
+It's getting rather late.
+!******************************!
+<T><A5/5>But of course, my good man.<W> As
+soon as you solve this puzzle of
+mine, that is.
+!******************************!
+<T>Hmph. What's the matter? Has my
+puzzle stumped you?
+!******************************!
+<T>Back to pit your wits against my
+puzzle, I see. Very well then.
+Prepare yourself!
+!******************************!
+<T><A2/5>Well done. You've proven yourself
+worthy, so I will provide you with a
+cryptic but valuable warning.
+!******************************!
+<T><A2/6>Danger lurks about that hat of
+yours. You'd best watch yourself
+around here.
+!******************************!
+<T>Why is everyone so fixated on my
+hat? Do you know someone else
+with a hat like mine?
+!******************************!
+<T>If I told you, it would kill all the
+suspense, wouldn't it? I'll leave
+that little mystery for you.
+!******************************!

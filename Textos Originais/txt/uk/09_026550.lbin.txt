@@ -1,0 +1,54 @@
+<T>H-hey! What are you lot doing back
+here?
+!******************************!
+<T>We're on our way to the Towering
+Pagoda. Not that it's any of your
+business.
+!******************************!
+<T><A2/5>N-not so fast!<W> You're the ones
+who went on the rampage in the
+casino, ain't you?
+!******************************!
+<T><A4/2>What if we are? What are you going
+to do about it?
+!******************************!
+<T>I-I...<W> My bruv Chelton'd give you a
+good hidin'...if he hadn't gone to
+erm...spend a penny.
+!******************************!
+<T><A4/1>Looks like we're in luck then, eh?
+We'll just be on our way now.
+!******************************!
+<T>If you run off, I'll make sure
+Chelton squishes you like an ant
+when he finds you!
+!******************************!
+<T>We'll bear that in mind.
+!******************************!
+<T>Wait! One more thing! Um...<W> Solve
+this puzzle!
+!******************************!
+<T>You ain't no match for my puzzle,
+so you ain't goin' nowhere!
+!******************************!
+<T>If you can't cough up an answer to
+this puzzle, maybe I don't need
+Chelton after all!
+!******************************!
+<T>Blast! You solved it.
+!******************************!
+<T><A4/2>We really don't have any more time
+for this silliness. We'll be heading
+to the pagoda now.
+!******************************!
+<T><A1/1>F-fine! But remember, you got lucky!
+!******************************!
+<T>If my bruv was here, you'd be the
+one gettin' bossed around!
+!******************************!
+<T><A4/1>Are you finished?
+!******************************!
+<T>Th-this ain't over! Mark my words!
+You're gonna get what's comin' to
+you!
+!******************************!

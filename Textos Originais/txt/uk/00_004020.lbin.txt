@@ -1,0 +1,55 @@
+<V0010><T>I have to say, I feel a bit out of
+place here, Professor.</V>
+!******************************!
+<V0020><T>That's quite understandable, Luke.</V>
+!******************************!
+<T><V0021>I'm sure most people would feel the
+same way in the presence of the
+prime minister.</V>
+!******************************!
+<V0030><T><A1/6>Hey look! I think I see Inspector
+Chelmey over there!</V>
+!******************************!
+<V0040><T><K><A4/5>Hmm...</V>
+!******************************!
+<V0050><T><A2/1>So, Professor, what do you think
+about this whole event?</V>
+!******************************!
+<T><V0051>Do you think that someone has
+really built a working time machine?</V>
+!******************************!
+<V0060><T><A1/1>I'm not entirely sure.</V>
+!******************************!
+<T><V0061>Still, if it proves to be true, can
+you imagine the stir it will cause in
+the scientific community?</V>
+!******************************!
+<V0070><T><A4/2>Well, I think it's really exciting!<W>
+Though you don't sound entirely
+convinced, Professor.</V>
+!******************************!
+<V0080><T><A1/2>Anything's possible, Luke.<W> But I
+won't be convinced until I've seen
+the contraption work for myself.</V>
+!******************************!
+<V0090><T><A3/1>And I must confess, something
+about this entire presentation
+seems a bit...off.</V>
+!******************************!
+<V0100><T><A1/1>Why do you say that?</V>
+!******************************!
+<T><V0101><A2/2>Ah, of course.<W><W> That must be your
+famous intuition talking, eh?</V>
+!******************************!
+<V0110><T>That's one way of putting it.<W> <A1/2>But
+enough speculation. <W>Look over
+there, Luke.</V>
+!******************************!
+<V0120><T><A4/1>That guard? What about him?</V>
+!******************************!
+<V0130><T><A2/2>He seems to be looking for a man
+who snuck into the event uninvited.</V>
+!******************************!
+<V0140><T><A3/1>Ooh! So we have an intruder in our
+midst!</V>
+!******************************!

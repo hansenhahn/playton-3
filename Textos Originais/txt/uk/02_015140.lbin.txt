@@ -1,0 +1,78 @@
+<T>Hmm? You're looking for the Gilded
+7 Casino?
+!******************************!
+<T>Yes. We're supposed to meet
+someone there.
+!******************************!
+<T><A1/5>Well if you say so... But I think you
+ought to know that the place is a
+favourite Family haunt.
+!******************************!
+<T>We appreciate your concern, Becky,
+but we really do need to go there.
+!******************************!
+<T>All right...<W> Oh good, Granny's
+asleep again.
+!******************************!
+<T><A2/2>I don't think she'd be too keen on
+me directing you to a hotbed of
+criminal activity like that.
+!******************************!
+<T>Oh...<W30> Er...<W30> We don't need to worry
+about our safety, do we?<W> Not that
+I'm scared or anything.
+!******************************!
+<T>Tee hee! Good! Bravery is an
+admirable character trait, even
+if it can get you into trouble...
+!******************************!
+<T>So anyway, you know where
+Flatstone Street Station is, right?
+!******************************!
+<T>Just head north from the square in
+front of the station.<W> You'll see
+the casino eventually.
+!******************************!
+<T>Ah, I had a feeling it was somewhere
+round there.
+!******************************!
+<T><A1/1>You did? How come?
+!******************************!
+<T>One of the Family's thugs was
+guarding the way north when we
+passed the station.
+!******************************!
+<T>I thought there might be something
+dodgy up there, but I couldn't get
+past him to see for myself.
+!******************************!
+<T><A1/2>Well, you might be all right this
+time.
+!******************************!
+<T>Those thugs move around from
+post to post pretty often.
+!******************************!
+<T><A4/1>Good to know.
+!******************************!
+<T>Yeah, it really doesn't sound like
+the best security plan, does it?
+!******************************!
+<T>Go and see for yourself, there's a
+good chance you'll be able to
+pass now. I...<W> Uh-oh!
+!******************************!
+<T>Becky!<W> These are our guests! I'm
+sure they have better things to do
+than listen to you blather at them.
+!******************************!
+<T>No need to worry, madam. Becky
+was just giving us directions to
+our next destination.
+!******************************!
+<T>Oh, is that so?<W> Well, as long as
+she's being helpful.
+!******************************!
+<T>The establishment you're looking
+for is located at the north end of
+Flatstone Street.
+!******************************!

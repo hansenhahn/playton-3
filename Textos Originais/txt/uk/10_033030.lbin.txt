@@ -1,0 +1,64 @@
+<T>I don't want to waste too much
+time in getting back to the hotel,
+so let's take the train.
+!******************************!
+<T>Sounds good to me.
+!******************************!
+<T><A6/2>Fine. Then this is where we part
+ways. I've got other things to do.
+!******************************!
+<T><A1/5>You sure you're not running off
+to formulate some kind of evil plan?
+!******************************!
+<T>Now why would you ever accuse me
+of that?! Truly, I'm wounded.
+!******************************!
+<T><A7/0>I'm just going to work on a pet
+project of mine that I've been
+meaning to finish.
+!******************************!
+<T>Very well, Paul. Meet up with us
+later when you're ready.<W> <A3/1>You can
+find us-
+!******************************!
+<T><A4/1>Yeah, yeah, Layton. I'm no fool.<W>
+I'll know where to find you.
+!******************************!
+<T>And now he's gone.<W> Are you sure
+it's wise to leave him to his own
+devices?
+!******************************!
+<T><A1/2>I understand your concern, Luke,
+but I think we can trust him now.
+!******************************!
+<T>I suppose so, Professor.
+!******************************!
+<T>He must have cared an awful lot
+for Claire if losing her to you
+turned him into {''}Don Paolo{''}.
+!******************************!
+<T>He certainly was quite besotted.<W>
+But enough about that now. We
+have work to do.
+!******************************!
+<T>Let's get moving.
+!******************************!
+<T><A4/1>All right, but I'm still none the wiser
+as to our next step, <A4/4>especially now
+we know Future Layton is a fake.
+!******************************!
+<T>Well, in light of these new
+developments, our first priority
+is to rescue the prime minister.
+!******************************!
+<T>Dimitri fled the Towering Pagoda
+with Mr Hawks, so he must have
+another hideout in the area.
+!******************************!
+<T><A4/1>And we're going to find it!<W> Oh, but
+first we need to go to the hotel.
+!******************************!
+<T><A2/2>That's right. We need to meet
+Flora and Big Luke at the hotel.
+Hopefully they got back safely.
+!******************************!

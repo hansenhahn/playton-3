@@ -1,0 +1,12 @@
+<V0010><T>We've got 10 minutes to get out
+of here before the fortress
+explodes! Now what?!</V>
+!******************************!
+<V0020><T>We need to reverse the energy flow.
+That will break the generator and
+shut down the fortress.</V>
+!******************************!
+<V0030><T>How are we going to do that?</V>
+!******************************!
+<V0040><T>I have an idea! Look over here!</V>
+!******************************!

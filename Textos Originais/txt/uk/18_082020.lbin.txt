@@ -1,0 +1,14 @@
+<T>Let's see how this puzzle treats
+you.
+!******************************!
+<T>This puzzle is harder than it looks,
+isn't it?
+!******************************!
+<T>Good to see you haven't given up.
+Now then, back to work.
+!******************************!
+<T><A1/2>Excellent work there!
+!******************************!
+<T><A1/2>Back to solve this one again?
+I know that feeling!
+!******************************!

@@ -1,0 +1,28 @@
+<T>Yoo-hoo! Friend of Flu-uke?
+Mr Gentleman! Have you seen my
+dear, sweet Flukey-ukey?
+!******************************!
+<T>Ah, hello Belle. So, you haven't
+seen Luke either.
+!******************************!
+<T>He ran off on his own a little
+earlier and I haven't seen him
+since.
+!******************************!
+<T><A2/3>What?!<W> My Prince Charming has
+disappeared?<W> Oh, my poor Fluke! I
+hope nothing terrible's happened!
+!******************************!
+<T>No need to worry yet, but if you
+do see him, please let him know that
+we've been looking for him.
+!******************************!
+<T>No need to worry?! My sweetie-pie
+is missing! I'll find him! I'll tear
+this town apart if I have to!
+!******************************!
+<T>Don't worry, Flukey, my dear! I'll
+save you!
+!******************************!
+<T><A3/1>There she goes...
+!******************************!

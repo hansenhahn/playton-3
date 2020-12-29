@@ -1,0 +1,35 @@
+<T>Let me see here. Yep, you've
+solved at least 30 puzzles.
+!******************************!
+<T>Seems you've done enough research
+to take your investigation back to
+your own time.
+!******************************!
+<T>Hopefully, you'll learn something
+there that will help us clear up the
+terrible situation here.
+!******************************!
+<T>Yes, I hope so. Now then, Cogg, if
+you would be so kind as to start
+up the clock...
+!******************************!
+<T>I hope you'll understand if I stay
+here.
+!******************************!
+<T>I don't wish to risk distorting the
+events of the past any more than
+necessary.
+!******************************!
+<T>I agree. 
+!******************************!
+<T>Besides which, the poor inspector's
+eyes would likely pop out of his head
+if I turned up with two Lukes.
+!******************************!
+<T>Wow, that actually sounds quite
+funny... Too bad you can't come,
+Big Luke.
+!******************************!
+<T>Okay, she's all ready to go.<W>
+<A3/0>Let's get going!
+!******************************!

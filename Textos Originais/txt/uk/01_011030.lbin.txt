@@ -1,0 +1,16 @@
+<T>I can't believe I'm seeing this!<W>
+Are you...? No, it can't be!
+!******************************!
+<T><A1/1>I'm sorry... Have we met?
+!******************************!
+<T><A2/6>Phe-ew! I thought I was in big
+trouble when I clocked that hat
+of yours, I tell you...
+!******************************!
+<T><A2/5>But it seems you ain't who I
+thought you were, so we ain't got
+nothing to talk about. Get lost!
+!******************************!
+<T><A2/5>Oi, leave me alone, will you? Your
+hat is giving me the heebie-jeebies!
+!******************************!

@@ -1,0 +1,32 @@
+<V0010><T><A1/6>Oh!<W> <A1/1>Um, hi there, Flora.</V>
+!******************************!
+<V0020><T><A3/3>You two have got some nerve,
+leaving me alone while you go off
+on another adventure!</V>
+!******************************!
+<V0030><T>Now Flora, you know that wasn't
+our intention at all.</V>
+!******************************!
+<V0040><T>While we were out investigating one
+issue, an even more troublesome
+matter arose. </V>
+!******************************!
+<V0050><T>What kind of troublesome matter?</V>
+!******************************!
+<V0060><T>We couldn't have seen it coming,
+Flora. Honest!</V>
+!******************************!
+<V0070><T><A1/5>Really?</V>
+!******************************!
+<V0080><T>Of course! We would never leave
+you behind on purpose.</V>
+!******************************!
+<V0090><T>Luke is quite right. Do forgive us
+for our oversight.</V>
+!******************************!
+<V0100><T>Well, okay.<W> Just this once.<W> <A1/3>But you
+two had better not leave me alone
+again!</V>
+!******************************!
+<V0110><T>Of course not.</V>
+!******************************!

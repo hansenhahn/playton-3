@@ -1,0 +1,13 @@
+<T>You have a new feathered friend,
+<N1> the parrot!
+!******************************!
+<T>The Parrot minigame has been added
+to the trunk.
+!******************************!
+<T>First, have the parrot play with
+Luke to learn the basics.
+!******************************!
+<T>Once you've done that, you'll have
+the chance to do lots more with
+your parrot friend.
+!******************************!

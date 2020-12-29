@@ -1,0 +1,16 @@
+<V0010><T>Oh, this food is simply dreadful,
+Bill. <W>Do get this over with quickly so
+we can leave.</V>
+!******************************!
+<V0020><T>Yes, dear...</V>
+!******************************!
+<T><A1/5>This event is a complete charade! 
+<A1/2>Don't you agree, Bill?
+!******************************!
+<T>Hmmm? What's that? Oh yes, a
+complete charade.
+!******************************!
+<T><A1/1>Well, I hope the presentation is
+brief. We do have places to be,
+you know.
+!******************************!

@@ -1,0 +1,23 @@
+<T>Almost there! The view of the
+river here is lovely!
+!******************************!
+<T>Where do you suppose the future
+professor is? Ooh, I'm so excited
+to meet him!
+!******************************!
+<T>You're awfully cheerful about all
+this, Flora.
+!******************************!
+<T>Well, aren't you excited to meet
+him too?
+!******************************!
+<T>I want to find him, but I can't say
+I'm looking forward to meeting a
+criminal.
+!******************************!
+<T><A1/2>Those stairs over there should
+take us down to the riverside.
+!******************************!
+<T><A4/2>Then let's not waste any time.
+Down we go.
+!******************************!

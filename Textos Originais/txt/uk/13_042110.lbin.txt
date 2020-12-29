@@ -1,0 +1,61 @@
+<T>Hmm. I've been waiting for you,
+Professor Layton. I was beginning to
+think that Clive had got it wrong.
+!******************************!
+<T>We lost you for a second when that
+idiot Lockjaw ran off...
+!******************************!
+<T>Clive certainly has it all worked
+out, doesn't he?<W> What did he
+send you here for?
+!******************************!
+<T><A1/2>Isn't it obvious?<W> I'm the muscle.
+!******************************!
+<T><A2/1>Now this is usually the point at
+which I show you just how good I am
+with a knife-
+!******************************!
+<T><A1/3>Watch out, Professor!
+!******************************!
+<T><A1/1>Get behind me, you two!
+!******************************!
+<T><A3/1>Hmm.<W> Now, now. No need to panic.
+The only thing I'm throwing your
+way today is this puzzle...
+!******************************!
+<T>Heh! Clive was right. You've bitten
+off more than you can chew this
+time, Professor.
+!******************************!
+<T>You think you can handle the cut
+and thrust of this puzzle I'm
+serving up?
+!******************************!
+<T><A1/2>Hmm. Looks like I was wrong about
+that puzzle cutting you down.
+!******************************!
+<T>We can pass, then?
+!******************************!
+<T>Hmm. Yes, but only because Clive
+instructed me not to touch a single
+hair on any of your pretty heads.
+!******************************!
+<T>Otherwise I'd be showing you the
+pointy end of my knife collection.<W>
+If you know what I mean.
+!******************************!
+<T>Everyone stay away from him!
+He could be lying!
+!******************************!
+<T><A2/1>Don't worry, boy. Orders are
+orders. Besides, no one can stop
+Clive.
+!******************************!
+<T>Now get moving. The boss hates
+being made to wait.
+!******************************!
+<T><A3/1>Just what is Clive planning with this
+machine of his?
+!******************************!
+<T>Placeholder text. Puzzle Cleared.
+!******************************!

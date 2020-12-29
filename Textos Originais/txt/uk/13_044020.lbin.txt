@@ -1,0 +1,30 @@
+<T>Celeste, there's something I've
+been meaning to ask you.
+!******************************!
+<T>Oh? What's that?
+!******************************!
+<T>How in the world did you manage
+to get into the fortress?
+!******************************!
+<T>The professor and I had to do some
+pretty fancy manoeuvring to get
+here.
+!******************************!
+<T>What's more, this fortress is
+moving now. How did you catch up
+with us?
+!******************************!
+<T><A2/2>Heh heh. Didn't you know, Luke?<W>
+I'm a witch. I just hopped on my
+broom and flew up to the deck.
+!******************************!
+<T><A1/5>Now you're just pulling my leg. Come
+on, I'm curious.
+!******************************!
+<T><A3/5>All right. If you're that interested,
+I suppose I can let you in on my
+secret.
+!******************************!
+<T>Just go through that door to the
+deck outside.
+!******************************!

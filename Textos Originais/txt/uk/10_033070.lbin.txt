@@ -1,0 +1,15 @@
+<T>I'm worried, Professor. Where
+could Luke have run off to?
+!******************************!
+<T>I don't know, but I share your
+concern. It's unlike Luke to take
+off without so much as a word.
+!******************************!
+<T><A1/2>Maybe he decided to go on a secret
+mission of his own, like you did when
+we went to the Towering Pagoda.
+!******************************!
+<T>Hmph. Well, whatever his reasons,
+he shouldn't be out there alone. We
+need to find him.
+!******************************!

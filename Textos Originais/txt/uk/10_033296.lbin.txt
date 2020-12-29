@@ -1,0 +1,43 @@
+<T>Hmph.<W> Well, look who we have here...
+!******************************!
+<T>You!
+!******************************!
+<T>I thought this place was unguarded!
+!******************************!
+<T><A2/5>You've got it all wrong, boy. I'm not
+on guard.<W> <A2/6>I'm just having a break.
+It's nice and quiet down here.
+!******************************!
+<T>But now that I've seen you, I can't
+very well let you just waltz on past,
+can I?
+!******************************!
+<T>Listen, we really need to pass
+through. Can't you just look the
+other way?
+!******************************!
+<T><A3/1>Hmph.<W> Headed for the research
+facility, are you?
+!******************************!
+<T>Okay, whatever. I'm not exactly on
+the clock here, after all.
+!******************************!
+<T>But that doesn't mean I don't have
+standards, and if you can't
+measure up, you're out of luck.
+!******************************!
+<T>Standards? What kind of
+standards?
+!******************************!
+<T>Puzzle standards, obviously.
+It doesn't look to me as if you've
+solved very many.
+!******************************!
+<T><A4/1>Come back when you've got at least
+80 puzzles under your belt and I'll
+consider letting you through.
+!******************************!
+<T>Hmph. <W>You need to have solved at
+least 80 puzzles if you want to
+pass. No way around it.
+!******************************!

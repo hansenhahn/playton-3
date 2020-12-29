@@ -1,0 +1,32 @@
+<T>Uggggh... Owww...
+!******************************!
+<T>Wow. You look terrible! What
+happened to you?
+!******************************!
+<T>Yeah, I'm in a right state to be
+honest with you. Bostro just came
+by with all guns blazin'...
+!******************************!
+<T>Oh dear. That's awful.
+!******************************!
+<T>You're tellin' me.<W> He kept bangin'
+on about some brat who'd got into
+the casino.
+!******************************!
+<T>That brat wouldn't happen to be
+you, would it?
+!******************************!
+<T>M-me?<W> Oh no, I wouldn't dream of
+going to an awful place like that.
+!******************************!
+<T>Good. I was afraid I was gonna
+have to teach you a lesson for
+being so daft.
+!******************************!
+<T>And I really ain't in no shape for
+teachin' right now, as you can see.
+!******************************!
+<T>Uggggh...<W> I just don't get that
+Bostro. He's always losin' his rag
+for no reason.
+!******************************!

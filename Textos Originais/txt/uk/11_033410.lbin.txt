@@ -1,0 +1,75 @@
+<T><A2/8>Whit's with all this racket, Horace?
+Who are these folk?
+!******************************!
+<T>Cuthbert, this is the real
+Professor Layton.
+!******************************!
+<T><A1/1>Eh? Whit d'ye mean, {''}the real
+Professor Layton{''}?
+!******************************!
+<T>Erm...<W> Look, I'll explain it all later,
+we don't really have time to go into
+it here.
+!******************************!
+<T>All you need to know for now is that
+these people have come to help us
+get out of here for good.
+!******************************!
+<T>You DO want to go back to our own
+time, don't you?
+!******************************!
+<T>Oor own time?!<W> Aye, Ah'd do
+anything tae get back there.<W>
+Whit can Ah do for ye, Professor?
+!******************************!
+<T><A1/1>I have to find Dimitri, the man who's
+been using my name.
+!******************************!
+<T>I hear he could be in the central
+research room. Do you know where
+that is?
+!******************************!
+<T>Aye, yer close! It's just a wee bit
+doon the corridor.
+!******************************!
+<T>Wow, Ah still cannae believe yer the
+real deal! That's a right turn up for
+the books.
+!******************************!
+<T>As I recall, you were rather
+surprised to see me the last
+time we met as well.
+!******************************!
+<T><A1/2>Eh, well aye. Ah'm awful sorry, but
+Ah wasnae tae know who Ah was
+talking tae.
+!******************************!
+<T>Anyhoo, we can chit-chat later.
+Away ye go before yer spotted.
+!******************************!
+<T><A1/1>Bostro and his boys were jist
+through here, gabbing something
+aboot intruders.
+!******************************!
+<T>Ye need tae get moving.
+!******************************!
+<T><A1/6>What?! <A1/1>But how did he pick up on us
+so quickly?
+!******************************!
+<T><A4/1>Bah, I should have known. We
+probably tripped an infrared
+sensor. Basic secret base stuff.
+!******************************!
+<T>No sense in standing around,
+Layton. Let's go!
+!******************************!
+<T><A1/3>Professor, Ah need tae get back to
+ma own time. Don't go letting me
+doon.
+!******************************!
+<T>The central research room is just
+down this corridor.<W> Hurry, 
+before the guards spot you!
+!******************************!
+<T>Thank you. I'll take it from here.
+!******************************!

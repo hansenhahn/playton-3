@@ -1,0 +1,82 @@
+<T>Hello Grafton.
+!******************************!
+<T>Oho,<A2/1> that's the first time
+someone's called me by me real name
+in ages. Where'd you hear it?
+!******************************!
+<T>The proprietress of the hotel
+informed us of your name.
+!******************************!
+<T>Ah, dear old Maggie. She can be
+quite fearsome, but underneath it
+all, she's a good egg.
+!******************************!
+<T><A2/2>Anyway, what can I do for ya?
+!******************************!
+<T>We're trying to find a way across
+the river. We were told you might
+be able to help us.
+!******************************!
+<T>Have ya tried jumpin'?
+!******************************!
+<T>I must admit that's an option we've
+never considered...
+!******************************!
+<T><A1/1>Heh, I'm just pullin' yer leg.
+!******************************!
+<T>Well, there's a couple of boats
+that leave from outside the
+Thames Arms...
+!******************************!
+<T>Those are just for those Family
+thugs to use, mind.
+!******************************!
+<T>I was told you knew of another way
+across.
+!******************************!
+<T>Ah, so Maggie laid it all out for
+ya, did she?
+!******************************!
+<T>More or less.
+!******************************!
+<T>Hmph. All right then. But things
+are pretty rough across the river.
+!******************************!
+<T>If yer set on headin' there, I need
+to at least make sure ye've got
+the brains to get across.
+!******************************!
+<T>If ya can't even solve that little
+puzzle, ye'll never make it across
+the river!
+!******************************!
+<T>I see ye've got the guts to give
+me puzzle another try. But have
+ya got the brains to solve it?
+!******************************!
+<T>Hmph. Right, I see ye've got enough
+brains to look after yerself out
+there, so listen up.
+!******************************!
+<T>Down by the riverside, there's a
+door that leads to a tunnel under
+the river.
+!******************************!
+<T>That door's locked tighter than
+a bank safe. But here's the thing.
+There's a way to open it.
+!******************************!
+<T>Go on.
+!******************************!
+<T><A2/1>Course, it's not a button or
+anythin' that straightforward.
+It's a fancy coded lock.
+!******************************!
+<T>But since ya just solved me puzzle,
+I reckon ya might have what it
+takes to break the code.
+!******************************!
+<T>I don't think anyone's used the
+tunnel for yonks, but I'm sure ye'll
+be able to break into it.
+!******************************!

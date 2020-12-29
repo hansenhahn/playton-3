@@ -1,0 +1,53 @@
+<T>Fill in the missing elements of the
+story by placing stickers into each
+picture book.
+!******************************!
+<T>Touch <CR>Place</C> to display a bar
+containing all the stickers that
+you have collected for this book.
+!******************************!
+<T>Touch a sticker and slide it to the
+position of your choice to stick
+it on the page.
+!******************************!
+<T>To remove a sticker from the page,
+slide it back to the bar at the
+bottom of the Touch Screen.
+!******************************!
+<T>Touch <CR>Remove</C> to remove all the
+stickers from the picture book.
+!******************************!
+<T>Touch the arrows on the left and
+right sides of the Touch Screen to
+turn the page.
+!******************************!
+<T>The text on the top screen changes
+automatically to match the stickers
+you've placed.
+!******************************!
+<T>Try to create a story that makes
+sense by placing all the stickers in
+the correct positions.
+!******************************!
+<T>You'll collect more stickers as you
+play through the game and solve
+puzzles.
+!******************************!
+<T>Solve as many puzzles as you can
+and try to collect every sticker.
+!******************************!
+<T>There are a total of three picture
+books for you to complete.
+!******************************!
+<T>Each picture book has its own set
+of stickers which can only be used
+in that book.
+!******************************!
+<T>Complete the first picture book to
+unlock the second, and complete
+the second to unlock the third.
+!******************************!
+<T>When you've successfully completed
+every picture book, something
+wonderful will happen!
+!******************************!

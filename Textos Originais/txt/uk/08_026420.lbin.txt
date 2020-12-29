@@ -1,0 +1,31 @@
+<T><A5/1>What? What do you want?
+!******************************!
+<T>Want? Oh, I don't want anything.
+I just-
+!******************************!
+<T><A1/1>Well, if you got no reason to talk
+to me, do one!
+!******************************!
+<T><A3/0>Hallo! Hallo! I'm <N1>,
+<N1>!
+!******************************!
+<T>S-Subject 1?! Is that you?<W> Well,
+I'll be... It is! You made it out of
+the lab alive too then, eh?
+!******************************!
+<T><A1/6>Huh? <W>So <N1> was a
+lab animal like Subject 3! Who'd
+have guessed?!
+!******************************!
+<T>You look good, Subject 1. Keep
+your beak clean out there, okay? 
+!******************************!
+<T>Hello, Subject 3.
+!******************************!
+<T>Hello, boy.
+!******************************!
+<T>Hallo! Hallo!
+!******************************!
+<T>Heya Subject 1. You take care of
+yourself now, you hear?
+!******************************!

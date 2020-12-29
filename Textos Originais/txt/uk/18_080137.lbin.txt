@@ -1,0 +1,54 @@
+<T>Visiting the casino in the middle of
+the day? Some people have such
+poor self-control.
+!******************************!
+<T><A3/1>Isn't that a bit of a hypocritical
+thing for you to say?
+!******************************!
+<T><A1/3>You've got a big mouth on you,
+boy.<W> You, sir, should teach this
+child some manners!
+!******************************!
+<T><A3/1>I do apologise. Luke can get a little
+worked up at times.
+!******************************!
+<T><A2/1>Hmph, you're lucky I'm in a good
+mood. Solve this puzzle and I'll
+forget about the whole thing.
+!******************************!
+<T><A3/8>If you don't even have the brains
+to solve this puzzle, you're going
+to be kissing your money goodbye.
+!******************************!
+<T><A2/1>You'd better solve this puzzle if you
+want me to forgive that rude
+remark you made earlier.
+!******************************!
+<T><A1/1>Nicely done, boy. Watching you solve
+that was a nice way to stave off
+boredom for a few minutes.
+!******************************!
+<T><A1/1>So...are you always here at the
+casino?
+!******************************!
+<T><A2/1>Yeah, I don't have much else to do.
+Besides, have you looked out of
+the window recently?
+!******************************!
+<T>London's filled with Family
+henchmen. You'd have to be crazy
+to wander around out there!
+!******************************!
+<T><A1/4>Those thugs have scared just about
+everyone in town into following
+their orders.
+!******************************!
+<T><A1/4>What else can a good citizen like me
+do but hide indoors where it's safe?
+!******************************!
+<T>I see.
+!******************************!
+<T><A2/1>If you're going to run around
+outside, don't let the Family
+spot you!
+!******************************!

@@ -1,0 +1,26 @@
+<T><A3/1>Luke, do you see what I see?
+!******************************!
+<T><A1/1>I do. Yet another banana skin,
+sitting in the middle of the road.
+I'll go and pick it up.
+!******************************!
+<T><A4/5>Hold on, Luke!
+!******************************!
+<T><3/1>Why, what's wrong?<W> Oh wait...
+Let me guess. You've got
+another banana puzzle for me?
+!******************************!
+<T><A4/2>Ho ho! Right you are, my boy.
+!******************************!
+<T><A1/1>This banana skin puzzle is really
+giving me the slip.
+!******************************!
+<T><A4/2>Ready to revisit that banana
+puzzle?
+!******************************!
+<T><A4/1>These banana skins are all over
+the place. Do people in the future
+just love littering or what?
+!******************************!
+<T><A1/2>I'm starting to wonder...
+!******************************!

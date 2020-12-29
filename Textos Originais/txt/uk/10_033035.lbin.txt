@@ -1,0 +1,10 @@
+<T>Tell me, do you like sweets?
+!******************************!
+<T>Sweets?<A2/2> Of course I do!
+!******************************!
+<T>Great! Me too!<W> So...do you have
+any sweets for me?
+!******************************!
+<T><A1/5>Hey, wait a second! That's not how
+this is supposed to go!
+!******************************!

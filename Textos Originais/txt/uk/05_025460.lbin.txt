@@ -1,0 +1,11 @@
+<T>Constable Barton just bolted
+through here. I think he was
+headed down to the archives.
+!******************************!
+<T>Maybe the inspector gave him
+another earful...
+!******************************!
+<T>If you're trying to get to the
+archives, it's just down those
+stairs over there.
+!******************************!

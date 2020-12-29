@@ -1,0 +1,54 @@
+<T>Hello, mister.
+!******************************!
+<T>Hoo hoo. Hello back at you, lad.
+!******************************!
+<T>So...
+!******************************!
+<T><K>Hmm?
+!******************************!
+<T>Is something the matter?<W> You don't
+seem as...upbeat as usual.
+!******************************!
+<T>Oh no, no. I'm as sunny as always.
+!******************************!
+<T><K>...
+!******************************!
+<T><K>...
+!******************************!
+<T>Are you sure something isn't the
+matter? Our conversation seems
+to be lacking its usual...sparkle.
+!******************************!
+<T>No sparkle, you say? Hmm. Maybe
+that's the case.
+!******************************!
+<T><K>...
+!******************************!
+<T><K>...
+!******************************!
+<T><A4/1>Let me guess. You haven't been
+home to clear up the situation
+with your wife yet, have you?
+!******************************!
+<T>Er...
+!******************************!
+<T>I wouldn't put it off any longer
+than necessary, sir.
+!******************************!
+<T>If there's been a misunderstanding,
+it's best to sort it out straight
+away.
+!******************************!
+<T>I can't pretend I'm looking forward
+to that...
+!******************************!
+<T>But I suppose it's the best thing
+to do, isn't it?
+!******************************!
+<T>It certainly is. You should talk to
+your wife before the problem gets
+out of control.
+!******************************!
+<T>Oh yes.<W> She does sound frightfully
+irritated.
+!******************************!

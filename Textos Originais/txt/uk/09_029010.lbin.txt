@@ -1,0 +1,92 @@
+<T>Fascinating! Do continue.
+!******************************!
+<T>Luke, would you be so kind as to
+solve a quick puzzle for me?
+!******************************!
+<T>Uh...right now, Professor?<W> Aren't
+we in the middle of something here?
+!******************************!
+<T>Give it some more thought, Luke.
+!******************************!
+<T>Let's try this once more.
+!******************************!
+<T>Yes, yes, the boy is quite bright.
+We all know that. But what does
+that have to do with anything?
+!******************************!
+<T>I'm getting there.<W> But first, a
+question. I have a pen in my pocket
+that's either red or blue.
+!******************************!
+<T>Could you tell me which colour it
+is?
+
+!******************************!
+<T>What a terribly uncharacteristic
+query for you to make. There's no
+logic for me to work through.
+!******************************!
+<T>I'm not a mind-reader, and I refuse
+to guess blindly. How can I solve
+your puzzle without a single hint?
+!******************************!
+<T>So in other words, you have no
+idea what colour pen I have in my
+pocket?
+!******************************!
+<T>Of course not.
+!******************************!
+<T>That's funny.
+!******************************!
+<T>Oh?
+!******************************!
+<T><A2/1>Luke, what would happen if you
+removed the bottom row of blocks
+from that pile I just showed you?
+!******************************!
+<T>The rest of the blocks would fall
+down, I suppose.
+!******************************!
+<T>That's right. Those blocks in the
+middle of the structure don't float
+in mid-air.
+!******************************!
+<T>Only by resting on the blocks
+beneath can those blocks stay
+elevated.
+!******************************!
+<T><K>...
+!******************************!
+<T><A1/1>If you were really my future self,
+you would have experienced this
+very moment before.
+!******************************!
+<T>There is simply no way you could
+forget it.
+!******************************!
+<T>Given your answer, I can only
+assume that your memory of this
+crucial event is missing.
+!******************************!
+<T>But remember those blocks. All
+blocks are supported by other
+blocks.
+!******************************!
+<T>When you remove one, everything
+on top of it comes tumbling down.
+<W>The same goes for memory.
+!******************************!
+<T>You can't simply be missing a
+whole block of memory. It would
+destroy your very persona.
+!******************************!
+<T><A1/6>It all makes sense now!
+!******************************!
+<T>I see... So, what colour is the pen
+in your pocket, then?
+!******************************!
+<T><A1/2>My pockets are empty. There was
+never a pen there to begin with.
+!******************************!
+<T><K>...
+!******************************!

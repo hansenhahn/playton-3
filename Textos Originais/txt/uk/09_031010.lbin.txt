@@ -1,0 +1,16 @@
+<T>Oh no! We're trapped!
+!******************************!
+<T>Hmm...
+!******************************!
+<V0010><T>I hate to disappoint you, but it
+seems you've failed to ensnare
+the genuine article.</V>
+!******************************!
+<V0020><T>Uh...Professor? How did you get
+there?</V>
+!******************************!
+<V0030><T>Just what is going on here?
+Why are there two of you?</V>
+!******************************!
+<V0040><T>Which one is the real professor?</V>
+!******************************!

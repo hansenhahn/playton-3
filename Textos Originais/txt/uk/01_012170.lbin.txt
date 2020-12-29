@@ -1,0 +1,14 @@
+<T>Hey, look! There's a guard. He
+looks just like those Family
+gangsters we saw before!
+!******************************!
+<T>Indeed, it's remarkable just how 
+anonymous they seem to be.
+!******************************!
+<T>Say, Professor, isn't that the
+sign for the train station?
+!******************************!
+<T>Indeed it is. It took longer than
+expected, but we've finally arrived
+at the station.
+!******************************!

@@ -1,0 +1,11 @@
+<T>There's the shop. The door was
+locked earlier and no one would 
+answer it when we knocked.
+!******************************!
+<T>That's because you didn't know
+the secret knock. Watch this.
+!******************************!
+<T>Come on in!
+!******************************!
+<T>Go on. Try the door now.
+!******************************!

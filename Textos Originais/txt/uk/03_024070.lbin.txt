@@ -1,0 +1,27 @@
+<T>Shh! Be quiet or you'll wake Granny
+up!
+!******************************!
+<T>Guess what, Becky? The professor
+and I are going to Chinatown.
+!******************************!
+<T>Crikey, first the casino and now
+Chinatown? You two are proper
+tourists!
+!******************************!
+<T><A1/2>It does sound like fun though. What
+are you planning to do there?
+!******************************!
+<T>I can't tell you just yet. The
+professor and I are on a
+top-secret mission, you see.
+!******************************!
+<T>Come along, Luke. We need to get
+moving.
+!******************************!
+<T>Shh! Be quiet or you'll wake Granny
+up!
+!******************************!
+<T>Just promise you'll fill me in on all
+the juicy details when you come
+back!
+!******************************!

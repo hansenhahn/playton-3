@@ -1,0 +1,31 @@
+<T><A2/1>Welcome to the archives.
+!******************************!
+<T><A2/1>I've gathered all the case files
+pertaining to the explosion.
+!******************************!
+<T>Thank you, Barton. Your hard work
+has saved us considerable time.
+!******************************!
+<T>Yuck! These papers are all mildewy
+and covered in dust!
+!******************************!
+<T><A1/1>These files are off-limits to most
+people. You're the first to touch
+them in a long time.
+!******************************!
+<T>I see.
+!******************************!
+<T><A4/2>Hand some of those over and I'll
+help you look through them. Where
+should I start?
+!******************************!
+<T>I appreciate the offer, Luke, but I
+should handle these myself.<A2/1>
+They are top secret, after all.
+!******************************!
+<T><A1/1>Oh...<W> Of course. If you say so,
+Professor.
+!******************************!
+<T>Just a bit longer, Luke. I'll be
+finished soon.
+!******************************!

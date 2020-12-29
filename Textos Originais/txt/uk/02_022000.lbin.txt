@@ -1,0 +1,32 @@
+<V0010><T>Oh, there you are, Boss!</V>
+!******************************!
+<V0020><T>Oh!</V>
+!******************************!
+<V0030><T><A2/3>Oi, what are you doin', wearin' the
+boss's get-up? This your idea of a
+joke?</V>
+!******************************!
+<V0040><T><Q>No, no, not at all.</V>
+!******************************!
+<V0050><T><A3/1>Come to think of it, I don't think
+I've seen any of you round 'ere
+before.</V>
+!******************************!
+<V0060><T>Yes, well, we don't often get a
+chance to visit this fine
+establishment of yours.</V>
+!******************************!
+<V0080><T><A1/1>Dunno about that, but I'm gonna
+need you to come with me for some
+questionin'. This way, you three.</V>
+!******************************!
+<V0090><T><A3/5>Argh!</V>
+!******************************!
+<V0100><T><A1/5>Professor, run away while you can!</V>
+!******************************!
+<V0110><T>Oof!</V>
+!******************************!
+<V0120><T><A1/6>Oh no!</V>
+!******************************!
+<V0130><T>Quickly, you two! This way!</V>
+!******************************!

@@ -1,0 +1,31 @@
+<T>If you're still looking for the
+Towering Pagoda, you should know
+that you're a little off course.
+!******************************!
+<T>Oh, we know that.
+!******************************!
+<T>Actually, we're gathering
+information at the moment.
+!******************************!
+<T>Hoo hoo hoo! Is that so? Doing a
+research project for school, are
+you?
+!******************************!
+<T>Well, I'd advise you to talk to all
+the locals around here. It'll give
+you perspective on the place.
+!******************************!
+<T>Once you've had a word with
+everyone, come and see me again.
+!******************************!
+<T>Maybe I'll have an interesting
+titbit or two for you.
+!******************************!
+<T><A1/5>But...wouldn't it be easier if you
+just told us what you know now?
+!******************************!
+<T><K><A1/5>Hmph.
+!******************************!
+<T>Hoo hoo! How's that research
+project of yours going?
+!******************************!

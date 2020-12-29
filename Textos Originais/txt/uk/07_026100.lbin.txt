@@ -1,0 +1,44 @@
+<T><A2/3>What is it? Hmm? What do you
+want? Can't you see I'm in a
+hurry here?
+!******************************!
+<T>Oh Luke, I think you've upset him.
+!******************************!
+<T>You can't just go running up to
+strangers and expect them to
+chat to you, you know.
+!******************************!
+<T>I can't help it, Flora. How else are
+we supposed to find leads for our
+investigation?
+!******************************!
+<T>But some people really don't like
+talking to strangers. You-
+!******************************!
+<T>Look, if you two are just going to
+stand there squabbling, will you
+at least get out of my way?
+!******************************!
+<T>I've got places to be and I could
+do without you obstructing me.
+!******************************!
+<T>Oh! But you can't keep running
+around like that!
+!******************************!
+<T>Hmm? Like what?
+!******************************!
+<T>With your trousers and shoes all
+dripping wet. It must be awfully
+uncomfortable.
+!******************************!
+<T><A4/3>There will be time for drying off
+later! I have to go now. Enjoy your
+little row.
+!******************************!
+<T>Drat. He's gone.
+!******************************!
+<T>He might have stayed if you hadn't
+got off on the wrong foot.
+!******************************!
+<T>You can hardly blame that on me...
+!******************************!

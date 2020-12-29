@@ -1,0 +1,15 @@
+<T>Hiya Max. Do you know where the
+Gilded 7 Casino is?
+!******************************!
+<T><A3/0>BZZT!<W> <A2/5>My dad says the casino's no
+place for children. We probably
+shouldn't even be talking about it.
+!******************************!
+<T>But you do know where it is?
+!******************************!
+<T><A1/1>DING DING DING!<W> Correct!<W> But I
+can't tell you. My dad would kill me!
+!******************************!
+<T>Maybe Becky can tell you, though.
+Try asking her!
+!******************************!

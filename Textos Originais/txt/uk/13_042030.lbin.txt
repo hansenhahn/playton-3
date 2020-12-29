@@ -1,0 +1,84 @@
+<T>This appears to be some sort of
+lift. I think we can use it to move
+around the fortress.
+!******************************!
+<T><A4/4>But there are so many buttons, I
+don't have the slightest clue how
+to operate it.
+!******************************!
+<T>Oi, you two! Get away from that
+transport pod!
+!******************************!
+<T><A1/6>Oh no! We've been spotted!
+!******************************!
+<T>We've come here for the girl Clive
+kidnapped. Tell us where Flora is
+at once!
+!******************************!
+<T>Flora, eh? You must mean that 
+pretty thing the boss dragged
+back here.
+!******************************!
+<T><A3/1>The boss? So you've been working
+for Clive all along...
+!******************************!
+<T>Course we have!<W> Dimitri was just
+a puppet. Clive's been our gaffer
+from day one!
+!******************************!
+<T><A4/1>Ah, it all makes sense now!
+!******************************!
+<T>We chucked your little friend into
+the ventilation room. Not that
+you'll be able to get to her, mind!
+!******************************!
+<T><A4/2>I wouldn't be so sure about that.
+!******************************!
+<T><K>Hrm?
+!******************************!
+<T><A2/2>What's to stop us from taking this
+transport pod to the ventilation
+room?
+!******************************!
+<T>You've even been so kind as to
+leave us an explanation of how
+to use the device.
+!******************************!
+<T>I did not!<W> Well, except for that
+note, but that's written in an
+uncrackable code.
+!******************************!
+<T>Have a gander if you like, but you
+ain't never gonna work out the
+instructions!
+!******************************!
+<T>Hmm. I seem to have made an error
+somewhere.
+!******************************!
+<T><A2/3>Hahahaaa! I told you that you
+wouldn't stand a chance!
+!******************************!
+<T>I must decipher these instructions
+if we're to save Flora!
+!******************************!
+<T><A2/2>There! The door should open any
+moment now.
+!******************************!
+<T>Wh-what?!<W> Hey, stop! You ain't
+allowed to go in there!
+!******************************!
+<T>And how are you going to stop us?
+You're just a talking head!<W> <A3/1>C'mon,
+Professor! Let's find Flora!
+!******************************!
+<T><A4/1>Let's see.<W> The ventilation room
+appears to be located on the
+12th floor.
+!******************************!
+<T>Don't you dare step inside there!<W> If
+you do, I'll make sure you regret it!
+!******************************!
+<T>How, exactly? You'll find it hard
+to make us regret anything from
+behind that glass! See you!
+!******************************!

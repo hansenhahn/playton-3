@@ -1,0 +1,88 @@
+<T>Psst! Did you hear that?
+!******************************!
+<T>I did. Those two are going to stand
+guard there for the next 10 hours.
+!******************************!
+<T><A2/4>I-I'm heading back. The guards know
+me. If I walk past on my own, they
+won't stop me.
+!******************************!
+<T><A1/2>Wait just a moment. I think we might
+be able to get these chaps to turn a
+blind eye to us.
+!******************************!
+<T>But how?
+!******************************!
+<T>It's not my usual style of problem
+solving, but you know what they
+say about desperate times...
+!******************************!
+<T>Wait just a minute. I'm sure we
+can find a way past them.
+!******************************!
+<T>We need to take care of the guards
+before they spot us.
+!******************************!
+<T>Crikey, I bet they didn't see that
+coming. They'll be out cold for a
+while.
+!******************************!
+<T>Yes. I'm not one to condone
+violence, but needs must, and at
+least now we can pass safely.
+!******************************!
+<T><A4/1>I have something else to tell you
+before we move on.
+!******************************!
+<T>We came here to prevent Dimitri
+from completing his time machine.
+!******************************!
+<T>We also wish to liberate all the
+scientists that Dimitri is holding
+captive.
+!******************************!
+<T>I'm listening.
+!******************************!
+<T>I'm hoping we can speak directly to
+the man and end this whole mess.
+!******************************!
+<T>Do you know Dimitri's current
+whereabouts?
+!******************************!
+<T><K>Hmm.<W></K> Well, if he's here, he'll
+probably be in the central research
+room. I'll show you the way.
+!******************************!
+<T><A2/1>Wonderful. But before we go, will
+you allow me one more question?
+!******************************!
+<T>Go on.
+!******************************!
+<T><A1/1>These materials lying around down
+here...<W> They aren't for building a
+time machine, are they?
+!******************************!
+<T><K>...<W></K>No, they aren't.
+!******************************!
+<T>What exactly are you working on
+here?
+!******************************!
+<T><A2/4>My speciality is polydimensional
+physics, so I've been assigned to
+work on the time machine.
+!******************************!
+<T>The materials lying around here
+belong to a separate research
+group within the facility.
+!******************************!
+<T>And this group also work under
+Dimitri's supervision?
+!******************************!
+<T><A1/1>Who knows? That group tinker with
+some pretty dangerous stuff.
+!******************************!
+<T>I don't think Dimitri's that
+interested in what they do, though.
+!******************************!
+CELL NOT USED
+!******************************!

@@ -1,0 +1,2 @@
+<T>This door appears to be locked.
+!******************************!

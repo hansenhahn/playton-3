@@ -1,0 +1,12 @@
+<T>Layton and the others visit a
+riverside restaurant by the name
+of the Thames Arms.
+!******************************!
+<T>There, the bartender informs them
+that Future Layton came by, but
+that they just missed him.
+!******************************!
+<T>Intent on ending Future Layton's
+plan to create a time machine, the
+group head back to Chinatown.
+!******************************!

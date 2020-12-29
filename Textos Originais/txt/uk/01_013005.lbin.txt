@@ -1,0 +1,56 @@
+<T>It's been a while, hasn't it,
+Andrew?
+!******************************!
+<T>Indeed, Hershel. I trust you're
+still spending the majority of your
+waking hours doing research?
+!******************************!
+<T><A1/2>What can I say? I learned from
+the best.<W> Having an office in which
+to work has made life easier, too.
+!******************************!
+<T>You've got your own office? <W>Oh,
+what am I saying? You've had
+one for some time, haven't you?
+!******************************!
+<T>And you deserve it.
+!******************************!
+<T>I've seen my share of scholars, but
+you were the brightest to ever set
+foot in my classroom.
+!******************************!
+<T>Naturally!
+!******************************!
+<T>Oh dear! With all this excitement, I
+nearly forgot to take my medicine.
+Silly me. 
+!******************************!
+<T>I've got the bottle here, but
+working out the correct dosage is
+proving rather taxing.
+!******************************!
+<T>Luke, be a good boy and help me
+work out how much of this I need
+to drink.
+!******************************!
+<T>You're giving up? But it's nearly
+time for my medicine!
+
+!******************************!
+<T>You're back! Did you think of a way
+for me to take my medicine?
+!******************************!
+<T>You've taught this boy well,
+Hershel. You've clearly passed
+down some of my skills, heh heh!
+!******************************!
+<T>Um...
+!******************************!
+<T>Yes, as I was saying, you always
+were the brightest, though there
+was one other pupil who came close.
+!******************************!
+<T>That boy was something of a whizz
+as well. I wonder what became of
+him...
+!******************************!

@@ -1,0 +1,29 @@
+<T><A3/0>Keh heh heh!<W> <A2/1>All right, what mischief
+have you two got yourselves into
+now, then?
+!******************************!
+<T>Excuse me? I don't know what
+you're talking about.
+!******************************!
+<T><A2/3>No point playing innocent, boy!
+Old Stachenscarfen knows more
+than you think!
+!******************************!
+<T><A3/0>Keh heh heh!<W><A1/1> They might be hidden,
+but I DO have eyes, you know.
+!******************************!
+<T>And these eyes can see that the
+law's right on your tail!
+!******************************!
+<T>I don't think I understand...
+!******************************!
+<T><A2/1>Say no more, boy. Just know that
+I'm always on your side.<W> If you call
+me, I'll come running!
+!******************************!
+<T>Oh... Well, thanks, I suppose.
+!******************************!
+<T>We ought to be off now, Luke. I have
+the feeling that things are about to
+get interesting.
+!******************************!

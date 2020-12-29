@@ -1,0 +1,298 @@
+<T><A4/1>Of course. This is an article about
+the accident that happened just
+the other day.
+!******************************!
+<T><A2/5>Ha ha! Yes, to you, I suppose it
+was a recent event.
+!******************************!
+<T>But here it's been a full 10 years
+since that fateful day.
+!******************************!
+<T>Whoa...
+!******************************!
+<T><A2/4>It was the start of a dark period
+for London.
+!******************************!
+<T>With the prime minister missing,
+Parliament was in utter chaos,
+you see.
+!******************************!
+<T><A4/4>Yes, everyone in Parliament is in a
+state of panic.<W> Um, in our time, I
+mean.
+!******************************!
+<T><A3/5>Professor, you witnessed with your
+own eyes the accident that changed
+London forever.
+!******************************!
+<T>The time machine presentation was
+a complete failure.
+!******************************!
+<T>Yes, both the prime minister and
+that scientist...
+!******************************!
+<T><A1/1>You mean Dr Stahngun?
+!******************************!
+<T>Yes, that's right. Several people
+disappeared in the blast, including
+those two.
+!******************************!
+<T>It seems likely that they were killed
+by the force of the explosion.
+!******************************!
+<T>Didn't the papers say that a few
+of Dr Stahngun's assistants had
+also vanished in the blast?
+!******************************!
+<T><A3/3>That's the story in the press. But
+what would you say if I told you
+Stahngun was still alive?
+!******************************!
+<T><A1/6>I'd say it's impossible!
+!******************************!
+<T>Then you'd be wrong.
+!******************************!
+<T>Dr Stahngun escaped the blast,
+but he went into hiding to avoid
+reprisals after the experiment.
+!******************************!
+<T>The man was responsible for the
+loss of our national leader, after
+all.
+!******************************!
+<T>Desperate for a place to lie low,
+the doctor was given shelter by an
+unlikely person.<W> <A3/5>You, Professor.
+!******************************!
+<T>Me?<W> Why would I aid the man
+responsible for this pandemonium?
+!******************************!
+<T><A4/3>That is something I have never
+understood.
+!******************************!
+<T>In the months that followed the
+explosion, you slowly grew distant
+from me.
+!******************************!
+<T>You began consorting with figures
+from the criminal underworld. 
+!******************************!
+<T><A1/5>The professor?! Never!
+!******************************!
+<T><A4/4>Don't be so sure. Time has a way
+of changing people, Luke.
+!******************************!
+<T>It was clear that something about
+Stahngun's research captivated
+you, Professor.
+!******************************!
+<T><A4/3>You couldn't stop talking about
+time travel. You seemed obsessed
+with the idea of changing the past.
+!******************************!
+<T>Changing the past?
+!******************************!
+<T>Dr Stahngun was very interested
+in continuing his research, but he
+needed financial backing to do it.
+!******************************!
+<T>So you used your superior intellect
+to assume control of London's
+underworld.
+!******************************!
+<T><A1/4>No...
+!******************************!
+<T>Of course, there were those who
+tried to stop you. But none were a
+match for Professor Layton.
+!******************************!
+<T>Before long, you were raking in
+cash from all sorts of dodgy
+businesses.
+!******************************!
+<T>With all the funding he needed, it
+wasn't long before Stahngun
+completed his time machine.
+!******************************!
+<T>Time machine? You mean...
+!******************************!
+<T><A1/4>That's right. The time machine in
+the clock shop on Midland Road.
+!******************************!
+<T>Though I suppose {''}completed{''} is the
+wrong word, as the machine is far
+from complete.
+!******************************!
+<T>How so?
+!******************************!
+<T><A1/1>It doesn't allow the user to select
+a destination.
+!******************************!
+<T>You can select neither the place
+nor the time you wish to travel to.
+!******************************!
+<T>In fact, it would be more accurate
+to describe it as a sort of tunnel
+between two periods in time.
+!******************************!
+<T><A1/1>A wormhole!
+!******************************!
+<T><A1/2>Precisely. And by sheer chance...<W>
+!******************************!
+<T>This wormhole opened in the clock
+shop and crosses the 10 years
+between our two times.
+!******************************!
+<T>This gives us the ability to move
+back and forth between your
+present and mine.
+!******************************!
+<T>So you used the wormhole to get
+the message to us and to bring us
+here.
+!******************************!
+<T>One thing is bothering me, though.
+This wormhole is obviously very
+important to my future self.
+!******************************!
+<T>Surely the Layton of this era must
+keep a close eye on it. How did you
+gain access?
+!******************************!
+<T><A1/4>I'll get to that, but right now
+there's more pressing business I'd
+like to attend to.
+!******************************!
+<T>Go on then. Tell us why you called
+us here.
+!******************************!
+<T><A2/5>Always one step ahead of me, eh?
+You haven't lost your touch,
+Professor.
+!******************************!
+<T>I wish to enlist your help in stopping
+Hershel Layton.
+!******************************!
+<T>You want me to stop myself?
+!******************************!
+<T><A2/4>Even as we speak, the other
+Layton is working to build a fully
+operational time machine.
+!******************************!
+<T>He's been ducking back into your
+time to gather every bright
+scientist working in time travel.
+!******************************!
+<T>But why bother going into the past
+to find scientists? There must be
+plenty here, in this era.
+!******************************!
+<T><A1/1>Actually, many of the experts in
+the field were lost when Stahngun's
+presentation went awry.
+!******************************!
+<T>Layton had no choice but to travel
+back to the time before the blast
+in order to gather talent.
+!******************************!
+<T><K>Hmm...
+!******************************!
+<T><A1/4>Things are already bad.
+!******************************!
+<T>But if Layton manages to build a
+fully functional time machine,
+who knows what could happen?
+!******************************!
+<T>Someone has to stop him from
+completing his scheme. But the
+only person who might succeed is-
+!******************************!
+<T>Me...<W> That is what you are going
+to say, is it not?
+!******************************!
+<T>Exactly. We have to fight fire with
+fire. No one else stands a chance
+against him.
+!******************************!
+<T>But how? I'm not familiar with this
+future London. I wouldn't even
+know where to start looking.
+!******************************!
+<T><A1/1>That's one obstacle we'll have to
+overcome together. Layton's
+actions are shrouded in secrecy.
+!******************************!
+<T>His base of operations, however,
+is well known. We can start our
+search for him there.
+!******************************!
+<T>You mean this casino isn't the
+future professor's headquarters?
+!******************************!
+<T><A1/2>No, this establishment is just one
+of the many ways he makes money.
+!******************************!
+<T>His headquarters are in the heart
+of Chinatown.
+!******************************!
+<T>Well, let's visit the place and see
+if we can learn anything more.
+!******************************!
+<T>I must admit, Luke, there is still
+quite a bit about this situation
+that I find dubious.
+!******************************!
+<T><A1/2>However, I see that the only way to
+get to the bottom of this is to go
+and find this man claiming to be me.
+!******************************!
+<T><A2/2>Heh heh. I thought you'd say that,
+Professor.
+!******************************!
+<T>Don't forget me! I'm coming too.
+!******************************!
+<T>Of course you are.<W> If I can't count
+on myself for help, who can I count
+on?
+!******************************!
+<T><A4/4>Thinking about what you just said
+makes me feel kind of...dizzy.
+!******************************!
+<T>Ha ha!<W> Well, I hope you get used to
+it soon. I'm going to need your help
+in stopping the evil Layton too.
+!******************************!
+<T><A2/6>Oh yes, there's one more
+interesting fact I should mention,
+Professor.
+!******************************!
+<T><A4/1>Yes?
+!******************************!
+<T><A1/2>There's no record of a scientist
+matching Dr Stahngun's name and
+description. It's a false name.
+!******************************!
+<T>Is that so?
+!******************************!
+<T>Whoever he was, he took pains to
+hide his real identity from the
+people at the presentation.
+!******************************!
+<T><A4/5>Now that you mention it, few of the
+guests seemed to know the man.
+!******************************!
+<T>What would motivate Stahngun to
+use a false name? What was he
+planning?
+!******************************!
+<T>Another interesting question we
+may hope to answer along the way.
+!******************************!
+<T>It just doesn't make any sense...
+!******************************!
+<T><A1/1>What are you thinking, Professor?
+!******************************!
+<T>We can talk more on the way. For
+now, we should head back to
+Flatstone Street.
+!******************************!

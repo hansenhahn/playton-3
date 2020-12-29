@@ -1,0 +1,90 @@
+<T><A3/1>It would seem the tables have
+turned, Dimitri.
+!******************************!
+<T><A3/2>That's a rather delusional
+statement for someone with your
+penchant for logical thought.
+!******************************!
+<T>Look around you. In case you
+hadn't noticed, you're deep within
+the Family's headquarters.
+!******************************!
+<T>I need only say the word and my
+men will come rushing to my aid.
+!******************************!
+<T>You underestimate me, Dimitri.
+!******************************!
+<T><A3/2>Do you think I'd be so na{:i}ve as to
+set foot in your base without a
+plan of my own?
+!******************************!
+<T><A1/1>Meaning?
+!******************************!
+<T><A1/2>This building is fascinating in its
+complexity.
+!******************************!
+<T>I saw plenty of spots where one
+might conceal a trap or the like.
+!******************************!
+<T>On my way up here, I set up a few
+diversions of my own. Call for your
+henchmen, if you like.
+!******************************!
+<T>I imagine most of them will have
+their hands full for a few more
+minutes at least.
+!******************************!
+<T>Hmph. Clever, Hershel. Very clever.
+!******************************!
+<T>C'mon, Boss! We've got to scarper!
+!******************************!
+<T>It seems I must concede defeat for
+now, but this is far from over.
+!******************************!
+<T>I look forward to seeing you when
+our paths cross next.
+!******************************!
+<T>Drat. They're much faster than I
+thought. There's no chance of us
+catching them.
+!******************************!
+<T>Oh no!
+!******************************!
+<T>What's wrong?
+!******************************!
+<T>All this commotion allowed Dimitri
+and his men to grab the prime
+minister and take him with them.
+!******************************!
+<T>Uh-oh. That doesn't sound good.
+!******************************!
+<T><A1/5>Dimitri's activated an alarm. This
+place will be flooded with Family
+thugs before long.
+!******************************!
+<T>There's the distinct possibility
+that we may have to fight our way
+out of the Towering Pagoda...
+!******************************!
+<T><A1/6>But didn't you take care of
+Dimitri's henchmen on the way in,
+Professor?
+!******************************!
+<T><A1/1>Not quite, I'm afraid. The few
+diversions I managed to set up will
+only last a few more minutes.
+!******************************!
+<T>The path we took on the way in
+is almost certainly swarming with
+Family now.
+!******************************!
+<T>Our only hope is to find some sort
+of emergency escape route.
+!******************************!
+<T>Dimitri is a prudent man. He may
+have one hidden somewhere in this
+room.
+!******************************!
+<T>We must search this place
+thoroughly.
+!******************************!

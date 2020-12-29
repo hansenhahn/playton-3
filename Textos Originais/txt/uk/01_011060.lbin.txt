@@ -1,0 +1,81 @@
+<T><A1/5>Ah, hello there lad!<A3/0>
+!******************************!
+<T><A1/1>Oh, um, hello.
+!******************************!
+<T><A1/5>What can I do for you? <A2/5><W><A1/5>WELL?<A3/0>
+!******************************!
+<T><A1/5>Uh, never mind. It's nothing,
+really. 
+!******************************!
+<T><A1/5>Oh, don't run away! It gets ever
+so lonely around here with no one to
+talk to.
+!******************************!
+<T><A4/4>Oh... That's terrible...
+!******************************!
+<T><A1/5>You're a good lad. Not many
+youngsters would stop to listen
+to an old man's problems.
+!******************************!
+<T>Here's a little something for your
+kindness.
+!******************************!
+<T>Huh?
+!******************************!
+<T><A1/5>Having a spot of trouble with my
+puzzle?<A2/5><W> <A1/5>WELL?<W> Don't fret. If you
+keep at it, you'll get it eventually.
+!******************************!
+<T><A1/5>A nice lad like you deserves
+a present.<W> Here.
+!******************************!
+<T>Oh, what's this?
+!******************************!
+<T>A picture book. The very definition
+of fun!<A2/5><W> <A1/5>FUN!
+!******************************!
+<T>Oh, well... I'm a bit old for picture
+books, in case you hadn't noticed.
+!******************************!
+<T>Oh yes, for normal picture books.
+But this one's special.<A2/5><W> <A1/5>SPECIAL!
+!******************************!
+<T>What's so special about it?
+!******************************!
+<T>Open it and you'll see: whole
+portions of the book are blank!<A2/5><W>
+<A1/5>BLAAAAAAAAANK!
+!******************************!
+<T>Um... Thanks?
+!******************************!
+<T>Back for another crack at that
+puzzle?<A2/5><W> <A1/5>WELL?
+!******************************!
+<T><A1/5>Well, aren't you bright as a button!
+!******************************!
+<T><A1/5>A nice lad like you deserves
+a present.<W> Here.
+!******************************!
+<T>Oh, what's this?
+!******************************!
+<T>A picture book. The very definition
+of fun!<A2/5><W> <A1/5>FUN!
+!******************************!
+<T>Oh, well... I'm a bit old for picture
+books, in case you hadn't noticed.
+!******************************!
+<T>Oh yes, for normal picture books.
+But this one's special.<A2/5><W> <A1/5>SPECIAL!
+!******************************!
+<T>What's so special about it?
+!******************************!
+<T>Open it and you'll see: whole
+portions of the book are blank!<A2/5><W>
+<A1/5>BLAAAAAAAAANK!
+!******************************!
+<T>Um... Thanks?
+!******************************!
+<T><A1/5>What's that? You want to solve
+another puzzle?<A2/5><W> <A1/5>WELL?<W> I'll think
+of one. Give me a minute.
+!******************************!

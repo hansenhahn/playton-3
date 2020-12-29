@@ -1,0 +1,65 @@
+<T>Oh! Goodness me, hello there.
+You'll have to forgive me, I didn't
+even see you coming in.
+!******************************!
+<T>Welcome to the Hotel Duke, home
+of exemplary service and the
+world's best breakfast.
+!******************************!
+<T>I'm Margaret, the hotel manager.
+Please don't hesitate to ask
+should you need anything.
+!******************************!
+<T><A1/1>Thanks! But what about lunch and
+dinner? Aren't those the world's
+best as well?
+!******************************!
+<T>Aha! It seems we have a little
+gourmand here.
+!******************************!
+<T>Well, rest easy, young man. For
+lunch, we offer sandwiches made with
+freshly baked, pillowy-soft bread.
+!******************************!
+<T>And if you're partial to a good
+roast, our beef with Yorkshire
+pudding is the best in London.
+!******************************!
+<T><A3/2>You know, Professor, I've changed
+my mind. I quite like this place.
+Let's stay here.
+!******************************!
+<T>Heh heh. Our sandwiches do tend
+to have that effect on people.</T>
+<TW>Now, if I could just-<W> Oh dear...
+!******************************!
+<T><A1/1>What's wrong?
+!******************************!
+<T>I've got four pens here, but only
+one of them has any ink in it.
+!******************************!
+<T>I don't suppose I could ask you to
+help me work out which one it is, 
+could I?
+!******************************!
+<T>Now let's see... Which pen was
+it?
+!******************************!
+<T>Only one of these pens has any ink
+in it, but I can't for the life of me
+remember which one.
+!******************************!
+<T>Ah, that's the one. Thank you ever
+so much. Now if you'd be so kind as
+to sign your name.
+!******************************!
+<T><A4/1>Very well.<S320></S320>
+!******************************!
+<T>You're all set now, Professor
+Layton.<W> Oh, and you must be Luke.
+Becky will show you to your room.
+!******************************!
+<T>You're checked in and your room is
+all set. Becky over there will take 
+you up.
+!******************************!

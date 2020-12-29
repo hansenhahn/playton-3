@@ -1,0 +1,24 @@
+<V0010><T><A4/4>I hope we find the professor
+soon...</V>
+!******************************!
+<V0020><T>Poor thing! You're just lost
+without him, aren't you, Luke?</V>
+!******************************!
+<V0030><T><A4/1>You're a fine one to talk!</V>
+!******************************!
+<V0050><T><A3/2>Oh, sorry to keep everyone
+waiting. Let's be off.</V>
+!******************************!
+<V0060><T><A1/6>Where did you go?<A1/1> One minute you
+were there, and the next you'd
+vanished!</V>
+!******************************!
+<V0070><T>My apologies, Luke. I just needed
+to check something.</V>
+!******************************!
+<T><Q><K><A1/1>...
+!******************************!
+<V0090><T>But enough about that. Come
+along, everyone. The Towering
+Pagoda is just steps away.</V>
+!******************************!

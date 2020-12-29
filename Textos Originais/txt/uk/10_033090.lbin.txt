@@ -1,0 +1,19 @@
+<T>Hello again, boyo. What can I do
+for you?
+!******************************!
+<T>I'm sorry to disturb you, madam,
+but you haven't seen the boy who's
+travelling with me go by, have you?
+!******************************!
+<T>The country bumpkin in the blue
+hat, is it? Yes, I saw him. Going up
+Flatstone Street, he was.
+!******************************!
+<T>He didn't seem lost, see, so I just
+let him be. Oh dear. I wish I'd
+said something to him now.
+!******************************!
+<T><A1/2>Not to worry. I'm sure we'll find
+him soon. Thank you for the
+information.
+!******************************!

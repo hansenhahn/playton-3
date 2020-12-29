@@ -1,0 +1,13 @@
+<T>Here we are, back on Flatstone
+Street.
+!******************************!
+<T><A2/1>Yes, but I can't see anything
+around here that looks like a
+casino.
+!******************************!
+<T>I think our best bet would be to ask
+a local.
+!******************************!
+<T><A3/1>Oh look! There's someone we can
+ask! Wait here, Professor.
+!******************************!

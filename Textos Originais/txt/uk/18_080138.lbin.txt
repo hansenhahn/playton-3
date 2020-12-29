@@ -1,0 +1,25 @@
+<T><A3/1>Am I glad to see you! I've got
+another job I need help with.
+You're game, aren't you?
+!******************************!
+<T><A1/2>But of course. How may I be of
+service?
+!******************************!
+<T><A1/1>This here board is a real pain to
+work with. Do you have any good
+ideas on how to cut it?
+!******************************!
+<T>Any more bright ideas on how to
+deal with this board, mate?
+!******************************!
+<T><A2/1>I knew you were the man for the job!
+Now that that's done, my work here
+is as good as finished.
+!******************************!
+<T>It won't be long before Midland Road
+is free of construction work!
+!******************************!
+<T>The end of the project is finally in
+sight after all this time. I couldn't
+have done it without you!
+!******************************!

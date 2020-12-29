@@ -1,0 +1,19 @@
+<T>The door is locked with a puzzle.
+!******************************!
+<T>I wouldn't expect anything less from
+Clive.
+!******************************!
+<T>It's clear that we're not getting
+inside without doing some thinking.
+!******************************!
+<T>This puzzle isn't going down without
+a fight. I'll have to try again.
+!******************************!
+<T>I'm confident I can find the
+solution this time.
+!******************************!
+<T>Excellent! With the puzzle solved,
+we're free to go in.
+!******************************!
+<T>Great! Then let's head in!
+!******************************!

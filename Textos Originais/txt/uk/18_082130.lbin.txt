@@ -1,0 +1,14 @@
+<T>Let's see how you do against this
+puzzle.
+!******************************!
+<T>This one is quite difficult.
+!******************************!
+<T>Leave no puzzle unsolved, that's
+what I always say!
+!******************************!
+<T><A1/2>Wonderful, wonderful job on that
+puzzle.
+!******************************!
+<T><A1/2>Back to solve this one again?
+Enjoy!
+!******************************!

@@ -1,0 +1,38 @@
+<T>There. Much better. I don't think
+anyone is likely to overhear us now.
+!******************************!
+<T>You mentioned that there is a way
+for us to visit the inspector in our
+own time.
+!******************************!
+<T>I can only imagine that this means
+going back to 10 years ago. Is such
+a thing possible?
+!******************************!
+<T><A2/2>Indeed, Professor. But the only
+way to do it is to use the wormhole
+in the clock shop.
+!******************************!
+<T><A4/4>But the door to the clock shop is
+locked. How are we going to get in?
+!******************************!
+<T>That shouldn't be a problem. I can
+get that door open for you.
+!******************************!
+<T>Strange... Why is it that you have
+such easy access to the wormhole?
+!******************************!
+<T>I promise I'll explain everything
+when we get there. Please trust me
+on this.
+!******************************!
+<T>But for now, let's return to the
+clock shop on Midland Road.
+!******************************!
+<T><A1/1>But what about our plan to head
+into Chinatown?
+!******************************!
+<T>That'll have to be put on the back
+burner for now. The situation has
+changed.
+!******************************!

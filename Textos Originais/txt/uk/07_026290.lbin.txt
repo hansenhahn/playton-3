@@ -1,0 +1,64 @@
+<T>You there, with the shady
+expression! Look me in the
+eyes when I talk to you.
+!******************************!
+<T><A3/1>Buzz off, will you? I'm reading here!
+!******************************!
+<T><A2/1>Listen, you hooligan, I'm acting
+under the authority of Scotland
+Yard!
+!******************************!
+<T>I demand that you comply with my
+investigation!
+!******************************!
+<T>Scotland Yard? Pfft.<W> It's been
+years since the police had any
+power in this city.
+!******************************!
+<T><A5/0>No power, you say? You'd do well
+to take a close look at the man
+before you!
+!******************************!
+<T>The very sight of this face sends
+thugs running for the hills!
+!******************************!
+<T><A5/0>Whoa there, settle down!<W>
+<A4/1>S-somebody help me! This oddball's
+getting too c-close for comfort!
+!******************************!
+<T>Inspector, please calm down!
+!******************************!
+<T><A1/1>Hrm? Ah, Luke. Not now, lad. I'm
+putting the screws on this dubious
+character here.
+!******************************!
+<T><A1/2>Inspector, please. I can vouch for
+this man. He's just an ordinary
+citizen.
+!******************************!
+<T><A3/1>Oh, so he's a friend of yours,
+Layton? You should've said so
+earlier.
+!******************************!
+<T>You're off the hook, newspaper
+boy. But listen well, because I'll
+only say this once.
+!******************************!
+<T>Th-thanks!<A3/1> I'm l-listening!
+!******************************!
+<T>The soul of Scotland Yard and what
+it stands for is immortal! Even in a
+corrupt pit of depravity like this!
+!******************************!
+<T>Now if you'll excuse me, I've got an
+investigation to attend to.<W>
+Good day, Layton.
+!******************************!
+<T><A2/1>Phew!<W> Thanks for saving me from
+that loon. What was all that
+gibberish about Scotland Yard?
+!******************************!
+<T>Oh, the inspector doesn't mean any
+harm. He just tends to get a little
+worked up.
+!******************************!

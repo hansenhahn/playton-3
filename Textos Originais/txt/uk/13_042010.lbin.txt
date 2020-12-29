@@ -1,0 +1,9 @@
+<V0010><T>Our first priority is finding where
+Clive has taken Flora.</V>
+!******************************!
+<V0020><T>Aye aye, Professor!<W> <A4/4>But this place
+is huge! They could be anywhere!</V>
+!******************************!
+<V0030><T>First things first. Let's find a
+way in.</V>
+!******************************!

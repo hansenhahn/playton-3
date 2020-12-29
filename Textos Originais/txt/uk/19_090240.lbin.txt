@@ -1,0 +1,18 @@
+<T>Layton and the others encounter
+Don Paolo within the grounds of
+the research facility.
+!******************************!
+<T>As the group push on, piles of
+curious materials catch the
+professor's eye.
+!******************************!
+<T>What kind of strange research is
+being conducted in this facility?
+!******************************!
+<T>Do Layton and the others have a 
+chance of finding Dimitri here?
+!******************************!
+<T>These questions prey on Layton's
+mind as the group make their way
+to the core of the facility.
+!******************************!

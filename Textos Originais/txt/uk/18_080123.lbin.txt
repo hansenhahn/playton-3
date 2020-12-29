@@ -1,0 +1,40 @@
+<T>Good day, Layton. How's your
+investigation going?
+!******************************!
+<T><A1/2>I believe I'm making good progress -
+with a little help from Scotland
+Yard, of course.
+!******************************!
+<T>How about yourself, Inspector?
+Have you come across any promising
+leads?
+!******************************!
+<T><A2/1>I'd say so. You won't believe the
+chat I heard a couple of suspicious
+blokes having a moment ago.
+!******************************!
+<T><A1/1>Oh really?<W> Would you care to tell
+me what you heard, perhaps?
+!******************************!
+<T><A3/5>Giving up, Layton? This puzzle might
+contain information vital to both
+our investigations, you know.
+!******************************!
+<T><A1/1>Layton, help me make sense of this
+puzzle. Solving it might blow our
+case wide open.
+!******************************!
+<T><A4/2>There, it's solved!
+!******************************!
+<T><A4/1>True, but unfortunately I don't see
+any link between this puzzle and
+our case.
+!******************************!
+<T><A2/6>Oh?<W> Hmm, yes, I suppose that's
+true. Hrmph! Back to pounding the
+pavement it is, then...
+!******************************!
+<T><A3/1>I'm going to get to the bottom of
+this and rescue the prime minister.
+You can bet on that, Layton.
+!******************************!

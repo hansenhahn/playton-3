@@ -1,0 +1,14 @@
+<T>This must be the big road that Max
+was talking about, Flatstone
+Street.
+!******************************!
+<T>Excellent. If we continue north,
+we should find the station on the
+right.
+!******************************!
+<T>Then we're almost there. Let's
+keep moving, Professor!
+!******************************!
+<T><K>Hmm?<W></K> Hey, is it just me or is that
+man on the corner shaking? 
+!******************************!

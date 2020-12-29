@@ -1,0 +1,50 @@
+<T>Ah, young man! Do you have a
+moment?
+!******************************!
+<T>Hmm? Are you talking to me?
+!******************************!
+<T>I am indeed, er...Luke, was it?
+!******************************!
+<T>That's right!
+What can I do for you?
+!******************************!
+<T>Oh, it's nothing terribly important.
+It's just been a while since we had
+a youngster like yourself here.
+!******************************!
+<T>That's why I thought I'd welcome
+you with a gift.
+!******************************!
+<T><A4/1>A gift? For me?
+!******************************!
+<T>That's right. These are all the
+rage with the local children, I
+hear.
+!******************************!
+<T>Oh, it's one of those toy cars!
+!******************************!
+<T>Do you have one too, Becky?
+!******************************!
+<T><A1/5>Me? Hah!<W> No way. I'm not into
+kiddie toys like that.
+!******************************!
+<T><A1/1>Oh.
+!******************************!
+<T><A1/2>Not that there's anything wrong
+with having an interest in toys, of
+course.
+!******************************!
+<T>I mean, that car is perfect for a
+boy your age. You have fun with it
+now!
+!******************************!
+<T>Um... Yeah, I'll try.
+!******************************!
+<T>Don't look so glum, Luke. Collecting
+miniature cars is a perfectly
+respectable hobby for a gentleman.
+!******************************!
+<T><A3/2>Yeah, that's right, Professor!
+!******************************!
+<T><A1/2>See? I told you.
+!******************************!

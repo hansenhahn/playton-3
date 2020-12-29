@@ -1,0 +1,45 @@
+<T><A1/1>Oh hello! You're not from around
+here, I take it?
+!******************************!
+<T><A1/1>I suppose you could say that. We're
+here on an investigation.
+!******************************!
+<T><A1/4>Yes, and all this walking we're doing
+is really starting to catch up with
+me.
+!******************************!
+<T><A2/1>Tired, eh?<W> Well, you know what
+always perks me up?<W> A nice chunk of
+chocolate.
+!******************************!
+<T>I've got some in my pocket, in fact.
+Would you like a piece?
+!******************************!
+<T><A4/2>Like one? I'd love one!
+!******************************!
+<T><A3/4>Oh my, it seems I spoke too soon.
+This chocolate's got a hole in it.
+How am I going to cut it up now?
+!******************************!
+<T><A1/2>Would you mind if I had a look at
+it? I think I can help.
+!******************************!
+<T><A3/4>No luck? That's a shame. There's
+nothing like sharing good chocolate
+with nice people.
+!******************************!
+<T><A3/4>There must be some way to split
+up this chocolate bar equally.
+!******************************!
+<T><A2/1>Lovely! Now everyone can have
+some! Here you go, you two.
+!******************************!
+<T><A1/2>Thank you very much!
+!******************************!
+<T><A3/2>Mmm! It's delicious.<W> If only I had
+a glass of milk to go with it!
+!******************************!
+<T><A4/5>Nothing puts the spring back in
+your step like a little nibble of
+chocolate.
+!******************************!

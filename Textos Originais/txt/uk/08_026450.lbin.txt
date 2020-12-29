@@ -1,0 +1,100 @@
+<T><A4/1>Gentlemen, miss. Welcome to the
+Thames Arms.
+!******************************!
+<T>Good afternoon.<W><A1/1> We're here in
+search of an acquaintance who
+may have come by here today.
+!******************************!
+<T><A3/1>Well as you can see, it's fairly
+quiet. One regular came in earlier,
+but he left a few minutes ago.
+!******************************!
+<T>I see.<W> This regular didn't happen
+to come from Chinatown, did he?
+!******************************!
+<T>Erm...<W> Forgive me, but it doesn't
+seem right to give out that kind of
+information without his consent.
+!******************************!
+<T>Of course. I understand your
+position.
+!******************************!
+<T><A2/1>However, this information could be
+vital. The fate of London hangs in
+the balance.
+!******************************!
+<T><A4/5>That's quite a claim to make...
+!******************************!
+<T><A3/1>Okay, how about this? If you can
+help me with a problem I'm having,
+perhaps I'll help you with yours.
+!******************************!
+<T>Leaving already? Didn't you want
+to hear about one of our
+customers?
+!******************************!
+<T>If you work this out for me, I might
+be able to provide you with the
+information you're looking for.
+!******************************!
+<T><A1/2>Excellent. Your help is much
+appreciated.
+!******************************!
+<T><A3/2>Now that we've solved your
+problem, will you tell us about the
+man who was in here earlier?
+!******************************!
+<T><A4/1>A deal's a deal. The customer who
+came by earlier is what some might
+call a bit of an oddball.
+!******************************!
+<T>Every time he comes in, he's got
+different gear on. Maybe he thinks
+I won't recognise him or something.
+!******************************!
+<T><A1/6>So he disguises himself?
+!******************************!
+<T>He tries to, I suppose.
+!******************************!
+<T>He says he can't afford to be
+spotted in public, so he always
+wears different clothes.
+!******************************!
+<T><A1/1>And this man hails from Chinatown?
+!******************************!
+<T>That's right. He says he comes
+here to unwind. His routine's
+pretty much the same every time.
+!******************************!
+<T>He usually walks in wearing that
+top hat of his, orders a coffee
+and finds a seat by the window.
+!******************************!
+<T>Did you just say he wears a
+top hat?!
+!******************************!
+<T>I did. It's a tall number, like the
+one your friend is wearing. That's
+how I always know who he is.
+!******************************!
+<T>But you said that this man has
+already left for today, correct?
+!******************************!
+<T>That's right. If you'd arrived
+a few minutes earlier, you would
+have bumped into him leaving.
+!******************************!
+<T><A1/1>Do you suppose he's going back to
+the Towering Pagoda, Professor?
+!******************************!
+<T><A3/1>I think there's a good chance of
+that. Why don't we go and find out?
+!******************************!
+<T>Good idea. Let's go!
+!******************************!
+<T><A3/5>Have a nice day.
+!******************************!
+<T>The customer you asked about has
+already gone home for the day.
+He lives somewhere in Chinatown.
+!******************************!

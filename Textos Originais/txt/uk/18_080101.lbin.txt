@@ -1,0 +1,44 @@
+<T><A1/1>The Laytonmobile certainly is in a
+sad state.
+!******************************!
+<T><A3/1>Poor thing. The tyres are wonky
+and half its body's covered in moss.
+!******************************!
+<T><A4/1>No wonder it wouldn't start.
+It's been neglected for ages.
+!******************************!
+<T><A4/5>And I took such good care of it
+back in our own time, too. What
+a shame...
+!******************************!
+<T>Taking the Laytonmobile for a
+tune-up will be the first thing I do
+when we get back to our time.
+!******************************!
+<T><A2/2>But while we're on the subject
+of automobiles, have you ever
+heard this one, Luke?
+!******************************!
+<T><A1/1>It's no use. The answer just
+won't come to me right now.
+!******************************!
+<T><A1/5>This puzzle's going down!
+!******************************!
+<T><A3/1>It's amazing how you seem to have
+a puzzle for every situation,
+Professor.
+!******************************!
+<T><A4/2>I'm sure you'll be the same when
+you get to my age, Luke.
+!******************************!
+<T>Besides, I needed something to
+take my mind off the decrepit
+state of the Laytonmobile.
+!******************************!
+<T><A4/1>I know you're upset, Professor,
+but the Laytonmobile's not going
+to budge. We'll have to walk.
+!******************************!
+<T><A4/1>What a pity.<W> It would have been
+nice to get behind the wheel again.
+!******************************!

@@ -1,0 +1,39 @@
+<T>Hi there, squirt. What can I do
+for you?
+!******************************!
+<T>I noticed there's a bus stop up
+ahead. London still has a bus
+service, doesn't it?
+!******************************!
+<T>Of course! We've got more buses
+than you can shake a stick at.<W>
+What an odd question.
+!******************************!
+<T><A3/2>Brilliant!<W> Did you hear that,
+Professor? The buses are running!
+!******************************!
+<T><A4/2>I heard, Luke.<W> Your exuberance
+is appreciated, but we don't want
+to unsettle our friend here.
+!******************************!
+<T>Crikey, I've never seen someone
+so chuffed about taking the bus.
+!******************************!
+<T><A3/5>Well, if you like buses, you're going
+to love this little number.
+!******************************!
+<T>You know, if you really like buses,
+solving a puzzle like this should be
+a breeze.
+!******************************!
+<T>Back to take my bus puzzle out for
+another spin, eh?
+!******************************!
+<T>You know, I'm something of a bus
+aficionado myself.
+!******************************!
+<T>The old double-deckers, mind. None
+of that bendy business.
+!******************************!
+<T>Did you manage to get a bus?
+!******************************!

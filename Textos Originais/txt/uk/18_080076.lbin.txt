@@ -1,0 +1,41 @@
+<T><A1/1>Hello Mr Gentlemen!
+!******************************!
+<T><A1/1>Hello there.
+!******************************!
+<T><A2/4>You're just the people I need!
+!******************************!
+<T><A3/1>Why? What's up?
+!******************************!
+<T><A1/3>I'm a bit stuck, you see...
+!******************************!
+<T><A4/1>What do you mean?
+!******************************!
+<T><A5/1>I've got this puzzle on my hands,
+and it's been putting me through
+the wringer.
+!******************************!
+<T><A3/2>A puzzle, you say?<W> In that case,
+you're talking to the right
+gentleman!
+!******************************!
+<T><A1/1>Oh good! See, it's about this thing
+that happened during Father's
+research.
+!******************************!
+<T><A2/4>No luck?<W><A2/1> Oh well. Thanks for
+trying to help, though.
+!******************************!
+<T><A5/1>Maybe you can help me find a
+solution to this puzzle I've got?
+!******************************!
+<T><A1/1>Jolly good! Thanks for helping me
+out with that. I can't wait to tell
+Mother! She'll be over the moon!
+!******************************!
+<T><A3/2>It's no trouble, miss. Like any
+aspiring gentleman worth his salt,
+I live to serve!
+!******************************!
+<T><A1/1>Thanks for your help, Mr
+Gentlemen!
+!******************************!

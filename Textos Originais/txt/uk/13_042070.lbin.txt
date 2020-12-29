@@ -1,0 +1,21 @@
+<T><A1/3>Oh great. This weird glass cage has
+another one of those puzzle locks
+on it.
+!******************************!
+<T>I simply can't stand to see Flora in
+that awful thing. Let's get this
+puzzle solved quickly.
+!******************************!
+<T>No, that won't do it.
+!******************************!
+<T>Help me, Professor!
+!******************************!
+<T>Don't you worry, Flora. You'll be
+free before you know it.
+!******************************!
+<T>Hold on, Flora. I'll have you out
+of there in a matter of minutes.
+!******************************!
+<T>All right, Flora, I'm opening the
+cell.
+!******************************!

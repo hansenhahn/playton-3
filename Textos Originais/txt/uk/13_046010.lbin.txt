@@ -1,0 +1,27 @@
+<T>These gears form the core of the
+generator. If we can just reverse
+their movement...
+!******************************!
+<T>We can effectively overload the
+fortress's power supply, thus
+putting a halt to Clive's plan.
+!******************************!
+<T><A4/4>I see you've been thinking about
+this too, Professor. Is there
+anything you don't know about?
+!******************************!
+<T><A1/2>A gentleman must have his hobbies.
+It just so happens that I have
+an interest in machines.
+!******************************!
+<T><A2/2>Amazing, Professor!
+!******************************!
+<T><A1/1>It's too early to celebrate, Luke.
+If we fail here, many lives may still
+be lost.
+!******************************!
+<T>Are you up to the challenge,
+Professor?
+!******************************!
+<V0010><T>It's all up to you now, Professor.</V>
+!******************************!

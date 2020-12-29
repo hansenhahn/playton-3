@@ -1,0 +1,12 @@
+<T>As they approach Chinatown, 
+our heroes are blocked by two 
+Family henchmen at the gate.
+!******************************!
+<T>This encounter reminds Layton
+of Inspector Chelmey, and some 
+questions he'd like to ask him.
+!******************************!
+<T>Aided by Future Luke, Layton and
+Luke look for a way to return to
+the present to speak to Chelmey.
+!******************************!

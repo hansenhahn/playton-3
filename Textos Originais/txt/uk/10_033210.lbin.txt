@@ -1,0 +1,11 @@
+<T>Hello, Spring. Tell me, has Luke
+been in the shop recently?
+!******************************!
+<T>Of course. Sir's been... Oh, silly
+me! You're talking about the little
+Luke.<W> No, I've not seen him.
+!******************************!
+<T>I see. <W>Well, on the off chance he
+does come by, do tell him I'm looking
+for him.
+!******************************!

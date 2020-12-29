@@ -1,0 +1,62 @@
+<T>Hey, listen to this! I came across a
+brilliant puzzle the other day. Want
+to hear it?
+!******************************!
+<T>A new puzzle, eh?<W> Where'd you find
+it, Max?
+!******************************!
+<T>It's a secret. But if you solve the
+puzzle, I'll tell you.<W> What do you
+say? Want to try it?
+!******************************!
+<T>Sure!
+!******************************!
+<T><A3/0>BZZT!<W> <A2/3>Invalid answer!<W> Too bad. I've
+got a big secret to spill if you can
+get it right, you know.
+!******************************!
+<T>If you can beat this puzzle, I'll tell
+you something really cool!
+!******************************!
+<T>DING DING DING!<W> Correct!
+!******************************!
+<T>So, where did you find that nice
+puzzle? You are going to tell me
+now, aren't you?
+!******************************!
+<T><A1/2>DING DING DING!<W> Correct!<W> I found
+it by touching a suspicious-looking
+spot.
+!******************************!
+<T>A suspicious-looking spot?
+!******************************!
+<T>DING DING DING!<W> Yeah, if something
+looks a little fishy, just give it a
+bit of a poke.
+!******************************!
+<T>If you're lucky, a hint coin or
+puzzle will appear out of thin air!
+!******************************!
+<T>Wow!<W> That's amazing!
+!******************************!
+<T>Yeah. You need a sharp eye, though.
+Those hidden items could be
+anywhere.
+!******************************!
+<T>If you touch an area and something
+happens, well...<W><A1/5>you could say that's
+a good sign.
+!******************************!
+<T>What kind of thing might happen?
+!******************************!
+<T><A1/2>Oh you know, maybe you'll see a
+splash of water or a puff of dust.
+!******************************!
+<T>If you see something like that,
+touch that same spot again. You
+never know what you might find...
+!******************************!
+<T>Touch anything that looks
+suspicious. You might find
+something interesting!
+!******************************!

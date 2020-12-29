@@ -1,0 +1,7 @@
+<T>I think this is a poster for the
+hospital we're looking for.
+!******************************!
+<T>Oh, good. According to the map on
+the poster, the hospital seems to
+be quite close to the station.
+!******************************!

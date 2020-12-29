@@ -1,0 +1,11 @@
+<T>Hmm... Does that building on the
+other shore look suspicious to
+you?
+!******************************!
+<T>Now that you mention it, that
+lighthouse does look crooked.
+!******************************!
+<T>Yeah, now that I'm on the hunt
+for suspicious stuff, everything's
+starting to look dodgy. 
+!******************************!

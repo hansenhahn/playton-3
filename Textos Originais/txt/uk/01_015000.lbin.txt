@@ -1,0 +1,42 @@
+<V0010><T>What's this? The engine won't
+start.</V>
+!******************************!
+<V0020><T>Well, it has been 10 years since
+we last saw the Laytonmobile,
+Professor.</V>
+!******************************!
+<T><V0021>I wouldn't be surprised if there
+was a broken part or two.</V>
+!******************************!
+<V0030><T><K>Hrm.</V>
+!******************************!
+<V0040><T>Oh, look, Professor! There's
+something on the passenger seat!</V>
+!******************************!
+<V0050><T>Professor, I hope that by this
+point, you're convinced that this
+is the London of the future.</V>
+!******************************!
+<V0060><T>Now that we are on the same page,
+I'd like to explain to you the secret
+that's plaguing London.</V>
+!******************************!
+<T><V0061>However, I think it would be best
+to discuss this issue in person.</V>
+!******************************!
+<V0070><T>Meet me at the Gilded 7 Casino on
+Flatstone Street. I'll be waiting
+for you there. </V>
+!******************************!
+<V0080><T>Well, what do you say, Luke? Are
+you ready to meet your future
+self?</V>
+!******************************!
+<V0090><T>Honestly, I don't know. This whole
+situation is making me feel very
+strange.</V>
+!******************************!
+<V0100><T>That's quite understandable.</V>
+!******************************!
+<V0110><T><K>Mm...</V>
+!******************************!

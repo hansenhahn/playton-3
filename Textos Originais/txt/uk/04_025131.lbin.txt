@@ -1,0 +1,17 @@
+<T>Oh, thank goodness you're here!
+London's most debonair man
+requires some assistance.
+!******************************!
+<T>Er... All right.<W> What's the matter?
+!******************************!
+<T><A2/3>It's that blasted bird over there!
+!******************************!
+<T>The dreadful creature swooped
+down and plucked my best cufflinks
+right off my sleeves!
+!******************************!
+<T>What bird?
+!******************************!
+<T>Look, there it is, flapping about!
+I think it's taunting me!
+!******************************!

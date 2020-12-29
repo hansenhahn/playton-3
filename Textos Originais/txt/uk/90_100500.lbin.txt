@@ -1,0 +1,11 @@
+<T>Hey <N1>!
+Let's have some fun!
+!******************************!
+<T><A2/1>Skwarrrk!
+!******************************!
+<T><A4/2>Right, so all you have to do is
+bring that apple to me. Think you
+can do it?
+!******************************!
+<T><A3/0>Awwwrk!
+!******************************!

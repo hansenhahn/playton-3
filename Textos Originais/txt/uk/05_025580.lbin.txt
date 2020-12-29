@@ -1,0 +1,27 @@
+<T>Oh, hey, it's you again. Where are
+you off to now, squirt?
+!******************************!
+<T>I...<W>can't say. It's a secret.
+!******************************!
+<T><A2/2>Oh.<W> Well, I was going to offer you
+a puzzle, but it looks like you're
+in a hurry, so...
+!******************************!
+<T>What's that? You've got a puzzle
+that needs solving?
+!******************************!
+<T><A4/6>Hoo hoo! Now I've got your
+attention, eh?
+!******************************!
+<T>I understand. Sometimes you need
+to give your brain some space to
+breathe.
+!******************************!
+<T>Back for more puzzle action,
+kiddo?
+!******************************!
+<T>Splendiferous job!
+!******************************!
+<T>So... Are you sure you don't want
+to tell me where you're headed?
+!******************************!

@@ -1,0 +1,39 @@
+<T>I'm late, I'm late, I'm late!
+!******************************!
+<T><A1/6>Oof!
+!******************************!
+<T>Ow ow owww...
+!******************************!
+<T><A4/4>I'm so sorry, miss! I didn't see
+you there!<W> Are you all right?
+!******************************!
+<T><A2/4>Ouch! I skinned my knee...<W><A2/6> But if
+you gave it a kiss, it would make it
+aaaall better.
+!******************************!
+<T><A4/1>Huh?
+!******************************!
+<T><A3/7>Great! Then pucker up.<W> Kissy
+kissy kissy!
+!******************************!
+<T><A1/3>What?! No!<W> Stay back! Don't come
+any closer!
+!******************************!
+<T>Luke! Watch your tone.<W> A gentleman
+mustn't forget his manners when
+conversing with a lady.
+!******************************!
+<T><A4/5>Oh, your name's Fluke? What a 
+charming name! So very whimsical!
+!******************************!
+<T><A3/5>All right, I have to go now, but
+let's rendezvous later, dreamboat!
+!******************************!
+<T>Actually, miss, my name is Lu-<W>
+<A4/4>Oh. She ran off.
+!******************************!
+<T>What an...unusual young lady.
+!******************************!
+<T>That's a nice way of putting it,
+Professor.
+!******************************!

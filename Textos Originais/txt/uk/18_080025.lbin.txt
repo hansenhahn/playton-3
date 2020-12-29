@@ -1,0 +1,41 @@
+<T>So, spill the beans! Just how much
+trouble has that hat got you into?
+!******************************!
+<T><A1/1>Oh, nothing serious, I assure you.
+!******************************!
+<T>Really?<W> Still, that hat's trouble if
+you ask me...
+!******************************!
+<T><A3/1>But never mind that. Now that
+you're here, there's something
+I'd like your help with.
+!******************************!
+<T>Whoops. Sorry, I didn't mean to
+ask the impossible of you.
+!******************************!
+<T>Are you here to help me out?<W>
+You are?<W> Great! Here's what's
+puzzling me.
+!******************************!
+<T><A2/5>What's the deal with that hat of
+yours then?
+!******************************!
+<T>You must be awfully attached to it
+if you keep it on knowing it could
+cause you trouble.
+!******************************!
+<T><A3/2>You're quite right about that.
+I daresay this hat is one of my
+most prized possessions.
+!******************************!
+<T><A1/1>Well, I can see there's no
+persuading you to take it off.
+Be careful out there, though.
+!******************************!
+<T>These days, it seems like there's
+trouble around every corner in
+London. 
+!******************************!
+<T>Something to wet the whistle before
+you head off?
+!******************************!

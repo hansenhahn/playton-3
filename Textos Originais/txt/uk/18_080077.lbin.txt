@@ -1,0 +1,44 @@
+<T><A1/1>Here to check out all those great
+toy cars?
+!******************************!
+<T><A1/1>Toy cars?<W> Puh-lease.<A1/4> Those are
+for babies.
+!******************************!
+<T><A3/1>That's strange. I could've sworn
+I saw you playing with one of those
+cars just a few minutes ago.
+!******************************!
+<T>I believe your exact words were:
+{''}Vroom vroom wheeeeeee!{''}
+!******************************!
+<T><A1/5>Keep it down, Chequer. I'm trying
+to look cool here, yeah?
+!******************************!
+<T><A1/1>Hyeh heh! Sorry, Duncan, but I for
+one hope you never grow out of toy
+cars. You're my best customer! 
+!******************************!
+<T><A4/2>Well, they are really good fun...
+!******************************!
+<T><A3/1>Too right. I just wish Chequer
+wouldn't go around letting
+everyone know I like them!
+!******************************!
+<T>A fella's gotta try and look cool,
+you know?<W> Speaking of cars,
+though, I've got a puzzle for you!
+!******************************!
+<T><A2/1>Giving up?<W> Boooo.
+!******************************!
+<T><A1/1>I've definitely got it this time.
+Just watch!
+!******************************!
+<T><A3/1>Good skills.<W> Now, if you'll excuse
+me, I have some stuff I need to
+take care of.<W> Cool stuff.
+!******************************!
+<T><A1/1>Hyeh heh! He's actually just going
+off to polish his toy cars.
+!******************************!
+<T><A1/1>How's that toy car of yours doing?
+!******************************!

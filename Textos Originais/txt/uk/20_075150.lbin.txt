@@ -1,0 +1,16 @@
+<T><A4/2>We're finally going to have a meal
+here! Victory!
+!******************************!
+<T>What are you going to have, Luke?
+!******************************!
+<T>How about this?<W> Oh and this!<W> And
+we've simply got to try that! It all
+sounds amazing!
+!******************************!
+<T>Hee hee. Oh Luke, you always order
+half the menu.
+!******************************!
+<T>Do you suppose the chef here would
+mind giving me a few cooking
+pointers?
+!******************************!

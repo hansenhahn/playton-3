@@ -1,0 +1,196 @@
+<V0010><T><A1/3>I still don't understand why
+Don Paolo's here. Can someone
+please explain that to me?</V>
+!******************************!
+<V0020><T>Always with the questions. Won't
+you put a lid on it for a few
+minutes, you brat?</V>
+!******************************!
+<V0030><T><A1/3>I most certainly will not!</V>
+!******************************!
+<V0040><T>Honestly, you two! Would you please
+stop bickering? You're on the same
+side!</V>
+!******************************!
+<V0050><T><A2/3>And while I'm getting things off my
+chest, why the heck did I have to
+play the decoy who gets caught?</V>
+!******************************!
+<V0060><T><A1/2>Come now, Paul, it wasn't that bad.
+Your role was certainly the more
+exciting one. </V>
+!******************************!
+<V0070><T>Professor, you still haven't
+explained what's going on!</V>
+!******************************!
+<V0080><T><A4/2>I knew we'd be monitored from the
+moment we stepped foot inside the
+pagoda.</V>
+!******************************!
+<T><V0081>So I wanted to make sure we had at
+least one trick up our collective
+sleeve.</V>
+!******************************!
+<V0090><T>Don Paolo, master of deception
+and disguise, seemed like the perfect
+man to employ for the task.</V>
+!******************************!
+<V0100><T><A1/5>You two are friends? That's the
+first I've heard of this!</V>
+!******************************!
+<V0110><T><A1/1>Hah! Don't get it confused, kid.
+I'm no friend of his.</V>
+!******************************!
+<V0120><T><A4/1>We both want answers to the same
+questions, so we decided to work
+together. That's all.</V>
+!******************************!
+<V0130><T><A1/1>When did this start?</V>
+!******************************!
+<V0140><T><A1/1>Tell me, Luke. When we visited
+Dr Schrader, did anything he said
+strike you as strange?</V>
+!******************************!
+<V0150><T>Um, no, not really.</V>
+!******************************!
+<V0160><T>It was his greeting that made me
+suspicious.</V>
+!******************************!
+<V0170><T>Huh?</V>
+!******************************!
+<V0180><T>Who's that?<W> Oh, it's you, Hershel!
+And little Luke!</V>
+!******************************!
+<V0190><T>Yeah, I remember. But what of it?</V>
+!******************************!
+<V0200><T><A2/2>He didn't seem terribly surprised
+to see {''}little Luke{''}, did he?</V>
+!******************************!
+<V0210><T><A1/6>Of course!<W> <A1/1>In the future, I'm not a
+kid any more. But the doctor didn't
+even notice!</V>
+!******************************!
+<V0220><T>Precisely.</V>
+!******************************!
+<V0230><T>That means Dr Schrader was...</V>
+!******************************!
+<V0240><T>Don Paolo in disguise, yes.</V>
+!******************************!
+<V0250><T><A2/1>So you knew he was a fake before
+he even said four sentences!<W> Wow.
+You're good, Professor!</V>
+!******************************!
+<V0260><T><A1/1>That planted the seed of doubt,
+though I didn't confirm my suspicion
+until much later.</V>
+!******************************!
+<V0270><T><A1/1>Did Don Paolo pose as anyone else?</V>
+!******************************!
+<V0280><T>Yes. He did a bit of spying on us as
+Dean Delmona when we met him last.</V>
+!******************************!
+<V0290><T>From the moment I laid eyes on him,
+it was obvious we were dealing with
+an impostor.</V>
+!******************************!
+<V0300><T>Amazing! How did you know?</V>
+!******************************!
+<V0310><T><A1/2>His white hair gave it away.</V>
+!******************************!
+<V0320><T><A4/1>But white hair seems perfectly
+natural on a man his age.</V>
+!******************************!
+<V0330><T><A2/2>Not if he wears a wig. He let me in
+on his secret some time ago. He's
+been bald for ages.</V>
+!******************************!
+<V0340><T>Don Paolo mistakenly selected a
+white wig to show how much Dean
+Delmona had aged.</V>
+!******************************!
+<V0350><T><A1/1>Wow. Nice work there, Professor.</V>
+!******************************!
+<V0360><T><A4/1>Shortly after that, I confronted
+Don Paolo and had him tell me
+everything.</V>
+!******************************!
+<T><V0361>It seems Dimitri had been paying him
+quite handsomely to make sure we
+headed toward the pagoda.</V>
+!******************************!
+<V0370><T>I filled Don Paolo in on all the
+strange happenings we've witnessed
+here.</V>
+!******************************!
+<T><V0371>And then I requested his assistance
+in solving this mystery.</V>
+!******************************!
+<V0380><T>Well, that all makes sense,
+I suppose...</V>
+!******************************!
+<V0390><T>But the part I still don't get is why
+Don Paolo decided he wanted to
+help us.</V>
+!******************************!
+<T><V0391>After all, this is the man who tried
+to run us over with a Ferris wheel.</V>
+!******************************!
+<V0400><T><A2/3>That's none of your business,
+brat!</V>
+!******************************!
+<V0410><T><A1/3>Hey! Call me a brat again and just
+see what happens!</V>
+!******************************!
+<V0420><T>It was Claire, Luke. It all had to do
+with Claire.</V>
+!******************************!
+<V0430><T><A1/1>The woman Dimitri was talking
+about...</V>
+!******************************!
+<V0440><T><A1/1>Claire was my...girlfriend, back
+when I was just starting my
+academic career.</V>
+!******************************!
+<V0450><T>She was a researcher who worked
+in the same laboratory as Dimitri.</V>
+!******************************!
+<V0460><T>Oh no! So she...</V>
+!******************************!
+<V0470><T><A4/1>Yes... The last time I saw her, she
+was on her way to the lab the day
+of that massive explosion.</V>
+!******************************!
+<V0480><T>The oddest thing is that the
+accident received very little media
+coverage.</V>
+!******************************!
+<T><V0481>It's clear someone with a lot of
+influence was suppressing
+information about the incident.</V>
+!******************************!
+<V0490><T>I did everything I could to research
+the matter on my own.<W> My efforts
+were largely fruitless.</V>
+!******************************!
+<V0500><T>I had no idea...</V>
+!******************************!
+<V0510><T>It's likely that Dimitri feels he is
+to blame for Claire's death.</V>
+!******************************!
+<V0520><T>His obsession with going back in
+time seems like a twisted version
+of atonement.</V>
+!******************************!
+<V0530><T><A4/4>What a terribly sad story...<W>
+<A4/1>But what does it have to do with
+Don Paolo?</V>
+!******************************!
+<V0540><T><A3/2>Well Luke, as it turns out, Dimitri
+and I weren't the only ones with
+strong feelings for Claire.</V>
+!******************************!
+<V0550><T><A1/6>What? You mean...</V>
+!******************************!
+<V0560><T>What?! Don't act so surprised!<W>
+I have...feelings too, you know!</V>
+!******************************!

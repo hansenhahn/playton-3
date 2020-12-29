@@ -1,0 +1,13 @@
+<T>Hello there, Max. Have you seen
+Luke around here, by any chance?
+!******************************!
+<T><A3/0>BZZT!<W><A2/3> Nope. I don't think he's come
+through this way.<W> <A1/1>Why? Is something
+wrong?
+!******************************!
+<T>It's probably nothing serious. But
+if you see him, do please let him
+know I'm looking for him.
+!******************************!
+<T>DING DING DING!<W> <A1/2>Understood.
+!******************************!

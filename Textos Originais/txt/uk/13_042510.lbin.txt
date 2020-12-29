@@ -1,0 +1,10 @@
+<T>How do you intend to get out of this
+one, Professor? Do tell!
+!******************************!
+<T>Blast!
+!******************************!
+<T>I just need to calm down and think
+clearly...
+!******************************!
+<T>There! We're safe now!
+!******************************!

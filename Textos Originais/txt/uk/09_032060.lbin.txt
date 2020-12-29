@@ -1,0 +1,10 @@
+<T>This door should take us outside.
+!******************************!
+<T>Well, look at that. We made it out.
+!******************************!
+<T>The Family is bound to have some
+thugs in the vicinity.
+!******************************!
+<T>We need to put some distance
+between us and the pagoda.
+!******************************!

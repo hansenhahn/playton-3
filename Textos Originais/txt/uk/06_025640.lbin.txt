@@ -1,0 +1,39 @@
+<T>Okay! End of the line! Everyone out!
+Heh heh!
+!******************************!
+<T>What in the world...?
+!******************************!
+<T>Urgh... My stomach's doing backflips
+again.
+!******************************!
+<T>Hey, Layton! What just happened?
+!******************************!
+<T>Step outside and see for yourself,
+Inspector. That should serve as
+sufficient explanation.
+!******************************!
+<T><A2/6>What are you on about now?<W>
+Hmph. Come on then, Barton.
+Let's go outside.
+!******************************!
+<T>Just a moment, Inspector. I'm
+feeling a little queasy.<W> Very
+queasy, actually...
+!******************************!
+<T><A1/1>Pull yourself together, Constable!
+We're going outside.
+!******************************!
+<T><A1/4>Please don't jostle me. I'm feeling
+a bit green...
+!******************************!
+<T>Are you okay, Flora?
+!******************************!
+<T>It was a rather bumpy ride.
+!******************************!
+<T>I'll say. Time travel really takes it
+out of you.
+!******************************!
+<T>I'm just...<W>a little...<W>dizzy...
+!******************************!
+<T><A1/6>Oh no! Flora!
+!******************************!

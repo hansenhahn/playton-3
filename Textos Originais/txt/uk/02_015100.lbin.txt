@@ -1,0 +1,25 @@
+<T>Well well, look who it is.
+!******************************!
+<T>Hello, sir. Sorry to bother you 
+mid-shift, but do you know where
+the Gilded 7 Casino is?
+!******************************!
+<T>The Gilded 7?!<W> I ain't your dad or
+nothing, but ain't you a bit young
+to be hittin' the tables?
+!******************************!
+<T><A1/5>Oh, I'm not interested in gambling.
+I'm just meeting someone there.
+!******************************!
+<T>Whatever your excuse is, you're
+gonna have a hard time gettin' in.
+!******************************!
+<T>Boss Bostro hates kids, you see.
+Can't stand 'em.
+!******************************!
+<T>He'll have your hide if he sees you
+in his casino.<W> I'd stay away if I was
+you.
+!******************************!
+<T>I see...
+!******************************!

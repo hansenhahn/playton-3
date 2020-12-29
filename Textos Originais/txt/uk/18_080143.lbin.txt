@@ -1,0 +1,30 @@
+<T><A3/1>What an unusual building. It's like
+it has a little family of roofs.
+!******************************!
+<T><A1/1>Yes, this style of architecture
+became popular after your time.
+!******************************!
+<T><A4/1>So that's why it seems so strange
+to me!
+!******************************!
+<T><A2/2>You know, your comment about the
+roofs being like a family reminds
+me of a puzzle I once heard.
+!******************************!
+<T>Would you like to try it?
+!******************************!
+<T><A2/2>Do you even need to ask?
+!******************************!
+<T>Don't get discouraged. We can
+always try this one again later.
+!******************************!
+<T><A2/4>Come on, Luke! Make the professor
+proud.
+!******************************!
+<T><A2/5>Wonderful! Of course, I expected
+nothing less from myself. Heh heh.
+!******************************!
+<T><A3/2>Nor should you! No puzzle is a match
+for Professor Layton's apprentice,
+after all!
+!******************************!

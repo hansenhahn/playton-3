@@ -1,0 +1,85 @@
+<T>Greetings, Shipley.
+!******************************!
+<T>Ah, Professor. Good timing. I just
+got a message for ya from Luke.
+!******************************!
+<T>He wants ya to go to the
+observatory in the park
+that's north of here.
+!******************************!
+<T>Make sure yer not followed.
+!******************************!
+<T>This park is just off the path that
+connects Flatstone Street to
+Midland Road, correct?
+!******************************!
+<T>That's the one. Luke will be waiting
+for ya there.
+!******************************!
+<T>Why do we need to make sure we're
+not followed?
+!******************************!
+<T>It sounds as though someone out
+there may be monitoring our
+movements.
+!******************************!
+<T>Are you paying attention to this,
+Flora? It's very important.
+!******************************!
+<T>Of course I'm listening, Professor.
+!******************************!
+<T>Moving around in a group of three
+will make us more conspicuous.
+!******************************!
+<T>I know you don't want to be left
+alone, but I think it would be best
+if you waited for us at the hotel.
+!******************************!
+<T><A1/5>What?!
+!******************************!
+<T>As soon as we've caught up with the
+other Luke, we'll come and get you.
+!******************************!
+<T>No! I'm coming with you.
+!******************************!
+<T>Now, Flora...
+!******************************!
+<T>Oh, come on, Professor. Let her
+come along. We'll do our best to be
+stealthy on our way to the park!
+!******************************!
+<T><K>Hmm...
+!******************************!
+<T>It'll be fine. Besides, it might be
+more dangerous to leave Flora all
+by herself.
+!******************************!
+<T>I suppose you may have a point
+there, Luke.
+!******************************!
+<T>Flora, you do realise that where
+we're headed could be extremely
+dangerous, don't you?
+!******************************!
+<T>Are you really sure you want to
+come with us?
+!******************************!
+<T><A1/2>Of course I do! I'm not scared.
+!******************************!
+<T>Well, that settles it. Let's get
+moving.
+!******************************!
+<T>Well Luke, it looks as though
+we'll have to put our dinner plans
+on hold again, I'm afraid.
+!******************************!
+<T>I understand, Professor. I'm pretty
+hungry, but we shouldn't keep
+Big Luke waiting.
+!******************************!
+<T>Well then, what are we waiting for?
+Let's go!
+!******************************!
+<T>Luke's waiting for ya at the park
+observatory.
+!******************************!

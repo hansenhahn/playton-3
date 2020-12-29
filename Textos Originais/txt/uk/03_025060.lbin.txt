@@ -1,0 +1,70 @@
+<T>Oh, hullo there.
+!******************************!
+<T>Say, do you happen to know if this
+is the way to Chinatown?
+!******************************!
+<T>Ah reckon this path'll most likely
+take ye there, aye.
+!******************************!
+<T>You reckon? Haven't you taken
+this path before?
+!******************************!
+<T><A1/3>Nae chance! Ah've a feeling
+something could happen tae me
+doon that way. Something bad.
+!******************************!
+<T>Like, Ah could get intae a rammy
+with that Family lot.
+!******************************!
+<T>Ah'm better off jist staying here
+and solving puzzles.
+!******************************!
+<T>Aye, it's a tough one, eh?
+!******************************!
+<T>Ah don't think ye should be going
+doon there then.
+!******************************!
+<T>Ye'll need to prove that yer on the
+ball by solving that wee puzzle
+first.
+!******************************!
+<T>Ah've a feeling that Chinatown
+place is bad news. Much safer tae
+stay here and do a bit of puzzling.
+!******************************!
+<T>Huh, ye've solved ma puzzle. Looks
+like yer nae part of that Family lot
+then. They're not too bright, see.
+!******************************!
+<T>Of course not! We're no Family
+minions! I'm Luke, and this here
+is the famous Professor Layton!
+!******************************!
+<T><A2/8>Whit?!<W> L-Layton, ye say? Course
+he's not a Family minion!<W> He's the
+head honcho!
+!******************************!
+<T>Help! Somebody help me!
+!******************************!
+<T>Oops. I forgot how the name
+Layton scares the living daylights
+out of people in this time.
+!******************************!
+<T>Yes, it's unfortunate, but people
+do seem to think I'm a criminal.
+!******************************!
+<T>On a more interesting note, have
+a look at the ground, Luke.
+!******************************!
+<T>Those footprints must belong to
+the man who just ran off.
+!******************************!
+<T>Come to think of it, his shoes and
+trousers were soaking. But why?
+!******************************!
+<T>It's a bit chilly to go out for a
+swim, don't you think?
+!******************************!
+<T>Indeed. So how did he get so wet?
+Hmm...
+!******************************!

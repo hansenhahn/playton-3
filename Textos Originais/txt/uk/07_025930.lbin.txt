@@ -1,0 +1,47 @@
+<T>Ohhh... So bored. So very, very
+bored.
+!******************************!
+<T>Same old story, eh?
+!******************************!
+<T>Can you blame me? Life's not
+exactly a bed o' roses, and I
+don't have anyone to talk to.
+!******************************!
+<T>At least I'm not sad, though. The
+only thing worse than being bored
+is being sad.
+!******************************!
+<T><A4/2>I suppose so.<W> You know, if you want
+someone to talk to, I'd be happy
+to listen.
+!******************************!
+<T>That's nice of you. I bet you'll
+grow up to be a nice fella. Thanks
+for the offer, little chappie.
+!******************************!
+<T><A2/1>I feel better already. How about I
+share one of my puzzles with you by
+way of thanks?
+!******************************!
+<T>Yes, please! I love a good puzzle.
+!******************************!
+<T>Okay. Now digging's my game, see.
+It's what I do. I thought of this
+one at work one day...
+!******************************!
+<T>Don't look so down, little chappie.
+You can always come back and try
+again.
+!******************************!
+<T>I appreciate how nice you've been
+to me. Let me thank you with this
+puzzle I thought up.
+!******************************!
+<T>You're a smart little chap, aren't
+you? You come back and see me
+again sometime, yeah?
+!******************************!
+<T><A1/5>I really wish I could get back home.
+It'd be nice to see the family.
+My family, that is. Not THE Family.
+!******************************!

@@ -1,0 +1,13 @@
+<T>Heading back already, Layton?
+I've still got a few leads to chase,
+so I'm going to stay here for now.
+!******************************!
+<T>I'm afraid I'll have to stay
+behind as well, Professor.
+!******************************!
+<T><A1/1>All right. We won't be long. Please
+wait for us here.
+!******************************!
+<T>Okay, now that they've left, let's
+get going.<W> <A3/0>Here we go!
+!******************************!

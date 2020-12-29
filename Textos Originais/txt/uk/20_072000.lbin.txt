@@ -1,0 +1,44 @@
+<T>You know all those poor little
+puzzles you leave unsolved? Or
+the ones you just forget about?
+!******************************!
+<T>Well, there's no need to worry about
+them, because I give them a place
+to stay.
+!******************************!
+<V0010><T><A3/2>They all live in that adorable little
+house over there!</V>
+!******************************!
+<T><A3/2>All those lost little puzzles live in
+that teeny-weeny house over there.
+!******************************!
+<V0020><T>Isn't it just the cutest thing
+you've ever seen?</V>
+!******************************!
+<T><A3/2>See that tiny house over there?
+That's where all the darling little
+puzzles that you leave behind go.
+!******************************!
+<V0030><T>You should definitely solve them
+when you get a chance, though. It
+hurts their feelings if you don't.</V>
+!******************************!
+<T><A3/2>The lost little puzzles would love
+to see you. Touch that tiny house
+over there to say hello.
+!******************************!
+<V0040><T>Go on! Don't be shy!</V>
+!******************************!
+<V0050><T><A3/2>If you've missed any puzzles along
+the way, you can find them in that
+little house!</V>
+!******************************!
+<T>Just go and knock on the door!
+!******************************!
+<V0060><T>Can you hear all those poor puzzles
+crying, {''}Solve me! Solve me!{''}? You'd
+be a monster not to help them.</V>
+!******************************!
+<T>Just touch the house to say hello
+to some of those lost puzzles.
+!******************************!

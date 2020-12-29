@@ -1,0 +1,31 @@
+<T><A5/1>Augh!<A6/0> What do you want?! Please
+don't hurt meee!
+!******************************!
+<T>I simply wish to ask you a question,
+sir. No need for theatrics.
+!******************************!
+<T><A2/5>Well...all right.
+!******************************!
+<T>The young fellow I've been
+travelling with - have you seen
+him anywhere around here?
+!******************************!
+<T><A1/1>You mean the one with the
+blue hat and the p-<W30>p-<W30>piercing
+stare?
+!******************************!
+<T>I'd hardly describe his stare as
+{''}piercing{''}, but yes, I think we're
+talking about the same boy.
+!******************************!
+<T>I haven't seen him around here.</T>
+<TW>Is he lost?
+!******************************!
+<T>Either lost or wandering. I'm not
+quite sure yet.
+!******************************!
+<T>If it will keep you from hunting me
+down, I h-<W30>h-<W30>hope you find him soon.
+!******************************!
+<T>Er... Thank you.
+!******************************!

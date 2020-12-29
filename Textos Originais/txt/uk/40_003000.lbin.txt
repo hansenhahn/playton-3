@@ -1,0 +1,27 @@
+Overwrite the file
+{''}%s{''}?
+!******************************!
+There are currently no puzzles
+for you to solve here.
+!******************************!
+Solve puzzle %03d,
+{''}%s{''}?
+!******************************!
+Puzzle %03d: %s
+!******************************!
+You solved the puzzle
+{''}%s{''}!
+!******************************!
+You solved that puzzle without
+looking at a single hint! Great job! 
+!******************************!
+You viewed %d hint while
+solving this puzzle.
+!******************************!
+You viewed %d hints while solving
+this puzzle.
+!******************************!
+Incorrect password. You
+may have made a mistake in
+entering the password.
+!******************************!

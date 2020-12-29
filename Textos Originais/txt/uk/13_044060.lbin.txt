@@ -1,0 +1,7 @@
+<T>Punch in those coordinates, Luke.
+Once you do that, we should be
+able to go to the generator room.
+!******************************!
+<T>Look, Professor. The button for
+the generator room lit up!
+!******************************!

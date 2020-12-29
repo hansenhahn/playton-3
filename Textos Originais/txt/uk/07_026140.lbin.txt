@@ -1,0 +1,39 @@
+<T>Skwaaaarwk.
+!******************************!
+<T>Oh, what a lovely parrot!
+!******************************!
+<T>Nice to meetchoo, meetchoo! I'm
+<N1>, <N1>!
+!******************************!
+<T><A3/1>Oh my - clever AND polite. Well
+<N1>, my name's Myrtle.
+!******************************!
+<T><A3/2>Hello, Myrtle. Nice to meet you.
+Is this your pet shop?
+!******************************!
+<T><A2/1>Pet shop? Oh no no no, young
+fellow. This is no pet shop.
+!******************************!
+<T>It's a meeting place where animals
+can find true friends! Like you
+and <N1>, eh?
+!******************************!
+<T>You can say that again!<W> Oh, I
+forgot to introduce myself.
+My name's Luke!
+!******************************!
+<T><A3/2>Heh heh heh! <A3/1>Well, it's very nice
+to meet you too, Luke.
+!******************************!
+<T>You and <N1> play nicely
+together now, all right?
+!******************************!
+<T>Awrk!<W> Get lost! Get lost!
+!******************************!
+<T><A4/4>Now's not the time for that,
+<N1>!
+!******************************!
+<T><A3/2>Heh heh heh! <A3/1>Oh, it does warm
+my heart to see such genuine
+friendship!
+!******************************!

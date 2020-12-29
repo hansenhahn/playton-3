@@ -1,0 +1,31 @@
+<V0010><T><K>Ngh...<W></K> This is the end for me.</V>
+!******************************!
+<V0020><T>That's not true, Clive. You can
+always start again and try to
+repair the damage you've done.</V>
+!******************************!
+<V0030><T>Huh?</V>
+!******************************!
+<V0040><T>We can talk about that later. This
+place won't hold much longer.</V>
+!******************************!
+<V0050><T>...<W>Why are you, of all people,
+helping me?</V>
+!******************************!
+<V0060><T>I can't just leave you here.</V>
+!******************************!
+<V0070><T><A2/5>But don't you know what I've done?
+What I tried to do?</V>
+!******************************!
+<V0080><T><A4/4>Yes, but I would never leave you
+here to die.</V>
+!******************************!
+<T><V0081>After all, so much of this tragedy
+was caused by the mistakes we
+scientists made.</V>
+!******************************!
+<V0090><T><A1/1>I...I see.</V>
+!******************************!
+<V0100><T><A1/1>There will be time to talk more
+later. We need to leave now.</V>
+!******************************!

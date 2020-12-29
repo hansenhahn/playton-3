@@ -1,0 +1,57 @@
+<T>Welcome, fellas.
+!******************************!
+<T>If you're looking for the best
+home-cooked meal in London,
+you've come to the right place!
+!******************************!
+<T>Fantastic!<A4/2> What do you recommend?
+!******************************!
+<T>I'm glad you asked! There's nothing
+I like better than an enthusiastic
+customer!
+!******************************!
+<T><A2/5>First things first: my fish and
+chips are award-winning. There's
+none batter! I mean better!
+!******************************!
+<T>What kind of Englishman could say
+no to that, eh?
+!******************************!
+<T>Not me, that's for sure. I love fish
+and chips!
+!******************************!
+<T><A3/2>And if you fancy something warming
+on a cold day, I've got you covered.
+!******************************!
+<T>My lamb stew with crispy potatoes
+will have you licking your chops...
+and the lamb's too! Har har!
+!******************************!
+<T>I'm sold! I'll have both!
+!******************************!
+<T>Don't get carried away now, Luke.
+The food sounds wonderful, but we
+didn't come here to eat, did we?
+!******************************!
+<T><A1/1>Oh...<W> That's right.<W> I'm sorry sir,
+but we have business to attend to.
+I'll order something later, though!
+!******************************!
+<T>Har har! Of course, little fella.
+You have a good think about which
+dish suits you.
+!******************************!
+<T>Hello again, little fella. Are you
+ready to place your order?
+!******************************!
+<T>Yes! I'll have one of everything,
+please!
+!******************************!
+<T>Have patience, my boy. We can have
+something to eat once we've
+finished our business here.
+!******************************!
+<T><A3/2>Har har! Don't fret, little fella.
+When you do get to eat, it'll be a
+meal to remember, I promise.
+!******************************!

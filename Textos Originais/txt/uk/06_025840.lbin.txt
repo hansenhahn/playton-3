@@ -1,0 +1,11 @@
+<T>Welcome back, fellas. Hello there,
+miss. Do you have time to sit and
+have a meal?
+!******************************!
+<T>I certainly hope so. It all smells
+very good.
+!******************************!
+<T>Whoa there! You three aren't
+leaving without sampling the
+cuisine, surely?!
+!******************************!

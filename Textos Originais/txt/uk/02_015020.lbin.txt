@@ -1,0 +1,38 @@
+<T>Professor, I'm starting to believe
+that we've really travelled to the
+future...
+!******************************!
+<T>Hmm... Let's focus on what we're
+sure of for now.
+!******************************!
+<T>The author of this letter is Luke
+Triton. In other words, Luke, the
+sender is you.
+!******************************!
+<T>We've been following his directives
+all this time.
+!******************************!
+<T>Perhaps meeting him face-to-face
+will shed some light on our current
+situation.
+!******************************!
+<T>Let's head to the Gilded 7 Casino.
+!******************************!
+<T>All right, Professor.<W> It's a shame
+we can't drive there, though.
+!******************************!
+<T>Unfortunate as that may be, it
+doesn't look as though my car will
+be going anywhere soon.
+!******************************!
+<T><A2/2>Never mind. After all, the best
+way to do the legwork for an
+investigation is on foot.
+!******************************!
+<T><A1/2>Ha ha! I couldn't agree with you
+more, my boy.
+!******************************!
+<T>Repairing this car requires more
+skill than I possess, unfortunately.
+Let's proceed on foot.
+!******************************!

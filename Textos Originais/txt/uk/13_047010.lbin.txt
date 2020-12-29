@@ -1,0 +1,13 @@
+<T>The transport pod doesn't seem to
+be working.
+!******************************!
+<T>The fortress is tearing itself apart
+and causing some of the systems
+to go haywire.
+!******************************!
+<T>I don't think we can risk going back
+up to the deck!
+!******************************!
+<T>Then we'll just have to use the car
+to escape. This way!
+!******************************!

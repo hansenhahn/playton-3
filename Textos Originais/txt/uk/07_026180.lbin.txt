@@ -1,0 +1,49 @@
+<T>What's up, fellas?
+!******************************!
+<T>We went to see the man in the
+Towering Pagoda, but he was out.
+Do you know where he might be?
+!******************************!
+<T><A2/6>I've got a pretty good idea...
+<A2/5>But I'm not telling. He's dangerous.
+You don't wanna tangle with him.
+!******************************!
+<T>Come now, surely there's no harm
+in letting us know where he might
+be?
+!******************************!
+<T>You're wrong there, but...<A1/4>I s'pose
+I can tell you what I've heard. It's
+just a rumour, though.
+!******************************!
+<T>You sure you wanna know this?
+I'm telling you, this fella's bad
+news.<W> Proper bad.
+!******************************!
+<T>We can handle it. What have you
+heard?
+!******************************!
+<T>People say he disguises himself and
+goes walking around town.
+!******************************!
+<T>He could be standing next to us now
+and we wouldn't even know!
+!******************************!
+<T>Scary stuff, eh?<W> Actually, I'm
+getting spooked myself, so let's
+end this little chat, okay?<W> Laters.
+!******************************!
+<T>Why would the professor of the
+future want to dress up and run
+around town?
+!******************************!
+<T>You never do that, Professor.
+!******************************!
+<T>Oh? How would you know, Luke?
+!******************************!
+<T><A1/6>Huh?
+!******************************!
+<T><A1/2>Ha ha. Just pulling your leg, my boy.
+!******************************!
+<T>You be careful out there, all right?
+!******************************!

@@ -1,0 +1,22 @@
+<T>So this is the heart of the
+fortress.
+!******************************!
+<T>There's the control panel for the
+generator...<W> But it's locked away!
+!******************************!
+<T>The lock is a puzzle. Would you like
+to give it a shot, Professor?
+!******************************!
+<T>I'll do my best.
+!******************************!
+<T>You mustn't give up, Professor!
+!******************************!
+<T>I've got to open this lock.
+!******************************!
+<T>I think I've done it! Stand back,
+everyone.
+!******************************!
+<T>My word...
+!******************************!
+<T><A1/5>Is that...the prime minister?
+!******************************!

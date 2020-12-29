@@ -1,0 +1,10 @@
+<T>This seems to be a map of the
+entire contraption.
+!******************************!
+<T>Oh look! There's the ventilation
+room!
+!******************************!
+<T>It seems this pod will take us there
+at the touch of a button.<W>
+Let's be off!
+!******************************!

@@ -1,0 +1,63 @@
+<T>I have to admit that all this time
+travelling has got me muddled.
+!******************************!
+<T>What are we investigating now?
+!******************************!
+<T>Ho ho! Feeling a bit disoriented,
+I see?<W> I can hardly blame you.
+!******************************!
+<T>It's not every day that I travel to
+the future and meet my older self,
+you know.
+!******************************!
+<T>I think I could do with a bit of a
+recap of our case.
+!******************************!
+<T>Very well. Let's go back over it.
+!******************************!
+<T>Do you remember why Big Luke
+called us to the future?
+!******************************!
+<T>To stop the evil Professor Layton.
+!******************************!
+<T>And what exactly are we stopping
+my future self from doing?
+!******************************!
+<T>Er...<W> Oh right! We want to stop
+you, I mean him, from completing his
+time machine research!
+!******************************!
+<T>Precisely. And that's why you and I
+were headed for Chinatown.
+!******************************!
+<T>Oh yes. It's becoming a bit less
+jumbled now.
+!******************************!
+<T>We couldn't get into Chinatown in
+the end.
+!******************************!
+<T>It was at that point that you said
+it would be useful if we could talk
+to the inspector.
+!******************************!
+<T>Yes, but at the time I had no idea
+we'd be able to jump back to our
+own time to question him.
+!******************************!
+<T>In that sense, I suppose we were
+pretty lucky, eh?
+!******************************!
+<T>Hmm. Perhaps.
+!******************************!
+<T>Perhaps? Why, what's wrong?
+Is there something bothering you?
+!******************************!
+<T>There is, and it's that something
+that we've come to investigate.
+!******************************!
+<T>Oh!<W> We've just about reached our
+stop.
+!******************************!
+<T>We'll drop by my office and then
+it's off to see the inspector.
+!******************************!

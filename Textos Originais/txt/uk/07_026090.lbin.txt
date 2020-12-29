@@ -1,0 +1,51 @@
+<T>Look at all these toys, Professor!
+!******************************!
+<T>Into your toys, are you, lad?
+!******************************!
+<T>I used to be! <A3/2>But I don't have much
+time for toys now that I'm older.
+!******************************!
+<T><A1/2>Ho ho! But what about that toy car
+you're so fond of?
+!******************************!
+<T>I suppose you've got me there,
+Professor. That car's just too
+much fun to put down!
+!******************************!
+<T>A toy car, you say? Let's have a
+look...<W> <A3/1>Ah yes, this is one of my
+creations.
+!******************************!
+<T><A3/1>Really?!<W> Wow... That is so cool!
+!******************************!
+<T>Hyeh heh! Thank you kindly. Here,
+since you're such a fan, I'll make
+you a special offer.
+!******************************!
+<T>If you can solve this puzzle of mine,
+I'll give you a special track for
+your toy car!
+!******************************!
+<T>A special track just for solving a
+puzzle?<W2> <A3/2>This is my lucky day!
+!******************************!
+<T>Are you really giving up, lad? But
+you seemed so confident just a
+moment ago.
+!******************************!
+<T>I have a new track that'll knock
+your socks off. But first, you'll
+have to solve my puzzle.
+!******************************!
+<T>Good use of the grey matter, lad!
+Here's that track, as promised.
+!******************************!
+<T>Thank you so much!
+!******************************!
+<T>Hyeh heh! The name's Chequer, by
+the way. Feel free to drop by the
+shop for a browse any time.
+!******************************!
+<T>And remember lad, you're never too
+old to play with toys!
+!******************************!

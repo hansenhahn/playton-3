@@ -1,0 +1,44 @@
+<T><A2/3>Isn't this usually when you like to
+show off? You are planning to
+rescue Flora, aren't you, Layton? 
+!******************************!
+<T>Of course. But how can I gain
+access to the fortress's interior?
+!******************************!
+<T>We could try scaling one of its
+legs...
+!******************************!
+<T>Foolish boy! You'd be squashed
+flatter than a pancake!
+!******************************!
+<T><A4/1>Hey Layton, how would you like to
+use your own car to get to the
+fortress?
+!******************************!
+<T><A1/6>You mean the one at the hospital?
+But that was just a model to make
+us believe we were in the future!
+!******************************!
+<T><A4/5>Hah! But I stole the blueprints for
+it and made my own improved
+Laytonmobile! Fully kitted out!
+!******************************!
+<T>I was saving it for a special
+occasion, but too bad. I can
+always make another one.
+!******************************!
+<T>The car is waiting for you on the
+hill over there. Get a move on!
+!******************************!
+<T><A3/2>Many thanks, Paul.
+!******************************!
+<T><A5/5>Don't get all sappy on me, Layton.
+I'm only doing this for Flora!
+!******************************!
+<T>I've parked your car up on that hill
+over there. What are you waiting
+for?
+!******************************!
+<T>My apologies, Paul. I'll go and fetch
+it immediately!
+!******************************!

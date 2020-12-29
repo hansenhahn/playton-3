@@ -1,0 +1,14 @@
+<T>There's no time to waste! Get in
+the car!
+!******************************!
+<T>We're making our escape by car?!<W>
+Is this some kind of joke?
+!******************************!
+<T>I'll do my best to drive safely,
+Prime Minister.
+!******************************!
+<T>What are you waiting for? We've
+got to go!
+!******************************!
+<T>This is madness...
+!******************************!

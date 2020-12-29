@@ -1,0 +1,19 @@
+<T>What? What?! WHAT?!<W> Can't you see
+I'm busy standin' around?
+!******************************!
+<T>Sorry to bother you, but have you
+seen my young friend pass through
+here? The one who loves puzzles?
+!******************************!
+<T>Hmm... Oh, the urchin? No, he
+ain't come through here.
+!******************************!
+<T>I see. I thought he might have come
+this way...
+!******************************!
+<T>Nope. But listen, when you find
+him, tell him I'm workin' on a new
+puzzle for him to solve, yeah?
+!******************************!
+<T>I certainly will.
+!******************************!

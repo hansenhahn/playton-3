@@ -1,0 +1,31 @@
+<T>Oh dear. That's not right.
+!******************************!
+<T>Ha haa!<W> You'll never work out the
+key code. Never!
+!******************************!
+<T>We need that key code in order to
+proceed.
+!******************************!
+<T>Well, that takes care of that.
+!******************************!
+<T>Ohh... Clive is gonna have my hide
+for this!
+!******************************!
+<T><A4/1>If you're so scared of Clive, why
+don't you just do a runner?
+!******************************!
+<T><K>Hrm?<W></K> Wait, what did you say?
+!******************************!
+<T>I said you might as well run away
+if you're going to get punished
+either way.
+!******************************!
+<T>You know, that ain't such a bad
+idea!<W> Yeah...<W> I'm outta here.
+Later, fellas!
+!******************************!
+<T>I can't believe that actually
+worked.
+!******************************!
+<T>Placeholder text. Puzzle Cleared.
+!******************************!

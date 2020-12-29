@@ -1,0 +1,30 @@
+<T>Hrm? You two don't seem to have
+explored this London very
+thoroughly.
+!******************************!
+<T>If you want to make some real
+headway in your case, you'll have
+to do a bit more research.
+!******************************!
+<T>Exactly how much research do we
+need to do?
+!******************************!
+<T><K>Hmm...<W></K> Tell you what. Come back
+when you've solved 30 puzzles, and
+I'll return you to your own time.
+!******************************!
+<T>All right then, Cogg. You've been in
+on this plan longer than we have,
+so I bow to your judgement.
+!******************************!
+<T>We shall see if we can find a few
+more puzzles out there to solve.
+!******************************!
+<T>Hmm. You should probably do a bit
+more investigating here before
+returning to your own time.
+!******************************!
+<T>Come back when you've solved 30
+puzzles and I'll take you back to
+your London.
+!******************************!

@@ -1,0 +1,62 @@
+<T><A3/0>Keh heh heh.<W><A2/1> And how are you doing,
+boy?
+!******************************!
+<T>I'm fine, thank you. It's always a 
+surprise to see you again.
+!******************************!
+<T><A2/1>Again? What's this {''}again{''}
+business?<W> <A3/0>Keh heh heh!
+!******************************!
+<T><A2/1>I just thought I'd give you some
+advice, is all.
+!******************************!
+<T><A4/2>All right. What is it?
+!******************************!
+<T>Not many folks know this, but when
+you solve puzzles, you can earn
+these-
+!******************************!
+<T><A4/1>Oh, if you're going to talk about
+picarats, we already know all
+about them.
+!******************************!
+<T>Well...<A3/0> Keh heh heh...<A2/5> Is that so?<W>
+Well who cares? It's not all that
+great a secret anyway.
+!******************************!
+<T>Okay, well, thank you. We really
+should go now. We've got a lot
+to do.
+!******************************!
+<T><A2/3>Wait! Don't just run off like that.
+I have, um...<W>a puzzle! Yes, that's
+right! I have a puzzle for you.
+!******************************!
+<T><A3/0>Keh heh heh. <A2/1>Bit of a stumper, eh?
+!******************************!
+<T><A3/0>Keh heh heh. <A2/1>Just say the word if
+you want to have another crack at
+my puzzle.
+!******************************!
+<T>How was that for a fun puzzle?
+It's in your top ten, surely?
+!******************************!
+<T>It was okay, I suppose.
+!******************************!
+<T><A2/3>Wh-what?<W> Just okay?!
+!******************************!
+<T><A3/0>Keh heh heh.<A2/5> Oh, I see. You're
+playing it cool.
+!******************************!
+<T>You don't want to let on that my
+puzzle knocked your socks off.
+!******************************!
+<T>That's one way of putting it...
+!******************************!
+<T><A3/0>Keh heh heh.<A2/1> Hello there, boy.
+Back to chat with your old mate
+Stachenscarfen, eh?
+!******************************!
+<T>Actually, we're in a bit of a hurry.
+Maybe another time.
+!******************************!

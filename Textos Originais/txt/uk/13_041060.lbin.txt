@@ -1,0 +1,36 @@
+<T>Erm, there is one thing I need to
+confess, Layton...
+!******************************!
+<T>What is it, Paul?
+!******************************!
+<T>The truth is, the car's almost
+ready, but I don't know which screw
+to use on this last joint here.
+!******************************!
+<T><A1/6>But the whole car could fall apart!
+What are we going to do now?
+!******************************!
+<T>No need to get so shrill, brat!<W>
+We can work it out. One of these
+screws is sure to do the trick.
+!******************************!
+<T>Hmm, I can't seem to find the right
+one.
+!******************************!
+<T>Stop messing around, Layton!
+!******************************!
+<T>It's not like YOU know which screw
+to use either!
+!******************************!
+<T>Right, time to get this car running.
+!******************************!
+<T>This is the one. I'm sure of it!
+!******************************!
+<T><A1/2>I've got to hand it to you this time,
+Layton. That was some fine work.
+!******************************!
+<T>So is the car ready to drive now?
+!******************************!
+<T>You bet it is, boy.<W> Gentlemen, your
+chariot awaits!
+!******************************!

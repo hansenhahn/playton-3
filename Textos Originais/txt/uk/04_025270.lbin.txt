@@ -1,0 +1,72 @@
+<T>Well hello again, boys! I trust
+you've found yourselves some nice,
+shiny hint coins?
+!******************************!
+<T><A1/2>We have, thanks in no small part to
+your expert direction.
+!******************************!
+<T>Delighted to be of assistance.<W>
+So where's my thank you?
+!******************************!
+<T>Of course, madam. Please forgive
+me for not issuing proper thanks.<W>
+We're very grateful for your help.
+!******************************!
+<T><A3/2>Yes, thank you. We never would
+have found them without the help
+of a wise old lady like yourself!
+!******************************!
+<T><A1/3>Now, just a moment there,
+half-pint! Who are you calling old?
+!******************************!
+<T>They don't call me Flawless Florence
+for nothing, you know!<W> I'm as fit
+and nimble as a teenager!
+!******************************!
+<T><A1/6>I'm sorry, I didn't mean to call
+you old!
+!******************************!
+<T>I know how sensitive some elderly
+people can be about their age.
+!******************************!
+<T>E-elderly?!<W> Well, I never!
+!******************************!
+<T>Looks like I'll have to teach you a
+lesson the old-fashioned way - with
+a puzzle!
+!******************************!
+<T>What's the matter, boy? Do you
+need a rest?
+!******************************!
+<T>If you're truly sorry about calling
+me old, you'll show me by solving
+this puzzle!
+!******************************!
+<T>Hmph. You two are pretty sharp
+when it comes to puzzle solving, I'll
+give you that.
+!******************************!
+<T>The compliment means all the more
+coming from a lady such as yourself,
+Florence.
+!******************************!
+<T>I do hope our paths cross again
+sometime.
+!******************************!
+<T>Tee hee! Now you're making me
+blush.
+!******************************!
+<T>You can sweet-talk me all you like,
+but you should know I'm a married
+woman.
+!******************************!
+<T>I think that lady has taken
+a shine to you, Professor...
+!******************************!
+<T>Such fine manners, and famous too!<W>
+Maybe we should get to know each
+other better.
+!******************************!
+<T>May I call you by your first name,
+Professor?<W> Tee hee!
+!******************************!

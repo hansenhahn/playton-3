@@ -1,0 +1,28 @@
+<T><A2/1>You there! Listen to me. I've got
+something I want to tell you.
+!******************************!
+<T><A3/1>Really? What is it?
+!******************************!
+<T><A3/1>I've just cooked up an amazing
+puzzle! It's so hard, it'll break
+your brain!
+!******************************!
+<T><A4/1>See? What did I tell you? Your brain
+is broken! Do I make the best puzzles
+or what!
+!******************************!
+<T><A3/1>Try all you want, you'll never solve
+my puzzle! It might even be the
+hardest one.<K><W>.<W>.<W></K>in the world!
+!******************************!
+<T><A2/1>WHAT?! You solved it?! Already?
+I worked really hard on that puzzle,
+you know.
+!******************************!
+<T>You could've at least taken a little
+longer to solve it. Hmph!
+!******************************!
+<T><A3/1>Hmph! The next puzzle I think up will
+be so hard, no one will be able to
+solve it! Not even me!
+!******************************!

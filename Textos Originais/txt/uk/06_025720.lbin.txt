@@ -1,0 +1,61 @@
+<T>Hi there, folks.<W> You look absolutely
+knackered. Have you been out
+walking all day? 
+!******************************!
+<T>We have. I can't say too much, but
+we've been on quite the journey.
+!******************************!
+<T>Oh, is that so?
+!******************************!
+<T>What you really need to perk you up
+is a nice big meal, but we don't
+serve hot food here, I'm afraid.
+!******************************!
+<T><A3/1>I suppose I could whip up one of
+our special ham rolls, though. If you
+ask nicely, that is!
+!******************************!
+<T>That sounds great!<W> But what makes
+it so special?
+!******************************!
+<T>It's all about the order of the
+ingredients. Plus it has an
+extra-special secret ingredient.
+!******************************!
+<T>Now I just have to remember how
+to make the thing. How does it go
+again?
+!******************************!
+<T><A2/5>Snack time is going to have to wait
+until I remember how to make this
+roll.
+!******************************!
+<T>All right. I'm sure you'll help me
+remember how to make that ham roll
+this time.
+!******************************!
+<T>Thanks for the help! As your
+reward, here's your ham roll!
+!******************************!
+<T><A4/2>CHOMP!<W> Oh wow, this is amazing!
+!******************************!
+<T>Who would've thought potato salad
+in a sandwich could be so delicious?
+!******************************!
+<T>And the crusty roll's a perfect
+match for the tomato and cheese!<W>
+I love it!
+!******************************!
+<T><A1/2>Not a patch on my cucumber
+sandwiches, though, eh?
+!******************************!
+<T><A1/5>Uurk!<W>
+!******************************!
+<T>Uh-oh. Did that last bite get caught
+in your throat? You shouldn't eat
+so quickly, you know!
+!******************************!
+<T>Hello there, weary travellers! Feel
+free to stop by any time you want
+to rest your feet.
+!******************************!

@@ -1,0 +1,36 @@
+<T>Watch out, fellas! Can't y'see
+you're standing in the middle
+of a building site?!
+!******************************!
+<T><A3/2>It's good to see that you're making
+progress with the construction
+work.
+!******************************!
+<T><A3/1>Pfft, if only that were the case.
+We've hit a snag, see. Look at these
+boards here.
+!******************************!
+<T><A4/1>They're a very odd shape. What are
+you using them for?
+!******************************!
+<T>Diddly-squat. I've got crates of
+these things, but I can't use them.
+!******************************!
+<T>I need square boards, y'see. What's
+a man to do?
+!******************************!
+<T>Yeah, it's useless. Thanks for your
+help, but I think we'll just have to
+order new boards.
+!******************************!
+<T>Got any bright ideas that might help
+fix my problem?
+!******************************!
+<T><A2/1>Hey, look at that! One cut and I've
+got square boards. Thanks for the
+idea, mate!
+!******************************!
+<T><A2/1>Thanks for fixing that board
+problem. We're undermanned, y'see,
+so help is always appreciated.
+!******************************!

@@ -1,0 +1,29 @@
+<T>Look at all these monitors!
+!******************************!
+<T><A3/2>We should be able to see all parts
+of the fortress from here.
+!******************************!
+<T>So we'll be able to find the location
+of the generator room!
+!******************************!
+<T><A1/2>That's right, Luke. Now let's get
+searching.
+!******************************!
+<T>Crikey. Maybe this isn't going to be
+as easy as I thought.
+!******************************!
+<T>We mustn't stop searching, Luke.
+There are lives at stake.
+!******************************!
+<T>These monitors can help us pinpoint
+the location of the generator
+room.
+!******************************!
+<T>Ah, there it is!
+!******************************!
+<T>That's it, Luke!<W> Now all we have to
+do is feed these coordinates into
+the transport pod. Let's go!
+!******************************!
+<T>We're right behind you, Professor!
+!******************************!

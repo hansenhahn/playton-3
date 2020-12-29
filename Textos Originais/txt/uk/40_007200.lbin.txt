@@ -1,0 +1,92 @@
+The secret to a long life is plenty
+of sleep and exercise, don't you
+know. Speaking of exercise, let me
+tell you about the route I take on
+my afternoon walks!
+!******************************!
+Oi lads, we've got work to do!
+We've gotta grab all this cash
+and bang it into the safe, boss's
+orders! Make sure you get the lot!
+!******************************!
+Hey Fluuuke! Your bride-to-be
+can't wait to see you again,
+sweetie! And I'm bringing cakes!
+Aren't you just dying to taste
+them?
+!******************************!
+Oh nyet! I'm lost again, and this
+time in the desert! I've got to
+get to the coast for some agua
+before I dry up like a prune... But
+how? Oh bitte, amigo! Help me!
+!******************************!
+That Max! He rushed off ahead to
+the hotel and dropped all his toys
+along the way. Now I have to
+follow the trail of toys and pick
+them all up!
+!******************************!
+Oh dear! The inspector has called
+me out to an emergency! I'll be
+in for it if I don't get to the
+crime scene soon! I just can't
+resist all those cakes, though...
+!******************************!
+This course is my humble gift to
+you. Looks easy, but what about
+the gold coins you have to
+plunder? You're going to have to
+be creative to get all those!
+!******************************!
+This is my secret carrot patch
+and it's about time to dig the
+little beauties up. They look so
+juicy and tasty! It'll be fresh
+carrot salad for dinner!
+!******************************!
+I'm in big trouble! I spent a little
+too long in the casino last night
+and lost all my money. I need to
+get my hands on some cash before
+the Family come after me!
+!******************************!
+Well, well! Congratulations on
+getting this far! Allow me to
+reward you with this last course.
+It should be a piece of cake for
+an expert such as yourself!
+!******************************!
+Pass over all the flags!
+!******************************!
+Pick up all the money bags!
+!******************************!
+Pick up all the cakes for Luke!
+!******************************!
+Follow all the flags to the seaside!
+!******************************!
+Pick up all Max's toys!
+!******************************!
+Eat all the cakes on the course!
+!******************************!
+Pick up all the treasure!
+!******************************!
+Dig up all the carrots!
+!******************************!
+Pick up all the money bags!
+!******************************!
+Pick up all the top hats!
+!******************************!
+Congratulations!
+You have completed
+{''}%s{''}.
+!******************************!
+Bonus course added:
+{''}Riverside Stroll{''}.
+!******************************!
+Congratulations!
+You have completed all the
+courses!
+!******************************!
+Stop the car?
+!******************************!

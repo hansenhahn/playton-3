@@ -1,0 +1,32 @@
+<T>A real man backs down from no
+puzzle. In fact, nothing delights
+him more than pursuing a solution!
+!******************************!
+<T>You there!<W><A1/6> You're a man, are you
+not?<W> Well then, don't just stand
+there! Solve this puzzle!
+!******************************!
+<T><A1/1>You're incapable of solving my
+puzzle? Then you can't be a real
+man!
+!******************************!
+<T><A1/1>A real man has the tenacity to go
+12 rounds with a puzzle and keep
+swinging until he finds the answer!
+!******************************!
+<T><A1/6>Are you ready to step back into
+the ring with my puzzle?
+!******************************!
+<T><A1/5>At last, an answer! You, sir, have
+proved beyond doubt that every
+puzzle has an answer.
+!******************************!
+<T>Excellent work, my good man!
+!******************************!
+<T><A1/1>I keep such a good lookout that
+no one even dares to come near.
+!******************************!
+<T>Unfortunately, it leaves me with
+nothing to do.<W> Looks like it's
+time to think up another puzzle.
+!******************************!

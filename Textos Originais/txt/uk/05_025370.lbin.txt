@@ -1,0 +1,38 @@
+<T>Is this the notebook you were
+talking about, Professor?
+!******************************!
+<T><A2/2>Why yes, it is!
+!******************************!
+<T><A3/1>Let's see...
+!******************************!
+<T>{''}Notes on the Explosion at the
+Institute of Polydimensional
+Research{''}.
+!******************************!
+<T>Did you gather the information in
+this notebook, Professor?
+!******************************!
+<T><A4/1>I did, piece by piece.<W> Sadly, most of
+its contents have been...removed.
+!******************************!
+<T><A1/1>Hey, you're right! Most of the
+pages have been torn out. 
+!******************************!
+<T>It's been a while since I last opened
+it. Let's see...</T>
+!******************************!
+<T>Well, the newspaper clippings are
+still intact, at least.
+!******************************!
+<T><A4/1>How old are these articles,
+Professor?
+!******************************!
+<T><A1/1>I'll explain more on the bus.<W>
+First we need to get out of here
+before Flora returns. 
+!******************************!
+<T>Voila! I thought you might be hungry,
+so I made some cucumber sand-
+!******************************!
+<T><A2/5>Huh? Where did they go?
+!******************************!

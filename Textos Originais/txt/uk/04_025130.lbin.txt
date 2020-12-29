@@ -1,0 +1,16 @@
+<T>Say, when was that lighthouse on
+the river built?
+!******************************!
+<T>About five years ago.
+!******************************!
+<T><A1/1>Did anyone comment on its peculiar
+location?
+!******************************!
+<T>Building a structure like that in
+the middle of the river seems to
+serve little purpose.
+!******************************!
+<T><A3/5>That's not untrue, Professor...
+But let's discuss the city later. We
+need to make for the clock shop.
+!******************************!

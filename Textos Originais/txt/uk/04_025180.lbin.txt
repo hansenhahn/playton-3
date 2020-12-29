@@ -1,0 +1,39 @@
+<T>It looks like no one's here.
+!******************************!
+<T><J54>Tee hee hoo! Well, look who's
+back.<Q><K></J>
+!******************************!
+<T><A1/6>Augh! What are you doing hiding
+there?!
+!******************************!
+<T>I see you've learned the secret
+knock, dearie.
+!******************************!
+<T>Actually, I was the one who did the
+knocking, Spring. Is Cogg around?
+!******************************!
+<T>Ah, there you are, Luke. Cogg's in
+the back room. 
+!******************************!
+<T><A1/1>Oh, so you know the owners of
+the clock shop, Luke?
+!******************************!
+<T><A2/5>I must have forgotten to mention
+that earlier, but yes, Spring and
+Cogg have been helping me.
+!******************************!
+<T>I think Cogg can explain better
+than I can, though. You should ask
+him.
+!******************************!
+<T>All right.<W><A4/1> Let's hear what he
+has to say.
+!******************************!
+<T>Cogg's in the back room. He'll fill
+you in on how all this time travelling
+began.
+!******************************!
+<T>Sorry for keeping you in the dark.
+It was never my intention to
+deceive you.
+!******************************!

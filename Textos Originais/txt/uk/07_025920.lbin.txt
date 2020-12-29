@@ -1,0 +1,61 @@
+<T>Do you know this statue, Luke?
+!******************************!
+<T><A1/1>Hmm? Oh, the one with the man that
+looks like the professor?<W>
+Of course I do.
+!******************************!
+<T>Seeing it just now got me thinking
+about, you know, the future.
+!******************************!
+<T>One thing in particular occurred to
+me: you know how everything is
+going to turn out.
+!******************************!
+<T>I mean, you're me, so you already
+went through this scenario 10 years
+ago, didn't you?
+!******************************!
+<T><A2/2>Well, in a way, yes. But I can't tell
+you what's going to happen.
+!******************************!
+<T><A2/5>You having that knowledge could
+alter the course of history, you
+see.
+!******************************!
+<T>Some of the things that are
+supposed to happen might not
+happen at all.
+!******************************!
+<T>Time travel has changed the way
+events unfold here, and look at
+the mess it's made.
+!******************************!
+<T>We wouldn't want to add to that
+chaos, would we?
+!******************************!
+<T>I never really thought about
+it that way...
+!******************************!
+<T>What's more, knowing about your
+future self could actually change
+who you become.
+!******************************!
+<T><A4/4>And just to complicate things
+further, it's probably worth noting
+that technically you aren't me.
+!******************************!
+<T>I'm not?<W> Then who am I?
+!******************************!
+<T><A2/4>That's a tough question. The fact
+that we've met has changed things
+for both of us.
+!******************************!
+<T><A2/5>Only the past is certain.
+!******************************!
+<T>Therefore, I was you in the past,
+but you may not be me in the future.
+Do you see?
+!******************************!
+<T>I think I do.<W> But time travel really
+is complicated!
+!******************************!

@@ -1,0 +1,14 @@
+<T>'Old it right there!
+!******************************!
+<V0010><T>Aha! So this is where you sneaky
+sneaks 'ave been 'iding. There'll
+be no getting away this time!</V>
+!******************************!
+<V0020><T>Oh!</V>
+!******************************!
+<V0030><T>Oh no! We're trapped!</V>
+!******************************!
+<V0050><T>Quickly! Follow me!</V>
+!******************************!
+<V0060><T>Huh?</V>
+!******************************!

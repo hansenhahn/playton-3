@@ -1,0 +1,23 @@
+<T>I can't seem to open the door to
+the observatory.
+!******************************!
+<T>Really?<W> Hmm. It looks as though
+the door is locked with a puzzle.
+!******************************!
+<T>Oh yes, you're right.
+!******************************!
+<T>Worry not, Luke. I'll solve this
+puzzle and have us through the
+door before you know it.
+!******************************!
+<T>Hmm. I need to take a step back and
+give this puzzle some more thought.
+!******************************!
+<T>The door should open once we solve
+this puzzle.
+!******************************!
+<T>There we are, Luke. The lock is
+disabled.
+!******************************!
+<T>And the door is open!
+!******************************!

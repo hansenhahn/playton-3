@@ -1,0 +1,9 @@
+<T>I think this is the room we're
+looking for.
+!******************************!
+<T>Flora must be on the other side of
+this big door.
+!******************************!
+<T>Yes. We can only hope that she's
+unharmed.<W> Let's go in.
+!******************************!

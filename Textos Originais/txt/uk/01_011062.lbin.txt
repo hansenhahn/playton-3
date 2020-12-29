@@ -1,0 +1,9 @@
+<T>You received a picture book and
+some stickers from Alfie!
+!******************************!
+<T>The Picture Book minigame has been
+added to the trunk.
+!******************************!
+<T>Collect more stickers to restore
+missing parts of the story!
+!******************************!

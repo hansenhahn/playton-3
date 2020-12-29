@@ -1,0 +1,42 @@
+<T>Tell me, did you happen to notice
+that peculiar flower growing in the
+abandoned shop on Midland Road?
+!******************************!
+<T>Erm... Why, what's so special about
+this particular flower?
+!******************************!
+<T>It supposedly attracts puzzles that
+have disappeared from their
+original locations.
+!******************************!
+<T><A1/6>Like a Venus flytrap for puzzles?!
+!******************************!
+<T><A2/2>That's what they say, anyway.
+I've never seen it for myself.
+!******************************!
+<T>But if those rumours are true,
+we'll be able to retrieve any
+puzzles we've left behind.
+!******************************!
+<T>I'd say that's reason enough to
+visit the shop.
+!******************************!
+<T><A3/1>What do you say, Professor?
+!******************************!
+<T>Well, we've nothing to lose, I
+suppose.
+!******************************!
+<T><A2/2>The shop in question is just a quick
+stroll away and being able to visit
+lost puzzles would be very useful.
+!******************************!
+<T>Then what's stopping us? Let's go!
+!******************************!
+<T><A3/2>Don't you want to go and have a
+look at the flower that started all
+those rumours?
+!******************************!
+<T>It's growing not far from here, in
+the abandoned shop on Midland
+Road.
+!******************************!

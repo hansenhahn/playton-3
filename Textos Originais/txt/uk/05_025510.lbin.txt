@@ -1,0 +1,7 @@
+<T>Hello there, young man. Exploring
+the police station on your own,
+are you?
+!******************************!
+<T>Do you need to see the inspector
+again?
+!******************************!

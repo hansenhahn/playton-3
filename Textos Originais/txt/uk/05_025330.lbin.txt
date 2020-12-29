@@ -1,0 +1,68 @@
+<T>There you are, Professor L! I see
+you've cancelled our lecture again
+this week.
+!******************************!
+<T>Let me guess, you're off
+investigating another strange
+mystery, aren't you?
+!******************************!
+<T><A4/1>Ah, Miss Stone. Hello there.
+Yes, I'm afraid that something
+rather pressing has come up.
+!******************************!
+<T>I'll be holding supplementary
+lectures later, though. You can
+be sure of it.
+!******************************!
+<T>Oh, no worries, Professor L. As
+long as I get the credits, I don't
+really care.
+!******************************!
+<T>Now, what kind of attitude is that,
+Rosetta?
+!******************************!
+<T>If you want those credits, you'll
+have to earn them.
+!******************************!
+<T><A4/2>And since your topic is the stone
+relics of Cornwall, I'd say you
+have your work cut out for you.
+!******************************!
+<T>As your supervisor, I insist that
+you check in with me weekly until
+your dissertation is up to scratch.
+!******************************!
+<T>Heh heh! I didn't mean to imply that
+I wasn't interested in my studies.
+!******************************!
+<T>And I'm very much looking forward
+to our...sessions together.
+!******************************!
+<T><A3/5>Not every girl has the privilege of
+receiving private tuition from the
+great Professor Layton.
+!******************************!
+<T><A3/1>Erm.<W> Ahem.<W> What I meant was that
+you should check in with me during
+office hours.
+!******************************!
+<T><A2/2>Oh, you don't have to tell me twice,
+Professor L. I'll see you next
+week.<W> Heh heh!
+!******************************!
+<T><A1/5>I don't know what that girl's up to,
+but it can't be good, Professor!
+!******************************!
+<T>Nonsense, my boy.<W> It's all in your
+head.
+!******************************!
+<T>You can't fool me. Did you see the
+look she gave you? She's a...<W>a...<W>
+maneater!<W> Whatever that means...
+!******************************!
+<T><A5/1>Oh dear...
+!******************************!
+<T>Heh heh!<W><A2/2> You're always off chasing
+some mystery, aren't you,
+Professor L?
+!******************************!

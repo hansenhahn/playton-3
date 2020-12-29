@@ -1,0 +1,16 @@
+<T><A2/3>What? You're giving up on me?!
+!******************************!
+<T>Skwarrr...
+!******************************!
+<T><A1/1>Well, not to worry. <W>You can have
+another look at my request in the
+trunk and try again any time.
+!******************************!
+<T>You're sure to become a great
+delivery parrot one day. <W>I'll be
+waiting for you right here!
+!******************************!
+<T><A2/3>So don't you forget about me!
+!******************************!
+<A4/0>Not forrrget! Not forrrget!
+!******************************!

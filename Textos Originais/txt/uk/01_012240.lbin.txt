@@ -1,0 +1,66 @@
+<T>Oh, hello.
+!******************************!
+<T>Good day, madam. Would you mind
+helping us with something?
+!******************************!
+<T>Why not? I've got nothing better
+to do today. This place is dead.
+!******************************!
+<T>We're here to visit someone in your
+care. Could you point us towards
+Room 312?
+!******************************!
+<T>Room 312, huh? Let's see...<W> Ah,
+Dr Andrew Schrader? Of course,
+just a sec-
+!******************************!
+<T><A3/1>What?!<W> I'm sorry, did you just say
+Andrew Schrader?
+!******************************!
+<T>Keep it down, will you? You're in a
+hospital, you know.</T> <TW>So, are you two
+relatives of Dr Schrader, then?
+!******************************!
+<T>Actually no, I'm a former student
+of his.
+!******************************!
+<T>And your little friend there?
+!******************************!
+<T><A1/1>He's, well...
+!******************************!
+<T><A3/2>Dr Schrader's student's apprentice!
+!******************************!
+<T>Oh. Old 312's got a bit of a fan
+club, has he?
+!******************************!
+<T>All right, you can see him if you
+like, but I'm going to need you to
+complete some paperwork first.
+!******************************!
+<T>Paperwork?
+!******************************!
+<T>Hospital policy, I'm afraid. Don't
+worry, though. It's just one
+question.
+!******************************!
+<T><K>Hmm.<W></K> Sorry, no visitors are
+allowed in without completing the
+necessary paperwork.
+!******************************!
+<T>Sorry to force this on you, but
+it's a hospital directive. My hands
+are tied.
+!******************************!
+<T>If you want to visit Dr Schrader,
+you need to complete this
+paperwork first.
+!******************************!
+<T><A2/1>Thanks for that. You can visit
+Dr Schrader now.
+!******************************!
+<T>His room's on the third floor. Just
+take those stairs over there.
+!******************************!
+<T>Dr Schrader's room is up those
+stairs over there.
+!******************************!

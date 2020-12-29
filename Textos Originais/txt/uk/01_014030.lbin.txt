@@ -1,0 +1,44 @@
+<T>Why...it appears to be my beloved
+Laytonmobile.
+!******************************!
+<T>That's what I thought, too.<W> I've
+never seen anyone else with such a
+funny-shaped car, after all.
+!******************************!
+<T>Funny-shaped?<W> I'll have you know
+that this is a classic, my dear boy.
+!******************************!
+<T>Judging by all the dust and dirt on
+it, it must be.
+!******************************!
+<T>It doesn't look like anyone's been
+taking care of your car while it's
+been parked out here, Professor.
+!******************************!
+<T>Indeed.<W><A3/1> It does appear to have
+been exposed to the elements for
+quite some time.
+!******************************!
+<T><A3/2>Why don't we see if it still works?
+We won't need to rely on the train
+any more if it does.
+!******************************!
+<T>That's an excellent suggestion,
+Luke.<W></T> <TW><K>Hmm?
+!******************************!
+<T><A4>What's the matter, Professor?
+!******************************!
+<T><A1/1>Someone's installed a peculiar lock
+on the door. Who could have done
+such a thing?
+!******************************!
+<T>The Laytonmobile's not going
+anywhere unless we open this lock.
+!******************************!
+<T>Let's get this vexing lock open so
+we can try starting up the car.
+!******************************!
+<T><A2/2>There we are. It's finally open.
+!******************************!
+<T>All right! Start her up, Professor!
+!******************************!

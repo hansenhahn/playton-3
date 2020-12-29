@@ -1,0 +1,24 @@
+<T>Yikes!<W> What are you doing, sneaking
+up on me like that?! You almost
+gave me a heart attack!
+!******************************!
+<T>S-sorry, sir.<W> I didn't think a simple
+hello would scare you so much.
+!******************************!
+<T>I was lost in thought and didn't 
+see you coming. Anyway, I have
+things to do. Goodbye.
+!******************************!
+<T><A4/1><K>Hmm...
+!******************************!
+<T>What's the matter, Professor?
+!******************************!
+<T>Look at the ground, Luke.
+!******************************!
+<T>Wet footprints... But it hasn't
+rained since we got here.
+!******************************!
+<T>How come his shoes are wet?
+!******************************!
+<T>I haven't the faintest idea.
+!******************************!

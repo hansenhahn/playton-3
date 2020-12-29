@@ -1,0 +1,45 @@
+<T><A1/1>Hello there. Nice to see you
+again.
+!******************************!
+<T><A2/3>Man dances like a fool in an effort
+to fulfil his heart's desires.
+!******************************!
+<T>But only when the hootenanny is
+over does he regret his actions.
+Such is the plight of mankind.
+!******************************!
+<T><A4/4>Uh, I think I'm already in over my
+head. Maybe I should go...
+!******************************!
+<T><A2/1>Hold it! The lesson here is a simple
+one. I speak of love. People do
+such strange things in its name.
+!******************************!
+<T><A3/3>You are probably still too young
+to understand the emotion of which
+I speak.
+!******************************!
+<T>Worry not. One day you too will be
+compelled to ponder the myriad
+facets of the feeling called love.
+!******************************!
+<T>Perhaps then you will be ready to
+gaze into the heart of my puzzle
+and unravel its complexity.
+!******************************!
+<T><A1/1>Back to ponder the mysteries
+of the human heart?
+!******************************!
+<T><A2/1>Love is a beautiful thing, but it can
+also be cruel. Never hurt the ones
+you care for, young one.
+!******************************!
+<T><A1/1>That, um, sounds like good advice
+to me.
+!******************************!
+<T><K><A4/1>...
+!******************************!
+One day you too will be compelled
+to ponder the myriad facets of the
+feeling called love.
+!******************************!

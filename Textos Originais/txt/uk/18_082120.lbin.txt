@@ -1,0 +1,16 @@
+<T>Let's see how you fare against
+this puzzle.
+!******************************!
+<T>My, this puzzle is putting up quite
+a fight, isn't it?
+!******************************!
+<T>I'm glad you returned to solve this
+puzzle.
+!******************************!
+<T><A1/2>I must say, I'm very impressed with
+your work there.
+!******************************!
+<T><A1/2>Back for another round with this
+puzzle, eh? I know that feeling all
+too well.
+!******************************!

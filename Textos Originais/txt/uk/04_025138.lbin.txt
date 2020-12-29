@@ -1,0 +1,29 @@
+<T><A1/5>Today's the big day! At last, I shall
+propose to the most enchanting
+woman in all of London.
+!******************************!
+<T>Propose a business partnership,
+that is!
+!******************************!
+<T>Gosh, how exciting!
+!******************************!
+<T><A3/4>Oh yes. At last Belle, radiant
+goddess that she is, will help me
+realise my life's ambition!
+!******************************!
+<T>I plan to start...<W>a clothing line!
+!******************************!
+<T>As you can see, I am no stranger
+to style myself.
+!******************************!
+<T>But no one has their finger on the
+pulse of fashion like that girl.
+!******************************!
+<T>Every genius needs a muse. Belle is
+mine!
+!******************************!
+<T>Oh...<W> Well, um, good luck with that.
+!******************************!
+<T>Perhaps a new cravat is what I
+need to seal the deal. Hmm...
+!******************************!

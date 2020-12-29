@@ -1,0 +1,23 @@
+<T>It looks like we're on the right
+track, Professor. Here's the
+Thames.
+!******************************!
+<T>Indeed, and it looks as majestic
+as ever.
+!******************************!
+<T>Mm hmm. I suppose some parts of
+London never change, even after
+10 whole-
+!******************************!
+<T><A3/1>Hey, that wasn't there before.
+!******************************!
+<T>You've noticed it as well then, Luke.
+!******************************!
+<T>That has to be the biggest
+lighthouse I've ever seen, and I'm
+sure it wasn't there before.
+!******************************!
+<T>Judging by its almost pristine
+condition, it must have been
+erected fairly recently.
+!******************************!
