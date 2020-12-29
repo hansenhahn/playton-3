@@ -119,6 +119,8 @@ def unpackBackground( src, dst ):
             output.close()
         except AssertionError:
             pass
+        except:
+            pass
             
         temp.close()    
     
