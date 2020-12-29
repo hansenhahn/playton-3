@@ -1,0 +1,120 @@
+
+Professor Layton e a Caixa de Pandora PT-BR - Release 1
+
+- Um lançamento Monkeys Traduções e Jacutem Sabão -
+
+Professor Layton e a Caixa de Pandora é o segundo jogo na série Professor Layton, da Level-5.
+O jogo apresenta o professor Layton e Luke viajando através do país num trem para resolver o
+mistério por trás de uma estranha caixa que dizem matar quem a abrir. (Wikipedia)
+
+=============================================================================
+
+Informações sobre a ROM:
+	Nome Original:    4215 - Professor Layton and Pandora's Box (EU)(BAHAMUT).nds
+	Idioma Original:  Inglês
+	Idioma Traduzido: Português Brasileiro
+	CRC:              DF132837
+
+Sobre a Tradução:
+	Textos:  100%
+	Imagens: 100%
+	Revisão: 100%
+
+Equipe:
+	Responsável: DiegoHH
+	Programação: DiegoHH
+	Textos:      DiegoHH, Solid One, Sahgo, Steve Doido, Gamerulez, Magall, Shagohod
+	Imagens:     DiegoHH, Solid One
+
+Notas da Equipe:
+	- Pelo fato do jogo se passar numa Inglaterra fictícia, os nomes das personagens
+	  foram mantidos conforme a ortografia original.
+	- Os únicos nomes que sofreram pela não tradução são:
+	  * Granny Riddleton
+		Poderia ter sido traduzido para Vovó Charada
+	  * Stachescarfen 
+		Junção das palavras (Mu)Stache + Scarf[en]. Poderia ter sido
+		traduzido para ?Bigodenço? - Bigod[e] + (L)enço
+	- Todos os enigmas da versão europeia são universais. Assim sendo, todos
+	  estão devidamente traduzidos para o português brasileiro.
+
+Notas das Versões:
+	- 28/12/2020 Release 1
+		* Revisão de todos os textos da história e enigmas
+		* Revisão de todas as imagens
+		* Tradução dos créditos
+		* Desbloqueio da Porta Oculta de St. Mystère
+	- 29/05/2020 Beta 10
+		* Revisão dos textos da história e enigmas
+		* Correção do layout do teclado
+		* Tradução das imagens relacionadas à última carta do Luke
+	- 20/05/2020 Beta 9
+		* Revisão dos textos da história e enigmas
+		* Tradução de mais algumas imagens
+		* Adequação de alguns termos
+	- 15/05/2019 Beta 8
+		* Revisão do capítulo 5
+		* Adequação de alguns termos
+	- 10/01/2019 Beta 7
+		* Correção dos diálogos relacionados ao jogo do chá
+		* Tradução e revisão de todos os enigmas
+		* Tradução de textos pendentes
+	- 30/07/2018 Beta 6
+		* Mais uma revisão ingame do Capítulo 2 e 3
+		* Correção do texto do jogo do Chá
+		* Mais algumas imagens traduzidas
+		* Mais alguns textos traduzidos
+		* Revisão dos enigmas 1 a 58
+	- 26/07/2018 Beta 5
+		* Mais uma revisão ingame do Prólogo e Capítulo 1
+		* Revisão da história secundária do Capítulo 4
+		* Revisão dos enigmas 1 a 46
+		* Tradução dos enigmas do Capítulo 4
+		* Tradução de mais algumas imagens
+		* Correções de bugs envolvendo os Enigmas Semanais
+		** A opção Dicas foi habilitada via alterações na programação do jogo
+		** O enigma W13 não trava mais o jogo quando selecionado
+	- 30/06/2018 Beta 4
+		* Revisão ingame do Prólogo, Capítulo 1 e 2
+		* Tradução de mais alguns textos espalhados pelo jogo.
+		* Tradução do texto dos jogos do Hamster, da Câmera e do Conjunto de Chá.
+		* Padronização de alguns termos.		
+		* Revisão dos enigmas 1 a 37.
+		* Tradução dos enigmas 27 a 59.
+		* Tradução e correção de algumas imagens.
+		* Correção da largura de alguns caracteres.
+	- 04/06/2018 Beta 3
+		* Revisão ingame do Prólogo e Capítulo 1.
+		* Tradução do texto dos perfis, memórias do Layton, diários, localização, etc.
+		* Revisão dos enigmas 1 a 26.
+		* Tradução e correção de várias imagens.
+		* Correção da largura da maioria dos caracteres.
+	- 29/04/2018 Beta 2
+		* Revisão da história secundária do Capítulo 1 a 3.
+		* Revisão dos enigmas 1 a 7 e 11 a 20.
+		* Tradução dos comentários dos personagens.
+		* Correção de algumas imagens.
+		* Desbloqueio dos enigmas semanais.
+		* Inserção da Splash Screen.
+	- 14/04/2018 Beta 1
+		* Todos os textos da história traduzidos.
+		** História principal do Prólogo, Capítulo 1 a 5 revisadas.
+		** História secundária do Prólogo revisada.
+		* Alguns enigmas traduzidos, mas não revisados, indo além do limite da tela.
+		* A maioria das imagens traduzidas.
+
+Contato:	
+	E-mail: hansen.hahn@gmail.com
+	GitHub: https://github.com/hansenhahn/playton-2
+	Pelo FURT: http://www.romhacking.net.br
+
+Licença de Uso:
+	A presente obra encontra-se licenciada sob a licença
+	Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported.
+
+	Para visualizar uma cópia da licença, visite
+	http://creativecommons.org/licenses/by-nc-nd/3.0/ ou mande uma carta para:
+	Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
+
+	LEIA-ME por DiegoHH <hansen.hahn@gmail.com>
+
