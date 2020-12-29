@@ -52,70 +52,74 @@ def unpackBackground( src, dst ):
     files = filter(lambda x: x.__contains__('.cimg'), scandirs(bg_path))
         
     for _, fname in enumerate(files):
-        print fname
-        
-        path = fname[len(src):]
-        fdirs = dst + path[:-len(os.path.basename(path))]
-        if not os.path.isdir(fdirs):
-            os.makedirs(fdirs)          
-        
-        file = open(fname, 'rb')
-        type = struct.unpack('B', file.read(1))[0]
-        if type == 0x30:
-            buffer = rle.uncompress(file, 0)
-        elif type == 0x10:     
-            buffer = lzss.uncompress(file, 0)
-        elif type == 0x24 or type == 0x28:
-            buffer = huffman.uncompress(file, 0)
-        else:
-            file.seek(4,0)
-            buffer = array.array('c', file.read())
+        try:
+            print fname
             
-        temp = mmap.mmap(-1, len(buffer))
-        temp.write(buffer.tostring())
-        file.close()
+            path = fname[len(src):]
+            fdirs = dst + path[:-len(os.path.basename(path))]
+            if not os.path.isdir(fdirs):
+                os.makedirs(fdirs)          
+            
+            file = open(fname, 'rb')
+            type = struct.unpack('B', file.read(1))[0]
+            if type == 0x30:
+                buffer = rle.uncompress(file, 0)
+            elif type == 0x10:     
+                buffer = lzss.uncompress(file, 0)
+            elif type == 0x24 or type == 0x28:
+                buffer = huffman.uncompress(file, 0)
+            else:
+                file.seek(4,0)
+                buffer = array.array('c', file.read())
+                
+            temp = mmap.mmap(-1, len(buffer))
+            temp.write(buffer.tostring())
+            file.close()
 
-        temp.seek(0,0)
-        assert temp.read(4) == "LIMG"
-        colormap_offset = struct.unpack("<L", temp.read(4))[0]
-        temp.read(8)
-        tilemap_offset, tilemap_entries = struct.unpack("<HH", temp.read(4))
-        background_offset, background_entries = struct.unpack("<HH", temp.read(4))
-        _, colormap_entries = struct.unpack("<HH", temp.read(4))
-        
-        width = struct.unpack('<H', temp.read(2))[0]
-        height = struct.unpack('<H', temp.read(2))[0]   
+            temp.seek(0,0)
+            assert temp.read(4) == "LIMG"
+            colormap_offset = struct.unpack("<L", temp.read(4))[0]
+            temp.read(8)
+            tilemap_offset, tilemap_entries = struct.unpack("<HH", temp.read(4))
+            background_offset, background_entries = struct.unpack("<HH", temp.read(4))
+            _, colormap_entries = struct.unpack("<HH", temp.read(4))
+            
+            width = struct.unpack('<H', temp.read(2))[0]
+            height = struct.unpack('<H', temp.read(2))[0]   
 
-        colormap = []
-        tilelist = []
-        buffer = array.array('c')
-        
-        temp.seek( colormap_offset )
-        for _ in range(colormap_entries):
-            colormap.append(gba2tuple(temp))    
+            colormap = []
+            tilelist = []
+            buffer = array.array('c')
+            
+            temp.seek( colormap_offset )
+            for _ in range(colormap_entries):
+                colormap.append(gba2tuple(temp))    
 
-        temp.seek( background_offset )
-        for _ in range(background_entries):
-            tilelist.append(temp.read(64))            
+            temp.seek( background_offset )
+            for _ in range(background_entries):
+                tilelist.append(temp.read(64))            
 
-        temp.seek( tilemap_offset )
-        for x in range(tilemap_entries):
-            bytes = struct.unpack('<H', temp.read(2))[0]
-            # v_mirror = bytes & 0x0800
-            # h_mirror = bytes & 0x0400
-            string = tilelist[bytes & 0x3FF]
-            # if v_mirror:
-                # string = vertical(string)
-            # if h_mirror:
-                # string = horizontal(string)
-            buffer.extend(string)
-                   
-        output = open(fdirs + os.path.basename(path) + '.bmp', 'wb')
+            temp.seek( tilemap_offset )
+            for x in range(tilemap_entries):
+                bytes = struct.unpack('<H', temp.read(2))[0]
+                # v_mirror = bytes & 0x0800
+                # h_mirror = bytes & 0x0400
+                string = tilelist[bytes & 0x3FF]
+                # if v_mirror:
+                    # string = vertical(string)
+                # if h_mirror:
+                    # string = horizontal(string)
+                buffer.extend(string)
+                       
+            output = open(fdirs + os.path.basename(path) + '.bmp', 'wb')
 
-        w = images.Writer((width, height), colormap, 8, 1, 0)
-        w.write(output, buffer, 8, 'BMP')
-        
-        output.close()
+            w = images.Writer((width, height), colormap, 8, 1, 0)
+            w.write(output, buffer, 8, 'BMP')
+            
+            output.close()
+        except AssertionError:
+            pass
+            
         temp.close()    
     
 def packBackground( src, dst ):
