@@ -47,7 +47,8 @@ def scandirs(path):
     return files
 
 def unpackBackground( src, dst ):
-    bg_path = os.path.join(src, 'img')
+    #bg_path = os.path.join(src, 'img')
+    bg_path = src
     files = filter(lambda x: x.__contains__('.cimg'), scandirs(bg_path))
         
     for _, fname in enumerate(files):
@@ -67,7 +68,7 @@ def unpackBackground( src, dst ):
         elif type == 0x24 or type == 0x28:
             buffer = huffman.uncompress(file, 0)
         else:
-            file.seek(0,0)
+            file.seek(4,0)
             buffer = array.array('c', file.read())
             
         temp = mmap.mmap(-1, len(buffer))
