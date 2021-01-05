@@ -60,6 +60,7 @@ def unpackBackground( src, dst ):
             if not os.path.isdir(fdirs):
                 os.makedirs(fdirs)          
             
+            #fname = r"C:\WorkingCopy\playton-3\ROM Original\PLAYTON3\data\lt3\ani\uk\evt_chapt.cimg"
             file = open(fname, 'rb')
             type = struct.unpack('B', file.read(1))[0]
             if type == 0x30:
@@ -71,7 +72,10 @@ def unpackBackground( src, dst ):
             else:
                 file.seek(4,0)
                 buffer = array.array('c', file.read())
-                
+               
+            # with open("temp", "wb") as fd: fd.write(buffer.tostring())
+            # raw_input()
+               
             temp = mmap.mmap(-1, len(buffer))
             temp.write(buffer.tostring())
             file.close()
@@ -82,8 +86,13 @@ def unpackBackground( src, dst ):
             temp.read(8)
             tilemap_offset, tilemap_entries = struct.unpack("<HH", temp.read(4))
             background_offset, background_entries = struct.unpack("<HH", temp.read(4))
-            _, colormap_entries = struct.unpack("<HH", temp.read(4))
+            colormap_type, colormap_entries = struct.unpack("<HH", temp.read(4))
             
+            if colormap_type == 0 :
+                colormap_bpp = 0
+            else:
+                colormap_bpp = 1
+
             width = struct.unpack('<H', temp.read(2))[0]
             height = struct.unpack('<H', temp.read(2))[0]   
 
@@ -92,19 +101,26 @@ def unpackBackground( src, dst ):
             buffer = array.array('c')
             
             temp.seek( colormap_offset )
+            if colormap_type == 2 :
+                for _ in range( 16**(1+colormap_bpp) - colormap_entries):
+                    colormap.append((0,0,0))
+                    
             for _ in range(colormap_entries):
                 colormap.append(gba2tuple(temp))    
 
             temp.seek( background_offset )
             for _ in range(background_entries):
-                tilelist.append(temp.read(64))            
+                tilelist.append(temp.read( 32 * 2**colormap_bpp ))                          
 
             temp.seek( tilemap_offset )
             for x in range(tilemap_entries):
                 bytes = struct.unpack('<H', temp.read(2))[0]
                 # v_mirror = bytes & 0x0800
                 # h_mirror = bytes & 0x0400
-                string = tilelist[bytes & 0x3FF]
+                try:
+                    string = tilelist[bytes & 0x3FF]
+                except:
+                    string = "\x00"*32*2**colormap_bpp
                 # if v_mirror:
                     # string = vertical(string)
                 # if h_mirror:
@@ -113,8 +129,12 @@ def unpackBackground( src, dst ):
                        
             output = open(fdirs + os.path.basename(path) + '.bmp', 'wb')
 
-            w = images.Writer((width, height), colormap, 8, 1, 0)
-            w.write(output, buffer, 8, 'BMP')
+            if colormap_bpp == 0:
+                w = images.Writer((width, height), colormap, 4, 1, 0)
+                w.write(output, buffer, 4, 'BMP')
+            else:
+                w = images.Writer((width, height), colormap, 8, 1, 0)
+                w.write(output, buffer, 8, 'BMP')
             
             output.close()
         except AssertionError:
