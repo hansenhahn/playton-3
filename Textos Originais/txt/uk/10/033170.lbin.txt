@@ -1,0 +1,43 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Excuse me, sir. Have you happened
+to see my young friend around
+here? You know, the puzzle-lover?
+!******************************!
+[hdr:000a000000026e0000000275000000]
+[inf:834583628359]
+<T>Oh, that boy? No, he hasn't been
+through here.
+!******************************!
+[hdr:000a000000020000000002a7000000]
+[inf:838c834383678393]
+<T>It's the strangest thing. He just
+ran off and I haven't seen him
+since.
+!******************************!
+[hdr:000a000000020000000002f2000000]
+[inf:838c834383678393]
+<T>He's too old to be getting lost.
+!******************************!
+[hdr:000a000000026e0000000216010000]
+[inf:834583628359]
+<T>I hate to burst your bubble, but
+you should realise that anyone can
+get lost, and at any age.
+!******************************!
+[hdr:000a000000026e0000000277010000]
+[inf:834583628359]
+<T>I read about this sort of thing all
+the time in the papers. <A3/1>Look-
+!******************************!
+[hdr:000a000000020000000002c2010000]
+[inf:838c834383678393]
+<T><A3/1>Yes, well I'd best get back to
+searching. If you see my friend, let
+him know I'm looking for him.
+!******************************!
+[hdr:000a000000026e000000022d020000]
+[inf:834583628359]
+<T>Of course. I hope you find him 
+soon.
+!******************************!

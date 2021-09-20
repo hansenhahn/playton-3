@@ -1,0 +1,63 @@
+[hdr:000a00000002000000000209000000]
+[inf:8366834283898393]
+<T><A2/4>What was she thinking...?
+!******************************!
+[hdr:000a000000022c0000000235000000]
+[inf:838c834383678393]
+<T><A3/1>Is something the matter?
+!******************************!
+[hdr:000a00000002000000000257000000]
+[inf:8366834283898393]
+<T><A1/5>Yeah. I'm supposed to go to my
+friend's house today, but I don't
+know where it is.
+!******************************!
+[hdr:000a000000020000000002b3000000]
+[inf:8366834283898393]
+<T>Her instructions make no sense at
+all. They're absolute gibberish.<W>
+Here, have a look.
+!******************************!
+[hdr:00e80300000200000000020f010000]
+[inf:8366834283898393]
+<T><A2/4>Nope, that won't do it.
+!******************************!
+[hdr:00d007000002000000000230010000]
+[inf:8366834283898393]
+<T><A1/5>Hey, give me a hand with this will
+you? I'm completely stuck here.
+!******************************!
+[hdr:00b80b00000200000000027c010000]
+[inf:8366834283898393]
+<T><A1/1>Hey, well done.<W> Recently I've been
+playing with my friend, like, every
+day.
+!******************************!
+[hdr:00b80b0000020000000002d4010000]
+[inf:8366834283898393]
+<T><A2/5>My dad's never home and neither
+are her parents.
+!******************************!
+[hdr:00b80b00000200000000020e020000]
+[inf:8366834283898393]
+<T>They all stay cooped up at the
+research facility, day and night.
+!******************************!
+[hdr:00b80b0000022c0000000252020000]
+[inf:838c834383678393]
+<T><A1/1>So your father is a researcher?
+!******************************!
+[hdr:00b80b00000200000000027b020000]
+[inf:8366834283898393]
+<T><A3/1>Him and almost everyone else in this
+part of town.
+!******************************!
+[hdr:00b80b0000022c00000002b7020000]
+[inf:838c834383678393]
+<T>Interesting...
+!******************************!
+[hdr:00a00f0000020000000002c9020000]
+[inf:8366834283898393]
+<T><A1/1>Hey there. Out for a stroll or
+something?
+!******************************!

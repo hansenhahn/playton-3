@@ -1,0 +1,67 @@
+[hdr:000a00000002000000000209000000]
+[inf:835783838362834e]
+<T>Okay! End of the line! Everyone out!
+Heh heh!
+!******************************!
+[hdr:000f000000023a0000000245000000]
+[inf:83608346838b837e815b]
+<T>What in the world...?
+!******************************!
+[hdr:0014000000025e0000000265000000]
+[inf:838b815b834e]
+<T>Urgh... My stomach's doing backflips
+again.
+!******************************!
+[hdr:0014000000023a0000000294000000]
+[inf:83608346838b837e815b]
+<T>Hey, Layton! What just happened?
+!******************************!
+[hdr:001e00000002b800000002c1000000]
+[inf:838c834383678393]
+<T>Step outside and see for yourself,
+Inspector. That should serve as
+sufficient explanation.
+!******************************!
+[hdr:001e000000023a000000021f010000]
+[inf:83608346838b837e815b]
+<T><A2/6>What are you on about now?<W>
+Hmph. Come on then, Barton.
+Let's go outside.
+!******************************!
+[hdr:00230000000274010000027d010000]
+[inf:836f815b83678393]
+<T>Just a moment, Inspector. I'm
+feeling a little queasy.<W> Very
+queasy, actually...
+!******************************!
+[hdr:0023000000023a00000002d3010000]
+[inf:83608346838b837e815b]
+<T><A1/1>Pull yourself together, Constable!
+We're going outside.
+!******************************!
+[hdr:00280000000214020000021b020000]
+[inf:8341838d837d]
+<T><A1/4>Please don't jostle me. I'm feeling
+a bit green...
+!******************************!
+[hdr:0032000000025e0000000257020000]
+[inf:838b815b834e]
+<T>Are you okay, Flora?
+!******************************!
+[hdr:003200000002b8000000026f020000]
+[inf:838c834383678393]
+<T>It was a rather bumpy ride.
+!******************************!
+[hdr:0032000000025e000000028e020000]
+[inf:838b815b834e]
+<T>I'll say. Time travel really takes it
+out of you.
+!******************************!
+[hdr:003c000000021402000002c3020000]
+[inf:8341838d837d]
+<T>I'm just...<W>a little...<W>dizzy...
+!******************************!
+[hdr:0046000000025e00000002eb020000]
+[inf:838b815b834e]
+<T><A1/6>Oh no! Flora!
+!******************************!

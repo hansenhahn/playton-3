@@ -1,0 +1,32 @@
+[hdr:000a00000002000000000209000000]
+[inf:83568383838d8393]
+<T>A casino on Flatstone Street?
+!******************************!
+[hdr:000a0000000200000000022a000000]
+[inf:83568383838d8393]
+<T>Yeah, there is one, but I'm not
+sure it's the kind of place you can
+take kids...
+!******************************!
+[hdr:000a000000027e0000000287000000]
+[inf:838c834383678393]
+<T>Don't worry, madam. We're just
+meeting a friend there.
+!******************************!
+[hdr:000a000000027e00000002c1000000]
+[inf:838c834383678393]
+<T>Do you happen to know where on
+Flatstone Street the casino is
+located?
+!******************************!
+[hdr:000a0000000200000000020b010000]
+[inf:83568383838d8393]
+<T>Nah, sorry. Not my scene.<W> You
+should ask someone in the area.
+!******************************!
+[hdr:000a000000027e000000024f010000]
+[inf:838c834383678393]
+<T>Yes, I suppose a resident of
+Flatstone Street would be able to
+tell us. Thank you.
+!******************************!

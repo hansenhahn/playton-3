@@ -1,0 +1,21 @@
+[hdr:000a0000000200000000020b000000]
+[inf:83608346838b837e815b]
+<T>Heading back already, Layton?
+I've still got a few leads to chase,
+so I'm going to stay here for now.
+!******************************!
+[hdr:00140000000274000000027f000000]
+[inf:96a29788838b815b834e]
+<T>I'm afraid I'll have to stay
+behind as well, Professor.
+!******************************!
+[hdr:001400000002ba00000002c3000000]
+[inf:838c834383678393]
+<T><A1/1>All right. We won't be long. Please
+wait for us here.
+!******************************!
+[hdr:001e0000000202010000020b010000]
+[inf:835783838362834e]
+<T>Okay, now that they've left, let's
+get going.<W> <A3/0>Here we go!
+!******************************!

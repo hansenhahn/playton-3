@@ -1,0 +1,24 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>I wonder what this puzzle has in
+store for us.
+!******************************!
+[hdr:00e80300000200000000023b000000]
+[inf:838c834383678393]
+<T>It seems this puzzle just doesn't
+want to be solved!
+!******************************!
+[hdr:00d007000002000000000273000000]
+[inf:838c834383678393]
+<T>I applaud your tenacity! Now let's
+get back to the puzzle at hand.
+!******************************!
+[hdr:00b80b0000020000000002b9000000]
+[inf:838c834383678393]
+<T><A1/2>That was expertly solved.
+!******************************!
+[hdr:00a00f0000020000000002dc000000]
+[inf:838c834383678393]
+<T><A1/2>Back for another round, are you?
+Good luck.
+!******************************!

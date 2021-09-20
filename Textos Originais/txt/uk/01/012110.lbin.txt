@@ -1,0 +1,47 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Hi there. You're Max, aren't you?
+!******************************!
+[hdr:000a000000022c0000000235000000]
+[inf:837d8362834e8358]
+<T>DING DING DING!<W> Correct!<W> But how
+do you know my name?
+!******************************!
+[hdr:000a00000002000000000274000000]
+[inf:838b815b834e]
+<T>Becky told us.
+!******************************!
+[hdr:000a000000022c0000000286000000]
+[inf:837d8362834e8358]
+<T><A3/0>BZZT!<W> Invalid answer!<W> <A1/2>So bossy
+Becky sent you! You must be
+staying at the hotel, then.
+!******************************!
+[hdr:000a000000020000000002f2000000]
+[inf:838b815b834e]
+<T>DING!<W> Er... I mean, yes, we are.
+!******************************!
+[hdr:000a00000002000000000219010000]
+[inf:838b815b834e]
+<T>Hey, is the arcade through that
+archway? And does it lead to the
+station?
+!******************************!
+[hdr:000a000000022c0000000266010000]
+[inf:837d8362834e8358]
+<T>DING DING DING!<W> Correct!<W> That's
+the arcade all right! And you can
+get to the station from there.
+!******************************!
+[hdr:0014000000022c00000002d0010000]
+[inf:837d8362834e8358]
+<T>Walk all the way through the arcade
+and you'll come out onto a big
+road called Flatstone Street.
+!******************************!
+[hdr:0014000000022c0000000234020000]
+[inf:837d8362834e8358]
+<T>Then just head up Flatstone Street
+and at the north end, you'll find
+the station.
+!******************************!

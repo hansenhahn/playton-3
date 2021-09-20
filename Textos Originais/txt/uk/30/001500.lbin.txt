@@ -1,0 +1,34 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+It's awfully quiet in
+here. Too quiet,
+maybe...
+!******************************!
+[hdr:001400000002370000000240000000]
+[inf:838c834383678393]
+I'm afraid I find this
+part of the decor a
+little over the top.
+!******************************!
+[hdr:001e00000002370000000280000000]
+[inf:838c834383678393]
+My eye is irresistibly
+drawn to this
+fearsome dragon.
+!******************************!
+[hdr:002800000002b600000002bd000000]
+[inf:8341838d837d]
+Nothing livens up a
+den of iniquity like
+a potted plant.
+!******************************!
+[hdr:003200000002f600000002ff000000]
+[inf:834e838983458358]
+Let's hurry,
+Professor. We must
+stop your future self!
+!******************************!
+[hdr:000f2700000236010000023d010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

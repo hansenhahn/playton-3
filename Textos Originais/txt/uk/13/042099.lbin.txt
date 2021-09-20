@@ -1,0 +1,36 @@
+[hdr:000a00000002000000000209000000]
+[inf:8382836a835e815b]
+<T>HA! I knew you couldn't hide from
+me!
+!******************************!
+[hdr:001400000002320000000239000000]
+[inf:838b815b834e]
+<T><A1/3>Oh no! We've been spotted again!
+!******************************!
+[hdr:00140000000263000000026c000000]
+[inf:838c834383678393]
+<T><A4/2>Relax, Luke. There's little he can
+do from behind that monitor.<W> Now,
+let's go to the surveillance room.
+!******************************!
+[hdr:0014000000020000000002e0000000]
+[inf:8382836a835e815b]
+<T>Pfeh! Shows what you know! You
+need the key code to go to the
+surveillance room, fools!
+!******************************!
+[hdr:00140000000200000000023b010000]
+[inf:8382836a835e815b]
+<T>You ain't going nowhere without
+that!
+!******************************!
+[hdr:001400000002630000000264010000]
+[inf:838c834383678393]
+<T>We'll be sure to decipher the
+key code beforehand, then.<W>
+Thanks for the tip.
+!******************************!
+[hdr:0014000000020000000002b7010000]
+[inf:8382836a835e815b]
+<T>You're welco-<W> Oi!
+!******************************!

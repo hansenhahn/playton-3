@@ -1,0 +1,63 @@
+[hdr:001400000002000000000209000000]
+[inf:838c834383678393]
+<K><T>Hmm...
+!******************************!
+[hdr:00140000000216000000021d000000]
+[inf:838b815b834e]
+<T>Did you see that, Professor? That
+was the same woman we saw earlier,
+wasn't it?
+!******************************!
+[hdr:001400000002000000000270000000]
+[inf:838c834383678393]
+<T>I... I suppose it was.
+!******************************!
+[hdr:00140000000216000000028a000000]
+[inf:838b815b834e]
+<T>You seem distracted, Professor.
+Are you all right?
+!******************************!
+[hdr:0014000000020000000002c0000000]
+[inf:838c834383678393]
+<T>What's that?<W> Oh, I'm fine, Luke.
+Absolutely fine.
+!******************************!
+[hdr:0014000000021600000002f8000000]
+[inf:838b815b834e]
+<T>If you say so, Professor.<W> Hey
+look, I bet these are the stairs
+Shipley mentioned.
+!******************************!
+[hdr:001900000002000000000250010000]
+[inf:838c834383678393]
+<T><A4/5>I could've sworn that was Claire.<W>
+But that's impossible...
+!******************************!
+[hdr:001e0000000297010000029e010000]
+[inf:837583628360]
+<T>Word has it that the prime minister
+who disappeared 10 years ago is
+being held up there too.
+!******************************!
+[hdr:0028000000020000000002fe010000]
+[inf:838c834383678393]
+<T><A3/1>Perhaps that's what happened when
+the prime minister was abducted 10
+years ago...
+!******************************!
+[hdr:002800000002000000000259020000]
+[inf:838c834383678393]
+<T>Perhaps he was sent to the future,
+as we were...<W> What if all this talk
+of time travel is real?
+!******************************!
+[hdr:0028000000020000000002be020000]
+[inf:838c834383678393]
+<T>If so, then maybe that really was
+Claire...
+!******************************!
+[hdr:0028000000020000000002ed020000]
+[inf:838c834383678393]
+<T>No! It defies all logic. Claire can't
+be here. Not after that day...
+!******************************!

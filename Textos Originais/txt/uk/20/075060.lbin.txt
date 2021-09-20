@@ -1,0 +1,58 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T><A2/2>I see you've managed to lay down
+a rough sketch of the whole mural.
+It looks excellent.
+!******************************!
+[hdr:000a000000026a0000000273000000]
+[inf:835f837e83418393]
+<T>Heh heh! It really is something else,
+isn't it? I'm glad I asked those
+kids to do the job.
+!******************************!
+[hdr:000a00000002d100000002d8000000]
+[inf:838b815b834e]
+<T><A3/1>So are you going to colour in the
+rest of the piece now?
+!******************************!
+[hdr:000a000000026a000000021a010000]
+[inf:835f837e83418393]
+<T><A3/2>Of course! It'll be exploding with
+colour when it's done! It's just
+going to take a little while.
+!******************************!
+[hdr:000a000000026a0000000285010000]
+[inf:835f837e83418393]
+<T><A3/5>I bet you can hardly wait, eh?<W>
+Maybe this puzzle about painting
+will help you pass the time.
+!******************************!
+[hdr:00e8030000026a00000002ee010000]
+[inf:835f837e83418393]
+<T>Was that puzzle too tough for you?
+Sorry about that!
+!******************************!
+[hdr:00d0070000026a0000000226020000]
+[inf:835f837e83418393]
+<T>Ready to paint in an answer for this
+puzzle?
+!******************************!
+[hdr:00b80b0000026a0000000256020000]
+[inf:835f837e83418393]
+<T><A2/1>You two certainly have a way with
+puzzles. I'm tickled pink.
+!******************************!
+[hdr:00b80b00000200000000029c020000]
+[inf:838c834383678393]
+<T><A1/2>Thank you, and good luck with the
+rest of your mural. I'm sure the
+finished work will be wonderful.
+!******************************!
+[hdr:00b80b0000026a0000000209030000]
+[inf:835f837e83418393]
+<T><A4/6>Yep, you can count on that! Heh heh!
+!******************************!
+[hdr:00a00f0000026a0000000237030000]
+[inf:835f837e83418393]
+<T>I can hardly stand the wait myself!
+!******************************!

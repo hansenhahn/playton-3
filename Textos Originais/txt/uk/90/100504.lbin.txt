@@ -1,0 +1,19 @@
+[hdr:000a0000000200000000020b000000]
+[inf:837d8343836c83628360]
+<T>Nicely done!<W>
+It must have been hard work!
+!******************************!
+[hdr:000a000000023b0000000242000000]
+[inf:834983458380]
+<T><A3/0>Awwwrk!
+!******************************!
+[hdr:000a00000002000000000253000000]
+[inf:837d8343836c83628360]
+<T><A2/1>Well then, would you like a slice?
+I made a pot of Earl Grey while I
+was waiting.<W> You do drink tea?
+!******************************!
+[hdr:000a000000023b00000002c3000000]
+[inf:834983458380]
+<T><A4/0>Earrrl Grey! Earrrl Grey!
+!******************************!

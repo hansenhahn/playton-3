@@ -1,0 +1,144 @@
+[hdr:000a00000002000000000207000000]
+[inf:837a838a8358]
+<T>Psst! Did you hear that?
+!******************************!
+[hdr:000a0000000223000000022c000000]
+[inf:838c834383678393]
+<T>I did. Those two are going to stand
+guard there for the next 10 hours.
+!******************************!
+[hdr:000a00000002000000000276000000]
+[inf:837a838a8358]
+<T><A2/4>I-I'm heading back. The guards know
+me. If I walk past on my own, they
+won't stop me.
+!******************************!
+[hdr:000a000000022300000002d5000000]
+[inf:838c834383678393]
+<T><A1/2>Wait just a moment. I think we might
+be able to get these chaps to turn a
+blind eye to us.
+!******************************!
+[hdr:000a00000002000000000239010000]
+[inf:837a838a8358]
+<T>But how?
+!******************************!
+[hdr:000a00000002230000000245010000]
+[inf:838c834383678393]
+<T>It's not my usual style of problem
+solving, but you know what they
+say about desperate times...
+!******************************!
+[hdr:00e8030000022300000002a8010000]
+[inf:838c834383678393]
+<T>Wait just a minute. I'm sure we
+can find a way past them.
+!******************************!
+[hdr:00d0070000022300000002e5010000]
+[inf:838c834383678393]
+<T>We need to take care of the guards
+before they spot us.
+!******************************!
+[hdr:00b80b000002000000000220020000]
+[inf:837a838a8358]
+<T>Crikey, I bet they didn't see that
+coming. They'll be out cold for a
+while.
+!******************************!
+[hdr:00b80b00000223000000026f020000]
+[inf:838c834383678393]
+<T>Yes. I'm not one to condone
+violence, but needs must, and at
+least now we can pass safely.
+!******************************!
+[hdr:00c20b0000022300000002cd020000]
+[inf:838c834383678393]
+<T><A4/1>I have something else to tell you
+before we move on.
+!******************************!
+[hdr:00c20b00000223000000020b030000]
+[inf:838c834383678393]
+<T>We came here to prevent Dimitri
+from completing his time machine.
+!******************************!
+[hdr:00c20b000002230000000250030000]
+[inf:838c834383678393]
+<T>We also wish to liberate all the
+scientists that Dimitri is holding
+captive.
+!******************************!
+[hdr:00c20b0000020000000002a0030000]
+[inf:837a838a8358]
+<T>I'm listening.
+!******************************!
+[hdr:00c20b0000022300000002b2030000]
+[inf:838c834383678393]
+<T>I'm hoping we can speak directly to
+the man and end this whole mess.
+!******************************!
+[hdr:00c20b0000022300000002fa030000]
+[inf:838c834383678393]
+<T>Do you know Dimitri's current
+whereabouts?
+!******************************!
+[hdr:00c20b000002000000000228040000]
+[inf:837a838a8358]
+<T><K>Hmm.<W></K> Well, if he's here, he'll
+probably be in the central research
+room. I'll show you the way.
+!******************************!
+[hdr:00c20b000002230000000295040000]
+[inf:838c834383678393]
+<T><A2/1>Wonderful. But before we go, will
+you allow me one more question?
+!******************************!
+[hdr:00c20b0000020000000002e0040000]
+[inf:837a838a8358]
+<T>Go on.
+!******************************!
+[hdr:00c20b0000022300000002ea040000]
+[inf:838c834383678393]
+<T><A1/1>These materials lying around down
+here...<W> They aren't for building a
+time machine, are they?
+!******************************!
+[hdr:00c20b000002000000000253050000]
+[inf:837a838a8358]
+<T><K>...<W></K>No, they aren't.
+!******************************!
+[hdr:00c20b000002230000000274050000]
+[inf:838c834383678393]
+<T>What exactly are you working on
+here?
+!******************************!
+[hdr:00c20b00000200000000029d050000]
+[inf:837a838a8358]
+<T><A2/4>My speciality is polydimensional
+physics, so I've been assigned to
+work on the time machine.
+!******************************!
+[hdr:00c20b000002000000000203060000]
+[inf:837a838a8358]
+<T>The materials lying around here
+belong to a separate research
+group within the facility.
+!******************************!
+[hdr:00c20b00000223000000025f060000]
+[inf:838c834383678393]
+<T>And this group also work under
+Dimitri's supervision?
+!******************************!
+[hdr:00c20b000002000000000298060000]
+[inf:837a838a8358]
+<T><A1/1>Who knows? That group tinker with
+some pretty dangerous stuff.
+!******************************!
+[hdr:00c20b0000020000000002e0060000]
+[inf:837a838a8358]
+<T>I don't think Dimitri's that
+interested in what they do, though.
+!******************************!
+[hdr:00a00f000002230000000224070000]
+[inf:838c834383678393]
+CELL NOT USED
+!******************************!

@@ -1,0 +1,76 @@
+[hdr:000a00000002000000000209000000]
+[inf:8341836a815b835e]
+<T>Welcome, gentlemen. Please, make
+yourselves at h-<W> Oh my... That hat
+of yours...
+!******************************!
+[hdr:000a000000025f0000000268000000]
+[inf:838c834383678393]
+<T><A3/2>Good day, madam. What a charming
+caf{'e} you have here.<W> Has it been
+open long?
+!******************************!
+[hdr:000a000000020000000002c3000000]
+[inf:8341836a815b835e]
+<T><A2/5>Well, I've only been running the
+place for two or three years
+myself.
+!******************************!
+[hdr:000a00000002000000000212010000]
+[inf:8341836a815b835e]
+<T>But the caf{'e} itself has been
+around much longer. Over 50
+years, some say.
+!******************************!
+[hdr:000a000000025f0000000262010000]
+[inf:838c834383678393]
+<T><A1/1>I see...
+!******************************!
+[hdr:000a000000025f0000000274010000]
+[inf:838c834383678393]
+<T>By the way, I saw you were closed
+when I passed by earlier. I suppose
+you only open in the evening?
+!******************************!
+[hdr:000a000000020000000002db010000]
+[inf:8341836a815b835e]
+<T>Closed? Oh no, not here.<W> I open
+this place up bright and early
+every day.
+!******************************!
+[hdr:000a0000000200000000022b020000]
+[inf:8341836a815b835e]
+<T>It doesn't really get busy until
+later on, mind, but that's the
+industry for you.
+!******************************!
+[hdr:000a00000002000000000280020000]
+[inf:8341836a815b835e]
+<T><A3/1>Oh, and since you seem like a nice
+enough chap, let me give you a
+little tip: lose the hat.
+!******************************!
+[hdr:000a000000025f00000002e5020000]
+[inf:838c834383678393]
+<T><A3/1>My hat? Why would I do that?
+!******************************!
+[hdr:000a0000000200000000020b030000]
+[inf:8341836a815b835e]
+<T><A2/5>I won't go into details, but let's
+just say a hat like that could get
+you in trouble around here.
+!******************************!
+[hdr:001400000002000000000276030000]
+[inf:8341836a815b835e]
+<T>If I were you, I'd seriously
+consider getting rid of that hat.
+!******************************!
+[hdr:0014000000025f00000002b8030000]
+[inf:838c834383678393]
+<T>What's wrong with my hat?
+!******************************!
+[hdr:0014000000020000000002d5030000]
+[inf:8341836a815b835e]
+<T><A2/5>Let's just say that it could get
+you into quite a bit of trouble.
+!******************************!

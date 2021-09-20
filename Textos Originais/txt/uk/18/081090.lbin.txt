@@ -1,0 +1,20 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Oh look! A hidden puzzle!
+!******************************!
+[hdr:00e803000002000000000226000000]
+[inf:838c834383678393]
+<T><A4/1>Hmm. Best take some time to ponder
+this one...
+!******************************!
+[hdr:00d00700000200000000025e000000]
+[inf:838c834383678393]
+<T>Ah yes, let's get back to this hidden
+puzzle.
+!******************************!
+[hdr:00b80b00000200000000028f000000]
+[inf:838c834383678393]
+<T><A1/2>Nothing like a bit of exercise for
+the brain to put a spring in your
+step.
+!******************************!

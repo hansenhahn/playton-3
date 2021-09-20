@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000211000000]
+[inf:834e838d815b8393837d837483428341]
+<T>W-WOAH!<W> Hey! Don't sneak up on me
+like that! You scared the livin'
+daylights outta me.
+!******************************!
+[hdr:000a0000000200000000026e000000]
+[inf:834e838d815b8393837d837483428341]
+<T>Can't a man loaf in peace no more?
+!******************************!

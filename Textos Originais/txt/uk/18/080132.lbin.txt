@@ -1,0 +1,47 @@
+[hdr:000a0000000200000000020f000000]
+[inf:836f815b8367839381699048816a]
+<T>Chomp chomp chomp...
+!******************************!
+[hdr:000a00000002270000000230000000]
+[inf:838c834383678393]
+<T><A1/2>Hello Barton. How is everything
+going?
+!******************************!
+[hdr:000a00000002000000000260000000]
+[inf:836f815b8367839381699048816a]
+<T>I was just taking a break to, um,
+reflect upon a case the inspector
+and I were on the other day.
+!******************************!
+[hdr:000a000000022700000002c4000000]
+[inf:838c834383678393]
+<T><A4/1>I see. What exactly happened on
+that case?
+!******************************!
+[hdr:000a000000020000000002f8000000]
+[inf:836f815b8367839381699048816a]
+<T>We had to chase a suspect across
+the river, but I can't remember how
+long it took... Chew.
+!******************************!
+[hdr:00e803000002000000000256010000]
+[inf:836f815b8367839381699048816a]
+<T>Hard to - chomp chomp - work it
+out, isn't it, Professor?<W> Gulp!
+!******************************!
+[hdr:00d00700000200000000029c010000]
+[inf:836f815b8367839381699048816a]
+<T>Now then, just how long did it take
+- om nom - to cross that river?
+!******************************!
+[hdr:00b80b0000020000000002e3010000]
+[inf:836f815b8367839381699048816a]
+<T>Ah yes, that's right. Thanks for
+helping me to remember. Now I can
+finally get back to<W>...snacking.
+!******************************!
+[hdr:00a00f00000200000000024c020000]
+[inf:836f815b8367839381699048816a]
+<T>Chew<W>.<W>.<W>.<W>gulp! This steamed pork bun
+is dreamy.
+!******************************!

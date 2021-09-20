@@ -1,0 +1,41 @@
+[hdr:000a0000000200000000020b000000]
+[inf:834d838783898362834e]
+<T><A1/4>Aw, what a rotten day.
+!******************************!
+[hdr:000a000000022b0000000232000000]
+[inf:838b815b834e]
+<T><A3/1>Why are you so down in the dumps?
+!******************************!
+[hdr:000a0000000200000000025d000000]
+[inf:834d838783898362834e]
+<T><K><A2/5>Mmm?<W></K> Oh hello there, little chappie.
+I was just thinking about my son,
+which made me all sad.
+!******************************!
+[hdr:000a000000020000000002ce000000]
+[inf:834d838783898362834e]
+<T>He loves swimming, you see, which
+got me thinking about this puzzle.
+!******************************!
+[hdr:00e803000002000000000216010000]
+[inf:834d838783898362834e]
+<T><A2/1>Aw, now don't you go getting down
+as well. You can always try that
+puzzle again later.
+!******************************!
+[hdr:00d007000002000000000276010000]
+[inf:834d838783898362834e]
+<T><A2/5>Thinking about my little boy back
+home reminded me of this puzzle.
+!******************************!
+[hdr:00b80b0000020000000002c2010000]
+[inf:834d838783898362834e]
+<T><A1/4>I wonder how big my son's got while
+I've been away. I do so wish I could
+see him.
+!******************************!
+[hdr:00a00f00000200000000021d020000]
+[inf:834d838783898362834e]
+<T><A1/4>Yeah, I do wish I could go back
+home. It'd be nice to see my family.
+!******************************!

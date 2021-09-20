@@ -1,0 +1,22 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Did you enjoy Professor Layton
+and the Lost Future?
+!******************************!
+[hdr:000a00000002000000000244000000]
+[inf:8369838c815b835683878393]
+<T>You've solved every puzzle in the
+story mode of this game.
+Congratulations! <Q><W30><J402></J>
+!******************************!
+[hdr:0014000000020000000002a6000000]
+[inf:8369838c815b835683878393]
+<T>For more fun, try Layton's
+Challenges or the Weekly Puzzles
+in the Bonuses section.
+!******************************!
+[hdr:0014000000020000000002fd000000]
+[inf:8369838c815b835683878393]
+<T>Enjoy the rest of the game!
+And once again, great work!
+!******************************!

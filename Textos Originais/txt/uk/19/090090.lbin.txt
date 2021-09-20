@@ -1,0 +1,12 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>With Chelmey's help, Layton gains
+access to documents that open a
+new lead for the investigation.
+!******************************!
+[hdr:001400000002000000000272000000]
+[inf:8369838c815b835683878393]
+<T>Armed with this new information,
+Layton and Luke decide to return
+to the future via the clock shop.
+!******************************!

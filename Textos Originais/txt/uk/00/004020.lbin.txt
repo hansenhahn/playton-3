@@ -1,0 +1,91 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<V0010><T>I have to say, I feel a bit out of
+place here, Professor.</V>
+!******************************!
+[hdr:000a000000024f0000000258000000]
+[inf:838c834383678393]
+<V0020><T>That's quite understandable, Luke.</V>
+!******************************!
+[hdr:000a000000024f0000000289000000]
+[inf:838c834383678393]
+<T><V0021>I'm sure most people would feel the
+same way in the presence of the
+prime minister.</V>
+!******************************!
+[hdr:000a000000020000000002eb000000]
+[inf:838b815b834e]
+<V0030><T><A1/6>Hey look! I think I see Inspector
+Chelmey over there!</V>
+!******************************!
+[hdr:000a000000024f0000000235010000]
+[inf:838c834383678393]
+<V0040><T><K><A4/5>Hmm...</V>
+!******************************!
+[hdr:000a00000002000000000253010000]
+[inf:838b815b834e]
+<V0050><T><A2/1>So, Professor, what do you think
+about this whole event?</V>
+!******************************!
+[hdr:000a000000020000000002a0010000]
+[inf:838b815b834e]
+<T><V0051>Do you think that someone has
+really built a working time machine?</V>
+!******************************!
+[hdr:000a000000024f00000002f1010000]
+[inf:838c834383678393]
+<V0060><T><A1/1>I'm not entirely sure.</V>
+!******************************!
+[hdr:000a000000024f000000021c020000]
+[inf:838c834383678393]
+<T><V0061>Still, if it proves to be true, can
+you imagine the stir it will cause in
+the scientific community?</V>
+!******************************!
+[hdr:000a0000000200000000028e020000]
+[inf:838b815b834e]
+<V0070><T><A4/2>Well, I think it's really exciting!<W>
+Though you don't sound entirely
+convinced, Professor.</V>
+!******************************!
+[hdr:000a000000024f00000002ff020000]
+[inf:838c834383678393]
+<V0080><T><A1/2>Anything's possible, Luke.<W> But I
+won't be convinced until I've seen
+the contraption work for myself.</V>
+!******************************!
+[hdr:000a000000024f000000027b030000]
+[inf:838c834383678393]
+<V0090><T><A3/1>And I must confess, something
+about this entire presentation
+seems a bit...off.</V>
+!******************************!
+[hdr:000a000000020000000002df030000]
+[inf:838b815b834e]
+<V0100><T><A1/1>Why do you say that?</V>
+!******************************!
+[hdr:000a00000002000000000208040000]
+[inf:838b815b834e]
+<T><V0101><A2/2>Ah, of course.<W><W> That must be your
+famous intuition talking, eh?</V>
+!******************************!
+[hdr:000a000000024f0000000261040000]
+[inf:838c834383678393]
+<V0110><T>That's one way of putting it.<W> <A1/2>But
+enough speculation. <W>Look over
+there, Luke.</V>
+!******************************!
+[hdr:000a000000020000000002c8040000]
+[inf:838b815b834e]
+<V0120><T><A4/1>That guard? What about him?</V>
+!******************************!
+[hdr:0014000000024f00000002f8040000]
+[inf:838c834383678393]
+<V0130><T><A2/2>He seems to be looking for a man
+who snuck into the event uninvited.</V>
+!******************************!
+[hdr:001400000002000000000251050000]
+[inf:838b815b834e]
+<V0140><T><A3/1>Ooh! So we have an intruder in our
+midst!</V>
+!******************************!

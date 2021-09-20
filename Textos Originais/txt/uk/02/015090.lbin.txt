@@ -1,0 +1,93 @@
+[hdr:000a00000002000000000209000000]
+[inf:83778343835b838b]
+<T><A2/5>What do you want from me?<W> Don't
+hurt me! Please, I'm b-<W30>b-<W30>begging you!
+!******************************!
+[hdr:000a0000000265000000026c000000]
+[inf:838b815b834e]
+<T>What? Why are you scared of me?
+!******************************!
+[hdr:000a0000000200000000028f000000]
+[inf:83778343835b838b]
+<T>You?<W> No, it's your friend there
+with the b-<W30>b-<W30>big hat!<W> <A4/5>Augh! He's
+looking right at me!
+!******************************!
+[hdr:000a00000002fe0000000207010000]
+[inf:838c834383678393]
+<T>Please calm down, sir. I mean you
+no harm. You must have me confused
+with someone else.
+!******************************!
+[hdr:000a00000002fe0000000262010000]
+[inf:838c834383678393]
+<T>The only thing I want to know is the
+location of the Gilded 7 Casino. It
+is around here, isn't it?
+!******************************!
+[hdr:000a000000020000000002c8010000]
+[inf:83778343835b838b]
+<T>The casino?
+!******************************!
+[hdr:000a000000020000000002d7010000]
+[inf:83778343835b838b]
+<T><A5/1>Oh, I get it!<W> You're testing me!<W>
+You want to see if Edgar's going to
+spill the b-<W30>b-<W30>beans!
+!******************************!
+[hdr:000a0000000200000000024a020000]
+[inf:83778343835b838b]
+<T>And if I do, you're going to send me
+on a one-way trip to nowhere!
+!******************************!
+[hdr:000a00000002650000000290020000]
+[inf:838b815b834e]
+<T>What are you talking about?
+!******************************!
+[hdr:000a000000020000000002af020000]
+[inf:83778343835b838b]
+<T>Augh!<W> <A6/0>Somebody help meee!
+!******************************!
+[hdr:0014000000026500000002d5020000]
+[inf:838b815b834e]
+<T>There he goes again...
+!******************************!
+[hdr:001400000002fe00000002ef020000]
+[inf:838c834383678393]
+<T>Poor fellow.<W> It sounds as though
+he's had a run-in with someone who
+looks like me.
+!******************************!
+[hdr:001400000002650000000248030000]
+[inf:838b815b834e]
+<T>He's not the first person to react
+strangely to your hat.
+!******************************!
+[hdr:001400000002fe0000000285030000]
+[inf:838c834383678393]
+<T>Hmm. Yes, it seems my doppelg{:a}nger
+has quite a fearsome reputation.
+!******************************!
+[hdr:0014000000026500000002cf030000]
+[inf:838b815b834e]
+<T>Well... Maybe you should take your
+hat off for the time being. Just to
+avoid confusion, you know.
+!******************************!
+[hdr:001400000002fe0000000234040000]
+[inf:838c834383678393]
+<T><A3/2>Nonsense, Luke. A gentleman can't
+very well walk around with a bare
+head now, can he?
+!******************************!
+[hdr:001400000002650000000293040000]
+[inf:838b815b834e]
+<T>Er... I suppose not.<W> Well, what's
+our next move?
+!******************************!
+[hdr:001400000002fe00000002ca040000]
+[inf:838c834383678393]
+<T><A2/2>That girl from the hotel, Becky,
+has been quite helpful. Let's try
+asking her for directions.
+!******************************!

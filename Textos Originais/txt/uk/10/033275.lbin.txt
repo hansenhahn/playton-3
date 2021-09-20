@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000207000000]
+[inf:8341838d837d]
+<T>Where are you going? I thought we
+were trying to find that coded
+lock?
+!******************************!

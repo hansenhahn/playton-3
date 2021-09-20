@@ -1,0 +1,273 @@
+[hdr:000a0000000200000000020b000000]
+[inf:96a29788838b815b834e]
+<T>Sorry to keep you waiting, Shipley.
+!******************************!
+[hdr:000a00000002320000000239000000]
+[inf:837583628360]
+<T>Not at all. I just got here a minute
+ago myself.
+!******************************!
+[hdr:000a0000000200000000026d000000]
+[inf:96a29788838b815b834e]
+<T>You've all met before, but I don't
+think you were properly introduced.
+!******************************!
+[hdr:000a000000020000000002b7000000]
+[inf:96a29788838b815b834e]
+<T>This is my good friend, Shipley.
+!******************************!
+[hdr:000a000000020000000002db000000]
+[inf:96a29788838b815b834e]
+<T>He has played a vital role in bringing
+you and Little Luke here to our
+time.
+!******************************!
+[hdr:000a000000022b0100000234010000]
+[inf:838c834383678393]
+<T><A1/2>Pleased to meet you, Shipley.
+!******************************!
+[hdr:000a0000000232000000025b010000]
+[inf:837583628360]
+<T>Likewise, Professor. Sorry I had
+to be so brief with ya when we last
+met.
+!******************************!
+[hdr:000a000000023200000002a8010000]
+[inf:837583628360]
+<T>Luke here told me I shouldn't share
+any details until he had the chance
+to speak to ya himself.
+!******************************!
+[hdr:000a000000022b010000020b020000]
+[inf:838c834383678393]
+<T>Don't give it another thought.
+Luke needed to test us before
+sharing the details of his plan.
+!******************************!
+[hdr:000a0000000200000000026c020000]
+[inf:96a29788838b815b834e]
+<T>Shipley, did you manage to do some
+reconnaissance work in Chinatown
+as I asked?
+!******************************!
+[hdr:000a000000023200000002bf020000]
+[inf:837583628360]
+<T>Certainly did, Luke. That filthy
+scumbag Layton-
+!******************************!
+[hdr:000a000000023200000002f3020000]
+[inf:837583628360]
+<T>Er, apologies, Professor. I'm
+talking about the evil Layton, of
+course.
+!******************************!
+[hdr:000a0000000200000000023e030000]
+[inf:96a29788838b815b834e]
+<T>The professor is aware of the
+situation. Do continue.
+!******************************!
+[hdr:000a00000002320000000277030000]
+[inf:837583628360]
+<T>Right. Ya know the Towering Pagoda
+in Chinatown?
+!******************************!
+[hdr:000a000000023200000002ab030000]
+[inf:837583628360]
+<T>Evil Layton is holding them captured
+scientists there, apparently.
+!******************************!
+[hdr:000a000000023200000002f1030000]
+[inf:837583628360]
+<T>He's got them working like slaves
+on something or other.
+!******************************!
+[hdr:000a0000000200000000022d040000]
+[inf:96a29788838b815b834e]
+<T><A1/4>So the scientists are in the
+Towering Pagoda...<W> That's going
+to make things very difficult.
+!******************************!
+[hdr:000a00000002320000000295040000]
+[inf:837583628360]
+<T>I heard another peculiar rumour
+while I was about town.
+!******************************!
+[hdr:000a000000020000000002d0040000]
+[inf:96a29788838b815b834e]
+<T><A1/1>Yes?
+!******************************!
+[hdr:000a000000023200000002de040000]
+[inf:837583628360]
+<T>Word has it that the prime minister
+who disappeared 10 years ago is
+being held up there too.
+!******************************!
+[hdr:000a0000000200000000023e050000]
+[inf:96a29788838b815b834e]
+<T><A1/5>What?!
+!******************************!
+[hdr:000a000000022b010000024e050000]
+[inf:838c834383678393]
+<T><A4/5>Bill Hawks...
+!******************************!
+[hdr:0014000000022b0100000265050000]
+[inf:838c834383678393]
+<T><A4/1>He's been missing ever since the
+day of the accident.
+!******************************!
+[hdr:0014000000020000000002a4050000]
+[inf:96a29788838b815b834e]
+<T><A3/5>It's been 10 years now...
+!******************************!
+[hdr:0014000000020000000002c7050000]
+[inf:96a29788838b815b834e]
+<T>Do you suppose evil Layton might
+have abducted the prime minister
+as well as all those scientists?
+!******************************!
+[hdr:0014000000022b010000022d060000]
+[inf:838c834383678393]
+<T>We won't know until we check the
+facts for ourselves.
+!******************************!
+[hdr:0014000000022b0100000266060000]
+[inf:838c834383678393]
+<T><A1/1>Big Luke, you seemed apprehensive
+at the mention of the Towering
+Pagoda.<W> What is this place?
+!******************************!
+[hdr:0014000000020000000002cf060000]
+[inf:96a29788838b815b834e]
+<T>The Towering Pagoda is the Family
+stronghold, situated among a sea
+of warehouses in Chinatown.
+!******************************!
+[hdr:001400000002000000000231070000]
+[inf:96a29788838b815b834e]
+<T>To complicate matters, all of
+Chinatown is under Family control.
+!******************************!
+[hdr:001400000002000000000275070000]
+[inf:96a29788838b815b834e]
+<T>Which means it'll be difficult just
+to get within walking distance.
+!******************************!
+[hdr:0014000000022b01000002bc070000]
+[inf:838c834383678393]
+<T>Be that as it may, we need to
+uncover the truth.
+!******************************!
+[hdr:0014000000022b01000002f0070000]
+[inf:838c834383678393]
+<T>Can you guide us safely to the
+pagoda?
+!******************************!
+[hdr:00140000000200000000021a080000]
+[inf:96a29788838b815b834e]
+<T><A1/1>Hmm... Infiltrating a place like
+that is going to require a bit of
+preparation.
+!******************************!
+[hdr:001400000002000000000273080000]
+[inf:96a29788838b815b834e]
+<T>Why don't we split up for a bit and
+I'll see if I can secure us a safe
+route there?
+!******************************!
+[hdr:0014000000020000000002ca080000]
+[inf:96a29788838b815b834e]
+<T>You go on and head for Chinatown
+without me. Shipley will tell you how
+to get that far. All right?
+!******************************!
+[hdr:0014000000022b0100000230090000]
+[inf:838c834383678393]
+<T>Very well.
+!******************************!
+[hdr:00140000000200000000023e090000]
+[inf:96a29788838b815b834e]
+<T>Good. Now I need to get moving. Be
+careful out there.
+!******************************!
+[hdr:001e0000000277090000027e090000]
+[inf:838b815b834e]
+<T>Crikey, he didn't half leave in a
+hurry.
+!******************************!
+[hdr:0020000000022b01000002aa090000]
+[inf:838c834383678393]
+<T>We need to get to Chinatown,
+Shipley. What's the best way
+to get there?
+!******************************!
+[hdr:0020000000023200000002f5090000]
+[inf:837583628360]
+<T>Let's see... Yer best bet is to
+head back up Flatstone Street.
+!******************************!
+[hdr:0020000000023200000002370a0000]
+[inf:837583628360]
+<T>As ya head north towards the
+casino, there's a small set of
+stairs on the right.
+!******************************!
+[hdr:00200000000232000000028b0a0000]
+[inf:837583628360]
+<T>Do ya know the ones I mean?
+!******************************!
+[hdr:0020000000022b01000002aa0a0000]
+[inf:838c834383678393]
+<T>Ah, yes. Now that you mention it, I
+do recall passing by an area that
+fits that description.
+!******************************!
+[hdr:00200000000232000000020a0b0000]
+[inf:837583628360]
+<T>Good. Head up them stairs and
+follow the narrow alley at the top
+until ya hit a path above the river.
+!******************************!
+[hdr:0020000000023200000002730b0000]
+[inf:837583628360]
+<T>From there, just follow that path
+and it'll take ya straight into
+Chinatown.
+!******************************!
+[hdr:0022000000027709000002c30b0000]
+[inf:838b815b834e]
+<T>You're not coming with us, Shipley?
+!******************************!
+[hdr:0024000000023200000002ea0b0000]
+[inf:837583628360]
+<T>I wish I could, but I've got to stay
+here and wait for word from yer
+older self.
+!******************************!
+[hdr:0024000000022b010000023e0c0000]
+[inf:838c834383678393]
+<T>Very well. Thank you for your
+assistance, Shipley.<W> Come, Luke.
+We mustn't tarry here.
+!******************************!
+[hdr:00240000000232000000029a0c0000]
+[inf:837583628360]
+<T>Be careful out there! If ya run
+into any trouble, ya can always
+find me here.
+!******************************!
+[hdr:0028000000023200000002eb0c0000]
+[inf:837583628360]
+<T>To get to Chinatown, head north up
+Flatstone Street.
+!******************************!
+[hdr:0028000000023200000002230d0000]
+[inf:837583628360]
+<T>Then climb the stairs on the right
+and go down the alley at the top.
+!******************************!
+[hdr:00280000000232000000026b0d0000]
+[inf:837583628360]
+<T>After a while, ye'll come to a path
+above the river. Follow that path
+to get to Chinatown.
+!******************************!

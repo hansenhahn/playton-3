@@ -1,0 +1,57 @@
+[hdr:000a00000002000000000211000000]
+[inf:83608346838b837e815b81699048816a]
+<T>Hrm.<W> Well, the food certainly isn't
+anything to write home about.
+!******************************!
+[hdr:000a00000002590000000268000000]
+[inf:836f815b8367839381699048816a]
+<T>Sorry you feel that way, sir.
+I think it's quite - chomp chomp -
+scrumptious, myself.
+!******************************!
+[hdr:000a000000020000000002c1000000]
+[inf:83608346838b837e815b81699048816a]
+<T><A1/2>Bah. This over-salted chop and pile
+of wilted greens have nothing on
+Amelie's cooking.
+!******************************!
+[hdr:000a00000002590000000221010000]
+[inf:836f815b8367839381699048816a]
+<T>If that's how you feel, sir, I'd be
+happy to relieve you of that, um,
+burden.
+!******************************!
+[hdr:000a00000002000000000272010000]
+[inf:83608346838b837e815b81699048816a]
+<T><A1/3>Now see here, Barton! If you don't
+return my chop at once, I'll have
+you driving a desk next week!
+!******************************!
+[hdr:000a000000025900000002de010000]
+[inf:836f815b8367839381699048816a]
+<T>It would be worth it! Mmm... 
+This crackling is, um, cracking!
+!******************************!
+[hdr:001400000002000000000220020000]
+[inf:83608346838b837e815b81699048816a]
+<T>Hrm! They don't seem to be in any
+hurry to get this show started.
+!******************************!
+[hdr:001400000002590000000265020000]
+[inf:836f815b8367839381699048816a]
+<T>Come on, sir, it's not all bad.
+At least there's - shlurp - food
+to enjoy while we wait.
+!******************************!
+[hdr:0014000000020000000002c1020000]
+[inf:83608346838b837e815b81699048816a]
+<T><A1/2>Honestly, I'm knee-deep in case
+work. I haven't got the time
+for fancy banquets.
+!******************************!
+[hdr:00140000000259000000021b030000]
+[inf:836f815b8367839381699048816a]
+<T>Chomp! Oh my, sir, you should try
+this. It's - chomp chomp -
+absolutely lovely.
+!******************************!

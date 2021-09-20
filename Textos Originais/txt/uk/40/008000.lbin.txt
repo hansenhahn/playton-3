@@ -1,0 +1,162 @@
+[hdr:000a00000002000000000201000000]
+[inf:]
+Your Nintendo Wi-Fi Connection
+User Information may have been
+erased. Check your connection
+settings with the Nintendo Wi-Fi
+Connection setup.
+!******************************!
+[hdr:000b00000002900000000291000000]
+[inf:]
+Connect to Nintendo Wi-Fi
+Connection?
+!******************************!
+[hdr:000c00000002b700000002b8000000]
+[inf:]
+Connecting to Nintendo
+Wi-Fi Connection...
+Please wait a moment...
+!******************************!
+[hdr:000d00000002fb00000002fc000000]
+[inf:]
+Disconnecting from Nintendo Wi-Fi
+Connection.
+!******************************!
+[hdr:000e000000022a010000022b010000]
+[inf:]
+You have been disconnected from 
+Nintendo Wi-Fi Connection.
+!******************************!
+[hdr:001400000002670100000268010000]
+[inf:]
+Unable to connect to Nintendo Wi-Fi
+Connection. For help, check the
+software Instruction Booklet, or
+visit support.nintendo.com.
+!******************************!
+[hdr:001500000002e901000002ea010000]
+[inf:]
+Either Nintendo Wi-Fi Connection
+is experiencing high traffic volumes
+or the service is down.
+Please try again later. For help,
+visit support.nintendo.com.
+!******************************!
+[hdr:001600000002860200000287020000]
+[inf:]
+This Nintendo Wi-Fi Connection ID
+was removed because it was inactive
+for a long time. For help, visit
+support.nintendo.com.
+!******************************!
+[hdr:001700000002040300000205030000]
+[inf:]
+Nintendo Wi-Fi Connection service
+for this software has been
+discontinued. Visit
+support.nintendo.com for a list of
+current Nintendo Wi-Fi
+Connection-compatible software.
+!******************************!
+[hdr:001800000002b003000002b1030000]
+[inf:]
+The access point is busy. Unable to
+connect. Please try again later.
+For help, visit
+support.nintendo.com.
+!******************************!
+[hdr:0019000000021c040000021d040000]
+[inf:]
+No access point in range.
+Please try again when closer
+to an access point. For help,
+visit support.nintendo.com.
+!******************************!
+[hdr:001a000000028e040000028f040000]
+[inf:]
+No compatible access point in
+range. Check your connection
+settings and try again. For help,
+visit support.nintendo.com.
+!******************************!
+[hdr:001b00000002080500000209050000]
+[inf:]
+Unable to connect to the Nintendo
+Wi-Fi Connector. Confirm
+connection settings in the Nintendo
+Wi-Fi Connection setup. For help,
+visit support.nintendo.com.
+!******************************!
+[hdr:001c00000002a605000002a7050000]
+[inf:]
+Unable to connect to Nintendo Wi-Fi
+Connection. Check your connection
+settings and try again. For help,
+visit support.nintendo.com.
+!******************************!
+[hdr:001d000000022b060000022c060000]
+[inf:]
+You have been disconnected from 
+Nintendo Wi-Fi Connection because
+of a communication error.
+!******************************!
+[hdr:001e0000000289060000028a060000]
+[inf:]
+Communication error. For help,
+visit support.nintendo.com.
+!******************************!
+[hdr:001f00000002c506000002c6060000]
+[inf:]
+Download failed. For help, visit
+support.nintendo.com.
+!******************************!
+[hdr:002000000002fd06000002fe060000]
+[inf:]
+Nintendo Wi-Fi Connection cannot be
+used because an error has
+occurred. Turn off the power and
+try again.
+!******************************!
+[hdr:002800000002680700000269070000]
+[inf:]
+Error Code: %d
+!******************************!
+[hdr:006400000002780700000279070000]
+[inf:]
+Downloading...
+Please wait a moment.
+!******************************!
+[hdr:0065000000029e070000029f070000]
+[inf:]
+Download complete.
+
+Your Weekly Puzzle list has
+been updated.
+!******************************!
+[hdr:006600000002dd07000002de070000]
+[inf:]
+Download complete.
+
+Your Weekly Puzzle list
+is already up to date.
+!******************************!
+[hdr:006700000002210800000222080000]
+[inf:]
+Download complete.
+
+Number of new puzzles
+downloaded: %d
+!******************************!
+[hdr:0068000000025b080000025c080000]
+[inf:]
+Saving downloaded data.
+
+Do not turn off your DS system.
+!******************************!
+[hdr:006900000002950800000296080000]
+[inf:]
+The Weekly Puzzle download
+service has not started yet.
+
+Please check back later.
+!******************************!

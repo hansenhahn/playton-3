@@ -1,0 +1,57 @@
+[hdr:000a0000000200000000020d000000]
+[inf:836883938145837c815b838b]
+<T><J54><A6/2>About time!<W> I'm glad to see you had
+enough brains to solve your way
+through my puzzle.<Q><K></J>
+!******************************!
+[hdr:0014000000027f0000000286000000]
+[inf:838b815b834e]
+<T>Oh, hi there, Don Paolo.
+!******************************!
+[hdr:001e000000020000000002a2000000]
+[inf:836883938145837c815b838b]
+<T><A2/3>{''}Hi there, Don Paolo{''}?!
+!******************************!
+[hdr:001e000000020000000002c9000000]
+[inf:836883938145837c815b838b]
+<T>I'm lurking in the shadows here, boy!
+At least pretend to be startled, will
+you?
+!******************************!
+[hdr:0028000000021d0100000226010000]
+[inf:838c834383678393]
+<T>How did you manage to get across
+the Thames ahead of us, Paul?
+!******************************!
+[hdr:002800000002000000000268010000]
+[inf:836883938145837c815b838b]
+<T><A7/0>Nyeh heh heh.<A6/2> Let me tell you a little
+something about being a true
+gentleman, Layton.
+!******************************!
+[hdr:0028000000020000000002ce010000]
+[inf:836883938145837c815b838b]
+<T>True gentlemen keep their secrets.<W>
+So don't think I'll be sharing them
+with you!
+!******************************!
+[hdr:0028000000027f0000000225020000]
+[inf:838b815b834e]
+<T>You probably just used that ropey
+flying machine of yours to-
+!******************************!
+[hdr:002800000002000000000266020000]
+[inf:836883938145837c815b838b]
+<T><A1/1>It's not {''}ropey{''}, and I thought I'd
+made myself clear: the matter is not
+open for discussion.
+!******************************!
+[hdr:0028000000020000000002d3020000]
+[inf:836883938145837c815b838b]
+<T>Tsk. Nosy brat.
+!******************************!
+[hdr:0028000000021d01000002e6020000]
+[inf:838c834383678393]
+<T>Very well, Paul.<W> Now then, everyone,
+let's push on.
+!******************************!

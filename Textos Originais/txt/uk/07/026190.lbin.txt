@@ -1,0 +1,69 @@
+[hdr:000a00000002000000000207000000]
+[inf:837c838b8365]
+<T>Welcome to Pepper's Noodle Palace!
+!******************************!
+[hdr:000a0000000200000000022d000000]
+[inf:837c838b8365]
+<T>What will it be, gents?
+!******************************!
+[hdr:000a00000002480000000251000000]
+[inf:838c834383678393]
+<T>We're not here to eat, I'm afraid.
+!******************************!
+[hdr:000a00000002480000000277000000]
+[inf:838c834383678393]
+<T>We just want to ask you a few
+questions about the fellow who
+runs the Towering Pagoda.
+!******************************!
+[hdr:000a000000020000000002d1000000]
+[inf:837c838b8365]
+<T><A1/3>You mean I really can't interest
+you in a bite to eat? Well...<W> All
+right. Now, what were you saying?
+!******************************!
+[hdr:000a00000002480000000242010000]
+[inf:838c834383678393]
+<T>We'd like to meet the man who runs
+the Towering Pagoda, but he seems
+to be out at the moment.
+!******************************!
+[hdr:000a000000024800000002a3010000]
+[inf:838c834383678393]
+<T>Has he come by your restaurant, by
+any chance?
+!******************************!
+[hdr:000a000000020000000002d5010000]
+[inf:837c838b8365]
+<T><A1/4>I don't think so. I mean, I don't
+even know what he looks like.
+!******************************!
+[hdr:000a0000000200000000021e020000]
+[inf:837c838b8365]
+<T>But his lackeys come by here to
+slack off on a daily basis. Terrible
+table manners they've got, too.
+!******************************!
+[hdr:000a00000002000000000286020000]
+[inf:837c838b8365]
+<T><A3/1>Come to think of it, that probably
+means the man you're looking for
+never comes in here.
+!******************************!
+[hdr:000a000000020000000002e8020000]
+[inf:837c838b8365]
+<T>I mean, would you go skiving off in
+a place where the boss could burst
+in at any moment?
+!******************************!
+[hdr:000a00000002480000000244030000]
+[inf:838c834383678393]
+<T><A1/2>You make a good point. That's very
+astute of you.
+!******************************!
+[hdr:000a0000000200000000027f030000]
+[inf:837c838b8365]
+<T><A2/1>Flattery's nice, but if you really
+want to say thanks, order some
+food next time you come in, okay?
+!******************************!

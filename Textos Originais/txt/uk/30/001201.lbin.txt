@@ -1,0 +1,28 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+Good public transport
+is useful for any
+investigation.
+!******************************!
+[hdr:001400000002400000000247000000]
+[inf:838b815b834e]
+There's nothing out
+of the ordinary up
+there.
+!******************************!
+[hdr:001e0000000275000000027c000000]
+[inf:8341838d837d]
+It's a brief history of
+Flatstone Street...
+And it's very dull.
+!******************************!
+[hdr:002800000002bc00000002c5000000]
+[inf:834e838983458358]
+I'd have a lot of fun
+running around here
+if I were a child.
+!******************************!
+[hdr:000f27000002020100000209010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

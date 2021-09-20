@@ -1,0 +1,47 @@
+[hdr:000a0000000200000000020d000000]
+[inf:83718351837d83748389815b]
+<T><A3/0>Keh heh heh!<W> <A2/1>All right, what mischief
+have you two got yourselves into
+now, then?
+!******************************!
+[hdr:000a00000002710000000278000000]
+[inf:838b815b834e]
+<T>Excuse me? I don't know what
+you're talking about.
+!******************************!
+[hdr:000a000000020000000002ae000000]
+[inf:83718351837d83748389815b]
+<T><A2/3>No point playing innocent, boy!
+Old Stachenscarfen knows more
+than you think!
+!******************************!
+[hdr:000a00000002000000000205010000]
+[inf:83718351837d83748389815b]
+<T><A3/0>Keh heh heh!<W><A1/1> They might be hidden,
+but I DO have eyes, you know.
+!******************************!
+[hdr:000a00000002000000000258010000]
+[inf:83718351837d83748389815b]
+<T>And these eyes can see that the
+law's right on your tail!
+!******************************!
+[hdr:000a00000002710000000295010000]
+[inf:838b815b834e]
+<T>I don't think I understand...
+!******************************!
+[hdr:000a000000020000000002b6010000]
+[inf:83718351837d83748389815b]
+<T><A2/1>Say no more, boy. Just know that
+I'm always on your side.<W> If you call
+me, I'll come running!
+!******************************!
+[hdr:000a0000000271000000021f020000]
+[inf:838b815b834e]
+<T>Oh... Well, thanks, I suppose.
+!******************************!
+[hdr:000a0000000241020000024a020000]
+[inf:838c834383678393]
+<T>We ought to be off now, Luke. I have
+the feeling that things are about to
+get interesting.
+!******************************!

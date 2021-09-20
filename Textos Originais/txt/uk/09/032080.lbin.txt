@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>It would be foolish and dangerous
+to return to the pagoda when it's
+under such heavy guard.
+!******************************!

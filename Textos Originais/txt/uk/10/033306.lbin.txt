@@ -1,0 +1,26 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Hello sir.
+!******************************!
+[hdr:000a0000000215000000021e000000]
+[inf:835a834b815b838b]
+<T>Oh, it's you, lad. I heard ya had a
+run-in with the head of the Family.
+!******************************!
+[hdr:000a00000002000000000269000000]
+[inf:838b815b834e]
+<T>That we did! And he turned out to
+be nothing more than a fake!
+!******************************!
+[hdr:000a000000021500000002ab000000]
+[inf:835a834b815b838b]
+<T>Heh. Well, that's the Family for
+ya. A bunch of frauds playin'
+the parts they're given.
+!******************************!
+[hdr:000a00000002150000000206010000]
+[inf:835a834b815b838b]
+<T>All the same, they're dangerous.
+And now they'll be lookin' for ya.
+Watch yerself out there, okay?
+!******************************!

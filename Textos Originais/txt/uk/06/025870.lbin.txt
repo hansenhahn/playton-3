@@ -1,0 +1,39 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>I can't seem to open the door to
+the observatory.
+!******************************!
+[hdr:000a000000023c0000000245000000]
+[inf:838c834383678393]
+<T>Really?<W> Hmm. It looks as though
+the door is locked with a puzzle.
+!******************************!
+[hdr:000a0000000200000000028d000000]
+[inf:838b815b834e]
+<T>Oh yes, you're right.
+!******************************!
+[hdr:000a000000023c00000002a6000000]
+[inf:838c834383678393]
+<T>Worry not, Luke. I'll solve this
+puzzle and have us through the
+door before you know it.
+!******************************!
+[hdr:00e8030000023c0000000202010000]
+[inf:838c834383678393]
+<T>Hmm. I need to take a step back and
+give this puzzle some more thought.
+!******************************!
+[hdr:00d0070000023c000000024d010000]
+[inf:838c834383678393]
+<T>The door should open once we solve
+this puzzle.
+!******************************!
+[hdr:00b80b0000023c0000000280010000]
+[inf:838c834383678393]
+<T>There we are, Luke. The lock is
+disabled.
+!******************************!
+[hdr:00b80b0000020000000002ad010000]
+[inf:838b815b834e]
+<T>And the door is open!
+!******************************!

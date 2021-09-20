@@ -1,0 +1,45 @@
+[hdr:00e803000002000000000201000000]
+[inf:]
+Overwrite the file
+{''}%s{''}?
+!******************************!
+[hdr:00d007000002200000000221000000]
+[inf:]
+There are currently no puzzles
+for you to solve here.
+!******************************!
+[hdr:00da07000002570000000258000000]
+[inf:]
+Solve puzzle %03d,
+{''}%s{''}?
+!******************************!
+[hdr:00b80b000002770000000278000000]
+[inf:]
+Puzzle %03d: %s
+!******************************!
+[hdr:001c0c000002880000000289000000]
+[inf:]
+You solved the puzzle
+{''}%s{''}!
+!******************************!
+[hdr:00260c000002ab00000002ac000000]
+[inf:]
+You solved that puzzle without
+looking at a single hint! Great job! 
+!******************************!
+[hdr:00300c000002f100000002f2000000]
+[inf:]
+You viewed %d hint while
+solving this puzzle.
+!******************************!
+[hdr:00310c000002200100000221010000]
+[inf:]
+You viewed %d hints while solving
+this puzzle.
+!******************************!
+[hdr:00a00f000002500100000251010000]
+[inf:]
+Incorrect password. You
+may have made a mistake in
+entering the password.
+!******************************!

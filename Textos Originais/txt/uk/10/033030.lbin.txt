@@ -1,0 +1,102 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>I don't want to waste too much
+time in getting back to the hotel,
+so let's take the train.
+!******************************!
+[hdr:000a0000000267000000026e000000]
+[inf:838b815b834e]
+<T>Sounds good to me.
+!******************************!
+[hdr:001400000002840000000291000000]
+[inf:836883938145837c815b838b]
+<T><A6/2>Fine. Then this is where we part
+ways. I've got other things to do.
+!******************************!
+[hdr:0019000000026700000002de000000]
+[inf:838b815b834e]
+<T><A1/5>You sure you're not running off
+to formulate some kind of evil plan?
+!******************************!
+[hdr:00190000000284000000022c010000]
+[inf:836883938145837c815b838b]
+<T>Now why would you ever accuse me
+of that?! Truly, I'm wounded.
+!******************************!
+[hdr:00190000000284000000026e010000]
+[inf:836883938145837c815b838b]
+<T><A7/0>I'm just going to work on a pet
+project of mine that I've been
+meaning to finish.
+!******************************!
+[hdr:001e000000020000000002c9010000]
+[inf:838c834383678393]
+<T>Very well, Paul. Meet up with us
+later when you're ready.<W> <A3/1>You can
+find us-
+!******************************!
+[hdr:001e00000002840000000220020000]
+[inf:836883938145837c815b838b]
+<T><A4/1>Yeah, yeah, Layton. I'm no fool.<W>
+I'll know where to find you.
+!******************************!
+[hdr:00280000000267000000026a020000]
+[inf:838b815b834e]
+<T>And now he's gone.<W> Are you sure
+it's wise to leave him to his own
+devices?
+!******************************!
+[hdr:0028000000020000000002bb020000]
+[inf:838c834383678393]
+<T><A1/2>I understand your concern, Luke,
+but I think we can trust him now.
+!******************************!
+[hdr:002800000002670000000207030000]
+[inf:838b815b834e]
+<T>I suppose so, Professor.
+!******************************!
+[hdr:002800000002670000000223030000]
+[inf:838b815b834e]
+<T>He must have cared an awful lot
+for Claire if losing her to you
+turned him into {''}Don Paolo{''}.
+!******************************!
+[hdr:002800000002000000000289030000]
+[inf:838c834383678393]
+<T>He certainly was quite besotted.<W>
+But enough about that now. We
+have work to do.
+!******************************!
+[hdr:0028000000020000000002df030000]
+[inf:838c834383678393]
+<T>Let's get moving.
+!******************************!
+[hdr:0028000000026700000002f4030000]
+[inf:838b815b834e]
+<T><A4/1>All right, but I'm still none the wiser
+as to our next step, <A4/4>especially now
+we know Future Layton is a fake.
+!******************************!
+[hdr:002800000002000000000270040000]
+[inf:838c834383678393]
+<T>Well, in light of these new
+developments, our first priority
+is to rescue the prime minister.
+!******************************!
+[hdr:0028000000020000000002d1040000]
+[inf:838c834383678393]
+<T>Dimitri fled the Towering Pagoda
+with Mr Hawks, so he must have
+another hideout in the area.
+!******************************!
+[hdr:002800000002670000000231050000]
+[inf:838b815b834e]
+<T><A4/1>And we're going to find it!<W> Oh, but
+first we need to go to the hotel.
+!******************************!
+[hdr:002800000002000000000283050000]
+[inf:838c834383678393]
+<T><A2/2>That's right. We need to meet
+Flora and Big Luke at the hotel.
+Hopefully they got back safely.
+!******************************!

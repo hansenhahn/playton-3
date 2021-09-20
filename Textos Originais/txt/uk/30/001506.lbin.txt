@@ -1,0 +1,34 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+This is horrible,
+Professor! It's pitch
+black down there!
+!******************************!
+[hdr:00140000000241000000024a000000]
+[inf:838c834383678393]
+This decor is just the
+sort of thing
+gangsters go for.
+!******************************!
+[hdr:001e00000002410000000281000000]
+[inf:838c834383678393]
+I wonder how it works.
+Dangerous, but very
+intriguing...
+!******************************!
+[hdr:002800000002ba00000002c1000000]
+[inf:8341838d837d]
+I wish there were some
+railings on this
+bridge...
+!******************************!
+[hdr:003200000002f300000002fc000000]
+[inf:834e838983458358]
+Careful, Little Luke!
+If you get hurt, I'll be
+in trouble too!
+!******************************!
+[hdr:000f270000023b0100000242010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

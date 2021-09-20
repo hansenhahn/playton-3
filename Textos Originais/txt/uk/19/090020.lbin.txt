@@ -1,0 +1,18 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Layton and Luke remain mystified
+by the locals' terrified reactions
+to the professor's top hat.
+!******************************!
+[hdr:000a00000002000000000270000000]
+[inf:8369838c815b835683878393]
+<T>While working their way through
+town, the pair receive a second
+letter from Luke's future self.
+!******************************!
+[hdr:0014000000020000000002d3000000]
+[inf:8369838c815b835683878393]
+<T>Following the instructions in the
+letter, our heroes head to Green
+Hospital, on Auckland Lane.
+!******************************!

@@ -1,0 +1,34 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+These books look a
+little difficult for
+me...
+!******************************!
+[hdr:00140000000235000000023e000000]
+[inf:838c834383678393]
+Oh! I thought this was
+out of print! And this!
+Another classic!
+!******************************!
+[hdr:001e0000000200000000027e000000]
+[inf:838b815b834e]
+There are too many
+books and not enough
+shelves!
+!******************************!
+[hdr:002800000002af00000002b6000000]
+[inf:8341838d837d]
+Erm... Where's the
+murder mystery
+section?
+!******************************!
+[hdr:003200000002e100000002ea000000]
+[inf:834e838983458358]
+I think I could handle
+the kind of books the
+professor reads now.
+!******************************!
+[hdr:000f270000022c0100000233010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

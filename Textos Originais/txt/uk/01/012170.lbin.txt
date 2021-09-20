@@ -1,0 +1,22 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Hey, look! There's a guard. He
+looks just like those Family
+gangsters we saw before!
+!******************************!
+[hdr:000a000000025f0000000268000000]
+[inf:838c834383678393]
+<T>Indeed, it's remarkable just how 
+anonymous they seem to be.
+!******************************!
+[hdr:0014000000020000000002a8000000]
+[inf:838b815b834e]
+<T>Say, Professor, isn't that the
+sign for the train station?
+!******************************!
+[hdr:0014000000025f00000002e6000000]
+[inf:838c834383678393]
+<T>Indeed it is. It took longer than
+expected, but we've finally arrived
+at the station.
+!******************************!

@@ -1,0 +1,22 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+Both the size and the
+craftsmanship of this
+clock are impressive.
+!******************************!
+[hdr:0014000000024b0000000252000000]
+[inf:838b815b834e]
+Why put a clock this
+huge in such a small
+room?
+!******************************!
+[hdr:001e00000002820000000289000000]
+[inf:8341838d837d]
+This looks extremely
+fragile. I'm not going
+to touch it.
+!******************************!
+[hdr:000f27000002c200000002c9000000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

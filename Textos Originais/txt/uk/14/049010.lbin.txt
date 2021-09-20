@@ -1,0 +1,29 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A1/3>Now what do we do? The road's
+blocked!
+!******************************!
+[hdr:000a00000002370000000240000000]
+[inf:838c834383678393]
+<T>Don't panic, Luke. I'm sure you can
+find a way over this mess for us!
+!******************************!
+[hdr:00e803000002370000000289000000]
+[inf:838c834383678393]
+<T>You'll have to try again, Luke!
+!******************************!
+[hdr:00d0070000023700000002ac000000]
+[inf:838c834383678393]
+<T>Come on, Luke. I know you can do it
+this time!
+!******************************!
+[hdr:00b80b0000020000000002de000000]
+[inf:838b815b834e]
+<T>Yes! We did it, Professor!
+!******************************!
+[hdr:00b80b0000023700000002fc000000]
+[inf:838c834383678393]
+<T>We're not out of the woods yet.
+Hold on tight, everyone!
+
+!******************************!

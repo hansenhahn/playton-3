@@ -1,0 +1,56 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>The future professor's quarters
+are probably on the other side of
+that door.
+!******************************!
+[hdr:000a00000002590000000260000000]
+[inf:838b815b834e]
+<T>But how are we supposed to make
+it across this huge gap?
+!******************************!
+[hdr:0014000000029c00000002a3000000]
+[inf:8341838d837d]
+<T><A2/5>Does anyone else think this floor
+looks like a giant sliding block
+puzzle?
+!******************************!
+[hdr:0014000000020000000002f7000000]
+[inf:838c834383678393]
+<T>An astute observation, Flora. It
+seems the floor of this room is yet
+another puzzle for us to solve.
+!******************************!
+[hdr:00140000000259000000025f010000]
+[inf:838b815b834e]
+<T>The future Layton loves to keep
+things dramatic, doesn't he?
+!******************************!
+[hdr:00140000000200000000029f010000]
+[inf:838c834383678393]
+<T>That does seem to be the case.<W>
+Now let's get started on this
+puzzle...
+!******************************!
+[hdr:00e8030000020000000002ec010000]
+[inf:838c834383678393]
+<T>My goodness. This is proving much
+more difficult than I anticipated.
+!******************************!
+[hdr:00d007000002000000000234020000]
+[inf:838c834383678393]
+<T>This puzzle is the only thing that
+stands between us and the future
+Professor Layton.
+!******************************!
+[hdr:00b80b00000200000000028d020000]
+[inf:838c834383678393]
+<T><A1/2>There! It's safe to cross now,
+everyone.
+!******************************!
+[hdr:00a00f000002000000000234020000]
+[inf:838c834383678393]
+<T>This puzzle is the only thing that
+stands between us and the future
+Professor Layton.
+!******************************!

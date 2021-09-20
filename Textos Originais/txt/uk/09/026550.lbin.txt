@@ -1,0 +1,88 @@
+[hdr:000a0000000200000000020b000000]
+[inf:838f838b815b83678393]
+<T>H-hey! What are you lot doing back
+here?
+!******************************!
+[hdr:000a00000002370000000242000000]
+[inf:96a29788838b815b834e]
+<T>We're on our way to the Towering
+Pagoda. Not that it's any of your
+business.
+!******************************!
+[hdr:000a00000002000000000292000000]
+[inf:838f838b815b83678393]
+<T><A2/5>N-not so fast!<W> You're the ones
+who went on the rampage in the
+casino, ain't you?
+!******************************!
+[hdr:000a000000023700000002ef000000]
+[inf:96a29788838b815b834e]
+<T><A4/2>What if we are? What are you going
+to do about it?
+!******************************!
+[hdr:000a0000000200000000022b010000]
+[inf:838f838b815b83678393]
+<T>I-I...<W> My bruv Chelton'd give you a
+good hidin'...if he hadn't gone to
+erm...spend a penny.
+!******************************!
+[hdr:000a0000000237000000028d010000]
+[inf:96a29788838b815b834e]
+<T><A4/1>Looks like we're in luck then, eh?
+We'll just be on our way now.
+!******************************!
+[hdr:000a000000020000000002d7010000]
+[inf:838f838b815b83678393]
+<T>If you run off, I'll make sure
+Chelton squishes you like an ant
+when he finds you!
+!******************************!
+[hdr:000a0000000237000000022d020000]
+[inf:96a29788838b815b834e]
+<T>We'll bear that in mind.
+!******************************!
+[hdr:000a00000002000000000249020000]
+[inf:838f838b815b83678393]
+<T>Wait! One more thing! Um...<W> Solve
+this puzzle!
+!******************************!
+[hdr:00e80300000200000000027e020000]
+[inf:838f838b815b83678393]
+<T>You ain't no match for my puzzle,
+so you ain't goin' nowhere!
+!******************************!
+[hdr:00d0070000020000000002bf020000]
+[inf:838f838b815b83678393]
+<T>If you can't cough up an answer to
+this puzzle, maybe I don't need
+Chelton after all!
+!******************************!
+[hdr:00b80b000002000000000218030000]
+[inf:838f838b815b83678393]
+<T>Blast! You solved it.
+!******************************!
+[hdr:00b80b000002370000000231030000]
+[inf:96a29788838b815b834e]
+<T><A4/2>We really don't have any more time
+for this silliness. We'll be heading
+to the pagoda now.
+!******************************!
+[hdr:00b80b000002000000000295030000]
+[inf:838f838b815b83678393]
+<T><A1/1>F-fine! But remember, you got lucky!
+!******************************!
+[hdr:00b80b0000020000000002c3030000]
+[inf:838f838b815b83678393]
+<T>If my bruv was here, you'd be the
+one gettin' bossed around!
+!******************************!
+[hdr:00b80b000002370000000203040000]
+[inf:96a29788838b815b834e]
+<T><A4/1>Are you finished?
+!******************************!
+[hdr:00b80b00000200000000021e040000]
+[inf:838f838b815b83678393]
+<T>Th-this ain't over! Mark my words!
+You're gonna get what's comin' to
+you!
+!******************************!

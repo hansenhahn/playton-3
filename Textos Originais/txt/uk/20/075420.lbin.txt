@@ -1,0 +1,22 @@
+[hdr:000a0000000200000000020b000000]
+[inf:96a29788838b815b834e]
+<T>I fear that going back to your
+time could introduce additional
+anomalies to the flow of time.
+!******************************!
+[hdr:000a0000000200000000026c000000]
+[inf:96a29788838b815b834e]
+<T>I've therefore decided to stay
+here until you return.
+!******************************!
+[hdr:000a00000002a500000002ae000000]
+[inf:838c834383678393]
+<T><A1/1>I was going to suggest the same
+thing myself. Please wait for us
+here. We'll be back before long.
+!******************************!
+[hdr:001400000002190100000222010000]
+[inf:835783838362834e]
+<T>Are you ready to go, then?<W> Good!
+<A3/0>Let's be off!
+!******************************!

@@ -1,0 +1,30 @@
+[hdr:000a00000002000000000209000000]
+[inf:83778343835b838b]
+<T><A4/5>AUGH!<W>
+<A2/5>Oh, it's you, parrot. You made me
+jump!
+!******************************!
+[hdr:000a00000002490000000250000000]
+[inf:834983458380]
+<T><A3/0>Prrresent! Prrresent!
+!******************************!
+[hdr:000a0000000200000000026f000000]
+[inf:83778343835b838b]
+<T><A1/1>Wow! This is a great present! I bet
+she'll love this! Thank you so much,
+little bird!
+!******************************!
+[hdr:000a000000024900000002ce000000]
+[inf:834983458380]
+<T><A4/0>You'rrre welcome!
+!******************************!
+[hdr:000a000000020000000002e9000000]
+[inf:83778343835b838b]
+<T><A3/4>But... How will I ever pluck up
+the courage to give it to her?
+<W>My lovely B-<W30>B-<W30>Becky...
+!******************************!
+[hdr:000a00000002490000000255010000]
+[inf:834983458380]
+<T><A2/1>Becky? Becky?
+!******************************!

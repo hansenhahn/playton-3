@@ -1,0 +1,69 @@
+[hdr:000a00000002000000000207000000]
+[inf:8366838d8343]
+<T>Hmph.<W> Well, look who we have here...
+!******************************!
+[hdr:000a0000000232000000023b000000]
+[inf:838c834383678393]
+<T>You!
+!******************************!
+[hdr:000a0000000243000000024a000000]
+[inf:838b815b834e]
+<T>I thought this place was unguarded!
+!******************************!
+[hdr:000a00000002000000000271000000]
+[inf:8366838d8343]
+<T><A2/5>You've got it all wrong, boy. I'm not
+on guard.<W> <A2/6>I'm just having a break.
+It's nice and quiet down here.
+!******************************!
+[hdr:000a000000020000000002eb000000]
+[inf:8366838d8343]
+<T>But now that I've seen you, I can't
+very well let you just waltz on past,
+can I?
+!******************************!
+[hdr:000a0000000243000000023f010000]
+[inf:838b815b834e]
+<T>Listen, we really need to pass
+through. Can't you just look the
+other way?
+!******************************!
+[hdr:000a0000000200000000028d010000]
+[inf:8366838d8343]
+<T><A3/1>Hmph.<W> Headed for the research
+facility, are you?
+!******************************!
+[hdr:000a000000020000000002ca010000]
+[inf:8366838d8343]
+<T>Okay, whatever. I'm not exactly on
+the clock here, after all.
+!******************************!
+[hdr:000a0000000200000000020b020000]
+[inf:8366838d8343]
+<T>But that doesn't mean I don't have
+standards, and if you can't
+measure up, you're out of luck.
+!******************************!
+[hdr:000a0000000232000000026d020000]
+[inf:838c834383678393]
+<T>Standards? What kind of
+standards?
+!******************************!
+[hdr:000a00000002000000000293020000]
+[inf:8366838d8343]
+<T>Puzzle standards, obviously.
+It doesn't look to me as if you've
+solved very many.
+!******************************!
+[hdr:000a000000020000000002e8020000]
+[inf:8366838d8343]
+<T><A4/1>Come back when you've got at least
+80 puzzles under your belt and I'll
+consider letting you through.
+!******************************!
+[hdr:001400000002000000000256030000]
+[inf:8366838d8343]
+<T>Hmph. <W>You need to have solved at
+least 80 puzzles if you want to
+pass. No way around it.
+!******************************!

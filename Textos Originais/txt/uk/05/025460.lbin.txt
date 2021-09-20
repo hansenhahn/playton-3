@@ -1,0 +1,17 @@
+[hdr:000a00000002000000000209000000]
+[inf:8352815b834d815b]
+<T>Constable Barton just bolted
+through here. I think he was
+headed down to the archives.
+!******************************!
+[hdr:000a00000002000000000263000000]
+[inf:8352815b834d815b]
+<T>Maybe the inspector gave him
+another earful...
+!******************************!
+[hdr:001400000002000000000295000000]
+[inf:8352815b834d815b]
+<T>If you're trying to get to the
+archives, it's just down those
+stairs over there.
+!******************************!

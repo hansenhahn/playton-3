@@ -1,0 +1,12 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Don't you want to take a peek at
+the restaurant Becky recommended,
+Professor?
+!******************************!
+[hdr:000a00000002580000000261000000]
+[inf:838c834383678393]
+<T>Ah yes. It completely slipped my
+mind. Let's drop in for a bite
+before we head to the station.
+!******************************!

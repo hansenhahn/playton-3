@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T><A3/1>I know London like the back of my
+hand, and yet this area feels quite
+foreign to me. How odd...
+!******************************!

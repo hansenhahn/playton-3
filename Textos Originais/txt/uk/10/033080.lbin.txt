@@ -1,0 +1,64 @@
+[hdr:000a00000002000000000211000000]
+[inf:834e838d815b8393837d837483428341]
+<T>You'd better have a good reason
+for talkin' to me.
+!******************************!
+[hdr:000a00000002470000000250000000]
+[inf:838c834383678393]
+<T>Sorry to bother you, but have you
+seen the young boy I've been
+travelling with?
+!******************************!
+[hdr:000a000000020000000002a3000000]
+[inf:834e838d815b8393837d837483428341]
+<T>The knobbly-kneed squirt in the
+blue hat?
+!******************************!
+[hdr:000a000000024700000002d0000000]
+[inf:838c834383678393]
+<T>Er, yes. That would be him.
+!******************************!
+[hdr:000a000000020000000002ef000000]
+[inf:834e838d815b8393837d837483428341]
+<T>Yeah, I saw him go by.
+!******************************!
+[hdr:000a00000002470000000209010000]
+[inf:838c834383678393]
+<T>Did you happen to see in which
+direction he went?
+!******************************!
+[hdr:000a0000000200000000023e010000]
+[inf:834e838d815b8393837d837483428341]
+<T>I, uh, suppose I could tell you, but
+not for free. Scratch my back and
+I'll scratch yours, okay?
+!******************************!
+[hdr:00e8030000020000000002a2010000]
+[inf:834e838d815b8393837d837483428341]
+<T>Tsk-tsk. Can't help me with my
+problem? Fine. Then I can't help
+you with yours, either.
+!******************************!
+[hdr:00d0070000020000000002fd010000]
+[inf:834e838d815b8393837d837483428341]
+<T>I might've seen where your little
+friend ran off to, but until you
+solve my puzzle, my lips are sealed.
+!******************************!
+[hdr:00b80b000002000000000268020000]
+[inf:834e838d815b8393837d837483428341]
+<T>Ah, it feels good to finally wash
+my hands of that puzzle. So, about
+that small friend of yours...
+!******************************!
+[hdr:00b80b0000020000000002ce020000]
+[inf:834e838d815b8393837d837483428341]
+<T>The lad came out and walked off
+towards Flatstone Street. Had the
+glummest expression on his face...
+!******************************!
+[hdr:00a00f000002000000000236030000]
+[inf:834e838d815b8393837d837483428341]
+<T>Your friend went off towards
+Flatstone Street.
+!******************************!

@@ -1,0 +1,100 @@
+[hdr:000a00000002000000000209000000]
+[inf:837d8362834e8358]
+<T>Hey, listen to this! I came across a
+brilliant puzzle the other day. Want
+to hear it?
+!******************************!
+[hdr:000a00000002620000000269000000]
+[inf:838b815b834e]
+<T>A new puzzle, eh?<W> Where'd you find
+it, Max?
+!******************************!
+[hdr:000a0000000200000000029b000000]
+[inf:837d8362834e8358]
+<T>It's a secret. But if you solve the
+puzzle, I'll tell you.<W> What do you
+say? Want to try it?
+!******************************!
+[hdr:000a000000026200000002fd000000]
+[inf:838b815b834e]
+<T>Sure!
+!******************************!
+[hdr:00e803000002000000000206010000]
+[inf:837d8362834e8358]
+<T><A3/0>BZZT!<W> <A2/3>Invalid answer!<W> Too bad. I've
+got a big secret to spill if you can
+get it right, you know.
+!******************************!
+[hdr:00d00700000200000000027c010000]
+[inf:837d8362834e8358]
+<T>If you can beat this puzzle, I'll tell
+you something really cool!
+!******************************!
+[hdr:00b80b0000020000000002c1010000]
+[inf:837d8362834e8358]
+<T>DING DING DING!<W> Correct!
+!******************************!
+[hdr:00b80b0000026200000002e0010000]
+[inf:838b815b834e]
+<T>So, where did you find that nice
+puzzle? You are going to tell me
+now, aren't you?
+!******************************!
+[hdr:00b80b000002000000000236020000]
+[inf:837d8362834e8358]
+<T><A1/2>DING DING DING!<W> Correct!<W> I found
+it by touching a suspicious-looking
+spot.
+!******************************!
+[hdr:00b80b000002620000000290020000]
+[inf:838b815b834e]
+<T>A suspicious-looking spot?
+!******************************!
+[hdr:00b80b0000020000000002ae020000]
+[inf:837d8362834e8358]
+<T>DING DING DING!<W> Yeah, if something
+looks a little fishy, just give it a
+bit of a poke.
+!******************************!
+[hdr:00b80b00000200000000020b030000]
+[inf:837d8362834e8358]
+<T>If you're lucky, a hint coin or
+puzzle will appear out of thin air!
+!******************************!
+[hdr:00b80b000002620000000252030000]
+[inf:838b815b834e]
+<T>Wow!<W> That's amazing!
+!******************************!
+[hdr:00b80b00000200000000026d030000]
+[inf:837d8362834e8358]
+<T>Yeah. You need a sharp eye, though.
+Those hidden items could be
+anywhere.
+!******************************!
+[hdr:00b80b0000020000000002ba030000]
+[inf:837d8362834e8358]
+<T>If you touch an area and something
+happens, well...<W><A1/5>you could say that's
+a good sign.
+!******************************!
+[hdr:00b80b00000262000000021b040000]
+[inf:838b815b834e]
+<T>What kind of thing might happen?
+!******************************!
+[hdr:00b80b00000200000000023f040000]
+[inf:837d8362834e8358]
+<T><A1/2>Oh you know, maybe you'll see a
+splash of water or a puff of dust.
+!******************************!
+[hdr:00b80b00000200000000028b040000]
+[inf:837d8362834e8358]
+<T>If you see something like that,
+touch that same spot again. You
+never know what you might find...
+!******************************!
+[hdr:00a00f0000020000000002f0040000]
+[inf:837d8362834e8358]
+<T>Touch anything that looks
+suspicious. You might find
+something interesting!
+!******************************!

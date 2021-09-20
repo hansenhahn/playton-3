@@ -1,0 +1,6 @@
+[hdr:000a0000000200000000020b000000]
+[inf:96a29788838b815b834e]
+<T>Hold on a minute. I think there's
+still valuable information to be
+found here in Chinatown.
+!******************************!

@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A3/1>Here we are, Professor.<W>
+Scotland Yard!
+!******************************!
+[hdr:000a000000023a0000000243000000]
+[inf:838c834383678393]
+<T>There's no time to waste. We have
+to find the inspector.
+!******************************!

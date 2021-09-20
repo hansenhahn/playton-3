@@ -1,0 +1,75 @@
+[hdr:000a00000002000000000205000000]
+[inf:8378838b]
+<T><A4/5>Oh there you are, Flukeykins!<W><A2/6>
+How I've missed the sound of your
+sweet voice!
+!******************************!
+[hdr:000a0000000264000000026b000000]
+[inf:838b815b834e]
+<T><A1/3>Belle, my name is Luke. With an L!
+!******************************!
+[hdr:000a00000002000000000297000000]
+[inf:8378838b]
+<T><A1/1>Oh, what's in a name, anyway? All
+that matters is the loooove we
+share, Flukey.
+!******************************!
+[hdr:000a000000020000000002f0000000]
+[inf:8378838b]
+<T><A3/5>Don't you feel lucky to have met
+your soulmate so early in life? I
+know I do!
+!******************************!
+[hdr:000a00000002640000000247010000]
+[inf:838b815b834e]
+<T><A4/4>Listen, Belle. I think maybe you've
+got-
+!******************************!
+[hdr:000a00000002000000000279010000]
+[inf:8378838b]
+<T><A2/4>Big dreams for our future? I
+certainly do. Now if only I could 
+sort out this house plan...
+!******************************!
+[hdr:00e8030000020000000002de010000]
+[inf:8378838b]
+<T><A2/6>I know you can work this one out.
+Come back later, Fluke!
+!******************************!
+[hdr:00d007000002000000000221020000]
+[inf:8378838b]
+<T><A1/1>You and I are going to have the
+sweetest little house together.
+I can see it now...
+!******************************!
+[hdr:00b80b00000200000000027e020000]
+[inf:8378838b]
+<T><A3/5>Oh, how wonderful! That's a lovely
+home you've designed for us, Fluke.
+I'm just soooo happy!
+!******************************!
+[hdr:00b80b0000020000000002e4020000]
+[inf:8378838b]
+<T><A3/7>Now give your sweetheart a big,
+squishy kiss!
+!******************************!
+[hdr:00b80b00000264000000021b030000]
+[inf:838b815b834e]
+<T><A1/3>Stop making that kissy face at me!
+!******************************!
+[hdr:00b80b000002000000000247030000]
+[inf:8378838b]
+<T><A3/10>Oh Fluke, there you go again. Every
+time you get embarrassed like that,
+I just melt!
+!******************************!
+[hdr:00b80b0000026400000002a6030000]
+[inf:838b815b834e]
+<T><A1/5>Ugh...
+!******************************!
+[hdr:00a00f0000020000000002b6030000]
+[inf:8378838b]
+<T><A3/5>Come by and pay your sweetheart
+a visit any time, Flukey. I'll be 
+here waiting for you.
+!******************************!

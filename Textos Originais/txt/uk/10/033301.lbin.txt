@@ -1,0 +1,84 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Hello there.
+!******************************!
+[hdr:000a00000002170000000220000000]
+[inf:83778343835b838b]
+<T>Augh!<W> Not you again!
+!******************************!
+[hdr:000a0000000217000000023b000000]
+[inf:83778343835b838b]
+<T><A5/1>Stay away, you m-<W30>m-<W30>monster!
+!******************************!
+[hdr:000a0000000200000000026a000000]
+[inf:838b815b834e]
+<T>You've got it all wrong. He's an
+archaeology professor, and I'm his
+apprentice. That's all.
+!******************************!
+[hdr:000a000000021700000002c9000000]
+[inf:83778343835b838b]
+<T>You can't fool me with those lies.
+You're the b-<W30>b-<W>boss of the Family!
+!******************************!
+[hdr:0014000000021a0100000223010000]
+[inf:838c834383678393]
+<T>You're quite mistaken, my good
+man.<W> The boss of the Family has
+modelled his appearance on mine.
+!******************************!
+[hdr:001400000002170000000289010000]
+[inf:83778343835b838b]
+<T><A2/5>The boss of the Family decided
+to model himself on you?
+!******************************!
+[hdr:0014000000021a01000002ca010000]
+[inf:838c834383678393]
+<T><A3/2>Precisely.
+!******************************!
+[hdr:0014000000021700000002de010000]
+[inf:83778343835b838b]
+<T>If the b-<W30>b-<W30>baddest b-<W30>b-<W30>baddie
+around looks up to you, what does
+that say about you?
+!******************************!
+[hdr:001400000002170000000249020000]
+[inf:83778343835b838b]
+<T><A4/5>Somebody help!<A6/0> Heeeeeelp!
+!******************************!
+[hdr:001e000000021a0100000272020000]
+[inf:838c834383678393]
+<T>There's just no reasoning with
+that fellow.
+!******************************!
+[hdr:001e000000020000000002a1020000]
+[inf:838b815b834e]
+<T>I'm starting to think he actually
+enjoys being in a state of constant
+terror.
+!******************************!
+[hdr:0028000000020000000002f2020000]
+[inf:838b815b834e]
+<T><K>Hmm?<W></K> What are you still doing
+here? I thought you'd run away.
+!******************************!
+[hdr:00280000000217000000023d030000]
+[inf:83778343835b838b]
+<T>What's it to you?<W> I can come and
+go as I please, shorty.
+!******************************!
+[hdr:0028000000021a010000027c030000]
+[inf:838c834383678393]
+<T>What's all this now?
+!******************************!
+[hdr:002800000002170000000294030000]
+[inf:83778343835b838b]
+<T><A5/1>Augh!<W> I, d-<W30>d-<W30>didn't realise...<W> I mean,
+I didn't think... I-<W> Forgive meeee!
+!******************************!
+[hdr:0032000000021a01000002fb030000]
+[inf:838c834383678393]
+<T>Strangely enough, I'm starting to
+get used to people fleeing from me
+in a state of panic.
+!******************************!

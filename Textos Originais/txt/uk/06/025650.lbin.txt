@@ -1,0 +1,34 @@
+[hdr:000a00000002000000000209000000]
+[inf:835783838362834e]
+<T>Seems you've got your time-
+travelling legs, Professor. You
+don't look shaken at all.
+!******************************!
+[hdr:000a0000000262000000026b000000]
+[inf:838c834383678393]
+<T>I suppose I'm getting used to it,
+though I wouldn't say I find the
+process pleasurable.
+!******************************!
+[hdr:000a000000020000000002c6000000]
+[inf:835783838362834e]
+<T>Yes, squeezing yourself through a
+vortex in time and coming out the
+other side can be draining.
+!******************************!
+[hdr:000a00000002000000000229010000]
+[inf:835783838362834e]
+<T>You probably want to get going, but
+do <CR>come to me if you ever need to
+return to your time</C>.
+!******************************!
+[hdr:000a0000000200000000028f010000]
+[inf:835783838362834e]
+<T>You're a good man. We'd be glad to
+help you out any time.
+!******************************!
+[hdr:000a000000026200000002cc010000]
+[inf:838c834383678393]
+<T><A1/2>Thank you, Cogg. We'll be back if we
+need anything.
+!******************************!

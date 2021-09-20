@@ -1,0 +1,17 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Hmm... Does that building on the
+other shore look suspicious to
+you?
+!******************************!
+[hdr:000a000000024f0000000256000000]
+[inf:8341838d837d]
+<T>Now that you mention it, that
+lighthouse does look crooked.
+!******************************!
+[hdr:000a00000002000000000295000000]
+[inf:838b815b834e]
+<T>Yeah, now that I'm on the hunt
+for suspicious stuff, everything's
+starting to look dodgy. 
+!******************************!

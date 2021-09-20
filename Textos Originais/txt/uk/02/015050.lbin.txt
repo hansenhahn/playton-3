@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>We need to take the train back to
+Flatstone Street if we're to visit
+the casino, Luke.
+!******************************!
+[hdr:000a0000000263000000026a000000]
+[inf:838b815b834e]
+<T>Okay, Professor.
+!******************************!

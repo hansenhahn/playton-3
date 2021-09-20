@@ -1,0 +1,11 @@
+[hdr:000a00000002000000000209000000]
+[inf:8354837d838a815b]
+<T>Tee hee hoo! Didn't you want to
+talk to my husband?
+!******************************!
+[hdr:000a00000002000000000240000000]
+[inf:8354837d838a815b]
+<T>Do stay and help my dear husband
+mend that big clock. We would both
+be very grateful!
+!******************************!

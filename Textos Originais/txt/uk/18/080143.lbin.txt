@@ -1,0 +1,50 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A3/1>What an unusual building. It's like
+it has a little family of roofs.
+!******************************!
+[hdr:000a00000002550000000260000000]
+[inf:96a29788838b815b834e]
+<T><A1/1>Yes, this style of architecture
+became popular after your time.
+!******************************!
+[hdr:000a000000020000000002a9000000]
+[inf:838b815b834e]
+<T><A4/1>So that's why it seems so strange
+to me!
+!******************************!
+[hdr:000a000000025500000002db000000]
+[inf:96a29788838b815b834e]
+<T><A2/2>You know, your comment about the
+roofs being like a family reminds
+me of a puzzle I once heard.
+!******************************!
+[hdr:000a00000002550000000244010000]
+[inf:96a29788838b815b834e]
+<T>Would you like to try it?
+!******************************!
+[hdr:000a00000002000000000261010000]
+[inf:838b815b834e]
+<T><A2/2>Do you even need to ask?
+!******************************!
+[hdr:00e803000002550000000283010000]
+[inf:96a29788838b815b834e]
+<T>Don't get discouraged. We can
+always try this one again later.
+!******************************!
+[hdr:00d0070000025500000002c5010000]
+[inf:96a29788838b815b834e]
+<T><A2/4>Come on, Luke! Make the professor
+proud.
+!******************************!
+[hdr:00b80b0000025500000002f7010000]
+[inf:96a29788838b815b834e]
+<T><A2/5>Wonderful! Of course, I expected
+nothing less from myself. Heh heh.
+!******************************!
+[hdr:00b80b000002000000000244020000]
+[inf:838b815b834e]
+<T><A3/2>Nor should you! No puzzle is a match
+for Professor Layton's apprentice,
+after all!
+!******************************!

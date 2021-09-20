@@ -1,0 +1,26 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>I expect you'll make short work of
+this puzzle.
+!******************************!
+[hdr:00e80300000200000000023c000000]
+[inf:838c834383678393]
+<T>Well, there's no harm in taking a
+step back to mull over your
+options.
+!******************************!
+[hdr:00d007000002000000000286000000]
+[inf:838c834383678393]
+<T>Good on you for not giving up.
+Let's return to that puzzle.
+!******************************!
+[hdr:00b80b0000020000000002c5000000]
+[inf:838c834383678393]
+<T><A1/2>Well I am impressed! That was
+expertly executed!
+!******************************!
+[hdr:00a00f0000020000000002ff000000]
+[inf:838c834383678393]
+<T><A1/2>Back for more fun with an old
+friend? Enjoy!
+!******************************!

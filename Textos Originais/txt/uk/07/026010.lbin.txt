@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>We need to get our bearings.
+!******************************!
+[hdr:000a00000002000000000229000000]
+[inf:838c834383678393]
+<T>Perhaps that elderly gentleman can
+provide us with some information
+on the area.
+!******************************!

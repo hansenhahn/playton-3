@@ -1,0 +1,11 @@
+[hdr:000a00000002000000000209000000]
+[inf:8352815b834d815b]
+<T>Hello there, young man. Exploring
+the police station on your own,
+are you?
+!******************************!
+[hdr:001400000002000000000257000000]
+[inf:8352815b834d815b]
+<T>Do you need to see the inspector
+again?
+!******************************!

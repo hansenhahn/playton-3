@@ -1,0 +1,21 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>You have a new feathered friend,
+<N1> the parrot!
+!******************************!
+[hdr:000a00000002000000000242000000]
+[inf:8369838c815b835683878393]
+<T>The Parrot minigame has been added
+to the trunk.
+!******************************!
+[hdr:001400000002000000000276000000]
+[inf:8369838c815b835683878393]
+<T>First, have the parrot play with
+Luke to learn the basics.
+!******************************!
+[hdr:0014000000020000000002b4000000]
+[inf:8369838c815b835683878393]
+<T>Once you've done that, you'll have
+the chance to do lots more with
+your parrot friend.
+!******************************!

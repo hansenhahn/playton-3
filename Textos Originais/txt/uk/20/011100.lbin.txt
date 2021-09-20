@@ -1,0 +1,199 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A1/5>This place is a mess! That droopy
+flower has even got some kind of
+insect buzzing around it!
+!******************************!
+[hdr:0014000000026d000000027a000000]
+[inf:8369838c815b835683878393]
+<T>Hold it right there, sonny boy!
+I wouldn't go bad-mouthing that
+blossom if I were you.
+!******************************!
+[hdr:0014000000020000000002d4000000]
+[inf:838b815b834e]
+<T><A1/3>Augh! There's someone lurking in
+the shadows!
+!******************************!
+[hdr:0014000000026d000000020b010000]
+[inf:8369838c815b835683878393]
+<T>Ehee hee, oh yes. Wherever there
+are lost puzzles, there am I.
+!******************************!
+[hdr:00140000000200000000024d010000]
+[inf:838b815b834e]
+<T><A1/1>Oh, it's you!
+!******************************!
+[hdr:001e0000000264010000026d010000]
+[inf:8369835d815b836f]
+<T>Have we met before?
+!******************************!
+[hdr:001e00000002640100000284010000]
+[inf:8369835d815b836f]
+<T>No? Well then, allow me to introduce
+myself!
+!******************************!
+[hdr:001e000000026401000002b4010000]
+[inf:8369835d815b836f]
+<T>Before you stands the beautiful and
+clairvoyant Granny Riddleton.
+!******************************!
+[hdr:001e000000020000000002f9010000]
+[inf:838b815b834e]
+<T><A1/6>B-beautiful?<W> Hmm, well you do
+look pretty good for your age, I
+suppose.
+!******************************!
+[hdr:0028000000024d0200000256020000]
+[inf:838c834383678393]
+<T><A1/1>Watch your words, Luke! We don't
+want to offend the lady, do we?
+!******************************!
+[hdr:0028000000026401000002a0020000]
+[inf:8369835d815b836f]
+<T><A1/5>Have you ever noticed how many
+mysteries there are in the world?<W>
+How many puzzles?
+!******************************!
+[hdr:0028000000026401000002ff020000]
+[inf:8369835d815b836f]
+<T>Puzzles that tease your brain?
+Puzzles that bend your mind?
+!******************************!
+[hdr:00280000000264010000023e030000]
+[inf:8369835d815b836f]
+<T>Puzzles that are just plain
+infuriating?
+!******************************!
+[hdr:0028000000024d020000026a030000]
+[inf:838c834383678393]
+<T><A3/1>Certainly.
+!******************************!
+[hdr:00280000000264010000027e030000]
+[inf:8369835d815b836f]
+<T>And what about the puzzles that you
+miss or leave unsolved? They've got
+to go somewhere, haven't they?
+!******************************!
+[hdr:0028000000026401000002e8030000]
+[inf:8369835d815b836f]
+<T>Where do they go, you ask?<W> Well,
+they come and stay with me!
+!******************************!
+[hdr:0028000000024d020000022b040000]
+[inf:838c834383678393]
+<T><A4/2>That's very good to know.
+!******************************!
+[hdr:00280000000264010000024e040000]
+[inf:8369835d815b836f]
+<T><A1/1>Or I suppose I should say they used
+to come and stay with me. Things
+are about to change.
+!******************************!
+[hdr:0032000000020000000002b1040000]
+[inf:838b815b834e]
+<T><A3/1>Are they?
+!******************************!
+[hdr:0032000000026401000002c4040000]
+[inf:8369835d815b836f]
+<T>You might not be able to tell from
+my looks, but I'm no spring chicken.<W>
+Truth be told, I'm getting tired.
+!******************************!
+[hdr:003200000002000000000234050000]
+[inf:838b815b834e]
+<T><A1/1>Oh?
+!******************************!
+[hdr:003200000002640100000241050000]
+[inf:8369835d815b836f]
+<T>I think it's time for me to retire
+from this puzzle-minding business.
+I've earned it.
+!******************************!
+[hdr:00320000000200000000029a050000]
+[inf:838b815b834e]
+<T>But...
+!******************************!
+[hdr:0032000000020000000002a4050000]
+[inf:838b815b834e]
+<T><A1/3>You can't retire! You mustn't!
+Without you, what will happen to
+all the puzzles we leave behind?
+!******************************!
+[hdr:00320000000264010000020e060000]
+[inf:8369835d815b836f]
+<T>Are you saying that without me, you
+two would find yourselves in a
+pickle?
+!******************************!
+[hdr:00320000000200000000025c060000]
+[inf:838b815b834e]
+<T><A4/4>A huge pickle!
+!******************************!
+[hdr:003200000002640100000274060000]
+[inf:8369835d815b836f]
+<T>How about the debonair gentleman
+in the top hat? What do you think?
+!******************************!
+[hdr:003c000000024d02000002bb060000]
+[inf:838c834383678393]
+<T>I concur with my friend here.
+!******************************!
+[hdr:003c000000026401000002dc060000]
+[inf:8369835d815b836f]
+<T>Ehee hee.<W> Yep, I thought you might
+say that.
+!******************************!
+[hdr:003c0000000264010000020f070000]
+[inf:8369835d815b836f]
+<T>But don't fret. I'll make sure you're
+taken care of.
+!******************************!
+[hdr:003c000000024d0200000247070000]
+[inf:838c834383678393]
+<T><A1/1>How?
+!******************************!
+[hdr:003c00000002640100000255070000]
+[inf:8369835d815b836f]
+<T><A1/6>Ehee hee!<W><A1/1> You'll just have to wait
+and see for yourselves, laddies.
+!******************************!
+[hdr:003c000000026401000002ab070000]
+[inf:8369835d815b836f]
+<T>Come back here when you've lost a
+few puzzles. It should all become
+clear then.
+!******************************!
+[hdr:003c000000026401000002fe070000]
+[inf:8369835d815b836f]
+<T>Now, I know we just met, but you'll
+have to excuse me. I'm going off on
+a well-deserved holiday.
+!******************************!
+[hdr:003c00000002640100000262080000]
+[inf:8369835d815b836f]
+<T>I may never see you again, so
+ta-ta, and have a positively
+puzzly day!
+!******************************!
+[hdr:0046000000020000000002ac080000]
+[inf:838b815b834e]
+<T>A...puzzly day?
+!******************************!
+[hdr:0046000000024d02000002bf080000]
+[inf:838c834383678393]
+<T><A1/2>What a strange conversation that
+was. Let's be sure to come back
+here later.
+!******************************!
+[hdr:004600000002000000000215090000]
+[inf:838b815b834e]
+<T><A1/1>Definitely.<W> Though that thing
+that's flying around is giving me the
+heebie-jeebies.
+!******************************!
+[hdr:005000000002000000000275090000]
+[inf:838b815b834e]
+<T>I wonder where Granny Riddleton is
+going on holiday?
+!******************************!

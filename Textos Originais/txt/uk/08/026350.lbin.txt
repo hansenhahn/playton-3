@@ -1,0 +1,78 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Oh, hello sir.
+!******************************!
+[hdr:000a000000021b0000000222000000]
+[inf:837a838a8358]
+<T>AUGH!<W> Please don't sneak up on me
+like that!
+!******************************!
+[hdr:000a0000000255000000025c000000]
+[inf:838b815b834e]
+<T>Sorry! It's just that I noticed
+your shoes were soaked and-
+!******************************!
+[hdr:000a000000021b000000029b000000]
+[inf:837a838a8358]
+<T>So what? Wet shoes are the least
+of my worries right now.
+!******************************!
+[hdr:000a000000020000000002d8000000]
+[inf:838c834383678393]
+<T>Oh? What seems to be the problem?
+!******************************!
+[hdr:000a000000021b00000002fd000000]
+[inf:837a838a8358]
+<T><A2/4>I arranged to meet my friend here,
+but I think there's been some
+confusion about the time...
+!******************************!
+[hdr:00e8030000021b0000000263010000]
+[inf:837a838a8358]
+<T>Sorry. That was probably quite
+hard to wrap your head around.
+!******************************!
+[hdr:00e8030000021b00000002a4010000]
+[inf:837a838a8358]
+<T>I'm a scientist, you see. I tend to
+explain things in complex ways.
+!******************************!
+[hdr:00d0070000021b00000002eb010000]
+[inf:837a838a8358]
+<T>Can you help me with this puzzle?
+!******************************!
+[hdr:00b80b0000021b0000000210020000]
+[inf:837a838a8358]
+<T>Ah, now it all makes sense!
+!******************************!
+[hdr:00b80b00000200000000022f020000]
+[inf:838c834383678393]
+<T><A1/2>I'm glad everything has been
+cleared up.
+!******************************!
+[hdr:00b80b0000021b0000000261020000]
+[inf:837a838a8358]
+<T>Oh yes. As a scientist, it's clear
+to me that you've got a real knack
+for critical thinking.
+!******************************!
+[hdr:00b80b0000025500000002c1020000]
+[inf:838b815b834e]
+<T><A4/2>I'll say! He's the most acclaimed
+professor of archaeology in
+the country!
+!******************************!
+[hdr:00b80b0000021b0000000215030000]
+[inf:837a838a8358]
+<T>Ah, that'd explain it.<W> Anyway, you
+have my thanks, Professor.
+!******************************!
+[hdr:00b80b000002000000000259030000]
+[inf:838c834383678393]
+<T>I'm glad I could be of assistance.
+!******************************!
+[hdr:00a00f0000021b000000027f030000]
+[inf:837a838a8358]
+<T>Hello, Professor. I saw you coming
+this time. That's why I didn't jump.
+!******************************!

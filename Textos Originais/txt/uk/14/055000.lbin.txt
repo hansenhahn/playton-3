@@ -1,0 +1,165 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<V0010><T><K>Hmm?</V>
+!******************************!
+[hdr:0014000000021f0000000228000000]
+[inf:8354838a83418358]
+<V0020><T>I don't think I have much longer
+here, Hershel.</V>
+!******************************!
+[hdr:001400000002000000000266000000]
+[inf:838c834383678393]
+<V0030><T>I don't know what you mean.</V>
+!******************************!
+[hdr:0014000000021f0000000290000000]
+[inf:8354838a83418358]
+<V0040><T><A5/0>You've taken awfully good care of
+that hat I gave you.</V>
+!******************************!
+[hdr:0014000000020000000002db000000]
+[inf:838c834383678393]
+<V0050><T>What did you say?</V>
+!******************************!
+[hdr:001e00000002fb0000000206010000]
+[inf:83608346838b837e815b]
+<V0060><T>Oi, there you are, Layton! I did a
+background check on Claire's family,
+like you asked.</V>
+!******************************!
+[hdr:001e00000002fb000000026c010000]
+[inf:83608346838b837e815b]
+<T><V0061>There's no record of Claire having
+a younger sister.</V>
+!******************************!
+[hdr:0028000000020000000002af010000]
+[inf:838c834383678393]
+<V0070><T><A1/1>Then...</V>
+!******************************!
+[hdr:002800000002cb01000002d8010000]
+[inf:83668342837e8367838a815b]
+<V0080><T>Yes, it was quite a shock when
+I first worked it out.</V>
+!******************************!
+[hdr:00280000000200000000021c020000]
+[inf:838c834383678393]
+<V0090><T>But you... You can't really mean...</V>
+!******************************!
+[hdr:0032000000024e0200000255020000]
+[inf:834e838c8341]
+<V0100><T>It's me, Hershel. It's Claire.</V>
+!******************************!
+[hdr:003c00000002cb0100000282020000]
+[inf:83668342837e8367838a815b]
+<V0110><T>While it defies logic, it seems the
+experiment 10 years ago wasn't
+a complete failure.</V>
+!******************************!
+[hdr:003c00000002cb01000002e7020000]
+[inf:83668342837e8367838a815b]
+<V0120><T>Somehow Claire was shot 10 years
+into the future.</V>
+!******************************!
+[hdr:003c00000002000000000227030000]
+[inf:838c834383678393]
+<V0130><T>To our present!</V>
+!******************************!
+[hdr:003c00000002cb0100000245030000]
+[inf:83668342837e8367838a815b]
+<V0140><T>Yes. The time machine worked, if
+only for that single moment before
+it exploded.</V>
+!******************************!
+[hdr:003c000000020000000002a4030000]
+[inf:838c834383678393]
+<V0150><T>That's...that's not possible!</V>
+!******************************!
+[hdr:003c00000002cb01000002d0030000]
+[inf:83668342837e8367838a815b]
+<V0160><T><A1/4>Unfortunately, however, there
+were more complications.</V>
+!******************************!
+[hdr:004100000002cb010000021b040000]
+[inf:83668342837e8367838a815b]
+<V0170><T>Shortly after appearing in the
+present, Claire's body showed signs
+of...molecular instability.</V>
+!******************************!
+[hdr:004100000002cb0100000288040000]
+[inf:83668342837e8367838a815b]
+<T><V0171>It was trying to return to its own
+time.</V>
+!******************************!
+[hdr:004100000002cb01000002bf040000]
+[inf:83668342837e8367838a815b]
+<V0180><T>I attribute that phenomenon to
+the incomplete nature of the time
+machine. She didn't have long here.</V>
+!******************************!
+[hdr:004600000002cb0100000232050000]
+[inf:83668342837e8367838a815b]
+<V0190><T>I worked on the machine in the
+hopes of finding a way to stabilise
+her existence in the present.</V>
+!******************************!
+[hdr:004600000002cb01000002a1050000]
+[inf:83668342837e8367838a815b]
+<V0200><T>But it seems inevitable that she'll
+return to her own time...<W>to the
+moment of the blast.</V>
+!******************************!
+[hdr:0050000000024e020000020b060000]
+[inf:834e838c8341]
+<V0210><T><A4/4>I begged Dimitri to stop his work.
+Tampering further with time can
+only result in more anomalies.</V>
+!******************************!
+[hdr:0050000000024e0200000281060000]
+[inf:834e838c8341]
+<V0220><T>There's no telling what chaos we'd
+release upon the world if we tried
+to save the dead from their fate.</V>
+!******************************!
+[hdr:0050000000024e02000002f7060000]
+[inf:834e838c8341]
+<V0230><T>The flow of time must remain linear.</V>
+!******************************!
+[hdr:0050000000024e020000022a070000]
+[inf:834e838c8341]
+<T><V0231>We all know the consequences
+of changing its course.</V>
+!******************************!
+[hdr:0050000000024e020000026d070000]
+[inf:834e838c8341]
+<V0240><T>But Dimitri wouldn't listen to me.
+That's when I knew the only way to
+stop him was through you, Hershel.</V>
+!******************************!
+[hdr:0050000000024e02000002e4070000]
+[inf:834e838c8341]
+<V0250><T>What Dimitri, Bill and I did 10 years
+ago broke the laws of nature. And
+now we must pay.</V>
+!******************************!
+[hdr:005a0000000200000000024b080000]
+[inf:838c834383678393]
+<V0260><T><A5/1>This is all so...incomprehensible.</V>
+!******************************!
+[hdr:005a000000024e0200000282080000]
+[inf:834e838c8341]
+<V0270><T><A1/1>It's time to end this, Dimitri.</V>
+!******************************!
+[hdr:006400000002cb01000002b6080000]
+[inf:83668342837e8367838a815b]
+<V0280><T>Yes...it does seem that way.</V>
+!******************************!
+[hdr:006400000002cb01000002e1080000]
+[inf:83668342837e8367838a815b]
+<V0290><T><A1/1>My research has threatened our
+very existence and it could do so
+again.</V>
+!******************************!
+[hdr:006400000002cb010000023d090000]
+[inf:83668342837e8367838a815b]
+<V0300><T>Tonight, I will close the book on
+the time machine forever.</V>
+!******************************!

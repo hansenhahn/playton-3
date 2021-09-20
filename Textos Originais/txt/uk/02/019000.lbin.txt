@@ -1,0 +1,97 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<V0010><T>Hello, Luke.</V>
+!******************************!
+[hdr:000a0000000224000000022b000000]
+[inf:838b815b834e]
+<V0020><T>Um, hi, Professor.<W> Oh, you're
+talking to him.</V>
+!******************************!
+[hdr:000a0000000224000000026a000000]
+[inf:838b815b834e]
+<V0030><T>This is going to take some getting
+used to.</V>
+!******************************!
+[hdr:000a00000002a400000002af000000]
+[inf:96a29788838b815b834e]
+<V0040><T><A2/2>I can't believe how small I used to
+be.</V>
+!******************************!
+[hdr:000a000000022400000002eb000000]
+[inf:838b815b834e]
+<V0050><T><A1/5>Hey! I'm not that small!</V>
+!******************************!
+[hdr:000a00000002000000000218010000]
+[inf:838c834383678393]
+<V0060><T>So, tell me, why exactly did you go
+through such pains to bring us
+here?</V>
+!******************************!
+[hdr:000a00000002a4000000026f010000]
+[inf:96a29788838b815b834e]
+<V0070><T>I'll be happy to tell you in just
+a moment.</V>
+!******************************!
+[hdr:000a00000002a400000002a9010000]
+[inf:96a29788838b815b834e]
+<V0080><T><A4/3>But before that, I'd just like to
+verify that I'm dealing with the
+real Professor Layton here.</V>
+!******************************!
+[hdr:000a0000000200000000021c020000]
+[inf:838c834383678393]
+<V0090><T>Who else would I be?</V>
+!******************************!
+[hdr:000a00000002a4000000023f020000]
+[inf:96a29788838b815b834e]
+<V0100><T><A4/4>Allow me to explain.</V>
+!******************************!
+[hdr:000a00000002a40000000268020000]
+[inf:96a29788838b815b834e]
+<T><V0101>In my London, it's rare to find
+someone who doesn't know the
+name Hershel Layton.</V>
+!******************************!
+[hdr:000a00000002a400000002c8020000]
+[inf:96a29788838b815b834e]
+<V0110><T>In fact, many impostors have come
+forth recently, claiming to be him.</V>
+!******************************!
+[hdr:000a0000000224000000021c030000]
+[inf:838b815b834e]
+<V0120><T>Are you saying you think the
+professor is a fraud?!</V>
+!******************************!
+[hdr:000a00000002a4000000025e030000]
+[inf:96a29788838b815b834e]
+<V0130><T><A4/1>Professor, if you think back on
+our adventures together, you may
+recall a man named Don Paolo.</V>
+!******************************!
+[hdr:000a00000002a400000002d1030000]
+[inf:96a29788838b815b834e]
+<T><V0131>As you know, he was a master of
+disguise.</V>
+!******************************!
+[hdr:000a00000002a40000000209040000]
+[inf:96a29788838b815b834e]
+<V0140><T>How do I know the man before me
+now isn't Don Paolo in another of
+his costumes?</V>
+!******************************!
+[hdr:000a00000002240000000267040000]
+[inf:838b815b834e]
+<V0150><T><A1/3>Now that's just rubbish, and you
+know it!</V>
+!******************************!
+[hdr:000a00000002a400000002a5040000]
+[inf:96a29788838b815b834e]
+<V0160><T><A4/2>Is it now? He's tricked us before.
+Who's to say he couldn't do it
+again?</V>
+!******************************!
+[hdr:000a00000002000000000202050000]
+[inf:838c834383678393]
+<V0170><T>Very well. I'll play along. How do
+you propose I prove my identity?</V>
+!******************************!

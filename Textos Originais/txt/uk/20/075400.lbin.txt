@@ -1,0 +1,68 @@
+[hdr:000a0000000200000000020b000000]
+[inf:96a29788838b815b834e]
+<T>Tell me, did you happen to notice
+that peculiar flower growing in the
+abandoned shop on Midland Road?
+!******************************!
+[hdr:000a0000000274000000027d000000]
+[inf:838c834383678393]
+<T>Erm... Why, what's so special about
+this particular flower?
+!******************************!
+[hdr:000a000000020000000002bc000000]
+[inf:96a29788838b815b834e]
+<T>It supposedly attracts puzzles that
+have disappeared from their
+original locations.
+!******************************!
+[hdr:000a0000000213010000021a010000]
+[inf:838b815b834e]
+<T><A1/6>Like a Venus flytrap for puzzles?!
+!******************************!
+[hdr:000a00000002000000000246010000]
+[inf:96a29788838b815b834e]
+<T><A2/2>That's what they say, anyway.
+I've never seen it for myself.
+!******************************!
+[hdr:000a0000000200000000028c010000]
+[inf:96a29788838b815b834e]
+<T>But if those rumours are true,
+we'll be able to retrieve any
+puzzles we've left behind.
+!******************************!
+[hdr:000a000000020000000002e7010000]
+[inf:96a29788838b815b834e]
+<T>I'd say that's reason enough to
+visit the shop.
+!******************************!
+[hdr:000a0000000213010000021a020000]
+[inf:838b815b834e]
+<T><A3/1>What do you say, Professor?
+!******************************!
+[hdr:000a0000000274000000023f020000]
+[inf:838c834383678393]
+<T>Well, we've nothing to lose, I
+suppose.
+!******************************!
+[hdr:000a0000000274000000026a020000]
+[inf:838c834383678393]
+<T><A2/2>The shop in question is just a quick
+stroll away and being able to visit
+lost puzzles would be very useful.
+!******************************!
+[hdr:000a000000021301000002df020000]
+[inf:838b815b834e]
+<T>Then what's stopping us? Let's go!
+!******************************!
+[hdr:001400000002000000000205030000]
+[inf:96a29788838b815b834e]
+<T><A3/2>Don't you want to go and have a
+look at the flower that started all
+those rumours?
+!******************************!
+[hdr:001400000002000000000261030000]
+[inf:96a29788838b815b834e]
+<T>It's growing not far from here, in
+the abandoned shop on Midland
+Road.
+!******************************!

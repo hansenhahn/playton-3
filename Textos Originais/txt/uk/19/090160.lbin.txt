@@ -1,0 +1,18 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Layton and the others visit a
+riverside restaurant by the name
+of the Thames Arms.
+!******************************!
+[hdr:000a00000002000000000263000000]
+[inf:8369838c815b835683878393]
+<T>There, the bartender informs them
+that Future Layton came by, but
+that they just missed him.
+!******************************!
+[hdr:0014000000020000000002c3000000]
+[inf:8369838c815b835683878393]
+<T>Intent on ending Future Layton's
+plan to create a time machine, the
+group head back to Chinatown.
+!******************************!

@@ -1,0 +1,62 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<V0030><T>Professor, if you're reading this,
+it means you've made it safely to
+my time.</V>
+!******************************!
+[hdr:000a00000002000000000269000000]
+[inf:8369838c815b835683878393]
+<T><V0031>I can hardly wait to see you again.</V>
+!******************************!
+[hdr:000a0000000200000000029b000000]
+[inf:8369838c815b835683878393]
+<V0040><T>I wish to enlist your help in freeing
+this town from the tragedy that
+has befallen it.</V>
+!******************************!
+[hdr:000a00000002000000000200010000]
+[inf:8369838c815b835683878393]
+<V0050><T>But first, I'm sure you'll want some
+proof that you're actually in the
+future.</V>
+!******************************!
+[hdr:000a0000000200000000025d010000]
+[inf:8369838c815b835683878393]
+<V0060><T>I've thought long and hard about
+the best way of convincing you.</V>
+!******************************!
+[hdr:000a000000020000000002ac010000]
+[inf:8369838c815b835683878393]
+<V0070><T>Make your way through town to the
+address below. What you find there
+is sure to quell any doubts.</V>
+!******************************!
+[hdr:000a0000000200000000021c020000]
+[inf:8369838c815b835683878393]
+<V0080><T>Room 312
+Green Hospital
+123 Auckland Lane</V>
+!******************************!
+[hdr:00140000000254020000025d020000]
+[inf:838c834383678393]
+<T>It seems our next destination has
+been decided for us. Let's pay this
+hospital a visit.
+!******************************!
+[hdr:001400000002b802000002bf020000]
+[inf:838b815b834e]
+<T><A3/1>Sounds good, Professor. But how
+do we get to Auckland Lane?
+!******************************!
+[hdr:001400000002540200000204030000]
+[inf:838c834383678393]
+<T>It would be easy if the buses were
+running, but unfortunately that's
+not the case.
+!******************************!
+[hdr:00140000000254020000025a030000]
+[inf:838c834383678393]
+<T>Perhaps that lady over there
+knows of a different way to get
+around town.
+!******************************!

@@ -1,0 +1,91 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>What's this contraption,
+Professor?
+!******************************!
+[hdr:000a000000022e0000000237000000]
+[inf:838c834383678393]
+<T>It appears to be a peculiar set of
+goggles.
+!******************************!
+[hdr:000a00000002000000000266000000]
+[inf:838b815b834e]
+<T>I think they're too big for me...
+!******************************!
+[hdr:000a000000022e000000028b000000]
+[inf:838c834383678393]
+<T>Let's see...<W> Ah, this is some sort
+of personal projection device.
+!******************************!
+[hdr:000a000000020000000002d3000000]
+[inf:838b815b834e]
+<T>Personal what?
+!******************************!
+[hdr:000a000000022e00000002e5000000]
+[inf:838c834383678393]
+<T><A1/2>Think of it as a television for one,
+Luke. Only the wearer can see the
+image displayed inside.
+!******************************!
+[hdr:000a000000022e000000024d010000]
+[inf:838c834383678393]
+<T>I'd wager that there's a puzzle in
+these goggles that only the wearer
+can see.
+!******************************!
+[hdr:000a000000022e000000029f010000]
+[inf:838c834383678393]
+<T>Solving it is probably the only way
+to get through this door.
+!******************************!
+[hdr:000a000000020000000002e0010000]
+[inf:838b815b834e]
+<T><A4/1>Now that's high-tech!
+!******************************!
+[hdr:000a000000022e00000002ff010000]
+[inf:838c834383678393]
+<T>They should fit me comfortably.
+Let's have a look.
+!******************************!
+[hdr:001400000002000000000235020000]
+[inf:838b815b834e]
+<T>What do you see, Professor?
+!******************************!
+[hdr:001e0000000254020000025b020000]
+[inf:8341838d837d]
+<T>Tee hee! Those glasses make you
+look like a bug! A robot bug!
+!******************************!
+[hdr:001e000000029c02000002b1020000]
+[inf:838c83438367839381698353815b834f838b816a]
+<T>I think something's coming into
+focus here.
+!******************************!
+[hdr:00e8030000029c02000002e0020000]
+[inf:838c83438367839381698353815b834f838b816a]
+<T>I need to rest for a moment. These
+glasses have a very tiring effect
+on the eyes.
+!******************************!
+[hdr:00d0070000029c0200000235030000]
+[inf:838c83438367839381698353815b834f838b816a]
+<T>All right. Time to give this one
+another try.
+!******************************!
+[hdr:00b80b0000022e0000000266030000]
+[inf:838c834383678393]
+<T>Phew! What a relief to take those
+off. I was feeling all light-headed
+and was having trouble focusing.
+!******************************!
+[hdr:00b80b0000020000000002d0030000]
+[inf:838b815b834e]
+<T><A3/2>But it was all worth it! Thanks to
+you, the door's unlocked and we're
+free to move on!
+!******************************!
+[hdr:00a00f0000022e0000000230040000]
+[inf:838c834383678393]
+<T>I don't believe I have any desire to
+wear those strange goggles again.
+!******************************!

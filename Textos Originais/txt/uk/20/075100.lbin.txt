@@ -1,0 +1,71 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T><A1/2>The mural looks as though it's
+almost finished!
+!******************************!
+[hdr:000a0000000242000000024b000000]
+[inf:835f837e83418393]
+<T><A3/2>Yep, we're pretty close now! It's a
+real beauty. You won't find another
+mural like this in all of London.
+!******************************!
+[hdr:000a000000024200000002be000000]
+[inf:835f837e83418393]
+<T>Heh heh! I'm very proud, I have to
+say.
+!******************************!
+[hdr:000a00000002e900000002f0000000]
+[inf:838b815b834e]
+<T>Proud?<W> But didn't you say you have
+local children doing all the work?
+!******************************!
+[hdr:000a0000000242000000023c010000]
+[inf:835f837e83418393]
+<T><A2/1>Well, they're doing the painting, but
+I've done a lot of the heavy lifting!
+!******************************!
+[hdr:000a00000002420000000291010000]
+[inf:835f837e83418393]
+<T>Literally, in fact! I carried all the
+paint myself!
+!******************************!
+[hdr:000a000000024200000002c8010000]
+[inf:835f837e83418393]
+<T><A3/5>You know, one of the pots had this
+great puzzle on the side of it.
+Here, have a look!
+!******************************!
+[hdr:000a00000002000000000227020000]
+[inf:838c834383678393]
+<T><A4/2>My, you certainly have an affinity
+for paint, don't you?
+!******************************!
+[hdr:00e803000002420000000269020000]
+[inf:835f837e83418393]
+<T><A3/2>Couldn't solve it, eh? Yep, that
+puzzle's a real stumper.
+!******************************!
+[hdr:00d0070000024200000002ac020000]
+[inf:835f837e83418393]
+<T><A1/1>This puzzle requires some serious
+thought.
+!******************************!
+[hdr:00b80b0000024200000002e0020000]
+[inf:835f837e83418393]
+<T><A3/2>Wow, I think you two are the best
+puzzle solvers I've ever met!
+!******************************!
+[hdr:00b80b000002000000000229030000]
+[inf:838c834383678393]
+<T><A3/2>Well, we do get a lot of practice.
+!******************************!
+[hdr:00b80b000002420000000255030000]
+[inf:835f837e83418393]
+<T><A4/6>Impressive stuff, though. Heh heh!
+!******************************!
+[hdr:00a00f000002420000000281030000]
+[inf:835f837e83418393]
+<T><A1/1>You have to come back soon to see
+the greatest mural in London in its
+finished state.
+!******************************!

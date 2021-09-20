@@ -1,0 +1,17 @@
+[hdr:000a00000002000000000209000000]
+[inf:836f8362834a8358]
+<T>Welcome back, fellas. Hello there,
+miss. Do you have time to sit and
+have a meal?
+!******************************!
+[hdr:000a000000025e0000000267000000]
+[inf:838c834383678393]
+<T>I certainly hope so. It all smells
+very good.
+!******************************!
+[hdr:001400000002000000000298000000]
+[inf:836f8362834a8358]
+<T>Whoa there! You three aren't
+leaving without sampling the
+cuisine, surely?!
+!******************************!

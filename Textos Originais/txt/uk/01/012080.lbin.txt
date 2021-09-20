@@ -1,0 +1,39 @@
+[hdr:000a00000002000000000209000000]
+[inf:83788362834c815b]
+<T>I'll be showing you to your room
+now, Professor Layton.
+!******************************!
+[hdr:000a00000002000000000244000000]
+[inf:83788362834c815b]
+<T>My name is Becky. Please don't
+hesitate to ask me should you need
+anything.
+!******************************!
+[hdr:000a0000000293000000029a000000]
+[inf:838b815b834e]
+<T><A3/1>We know your name, Becky. You told
+us earlier, remember? <A3/2>My name is
+Luke, by the way!
+!******************************!
+[hdr:000a000000029300000002ff000000]
+[inf:838b815b834e]
+<T>Oh, and there's no need to be so
+formal. All that politeness makes
+me feel awkward.
+!******************************!
+[hdr:000a00000002000000000256010000]
+[inf:83788362834c815b]
+<T><A3/3>Shh! Granny's a stickler for
+service. I have to keep things
+formal when she's in earshot!
+!******************************!
+[hdr:000a000000029300000002b9010000]
+[inf:838b815b834e]
+<T><A4/1>Oh, I see. Righto.
+!******************************!
+[hdr:000a000000020000000002d5010000]
+[inf:83788362834c815b]
+<T><A1/1>Now then, if you two gentlemen are
+ready, I shall escort you to your
+room.<W> Right this way, please!
+!******************************!

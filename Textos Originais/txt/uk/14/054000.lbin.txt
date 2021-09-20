@@ -1,0 +1,170 @@
+[hdr:000a00000002000000000209000000]
+[inf:834e838983458358]
+<V0010><T>Ugh...</V>
+!******************************!
+[hdr:000a000000021e000000022b000000]
+[inf:8372838b8145837a815b834e]
+<V0020><T>Somebody apprehend that man
+at once!</V>
+!******************************!
+[hdr:0014000000025e0000000269000000]
+[inf:83608346838b837e815b]
+<V0030><T>You're coming with me, boy, and
+I don't want any trouble!</V>
+!******************************!
+[hdr:001e00000002b100000002ba000000]
+[inf:838c834383678393]
+<V0040><T>Inspector, a moment please?</V>
+!******************************!
+[hdr:0028000000021e00000002e4000000]
+[inf:8372838b8145837a815b834e]
+<V0050><T>Just what do you think you're
+doing? This man poses an imminent
+threat to our national security!</V>
+!******************************!
+[hdr:002800000002b10000000253010000]
+[inf:838c834383678393]
+<V0060><T>I cannot deny the damage that
+Clive has done to our city.</V>
+!******************************!
+[hdr:002800000002b1000000029b010000]
+[inf:838c834383678393]
+<V0070><T>But we can't forget that he's also
+a victim of a political agenda for
+progress, no matter the cost.</V>
+!******************************!
+[hdr:0028000000021e000000020d020000]
+[inf:8372838b8145837a815b834e]
+<V0080><T>You've got some nerve, man!</V>
+!******************************!
+[hdr:003200000002000000000237020000]
+[inf:834e838983458358]
+<V0090><T>Professor, I-</V>
+!******************************!
+[hdr:003200000002b10000000253020000]
+[inf:838c834383678393]
+<V0100><T><A1/1>Answer me one question, Clive.</V>
+!******************************!
+[hdr:003200000002b10000000286020000]
+[inf:838c834383678393]
+<T><V0101>You knew full well I'd stand in the
+way of your plot. So why did you
+send for me?</V>
+!******************************!
+[hdr:0032000000020000000002e6020000]
+[inf:834e838983458358]
+<V0110><T><A3/5>Dimitri was sure he needed you for
+his project, but I knew full well of
+the threat you posed to my plan.</V>
+!******************************!
+[hdr:003200000002000000000263030000]
+[inf:834e838983458358]
+<V0120><T>Though I suppose I still led you all
+the way to the heart of my base,
+didn't I?</V>
+!******************************!
+[hdr:0032000000020000000002c1030000]
+[inf:834e838983458358]
+<V0130><T><A1/1>At first I was just toying with you.
+But at some point, I realised I was
+enjoying our time together.</V>
+!******************************!
+[hdr:00320000000200000000023a040000]
+[inf:834e838983458358]
+<V0140><T>Maybe part of me wanted somebody
+to save me from my all-consuming
+madness.</V>
+!******************************!
+[hdr:003200000002000000000293040000]
+[inf:834e838983458358]
+<V0150><T>As you did, all those years ago...</V>
+!******************************!
+[hdr:003c00000002c404000002d1040000]
+[inf:8369838c815b835683878393]
+<V0160><T>I need to go back! My parents
+are still inside!</V>
+!******************************!
+[hdr:003c00000002c4040000020f050000]
+[inf:8369838c815b835683878393]
+<V0170><T>Pull yourself together, boy!</V>
+!******************************!
+[hdr:004600000002c4040000023a050000]
+[inf:8369838c815b835683878393]
+<V0180><T>There's nothing to be done. Jump
+back in there and you'll die too!</V>
+!******************************!
+[hdr:005000000002c4040000028b050000]
+[inf:8369838c815b835683878393]
+<V0190><T>No! No...</V>
+!******************************!
+[hdr:005a00000002b100000002a3050000]
+[inf:838c834383678393]
+<V0200><T><A3/1>That...was you?</V>
+!******************************!
+[hdr:005a000000020000000002c7050000]
+[inf:834e838983458358]
+<V0210><T><A1/4>Deep down inside, I hoped you might
+be able to talk me down from the
+edge of insanity again.</V>
+!******************************!
+[hdr:005a00000002000000000238060000]
+[inf:834e838983458358]
+<V0220><T>This is the second time you've
+saved my life now.<W150> Thank you.</V>
+!******************************!
+[hdr:005a00000002b10000000289060000]
+[inf:838c834383678393]
+<V0230><T>Clive...</V>
+!******************************!
+[hdr:005a000000020000000002a0060000]
+[inf:834e838983458358]
+<V0240><T>Don't worry about me. I intend to
+atone for my crimes.</V>
+!******************************!
+[hdr:005a000000020000000002e5060000]
+[inf:834e838983458358]
+<V0250><T>I look forward to the day we meet
+again. Until then, I hope life treats
+you well, Professor.</V>
+!******************************!
+[hdr:005a00000002b10000000250070000]
+[inf:838c834383678393]
+<V0260><T>And you too, Clive.</V>
+!******************************!
+[hdr:0064000000025e0000000272070000]
+[inf:83608346838b837e815b]
+<V0270><T>Barton, take him back to
+headquarters.</V>
+!******************************!
+[hdr:006e00000002a707000002b0070000]
+[inf:836f815b83678393]
+<V0280><T><Q><A2/1>Yes, sir!</V>
+!******************************!
+[hdr:0078000000021e00000002d1070000]
+[inf:8372838b8145837a815b834e]
+<V0290><T>Hah! Criminals like him make me
+think the whole world has gone mad.
+Despicable, just despicable.</V>
+!******************************!
+[hdr:0082000000025e0000000240080000]
+[inf:83608346838b837e815b]
+<V0300><T><A1/5>Yes, people can often be so blinded
+by their own motivations that they
+lose sight of the damage they do.</V>
+!******************************!
+[hdr:0082000000025e00000002bd080000]
+[inf:83608346838b837e815b]
+<V0310><T>But criminals aren't the only
+blind ones.</V>
+!******************************!
+[hdr:0082000000021e00000002f5080000]
+[inf:8372838b8145837a815b834e]
+<V0320><T><A2/3>Just what are you implying,
+Inspector?</V>
+!******************************!
+[hdr:0082000000025e0000000230090000]
+[inf:83608346838b837e815b]
+<V0330><T><A1/1>Nothing at all. Just stating the
+facts, sir. Now, if you'll excuse
+me, I still have work to do.</V>
+!******************************!

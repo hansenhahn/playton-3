@@ -1,0 +1,64 @@
+[hdr:000a00000002000000000209000000]
+[inf:8368838b834b815b]
+<T>Ah, hello there lad!
+!******************************!
+[hdr:000a00000002210000000228000000]
+[inf:838b815b834e]
+<T><A1/1>Oh, um, hello.
+!******************************!
+[hdr:000a00000002000000000240000000]
+[inf:8368838b834b815b]
+<T>What can I do for you?
+<W>WELL?
+!******************************!
+[hdr:000a00000002210000000263000000]
+[inf:838b815b834e]
+<T><A1/5>Uh, never mind. It's nothing,
+really. 
+!******************************!
+[hdr:000a00000002000000000293000000]
+[inf:8368838b834b815b]
+<T><A1/5>Oh, don't run away! It gets ever
+so lonely round here with no one to
+talk to.
+!******************************!
+[hdr:000a000000022100000002ea000000]
+[inf:838b815b834e]
+<T><A4/4>Oh... That's terrible...
+!******************************!
+[hdr:000a0000000200000000020c010000]
+[inf:8368838b834b815b]
+<T><A1/1>You're a good lad. Not many
+youngsters would stop to listen
+to an old man's problems.
+!******************************!
+[hdr:000a0000000200000000026b010000]
+[inf:8368838b834b815b]
+<T>Here's a little something for your
+kindness.
+!******************************!
+[hdr:000a0000000221000000029b010000]
+[inf:838b815b834e]
+<T>Huh?
+!******************************!
+[hdr:00e8030000020000000002a3010000]
+[inf:8368838b834b815b]
+<T><A1/5>Having a spot of trouble with my
+puzzle?<A2/5><W> <A1/5>WELL?<W> Don't fret. If you
+keep at it, you'll get it eventually.
+!******************************!
+[hdr:00d007000002000000000226020000]
+[inf:8368838b834b815b]
+<T><A1/5>Back for another crack at that
+puzzle?<A2/5><W> <A1/5>WELL?
+!******************************!
+[hdr:00b80b00000200000000026b020000]
+[inf:8368838b834b815b]
+<T><A1/5>Well, aren't you bright as a button!
+!******************************!
+[hdr:00a00f000002000000000299020000]
+[inf:8368838b834b815b]
+<T><A1/5>What's that? You want to solve
+another puzzle?<A2/5><W> <A1/5>WELL?<W> I'll think
+of one. Give me a minute.
+!******************************!

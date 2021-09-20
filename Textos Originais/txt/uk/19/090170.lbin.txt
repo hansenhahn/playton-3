@@ -1,0 +1,12 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>After passing through Belltower
+Gate, Luke and the others notice 
+that Layton is missing.
+!******************************!
+[hdr:00140000000200000000026a000000]
+[inf:8369838c815b835683878393]
+<T>Not without some trepidation, the
+group continue to the pagoda,
+following Layton's instructions.
+!******************************!

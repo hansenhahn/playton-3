@@ -1,0 +1,26 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Wow! Look at this!
+!******************************!
+[hdr:000a000000021d0000000226000000]
+[inf:838c834383678393]
+<T>I think it's safe to say that we've
+arrived at Dimitri's research 
+facility.
+!******************************!
+[hdr:000a0000000276000000027d000000]
+[inf:8341838d837d]
+<T>Do you think the prime minister is
+being held here, Professor?
+!******************************!
+[hdr:000a000000021d00000002bf000000]
+[inf:838c834383678393]
+<T>That's more than likely, which
+would mean the place is probably
+under very heavy guard.
+!******************************!
+[hdr:000a000000021d000000021a010000]
+[inf:838c834383678393]
+<T><A2/1>Be on the lookout for trouble,
+everyone.
+!******************************!

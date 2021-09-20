@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:835f837e83418393]
+<T>My mural is nearly finished! You'll
+soon be able to see it in all its
+glory!
+!******************************!

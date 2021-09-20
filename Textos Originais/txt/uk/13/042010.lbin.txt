@@ -1,0 +1,15 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<V0010><T>Our first priority is finding where
+Clive has taken Flora.</V>
+!******************************!
+[hdr:000a00000002520000000259000000]
+[inf:838b815b834e]
+<V0020><T>Aye aye, Professor!<W> <A4/4>But this place
+is huge! They could be anywhere!</V>
+!******************************!
+[hdr:000a000000020000000002b4000000]
+[inf:838c834383678393]
+<V0030><T>First things first. Let's find a
+way in.</V>
+!******************************!

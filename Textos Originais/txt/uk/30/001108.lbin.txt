@@ -1,0 +1,34 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+It's not showing any
+signs of movement. It
+must be for show.
+!******************************!
+[hdr:00140000000244000000024d000000]
+[inf:838c834383678393]
+This is one of the
+entrances to the
+arcade.
+!******************************!
+[hdr:001e00000002440000000279000000]
+[inf:838c834383678393]
+{''}Graffiti prohibited!{''}
+...according to this
+piece of graffiti.
+!******************************!
+[hdr:002800000002be00000002c5000000]
+[inf:8341838d837d]
+What a nice stripy
+pattern on that
+house!
+!******************************!
+[hdr:003200000002ef00000002f8000000]
+[inf:834e838983458358]
+Arcades like this are
+a fairly recent
+development.
+!******************************!
+[hdr:000f270000022b0100000232010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

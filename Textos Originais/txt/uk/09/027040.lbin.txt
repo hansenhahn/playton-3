@@ -1,0 +1,100 @@
+[hdr:000a00000002000000000209000000]
+[inf:838f838b837e815b]
+<T><A2/5>So, you're the one who's been
+bullyin' my bruvver Barmey! You're
+gonna pay for that!
+!******************************!
+[hdr:000a00000002670000000272000000]
+[inf:96a29788838b815b834e]
+<T><A4/1>Well well. Look who went crying to
+the older boys.<W> What an impressive
+act of bravery.
+!******************************!
+[hdr:000a00000002d400000002df000000]
+[inf:838f838b815b83678393]
+<T>Quiet, you! What was I supposed to
+do back there? I was outnumbered!
+!******************************!
+[hdr:000a00000002670000000227010000]
+[inf:96a29788838b815b834e]
+<T><A4/2>There, there, I understand. You're
+only small and you knew you had
+no chance of stopping us.
+!******************************!
+[hdr:000a0000000267000000028d010000]
+[inf:96a29788838b815b834e]
+<T>So, you're getting this big lump
+here to do the dirty work for you.
+!******************************!
+[hdr:000a000000020000000002d4010000]
+[inf:838f838b837e815b]
+<T><A3/5>Hmph! Sticks and stones, sunshine!
+!******************************!
+[hdr:000a00000002000000000200020000]
+[inf:838f838b837e815b]
+<T>Believe you me, if the boss allowed
+violence in the pagoda, I'd have
+pounded you already!
+!******************************!
+[hdr:000a0000000200000000025d020000]
+[inf:838f838b837e815b]
+<T>Since I can't do that, I'll have to
+sock it to you with this vicious
+puzzle!
+!******************************!
+[hdr:001400000002ad02000002b6020000]
+[inf:838c834383678393]
+<T>Would you like me to deal with this
+one, Big Luke?
+!******************************!
+[hdr:001e000000026700000002ec020000]
+[inf:96a29788838b815b834e]
+<T><A1/2>Don't trouble yourself with this
+piece of riff-raff, Professor. I
+can handle anything he dishes out.
+!******************************!
+[hdr:00e80300000267000000025a030000]
+[inf:96a29788838b815b834e]
+<T>This puzzle's no joke.
+!******************************!
+[hdr:00e803000002ad0200000274030000]
+[inf:838c834383678393]
+<T>Would you like me to step in for
+you, Luke?
+!******************************!
+[hdr:00e8030000026700000002a3030000]
+[inf:96a29788838b815b834e]
+<T>I appreciate the offer, but I've
+got this, Professor. I just need a
+break to regain my focus.
+!******************************!
+[hdr:00d007000002670000000204040000]
+[inf:96a29788838b815b834e]
+<T>All right, let's try this again!
+!******************************!
+[hdr:00b80b000002670000000228040000]
+[inf:96a29788838b815b834e]
+<T><A1/5>So much for that puzzle. What are
+you going to do now?
+!******************************!
+[hdr:00b80b000002000000000268040000]
+[inf:838f838b837e815b]
+<T>Hmph! You're lucky the boss
+doesn't let me rough people up
+in here.
+!******************************!
+[hdr:00b80b0000020000000002af040000]
+[inf:838f838b837e815b]
+<T>But you've gotta go outside at
+some point, and when you do, watch
+your back!
+!******************************!
+[hdr:00b80b000002d400000002ff040000]
+[inf:838f838b815b83678393]
+<T>Yeah! Too right!
+!******************************!
+[hdr:00c20b000002670000000213050000]
+[inf:96a29788838b815b834e]
+<T><A1/2>All bark and no bite. Come on,
+everyone. We've got places to be!
+!******************************!

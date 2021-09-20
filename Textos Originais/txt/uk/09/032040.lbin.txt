@@ -1,0 +1,98 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Aha! There's a trapdoor here!
+!******************************!
+[hdr:000a00000002280000000231000000]
+[inf:838c834383678393]
+<T>Then my hunch was right. It looks
+as if we've found a way out of here.
+!******************************!
+[hdr:0014000000027b0000000288000000]
+[inf:836883938145837c815b838b]
+<T><A2/3>Oof! They must have built this
+stairwell for men less, er, buff and
+muscular than me!
+!******************************!
+[hdr:0014000000027b00000002e7000000]
+[inf:836883938145837c815b838b]
+<T><A3/5>And there's more than one path!
+Which way do we go, Layton?
+!******************************!
+[hdr:001e000000022c0100000237010000]
+[inf:96a29788838b815b834e]
+<T>Look, there's a map here that
+charts out the network of tunnels
+below us.
+!******************************!
+[hdr:001e00000002280000000284010000]
+[inf:838c834383678393]
+<T>Let me see. <W>My, this is a bit of a
+tangled mess, isn't it?
+!******************************!
+[hdr:00e8030000022800000002c5010000]
+[inf:838c834383678393]
+<T>Strange. I was sure I'd found a
+way through. I'll just have to try
+again.
+!******************************!
+[hdr:00d007000002280000000212020000]
+[inf:838c834383678393]
+<T>We need to plot our escape route
+before heading down.
+!******************************!
+[hdr:00b80b0000022c010000024b020000]
+[inf:96a29788838b815b834e]
+<T><A1/4>The passages below are too narrow
+for all of us to move through at
+the same time.
+!******************************!
+[hdr:00b80b0000022c01000002a6020000]
+[inf:96a29788838b815b834e]
+<T>If we want to get out of here
+quickly, we'll need to split into
+two groups.
+!******************************!
+[hdr:00b80b0000022800000002f5020000]
+[inf:838c834383678393]
+<T>Hmm. I don't like it, but it seems
+we've no choice. Now, who should I
+take with me...?
+!******************************!
+[hdr:00c20b0000027b000000024f030000]
+[inf:836883938145837c815b838b]
+<T><A1/1>You always get to be the gentleman.
+This time, I want to escort the
+young lady.
+!******************************!
+[hdr:00c20b0000022800000002a8030000]
+[inf:838c834383678393]
+<T>Sorry, but I'd prefer you to come
+with me, Don Paolo.
+!******************************!
+[hdr:00cc0b0000022c01000002e1030000]
+[inf:96a29788838b815b834e]
+<T><A2/2>Very well then. Flora and I will go
+together.
+!******************************!
+[hdr:00cc0b0000022c0100000218040000]
+[inf:96a29788838b815b834e]
+<T>Luke, you go with the professor
+and help him keep an eye on Don
+Paolo.
+!******************************!
+[hdr:00d60b000002620400000269040000]
+[inf:8341838d837d]
+<T><A1/5>Trade with me, Little Luke! I want
+to be in the professor's group.
+!******************************!
+[hdr:00d60b0000022800000002b5040000]
+[inf:838c834383678393]
+<T><A3/2>We'll see each other soon enough,
+Flora.<W> Go with Big Luke, and we'll
+meet back at the hotel.
+!******************************!
+[hdr:00e00b0000022c010000021e050000]
+[inf:96a29788838b815b834e]
+<T>All right, the groups are set.<W>
+Let's get moving.
+!******************************!

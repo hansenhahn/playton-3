@@ -1,0 +1,116 @@
+[hdr:000a0000000200000000020d000000]
+[inf:83718351837d83748389815b]
+<T>Keh heh heh. Well well, look who's
+back!
+!******************************!
+[hdr:000a00000002390000000240000000]
+[inf:838b815b834e]
+<T>Mr...Stachenscarfen?!
+!******************************!
+[hdr:000a00000002000000000259000000]
+[inf:83718351837d83748389815b]
+<T>The one and only!<W> And who's your
+feathered friend there?
+!******************************!
+[hdr:000a00000002390000000298000000]
+[inf:838b815b834e]
+<T>Oh, you mean <N1>?
+!******************************!
+[hdr:000a00000002ae00000002b5000000]
+[inf:834983458380]
+<T>Rrrrrawk! Nice to meetchoo,
+meetchoo!
+!******************************!
+[hdr:000a000000020000000002de000000]
+[inf:83718351837d83748389815b]
+<T>Keh heh heh! Nice to meet you too,
+birdie.
+!******************************!
+[hdr:000a0000000200000000020c010000]
+[inf:83718351837d83748389815b]
+<T>Say, you seem like a dependable lot.
+Can I ask you a favour?
+!******************************!
+[hdr:000a0000000200000000024c010000]
+[inf:83718351837d83748389815b]
+<T>I've recently become rather fond
+of mushrooms. Especially those
+little red ones, they're dee-licious!
+!******************************!
+[hdr:000a000000020000000002b5010000]
+[inf:83718351837d83748389815b]
+<T>That's where you come in. I'd like
+you to seek out one of those fine 
+fungi and bring it back to me!
+!******************************!
+[hdr:000a0000000239000000021d020000]
+[inf:838b815b834e]
+<T>A small, red, delicious mushroom...
+I haven't a clue where we could find
+one of those.
+!******************************!
+[hdr:000a00000002ae0000000277020000]
+[inf:834983458380]
+<T>Awwwrk! <N1> knows!
+<N1> get!
+!******************************!
+[hdr:000a00000002000000000298020000]
+[inf:83718351837d83748389815b]
+<T>Keh heh heh! Now, that's the kind
+of can-do attitude I like, birdie.
+But are you really up to the task?
+!******************************!
+[hdr:000a00000002390000000203030000]
+[inf:838b815b834e]
+<T><N1>'s no ordinary
+parrot! This should be a
+doddle for him.
+!******************************!
+[hdr:00140000000242030000024f030000]
+[inf:8369838c815b835683878393]
+<T><N1> can now take on
+requests from people you meet
+during your adventure!<Q><W30><J403></J>
+!******************************!
+[hdr:0014000000024203000002ae030000]
+[inf:8369838c815b835683878393]
+<T>Help <N1> complete the
+requests given in the Parrot
+minigame, available in the trunk.
+!******************************!
+[hdr:001400000002420300000207040000]
+[inf:8369838c815b835683878393]
+<T>The more requests you succeed in
+completing, the more skilful
+<N1> becomes.
+!******************************!
+[hdr:001400000002420300000256040000]
+[inf:8369838c815b835683878393]
+<T>If you complete enough requests,
+he'll start to help you find hidden
+hint coins.
+!******************************!
+[hdr:0014000000024203000002aa040000]
+[inf:8369838c815b835683878393]
+<T>See if you can help <N1>
+complete every delivery
+request you come across.
+!******************************!
+[hdr:001e000000020000000002f7040000]
+[inf:83718351837d83748389815b]
+<T>Let's get this show on the road.
+Open the Parrot minigame in the
+trunk and select my request.
+!******************************!
+[hdr:001e00000002000000000258050000]
+[inf:83718351837d83748389815b]
+<T>Fetching my mushroom should be no
+problem for your parrot if he's
+half the bird you say he is. 
+!******************************!
+[hdr:001e000000020000000002bb050000]
+[inf:83718351837d83748389815b]
+<T>Now hurry! I can't get enough of
+those little red mushrooms - you
+just have to bring me one, quick!
+!******************************!

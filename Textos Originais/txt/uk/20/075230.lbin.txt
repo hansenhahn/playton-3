@@ -1,0 +1,14 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>This place is all locked up.
+!******************************!
+[hdr:000a00000002270000000230000000]
+[inf:838c834383678393]
+<T>It doesn't look as though anyone's
+there. Perhaps we should try again
+later.
+!******************************!
+[hdr:000a00000002000000000280000000]
+[inf:838b815b834e]
+<T>Sounds good to me.
+!******************************!

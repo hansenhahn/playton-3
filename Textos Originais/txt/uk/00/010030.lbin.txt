@@ -1,0 +1,47 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A3/2>I've never seen so many clocks in
+one place!
+!******************************!
+[hdr:000a000000023d0000000246000000]
+[inf:838c834383678393]
+<T><A4/2>Yes, and they're all extremely well
+made. Whoever built them must be
+very talented.
+!******************************!
+[hdr:000a000000020000000002a3000000]
+[inf:838b815b834e]
+<T><A1/1>Really? How can you tell that just
+by looking at them?
+!******************************!
+[hdr:000a000000023d00000002e3000000]
+[inf:838c834383678393]
+<T>Ho ho! One gains an eye for these
+things with age, my boy.
+!******************************!
+[hdr:000a000000023d0000000221010000]
+[inf:838c834383678393]
+<T><A2/2>You know, this might be the ideal
+time for this clock puzzle of mine.
+!******************************!
+[hdr:000a000000023d0000000270010000]
+[inf:838c834383678393]
+<T>Care to try it?
+!******************************!
+[hdr:000a00000002000000000283010000]
+[inf:838b815b834e]
+<T><A3/2>You bet I would, Professor!
+!******************************!
+[hdr:00e8030000023d00000002a8010000]
+[inf:838c834383678393]
+<T>Giving up, are you?<W> Very well.
+!******************************!
+[hdr:00d0070000023d00000002cd010000]
+[inf:838c834383678393]
+<T><A1/2>Let's revisit that puzzle about
+the clock, shall we?
+!******************************!
+[hdr:00b80b0000023d000000020b020000]
+[inf:838c834383678393]
+<T><A1/2>Spot on, Luke. Good work.
+!******************************!

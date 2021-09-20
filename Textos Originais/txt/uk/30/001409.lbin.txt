@@ -1,0 +1,33 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+Whoa! I've never seen
+a tortoise this big
+before!
+!******************************!
+[hdr:001400000002390000000242000000]
+[inf:838c834383678393]
+Who'd have thought
+there were so many
+products for pets?
+!******************************!
+[hdr:001e000000027b0000000282000000]
+[inf:8341838d837d]
+Oh look! There are
+fish tanks here as
+well!
+!******************************!
+[hdr:002800000002ae00000002b7000000]
+[inf:834e838983458358]
+No animals to talk to
+in these cages.
+!******************************!
+[hdr:0032000000020000000002dd000000]
+[inf:838b815b834e]
+<N1>
+probably doesn't need
+one of these.
+!******************************!
+[hdr:000f2700000206010000020d010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

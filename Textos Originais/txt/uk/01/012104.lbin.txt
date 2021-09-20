@@ -1,0 +1,17 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>You received the latest and
+greatest in toy cars from the
+hotel manager, Margaret.
+!******************************!
+[hdr:000a00000002000000000263000000]
+[inf:8369838c815b835683878393]
+<T>The Toy Car minigame has been
+added to the trunk.
+!******************************!
+[hdr:000a00000002000000000298000000]
+[inf:8369838c815b835683878393]
+<T>Use your wits to steer your car
+through a number of twisty,
+obstacle-ridden courses.
+!******************************!

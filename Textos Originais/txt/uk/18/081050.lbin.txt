@@ -1,0 +1,19 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>How very strange. I do believe
+we've found a hidden puzzle.
+!******************************!
+[hdr:00e803000002000000000248000000]
+[inf:838c834383678393]
+<T><A4/1>My, this puzzle is proving to be a
+rather tough nut to crack.
+!******************************!
+[hdr:00d00700000200000000028f000000]
+[inf:838c834383678393]
+<T>Ah yes, that's right. I forgot to
+finish this hidden puzzle earlier.
+!******************************!
+[hdr:00b80b0000020000000002d7000000]
+[inf:838c834383678393]
+<T><A1/2>I suppose that takes care of that.
+!******************************!

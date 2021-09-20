@@ -1,0 +1,81 @@
+[hdr:000a00000002000000000209000000]
+[inf:8366834283898393]
+<T>What's up, fellas?
+!******************************!
+[hdr:000a000000021f0000000226000000]
+[inf:838b815b834e]
+<T>We went to see the man in the
+Towering Pagoda, but he was out.
+Do you know where he might be?
+!******************************!
+[hdr:000a00000002000000000287000000]
+[inf:8366834283898393]
+<T><A2/6>I've got a pretty good idea...
+<A2/5>But I'm not telling. He's dangerous.
+You don't wanna tangle with him.
+!******************************!
+[hdr:000a00000002fb0000000204010000]
+[inf:838c834383678393]
+<T>Come now, surely there's no harm
+in letting us know where he might
+be?
+!******************************!
+[hdr:000a0000000200000000024e010000]
+[inf:8366834283898393]
+<T>You're wrong there, but...<A1/4>I s'pose
+I can tell you what I've heard. It's
+just a rumour, though.
+!******************************!
+[hdr:000a000000020000000002b6010000]
+[inf:8366834283898393]
+<T>You sure you wanna know this?
+I'm telling you, this fella's bad
+news.<W> Proper bad.
+!******************************!
+[hdr:000a000000021f000000020e020000]
+[inf:838b815b834e]
+<T>We can handle it. What have you
+heard?
+!******************************!
+[hdr:000a00000002000000000238020000]
+[inf:8366834283898393]
+<T>People say he disguises himself and
+goes walking around town.
+!******************************!
+[hdr:000a00000002000000000279020000]
+[inf:8366834283898393]
+<T>He could be standing next to us now
+and we wouldn't even know!
+!******************************!
+[hdr:000a000000020000000002bb020000]
+[inf:8366834283898393]
+<T>Scary stuff, eh?<W> Actually, I'm
+getting spooked myself, so let's
+end this little chat, okay?<W> Laters.
+!******************************!
+[hdr:0014000000021f0000000228030000]
+[inf:838b815b834e]
+<T>Why would the professor of the
+future want to dress up and run
+around town?
+!******************************!
+[hdr:0014000000021f0000000277030000]
+[inf:838b815b834e]
+<T>You never do that, Professor.
+!******************************!
+[hdr:001400000002fb0000000298030000]
+[inf:838c834383678393]
+<T>Oh? How would you know, Luke?
+!******************************!
+[hdr:0014000000021f00000002b9030000]
+[inf:838b815b834e]
+<T><A1/6>Huh?
+!******************************!
+[hdr:001400000002fb00000002c7030000]
+[inf:838c834383678393]
+<T><A1/2>Ha ha. Just pulling your leg, my boy.
+!******************************!
+[hdr:001e000000020000000002f6030000]
+[inf:8366834283898393]
+<T>You be careful out there, all right?
+!******************************!

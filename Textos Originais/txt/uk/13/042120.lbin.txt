@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000207000000]
+[inf:8341838d837d]
+<T><A2/5>Oh my gosh! We're so high up!
+!******************************!
+[hdr:000a000000022e0000000235000000]
+[inf:838b815b834e]
+<T>You're not wrong there, Flora, this
+machine is enormous. Just what
+could Clive be planning?
+!******************************!

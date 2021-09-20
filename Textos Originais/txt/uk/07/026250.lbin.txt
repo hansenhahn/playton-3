@@ -1,0 +1,72 @@
+[hdr:000a00000002000000000207000000]
+[inf:837d815b8384]
+<T>Welcome to Maya's Miles of Books!
+What kind of reading material are
+you looking for today?
+!******************************!
+[hdr:000a0000000265000000026c000000]
+[inf:838b815b834e]
+<T>Erm, let's see...<W> How about some
+books on British history?
+!******************************!
+[hdr:000a000000020000000002ad000000]
+[inf:837d815b8384]
+<T><A4/1>Of course! But that's a rather
+broad topic. What time period
+are you most interested in?
+!******************************!
+[hdr:000a0000000265000000020f010000]
+[inf:838b815b834e]
+<T><A4/2>Hey look! Here's a book on King
+Arthur. Cor!
+!******************************!
+[hdr:000a00000002000000000245010000]
+[inf:837d815b8384]
+<T><A3/1>Ah yes, King Arthur. Technically,
+that's more legend than historical
+fact...
+!******************************!
+[hdr:000a0000000200000000029b010000]
+[inf:837d815b8384]
+<T>But it's a fascinating story all the
+same. I like the stories about the
+Knights of the Round Table...
+!******************************!
+[hdr:00e803000002650000000204020000]
+[inf:838b815b834e]
+<T>I think I need to do a bit more
+research on the topic before
+tackling that puzzle again.
+!******************************!
+[hdr:00d007000002000000000260020000]
+[inf:837d815b8384]
+<T>Would you like to hear that puzzle
+about King Arthur's Round Table
+again?
+!******************************!
+[hdr:00b80b0000020000000002ad020000]
+[inf:837d815b8384]
+<T>Nicely done!<W> So, will you be buying
+that book?
+!******************************!
+[hdr:00b80b0000026500000002e2020000]
+[inf:838b815b834e]
+<T><A4/4>Thanks, but I think I'll hold off for
+now. It looks like some really heavy
+reading.
+!******************************!
+[hdr:00b80b0000023f0300000248030000]
+[inf:838c834383678393]
+<T><A2/2>Don't be afraid to dive headlong
+into a good book now and again,
+Luke. There's much to be learned.
+!******************************!
+[hdr:00b80b0000020000000002b4030000]
+[inf:837d815b8384]
+<T><A5/1>Well put, sir!
+!******************************!
+[hdr:00a00f0000020000000002cc030000]
+[inf:837d815b8384]
+<T>Let me know if I can help you find
+something!
+!******************************!

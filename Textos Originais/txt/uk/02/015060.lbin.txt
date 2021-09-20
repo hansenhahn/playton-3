@@ -1,0 +1,21 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Here we are, back on Flatstone
+Street.
+!******************************!
+[hdr:000a0000000233000000023a000000]
+[inf:838b815b834e]
+<T><A2/1>Yes, but I can't see anything
+around here that looks like a
+casino.
+!******************************!
+[hdr:000a00000002000000000287000000]
+[inf:838c834383678393]
+<T>I think our best bet would be to ask
+a local.
+!******************************!
+[hdr:000a000000023300000002b8000000]
+[inf:838b815b834e]
+<T><A3/1>Oh look! There's someone we can
+ask! Wait here, Professor.
+!******************************!

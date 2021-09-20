@@ -1,0 +1,15 @@
+[hdr:000a00000002000000000209000000]
+[inf:835f837e83418393]
+<T>Hello friends! Nice of you to drop
+by again.
+!******************************!
+[hdr:000a00000002390000000242000000]
+[inf:838c834383678393]
+<T>How's the mural coming along?
+!******************************!
+[hdr:000a00000002000000000263000000]
+[inf:835f837e83418393]
+<T>Swimmingly! I have a feeling it's
+going to be a real masterpiece when
+it's done!
+!******************************!

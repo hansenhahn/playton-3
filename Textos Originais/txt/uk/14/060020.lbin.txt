@@ -1,0 +1,59 @@
+[hdr:000a00000002000000000209000000]
+[inf:835783838362834e]
+<T>All this time, I never imagined the
+young sir was planning something
+so terrible.
+!******************************!
+[hdr:000a000000025e0000000267000000]
+[inf:838c834383678393]
+<T>You knew Clive's true identity from
+the start, didn't you?
+!******************************!
+[hdr:000a000000020000000002a5000000]
+[inf:835783838362834e]
+<T>Of course. The wife and I have
+served the Dove family and the
+young master for years.
+!******************************!
+[hdr:000a000000020000000002fe000000]
+[inf:835783838362834e]
+<T>He was always such a good boy.
+When he asked so nicely for my help,
+I couldn't refuse.
+!******************************!
+[hdr:000a00000002000000000258010000]
+[inf:835783838362834e]
+<T>Had I known what he was up to,
+I would never have agreed.
+!******************************!
+[hdr:000a00000002000000000295010000]
+[inf:835783838362834e]
+<T>It pains me to think that I might
+have prevented all of this.
+!******************************!
+[hdr:000a000000025e00000002d6010000]
+[inf:838c834383678393]
+<T>Don't be too hard on yourself,
+Cogg. What's done is done.
+!******************************!
+[hdr:000a00000002000000000213020000]
+[inf:835783838362834e]
+<T>Well, at the very least, I can try
+to make up for what I've done.
+!******************************!
+[hdr:000a00000002000000000258020000]
+[inf:835783838362834e]
+<T>Tell everyone you meet to come
+here and I'll take them above
+ground using the lift.
+!******************************!
+[hdr:0014000000020000000002af020000]
+[inf:835783838362834e]
+<T>I'll make sure everyone down here
+gets back to the surface safely.
+!******************************!
+[hdr:0014000000020000000002f5020000]
+[inf:835783838362834e]
+<T>Please, just stop the young sir and
+bring him back to us.
+!******************************!

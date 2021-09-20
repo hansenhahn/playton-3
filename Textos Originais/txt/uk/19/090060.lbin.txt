@@ -1,0 +1,18 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>As they approach Chinatown, 
+our heroes are blocked by two 
+Family henchmen at the gate.
+!******************************!
+[hdr:000a00000002000000000269000000]
+[inf:8369838c815b835683878393]
+<T>This encounter reminds Layton
+of Inspector Chelmey, and some 
+questions he'd like to ask him.
+!******************************!
+[hdr:0014000000020000000002ca000000]
+[inf:8369838c815b835683878393]
+<T>Aided by Future Luke, Layton and
+Luke look for a way to return to
+the present to speak to Chelmey.
+!******************************!

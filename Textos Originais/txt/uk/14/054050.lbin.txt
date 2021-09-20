@@ -1,0 +1,37 @@
+[hdr:000a0000000200000000020d000000]
+[inf:83668342837e8367838a815b]
+<V0010><T>I don't know what to say. When I
+think of all the suffering I caused
+in the name of research...</V>
+!******************************!
+[hdr:000a000000027b0000000284000000]
+[inf:838c834383678393]
+<V0020><T>It was terrible. But I see you must
+have loved Claire very much to do
+what you did.</V>
+!******************************!
+[hdr:000a000000020000000002e6000000]
+[inf:83668342837e8367838a815b]
+<V0030><T>The more I reflect on it, the more
+unsure I am as to whether it was
+love...or pride that compelled me.</V>
+!******************************!
+[hdr:000a0000000200000000025b010000]
+[inf:83668342837e8367838a815b]
+<V0040><T>For 10 long years, I chased after
+what so many called impossible...<W>
+But I've come to my senses now.</V>
+!******************************!
+[hdr:000a000000027b00000002d0010000]
+[inf:838c834383678393]
+<V0050><T><K><A4/3>Hmm.</V>
+!******************************!
+[hdr:000a000000020000000002ec010000]
+[inf:83668342837e8367838a815b]
+<V0060><T><A3/5>But, you know, Hershel, there is one
+detail that you got wrong.</V>
+!******************************!
+[hdr:000a000000027b0000000240020000]
+[inf:838c834383678393]
+<V0070><T><A1/1>What are you referring to?</V>
+!******************************!

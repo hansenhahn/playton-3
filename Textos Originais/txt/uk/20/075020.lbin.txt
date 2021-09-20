@@ -1,0 +1,16 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A3/2>It looks like your mural is coming
+along nicely!
+!******************************!
+[hdr:000a0000000241000000024a000000]
+[inf:835f837e83418393]
+<T>Heh heh! Isn't it, though? I asked
+some of the local children to help.
+They love painting!
+!******************************!
+[hdr:000a000000020000000002a8000000]
+[inf:838b815b834e]
+<T><A4/2>Well, it's looking great so far. I
+can't wait to see how it turns out!
+!******************************!

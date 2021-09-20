@@ -1,0 +1,11 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>I bet the view from the observatory
+is out of this world!
+!******************************!
+[hdr:000a0000000244000000024f000000]
+[inf:96a29788838b815b834e]
+<T><A3/5>It is rather nice, but we don't have
+time to stop. We must press on to
+the clock shop!
+!******************************!

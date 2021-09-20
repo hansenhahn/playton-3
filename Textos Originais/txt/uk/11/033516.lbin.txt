@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:8354838a83418358]
+<V0010><T>The answer to everything lies in the
+old father's embrace! It is there
+we will meet next!</V>
+!******************************!

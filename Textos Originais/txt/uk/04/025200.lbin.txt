@@ -1,0 +1,336 @@
+[hdr:000a00000002000000000209000000]
+[inf:835783838362834e]
+<T>I thought I heard voices out front.
+!******************************!
+[hdr:000a00000002000000000230000000]
+[inf:835783838362834e]
+<T>Nice to see you again, Professor
+and er...
+!******************************!
+[hdr:000a000000025e0000000265000000]
+[inf:838b815b834e]
+<T><A3/2>Luke! The professor's apprentice!
+!******************************!
+[hdr:000a00000002000000000290000000]
+[inf:835783838362834e]
+<T><A2/1>Yes, yes, Luke, of course.
+!******************************!
+[hdr:001400000002b400000002bf000000]
+[inf:96a29788838b815b834e]
+<T>Would you mind telling them about
+the wormhole and how it all
+started, Cogg?
+!******************************!
+[hdr:001400000002b4000000020f010000]
+[inf:96a29788838b815b834e]
+<T>I think it would help to have
+everyone on the same page.
+!******************************!
+[hdr:00140000000200000000024b010000]
+[inf:835783838362834e]
+<T>It'd be my pleasure.<W> Now then, Luke!
+Erm...<W>the smaller Luke, that is.
+!******************************!
+[hdr:001e000000025e000000029a010000]
+[inf:838b815b834e]
+<T><A3/1>Yes?
+!******************************!
+[hdr:001e000000020000000002a8010000]
+[inf:835783838362834e]
+<T>Tell me, lad. What does this
+contraption behind me look like
+to you?
+!******************************!
+[hdr:001e000000025e00000002f0010000]
+[inf:838b815b834e]
+<T>A big, old clock.
+!******************************!
+[hdr:001e00000002000000000205020000]
+[inf:835783838362834e]
+<T>Right you are. By my estimate, this
+clock is well over a hundred years
+old.
+!******************************!
+[hdr:001e00000002000000000254020000]
+[inf:835783838362834e]
+<T>The old girl needs a lot of TLC to
+keep chugging along, so I spend
+quite a bit of time on maintenance.
+!******************************!
+[hdr:001e000000020000000002be020000]
+[inf:835783838362834e]
+<T>I was right in the middle of oiling
+her gears one day when two Family
+thugs burst in...
+!******************************!
+[hdr:002800000002190300000224030000]
+[inf:8353838d8362834c815b]
+<T>Here we go. This has gotta be the
+place the boss was talkin' about.
+!******************************!
+[hdr:0028000000026b0300000274030000]
+[inf:8373838983938360]
+<T>Too right. Hey, boss! There's a big
+clock here, just like you said. It's
+a proper antique, look!
+!******************************!
+[hdr:0032000000020000000002d8030000]
+[inf:835783838362834e]
+<T><A1/1>Hey you! What do you think you're
+doing, barging into my shop? Get
+your hands off my clock!
+!******************************!
+[hdr:00320000000219030000023d040000]
+[inf:8353838d8362834c815b]
+<T>Shut it, you old codger! You don't
+tell us what to do. Don't you know
+who you're dealin' with?
+!******************************!
+[hdr:00320000000200000000029f040000]
+[inf:835783838362834e]
+<T>I'm dealing with a load of clods
+who won't get out of my shop!
+!******************************!
+[hdr:0032000000026b03000002e1040000]
+[inf:8373838983938360]
+<T><A3/3>I'd keep a civil tongue in my head
+if I were you, grandad.
+!******************************!
+[hdr:0032000000026b0300000225050000]
+[inf:8373838983938360]
+<T>Now get outta the way! We've got a
+schedule to keep here.
+!******************************!
+[hdr:003c0000000262050000026b050000]
+[inf:837b83588367838d]
+<T><A4/0>What are you clowns waitin'
+for? Get to work!
+!******************************!
+[hdr:003c000000026205000002a2050000]
+[inf:837b83588367838d]
+<T><A2/3>If we don't get a move on, things
+won't be ready in time for
+you-know-who!
+!******************************!
+[hdr:003c000000021903000002f6050000]
+[inf:8353838d8362834c815b]
+<T>Sorry boss, we're doin' our best,
+but grandad here's got his
+knickers in a twist.
+!******************************!
+[hdr:003c0000000262050000024b060000]
+[inf:837b83588367838d]
+<T>Then throw 'im out into the street,
+you numpty!
+!******************************!
+[hdr:00460000000200000000027e060000]
+[inf:835783838362834e]
+<T>Let me go, you villains!
+!******************************!
+[hdr:0049000000026b030000029a060000]
+[inf:8373838983938360]
+<T>We're just gonna go for a little
+walk, all right, grandad?
+!******************************!
+[hdr:004b000000020000000002d8060000]
+[inf:835783838362834e]
+<T>You keep your filthy hands off
+my clock! You hear me?
+!******************************!
+[hdr:004d00000002620500000211070000]
+[inf:837b83588367838d]
+<T>We're just about on schedule.
+!******************************!
+[hdr:004d00000002620500000232070000]
+[inf:837b83588367838d]
+<T>But we 'ave to wait until the exact
+time the boss said to turn this
+thing on.
+!******************************!
+[hdr:005000000002000000000283070000]
+[inf:835783838362834e]
+<T><A2/1>That's all I heard before those
+brutes threw me out of my own shop.
+!******************************!
+[hdr:0050000000020000000002d0070000]
+[inf:835783838362834e]
+<T>It wasn't until later that I found
+out what the thugs wanted from
+my little clock shop.
+!******************************!
+[hdr:00500000000200000000022b080000]
+[inf:835783838362834e]
+<T>See, the Family was funding the
+construction of a time machine
+by a group of scientists.
+!******************************!
+[hdr:005000000002000000000287080000]
+[inf:835783838362834e]
+<T>I think the idea was to use it to
+create some kind of wormhole.
+!******************************!
+[hdr:005000000002ca08000002d3080000]
+[inf:838c834383678393]
+<T>But how could they do that?
+!******************************!
+[hdr:0050000000020000000002f2080000]
+[inf:835783838362834e]
+<T>Search me. It was all mumbo-jumbo.
+Something about opening up a
+vortex in the flow of time.
+!******************************!
+[hdr:005000000002000000000251090000]
+[inf:835783838362834e]
+<T>Anyway, things didn't go exactly to
+plan, for whatever reason.
+!******************************!
+[hdr:005000000002ca0800000293090000]
+[inf:838c834383678393]
+<T>I see. So...somehow this hole in
+time appeared in this clock of
+yours.
+!******************************!
+[hdr:0050000000020000000002dd090000]
+[inf:835783838362834e]
+<T>That's more or less it. This clock
+has been ticking away for over
+a hundred years.
+!******************************!
+[hdr:0050000000020000000002330a0000]
+[inf:835783838362834e]
+<T>My guess is that something about
+the clock's age caused the warp
+point to gravitate to this spot.
+!******************************!
+[hdr:0050000000020000000002980a0000]
+[inf:835783838362834e]
+<T>The wormhole, or whatever
+it's called, became a part of my
+clock.
+!******************************!
+[hdr:0050000000020000000002dd0a0000]
+[inf:835783838362834e]
+<T>The thing is, I'm the only one who
+can keep the old girl running.
+!******************************!
+[hdr:0050000000020000000002220b0000]
+[inf:835783838362834e]
+<T>Which means, like it or not, I'm the
+only person who can open and close
+the wormhole.
+!******************************!
+[hdr:0050000000025e000000027b0b0000]
+[inf:838b815b834e]
+<T><A4/1>Wow, that's really weird!
+!******************************!
+[hdr:00500000000200000000029e0b0000]
+[inf:835783838362834e]
+<T>It's a burden, is what it is.
+!******************************!
+[hdr:0050000000020000000002bf0b0000]
+[inf:835783838362834e]
+<T>Once the Family realised, they
+forced me to work the clock for
+them.
+!******************************!
+[hdr:005a00000002b400000002070c0000]
+[inf:96a29788838b815b834e]
+<T><A1/2>After a while, I caught wind of
+Cogg's situation.
+!******************************!
+[hdr:005a00000002b400000002420c0000]
+[inf:96a29788838b815b834e]
+<T>It goes without saying that he's
+not a member of the Family.
+!******************************!
+[hdr:005a00000002b400000002820c0000]
+[inf:96a29788838b815b834e]
+<T>In fact, the Family's been nothing
+but a source of trouble for him.
+!******************************!
+[hdr:005a000000025e00000002c90c0000]
+[inf:838b815b834e]
+<T>It certainly sounds like it.
+!******************************!
+[hdr:005a00000002b400000002e90c0000]
+[inf:96a29788838b815b834e]
+<T>So I approached Cogg and Spring
+and explained my plan to them.
+!******************************!
+[hdr:005a00000002b4000000022b0d0000]
+[inf:96a29788838b815b834e]
+<T>They agreed to help, and Cogg fired
+up the machine so that I could get
+my message to you.
+!******************************!
+[hdr:005a00000002ca08000002880d0000]
+[inf:838c834383678393]
+<T>And upon receiving your letter, I
+let my curiosity take Luke and
+myself on a journey that led here.
+!******************************!
+[hdr:005a00000002ca08000002ef0d0000]
+[inf:838c834383678393]
+<T>That's quite a plan you concocted,
+Big Luke.
+!******************************!
+[hdr:005a00000002b4000000021f0e0000]
+[inf:96a29788838b815b834e]
+<T><A1/1>Thank you... But it's about to get
+even more interesting.
+!******************************!
+[hdr:005a00000002ca08000002620e0000]
+[inf:838c834383678393]
+<T><A4/1>Oh?
+!******************************!
+[hdr:005a00000002b4000000026f0e0000]
+[inf:96a29788838b815b834e]
+<T>Professor, with Cogg's help we can
+send you and Luke back to your own
+time.
+!******************************!
+[hdr:005a00000002b400000002be0e0000]
+[inf:96a29788838b815b834e]
+<T>You'll be able to speak to Inspector
+Chelmey there.
+
+!******************************!
+[hdr:005a00000002b400000002f60e0000]
+[inf:96a29788838b815b834e]
+<T><A1/4>But you will come back to put a
+stop to what's going on here when
+you've finished, won't you?
+!******************************!
+[hdr:005a00000002ca080000025d0f0000]
+[inf:838c834383678393]
+<T><A1/2>You of all people should know the
+answer to that question, Luke.
+!******************************!
+[hdr:005a00000002ca08000002a70f0000]
+[inf:838c834383678393]
+<T>I keep my promises and I intend
+to solve the problem here. It's
+what a gentleman would do.
+!******************************!
+[hdr:005a00000002b40000000205100000]
+[inf:96a29788838b815b834e]
+<T>Thank you, Professor. That was
+exactly the answer I was hoping
+for.
+!******************************!
+[hdr:005a00000002ca080000024c100000]
+[inf:838c834383678393]
+<T>I wouldn't dream of leaving things
+here in this state.
+!******************************!
+[hdr:005a00000002ca0800000286100000]
+[inf:838c834383678393]
+<T>You said it yourself, Luke. The only
+one who can stop Hershel Layton is
+Hershel Layton himself.
+!******************************!
+[hdr:005a00000002b400000002e9100000]
+[inf:96a29788838b815b834e]
+<T><A2/2>Ha ha! That's true. My apologies.
+I should never have doubted you.
+!******************************!

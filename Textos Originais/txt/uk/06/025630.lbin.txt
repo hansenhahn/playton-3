@@ -1,0 +1,196 @@
+[hdr:000a00000002000000000209000000]
+[inf:835783838362834e]
+<T>Welcome back.<W> I take it you found
+the information you were after?
+!******************************!
+[hdr:000a0000000251000000025a000000]
+[inf:838c834383678393]
+<T>We did.<W> I hope Luke hasn't got
+tired of waiting for us back in
+the future.
+!******************************!
+[hdr:000a000000020000000002ab000000]
+[inf:835783838362834e]
+<T>Yep, we mustn't keep the young
+sir waiting.
+!******************************!
+[hdr:000a00000002da00000002e1000000]
+[inf:838b815b834e]
+<T>{''}Young sir{''}?
+!******************************!
+[hdr:000a000000020000000002f7000000]
+[inf:835783838362834e]
+<T><A2/1><K>Hrm?<W></K> Oh! Heh heh heh! Did I just
+call Luke {''}sir{''}?
+!******************************!
+[hdr:000a00000002000000000242010000]
+[inf:835783838362834e]
+<T>Sorry, it's an old habit from being
+in service.
+!******************************!
+[hdr:000a00000002000000000275010000]
+[inf:835783838362834e]
+<T>My mind's just not as sharp as it
+used to be, you know. I often get
+a little muddled and-
+!******************************!
+[hdr:000f000000020000000002d2010000]
+[inf:835783838362834e]
+<T>Hrm? Someone's at the door.
+!******************************!
+[hdr:001400000002f101000002fa010000]
+[inf:8354837d838a815b]
+<T><A1/1>You can't just barge onto private
+property! It's illegal!<W> Not to
+mention ungentlemanly!
+!******************************!
+[hdr:0014000000025e0200000269020000]
+[inf:83608346838b837e815b]
+<T>But I, madam, am no gentleman! I'm
+an officer of the law, and I'm here
+on an important investigation.
+!******************************!
+[hdr:001e00000002da00000002d2020000]
+[inf:838b815b834e]
+<T><A1/6>Wh-what's Inspector Chelmey doing
+here?!
+!******************************!
+[hdr:002300000002510000000204030000]
+[inf:838c834383678393]
+<T>You tailed us, didn't you,
+Inspector?
+!******************************!
+[hdr:00230000000251000000022d030000]
+[inf:838c834383678393]
+<T>In which case, Spring is right. It is
+very unbecoming of a gentleman.
+!******************************!
+[hdr:0023000000025e0200000276030000]
+[inf:83608346838b837e815b]
+<T><A1/5>Say what you will, Layton. The fact
+remains that our prime minister is
+missing!
+!******************************!
+[hdr:0023000000025e02000002cf030000]
+[inf:83608346838b837e815b]
+<T>And if I have to step on a few toes
+to find him, then that's what I'll do!
+!******************************!
+[hdr:00230000000251000000021d040000]
+[inf:838c834383678393]
+<T><A4/1>Inspector...
+!******************************!
+[hdr:0023000000025e0200000233040000]
+[inf:83608346838b837e815b]
+<T>And I'll keep doing it until you
+lay your cards on the table, Layton.<W>
+ALL of them.
+!******************************!
+[hdr:0023000000028c0400000293040000]
+[inf:8341838d837d]
+<T><A3/3>I can't believe you, Professor!
+!******************************!
+[hdr:0023000000028c04000002bc040000]
+[inf:8341838d837d]
+<T>You too, Luke!
+!******************************!
+[hdr:002800000002da00000002ce040000]
+[inf:838b815b834e]
+<T>F-Flora!
+!******************************!
+[hdr:0028000000028c04000002da040000]
+[inf:8341838d837d]
+<T>You ran off and left me on my own
+again! I'd even made you those
+nice cucumber sandwiches!
+!******************************!
+[hdr:002800000002510000000238050000]
+[inf:838c834383678393]
+<T><A1/1>Flora, please. We just didn't want
+to put you in danger, that's all.
+!******************************!
+[hdr:0028000000028c0400000286050000]
+[inf:8341838d837d]
+<T><A1/5>You say that, but the real reason
+you won't take me is because you
+think I'll get in the way! Isn't it?
+!******************************!
+[hdr:002800000002da00000002f7050000]
+[inf:838b815b834e]
+<T><A1/3>No! That's not it at all!
+!******************************!
+[hdr:00280000000251000000021a060000]
+[inf:838c834383678393]
+<T>Flora, you have to understand.
+<W>You could be put in harm's way.
+It's for your own safety that-
+!******************************!
+[hdr:0028000000028c040000027e060000]
+[inf:8341838d837d]
+<T><A1/3>I don't know anyone else here.
+What am I supposed to do when you
+two run off?
+!******************************!
+[hdr:0028000000028c04000002d5060000]
+[inf:8341838d837d]
+<T>Just sit there like a lemon and
+wait?!
+!******************************!
+[hdr:002800000002da00000002ff060000]
+[inf:838b815b834e]
+<T><A4/4>Well, when you put it that way...
+!******************************!
+[hdr:00280000000251000000022a070000]
+[inf:838c834383678393]
+<T><A3/1>Luke!
+!******************************!
+[hdr:0032000000025e0200000239070000]
+[inf:83608346838b837e815b]
+<T><A2/6>You know, Layton, I think the girl
+has a point.
+!******************************!
+[hdr:0032000000025e0200000272070000]
+[inf:83608346838b837e815b]
+<T><A2/1>You may be leaving her behind out
+of concern, but that doesn't help
+anyone if it gets her all upset.
+!******************************!
+[hdr:0032000000025100000002e0070000]
+[inf:838c834383678393]
+<T>Inspector? You too?
+!******************************!
+[hdr:003c000000020000000002f7070000]
+[inf:835783838362834e]
+<T>Er, sorry to interrupt, but we've 
+got to get going. We can't keep
+Luke waiting any longer.
+!******************************!
+[hdr:003c00000002000000000256080000]
+[inf:835783838362834e]
+<T>I have to start her up now.
+!******************************!
+[hdr:003c00000002510000000275080000]
+[inf:838c834383678393]
+<T><A1/1>But there are several people here
+who have nothing to do with the
+matter at hand.
+!******************************!
+[hdr:003c000000020000000002d0080000]
+[inf:835783838362834e]
+<T>Well...<W> The more the merrier, that's
+what they say, isn't it?
+!******************************!
+[hdr:003c00000002510000000214090000]
+[inf:838c834383678393]
+<T>That's ridiculous. I beg you to
+reconsider.
+!******************************!
+[hdr:003c00000002000000000243090000]
+[inf:835783838362834e]
+<T>Sorry, Professor. We've got to go.<A3/0>
+Hold on, everyone!<A1/1>
+!******************************!
+[hdr:0046000000025e0200000288090000]
+[inf:83608346838b837e815b]
+<T><A2/5>Hold on? What for?
+!******************************!

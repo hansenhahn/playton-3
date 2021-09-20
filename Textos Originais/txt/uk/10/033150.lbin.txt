@@ -1,0 +1,31 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Hello, Paillard. Could you tell me if
+young Luke has been here recently?
+!******************************!
+[hdr:000a0000000255000000025e000000]
+[inf:836f8362834a8358]
+<T>The little fella with the rumbling
+tummy? Har har! No, I haven't seen
+him.
+!******************************!
+[hdr:000a000000020000000002ac000000]
+[inf:838c834383678393]
+<T>Oh dear.<W> He's been missing for some
+time and I haven't had much success
+in finding him.
+!******************************!
+[hdr:000a0000000255000000020a010000]
+[inf:836f8362834a8358]
+<T>Poor lad. Maybe he got lost while
+wandering about town.
+!******************************!
+[hdr:000a00000002000000000245010000]
+[inf:838c834383678393]
+<T>If he comes by, let him know I'm
+looking for him, will you?
+!******************************!
+[hdr:000a00000002550000000284010000]
+[inf:836f8362834a8358]
+<T>Of course. 
+!******************************!

@@ -1,0 +1,56 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Good day, young lady. Would you
+happen to know whether this
+establishment is a hotel?
+!******************************!
+[hdr:000a0000000262000000026b000000]
+[inf:83788362834c815b]
+<T>Hello there, gentlemen. If you're
+looking for a hotel, you've come
+to the right place!
+!******************************!
+[hdr:000a000000026200000002c5000000]
+[inf:83788362834c815b]
+<T>Hotel Duke is one of London's
+finest and most famous!
+!******************************!
+[hdr:000a000000026200000002fe000000]
+[inf:83788362834c815b]
+<T>Will you be doing us the honour of
+staying here?
+!******************************!
+[hdr:001400000002320100000239010000]
+[inf:838b815b834e]
+<T>For a famous hotel, you keep an
+awfully low profile.<W> This is the
+first I've heard of a Hotel Duke.
+!******************************!
+[hdr:0014000000026200000002a2010000]
+[inf:83788362834c815b]
+<T><A4/5>Well, there's a simple explanation
+for that.
+!******************************!
+[hdr:0014000000026200000002d8010000]
+[inf:83788362834c815b]
+<T>The Hotel Duke caters for ladies
+and gentlemen of means and
+taste.
+!******************************!
+[hdr:00140000000262000000021e020000]
+[inf:83788362834c815b]
+<T>I can't say we're as popular with
+the primary school crowd, little
+boy.
+!******************************!
+[hdr:001e00000002000000000269020000]
+[inf:838c834383678393]
+<T>Ho ho! Our friend doesn't take
+kindly to you besmirching the good
+name of her hotel, Luke.
+!******************************!
+[hdr:001e000000020000000002c7020000]
+[inf:838c834383678393]
+<T>Thank you for your help, young
+lady.
+!******************************!

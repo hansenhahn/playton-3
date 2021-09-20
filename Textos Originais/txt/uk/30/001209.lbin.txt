@@ -1,0 +1,33 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+Ah, fresh air. It's
+good for what ails
+you.
+!******************************!
+[hdr:00140000000233000000023c000000]
+[inf:838c834383678393]
+It appears the good
+old IV drip is still in
+use.
+!******************************!
+[hdr:001e0000000200000000026d000000]
+[inf:838b815b834e]
+Are these technical
+manuals? I don't know
+any of these words...
+!******************************!
+[hdr:002800000002ad00000002b4000000]
+[inf:8341838d837d]
+Well, it does seem
+very peaceful in here.
+!******************************!
+[hdr:003200000002de00000002e7000000]
+[inf:834e838983458358]
+Hey, look! You can see
+the Towering Pagoda
+from here.
+!******************************!
+[hdr:000f270000021d0100000224010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

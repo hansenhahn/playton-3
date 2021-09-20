@@ -1,0 +1,19 @@
+[hdr:000a00000002000000000207000000]
+[inf:837e815b837d]
+<T><A2/3>Ooh, thank you, parrot!
+I was completely at a loss there!
+!******************************!
+[hdr:000a000000024a0000000251000000]
+[inf:834983458380]
+<T>Awwwrk!
+!******************************!
+[hdr:000a0000000200000000025c000000]
+[inf:837e815b837d]
+<T><A4/1>I can hand this homework in now!
+Thanks again, parrot! I'll be more
+careful with my things next time.
+!******************************!
+[hdr:000a000000024a00000002cb000000]
+[inf:834983458380]
+<T><A4/0>Carrreful! Carrreful!
+!******************************!

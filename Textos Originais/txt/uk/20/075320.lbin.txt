@@ -1,0 +1,10 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Congratulations! You've completed
+all the picture books!<Q><W30><J402></J>
+!******************************!
+[hdr:00140000000200000000025b000000]
+[inf:8369838c815b835683878393]
+<T>The Storyteller's House has been
+added to Layton's Challenges.
+!******************************!

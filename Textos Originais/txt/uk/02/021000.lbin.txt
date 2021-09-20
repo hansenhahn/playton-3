@@ -1,0 +1,36 @@
+[hdr:000a0000000200000000020b000000]
+[inf:96a29788838b815b834e]
+<V0010><T><A2/2>It seems you're the genuine article,
+Professor.</V>
+!******************************!
+[hdr:000a000000024f0000000258000000]
+[inf:838c834383678393]
+<V0020><T><A1/2>I'm glad to see that I've finally
+convinced you.</V>
+!******************************!
+[hdr:000a0000000200000000029d000000]
+[inf:96a29788838b815b834e]
+<V0030><T>To be honest, I was convinced from
+the beginning.</V>
+!******************************!
+[hdr:000a000000020000000002dd000000]
+[inf:96a29788838b815b834e]
+<V0040><T>But I just couldn't pass up the
+opportunity to pit myself against
+my mentor in a battle of wits.</V>
+!******************************!
+[hdr:000a000000024f000000024c010000]
+[inf:838c834383678393]
+<V0060><T>Hmm. I'm flattered...I suppose.</V>
+!******************************!
+[hdr:0014000000027a0100000281010000]
+[inf:838b815b834e]
+<V0050><T><A1/6>So? Out with it! Why did you call
+us here?</V>
+!******************************!
+[hdr:0014000000020000000002c0010000]
+[inf:96a29788838b815b834e]
+<T>There are too many eyes on us in
+here. There's a storeroom in the
+back where we can talk. Follow me.
+!******************************!

@@ -1,0 +1,39 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+That's where the
+great Professor
+Layton does his work!
+!******************************!
+[hdr:0014000000023e0000000247000000]
+[inf:838c834383678393]
+It seems my neighbour
+is off work today.
+!******************************!
+[hdr:001e00000002000000000270000000]
+[inf:838b815b834e]
+I can hear snoring.
+Somebody must be
+having a nap.
+!******************************!
+[hdr:0028000000020000000002a3000000]
+[inf:838b815b834e]
+Well, it's not the best
+view London has to
+offer.
+!******************************!
+[hdr:003200000002d500000002dc000000]
+[inf:8341838d837d]
+There aren't any
+particular notices for
+the professor.
+!******************************!
+[hdr:003c00000002000000000213010000]
+[inf:838b815b834e]
+I suppose it's against
+the rules to run in the
+university corridors.
+!******************************!
+[hdr:000f2700000258010000025f010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

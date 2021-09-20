@@ -1,0 +1,33 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Um, Professor, how are we supposed
+to input the generator room
+coordinates?
+!******************************!
+[hdr:000a0000000256000000025f000000]
+[inf:838c834383678393]
+<T><K>Hmm.</K><W> We should be able to enter them
+into one of these devices...
+!******************************!
+[hdr:000a000000020000000002ae000000]
+[inf:838b815b834e]
+<T>Oh! What about that one on the wall
+over there? It's got numbers
+and things all over it.
+!******************************!
+[hdr:000a0000000256000000020a010000]
+[inf:838c834383678393]
+<T>Ah, the one with the green monitor?
+Yes, let's have a look at it.
+!******************************!
+[hdr:00140000000256000000024f010000]
+[inf:838c834383678393]
+<T>I'm positive the small green screen
+over there is the device we're
+looking for.
+!******************************!
+[hdr:0014000000020000000002a2010000]
+[inf:838b815b834e]
+<T>Leave it to me, Professor. I'll
+investigate.
+!******************************!

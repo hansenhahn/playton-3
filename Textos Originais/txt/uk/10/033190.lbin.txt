@@ -1,0 +1,21 @@
+[hdr:000a00000002000000000209000000]
+[inf:8368838b834b815b]
+<T><A1/5>Hey!<A2/5><W> <A1/5>HEY?<W> Where's your little blue
+shadow?
+!******************************!
+[hdr:000a000000024f0000000258000000]
+[inf:838c834383678393]
+<T>I wish I knew. I'm actually here
+searching for him.
+!******************************!
+[hdr:000a0000000200000000028f000000]
+[inf:8368838b834b815b]
+<T>Oh now, that's sad.<A2/5><W> <A1/5>SAD!<W> Where'd
+he run off to, eh?<A3/0>
+!******************************!
+[hdr:000a000000024f00000002de000000]
+[inf:838c834383678393]
+<T>I was hoping you might know. Well,
+I suppose I'll have to ask someone
+else. Thank you for your concern.
+!******************************!

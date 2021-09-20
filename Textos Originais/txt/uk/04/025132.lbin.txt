@@ -1,0 +1,172 @@
+[hdr:000a0000000200000000020b000000]
+[inf:96a29788838b815b834e]
+<T>Oh, that must be the bird that
+fellow is talking about.
+!******************************!
+[hdr:000a0000000246000000024d000000]
+[inf:838b815b834e]
+<T>Oh wow! A parrot!
+!******************************!
+[hdr:00140000000262000000026b000000]
+[inf:834f8389836e8380]
+<T><A2/3>Don't just stand there staring!
+Grab the winged menace before it
+flaps off!
+!******************************!
+[hdr:001e000000020000000002c0000000]
+[inf:96a29788838b815b834e]
+<T><A1/4>You may not have noticed, sir, but
+we're in a bit of a hurry here.
+!******************************!
+[hdr:001e0000000246000000020c010000]
+[inf:838b815b834e]
+<T>Luke, listen to yourself! Don't you
+remember what the professor
+always says? 
+!******************************!
+[hdr:001e0000000246000000025d010000]
+[inf:838b815b834e]
+<T>Helping people in need is the duty
+of every gentleman.
+!******************************!
+[hdr:001e00000002000000000297010000]
+[inf:96a29788838b815b834e]
+<T>A very good point, Luke.<W> <A1/1>Very well
+then, let's think. This bird clearly
+likes shiny objects.
+!******************************!
+[hdr:001e00000002000000000200020000]
+[inf:96a29788838b815b834e]
+<T>Excuse me sir, would you happen to
+have anything shiny we could
+borrow for a moment?
+!******************************!
+[hdr:002800000002620000000258020000]
+[inf:834f8389836e8380]
+<T><A2/2>Of course! What sort of gentleman
+would I be without the proper
+accoutrements?
+!******************************!
+[hdr:0028000000026200000002b0020000]
+[inf:834f8389836e8380]
+<T>Here, I always carry a garnet for
+when I need to accessorise with a
+little flash!
+!******************************!
+[hdr:002800000002620000000205030000]
+[inf:834f8389836e8380]
+<T><A3/4>Oh...<W> Oh dear.
+!******************************!
+[hdr:002800000002460000000220030000]
+[inf:838b815b834e]
+<T>What's wrong?
+!******************************!
+[hdr:002800000002620000000231030000]
+[inf:834f8389836e8380]
+<T>Curses! The garnet has fallen to
+the bottom of my case and I can't
+reach it!
+!******************************!
+[hdr:003200000002000000000281030000]
+[inf:96a29788838b815b834e]
+<T><A4/4>You're not making it very easy for
+us to help you.
+!******************************!
+[hdr:00e8030000020000000002bd030000]
+[inf:96a29788838b815b834e]
+<T>He really should sort out the
+contents of this briefcase
+sometime. It's a bit of a mess.
+!******************************!
+[hdr:00d007000002000000000219040000]
+[inf:96a29788838b815b834e]
+<T>Let me see if I can retrieve that
+garnet this time.
+!******************************!
+[hdr:00b80b000002000000000250040000]
+[inf:96a29788838b815b834e]
+<T>Aha! There we are!
+!******************************!
+[hdr:00b80b000002000000000266040000]
+[inf:96a29788838b815b834e]
+<T>With any luck, this flashy gem will
+attract the parrot.
+!******************************!
+[hdr:00b80b0000020000000002a1040000]
+[inf:96a29788838b815b834e]
+<T>See if you can tame him when he
+gets close.
+!******************************!
+[hdr:00b80b0000024600000002d0040000]
+[inf:838b815b834e]
+<T><A3/2>Leave it to me!
+!******************************!
+[hdr:00b80b0000020000000002e9040000]
+[inf:96a29788838b815b834e]
+<T><A1/2>Right then. Here goes!
+!******************************!
+[hdr:00c20b000002090500000210050000]
+[inf:834983458380]
+<T>Awwwrk!
+!******************************!
+[hdr:00c70b00000200000000021b050000]
+[inf:96a29788838b815b834e]
+<T><A1/5>Here he comes!
+!******************************!
+[hdr:00cc0b000002090500000233050000]
+[inf:834983458380]
+<T>Awwwrk! Skwaaarka skwaaaawk!
+!******************************!
+[hdr:00cc0b000002460000000253050000]
+[inf:838b815b834e]
+<T><A1/6>Don't worry, boy! We won't
+hurt you!
+!******************************!
+[hdr:00cc0b000002090500000281050000]
+[inf:834983458380]
+<T>Skwawk! Skwaaaark!
+!******************************!
+[hdr:00cc0b000002460000000297050000]
+[inf:838b815b834e]
+<T><A4/2>You don't say!
+!******************************!
+[hdr:00d60b0000020000000002af050000]
+[inf:96a29788838b815b834e]
+<T><A2/2>You know, that bird seems pretty
+fond of you, Luke. Are you friends
+now?
+!******************************!
+[hdr:00d60b000002460000000201060000]
+[inf:838b815b834e]
+<T><A2/2>Of course!
+!******************************!
+[hdr:00d90b00000215060000021e060000]
+[inf:838c834383678393]
+<T>Well, now that you're friends, why
+don't you give him a name?
+!******************************!
+[hdr:00db0b00000246000000025f060000]
+[inf:838b815b834e]
+<T>Good idea, Professor! But what
+should I name him? Hmm...
+!******************************!
+[hdr:00e00b00000209050000029b060000]
+[inf:834983458380]
+<T>Hallo, hallo! Nice to meetchoo,
+meetchoo! I'm <N1>!
+!******************************!
+[hdr:00e00b0000024600000002d2060000]
+[inf:838b815b834e]
+<T>Hello there! I'm Luke.<W> It's nice to
+meet you too, <N1>!
+!******************************!
+[hdr:00ea0b000002000000000210070000]
+[inf:96a29788838b815b834e]
+<T><A1/2>Nice work, Luke! That was amazing!
+!******************************!
+[hdr:00ea0b00000246000000023c070000]
+[inf:838b815b834e]
+<T><A2/2>Of course! What else would you
+expect from the apprentice of the
+great Professor Layton?
+!******************************!

@@ -1,0 +1,114 @@
+[hdr:000a0000000200000000020b000000]
+[inf:8374838d815b838c8358]
+<T>Well hello again, boys! I trust
+you've found yourselves some nice,
+shiny hint coins?
+!******************************!
+[hdr:000a0000000263000000026c000000]
+[inf:838c834383678393]
+<T><A1/2>We have, thanks in no small part to
+your expert direction.
+!******************************!
+[hdr:000a000000020000000002b0000000]
+[inf:8374838d815b838c8358]
+<T>Delighted to be of assistance.<W>
+So where's my thank you?
+!******************************!
+[hdr:000a000000026300000002ee000000]
+[inf:838c834383678393]
+<T>Of course, madam. Please forgive
+me for not issuing proper thanks.<W>
+We're very grateful for your help.
+!******************************!
+[hdr:000a000000025a0100000261010000]
+[inf:838b815b834e]
+<T><A3/2>Yes, thank you. We never would
+have found them without the help
+of a wise old lady like yourself!
+!******************************!
+[hdr:000a000000020000000002cc010000]
+[inf:8374838d815b838c8358]
+<T><A1/3>Now, just a moment there,
+half-pint! Who are you calling old?
+!******************************!
+[hdr:000a00000002000000000213020000]
+[inf:8374838d815b838c8358]
+<T>They don't call me Flawless Florence
+for nothing, you know!<W> I'm as fit
+and nimble as a teenager!
+!******************************!
+[hdr:000a000000025a010000027a020000]
+[inf:838b815b834e]
+<T><A1/6>I'm sorry, I didn't mean to call
+you old!
+!******************************!
+[hdr:000a000000025a01000002ad020000]
+[inf:838b815b834e]
+<T>I know how sensitive some elderly
+people can be about their age.
+!******************************!
+[hdr:000a000000020000000002f1020000]
+[inf:8374838d815b838c8358]
+<T>E-elderly?!<W> Well, I never!
+!******************************!
+[hdr:000a00000002000000000212030000]
+[inf:8374838d815b838c8358]
+<T>Looks like I'll have to teach you a
+lesson the old-fashioned way - with
+a puzzle!
+!******************************!
+[hdr:00e803000002000000000267030000]
+[inf:8374838d815b838c8358]
+<T>What's the matter, boy? Do you
+need a rest?
+!******************************!
+[hdr:00d007000002000000000296030000]
+[inf:8374838d815b838c8358]
+<T>If you're truly sorry about calling
+me old, you'll show me by solving
+this puzzle!
+!******************************!
+[hdr:00b80b0000020000000002ec030000]
+[inf:8374838d815b838c8358]
+<T>Hmph. You two are pretty sharp
+when it comes to puzzle solving, I'll
+give you that.
+!******************************!
+[hdr:00b80b000002630000000243040000]
+[inf:838c834383678393]
+<T>The compliment means all the more
+coming from a lady such as yourself,
+Florence.
+!******************************!
+[hdr:00b80b000002630000000297040000]
+[inf:838c834383678393]
+<T>I do hope our paths cross again
+sometime.
+!******************************!
+[hdr:00b80b0000020000000002c4040000]
+[inf:8374838d815b838c8358]
+<T>Tee hee! Now you're making me
+blush.
+!******************************!
+[hdr:00b80b0000020000000002ec040000]
+[inf:8374838d815b838c8358]
+<T>You can sweet-talk me all you like,
+but you should know I'm a married
+woman.
+!******************************!
+[hdr:00b80b0000025a010000023c050000]
+[inf:838b815b834e]
+<T>I think that lady has taken
+a shine to you, Professor...
+!******************************!
+[hdr:00a00f000002000000000278050000]
+[inf:8374838d815b838c8358]
+<T>Such fine manners, and famous too!<W>
+Maybe we should get to know each
+other better.
+!******************************!
+[hdr:00a00f0000020000000002d0050000]
+[inf:8374838d815b838c8358]
+<T>May I call you by your first name,
+Professor?<W> Tee hee!
+!******************************!

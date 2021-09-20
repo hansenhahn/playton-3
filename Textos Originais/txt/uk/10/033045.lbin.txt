@@ -1,0 +1,11 @@
+[hdr:000a00000002000000000209000000]
+[inf:83788362834c815b]
+<T>Welcome back, esteemed guests.
+Your friends arrived a while ago, so
+I invited them to wait in your room.
+!******************************!
+[hdr:000a0000000275000000027c000000]
+[inf:838b815b834e]
+<T>Oh good! It sounds like Flora and
+Luke made it back safely.
+!******************************!

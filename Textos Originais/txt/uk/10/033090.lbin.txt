@@ -1,0 +1,29 @@
+[hdr:000a00000002000000000209000000]
+[inf:83418366838a8393]
+<T>Hello again, boyo. What can I do
+for you?
+!******************************!
+[hdr:000a0000000236000000023f000000]
+[inf:838c834383678393]
+<T>I'm sorry to disturb you, madam,
+but you haven't seen the boy who's
+travelling with me go by, have you?
+!******************************!
+[hdr:000a000000020000000002aa000000]
+[inf:83418366838a8393]
+<T>The country bumpkin in the blue
+hat, is it? Yes, I saw him. Going up
+Flatstone Street, he was.
+!******************************!
+[hdr:000a0000000200000000020c010000]
+[inf:83418366838a8393]
+<T>He didn't seem lost, see, so I just
+let him be. Oh dear. I wish I'd
+said something to him now.
+!******************************!
+[hdr:000a0000000236000000026e010000]
+[inf:838c834383678393]
+<T><A1/2>Not to worry. I'm sure we'll find
+him soon. Thank you for the
+information.
+!******************************!

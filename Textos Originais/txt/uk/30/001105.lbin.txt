@@ -1,0 +1,28 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+Cogg must have built
+every clock in this
+shop by hand!
+!******************************!
+[hdr:0014000000023e0000000247000000]
+[inf:838c834383678393]
+Maybe I should buy one
+to put in my office at
+the university.
+!******************************!
+[hdr:001e00000002000000000285000000]
+[inf:838b815b834e]
+I'd rather have a nice
+watch than a big old
+clock like this.
+!******************************!
+[hdr:002800000002c200000002c9000000]
+[inf:8341838d837d]
+Watching this pendulum
+swing is beginning to
+make me sleepy.
+!******************************!
+[hdr:000f2700000206010000020d010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

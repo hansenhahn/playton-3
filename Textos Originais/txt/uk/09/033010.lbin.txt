@@ -1,0 +1,78 @@
+[hdr:000a0000000200000000020d000000]
+[inf:836883938145837c815b838b]
+<V0010><T><A4/1>Layton has been my arch-nemesis
+ever since that fateful day!</V>
+!******************************!
+[hdr:0014000000025e0000000265000000]
+[inf:838b815b834e]
+<V0020><T>I see...</V>
+!******************************!
+[hdr:0014000000027c0000000285000000]
+[inf:838c834383678393]
+<V0030><T><A4/2>Yes, though it's worth mentioning
+that I had no inkling of Paul's
+crush until he told me himself.</V>
+!******************************!
+[hdr:0014000000027c00000002fb000000]
+[inf:838c834383678393]
+<V0040><T>He was in the year above me at
+university.</V>
+!******************************!
+[hdr:0014000000027c0000000234010000]
+[inf:838c834383678393]
+<T><V0041>Imagine my surprise when I learned
+that Don Paolo was none other
+than my old classmate Paul.</V>
+!******************************!
+[hdr:0014000000025e000000029f010000]
+[inf:838b815b834e]
+<V0050><T><A4/4>I had no idea you'd been through
+so much. Sorry for being so mean
+to you, um, Paul.</V>
+!******************************!
+[hdr:001e00000002000000000207020000]
+[inf:836883938145837c815b838b]
+<V0060><T><A2/3>Ugh. Spare me your sappy sympathy.
+<A5/2>And my name is Don Paolo. Address
+me as such, boy!</V>
+!******************************!
+[hdr:001e000000027c0000000277020000]
+[inf:838c834383678393]
+<V0070><T><A1/2>Anyway, you put on quite the
+performance, er, Don Paolo.</V>
+!******************************!
+[hdr:001e000000027c00000002c4020000]
+[inf:838c834383678393]
+<V0080><T>With you distracting Dimitri, I
+had just enough time to do some
+sleuthing in the area.</V>
+!******************************!
+[hdr:0028000000025e0000000229030000]
+[inf:838b815b834e]
+<V0090><T><A3/2>So, that's what you were doing while
+we were climbing the pagoda! Did
+you find anything?</V>
+!******************************!
+[hdr:0028000000027c0000000296030000]
+[inf:838c834383678393]
+<V0100><T>Yes, but I need to confirm a few
+facts before I can connect all the
+dots.</V>
+!******************************!
+[hdr:0028000000025e00000002ee030000]
+[inf:838b815b834e]
+<V0110><T>Then it sounds like that should
+be our next move. Where to,
+Professor?</V>
+!******************************!
+[hdr:0028000000027c0000000243040000]
+[inf:838c834383678393]
+<V0120><T><A1/2>Oh ho ho! I'll let you ponder that
+for yourself.</V>
+!******************************!
+[hdr:0028000000027c0000000288040000]
+[inf:838c834383678393]
+<V0130><T><A2/1>But first, we should head back to
+the hotel. Flora and the other Luke
+are waiting for us there.</V>
+!******************************!

@@ -1,0 +1,150 @@
+[hdr:000f0000000200000000020d000000]
+[inf:82c982b9838c834383678393]
+<T>Fascinating! Do continue.
+!******************************!
+[hdr:000f000000022a0000000233000000]
+[inf:838c834383678393]
+<T>Luke, would you be so kind as to
+solve a quick puzzle for me?
+!******************************!
+[hdr:00140000000274000000027b000000]
+[inf:838b815b834e]
+<T>Uh...right now, Professor?<W> Aren't
+we in the middle of something here?
+!******************************!
+[hdr:00e8030000022a00000002c7000000]
+[inf:838c834383678393]
+<T>Give it some more thought, Luke.
+!******************************!
+[hdr:00d0070000022a00000002eb000000]
+[inf:838c834383678393]
+<T>Let's try this once more.
+!******************************!
+[hdr:00b80b000002000000000208010000]
+[inf:82c982b9838c834383678393]
+<T>Yes, yes, the boy is quite bright.
+We all know that. But what does
+that have to do with anything?
+!******************************!
+[hdr:00b80b0000022a000000026d010000]
+[inf:838c834383678393]
+<T>I'm getting there.<W> But first, a
+question. I have a pen in my pocket
+that's either red or blue.
+!******************************!
+[hdr:00b80b0000022a00000002d2010000]
+[inf:838c834383678393]
+<T>Could you tell me which colour it
+is?
+
+!******************************!
+[hdr:00b80b0000020000000002fc010000]
+[inf:82c982b9838c834383678393]
+<T>What a terribly uncharacteristic
+query for you to make. There's no
+logic for me to work through.
+!******************************!
+[hdr:00b80b000002000000000260020000]
+[inf:82c982b9838c834383678393]
+<T>I'm not a mind-reader, and I refuse
+to guess blindly. How can I solve
+your puzzle without a single hint?
+!******************************!
+[hdr:00b80b0000022a00000002cc020000]
+[inf:838c834383678393]
+<T>So in other words, you have no
+idea what colour pen I have in my
+pocket?
+!******************************!
+[hdr:00b80b000002000000000218030000]
+[inf:82c982b9838c834383678393]
+<T>Of course not.
+!******************************!
+[hdr:00bb0b0000022a000000022a030000]
+[inf:838c834383678393]
+<T>That's funny.
+!******************************!
+[hdr:00bd0b00000200000000023b030000]
+[inf:82c982b9838c834383678393]
+<T>Oh?
+!******************************!
+[hdr:00bd0b0000022a0000000242030000]
+[inf:838c834383678393]
+<T><A2/1>Luke, what would happen if you
+removed the bottom row of blocks
+from that pile I just showed you?
+!******************************!
+[hdr:00c20b0000027400000002ad030000]
+[inf:838b815b834e]
+<T>The rest of the blocks would fall
+down, I suppose.
+!******************************!
+[hdr:00c20b0000022a00000002e3030000]
+[inf:838c834383678393]
+<T>That's right. Those blocks in the
+middle of the structure don't float
+in mid-air.
+!******************************!
+[hdr:00c20b0000022a0000000238040000]
+[inf:838c834383678393]
+<T>Only by resting on the blocks
+beneath can those blocks stay
+elevated.
+!******************************!
+[hdr:00cc0b000002000000000281040000]
+[inf:82c982b9838c834383678393]
+<T><K>...
+!******************************!
+[hdr:00cc0b0000022a000000028b040000]
+[inf:838c834383678393]
+<T><A1/1>If you were really my future self,
+you would have experienced this
+very moment before.
+!******************************!
+[hdr:00cc0b0000022a00000002eb040000]
+[inf:838c834383678393]
+<T>There is simply no way you could
+forget it.
+!******************************!
+[hdr:00cc0b0000022a000000021a050000]
+[inf:838c834383678393]
+<T>Given your answer, I can only
+assume that your memory of this
+crucial event is missing.
+!******************************!
+[hdr:00cc0b0000022a0000000275050000]
+[inf:838c834383678393]
+<T>But remember those blocks. All
+blocks are supported by other
+blocks.
+!******************************!
+[hdr:00cc0b0000022a00000002bd050000]
+[inf:838c834383678393]
+<T>When you remove one, everything
+on top of it comes tumbling down.
+<W>The same goes for memory.
+!******************************!
+[hdr:00cc0b0000022a000000021f060000]
+[inf:838c834383678393]
+<T>You can't simply be missing a
+whole block of memory. It would
+destroy your very persona.
+!******************************!
+[hdr:00d60b00000274000000027b060000]
+[inf:838b815b834e]
+<T><A1/6>It all makes sense now!
+!******************************!
+[hdr:00e00b00000200000000029c060000]
+[inf:82c982b9838c834383678393]
+<T>I see... So, what colour is the pen
+in your pocket, then?
+!******************************!
+[hdr:00e00b0000022a00000002d9060000]
+[inf:838c834383678393]
+<T><A1/2>My pockets are empty. There was
+never a pen there to begin with.
+!******************************!
+[hdr:00e00b000002000000000281040000]
+[inf:82c982b9838c834383678393]
+<T><K>...
+!******************************!

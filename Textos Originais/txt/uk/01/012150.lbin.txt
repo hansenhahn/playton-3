@@ -1,0 +1,129 @@
+[hdr:000a00000002000000000207000000]
+[inf:834583628359]
+<T><A3/1><K>...<W></K>Here, you two saw that
+ne'er-do-well skulking around,
+didn't you?
+!******************************!
+[hdr:000a000000025f0000000268000000]
+[inf:838c834383678393]
+<T>Yes we did. Why do you ask?
+!******************************!
+[hdr:000a00000002000000000287000000]
+[inf:834583628359]
+<T>I thought I should give you a word
+of advice. That whole gang is bad
+news.
+!******************************!
+[hdr:000a000000020000000002d5000000]
+[inf:834583628359]
+<T>They call themselves {''}the Family{''},
+and they monitor everything people
+get up to around these parts.
+!******************************!
+[hdr:000a000000025f0000000242010000]
+[inf:838c834383678393]
+<T>Who are you talking about exactly?
+!******************************!
+[hdr:000a00000002000000000268010000]
+[inf:834583628359]
+<T>I'm sure you've seen them, all
+dressed the same, in their long
+grey coats and matching hats.
+!******************************!
+[hdr:000a000000020000000002c8010000]
+[inf:834583628359]
+<T>Oh, and don't even try to be a
+hero. Bravery will only get you
+in the worst kind of trouble.
+!******************************!
+[hdr:00140000000228020000022f020000]
+[inf:838b815b834e]
+<T>But why don't the police do
+something about them?
+!******************************!
+[hdr:001400000002000000000264020000]
+[inf:834583628359]
+<T>Police?<W> Now there's a word I
+haven't heard in a while...
+!******************************!
+[hdr:0014000000020000000002a3020000]
+[inf:834583628359]
+<T>I haven't seen police on these
+streets for years. It's the Family
+who make the law nowadays.
+!******************************!
+[hdr:001e000000025f0000000203030000]
+[inf:838c834383678393]
+<T>How terrible.
+!******************************!
+[hdr:001e00000002000000000214030000]
+[inf:834583628359]
+<T>You're telling me. I- Oops, here
+comes one of their boys now.<A4/1> Try
+not to stare.
+!******************************!
+[hdr:001e000000025f000000026d030000]
+[inf:838c834383678393]
+<T>Would you mind if I had a look at
+that paper you're holding, sir?
+!******************************!
+[hdr:001e000000020000000002b2030000]
+[inf:834583628359]
+<T><A3/1>Go for it. Knock yourself out.
+!******************************!
+[hdr:001e000000025f00000002da030000]
+[inf:838c834383678393]
+<T><A3/1>N-no! That can't be...
+!******************************!
+[hdr:0028000000022802000002fa030000]
+[inf:838b815b834e]
+<T>Professor, look at the date on
+this paper!
+!******************************!
+[hdr:003200000002000000000228040000]
+[inf:834583628359]
+<T><A1/1>Keep your hair on, fellas. It's just
+a newspaper.
+!******************************!
+[hdr:003200000002000000000263040000]
+[inf:834583628359]
+<T>Right, I've got to go. Places to be
+and all that. Can I have my paper
+back?
+!******************************!
+[hdr:0037000000022802000002b2040000]
+[inf:838b815b834e]
+<T>Oh yes, of course. Thank you.
+!******************************!
+[hdr:003c000000022802000002d3040000]
+[inf:838b815b834e]
+<T>I didn't misread the date on that
+paper, did I, Professor?
+!******************************!
+[hdr:003c000000025f0000000211050000]
+[inf:838c834383678393]
+<T>I don't think so, Luke. It was dated
+10 years in the future.<W> It's as if
+we've travelled through time...
+!******************************!
+[hdr:003c0000000228020000027f050000]
+[inf:838b815b834e]
+<T>So maybe the reason why nothing
+looks familiar is that we're in the
+London of the future.
+!******************************!
+[hdr:003c000000025f00000002dc050000]
+[inf:838c834383678393]
+<T>It would appear so...
+!******************************!
+[hdr:003c000000025f00000002f5050000]
+[inf:838c834383678393]
+<T>Whoever wrote us that last letter
+assured us that we'd find proof of
+our time travel at Green Hospital.
+!******************************!
+[hdr:003c000000025f0000000260060000]
+[inf:838c834383678393]
+<T>Let's make our way over there
+without further delay.
+!******************************!

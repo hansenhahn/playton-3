@@ -1,0 +1,215 @@
+[hdr:000a0000000200000000020d000000]
+[inf:83668342837e8367838a815b]
+<V0010><T>Hats off to you, Hershel.</V>
+!******************************!
+[hdr:000a0000000235000000023e000000]
+[inf:838c834383678393]
+<V0020><T>So you're the one who's been
+kidnapping scientists under my
+name. But why?</V>
+!******************************!
+[hdr:000a00000002000000000297000000]
+[inf:83668342837e8367838a815b]
+<V0030><T><A3/2>Have you ever tried to build a
+time machine by yourself? It's a
+Herculean task!</V>
+!******************************!
+[hdr:000a000000020000000002fb000000]
+[inf:83668342837e8367838a815b]
+<V0040><T>And by pinning the blame on you, I
+could disguise myself as one of the
+poor scientists who vanished.</V>
+!******************************!
+[hdr:000a0000000200000000026e010000]
+[inf:83668342837e8367838a815b]
+<V0050><T><A4/5>Conveniently, that also provided
+an excellent way to lure you here.</V>
+!******************************!
+[hdr:000a000000020000000002c6010000]
+[inf:83668342837e8367838a815b]
+<V0060><T>After all, the virtuous Hershel
+Layton would never stand by as
+someone sullied his good name.</V>
+!******************************!
+[hdr:000a00000002000000000232020000]
+[inf:83668342837e8367838a815b]
+<V0070><T>Sure enough, you came running.
+And faster than expected, at that!</V>
+!******************************!
+[hdr:001400000002820200000289020000]
+[inf:838b815b834e]
+<V0080><T><A1/3>You're a real piece of work!</V>
+!******************************!
+[hdr:001e000000023500000002ba020000]
+[inf:838c834383678393]
+<V0090><T>So why me? You could have chosen
+anyone to be the scapegoat.</V>
+!******************************!
+[hdr:001e00000002000000000205030000]
+[inf:83668342837e8367838a815b]
+<V0100><T><A2/5>Oh no, it had to be you. You see,
+you play a critical part in the
+completion of my time machine.</V>
+!******************************!
+[hdr:001e0000000200000000027a030000]
+[inf:83668342837e8367838a815b]
+<V0110><T><A2/5>Or rather, your memories do.</V>
+!******************************!
+[hdr:001e000000023500000002ab030000]
+[inf:838c834383678393]
+<V0120><T>What are you saying?</V>
+!******************************!
+[hdr:001e000000020000000002ce030000]
+[inf:83668342837e8367838a815b]
+<V0130><T>The best part is that I've already
+got what I need from you.</V>
+!******************************!
+[hdr:001e00000002350000000219040000]
+[inf:838c834383678393]
+<V0140><T><A3/1>Of course! So that strange
+device...</V>
+!******************************!
+[hdr:002100000002000000000252040000]
+[inf:83668342837e8367838a815b]
+<V0150><T><A3/2>Finally catching on, eh? Those
+glasses you put on were a cognitive
+capture unit of my own design.</V>
+!******************************!
+[hdr:0021000000020000000002c8040000]
+[inf:83668342837e8367838a815b]
+<T><V0151>In layman's terms, a memory
+recorder.</V>
+!******************************!
+[hdr:0023000000023500000002fc040000]
+[inf:838c834383678393]
+<V0160><T><A1/1>But what use could you possibly
+have for my memories?</V>
+!******************************!
+[hdr:002300000002000000000246050000]
+[inf:83668342837e8367838a815b]
+<V0170><T>Why, they provide me with data,
+of course.</V>
+!******************************!
+[hdr:00230000000200000000027f050000]
+[inf:83668342837e8367838a815b]
+<T><V0171>Your memories contain all the
+information I need...to recreate
+that fateful day's experiment.</V>
+!******************************!
+[hdr:0023000000023500000002eb050000]
+[inf:838c834383678393]
+<V0180><T><A4/1>Which day?</V>
+!******************************!
+[hdr:00230000000200000000020a060000]
+[inf:83668342837e8367838a815b]
+<V0190><T><A1/4>The day I lost everything that
+mattered to me.</V>
+!******************************!
+[hdr:00280000000282020000024d060000]
+[inf:838b815b834e]
+<V0200><T>I still don't understand...</V>
+!******************************!
+[hdr:002800000002000000000277060000]
+[inf:83668342837e8367838a815b]
+<V0210><T>I'd imagine you know quite a bit
+about loss yourself, Hershel.
+Think, man!</V>
+!******************************!
+[hdr:0028000000020000000002d0060000]
+[inf:83668342837e8367838a815b]
+<V0220><T>I'm talking about Claire.</V>
+!******************************!
+[hdr:0032000000023500000002f8060000]
+[inf:838c834383678393]
+<V0230><T>Claire...</V>
+!******************************!
+[hdr:003200000002000000000210070000]
+[inf:83668342837e8367838a815b]
+<V0240><T><A3/5>As you know, time travel is based
+on movement through wormholes.</V>
+!******************************!
+[hdr:003200000002000000000265070000]
+[inf:83668342837e8367838a815b]
+<V0250><T>One end of the wormhole is
+anchored in the present.</V>
+!******************************!
+[hdr:0032000000020000000002a7070000]
+[inf:83668342837e8367838a815b]
+<T><V0251>But every wormhole also needs a
+point of origin. And to find this
+point of origin, one needs data.</V>
+!******************************!
+[hdr:003200000002000000000218080000]
+[inf:83668342837e8367838a815b]
+<V0260><T><A3/2>Both you and Bill had substantial
+interactions with Claire on the day
+of the accident.</V>
+!******************************!
+[hdr:003200000002000000000283080000]
+[inf:83668342837e8367838a815b]
+<V0270><T>Using your memories of those
+interactions, I will triangulate the
+point right before her death.</V>
+!******************************!
+[hdr:0032000000020000000002f1080000]
+[inf:83668342837e8367838a815b]
+<V0280><T>Of course, finding a wormhole's
+point of origin is no easy task.</V>
+!******************************!
+[hdr:003200000002000000000240090000]
+[inf:83668342837e8367838a815b]
+<T><V0281>If my calculations were even the
+slightest bit off, I could be
+trapped...forever.</V>
+!******************************!
+[hdr:0032000000023500000002a0090000]
+[inf:838c834383678393]
+<V0290><T>Then why take the risk? What do
+you stand to gain?</V>
+!******************************!
+[hdr:0032000000020000000002e1090000]
+[inf:83668342837e8367838a815b]
+<V0300><T><A1/4>Everything. You see, like you,
+Hershel...I loved Claire.</V>
+!******************************!
+[hdr:00320000000235000000022e0a0000]
+[inf:838c834383678393]
+<V0310><T>So you intend to travel back
+through time and save her?</V>
+!******************************!
+[hdr:0032000000020000000002740a0000]
+[inf:83668342837e8367838a815b]
+<V0320><T>Surely you wouldn't stop me. After
+all, haven't you wished for this
+yourself?</V>
+!******************************!
+[hdr:0032000000023500000002d00a0000]
+[inf:838c834383678393]
+<V00330><T><K>...</V>
+!******************************!
+[hdr:0032000000023500000002e60a0000]
+[inf:838c834383678393]
+<V0340><T><A1/1>Nothing can excuse the kidnapping
+of all those scientists. Not even
+this, Dimitri.</V>
+!******************************!
+[hdr:00320000000200000000024d0b0000]
+[inf:83668342837e8367838a815b]
+<V0350><T>You disappoint me.</V>
+!******************************!
+[hdr:00320000000200000000026e0b0000]
+[inf:83668342837e8367838a815b]
+<T><V0351><A4/5>I had hoped a rational man like
+yourself would understand that the
+ends justify the means.</V>
+!******************************!
+[hdr:0032000000023500000002dd0b0000]
+[inf:838c834383678393]
+<V0360><T>I don't see it that way.</V>
+!******************************!
+[hdr:0032000000020000000002040c0000]
+[inf:83668342837e8367838a815b]
+<V0370><T>Then, what's your next move?<W>
+<A2/5>Turn me in to the police? Ha! I'd
+like to see you try.</V>
+!******************************!

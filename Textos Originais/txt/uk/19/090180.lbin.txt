@@ -1,0 +1,18 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Having reunited with Layton, our
+heroes begin their ascent of the
+Towering Pagoda.
+!******************************!
+[hdr:001400000002000000000263000000]
+[inf:8369838c815b835683878393]
+<T>Solving every puzzle in their way,
+the group steadily climb past each
+of the pagoda's floors.
+!******************************!
+[hdr:0014000000020000000002c4000000]
+[inf:8369838c815b835683878393]
+<T>Slowly, challenge by challenge, they
+approach the top floor, where the
+future Layton awaits.
+!******************************!

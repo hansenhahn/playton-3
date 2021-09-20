@@ -1,0 +1,21 @@
+[hdr:000a0000000200000000020d000000]
+[inf:83718351837d83748389815b]
+<T><A2/1>Top work!
+I knew you were just the fellow for
+the job. This is a perfect specimen.
+!******************************!
+[hdr:000a00000002690000000270000000]
+[inf:834983458380]
+<T><A3/0>Awrk! Ssspecimen!
+!******************************!
+[hdr:000a0000000200000000028b000000]
+[inf:83718351837d83748389815b]
+<T>You just go on like that and you'll
+become a fine delivery parrot!<W>
+<A3/0>Keh heh heh!<W><A1/1> People will love you!
+!******************************!
+[hdr:000a00000002690000000206010000]
+[inf:834983458380]
+<T><A2/5>Awwwrk?<W>
+<A4/0>Delivery! Delivery!
+!******************************!

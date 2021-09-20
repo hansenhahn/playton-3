@@ -1,0 +1,211 @@
+[hdr:00010000000200000000021b000000]
+[inf:546865204c65747465722066726f6d2074686520467574757265]
+Professor Layton has received a
+mysterious letter. The sender
+claims to be Luke from 10 years
+in the future, but how can this be
+possible?
+!******************************!
+[hdr:000100000002a600000002a7000000]
+[inf:]
+A grown-up Luke used a time
+machine to send the letter back
+to the present, requesting the
+help of his former teacher,
+Professor Layton, in rescuing the
+chaotic future city of London.
+!******************************!
+[hdr:0002000000025f010000027a010000]
+[inf:546865204d697373696e67205072696d65204d696e6973746572]
+Prime Minister Bill Hawks
+mysteriously disappeared in the
+accident at the time machine
+presentation. What could
+possibly have happened to him?
+!******************************!
+[hdr:00020000000209020000020a020000]
+[inf:]
+Prime Minister Bill Hawks, who
+was unaccounted for after the
+accident at the time machine
+presentation, was discovered by
+Professor Layton in the future
+London. He was abducted by Dimitri
+and is now being held prisoner. Will
+the heroes be able to rescue him?
+!******************************!
+[hdr:0003000000020d030000021b030000]
+[inf:576172706564204c6f6e646f6e]
+When Professor Layton and Luke
+emerged from the clock shop,
+the streets of London suddenly
+looked quite different. What
+could have happened?
+!******************************!
+[hdr:000300000002a803000002a9030000]
+[inf:]
+The strange, unfamiliar streets
+belong to a future London from
+10 years after Professor Layton
+and Luke's time.
+!******************************!
+[hdr:00030000000219040000021a040000]
+[inf:]
+Future London turned out to be
+a fake city built in an underground
+cavern beneath the real London.
+Dimitri led his team of scientists
+to believe that they were trapped
+in the future so that they would
+put every effort into completing a
+functioning time machine.
+!******************************!
+[hdr:000400000002200500000235050000]
+[inf:467269676874656e6564204c6f6e646f6e657273]
+Many people in this part of London
+seem to be afraid of Professor
+Layton. Why would ordinary people
+who've never met him fear the mild
+and gentlemanly Layton?
+
+It seems to be something to do
+with his hat...
+!******************************!
+[hdr:000400000002040600000205060000]
+[inf:]
+In the future, the city of London
+is in the thrall of an evil Layton.
+The sight of the professor, who
+looks just the same as his future
+self, is enough to spark fear
+among the local people.
+!******************************!
+[hdr:000500000002c306000002d3060000]
+[inf:54686520467574757265204c756b65]
+This young man sent Professor
+Layton a letter, claiming to be
+Luke from the future. But how is
+that even possible?
+!******************************!
+[hdr:000500000002460700000247070000]
+[inf:]
+The young man signing himself {''}Luke
+Triton{''} turned out to be an older
+Luke from 10 years in the future.
+He wrote to his old trusted
+teacher to request his aid.
+!******************************!
+[hdr:000500000002ed07000002ee070000]
+[inf:]
+Future Luke is really a young man
+named Clive who lost his parents in
+the time machine accident 10 years
+ago. He has been planning his
+revenge on those responsible
+ever since. He called upon Layton
+hoping that the professor could
+save him from his own madness.
+!******************************!
+[hdr:000600000002f3080000020a090000]
+[inf:537573706963696f757320496e646976696475616c73]
+A selection of shady characters,
+all dressed identically in grey,
+seem to lurk on every street
+corner in the future London.
+What are they up to?
+!******************************!
+[hdr:0006000000029b090000029c090000]
+[inf:]
+The shady characters dressed
+in grey are members of a gang
+under the control of the future
+Layton, the boss of the London
+underworld.
+!******************************!
+[hdr:000700000002220a000002320a0000]
+[inf:546865204576696c204c6179746f6e]
+The future Hershel Layton is a
+crime lord who terrorises London
+with his gang of thugs. Known and
+feared by Londoners as {''}the
+devil in the top hat{''}, how
+could this model English gentleman
+have turned into such a monster?
+!******************************!
+[hdr:000700000002150b000002160b0000]
+[inf:]
+The future Layton turned out to
+be Dimitri Allen, the famous
+scientist renowned for his
+research into time travel.
+But what was Dimitri's reason
+for posing as a future Professor
+Layton?
+!******************************!
+[hdr:000800000002d00b000002dc0b0000]
+[inf:447220537461686e67756e]
+Dr Stahngun is the scientist who
+unveiled the time machine at the
+presentation, but no records
+exist of a scientist with that
+name. He must be somebody else,
+using an alias to cover up his
+true identity. Who is he really?
+!******************************!
+[hdr:000800000002ba0c000002bb0c0000]
+[inf:]
+Dr Stahngun is really Dimitri Allen,
+one of the scientists involved in
+the time machine accident 10 years
+ago.
+!******************************!
+[hdr:0009000000022a0d0000023f0d0000]
+[inf:546865204d7973746572696f757320576f6d616e]
+A woman who looks uncannily like
+Professor Layton's old
+sweetheart, Claire, is wandering
+around town. Who could she be?
+!******************************!
+[hdr:000900000002b70d000002b80d0000]
+[inf:]
+The enigmatic woman is none other
+than Claire's younger sister,
+Celeste. She came to the future
+London in search of clues as to
+the circumstances of her sister's
+death, and is following Professor
+Layton in the belief that he will
+uncover the truth.
+!******************************!
+[hdr:000900000002b10e000002b20e0000]
+[inf:]
+Celeste turns out to be Claire
+herself, sent into the present
+from the day of her accident 10
+years ago. Accepting her fate, she
+bids farewell to Professor Layton
+and travels back to her own time,
+to the day of her tragic accident.
+!******************************!
+[hdr:000a000000029a0f000002af0f0000]
+[inf:546865204d656e20696e204c616220436f617473]
+Men in white laboratory coats
+seem to be all over this part
+of town, but the odd thing is that
+their trouser bottoms and shoes
+are always soaking wet. What 
+reason could they have for
+walking around London with wet
+feet?
+!******************************!
+[hdr:000a000000028c100000028d100000]
+[inf:]
+The white-clad men walking around
+with wet feet are in fact
+scientists put to work by Dimitri
+in his research laboratory. They
+walk through a partially flooded
+tunnel under the River Thames to
+get into town when they want a bit
+of a break from the labs.
+!******************************!

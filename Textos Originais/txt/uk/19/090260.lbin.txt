@@ -1,0 +1,30 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Layton's rescuer turns out to be
+a woman by the name of Celeste who
+is also investigating Dimitri.
+!******************************!
+[hdr:001400000002000000000273000000]
+[inf:8369838c815b835683878393]
+<T>Just as Layton attempts to learn
+more, the Family catches up with
+the group.
+!******************************!
+[hdr:001e000000020000000002c3000000]
+[inf:8369838c815b835683878393]
+<T>In order to escape, Celeste and
+Don Paolo separate from the group
+and run ahead.
+!******************************!
+[hdr:001e00000002000000000217010000]
+[inf:8369838c815b835683878393]
+<T>Before leaving, Celeste drops a
+hint to the professor about their
+next meeting place.
+!******************************!
+[hdr:001e00000002000000000270010000]
+[inf:8369838c815b835683878393]
+<T>Decoding her hint, Layton and the
+others set out for the riverside
+restaurant, the Thames Arms.
+!******************************!

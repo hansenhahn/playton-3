@@ -1,0 +1,192 @@
+[hdr:000a00000002000000000209000000]
+[inf:838f838b837e815b]
+<T>Oi! Just what do you two think
+you're doing? No one passes
+through this here gate!
+!******************************!
+[hdr:000a0000000200000000025f000000]
+[inf:838f838b837e815b]
+<T>Now clear off or we'll be having
+more than words with each other.
+!******************************!
+[hdr:000a00000002a400000002ad000000]
+[inf:838c834383678393]
+<T>I see...
+!******************************!
+[hdr:001400000002b900000002c0000000]
+[inf:838b815b834e]
+<T><A1/3>What nerve! They're just a pair of
+brutes, don't you agree?
+!******************************!
+[hdr:001400000002b90000000205010000]
+[inf:838b815b834e]
+<T><A1/1>Um...Professor? What are you
+thinking about?
+!******************************!
+[hdr:001400000002a4000000023b010000]
+[inf:838c834383678393]
+<T><A2/1>Tell me, Luke. Did those two remind
+you of anyone we know?
+!******************************!
+[hdr:001400000002b9000000027f010000]
+[inf:838b815b834e]
+<T><K>Hmm?
+!******************************!
+[hdr:001400000002a4000000028a010000]
+[inf:838c834383678393]
+<T><A2/2>It's not an exact match, but they
+do bear an odd resemblance to a
+certain pair of fellows.
+!******************************!
+[hdr:001400000002b900000002ee010000]
+[inf:838b815b834e]
+<T><A2/1><K>Hmm...
+!******************************!
+[hdr:001400000002b90000000201020000]
+[inf:838b815b834e]
+<T><A2/2>Of course! You're talking about
+Inspector Chelmey and Barton!
+!******************************!
+[hdr:001900000002a40000000248020000]
+[inf:838c834383678393]
+<T>I am. The similarities are quite
+striking, don't you think?
+!******************************!
+[hdr:001900000002b90000000287020000]
+[inf:838b815b834e]
+<T>Big guy in charge, check.<W> Small
+assistant, check!
+!******************************!
+[hdr:001900000002b900000002bf020000]
+[inf:838b815b834e]
+<T>But something tells me the inspector
+wouldn't take kindly to being told
+he resembles a criminal!
+!******************************!
+[hdr:001900000002a40000000223030000]
+[inf:838c834383678393]
+<T><A1/1>Speaking of the inspector, did his
+presence at that event seem at all
+odd to you?
+!******************************!
+[hdr:001900000002b9000000027e030000]
+[inf:838b815b834e]
+<T><A4/1>Event? Do you mean the time
+machine presentation?
+!******************************!
+[hdr:001a00000002a400000002b9030000]
+[inf:838c834383678393]
+<T>Yes. Why do you suppose a police
+inspector was invited to an event
+like that in the first place?
+!******************************!
+[hdr:001a00000002b9000000021d040000]
+[inf:838b815b834e]
+<T>Well...<W> He's cracked quite a few
+tough cases. Maybe his celebrity
+status got him invited.
+!******************************!
+[hdr:001a00000002a4000000027d040000]
+[inf:838c834383678393]
+<T>Yes, I assumed the same thing.
+After all, pseudo-celebrity status
+is what got you and me our tickets.
+!******************************!
+[hdr:001a00000002b900000002e6040000]
+[inf:838b815b834e]
+<T><A4/2>Pseudo-celebrity? Nonsense! You're
+the great Professor Layton.
+!******************************!
+[hdr:001a00000002b9000000022e050000]
+[inf:838b815b834e]
+<T>The model modern-day English
+gentleman!
+!******************************!
+[hdr:001a00000002a40000000259050000]
+[inf:838c834383678393]
+<T><A1/2>Ha ha! I hate to say it, Luke, but I
+think you're the only one who'd
+heap that kind of praise on me.
+!******************************!
+[hdr:001a00000002a400000002c7050000]
+[inf:838c834383678393]
+<T><A1/1>From what I saw, almost everyone
+there was either from the media or
+London high society.
+!******************************!
+[hdr:001a00000002a40000000229060000]
+[inf:838c834383678393]
+<T>The inspector and I were clear
+exceptions to an otherwise
+homogenous list of names.
+!******************************!
+[hdr:001a00000002b90000000280060000]
+[inf:838b815b834e]
+<T><A1/1>So?
+!******************************!
+[hdr:001a00000002a4000000028d060000]
+[inf:838c834383678393]
+<T>So, the question looms before us.
+Why did Dr Stahngun, whoever he is,
+invite the inspector and me?
+!******************************!
+[hdr:001a00000002a400000002f3060000]
+[inf:838c834383678393]
+<T>What I wouldn't give to hear the
+inspector's take on the event...
+!******************************!
+[hdr:001a00000002b90000000238070000]
+[inf:838b815b834e]
+<T>Yeah, it's too bad we'd have to go
+back to our own time to ask him.
+!******************************!
+[hdr:001a00000002b9000000027f070000]
+[inf:838b815b834e]
+<T><A4/1>Wait a second!<W> What if the inspector
+is still working here in the future?
+!******************************!
+[hdr:001e00000002d507000002e0070000]
+[inf:96a29788838b815b834e]
+<T>Professor, there you are!
+!******************************!
+[hdr:002800000002b900000002fd070000]
+[inf:838b815b834e]
+<T>Ah, hello Luke.
+!******************************!
+[hdr:002800000002d50700000210080000]
+[inf:96a29788838b815b834e]
+<T>I couldn't help but overhear you as
+I ran up. Did you say you'd like to
+meet the inspector?
+!******************************!
+[hdr:002800000002a4000000026f080000]
+[inf:838c834383678393]
+<T>Yes. Ideally, we would meet him back
+in our time, while the events of
+that time are still fresh.
+!******************************!
+[hdr:002800000002d507000002d3080000]
+[inf:96a29788838b815b834e]
+<T>I think we can make that happen.
+!******************************!
+[hdr:002800000002b900000002f7080000]
+[inf:838b815b834e]
+<T><A1/6>But how?!
+!******************************!
+[hdr:002800000002d5070000020a090000]
+[inf:96a29788838b815b834e]
+<T>Let's continue this conversation
+where we can't be seen or heard,
+shall we?
+!******************************!
+[hdr:002800000002d50700000259090000]
+[inf:96a29788838b815b834e]
+<T>Why don't we head over to the
+wooded area to the west?
+!******************************!
+[hdr:003200000002d50700000293090000]
+[inf:96a29788838b815b834e]
+<T>There's a way to go back to your
+time, but let's go to the wooded
+area so we can talk in private.
+!******************************!

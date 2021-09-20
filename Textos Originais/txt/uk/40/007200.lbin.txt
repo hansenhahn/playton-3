@@ -1,0 +1,140 @@
+[hdr:00e80300000200000000020f000000]
+[inf:41667465726e6f6f6e2057616c6b]
+The secret to a long life is plenty
+of sleep and exercise, don't you
+know. Speaking of exercise, let me
+tell you about the route I take on
+my afternoon walks!
+!******************************!
+[hdr:00f203000002ae00000002b8000000]
+[inf:4269672053636f7265]
+Oi lads, we've got work to do!
+We've gotta grab all this cash
+and bang it into the safe, boss's
+orders! Make sure you get the lot!
+!******************************!
+[hdr:00fc030000023b0100000245010000]
+[inf:43616b652048756e74]
+Hey Fluuuke! Your bride-to-be
+can't wait to see you again,
+sweetie! And I'm bringing cakes!
+Aren't you just dying to taste
+them?
+!******************************!
+[hdr:000604000002c601000002d2010000]
+[inf:446573657274205472656b]
+Oh nyet! I'm lost again, and this
+time in the desert! I've got to
+get to the coast for some agua
+before I dry up like a prune... But
+how? Oh bitte, amigo! Help me!
+!******************************!
+[hdr:001004000002760200000286020000]
+[inf:53747265657420436c65616e696e67]
+That Max! He rushed off ahead to
+the hotel and dropped all his toys
+along the way. Now I have to
+follow the trail of toys and pick
+them all up!
+!******************************!
+[hdr:001a04000002160300000223030000]
+[inf:506174726f6c20526f757465]
+Oh dear! The inspector has called
+me out to an emergency! I'll be
+in for it if I don't get to the
+crime scene soon! I just can't
+resist all those cakes, though...
+!******************************!
+[hdr:002404000002c603000002d6030000]
+[inf:54726561737572652049736c616e64]
+This course is my humble gift to
+you. Looks easy, but what about
+the gold coins you have to
+plunder? You're going to have to
+be creative to get all those!
+!******************************!
+[hdr:002e0400000271040000027e040000]
+[inf:436172726f74205061746368]
+This is my secret carrot patch
+and it's about time to dig the
+little beauties up. They look so
+juicy and tasty! It'll be fresh
+carrot salad for dinner!
+!******************************!
+[hdr:003804000002160500000224050000]
+[inf:4361736820526f756e642d5570]
+I'm in big trouble! I spent a little
+too long in the casino last night
+and lost all my money. I need to
+get my hands on some cash before
+the Family come after me!
+!******************************!
+[hdr:004204000002c705000002d8050000]
+[inf:526976657273696465205374726f6c6c]
+Well, well! Congratulations on
+getting this far! Allow me to
+reward you with this last course.
+It should be a piece of cake for
+an expert such as yourself!
+!******************************!
+[hdr:00d007000002740600000275060000]
+[inf:]
+Pass over all the flags!
+!******************************!
+[hdr:00da070000028e060000028f060000]
+[inf:]
+Pick up all the money bags!
+!******************************!
+[hdr:00e407000002ab06000002ac060000]
+[inf:]
+Pick up all the cakes for Luke!
+!******************************!
+[hdr:00ee07000002cc06000002cd060000]
+[inf:]
+Follow all the flags to the seaside!
+!******************************!
+[hdr:00f807000002f206000002f3060000]
+[inf:]
+Pick up all Max's toys!
+!******************************!
+[hdr:0002080000020b070000020c070000]
+[inf:]
+Eat all the cakes on the course!
+!******************************!
+[hdr:000c080000022d070000022e070000]
+[inf:]
+Pick up all the treasure!
+!******************************!
+[hdr:001608000002480700000249070000]
+[inf:]
+Dig up all the carrots!
+!******************************!
+[hdr:00200800000261070000028f060000]
+[inf:]
+Pick up all the money bags!
+!******************************!
+[hdr:002a08000002620700000263070000]
+[inf:]
+Pick up all the top hats!
+!******************************!
+[hdr:00b80b0000027d070000027e070000]
+[inf:]
+Congratulations!
+You have completed
+{''}%s{''}.
+!******************************!
+[hdr:00c20b000002ae07000002af070000]
+[inf:]
+Bonus course added:
+{''}Riverside Stroll{''}.
+!******************************!
+[hdr:00cc0b000002dd07000002de070000]
+[inf:]
+Congratulations!
+You have completed all the
+courses!
+!******************************!
+[hdr:00a00f000002130800000214080000]
+[inf:]
+Stop the car?
+!******************************!

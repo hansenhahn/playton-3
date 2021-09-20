@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:83418366838a8393]
+<T>You can wait all you like, boyo.
+The bus isn't coming. Just take the
+train instead.
+!******************************!

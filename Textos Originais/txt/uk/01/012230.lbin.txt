@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Well, that was easy enough.<W> Look,
+Professor. We're just a few steps
+away from the hospital.
+!******************************!
+[hdr:000a00000002690000000272000000]
+[inf:838c834383678393]
+<T>Wonderful. In we go.
+!******************************!

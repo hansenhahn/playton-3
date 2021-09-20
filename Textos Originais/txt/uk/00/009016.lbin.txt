@@ -1,0 +1,39 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A1/5>Oh no! It just fell apart!
+!******************************!
+[hdr:000a000000022b0000000236000000]
+[inf:8374838d815b838c8358]
+<T>Never mind that! Did you see the
+coin that just popped out?<W> That's
+a hint coin, and it's yours to keep.
+!******************************!
+[hdr:000a000000022b00000002a4000000]
+[inf:8374838d815b838c8358]
+<T>If you ever find yourself stuck on
+a puzzle, you can spend one of
+those lovely coins to get a hint.
+!******************************!
+[hdr:000a000000022b000000020b010000]
+[inf:8374838d815b838c8358]
+<T>Just remember that there's a limit
+to the number of hint coins you can
+find.
+!******************************!
+[hdr:000a000000022b000000025b010000]
+[inf:8374838d815b838c8358]
+<T>If you use them willy-nilly, you may
+find yourself in a pickle later.
+!******************************!
+[hdr:000a000000022b00000002a4010000]
+[inf:8374838d815b838c8358]
+<T>Hint coins are tucked away all over
+the place, so touch anything that
+looks fishy. You might find a coin!
+!******************************!
+[hdr:000a000000022b0000000211020000]
+[inf:8374838d815b838c8358]
+<T>Well, that's the end of my speech.
+<W>Good luck with whatever it is
+you're doing round here.<W> Ta-ta!
+!******************************!

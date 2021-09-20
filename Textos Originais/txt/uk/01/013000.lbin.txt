@@ -1,0 +1,47 @@
+[hdr:000a00000002000000000211000000]
+[inf:96a2978883568385838c815b835f815b]
+<V0010><T>Who's that?<W> Oh, it's you, Hershel!
+And little Luke!</V>
+!******************************!
+[hdr:000a0000000256000000025f000000]
+[inf:838c834383678393]
+<V0020><T>Andrew?!</V>
+!******************************!
+[hdr:000a00000002000000000276000000]
+[inf:96a2978883568385838c815b835f815b]
+<V0030><T>Hmm? Why the quizzical look,
+Hershel? Have I got food in my
+beard again?</V>
+!******************************!
+[hdr:000a000000020000000002cd000000]
+[inf:96a2978883568385838c815b835f815b]
+<T><V0031>Oh, don't mind that, my boy. Sit
+down, sit down!</V>
+!******************************!
+[hdr:000a0000000200000000020c010000]
+[inf:96a2978883568385838c815b835f815b]
+<V0040><T>You know, I've been hearing some
+very unsavoury rumours about you
+recently.</V>
+!******************************!
+[hdr:000a00000002000000000266010000]
+[inf:96a2978883568385838c815b835f815b]
+<T><V0041>But I don't believe a single one
+of them!</V>
+!******************************!
+[hdr:000a0000000256000000029e010000]
+[inf:838c834383678393]
+<V0050><T>What sort of unsavoury rumours?</V>
+!******************************!
+[hdr:000a000000020000000002cc010000]
+[inf:96a2978883568385838c815b835f815b]
+<V0060><T>What sorts, you ask? The ones
+about the whojiwhatsit. The
+thingamawhizzer. The... Oh, drat.</V>
+!******************************!
+[hdr:000a00000002000000000236020000]
+[inf:96a2978883568385838c815b835f815b]
+<T><V0061>I seem to have forgotten them
+completely.<W> Well, never mind all
+that then.</V>
+!******************************!

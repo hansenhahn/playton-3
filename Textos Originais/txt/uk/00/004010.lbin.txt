@@ -1,0 +1,26 @@
+[hdr:000a00000002000000000211000000]
+[inf:834a838c838a83698ef1918a9576906c]
+<V0010><T>Oh, this food is simply dreadful,
+Bill. <W>Do get this over with quickly so
+we can leave.</V>
+!******************************!
+[hdr:000a00000002790000000286000000]
+[inf:8372838b8145837a815b834e]
+<V0020><T>Yes, dear...</V>
+!******************************!
+[hdr:0014000000020000000002a1000000]
+[inf:834a838c838a83698ef1918a9576906c]
+<T><A1/5>This event is a complete charade! 
+<A1/2>Don't you agree, Bill?
+!******************************!
+[hdr:0014000000027900000002ea000000]
+[inf:8372838b8145837a815b834e]
+<T>Hmmm? What's that? Oh yes, a
+complete charade.
+!******************************!
+[hdr:00140000000200000000021c010000]
+[inf:834a838c838a83698ef1918a9576906c]
+<T><A1/1>Well, I hope the presentation is
+brief. We do have places to be,
+you know.
+!******************************!

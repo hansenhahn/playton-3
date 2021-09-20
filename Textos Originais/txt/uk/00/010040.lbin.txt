@@ -1,0 +1,135 @@
+[hdr:000a00000002000000000209000000]
+[inf:8354837d838a815b]
+<T><A1/2>That'll be my husband.
+!******************************!
+[hdr:001400000002290000000232000000]
+[inf:835783838362834e]
+<T><A1/1>Wait till you see the little gem I
+picked up today, love...<W> <A2/1>Oh my,
+customers!
+!******************************!
+[hdr:001400000002000000000292000000]
+[inf:8354837d838a815b]
+<T>Welcome back, dear. This here is
+Professor Layton.
+!******************************!
+[hdr:0014000000020000000002c8000000]
+[inf:8354837d838a815b]
+<T><A1/5>He tells me he has some business
+in our shop.
+!******************************!
+[hdr:0014000000022900000002ff000000]
+[inf:835783838362834e]
+<T>Layton? You're Professor Layton?<W>
+My apologies! I wasn't expecting
+you so soon!
+!******************************!
+[hdr:001e0000000254010000025d010000]
+[inf:838c834383678393]
+<T><A3/1>No apology necessary, my good
+man.<W> Oh, and allow me to introduce
+my-
+!******************************!
+[hdr:001e00000002ae01000002b5010000]
+[inf:838b815b834e]
+<T><A3/2>Apprentice! I'm the professor's
+apprentice, Luke! Pleased to meet
+you, sir!
+!******************************!
+[hdr:001e0000000229000000020a020000]
+[inf:835783838362834e]
+<T>Luke, you say? Hmm...
+!******************************!
+[hdr:001e00000002290000000223020000]
+[inf:835783838362834e]
+<T>What I mean to say is, those are
+some fine manners, lad! It's nice to
+meet you too. The name's Cogg.
+!******************************!
+[hdr:001e0000000254010000028b020000]
+[inf:838c834383678393]
+<T><A1/1>You seemed a bit flustered by our
+arrival, Cogg. We certainly don't
+mean to impose...
+!******************************!
+[hdr:001e000000022900000002ea020000]
+[inf:835783838362834e]
+<T>Oh no, no, no. It's no trouble
+at all.
+!******************************!
+[hdr:001e00000002290000000214030000]
+[inf:835783838362834e]
+<T>It's just that I had instructions
+to show you our biggest clock in
+action upon your arrival.
+!******************************!
+[hdr:001e00000002540100000274030000]
+[inf:838c834383678393]
+<T><A4/1>It certainly is a beauty. Pity it's
+not in working order.
+!******************************!
+[hdr:001e000000022900000002b7030000]
+[inf:835783838362834e]
+<T>Yes, I'd planned to give her a
+tune-up before you stopped by, so
+you could see her in all her glory.
+!******************************!
+[hdr:001e0000000229000000021f040000]
+[inf:835783838362834e]
+<T>But I'm getting on a bit these days,
+and I have trouble keeping the old
+girl in good repair.
+!******************************!
+[hdr:001e0000000229000000027f040000]
+[inf:835783838362834e]
+<T>I can't remember where to insert
+this last gear, and the clock won't
+work without it.
+!******************************!
+[hdr:001e000000025401000002d8040000]
+[inf:838c834383678393]
+<T><A1/2>Ah, I see. That does indeed sound
+problematic.
+!******************************!
+[hdr:001e00000002290000000210050000]
+[inf:835783838362834e]
+<T>Maybe you can help. The papers say
+you're a learned man. Can you work
+out where this gear goes?
+!******************************!
+[hdr:001e00000002540100000273050000]
+[inf:838c834383678393]
+<T><A1/1>Hmm? Me?<W> Well, I'd like to help,
+but I'm no expert in mechanics...
+!******************************!
+[hdr:001e000000022900000002c2050000]
+[inf:835783838362834e]
+<T>Well, at least give it a try. Don't
+you want to see our biggest clock
+in its full working glory?
+!******************************!
+[hdr:001e00000002540100000226060000]
+[inf:838c834383678393]
+<T><A4/1>I certainly do.<W> <A4/2>Very well, I'll
+give it a shot.
+!******************************!
+[hdr:00e803000002290000000268060000]
+[inf:835783838362834e]
+<T>Sorry, Professor. Until we get
+that gear back in place, I can't
+show you the clock in motion.
+!******************************!
+[hdr:00d0070000022900000002c9060000]
+[inf:835783838362834e]
+<T>Can you work out where this gear
+goes, Professor?
+!******************************!
+[hdr:00b80b0000022900000002fe060000]
+[inf:835783838362834e]
+<T>That did the trick!<W> <A3/0>Just wait here,
+and I'll go and start her up!
+!******************************!
+[hdr:00b80b00000229000000024c070000]
+[inf:835783838362834e]
+<T>Here goes!
+!******************************!

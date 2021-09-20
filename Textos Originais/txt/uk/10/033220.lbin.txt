@@ -1,0 +1,24 @@
+[hdr:000a00000002000000000209000000]
+[inf:835783838362834e]
+<T>Is something the matter?
+!******************************!
+[hdr:000a0000000225000000022e000000]
+[inf:838c834383678393]
+<T>Yes, actually. Little Luke has run
+off somewhere by himself.
+!******************************!
+[hdr:000a0000000200000000026e000000]
+[inf:835783838362834e]
+<T>Young ones can be such a handful.<W>
+But I wouldn't worry. There aren't
+that many places he could go.
+!******************************!
+[hdr:000a000000020000000002d7000000]
+[inf:835783838362834e]
+<T>I'm sure you'll find him soon
+enough.
+!******************************!
+[hdr:000a00000002250000000200010000]
+[inf:838c834383678393]
+<T>I certainly hope so.
+!******************************!

@@ -1,0 +1,263 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><K>...
+!******************************!
+[hdr:000a0000000211000000021a000000]
+[inf:838c834383678393]
+<T>Luke! There you are!
+!******************************!
+[hdr:001400000002000000000232000000]
+[inf:838b815b834e]
+<T><A1/4>Oh... Hi, Professor.
+!******************************!
+[hdr:001400000002110000000250000000]
+[inf:838c834383678393]
+<T><A3/2>I see you've gone out for a stroll.
+May I join you?
+!******************************!
+[hdr:00140000000200000000028d000000]
+[inf:838b815b834e]
+<T>Of course.<W> I-I'm sorry for running
+off.<W> I was just...<W> Well, I was just
+thinking.
+!******************************!
+[hdr:0014000000020000000002ea000000]
+[inf:838b815b834e]
+<T>We've had so much fun these last
+few years. And I've become so used
+to going everywhere together.
+!******************************!
+[hdr:00140000000211000000024f010000]
+[inf:838c834383678393]
+<T><A1/2>Of course you have. After all,
+we're the best of friends. It's only
+natural we'd spend time together.
+!******************************!
+[hdr:0014000000020000000002be010000]
+[inf:838b815b834e]
+<T>B-but...<W> Dad told me the other
+day that he's being transferred.
+We'll all be moving away.
+!******************************!
+[hdr:00140000000211000000021e020000]
+[inf:838c834383678393]
+<T><A4/1>Ah, yes. Your father mentioned
+that to me as well.
+!******************************!
+[hdr:00140000000211000000025a020000]
+[inf:838c834383678393]
+<T><A4/2>Now tell me, Luke, do you believe
+that we're true friends?
+!******************************!
+[hdr:00140000000200000000029e020000]
+[inf:838b815b834e]
+<T><A1/5>Of course I do! How can you even
+ask that?
+!******************************!
+[hdr:0014000000021100000002d2020000]
+[inf:838c834383678393]
+<T>Good. Then there's no need to
+worry. True friends, you see,
+share a special connection.
+!******************************!
+[hdr:00140000000211000000022d030000]
+[inf:838c834383678393]
+<T>And this connection endures, no
+matter how far apart they may be
+in the world.
+!******************************!
+[hdr:00140000000211000000027f030000]
+[inf:838c834383678393]
+<T>Distance and time apart cannot
+break the bonds formed by a true
+friendship. Do you see?
+!******************************!
+[hdr:0014000000020000000002da030000]
+[inf:838b815b834e]
+<T><A1/1>I...I think I do, Professor.
+!******************************!
+[hdr:001400000002110000000200040000]
+[inf:838c834383678393]
+<T><A2/2>Excellent! Then let's get back to
+our investigation. We've got many
+mysteries to solve!
+!******************************!
+[hdr:001700000002000000000261040000]
+[inf:838b815b834e]
+<T><A3/2>Let's go, Professor!
+!******************************!
+[hdr:00180000000211000000027f040000]
+[inf:838c834383678393]
+<T><A4/2>Ho ho! It's good to see you back in
+high spirits, my boy.
+!******************************!
+[hdr:0018000000021100000002c2040000]
+[inf:838c834383678393]
+<T>Now tell me, can you guess where
+we're headed next?
+!******************************!
+[hdr:0018000000020000000002f9040000]
+[inf:838b815b834e]
+<T><A2/1>I've been thinking about it and I'm
+sure Dimitri fled to the place where
+he's building the time machine.
+!******************************!
+[hdr:00180000000200000000026b050000]
+[inf:838b815b834e]
+<T>But the question is, where? We
+already know that this research
+lab isn't in the Towering Pagoda.
+!******************************!
+[hdr:0018000000021100000002cf050000]
+[inf:838c834383678393]
+<T><A1/2>That's right. So we must review
+all the clues we've gathered in our
+investigation of this London.
+!******************************!
+[hdr:00180000000211000000023a060000]
+[inf:838c834383678393]
+<T>Has anything we've seen around the
+city struck you as suspicious?
+!******************************!
+[hdr:00180000000200000000027f060000]
+[inf:838b815b834e]
+<T><A2/2>Oh! What about all the men in white
+coats we've bumped into?
+!******************************!
+[hdr:0018000000020000000002c5060000]
+[inf:838b815b834e]
+<T>Those were lab coats, no doubt
+about it. Perhaps those men are
+involved in Dimitri's research!
+!******************************!
+[hdr:001800000002110000000227070000]
+[inf:838c834383678393]
+<T>Excellent. Now let's think carefully.
+We've met several men in lab coats
+around this London.
+!******************************!
+[hdr:001800000002110000000287070000]
+[inf:838c834383678393]
+<T>Other than their garb, what else
+did all these men have in common?
+!******************************!
+[hdr:001a000000020000000002cd070000]
+[inf:838b815b834e]
+<T><J411><A1/6>Oh, of course!<Q><K></J>
+!******************************!
+[hdr:001b000000020000000002f5070000]
+[inf:838b815b834e]
+<T><A4/1>They all had wet shoes!
+!******************************!
+[hdr:001b00000002000000000216080000]
+[inf:838b815b834e]
+<T>So they must have walked through
+a very wet area.<A4/2> But where
+could that be?
+!******************************!
+[hdr:001e000000026a0800000271080000]
+[inf:8341838d837d]
+<T>The River Thames!
+!******************************!
+[hdr:001e000000026a0800000286080000]
+[inf:8341838d837d]
+<T>Maybe they came to this part of
+town through the tunnel under
+the river!
+!******************************!
+[hdr:001e000000020000000002d2080000]
+[inf:838b815b834e]
+<T><A1/1>Um, Flora?
+!******************************!
+[hdr:001e000000020000000002e6080000]
+[inf:838b815b834e]
+<T>What tunnel under the river?
+!******************************!
+[hdr:001e000000026a0800000206090000]
+[inf:8341838d837d]
+<T>We asked the lady at the hotel how
+to get across the river, and she
+told us about this tunnel.
+!******************************!
+[hdr:001e00000002000000000268090000]
+[inf:838b815b834e]
+<T>Wow...
+!******************************!
+[hdr:002800000002110000000272090000]
+[inf:838c834383678393]
+<T><A4/5>Yes, we've met quite a few
+scientists during our time here.
+!******************************!
+[hdr:0028000000021100000002b7090000]
+[inf:838c834383678393]
+<T>Though they haven't been very
+forthcoming with details, it's clear
+where they've been coming from.
+!******************************!
+[hdr:00280000000211000000021d0a0000]
+[inf:838c834383678393]
+<T><A4/2>My suspicion is that these men work
+at a research facility located near
+the river.
+!******************************!
+[hdr:0028000000021100000002790a0000]
+[inf:838c834383678393]
+<T>They probably come into town to
+refresh themselves after long
+hours of research.
+!******************************!
+[hdr:0028000000020000000002cd0a0000]
+[inf:838b815b834e]
+<T>And you've known this the whole
+time, Professor?
+!******************************!
+[hdr:0028000000021100000002010b0000]
+[inf:838c834383678393]
+<T><A1/2>It's been a working theory for a
+while, yes. After all, who goes
+around in soggy shoes?
+!******************************!
+[hdr:0028000000021100000002620b0000]
+[inf:838c834383678393]
+<T>We've seen too many men walking
+about like that for me to write
+the whole thing off as coincidence.
+!******************************!
+[hdr:0028000000021100000002c90b0000]
+[inf:838c834383678393]
+<T>I therefore believe that this
+research facility is somewhere on
+the other side of the river.
+!******************************!
+[hdr:0028000000020000000002290c0000]
+[inf:838b815b834e]
+<T>Amazing. I've clearly still got a
+long way to go before I can reason
+as well as you do, Professor.
+!******************************!
+[hdr:00280000000211000000028f0c0000]
+[inf:838c834383678393]
+<T>All right, everyone. We're going
+back to the black market bazaar.
+!******************************!
+[hdr:0028000000020000000002d40c0000]
+[inf:838b815b834e]
+<T><A4/1>Why there? If we're trying to get
+across the river, shouldn't we
+head back to the riverside area?
+!******************************!
+[hdr:0032000000026a080000023f0d0000]
+[inf:8341838d837d]
+<T>I'm sure we'll be going there
+eventually.
+!******************************!
+[hdr:0032000000026a080000026c0d0000]
+[inf:8341838d837d]
+<T>But first, we have to talk to that
+man at the bazaar with the
+eyebrows. Grafton, I think.
+!******************************!
+[hdr:0032000000020000000002c90d0000]
+[inf:838b815b834e]
+<T>Okay, if you say so...
+!******************************!

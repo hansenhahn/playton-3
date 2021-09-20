@@ -1,0 +1,127 @@
+[hdr:000a00000002000000000209000000]
+[inf:83788362834c815b]
+<T>Oh, heading out again already?
+!******************************!
+[hdr:000f000000022b0000000234000000]
+[inf:838c834383678393]
+<T>That's right.
+!******************************!
+[hdr:000f000000022b0000000245000000]
+[inf:838c834383678393]
+<T><A1/1>By the way, Becky, I was wondering
+if there's somewhere nearby where
+we can cross the river.
+!******************************!
+[hdr:000f000000020000000002ab000000]
+[inf:83788362834c815b]
+<T>There's the bridge,<A1/5> but it's quite
+a long way out beyond Chinatown.
+!******************************!
+[hdr:001400000002f80000000205010000]
+[inf:837d815b834b838c83628367]
+<T>Do excuse me, but I couldn't help
+but hear that you're trying to
+cross the river?
+!******************************!
+[hdr:00160000000200000000025a010000]
+[inf:83788362834c815b]
+<T><A1/1>Granny! I didn't realise you
+were awake.
+!******************************!
+[hdr:001700000002f8000000028c010000]
+[inf:837d815b834b838c83628367]
+<T>Becky, we've been over this! In
+front of the guests, you're to 
+refer to me as {''}the manager{''}!
+!******************************!
+[hdr:001700000002f800000002f3010000]
+[inf:837d815b834b838c83628367]
+<T>Now where were we?<W> Oh yes,
+crossing the river.
+!******************************!
+[hdr:001900000002f80000000228020000]
+[inf:837d815b834b838c83628367]
+<T>There used to be a tunnel that
+would take you across.
+!******************************!
+[hdr:001900000002f80000000261020000]
+[inf:837d815b834b838c83628367]
+<T>It went right under the river and
+people could just walk through to
+the other side.
+!******************************!
+[hdr:001a00000002b802000002bf020000]
+[inf:8341838d837d]
+<T>Wow! A tunnel under the river
+sounds amazing!
+!******************************!
+[hdr:001a00000002f800000002f0020000]
+[inf:837d815b834b838c83628367]
+<T>Unfortunately, once the Family
+gained control of the city, they
+shut down the tunnel.
+!******************************!
+[hdr:001a00000002f80000000249030000]
+[inf:837d815b834b838c83628367]
+<T>Grafton might still know how to get
+in, though...
+!******************************!
+[hdr:001b000000022b000000027e030000]
+[inf:838c834383678393]
+<T>Grafton?
+!******************************!
+[hdr:001b00000002f8000000028a030000]
+[inf:837d815b834b838c83628367]
+<T>Don't you know him? He's easy to
+spot with those bushy eyebrows,
+blue hat and scheming smile.
+!******************************!
+[hdr:001b00000002f800000002eb030000]
+[inf:837d815b834b838c83628367]
+<T>Ah yes, we go back a long way...
+!******************************!
+[hdr:001b00000002f8000000020f040000]
+[inf:837d815b834b838c83628367]
+<T>He spends most of his time down at
+the black market these days.
+!******************************!
+[hdr:001b000000022b0000000252040000]
+[inf:838c834383678393]
+<T><A4/1>Ah, yes, I do believe we've met this
+friend of yours before.
+!******************************!
+[hdr:001c000000022b0000000298040000]
+[inf:838c834383678393]
+<T>You remember him, don't you, Luke?<W>
+Luke?
+!******************************!
+[hdr:001d00000002b802000002c7040000]
+[inf:8341838d837d]
+<T><A2/5><K>Hmm?<W></K> Where'd he go?
+!******************************!
+[hdr:001e000000022b00000002ee040000]
+[inf:838c834383678393]
+<T><A1/1>He was here just a moment ago.
+!******************************!
+[hdr:001f00000002000000000216050000]
+[inf:83788362834c815b]
+<T>Oh, are you looking for little Luke?<W>
+I just saw him leaving.
+!******************************!
+[hdr:001f000000022b0000000259050000]
+[inf:838c834383678393]
+<T>By himself? But where could he
+possibly be going?
+!******************************!
+[hdr:0028000000022b000000028e050000]
+[inf:838c834383678393]
+<T>Please excuse me, madam, but I
+have to go and find Luke. Thank
+you for directing us to Grafton.
+!******************************!
+[hdr:002800000002f800000002f1050000]
+[inf:837d815b834b838c83628367]
+<T>Not at all. We at the Hotel Duke
+are always delighted to assist our
+guests. 
+!******************************!

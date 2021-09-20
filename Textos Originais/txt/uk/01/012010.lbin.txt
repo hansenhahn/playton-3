@@ -1,0 +1,94 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Excuse me. We're trying to get to
+Auckland Lane, but the buses don't
+seem to go there any more.
+!******************************!
+[hdr:000a000000026a0000000273000000]
+[inf:83418366838a8393]
+<T>Spot on, boyo.<W> Them buses had
+already stopped running when I
+moved here, two years ago.
+!******************************!
+[hdr:000a000000020000000002d1000000]
+[inf:838b815b834e]
+<T>Two years ago? But...<W>the poster
+says the buses won't stop running
+for another five years.
+!******************************!
+[hdr:000a000000026a0000000231010000]
+[inf:83418366838a8393]
+<T>What are you talking about?<W>
+That poster is five years old!<A3/0> Sums
+not your strong spot, boyo?
+!******************************!
+[hdr:000a00000002000000000299010000]
+[inf:838b815b834e]
+<T>But that can't be right! Unless...
+!******************************!
+[hdr:001400000002bf01000002c8010000]
+[inf:838c834383678393]
+<T>Luke! That's enough.
+!******************************!
+[hdr:001400000002bf01000002e0010000]
+[inf:838c834383678393]
+<T>I do apologise for my friend,
+madam.
+!******************************!
+[hdr:001400000002bf0100000208020000]
+[inf:838c834383678393]
+<T>Don't you find the lack of buses in
+this area a bit of an inconvenience,
+though?
+!******************************!
+[hdr:0014000000026a000000025c020000]
+[inf:83418366838a8393]
+<T>Not at all. If I need to take
+public transport, I hop on the
+train, don't I?
+!******************************!
+[hdr:0014000000026a00000002ac020000]
+[inf:83418366838a8393]
+<T>There's a station on Flatstone
+Street, see.
+!******************************!
+[hdr:0014000000026a00000002db020000]
+[inf:83418366838a8393]
+<T>Tourists, is it?
+!******************************!
+[hdr:0014000000026a00000002ef020000]
+[inf:83418366838a8393]
+<T>You should take your questions to
+the hotel on Southern Street. It's
+just down the road.
+!******************************!
+[hdr:0014000000026a000000024b030000]
+[inf:83418366838a8393]
+<T>They'll help you find where you need
+to go.
+!******************************!
+[hdr:001400000002bf010000027a030000]
+[inf:838c834383678393]
+<T>Thank you for your assistance,
+madam.
+!******************************!
+[hdr:001e000000020000000002a3030000]
+[inf:838b815b834e]
+<T><A1/5>Tourists? Us?<W> Hmph! 
+!******************************!
+[hdr:001e000000020000000002c4030000]
+[inf:838b815b834e]
+<T>I was born and raised here! I've
+lived in London longer than she has!
+!******************************!
+[hdr:001e00000002bf010000020d040000]
+[inf:838c834383678393]
+<T>Now, Luke, there's no need to get
+all wound up. Let's find that hotel.
+!******************************!
+[hdr:0028000000026a0000000257040000]
+[inf:83418366838a8393]
+<T>If you've got any more questions
+about the city, ask at the hotel on
+Southern Street, over by there.
+!******************************!

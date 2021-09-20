@@ -1,0 +1,62 @@
+[hdr:000a00000002000000000207000000]
+[inf:837c815b838d]
+<T>I...<W>am lost.
+!******************************!
+[hdr:000a000000021a0000000221000000]
+[inf:8341838d837d]
+<T><A2/5>EEEK!
+!******************************!
+[hdr:001400000002300000000237000000]
+[inf:838b815b834e]
+<T>Flora, are you okay?
+!******************************!
+[hdr:00190000000200000000024f000000]
+[inf:837c815b838d]
+<T>Scusa, comrades. It wasn't my
+intention to scare the young
+fr{:a}ulein.
+!******************************!
+[hdr:00190000000230000000029a000000]
+[inf:838b815b834e]
+<T><A1/6>Pavel!<W> <A1/1>What are you doing down
+here?
+!******************************!
+[hdr:0019000000020000000002d1000000]
+[inf:837c815b838d]
+<T><A1/5>I was exploring the area and
+somehow ended up here. Perdido.
+!******************************!
+[hdr:001e00000002170100000220010000]
+[inf:838c834383678393]
+<T><A1/2>Doing some of the cavern
+exploration you were talking
+about before, I take it?
+!******************************!
+[hdr:001e00000002000000000278010000]
+[inf:837c815b838d]
+<T><A1/1>Da. Earlier in my quest to find
+the great tunnels, I mistakenly
+wandered onto some train tracks.
+!******************************!
+[hdr:001e000000020000000002e2010000]
+[inf:837c815b838d]
+<T>That little viaje put me in great
+peril, but danger is part and parcel
+of exploring el mundo, non?
+!******************************!
+[hdr:001e00000002170100000248020000]
+[inf:838c834383678393]
+<T>I suppose you could say that.
+!******************************!
+[hdr:001e00000002000000000269020000]
+[inf:837c815b838d]
+<T>Naturalmente, most of my travel
+woes could've been avoided if my
+compass hadn't been broken.
+!******************************!
+[hdr:001e000000020000000002c9020000]
+[inf:837c815b838d]
+<T><A2/1>Though I think this map might be
+able to show me which way to go.
+A bit of help, bitte?
+!******************************!

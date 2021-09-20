@@ -1,0 +1,51 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Salutations, mein amigo. I'm afraid
+I'm a little bit lost.
+!******************************!
+[hdr:000f000000024b0000000254000000]
+[inf:838c834383678393]
+<T>Hello there, Pavel. Fancy meeting
+you here.<W> Where are you trying to
+get to this time?
+!******************************!
+[hdr:001200000002b000000002b7000000]
+[inf:837c815b838d]
+<T>I read a magnifique article about
+the underground caverns of der welt
+and decided to come and see them.
+!******************************!
+[hdr:0012000000024b0000000222010000]
+[inf:838c834383678393]
+<T>Ah yes... I've done some research
+into these caverns myself.
+!******************************!
+[hdr:0012000000024b0000000262010000]
+[inf:838c834383678393]
+<T>They're said to exist under many
+of the world's great cities.
+
+!******************************!
+[hdr:001200000002b000000002a4010000]
+[inf:837c815b838d]
+<T>Hai, exactamente. I was on my way
+to discover the subterranean
+ruins of Rome...when I got lost.
+!******************************!
+[hdr:00140000000207020000020e020000]
+[inf:838b815b834e]
+<T>Wait... You were on your way to
+Rome and ended up here?
+!******************************!
+[hdr:001400000002b00000000249020000]
+[inf:837c815b838d]
+<T>Ja. The road of a traveller is long
+and winding. Nevertheless, I'm sure
+I'm heading the right way.
+!******************************!
+[hdr:001400000002b000000002af020000]
+[inf:837c815b838d]
+<T>Seeing as how we bumped into each
+other like this, though, how about
+a puzzle pour la route?
+!******************************!

@@ -1,0 +1,21 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+That side of the room
+is just one big clock
+face!
+!******************************!
+[hdr:001400000002390000000242000000]
+[inf:838c834383678393]
+An impressively grand
+piece of apparatus!
+!******************************!
+[hdr:001e000000026c0000000273000000]
+[inf:8341838d837d]
+I've got absolutely no
+idea what all that
+machinery does...
+!******************************!
+[hdr:000f27000002af00000002b6000000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

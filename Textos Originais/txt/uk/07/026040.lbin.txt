@@ -1,0 +1,12 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Look at all these shops! And it
+smells like something amazing is
+cooking in one of them!
+!******************************!
+[hdr:000a0000000263000000026c000000]
+[inf:838c834383678393]
+<T>I see you've taken a liking to the
+area. Let's try chatting to a few
+of the locals.
+!******************************!

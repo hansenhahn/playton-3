@@ -1,0 +1,61 @@
+[hdr:000a00000002000000000209000000]
+[inf:835783838362834e]
+<T>Here we are.
+!******************************!
+[hdr:000a00000002190000000220000000]
+[inf:838b815b834e]
+<T>Ugh... I feel sick.
+!******************************!
+[hdr:000a00000002370000000240000000]
+[inf:838c834383678393]
+<T>Are you going to be all right, Luke?
+You look positively pea-green.
+!******************************!
+[hdr:000a00000002190000000287000000]
+[inf:838b815b834e]
+<T>I feel sort of seasick. My ears are
+all stuffy and the ground feels like
+it's made of marshmallow.
+!******************************!
+[hdr:000a000000020000000002ed000000]
+[inf:835783838362834e]
+<T>Ah, that'll be time sickness. The
+first jump I made, I didn't feel
+very well either.
+!******************************!
+[hdr:000a00000002370000000245010000]
+[inf:838c834383678393]
+<T>Well Cogg, we're going to head off
+now and see what we can find out.
+!******************************!
+[hdr:000a0000000200000000028d010000]
+[inf:835783838362834e]
+<T>Sounds good. I'll be here waiting
+for you. Just use that special
+knock and I'll let you in.
+!******************************!
+[hdr:000a000000023700000002ec010000]
+[inf:838c834383678393]
+<T><A1/2>Excellent.<W> I was wondering how we'd
+contact you if you went back to
+your own time while we were out.
+!******************************!
+[hdr:000a0000000200000000025d020000]
+[inf:835783838362834e]
+<T>Yep, that'd be a pain, all right.
+!******************************!
+[hdr:000a00000002000000000282020000]
+[inf:835783838362834e]
+<T>Now, you two should get moving. I'd
+like to get home in time for dinner.
+!******************************!
+[hdr:0014000000020000000002ce020000]
+[inf:835783838362834e]
+<T>Have you finished your
+investigation here already?
+!******************************!
+[hdr:001400000002370000000204030000]
+[inf:838c834383678393]
+<T>No, quite the opposite. We're just
+getting started.
+!******************************!

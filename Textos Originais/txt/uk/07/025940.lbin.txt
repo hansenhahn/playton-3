@@ -1,0 +1,14 @@
+[hdr:000a0000000200000000020b000000]
+[inf:96a29788838b815b834e]
+<T>All right, Luke. This is our chance.
+!******************************!
+[hdr:000a0000000233000000023a000000]
+[inf:838b815b834e]
+<T>Gosh, my heart is pounding!
+!******************************!
+[hdr:000a00000002000000000259000000]
+[inf:96a29788838b815b834e]
+<T>Just relax. All we have to do is
+stay out of sight and let
+<N1> work his magic.
+!******************************!

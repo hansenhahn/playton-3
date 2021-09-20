@@ -1,0 +1,20 @@
+[hdr:000a00000002000000000207000000]
+[inf:837883828389]
+<T><A3/2>Hyaah haa haa!<W>
+<A4/3>So you got me the coffee!
+And not a drop spilt!
+!******************************!
+[hdr:000a0000000258000000025f000000]
+[inf:834983458380]
+<T>Awr awwwrk!
+!******************************!
+[hdr:000a0000000200000000026e000000]
+[inf:837883828389]
+<T><A2/4>Ooh, I love the smell of freshly
+ground coffee. Mmmm... Superb!<W>
+<A4/3>I can't thank you enough, parrot!
+!******************************!
+[hdr:000a000000025800000002e2000000]
+[inf:834983458380]
+<T><A4/0>Mmmm! Mmmm!
+!******************************!

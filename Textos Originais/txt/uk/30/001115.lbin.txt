@@ -1,0 +1,31 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+This shop must have
+been abandoned for
+quite a while.
+!******************************!
+[hdr:0014000000023f0000000246000000]
+[inf:838b815b834e]
+I wonder what kind of
+shop this was?
+!******************************!
+[hdr:001e000000023f000000026b000000]
+[inf:838b815b834e]
+Eugh, the floor's
+filthy...
+!******************************!
+[hdr:00280000000287000000028e000000]
+[inf:8341838d837d]
+Eep! What if something
+crawls out of there?
+!******************************!
+[hdr:003200000002ba00000002c3000000]
+[inf:834e838983458358]
+A-choo! Aaaa-choo!
+There's so much dust 
+in here...
+!******************************!
+[hdr:000f27000002f700000002fe000000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

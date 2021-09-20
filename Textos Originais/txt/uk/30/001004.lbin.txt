@@ -1,0 +1,33 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+The walls are damp and
+clammy...
+!******************************!
+[hdr:00140000000200000000022a000000]
+[inf:838c834383678393]
+Don't touch that!
+You'll get your hands
+all dirty.
+!******************************!
+[hdr:001e000000025d0000000264000000]
+[inf:838b815b834e]
+Whoa, that was close!
+My shoes nearly got a
+soaking!
+!******************************!
+[hdr:0028000000025d0000000299000000]
+[inf:838b815b834e]
+You couldn't miss the
+fact that it's a clock
+shop, could you?
+!******************************!
+[hdr:003200000002d700000002de000000]
+[inf:8341838d837d]
+I get the feeling we
+might be their only
+customers...
+!******************************!
+[hdr:000f2700000214010000021b010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

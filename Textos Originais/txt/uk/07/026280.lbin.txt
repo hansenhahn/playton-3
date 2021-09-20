@@ -1,0 +1,191 @@
+[hdr:000a00000002000000000209000000]
+[inf:838b8368838b8374]
+<T>Hoo hoo! Did you deliver the
+message to my sugar lump?
+
+!******************************!
+[hdr:000a0000000244000000024b000000]
+[inf:838b815b834e]
+<T>We did, but I have to tell you, she
+was absolutely seething by the time
+we left.
+!******************************!
+[hdr:000a0000000200000000029f000000]
+[inf:838b8368838b8374]
+<T>Whatever for?
+!******************************!
+[hdr:000a00000002b000000002b9000000]
+[inf:838c834383678393]
+<T>She seemed rather upset at the 
+thought that you might be dining
+at Pepper's Noodle Palace...
+!******************************!
+[hdr:000a0000000200000000021a010000]
+[inf:838b8368838b8374]
+<T><A2/1>Hoo hoo hoo. Dear me, I fear there
+may be a misunderstanding brewing
+here.
+!******************************!
+[hdr:000a00000002b0000000026e010000]
+[inf:838c834383678393]
+<T>Do go on.
+!******************************!
+[hdr:000a0000000200000000027b010000]
+[inf:838b8368838b8374]
+<T>My wife is a gem. I treat her like
+a queen.<W> And queens shouldn't
+have to prepare lunch!
+!******************************!
+[hdr:000a000000020000000002d9010000]
+[inf:838b8368838b8374]
+<T>She works so hard that I don't
+want to add to her burden.<W> Plus,
+who doesn't love noodle soup?
+!******************************!
+[hdr:000a0000000200000000023d020000]
+[inf:838b8368838b8374]
+<T><A1/1>Anyway, I'm boring you now.<W> Let me
+give you that bit of information I
+promised.
+!******************************!
+[hdr:000a00000002000000000299020000]
+[inf:838b8368838b8374]
+<T>This is just a rumour, but I've
+heard that the fellow you're after
+is quite fond of Old Father Thames.
+!******************************!
+[hdr:000a00000002000000000203030000]
+[inf:838b8368838b8374]
+<T>It's said he likes going for walks
+to admire the river whenever he
+has a spare moment.
+!******************************!
+[hdr:000a00000002b0000000025d030000]
+[inf:838c834383678393]
+<T>Interesting. So there's a chance
+we'll find our man down by the
+river?
+!******************************!
+[hdr:000a000000020000000002a7030000]
+[inf:838b8368838b8374]
+<T>Hoo hoo! As I said, it's a rumour
+and nothing more. But go and see,
+there may be some truth in it.
+!******************************!
+[hdr:000a00000002b0000000020d040000]
+[inf:838c834383678393]
+<T>We shall do just that.<W> Thank you for
+the tip.
+!******************************!
+[hdr:000a00000002000000000241040000]
+[inf:838b8368838b8374]
+<T>Just a moment now! Hoo hoo! You
+whippersnappers are always rushing,
+aren't you? Here, take this.
+!******************************!
+[hdr:000f00000002b000000002a5040000]
+[inf:838c834383678393]
+<T><A3/1>A flyer?
+!******************************!
+[hdr:000f000000020000000002b7040000]
+[inf:838b8368838b8374]
+<T>It's for a small restaurant by the
+Thames.
+!******************************!
+[hdr:000f000000024400000002e5040000]
+[inf:838b815b834e]
+<T>The Thames Arms?
+!******************************!
+[hdr:000f000000020000000002f9040000]
+[inf:838b8368838b8374]
+<T>A lovely little place. If you're in the
+area and have the time, you really
+should drop in.
+!******************************!
+[hdr:000f00000002b00000000257050000]
+[inf:838c834383678393]
+<T><A3/2>It sounds like the perfect place to
+take a break. We'll be sure to visit
+if time allows. 
+!******************************!
+[hdr:000f00000002b000000002ba050000]
+[inf:838c834383678393]
+<T>Good day, sir.
+!******************************!
+[hdr:0012000000020000000002cc050000]
+[inf:838b8368838b8374]
+<T>Oh! You lad, wait just a moment!
+!******************************!
+[hdr:0013000000024400000002f0050000]
+[inf:838b815b834e]
+<T>Yes?
+!******************************!
+[hdr:0013000000020000000002f8050000]
+[inf:838b8368838b8374]
+<T>My wife, Myrtle. How, um, angry was
+she, exactly?
+!******************************!
+[hdr:00130000000244000000022d060000]
+[inf:838b815b834e]
+<T>Furious.
+!******************************!
+[hdr:001300000002000000000239060000]
+[inf:838b8368838b8374]
+<T>Oho. I see.<W> Thank you. That'll be all.
+!******************************!
+[hdr:001400000002000000000266060000]
+[inf:838b8368838b8374]
+<T>Oh dear...
+!******************************!
+[hdr:001e00000002b00000000274060000]
+[inf:838c834383678393]
+<T>Is there a spot with a good view of
+the river around here?
+!******************************!
+[hdr:001e000000024400000002b2060000]
+[inf:838b815b834e]
+<T>There was that hill we walked over
+on the way to Chinatown. You
+could see the river from up there.
+!******************************!
+[hdr:001e00000002180700000223070000]
+[inf:96a29788838b815b834e]
+<T>The place that Luke's talking about
+has some stairs that run down to
+the riverside.
+!******************************!
+[hdr:001e0000000218070000027a070000]
+[inf:96a29788838b815b834e]
+<T>It might be worth investigating.
+!******************************!
+[hdr:0028000000029e07000002a5070000]
+[inf:8341838d837d]
+<T>Oh, goody! A walk by the river
+sounds wonderful!
+!******************************!
+[hdr:0028000000024400000002d9070000]
+[inf:838b815b834e]
+<T><A1/5>Flora, focus! This is serious
+business. We're hot on the
+trail of a criminal mastermind!
+!******************************!
+[hdr:00280000000218070000023b080000]
+[inf:96a29788838b815b834e]
+<T><A1/2>Come on, Luke, loosen up a little.
+!******************************!
+[hdr:002800000002180700000267080000]
+[inf:96a29788838b815b834e]
+<T>We're making progress on the case,
+and Flora's just finding her own
+way to enjoy it.
+!******************************!
+[hdr:0028000000024400000002bf080000]
+[inf:838b815b834e]
+<T><A4/2>I suppose that's true.<W> Well, what
+are we waiting for?
+!******************************!
+[hdr:003200000002b00000000201090000]
+[inf:838c834383678393]
+<T>Nothing, Luke. Let's head for the
+hill.
+!******************************!

@@ -1,0 +1,243 @@
+[hdr:000a0000000200000000020b000000]
+[inf:83608346838b837e815b]
+<T>We've already established that
+you were there when the explosion
+occurred.
+!******************************!
+[hdr:000a00000002590000000262000000]
+[inf:838c834383678393]
+<T>Yes, I certainly was.
+!******************************!
+[hdr:000a0000000200000000027b000000]
+[inf:83608346838b837e815b]
+<T>Then you must believe, as I do, that
+there's no way anyone could have
+survived that blast.
+!******************************!
+[hdr:000a000000020000000002d9000000]
+[inf:83608346838b837e815b]
+<T>Not that quack Stahngun, not his
+staff and, though I hate to say
+it, not the prime minister.
+!******************************!
+[hdr:000a00000002000000000239010000]
+[inf:83608346838b837e815b]
+<T>But what confounds me is that we
+haven't found a single trace of
+any of them.
+!******************************!
+[hdr:000a0000000259000000028a010000]
+[inf:838c834383678393]
+<T>What do you mean?
+!******************************!
+[hdr:000a0000000200000000029f010000]
+[inf:83608346838b837e815b]
+<T><A1/5>We went through the place with a
+fine-tooth comb and didn't find
+anything related to the victims.
+!******************************!
+[hdr:000a0000000200000000020a020000]
+[inf:83608346838b837e815b]
+<T>No bodies, no clothing and no shoes.
+Not even so much as a pocket watch
+or ring!
+!******************************!
+[hdr:000a0000000200000000025e020000]
+[inf:83608346838b837e815b]
+<T>All we recovered from the scene
+was the 10 tons of scrap metal
+that used to be the machine.
+!******************************!
+[hdr:000a000000020000000002bd020000]
+[inf:83608346838b837e815b]
+<T>No people.
+!******************************!
+[hdr:001400000002cb02000002d4020000]
+[inf:836f815b83678393]
+<T>There were eight of them, sir.
+!******************************!
+[hdr:0014000000020000000002f6020000]
+[inf:83608346838b837e815b]
+<T>What? Did you just say something,
+Constable?
+!******************************!
+[hdr:001400000002cb0200000226030000]
+[inf:836f815b83678393]
+<T>There were eight of them, sir.
+Eight people vanished.
+!******************************!
+[hdr:00140000000200000000025f030000]
+[inf:83608346838b837e815b]
+<T><A2/1>Ah, yes. According to eyewitness
+reports, eight people vanished from
+the scene.
+!******************************!
+[hdr:0014000000020000000002b8030000]
+[inf:83608346838b837e815b]
+<T>That group consisted of Stahngun,
+a handful of his assistants and the
+prime minister.
+!******************************!
+[hdr:001400000002000000000211040000]
+[inf:83608346838b837e815b]
+<T>Now, how in the world do eight
+people just vanish? It's like a
+blasted magic trick!
+!******************************!
+[hdr:001e0000000268040000026f040000]
+[inf:838b815b834e]
+<T>Don't worry, Inspector. From what
+I've heard, the prime minister is
+still alive!
+!******************************!
+[hdr:001e000000020000000002c3040000]
+[inf:83608346838b837e815b]
+<T><A2/5><K>Hmm?<W></K><A2/1> Ah, young Luke. Be a good lad
+and keep quiet, all right?
+!******************************!
+[hdr:001e0000000200000000021a050000]
+[inf:83608346838b837e815b]
+<T>The adults are having a serious
+conversation here.
+!******************************!
+[hdr:001e00000002000000000250050000]
+[inf:83608346838b837e815b]
+<T>If you're bored, why don't you and
+Barton go and play in the lobby?
+!******************************!
+[hdr:002800000002590000000297050000]
+[inf:838c834383678393]
+<T>Inspector, I assure you Luke isn't
+making this up. There's a very real
+possibility that Bill Hawks is alive.
+!******************************!
+[hdr:002800000002000000000207060000]
+[inf:83608346838b837e815b]
+<T><A2/5>What?!<W> Well, don't leave me here
+scratching my head like a fool!
+Explain yourself, Layton.
+!******************************!
+[hdr:00280000000259000000026e060000]
+[inf:838c834383678393]
+<T>I will, but I must ask a favour of
+you first.
+!******************************!
+[hdr:00280000000200000000029f060000]
+[inf:83608346838b837e815b]
+<T><A1/1>And what would that be?
+!******************************!
+[hdr:0028000000025900000002c0060000]
+[inf:838c834383678393]
+<T>Do you recall the explosion at the
+Institute of Polydimensional
+Research, 10 years ago?
+!******************************!
+[hdr:002d0000000200000000021b070000]
+[inf:83608346838b837e815b]
+<T><J54>What did you just say?!<K><Q></J>
+!******************************!
+[hdr:002f00000002590000000245070000]
+[inf:838c834383678393]
+<T>I'll take that as a yes.<W> It is
+imperative that I see any and all
+case files on that incident.
+!******************************!
+[hdr:002f000000020000000002a9070000]
+[inf:83608346838b837e815b]
+<T><A1/5>It sounds like you're on to
+something here, Layton. What do
+you know?
+!******************************!
+[hdr:002f000000025900000002f8070000]
+[inf:838c834383678393]
+<T>Nothing at the moment. But I have
+a suspicion your current case is
+somehow linked to this old one.
+!******************************!
+[hdr:002f0000000200000000025e080000]
+[inf:83608346838b837e815b]
+<T>Hmm. I'd like to help, really I
+would. But those files are sealed
+and require top-level clearance.
+!******************************!
+[hdr:002f000000020000000002c4080000]
+[inf:83608346838b837e815b]
+<T>Even a high-ranking officer like
+myself would have trouble getting
+his hands on those.
+!******************************!
+[hdr:002f0000000259000000021e090000]
+[inf:838c834383678393]
+<T>I see...
+!******************************!
+[hdr:002f0000000259000000022a090000]
+[inf:838c834383678393]
+<T>I had hoped a man of your status
+might have the necessary clout to
+acquire those documents.
+!******************************!
+[hdr:002f00000002590000000289090000]
+[inf:838c834383678393]
+<T>Unfortunately, it seems I may have
+hoped for too much. I'm sorry to
+have asked the impossible of you.
+!******************************!
+[hdr:002f000000020000000002f2090000]
+[inf:83608346838b837e815b]
+<T><A1/1>Er...<W> Wait just a moment, Layton.
+I...just might be able to get
+you access to the case files.
+!******************************!
+[hdr:002f0000000259000000025c0a0000]
+[inf:838c834383678393]
+<T>Excellent. I would be extremely
+grateful for that.
+!******************************!
+[hdr:002f000000020000000002920a0000]
+[inf:83608346838b837e815b]
+<T>Just one thing, though. These
+documents don't come for free.
+!******************************!
+[hdr:002f000000020000000002d20a0000]
+[inf:83608346838b837e815b]
+<T>I want to hear everything you know,
+or suspect, about the prime
+minister's whereabouts.
+!******************************!
+[hdr:002f0000000259000000022d0b0000]
+[inf:838c834383678393]
+<T><A3/2>Of course. Once I've seen the
+documents and I'm sure my theory
+is sound, every detail will be yours.
+!******************************!
+[hdr:002f0000000200000000029b0b0000]
+[inf:83608346838b837e815b]
+<T><A4/2>Barton! Head down to the archives
+and find those old files. Tell them
+you're there on my orders.
+!******************************!
+[hdr:003200000002cb02000002050c0000]
+[inf:836f815b83678393]
+<T><A3/0>Right away, sir!<A2/1>
+!******************************!
+[hdr:003c000000020000000002250c0000]
+[inf:83608346838b837e815b]
+<T><A1/1>Those files can't leave the
+archives, but you can read
+them down there.
+!******************************!
+[hdr:003c000000020000000002760c0000]
+[inf:83608346838b837e815b]
+<T>Take the stairs down from the
+lobby to the cellar.
+!******************************!
+[hdr:003c000000025900000002ac0c0000]
+[inf:838c834383678393]
+<T>Much appreciated, Inspector.
+!******************************!
+[hdr:0046000000020000000002cc0c0000]
+[inf:83608346838b837e815b]
+<T>The archives are in the cellar
+under the lobby. You can peruse
+the documents down there.
+!******************************!

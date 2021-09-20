@@ -1,0 +1,85 @@
+[hdr:000a00000002000000000209000000]
+[inf:834f8389836e8380]
+<T>Good day, fine gents. Isn't the view
+from here absolutely glorious?
+!******************************!
+[hdr:000a00000002500000000259000000]
+[inf:838c834383678393]
+<T>It most certainly is, sir.
+!******************************!
+[hdr:000a00000002000000000277000000]
+[inf:834f8389836e8380]
+<T><A1/5>Truly, it's nothing short of
+breathtaking.
+!******************************!
+[hdr:000a00000002ab00000002b2000000]
+[inf:838b815b834e]
+<T>Psst, Professor. Look at this man.
+Do you suppose he could be part of
+the Family?
+!******************************!
+[hdr:000a00000002000000000207010000]
+[inf:834f8389836e8380]
+<T><A2/3>What's that, boy? I'm standing
+right here! If you have something
+to say, say it to my face!
+!******************************!
+[hdr:000a0000000200000000026c010000]
+[inf:834f8389836e8380]
+<T>What's more, I don't appreciate
+being associated with those drably
+clad ruffians.
+!******************************!
+[hdr:000a000000020000000002c1010000]
+[inf:834f8389836e8380]
+<T>Look at this suit! See the
+stitching? This was custom-made
+in Italy!<W> Italy, I say!
+!******************************!
+[hdr:000a00000002ab000000021a020000]
+[inf:838b815b834e]
+<T><A1/6>I'm ever so sorry, sir. I meant no
+offence! I never thought you were
+one of them really.
+!******************************!
+[hdr:000a0000000200000000027c020000]
+[inf:834f8389836e8380]
+<T><A2/2>Well, as long as you acknowledge
+your outrageous mistake, I'm willing
+to let bygones be bygones.
+!******************************!
+[hdr:000a000000020000000002e6020000]
+[inf:834f8389836e8380]
+<T>Just to assuage any lingering
+doubts as to my identity, however,
+allow me to introduce myself.
+!******************************!
+[hdr:000a00000002000000000248030000]
+[inf:834f8389836e8380]
+<T><A1/1>Before you stands London's most
+distinguished, dashing and debonair
+man.<W> <A4/5>The name's Graham.
+!******************************!
+[hdr:000a000000020000000002b6030000]
+[inf:834f8389836e8380]
+<T><A1/1>I would tell you to remember the
+name, but I know you can't possibly
+forget!
+!******************************!
+[hdr:000a00000002ab000000020c040000]
+[inf:838b815b834e]
+<T>Got it! Graham, London's most
+distinguished, dashing and, um...
+I forgot the last one.
+!******************************!
+[hdr:000a00000002ab0000000266040000]
+[inf:838b815b834e]
+<T>But I won't forget the name, I
+promise!
+!******************************!
+[hdr:001400000002000000000291040000]
+[inf:834f8389836e8380]
+<T>Graham's the name. Those in search
+of London's most debonair man
+need look no further!
+!******************************!

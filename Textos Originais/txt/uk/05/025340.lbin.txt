@@ -1,0 +1,149 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8366838b838283698a7792b7]
+<T>Hershel, my boy! I've been looking
+for you!
+!******************************!
+[hdr:000a000000023c0000000245000000]
+[inf:838c834383678393]
+<T>Hello there, Dean Delmona. Didn't
+you receive my holiday request?
+!******************************!
+[hdr:000a0000000200000000028a000000]
+[inf:8366838b838283698a7792b7]
+<T>Oh, that? Yes, yes, everything's in
+order there. It's something else
+that I need your help with.
+!******************************!
+[hdr:000a000000023c00000002ee000000]
+[inf:838c834383678393]
+<T><A1/1>Well, in that case, please tell me how
+I can be of assistance.
+!******************************!
+[hdr:000a00000002000000000236010000]
+[inf:8366838b838283698a7792b7]
+<T>Come a bit closer, my boy. What I'm
+about to ask you... Well, I wouldn't
+like anyone else to hear it.
+!******************************!
+[hdr:000a0000000200000000029f010000]
+[inf:8366838b838283698a7792b7]
+<T>The thing is, I have this puzzle that
+I simply can't work out on my own.
+!******************************!
+[hdr:000a000000020000000002eb010000]
+[inf:8366838b838283698a7792b7]
+<T>My darling granddaughter brought
+it to me, but I can't for the life
+of me solve the blasted thing.
+!******************************!
+[hdr:000a000000023c0000000251020000]
+[inf:838c834383678393]
+<T>I can see how that could be rather
+vexing.
+!******************************!
+[hdr:000a0000000200000000027f020000]
+[inf:8366838b838283698a7792b7]
+<T><A2/4>{''}Vexing{''} would be putting it politely.
+!******************************!
+[hdr:000a000000020000000002b5020000]
+[inf:8366838b838283698a7792b7]
+<T>It's hard to feel like the king of
+your castle when you can't even
+solve your grandchildren's puzzles.
+!******************************!
+[hdr:000a0000000200000000021f030000]
+[inf:8366838b838283698a7792b7]
+<T>This is a rather serious issue for
+me, Hershel.
+!******************************!
+[hdr:000a000000023c0000000252030000]
+[inf:838c834383678393]
+<T>It certainly sounds like it.
+!******************************!
+[hdr:000a00000002000000000272030000]
+[inf:8366838b838283698a7792b7]
+<T><A1/1>Yes.<W> So I take it I can count on
+you to help me work this one out?
+!******************************!
+[hdr:000a000000023c00000002c1030000]
+[inf:838c834383678393]
+<T>But of course!
+!******************************!
+[hdr:00e8030000020000000002d3030000]
+[inf:8366838b838283698a7792b7]
+<T>Please don't give up, Hershel. My
+granddaughter will lose all respect
+for me if I can't solve this thing.
+!******************************!
+[hdr:00d007000002000000000240040000]
+[inf:8366838b838283698a7792b7]
+<T>Have you worked out how to solve
+that puzzle?
+!******************************!
+[hdr:00b80b000002000000000271040000]
+[inf:8366838b838283698a7792b7]
+<T>Oho! That's it!<W> My granddaughter's
+going to be over the moon when she
+hears how clever her grandad is!
+!******************************!
+[hdr:00b80b0000023c00000002de040000]
+[inf:838c834383678393]
+<T><A4/2>I'm glad I could help.
+!******************************!
+[hdr:00b80b0000020000000002fe040000]
+[inf:8366838b838283698a7792b7]
+<T>Likewise.<W> By the way, Hershel, I do
+have one more small favour to ask
+of you.
+!******************************!
+[hdr:00b80b0000023c0000000252050000]
+[inf:838c834383678393]
+<T>Certainly.
+!******************************!
+[hdr:00b80b000002000000000260050000]
+[inf:8366838b838283698a7792b7]
+<T>Let's keep the fact that you helped
+me with this puzzle between you, me
+and the wall, shall we, my boy?
+!******************************!
+[hdr:00b80b0000023c00000002cb050000]
+[inf:838c834383678393]
+<T>Of course. You may count on me.
+After all, you've a reputation to
+maintain with your granddaughter.
+!******************************!
+[hdr:00b80b000002000000000232060000]
+[inf:8366838b838283698a7792b7]
+<T>Hoo hoo!<W> Perceptive as always.<W>
+And what about you there, young 
+man? Can you keep a secret?
+!******************************!
+[hdr:00b80b00000297060000029e060000]
+[inf:838b815b834e]
+<T><A3/2>Of course! My lips are sealed, sir.
+!******************************!
+[hdr:00b80b0000020000000002cb060000]
+[inf:8366838b838283698a7792b7]
+<T>Splendid! For that you have my
+thanks.
+!******************************!
+[hdr:00b80b0000020000000002f5060000]
+[inf:8366838b838283698a7792b7]
+<T>One last thing, Hershel. There's
+a young lady in your office.<W>
+She said she's waiting for you.
+!******************************!
+[hdr:00b80b0000023c0000000259070000]
+[inf:838c834383678393]
+<T><A4/1>I see...
+!******************************!
+[hdr:00b80b00000297060000026b070000]
+[inf:838b815b834e]
+<T><A1/6>Professor, he must be talking
+about Flora!
+!******************************!
+[hdr:00a00f00000200000000029f070000]
+[inf:8366838b838283698a7792b7]
+<T>There's a young lady waiting for
+you in your office, Hershel.
+!******************************!

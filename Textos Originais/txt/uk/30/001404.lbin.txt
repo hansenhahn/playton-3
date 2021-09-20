@@ -1,0 +1,33 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+These trains don't
+quite compare to the
+Molentary Express...
+!******************************!
+[hdr:00140000000244000000024d000000]
+[inf:838c834383678393]
+These characters look
+like something out of
+a puzzle to me...
+!******************************!
+[hdr:001e0000000200000000028b000000]
+[inf:838b815b834e]
+That would be a lot
+less scary if it
+didn't loom like that.
+!******************************!
+[hdr:002800000002c700000002ce000000]
+[inf:8341838d837d]
+What beautiful gates
+there are in Chinatown!
+!******************************!
+[hdr:003200000002fb0000000204010000]
+[inf:834e838983458358]
+This bell rings at the
+same time every day.
+You'll get used to it.
+!******************************!
+[hdr:000f2700000247010000024e010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

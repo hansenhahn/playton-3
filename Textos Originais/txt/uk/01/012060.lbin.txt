@@ -1,0 +1,81 @@
+[hdr:000a00000002000000000209000000]
+[inf:83788362834c815b]
+<T><A1/2>Welcome to the Hotel Duke, one of
+London's finest and most renowned
+establishments.
+!******************************!
+[hdr:000a0000000266000000026d000000]
+[inf:838b815b834e]
+<T>Oh, hello again!
+!******************************!
+[hdr:000a00000002000000000281000000]
+[inf:83788362834c815b]
+<T>Tee hee!<W> I ran ahead and took the
+liberty of preparing a room for
+you.
+!******************************!
+[hdr:000a000000020000000002ce000000]
+[inf:83788362834c815b]
+<T>May I help you with your bags?
+!******************************!
+[hdr:000a000000026600000002f0000000]
+[inf:838b815b834e]
+<T><A4/4>Oh, um, that's very kind of
+you, but we only wanted to ask
+directions to the train station.
+!******************************!
+[hdr:000a00000002000000000255010000]
+[inf:83788362834c815b]
+<T><A1/1>Come along now, sirs. I take it
+you're here on holiday?
+!******************************!
+[hdr:000a00000002000000000296010000]
+[inf:83788362834c815b]
+<T>Well, the Hotel Duke is centrally
+located, as you can see.
+!******************************!
+[hdr:000a000000020000000002d4010000]
+[inf:83788362834c815b]
+<T>Stay with us, and you'll spend less
+time travelling and more time
+having fun in the city.
+!******************************!
+[hdr:00140000000231020000023a020000]
+[inf:838c834383678393]
+<T><A1/2>Ha ha! You do make a compelling
+argument, young lady. Location is
+everything, after all.
+!******************************!
+[hdr:00140000000231020000029c020000]
+[inf:838c834383678393]
+<T>We'll take that room - and
+directions to the train station
+as well, of course.
+!******************************!
+[hdr:0014000000020000000002ee020000]
+[inf:83788362834c815b]
+<T>Please, sir, none of that {''}young
+lady{''} stuff. Just call me Becky.
+!******************************!
+[hdr:001400000002000000000239030000]
+[inf:83788362834c815b]
+<T>Now, if I could just ask you to sign
+the hotel guestbook...
+!******************************!
+[hdr:001e00000002660000000278030000]
+[inf:838b815b834e]
+<T>Um, Professor, are we really going
+to stay here?
+!******************************!
+[hdr:001e000000023102000002ac030000]
+[inf:838c834383678393]
+<T><A2/1>Indeed we are. Somehow, you and I
+have managed to get ourselves
+lost in an unfamiliar area.
+!******************************!
+[hdr:001e00000002310200000211040000]
+[inf:838c834383678393]
+<T><A2/2>As Becky noted, having a central
+location to return to while we're
+here could prove very useful.
+!******************************!

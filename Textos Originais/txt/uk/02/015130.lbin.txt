@@ -1,0 +1,33 @@
+[hdr:000a00000002000000000211000000]
+[inf:834e838d815b8393837d837483428341]
+<T>The casino? With that kid?<W> Are you
+barmy or what?
+!******************************!
+[hdr:000a00000002490000000252000000]
+[inf:838c834383678393]
+<T>No, sir. You misunderstand me.
+We aren't going there to gamble,
+merely to-
+!******************************!
+[hdr:000a000000020000000002a0000000]
+[inf:834e838d815b8393837d837483428341]
+<T>A casino ain't no place to take a
+child! Even I know that!
+!******************************!
+[hdr:000a00000002de00000002e5000000]
+[inf:838b815b834e]
+<T>Wow! It's really nice of you to
+worry about me.
+!******************************!
+[hdr:000a00000002490000000218010000]
+[inf:838c834383678393]
+<T>Indeed, but you really needn't be
+concerned about the boy's
+well-being. Especially when-
+!******************************!
+[hdr:000a00000002000000000274010000]
+[inf:834e838d815b8393837d837483428341]
+<T>Look mate, you don't take kids
+into a place like that, and that's
+the end of it.
+!******************************!

@@ -1,0 +1,23 @@
+[hdr:00e803000002000000000207000000]
+[inf:837c815b838d]
+<T>C'est okay. I'll find my own way out
+of here eventually.
+!******************************!
+[hdr:00d007000002000000000243000000]
+[inf:837c815b838d]
+<T>My beloved compass is kaputt.
+!******************************!
+[hdr:00b80b000002000000000264000000]
+[inf:837c815b838d]
+<T>Oh, double gracias, my monsieur.
+Thanks to you, I can now continue
+my travels.
+!******************************!
+[hdr:00b80b000002b600000002bf000000]
+[inf:838c834383678393]
+<T>Do be careful out there, Pavel.
+!******************************!
+[hdr:00a00f0000020000000002e2000000]
+[inf:837c815b838d]
+<T>Bon! Now, which way should I go...?
+!******************************!

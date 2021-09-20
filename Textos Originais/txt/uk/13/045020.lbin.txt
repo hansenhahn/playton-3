@@ -1,0 +1,136 @@
+[hdr:000a00000002000000000209000000]
+[inf:8354838a83418358]
+<T>Look at this device. It seems to be
+monitoring the prime minister's
+heartbeat.
+!******************************!
+[hdr:000a0000000200000000025b000000]
+[inf:8354838a83418358]
+<T>It will detonate the charge if the
+sound of his heartbeat disappears.
+!******************************!
+[hdr:000a00000002a400000002ad000000]
+[inf:838c834383678393]
+<T>Perhaps we can sever the
+connection somehow.
+!******************************!
+[hdr:000a000000020000000002dd000000]
+[inf:8354838a83418358]
+<T>I wouldn't do that, Professor.
+!******************************!
+[hdr:000a000000020000000002ff000000]
+[inf:8354838a83418358]
+<T>See how there are two sets of wires
+in the circuit?
+!******************************!
+[hdr:000a00000002000000000236010000]
+[inf:8354838a83418358]
+<T>I don't think we'll be able to cut
+both sets before the device
+reacts.
+!******************************!
+[hdr:000a00000002a40000000280010000]
+[inf:838c834383678393]
+<T><A3/1>Amazing, Celeste. You obviously
+possess a better understanding
+of mechanics than I do.
+!******************************!
+[hdr:000a00000002a400000002e0010000]
+[inf:838c834383678393]
+<T>Your sister would be very proud.
+!******************************!
+[hdr:000a00000002000000000204020000]
+[inf:8354838a83418358]
+<T>Hey, I've just had an idea.<W> <A2/2>What
+if we use this?
+!******************************!
+[hdr:001400000002a40000000241020000]
+[inf:838c834383678393]
+<T><A1/1>That...is the pocket watch I gave
+Claire, long ago.
+!******************************!
+[hdr:001400000002a4000000027e020000]
+[inf:838c834383678393]
+<T>And here I thought it had been lost
+in the explosion.
+!******************************!
+[hdr:0014000000020000000002b7020000]
+[inf:8354838a83418358]
+<T><A2/6>No... I actually found it when going
+through Claire's things after the
+accident.
+!******************************!
+[hdr:001400000002000000000211030000]
+[inf:8354838a83418358]
+<T>Unfortunately, the watch has been
+broken since I found it.
+!******************************!
+[hdr:00140000000200000000024f030000]
+[inf:8354838a83418358]
+<T>No matter how much I wind it up,
+it never seems to run for more
+than 10 minutes.
+!******************************!
+[hdr:001400000002a400000002a3030000]
+[inf:838c834383678393]
+<T>I see where you're going with this,
+Celeste.
+!******************************!
+[hdr:001400000002a400000002d3030000]
+[inf:838c834383678393]
+<T><A1/1>You're suggesting we replace the
+sound of the prime minister's heart
+with that of the pocket watch?
+!******************************!
+[hdr:001400000002000000000240040000]
+[inf:8354838a83418358]
+<T><A1/1>Exactly. It's risky, but it seems
+to be the only option we've got.
+!******************************!
+[hdr:00140000000200000000028c040000]
+[inf:8354838a83418358]
+<T>We'll need to disconnect the circuit
+from the prime minister and attach
+the watch in one fell swoop.
+!******************************!
+[hdr:001e00000002f404000002fb040000]
+[inf:838b815b834e]
+<T><A4/4>But even if we succeed, the watch
+will stop running in 10 minutes and
+the fortress will explode anyway!
+!******************************!
+[hdr:001e00000002f4040000026c050000]
+[inf:838b815b834e]
+<T>We could end up putting the people
+of London in real danger!
+!******************************!
+[hdr:001e00000002a400000002ac050000]
+[inf:838c834383678393]
+<T><A3/1>Luke, if we take no action, London
+will face a greater danger than
+any explosion.
+!******************************!
+[hdr:001e00000002a40000000207060000]
+[inf:838c834383678393]
+<T>This is our only chance to stop
+Clive. The chances of success
+are slim, but we must try.
+!******************************!
+[hdr:00e803000002a40000000263060000]
+[inf:838c834383678393]
+<T>Argh. I'll have to try again.
+!******************************!
+[hdr:00d007000002a40000000284060000]
+[inf:838c834383678393]
+<T>I must get it right this time.
+!******************************!
+[hdr:00b80b0000020000000002a6060000]
+[inf:8354838a83418358]
+<T>Professor, that's it! The watch is
+connected now!
+!******************************!
+[hdr:00b80b000002a400000002db060000]
+[inf:838c834383678393]
+<T>Yes, but our work here is far
+from over.
+!******************************!

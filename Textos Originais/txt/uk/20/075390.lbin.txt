@@ -1,0 +1,32 @@
+[hdr:000a00000002000000000207000000]
+[inf:8341838d837d]
+<T>Say, have you seen Luke around
+here?
+!******************************!
+[hdr:000a000000022f000000023a000000]
+[inf:8369835d815b8372815b]
+<T>Bzzzz bzzzzzzz bzzzzz. Bzz bzzzzzz
+bzzzz bzzzzzz. Bzz bzz bzzzzzzzzzz.
+!******************************!
+[hdr:000a0000000284000000028d000000]
+[inf:838c834383678393]
+<T><A3/1>It doesn't look as though Luke is
+here. Let's search elsewhere, shall
+we?
+!******************************!
+[hdr:000a000000020000000002e0000000]
+[inf:8341838d837d]
+<T><A1/2>All right, Professor.
+!******************************!
+[hdr:0014000000022f00000002ff000000]
+[inf:8369835d815b8372815b]
+<T><A1/3>Luke? He's over by the statue in
+the brick courtyard!<W> Hey! HEY!<W>
+Are they even listening?
+!******************************!
+[hdr:0014000000022f0000000267010000]
+[inf:8369835d815b8372815b]
+<T>They can't understand a word I'm
+saying, can they? And now they've
+buzzed off. Bah! Honey-grabbers!
+!******************************!

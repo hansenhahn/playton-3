@@ -1,0 +1,15 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>Nice work!
+!******************************!
+[hdr:000a0000000200000000021b000000]
+[inf:8369838c815b835683878393]
+<T>This concludes the demo of
+Professor Layton and the Lost
+Future.
+!******************************!
+[hdr:000a0000000200000000025f000000]
+[inf:8369838c815b835683878393]
+<T>The adventure continues in the full
+version of the game!
+!******************************!

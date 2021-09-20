@@ -1,0 +1,93 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Hey there!
+!******************************!
+[hdr:000a0000000215000000021e000000]
+[inf:8372837283418393]
+<T><A5/1>Hello there Mr Gentlemen!
+!******************************!
+[hdr:000a00000002000000000241000000]
+[inf:838b815b834e]
+<T><A4/2>Are you looking for a new toy?
+!******************************!
+[hdr:000a00000002150000000269000000]
+[inf:8372837283418393]
+<T><A5/3>Not really. I mean the toy cars are
+rather fun, but there isn't much
+else to shout about in here.
+!******************************!
+[hdr:000a000000021500000002d4000000]
+[inf:8372837283418393]
+<T>They should really spice up their
+stock with some new products.
+!******************************!
+[hdr:000a00000002000000000217010000]
+[inf:838b815b834e]
+<T><A4/1>Crikey, you're not half picky when
+it comes to toy shopping.
+!******************************!
+[hdr:000a0000000215000000025d010000]
+[inf:8372837283418393]
+<T><A2/1>Well, Mother has a certain
+philosophy:
+!******************************!
+[hdr:000a0000000215000000028d010000]
+[inf:8372837283418393]
+<T>{''}Only shabby shoppers shop at
+shabby shops.{''} That's what she
+always says.
+!******************************!
+[hdr:000a000000021500000002e0010000]
+[inf:8372837283418393]
+<T>Chequer tries his best, but this
+place really needs to get its act
+together.
+!******************************!
+[hdr:000a00000002000000000230020000]
+[inf:838b815b834e]
+<T><A4/4>Oh my, I hope poor Chequer didn't
+hear that...
+!******************************!
+[hdr:000a00000002150000000268020000]
+[inf:8372837283418393]
+<T>Shopping is serious business. You
+need brains to do it right.<W>
+Let me give you an example.
+!******************************!
+[hdr:00e8030000021500000002c8020000]
+[inf:8372837283418393]
+<T>Is my puzzle too hard for you?
+Hmm. Maybe you just aren't a
+savvy shopper.
+!******************************!
+[hdr:00d007000002150000000216030000]
+[inf:8372837283418393]
+<T>Shopping can be such mentally
+exhausting work sometimes.
+!******************************!
+[hdr:00b80b000002150000000252030000]
+[inf:8372837283418393]
+<T>You know, I think I've had enough
+of those toy cars. They're for
+little children.
+!******************************!
+[hdr:00b80b0000021500000002a7030000]
+[inf:8372837283418393]
+<T>I mean, a young gentleman like you
+wouldn't be interested in something
+so childish, would you?
+!******************************!
+[hdr:00b80b000002000000000209040000]
+[inf:838b815b834e]
+<T><A1/5>Those silly things?<W> Of course not!
+I've never even touched one!
+!******************************!
+[hdr:00b80b00000255040000025e040000]
+[inf:838c834383678393]
+<T><A4/1>Now, Luke, telling fibs is unbecoming
+for a gentleman...
+!******************************!
+[hdr:00a00f0000021500000002a0040000]
+[inf:8372837283418393]
+<T>Hello there Mr Gentlemen! 
+!******************************!

@@ -1,0 +1,62 @@
+[hdr:000a0000000200000000020b000000]
+[inf:83608346838b837e815b]
+<T>Good day, Layton. How's your
+investigation going?
+!******************************!
+[hdr:000a00000002400000000249000000]
+[inf:838c834383678393]
+<T><A1/2>I believe I'm making good progress -
+with a little help from Scotland
+Yard, of course.
+!******************************!
+[hdr:000a000000024000000002a9000000]
+[inf:838c834383678393]
+<T>How about yourself, Inspector?
+Have you come across any promising
+leads?
+!******************************!
+[hdr:000a000000020000000002f5000000]
+[inf:83608346838b837e815b]
+<T><A2/1>I'd say so. You won't believe the
+chat I heard a couple of suspicious
+blokes having a moment ago.
+!******************************!
+[hdr:000a00000002400000000260010000]
+[inf:838c834383678393]
+<T><A1/1>Oh really?<W> Would you care to tell
+me what you heard, perhaps?
+!******************************!
+[hdr:00e8030000020000000002aa010000]
+[inf:83608346838b837e815b]
+<T><A3/5>Giving up, Layton? This puzzle might
+contain information vital to both
+our investigations, you know.
+!******************************!
+[hdr:00d007000002000000000218020000]
+[inf:83608346838b837e815b]
+<T><A1/1>Layton, help me make sense of this
+puzzle. Solving it might blow our
+case wide open.
+!******************************!
+[hdr:00b80b000002000000000276020000]
+[inf:83608346838b837e815b]
+<T><A4/2>There, it's solved!
+!******************************!
+[hdr:00b80b000002400000000293020000]
+[inf:838c834383678393]
+<T><A4/1>True, but unfortunately I don't see
+any link between this puzzle and
+our case.
+!******************************!
+[hdr:00b80b0000020000000002eb020000]
+[inf:83608346838b837e815b]
+<T><A2/6>Oh?<W> Hmm, yes, I suppose that's
+true. Hrmph! Back to pounding the
+pavement it is, then...
+!******************************!
+[hdr:00a00f000002000000000250030000]
+[inf:83608346838b837e815b]
+<T><A3/1>I'm going to get to the bottom of
+this and rescue the prime minister.
+You can bet on that, Layton.
+!******************************!

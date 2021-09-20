@@ -1,0 +1,19 @@
+[hdr:000a00000002000000000209000000]
+[inf:836f8362834a8358]
+<T><A3/2>Brilliant! Just in time! Cheers,
+feathered fella! I owe you one.
+!******************************!
+[hdr:000a0000000253000000025a000000]
+[inf:834983458380]
+<T>Awwwrk!
+!******************************!
+[hdr:000a00000002000000000265000000]
+[inf:836f8362834a8358]
+<T><A2/5>And one tureen of Tomato Supreme.
+The secret ingredient is chickpeas.<W>
+Want to try some?
+!******************************!
+[hdr:000a000000025300000002c9000000]
+[inf:834983458380]
+<T><A4/0>Tomarrrto?
+!******************************!

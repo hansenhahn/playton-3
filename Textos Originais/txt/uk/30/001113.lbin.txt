@@ -1,0 +1,32 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+Bagsy this bed,
+Professor!
+!******************************!
+[hdr:00140000000222000000022b000000]
+[inf:838c834383678393]
+I should be able to
+spend a comfortable
+night in this bed.
+!******************************!
+[hdr:001e00000002220000000266000000]
+[inf:838c834383678393]
+Ahh, the {''}cup that
+cheers{''}. Let's go once
+we've had some tea.
+!******************************!
+[hdr:002800000002aa00000002b1000000]
+[inf:8341838d837d]
+Hey, is that Becky
+outside?
+!******************************!
+[hdr:003200000002cd00000002d6000000]
+[inf:834e838983458358]
+This painting is a
+little...basic for my
+tastes.
+!******************************!
+[hdr:000f2700000207010000020e010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

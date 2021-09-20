@@ -1,0 +1,30 @@
+[hdr:006400000002000000000201000000]
+[inf:]
+This stop lies at the bottom of
+the quaint, winding Midland Road.
+!******************************!
+[hdr:006500000002430000000244000000]
+[inf:]
+This is the stop all the students
+use when they go to the university.
+!******************************!
+[hdr:0066000000028a000000028b000000]
+[inf:]
+This is the stop for Scotland Yard,
+headquarters of the London police.
+!******************************!
+[hdr:00c800000002d200000002d3000000]
+[inf:]
+This station is often used by
+patrons of the Gilded 7 Casino.
+!******************************!
+[hdr:00c900000002110100000212010000]
+[inf:]
+This stop is conveniently located
+right in front of Green Hospital.
+!******************************!
+[hdr:00ca00000002560100000257010000]
+[inf:]
+This station is situated in the
+heart of exotic Chinatown.
+!******************************!

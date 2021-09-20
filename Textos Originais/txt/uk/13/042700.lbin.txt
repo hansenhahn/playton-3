@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000209000000]
+[inf:834e838983458358]
+<V0010><T>You never fail to impress. Sadly, I
+must leave you now, as the main
+event is about to start.</V>
+!******************************!
+[hdr:000a0000000274000000027d000000]
+[inf:838c834383678393]
+<V0020><T>What do you mean?</V>
+!******************************!

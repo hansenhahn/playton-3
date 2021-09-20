@@ -1,0 +1,47 @@
+[hdr:000a00000002000000000211000000]
+[inf:834e838d815b8393837d837483428341]
+<T>You've got exactly five seconds
+to stop gawpin', boy.<W> One...<W> Two...
+!******************************!
+[hdr:000a000000025e0000000265000000]
+[inf:838b815b834e]
+<T><A1/6>I-I'm very sorry, sir!
+!******************************!
+[hdr:00140000000285000000028e000000]
+[inf:838c834383678393]
+<T>I gather that didn't go very well,
+Luke?
+!******************************!
+[hdr:0014000000025e00000002ba000000]
+[inf:838b815b834e]
+<T><A1/3>Let's ask someone else, Professor.
+I can't even look at that man
+without him snapping at me.
+!******************************!
+[hdr:001400000002850000000220010000]
+[inf:838c834383678393]
+<T><A1/2>And all this time I thought you had
+a talent for communicating with
+wild animals! Ha ha!
+!******************************!
+[hdr:0014000000025e0000000282010000]
+[inf:838b815b834e]
+<T><A1/5>Don't laugh, Professor!<W> That man
+was scary!
+!******************************!
+[hdr:0014000000028500000002ba010000]
+[inf:838c834383678393]
+<T>Now now, don't look so sour. I was
+only trying to lighten the mood a
+little.
+!******************************!
+[hdr:00140000000285000000020a020000]
+[inf:838c834383678393]
+<T>Why don't we find someone else to
+help us?
+!******************************!
+[hdr:001e00000002000000000238020000]
+[inf:834e838d815b8393837d837483428341]
+<T>I thought I told you to stop
+gawpin'?!<W> Now get outta my face!
+!******************************!

@@ -1,0 +1,38 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+Mmm! Something's
+cooking! Fresh bread?
+Chicken, maybe?
+!******************************!
+[hdr:0014000000023e0000000247000000]
+[inf:838c834383678393]
+The London skyline is
+simply magnificent!
+!******************************!
+[hdr:001e00000002000000000271000000]
+[inf:838b815b834e]
+I-I didn't break it!
+It just fell apart,
+honestly!
+!******************************!
+[hdr:0028000000023e00000002a4000000]
+[inf:838c834383678393]
+This alley leads to
+Midland Road.
+!******************************!
+[hdr:0032000000020000000002c6000000]
+[inf:838b815b834e]
+This car looks more
+comfortable than the
+Laytonmobile.
+!******************************!
+[hdr:003c000000020000000002fd000000]
+[inf:838b815b834e]
+Here's a bus timetable.
+It looks as if buses
+come quite regularly.
+!******************************!
+[hdr:000f27000002400100000247010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

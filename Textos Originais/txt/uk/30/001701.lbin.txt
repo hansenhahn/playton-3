@@ -1,0 +1,27 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+Look at how dirty this
+water is. Is it coming
+from the river?
+!******************************!
+[hdr:00140000000245000000024e000000]
+[inf:838c834383678393]
+Oh my, it's rather
+slippery over here.
+Mind your step.
+!******************************!
+[hdr:00280000000285000000028c000000]
+[inf:8341838d837d]
+I know it's a secret
+base and all, but it
+IS awfully dark.
+!******************************!
+[hdr:003200000002c700000002ce000000]
+[inf:837c815b838b]
+Heh heh, it's just like
+a spy film!
+!******************************!
+[hdr:000f27000002f200000002f9000000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

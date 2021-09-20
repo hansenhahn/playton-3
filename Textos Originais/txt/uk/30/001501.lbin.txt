@@ -1,0 +1,34 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+It's surprisingly clean
+in here for a gang
+hideout...
+!******************************!
+[hdr:0014000000023d0000000246000000]
+[inf:838c834383678393]
+I feel like the eyes of
+those goggles are
+following me around...
+!******************************!
+[hdr:001e000000023d0000000287000000]
+[inf:838c834383678393]
+This tower is like a
+puzzle set, given to
+me by my future self.
+!******************************!
+[hdr:002800000002c700000002ce000000]
+[inf:8341838d837d]
+They might be evil
+and all, but the Family
+certainly have style.
+!******************************!
+[hdr:0032000000020f0100000218010000]
+[inf:834e838983458358]
+Now when did I last
+see the future
+Professor Layton?
+!******************************!
+[hdr:000f270000024d0100000254010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

@@ -1,0 +1,52 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>I suppose it would be too much to
+expect the door to be open...
+!******************************!
+[hdr:000a000000024a0000000253000000]
+[inf:838c834383678393]
+<T>Let's see. The eyes of this dragon
+seem to be the key that unlocks
+this door.
+!******************************!
+[hdr:000a000000020000000002a4000000]
+[inf:838b815b834e]
+<T><A2/2>Sounds like a puzzle! Let me handle
+it, Professor. I'll have the door
+open before you know it!
+!******************************!
+[hdr:00e80300000200000000020c010000]
+[inf:838b815b834e]
+<T>I think I need another minute to
+think about this...
+!******************************!
+[hdr:00e8030000024a0000000244010000]
+[inf:838c834383678393]
+<T>Would you like me to have a go
+at it, Luke?
+!******************************!
+[hdr:00e803000002000000000273010000]
+[inf:838b815b834e]
+<T><A1/5>That won't be necessary,
+Professor. I'm sure I can solve
+this one!
+!******************************!
+[hdr:00d0070000024a00000002bf010000]
+[inf:838c834383678393]
+<T>I'm confident the door will open
+just as soon as we solve this
+puzzle.
+!******************************!
+[hdr:00b80b000002000000000209020000]
+[inf:838b815b834e]
+<T>All set!
+!******************************!
+[hdr:00b80b0000024a0000000215020000]
+[inf:838c834383678393]
+<T><A4/2>Smashing work, Luke.
+!******************************!
+[hdr:00c20b00000233020000023e020000]
+[inf:96a29788838b815b834e]
+<T>There's no time to celebrate. Let's
+head inside.
+!******************************!

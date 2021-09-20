@@ -1,0 +1,17 @@
+[hdr:000a0000000200000000020f000000]
+[inf:836f815b8367839381699048816a]
+<T>Om nom CHOMP om nom nom. The -
+nom - food here - shlurp - really
+hits the spot. CHOMP!
+!******************************!
+[hdr:000a00000002000000000269000000]
+[inf:836f815b8367839381699048816a]
+<T>GULP!<W> When I'm done here, I think
+I'll continue my, er, patrol, down
+at the noodle shop in Chinatown.
+!******************************!
+[hdr:000a000000020000000002d5000000]
+[inf:836f815b8367839381699048816a]
+<T>Chomp chomp chomp...<W> Mmm. Now
+that's good stuff.
+!******************************!

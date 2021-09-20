@@ -1,0 +1,76 @@
+[hdr:000a00000002000000000209000000]
+[inf:836e838d838b8368]
+<T>Good evening, sir.<W> May I see your
+membership card, please?
+!******************************!
+[hdr:000a000000024a0000000253000000]
+[inf:838c834383678393]
+<T>Membership card?
+!******************************!
+[hdr:000a00000002000000000267000000]
+[inf:836e838d838b8368]
+<T><A1/2>The Gilded 7 Casino is a haven
+where society's finest ladies and
+gentlemen can gather.
+!******************************!
+[hdr:000a000000020000000002c7000000]
+[inf:836e838d838b8368]
+<T>We check membership cards upon
+entry to ensure that less savoury
+types are kept out.
+!******************************!
+[hdr:000a000000024a000000021f010000]
+[inf:838c834383678393]
+<T>Hmm... This is certainly the first
+I've heard of such a policy.
+!******************************!
+[hdr:000a000000024a0000000262010000]
+[inf:838c834383678393]
+<T>I don't suppose you'd be willing
+to make an exception for us?
+!******************************!
+[hdr:000a000000020000000002a3010000]
+[inf:836e838d838b8368]
+<T><A2/2>Well, your hat does show you to be
+a man of impeccable taste. Now we
+just need to test your intellect.
+!******************************!
+[hdr:000a00000002000000000213020000]
+[inf:836e838d838b8368]
+<T>If you can solve this puzzle, I'll let
+you in without a card - just this
+once, mind.
+!******************************!
+[hdr:0014000000026b0200000272020000]
+[inf:838b815b834e]
+<T><A4/1>This fellow seems awfully focused
+on your hat as well.
+!******************************!
+[hdr:0014000000024a00000002b2020000]
+[inf:838c834383678393]
+<T>Naturally. Is there any greater
+proof of one's gentlemanly nature
+than a fine top hat?
+!******************************!
+[hdr:00e80300000200000000020c030000]
+[inf:836e838d838b8368]
+<T><A2/1>Come now, sir. Don't tell me
+a gentleman of your calibre is
+incapable of solving a quick puzzle.
+!******************************!
+[hdr:00d007000002000000000276030000]
+[inf:836e838d838b8368]
+<T><A2/1>Back to try again, sir?<W> <A2/2>Perhaps
+you can find the correct answer
+this time.
+!******************************!
+[hdr:00b80b0000020000000002d3030000]
+[inf:836e838d838b8368]
+<T><A1/1>Expertly solved, sir.
+!******************************!
+[hdr:00b80b0000020000000002f2030000]
+[inf:836e838d838b8368]
+<T>You've certainly earned the right
+to enjoy our exclusive facilities.<W>
+<A1/2>Welcome to the Gilded 7.
+!******************************!

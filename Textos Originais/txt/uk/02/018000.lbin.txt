@@ -1,0 +1,22 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Just look at these fountains! And
+this floor! The owner must be
+filthy rich!
+!******************************!
+[hdr:000a00000002570000000260000000]
+[inf:838c834383678393]
+<T>I know you're excited, Luke, but do
+try to keep your voice down.
+!******************************!
+[hdr:000a000000020000000002a4000000]
+[inf:838b815b834e]
+<T>Sorry, Professor. This place is
+just so impressive.
+!******************************!
+[hdr:000a000000025700000002db000000]
+[inf:838c834383678393]
+<T>I understand the feeling. It's also
+quite large. Finding your future
+self in here may prove difficult.
+!******************************!

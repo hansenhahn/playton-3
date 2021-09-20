@@ -1,0 +1,90 @@
+[hdr:000a00000002000000000209000000]
+[inf:838b8368838b8374]
+<T>Good day, whippersnappers. Did you
+manage to find that dreadful man
+who runs the Towering Pagoda?
+!******************************!
+[hdr:000a000000026e0000000277000000]
+[inf:838c834383678393]
+<T>Unfortunately not. He was out when
+we visited. We are still trying to
+locate him.
+!******************************!
+[hdr:000a000000020000000002cc000000]
+[inf:838b8368838b8374]
+<T>Ah. Well, you're wasting your time
+searching for him in this part of
+town.
+!******************************!
+[hdr:000a000000021a0100000221010000]
+[inf:838b815b834e]
+<T><A3/1>Does that mean you know where we
+can find him?!
+!******************************!
+[hdr:000a0000000200000000025a010000]
+[inf:838b8368838b8374]
+<T><A2/1>Hoo hoo hoo! I've said too much.
+I can be so careless at times.
+!******************************!
+[hdr:000a000000021a01000002a3010000]
+[inf:838b815b834e]
+<T>So you do know! Please tell us where
+he is. It's very important!
+!******************************!
+[hdr:000a000000020000000002e7010000]
+[inf:838b8368838b8374]
+<T>I've said it once and I'll say it
+again, lad. I like how forthright
+you are.
+!******************************!
+[hdr:000a00000002000000000237020000]
+[inf:838b8368838b8374]
+<T>So I suppose I could drop a
+potentially helpful hint your way.
+On one condition, that is.
+!******************************!
+[hdr:000a000000021a0100000294020000]
+[inf:838b815b834e]
+<T>What {''}condition{''}?
+!******************************!
+[hdr:000a000000020000000002af020000]
+[inf:838b8368838b8374]
+<T><A1/1>Run over and tell my darling wife
+that I'll be eating out for lunch
+today.
+!******************************!
+[hdr:000a00000002000000000203030000]
+[inf:838b8368838b8374]
+<T>Do that and I'll gladly help you.
+!******************************!
+[hdr:000a000000021a0100000228030000]
+[inf:838b815b834e]
+<T>But we don't know who she is or
+where to find her.
+!******************************!
+[hdr:000a0000000200000000025e030000]
+[inf:838b8368838b8374]
+<T>Oh, she's easy to find, my Myrtle.
+She runs a pet shop on the edge of
+Chinatown.
+!******************************!
+[hdr:000a000000020000000002b2030000]
+[inf:838b8368838b8374]
+<T>It shouldn't take you long to find it.
+!******************************!
+[hdr:000a000000026e00000002dc030000]
+[inf:838c834383678393]
+<T><A4/2>Very well. We'll deliver the message
+to your wife and return immediately.
+!******************************!
+[hdr:00140000000200000000022f040000]
+[inf:838b8368838b8374]
+<T>You still haven't delivered that
+message to my beloved wife?
+!******************************!
+[hdr:00140000000200000000026f040000]
+[inf:838b8368838b8374]
+<T>Go to the pet shop on the edge of
+Chinatown. She's the looker that's
+managing the place.
+!******************************!

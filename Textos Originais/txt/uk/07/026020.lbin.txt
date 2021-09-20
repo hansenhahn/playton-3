@@ -1,0 +1,86 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Hello there. Do you live in
+Chinatown? Could you tell us a
+little about the area?
+!******************************!
+[hdr:000a000000025c0000000265000000]
+[inf:837e815b83608346]
+<T>Listen to yourself, young man.
+<A2/1>Like all sentient beings, we exist
+both everywhere and nowhere.
+!******************************!
+[hdr:000a000000020000000002cd000000]
+[inf:838b815b834e]
+<T>Well that's very...nice.
+!******************************!
+[hdr:000a000000025c00000002e9000000]
+[inf:837e815b83608346]
+<T><A3/1>Now, if what you really wanted to
+ask me was where my physical body
+resides, I'll tell you.
+!******************************!
+[hdr:000a000000025c000000024e010000]
+[inf:837e815b83608346]
+<T>I do indeed {''}live{''} in Chinatown.
+!******************************!
+[hdr:000a000000025c0000000278010000]
+[inf:837e815b83608346]
+<T><A3/3>Here you can find exotic goods
+and rare wonders from all over
+the world.
+!******************************!
+[hdr:000a000000025c00000002ca010000]
+[inf:837e815b83608346]
+<T>But these things don't interest me.
+Material objects are mere flecks
+of dust on the universe's canvas.
+!******************************!
+[hdr:000a00000002000000000234020000]
+[inf:838b815b834e]
+<T><A4/4>Ugh. Something tells me I picked the
+wrong person to ask for
+directions.
+!******************************!
+[hdr:000a000000025c0000000286020000]
+[inf:837e815b83608346]
+<T><A2/1>You've only just started making
+your way in this world, young one.
+!******************************!
+[hdr:000a000000025c00000002d2020000]
+[inf:837e815b83608346]
+<T>For you, many of life's greatest
+puzzles remain unsolved.<W> This one,
+for example.
+!******************************!
+[hdr:00e8030000025c0000000229030000]
+[inf:837e815b83608346]
+<T>Learn, but do not lose your
+individuality. You mustn't conform
+to the values of the masses.
+!******************************!
+[hdr:00e803000002000000000288030000]
+[inf:838b815b834e]
+<T><A1/1>Erm... I'll try my best.
+!******************************!
+[hdr:00d0070000025c00000002aa030000]
+[inf:837e815b83608346]
+<T>I see you've returned, young one.
+!******************************!
+[hdr:00b80b0000025c00000002cf030000]
+[inf:837e815b83608346]
+<T>Yes, that's it! Seek the answers to
+your own questions! That is the
+root of individuality.
+!******************************!
+[hdr:00b80b0000025c000000022d040000]
+[inf:837e815b83608346]
+<T>Only by doing this will you find the
+true value to be had in the infinite
+moment we call the present.
+!******************************!
+[hdr:00b80b000002000000000296040000]
+[inf:838b815b834e]
+<T>Erm...<W> Thanks for the compliment,
+but I have to go now. Bye!
+!******************************!

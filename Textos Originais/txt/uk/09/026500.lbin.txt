@@ -1,0 +1,70 @@
+[hdr:000a00000002000000000209000000]
+[inf:838b8368838b8374]
+<T>Well hello again, whippersnappers!
+Did you manage to find that nasty
+man from the Towering Pagoda?
+!******************************!
+[hdr:000a000000026f0000000278000000]
+[inf:838c834383678393]
+<T>No, it seems we just missed him
+down by the river. But we believe
+he's back at the pagoda now.
+!******************************!
+[hdr:000a000000020000000002da000000]
+[inf:838b8368838b8374]
+<T>Hoo hoo hoo! All this coming and
+going must be taking it out of you!
+!******************************!
+[hdr:000a00000002000000000222010000]
+[inf:838b8368838b8374]
+<T>Good thing you're still young and
+full of beans!
+!******************************!
+[hdr:00140000000256010000025d010000]
+[inf:838b815b834e]
+<T>And what about you, Rudolph? Have
+you resolved your little problem?
+!******************************!
+[hdr:0014000000020000000002a4010000]
+[inf:838b8368838b8374]
+<T><A1/2>Hrm? P-problem? I don't know what
+you mean, lad...
+!******************************!
+[hdr:001e00000002e001000002e7010000]
+[inf:8341838d837d]
+<T><A1/3>Don't play innocent. Luke's talking
+about your clandestine lunchtime
+rendezvous with Pepper.
+!******************************!
+[hdr:001e0000000200000000024d020000]
+[inf:838b8368838b8374]
+<T>Wh-what?<W> Oh no, no, no! My wife's
+mistaken about all of that. Really,
+it's nothing scandalous!
+!******************************!
+[hdr:001e000000020000000002b2020000]
+[inf:838b8368838b8374]
+<T>Thanks for your concern, but it's
+all just a big misunderstanding.
+Please don't pay it any heed.
+!******************************!
+[hdr:0028000000026f0000000216030000]
+[inf:838c834383678393]
+<T>I'm pleased to hear that there's no
+reason to worry.
+!******************************!
+[hdr:0028000000026f000000024e030000]
+[inf:838c834383678393]
+<T><A1/1>Now come along, everyone. We
+mustn't waste any more time in
+getting to the Towering Pagoda.
+!******************************!
+[hdr:0032000000025601000002b3030000]
+[inf:838b815b834e]
+<T>Okay, Professor.
+!******************************!
+[hdr:003c000000020000000002c7030000]
+[inf:838b8368838b8374]
+<T><A1/1>I'd best head home myself...before
+Myrtle explodes.
+!******************************!

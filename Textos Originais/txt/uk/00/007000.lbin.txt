@@ -1,0 +1,50 @@
+[hdr:000a0000000200000000020b000000]
+[inf:4f50838b815b834e8252]
+<V0010><T>So, you think that what happened
+last week is somehow connected to
+this letter...</V>
+!******************************!
+[hdr:000a0000000200000000026b000000]
+[inf:4f50838b815b834e8252]
+<V0020><T>Wait! Maybe if the time machine was
+real, this letter is real, too!</V>
+!******************************!
+[hdr:000f00000002bd00000002ca000000]
+[inf:4f50838c8343836783938252]
+<V0030><T>I don't know about that, but these
+two elements aren't the only puzzling
+issues.</V>
+!******************************!
+[hdr:000f00000002bd0000000229010000]
+[inf:4f50838c8343836783938252]
+<T><V0031>Tell me, Luke, have you heard about
+the recent disappearances
+occurring here in London?</V>
+!******************************!
+[hdr:00140000000200000000028f010000]
+[inf:4f50838b815b834e8252]
+<V0040><T>Oh yes, I read about it in the
+paper.</V>
+!******************************!
+[hdr:0014000000020000000002c3010000]
+[inf:4f50838b815b834e8252]
+<T><V0041>Some of London's greatest
+scientists have been mysteriously
+vanishing.</V>
+!******************************!
+[hdr:001400000002bd0000000218020000]
+[inf:4f50838c8343836783938252]
+<V0050><T>Yes, and I can't shake the feeling
+that those disappearances are
+linked to this whole affair.</V>
+!******************************!
+[hdr:001e00000002bd0000000284020000]
+[inf:4f50838c8343836783938252]
+<V0060><T>In any case, it seems our best
+course of action is to head to the
+location mentioned in the letter.</V>
+!******************************!
+[hdr:001e000000020000000002f6020000]
+[inf:4f50838b815b834e8252]
+<V0070><T>Good idea!</V>
+!******************************!

@@ -1,9 +1,0 @@
-<HDR:838C834383678393>
-<T>Punch in those coordinates, Luke.
-Once you do that, we should be
-able to go to the generator room.
-!******************************!
-<HDR:838B815B834E>
-<T>Look, Professor. The button for
-the generator room lit up!
-!******************************!

@@ -1,0 +1,50 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A1/5>Look at that. There's another
+banana skin lying on the ground.
+!******************************!
+[hdr:000a000000024f0000000258000000]
+[inf:838c834383678393]
+<T><A1/1>Someone around here has a taste
+for bananas and an aversion to
+bins.
+!******************************!
+[hdr:000a000000020000000002a6000000]
+[inf:838b815b834e]
+<T><A1/1>Not to worry, Professor. I'll
+pick it up!
+!******************************!
+[hdr:000a000000024f00000002d9000000]
+[inf:838c834383678393]
+<T><A3/1>Speaking of which, Luke...
+!******************************!
+[hdr:000a000000020000000002fd000000]
+[inf:838b815b834e]
+<T><A1/1>What is it, Professor?
+!******************************!
+[hdr:000a000000024f000000021d010000]
+[inf:838c834383678393]
+<T><A2/2>I've just thought of another
+banana skin puzzle. 
+!******************************!
+[hdr:00e803000002000000000258010000]
+[inf:838b815b834e]
+<T><A1/1>Those banana skins really are
+slippery.
+!******************************!
+[hdr:00d0070000024f0000000289010000]
+[inf:838c834383678393]
+<T><A1/1>Why don't you take another stab at
+that banana puzzle, my boy?
+!******************************!
+[hdr:00b80b0000020000000002d1010000]
+[inf:838b815b834e]
+<T><A1/5>Whoever left this banana skin
+here could do with learning a
+few manners.
+!******************************!
+[hdr:00b80b0000024f0000000223020000]
+[inf:838c834383678393]
+<T><A1/2>I'm just glad we found it before
+someone slipped on it.
+!******************************!

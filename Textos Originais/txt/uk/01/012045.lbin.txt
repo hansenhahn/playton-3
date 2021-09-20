@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>We haven't finished our business at
+the hotel yet, Luke. We'll explore
+the area later.
+!******************************!

@@ -1,0 +1,119 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Oh, hi there, Becky. On your way
+out?
+!******************************!
+[hdr:000a00000002300000000239000000]
+[inf:83788362834c815b]
+<T>That's right. That older gentleman
+who's staying with us asked me to
+run an errand for him.
+!******************************!
+[hdr:000a00000002000000000298000000]
+[inf:838b815b834e]
+<T>You mean Dean Delmona?
+!******************************!
+[hdr:000a000000023000000002b2000000]
+[inf:83788362834c815b]
+<T><A1/5>Yeah, that's the chap. I don't know
+why he needs a tub of gel for such
+a little tuft of hair, though...
+!******************************!
+[hdr:000a0000000223010000022c010000]
+[inf:838c834383678393]
+<T>Gel?<W> You mean for styling hair?
+!******************************!
+[hdr:000a00000002300000000252010000]
+[inf:83788362834c815b]
+<T>Strange, eh? Still, you can't blame
+a man for trying to stay stylish
+in his old age. Tee hee!
+!******************************!
+[hdr:000a000000022301000002b3010000]
+[inf:838c834383678393]
+<T>Well, he clearly pays a lot of
+attention to his personal
+appearance...
+!******************************!
+[hdr:000a000000023000000002fd010000]
+[inf:83788362834c815b]
+<T><A2/2>By the way, since we're on the
+subject of shopping trips, there's
+something I need your help with.
+!******************************!
+[hdr:00e803000002300000000269020000]
+[inf:83788362834c815b]
+<T>Well, I suppose there are some
+mysteries too complex for even
+the greatest of minds.
+!******************************!
+[hdr:00d0070000023000000002c1020000]
+[inf:83788362834c815b]
+<T>Oh, you want to take another
+crack at my shopping puzzle?
+What a gentleman you are!
+!******************************!
+[hdr:00b80b000002300000000218030000]
+[inf:83788362834c815b]
+<T>I knew you'd work it out,
+Professor.
+!******************************!
+[hdr:00b80b000002300000000240030000]
+[inf:83788362834c815b]
+<T>I had a question for Mr Delmona,
+you know, but he disappeared
+when I wasn't looking. Oh well. 
+!******************************!
+[hdr:00b80b0000023000000002a2030000]
+[inf:83788362834c815b]
+<T>Hey, don't tell Mr Delmona that I was
+wondering about his hair gel,
+okay?
+!******************************!
+[hdr:00b80b0000023000000002ef030000]
+[inf:83788362834c815b]
+<T>I'll even give you a little something
+for keeping the matter hush-hush.
+!******************************!
+[hdr:00c20b00000200000000023a040000]
+[inf:838b815b834e]
+<T><A4/2>Oh, well that makes sense!
+!******************************!
+[hdr:00c20b00000200000000025e040000]
+[inf:838b815b834e]
+<T>Don Paolo was posing as Dean
+Delmona. The hair gel is for
+Don Paolo!
+!******************************!
+[hdr:00c20b0000022301000002a6040000]
+[inf:838c834383678393]
+<T><A1/2>Precisely.
+!******************************!
+[hdr:00c20b0000022301000002ba040000]
+[inf:838c834383678393]
+<T>Of course, he did away with that
+disguise once I persuaded him to
+assist us.
+!******************************!
+[hdr:00c20b00000200000000020a050000]
+[inf:838b815b834e]
+<T><A4/1>Yeah. You can't imagine how shocked
+I was to see Don Paolo step out of
+that Layton disguise...
+!******************************!
+[hdr:00c20b000002230100000272050000]
+[inf:838c834383678393]
+<T>Ha ha! That's life for you, Luke.
+You never know what surprises
+are waiting around the corner.
+!******************************!
+[hdr:00c20b0000022301000002d4050000]
+[inf:838c834383678393]
+<T>Let's be off.
+!******************************!
+[hdr:00a00f0000023000000002e5050000]
+[inf:83788362834c815b]
+<T>I had a question for Mr Delmona,
+but he ran off when I wasn't
+looking. I wonder where he's gone?
+!******************************!

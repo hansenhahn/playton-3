@@ -1,0 +1,16 @@
+[hdr:000a0000000200000000020b000000]
+[inf:83608346838b837e815b]
+<T>Ah, there you are, Layton. I was
+beginning to wonder if you'd ever
+return.
+!******************************!
+[hdr:001400000002590000000264000000]
+[inf:96a29788838b815b834e]
+<T><A2/2>Welcome back, Professor. Are you
+ready to return to our business
+here?
+!******************************!
+[hdr:001400000002b400000002bd000000]
+[inf:838c834383678393]
+<T><A1/2>Certainly. Let's be off.
+!******************************!

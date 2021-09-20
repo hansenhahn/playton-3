@@ -1,0 +1,170 @@
+[hdr:000a0000000200000000020b000000]
+[inf:83608346838b837e815b]
+<V0010><T><A4/2>You mean to say we're underground
+right now?</V>
+!******************************!
+[hdr:000a000000024c0000000255000000]
+[inf:838c834383678393]
+<V0020><T><A2/1>Precisely. You may have heard of
+subterranean caverns, as some of
+them house ancient ruins.</V>
+!******************************!
+[hdr:000a000000024c00000002c5000000]
+[inf:838c834383678393]
+<V0030><T>Some experts theorise that these
+caverns pepper the entire earth.</V>
+!******************************!
+[hdr:000a000000024c0000000215010000]
+[inf:838c834383678393]
+<V0040><T><A1/1>What I've seen here leads me to
+conclude that Dimitri used one such
+cavern to build this false London.</V>
+!******************************!
+[hdr:000a000000024c0000000290010000]
+[inf:838c834383678393]
+<V0050><T>It's as if we're standing in the
+largest film set ever created.</V>
+!******************************!
+[hdr:001400000002de01000002e5010000]
+[inf:838b815b834e]
+<V0060><T><A1/1>What?! I don't believe it!</V>
+!******************************!
+[hdr:001e00000002000000000214020000]
+[inf:83608346838b837e815b]
+<V0070><T><A2/1>So Dimitri is behind all this then?
+But why?</V>
+!******************************!
+[hdr:001e000000024c0000000255020000]
+[inf:838c834383678393]
+<V0080><T><A4/3>That question stumped me as well.</V>
+!******************************!
+[hdr:001e0000000200000000028b020000]
+[inf:83608346838b837e815b]
+<V0090><T>Why would he go to such pains to
+make us believe we're in the
+future?</V>
+!******************************!
+[hdr:001e000000024c00000002df020000]
+[inf:838c834383678393]
+<V0100><T>It doesn't make sense.<W> Unless
+convincing people of this is the key
+to achieving his ultimate goal.</V>
+!******************************!
+[hdr:002800000002de0100000253030000]
+[inf:838b815b834e]
+<V0110><T><A4/1>What kind of goal requires a set-up
+like that?</V>
+!******************************!
+[hdr:0028000000024c0000000296030000]
+[inf:838c834383678393]
+<V0120><T><A4/1>It's simple.</V>
+!******************************!
+[hdr:0028000000024c00000002b7030000]
+[inf:838c834383678393]
+<V0130><T>It seems that Dimitri never gave up
+his original dream of building a time
+machine.</V>
+!******************************!
+[hdr:0028000000024c0000000218040000]
+[inf:838c834383678393]
+<V0140><T><A1/1>But though he poured all his energy
+into achieving this feat, the task
+was too large for one man.</V>
+!******************************!
+[hdr:0028000000024c000000028e040000]
+[inf:838c834383678393]
+<V0150><T>He needed other scientists to
+support his project, so he turned
+to the greatest minds in London.</V>
+!******************************!
+[hdr:0028000000024c00000002fd040000]
+[inf:838c834383678393]
+<V0160><T>But to keep the scientists working
+for him, they needed to believe
+that they were in the future.</V>
+!******************************!
+[hdr:002800000002de010000026c050000]
+[inf:838b815b834e]
+<V0170><T><A1/6>Why?</V>
+!******************************!
+[hdr:0028000000024c0000000285050000]
+[inf:838c834383678393]
+<V0180><T><A2/1>Think about it, Luke. Dimitri couldn't
+imprison the scientists. Not in the
+conventional sense.</V>
+!******************************!
+[hdr:0028000000024c00000002f8050000]
+[inf:838c834383678393]
+<T><V0181>After all, who knows what kind of
+work they would produce under those
+circumstances?</V>
+!******************************!
+[hdr:0028000000024c000000025b060000]
+[inf:838c834383678393]
+<V0190><T>No, Dimitri needed a different
+approach to compel the scientists
+to complete his research.</V>
+!******************************!
+[hdr:0028000000024c00000002c4060000]
+[inf:838c834383678393]
+<V0200><T><A1/1>The scientists had to want the time
+machine to work as much as
+Dimitri did.</V>
+!******************************!
+[hdr:0028000000024c0000000224070000]
+[inf:838c834383678393]
+<V0210><T>So he told them that they had been
+shot forward 10 years in time,
+stranded a decade from home.</V>
+!******************************!
+[hdr:0028000000024c0000000291070000]
+[inf:838c834383678393]
+<V0220><T>Dimitri misled the scientists, telling
+them that the time machine was an
+unfinished project.</V>
+!******************************!
+[hdr:0028000000024c00000002fc070000]
+[inf:838c834383678393]
+<V0230><T>They thought they were stranded,
+and that the machine was their
+only hope of returning home.</V>
+!******************************!
+[hdr:003200000002000000000267080000]
+[inf:83608346838b837e815b]
+<V0240><T>Ah. So that's why they were so
+willing to follow orders.</V>
+!******************************!
+[hdr:0032000000024c00000002ae080000]
+[inf:838c834383678393]
+<V0250><T><A3/1>That's all I've been able to work
+out.<W> Perhaps our friend here can fill
+us in on the rest.</V>
+!******************************!
+[hdr:003c00000002200900000229090000]
+[inf:836f815b83658393]
+<V0260><T>Heh. I see you've caught on.
+Excellent work as always, Hershel. </V>
+!******************************!
+[hdr:0046000000024c0000000278090000]
+[inf:838c834383678393]
+<V0270><T>The Family uses this establishment
+as a hideout.</V>
+!******************************!
+[hdr:0046000000024c00000002b7090000]
+[inf:838c834383678393]
+<T><V0271>Therefore, it seemed a bit odd that
+the bartender didn't so much as
+raise an eyebrow when we walked in.</V>
+!******************************!
+[hdr:00460000000220090000022d0a0000]
+[inf:836f815b83658393]
+<V0280><T>I have to give credit where it's due.
+I never imagined you'd work out so
+much of the plan yourself.</V>
+!******************************!
+[hdr:00460000000220090000029f0a0000]
+[inf:836f815b83658393]
+<V0290><T><A2/1>I suppose I have no choice but
+to shut you up for good.</V>
+
+!******************************!

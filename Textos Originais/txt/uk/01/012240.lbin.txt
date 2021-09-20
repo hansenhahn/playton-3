@@ -1,0 +1,108 @@
+[hdr:000a00000002000000000209000000]
+[inf:83568383838d8393]
+<T>Oh, hello.
+!******************************!
+[hdr:000a00000002170000000220000000]
+[inf:838c834383678393]
+<T>Good day, madam. Would you mind
+helping us with something?
+!******************************!
+[hdr:000a0000000200000000025e000000]
+[inf:83568383838d8393]
+<T>Why not? I've got nothing better
+to do today. This place is dead.
+!******************************!
+[hdr:000a000000021700000002a3000000]
+[inf:838c834383678393]
+<T>We're here to visit someone in your
+care. Could you point us towards
+Room 312?
+!******************************!
+[hdr:000a000000020000000002f5000000]
+[inf:83568383838d8393]
+<T>Room 312, huh? Let's see...<W> Ah,
+Dr Andrew Schrader? Of course,
+just a sec-
+!******************************!
+[hdr:000a00000002170000000246010000]
+[inf:838c834383678393]
+<T><A3/1>What?!<W> I'm sorry, did you just say
+Andrew Schrader?
+!******************************!
+[hdr:000a00000002000000000286010000]
+[inf:83568383838d8393]
+<T>Keep it down, will you? You're in a
+hospital, you know.</T> <TW>So, are you two
+relatives of Dr Schrader, then?
+!******************************!
+[hdr:000a000000021700000002f9010000]
+[inf:838c834383678393]
+<T>Actually no, I'm a former student
+of his.
+!******************************!
+[hdr:000a00000002000000000226020000]
+[inf:83568383838d8393]
+<T>And your little friend there?
+!******************************!
+[hdr:000a00000002170000000247020000]
+[inf:838c834383678393]
+<T><A1/1>He's, well...
+!******************************!
+[hdr:0014000000025e0200000265020000]
+[inf:838b815b834e]
+<T><A3/2>Dr Schrader's student's apprentice!
+!******************************!
+[hdr:001400000002000000000292020000]
+[inf:83568383838d8393]
+<T>Oh. Old 312's got a bit of a fan
+club, has he?
+!******************************!
+[hdr:0014000000020000000002c4020000]
+[inf:83568383838d8393]
+<T>All right, you can see him if you
+like, but I'm going to need you to
+complete some paperwork first.
+!******************************!
+[hdr:001e0000000217000000022b030000]
+[inf:838c834383678393]
+<T>Paperwork?
+!******************************!
+[hdr:001e00000002000000000239030000]
+[inf:83568383838d8393]
+<T>Hospital policy, I'm afraid. Don't
+worry, though. It's just one
+question.
+!******************************!
+[hdr:00e803000002000000000286030000]
+[inf:83568383838d8393]
+<T><K>Hmm.<W></K> Sorry, no visitors are
+allowed in without completing the
+necessary paperwork.
+!******************************!
+[hdr:00e8030000020000000002e6030000]
+[inf:83568383838d8393]
+<T>Sorry to force this on you, but
+it's a hospital directive. My hands
+are tied.
+!******************************!
+[hdr:00d007000002000000000237040000]
+[inf:83568383838d8393]
+<T>If you want to visit Dr Schrader,
+you need to complete this
+paperwork first.
+!******************************!
+[hdr:00b80b000002000000000287040000]
+[inf:83568383838d8393]
+<T><A2/1>Thanks for that. You can visit
+Dr Schrader now.
+!******************************!
+[hdr:00b80b0000020000000002c0040000]
+[inf:83568383838d8393]
+<T>His room's on the third floor. Just
+take those stairs over there.
+!******************************!
+[hdr:00a00f000002000000000205050000]
+[inf:83568383838d8393]
+<T>Dr Schrader's room is up those
+stairs over there.
+!******************************!

@@ -1,0 +1,37 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>You know, Professor, what with all
+the trees and stuff, this hill is a
+bit...creepy.
+!******************************!
+[hdr:000a000000025f0000000268000000]
+[inf:838c834383678393]
+<T>What's the matter, Luke? You're
+not afraid of seeing a ghost, are
+you?
+!******************************!
+[hdr:000a000000020000000002b2000000]
+[inf:838b815b834e]
+<T><A1/3>C-come on, P-Professor! I know
+y-you would n-never believe in
+something s-so unscientific!
+!******************************!
+[hdr:000a000000025f0000000216010000]
+[inf:838c834383678393]
+<T>Unscientific, you say?
+!******************************!
+[hdr:000a00000002000000000230010000]
+[inf:838b815b834e]
+<T>Yeah! Th-there's no p-proof that
+ghosts exist!
+!******************************!
+[hdr:000a000000025f0000000262010000]
+[inf:838c834383678393]
+<T><A4/2>And a man of science like you would
+never fear something as silly as
+ghosts, eh, Luke?
+!******************************!
+[hdr:000a000000020000000002c2010000]
+[inf:838b815b834e]
+<T><A1/4>Well...<W>maybe just a little.
+!******************************!

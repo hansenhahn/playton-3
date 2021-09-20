@@ -1,0 +1,206 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>What exactly do you have in mind?
+!******************************!
+[hdr:000a000000022e0000000239000000]
+[inf:96a29788838b815b834e]
+<T><A2/2>As a cautious man, I'm sure you
+have questions about my identity
+as well.
+!******************************!
+[hdr:000a000000022e000000028c000000]
+[inf:96a29788838b815b834e]
+<T>I therefore suggest that we each
+prove our identity to the other's
+satisfaction.
+!******************************!
+[hdr:000a000000022e00000002e0000000]
+[inf:96a29788838b815b834e]
+<T>To this end, I propose that we
+demonstrate the power of our
+respective intellects.
+!******************************!
+[hdr:000a000000022e0000000236010000]
+[inf:96a29788838b815b834e]
+<T>I've prepared a puzzle that can
+only be solved by someone as
+insightful as Professor Layton.
+!******************************!
+[hdr:000a000000022e0000000296010000]
+[inf:96a29788838b815b834e]
+<T>Should you find the solution, I will
+give you the chance to present me
+with a similar challenge.
+!******************************!
+[hdr:000a000000022e00000002fa010000]
+[inf:96a29788838b815b834e]
+<T>If I am who I say I am, I should
+have no trouble solving whatever
+you throw my way, should I?
+!******************************!
+[hdr:000a000000022e000000025b020000]
+[inf:96a29788838b815b834e]
+<T><A1/1>Let's get started.<W> Before us are
+four cards arranged according to
+the following set of conditions:
+!******************************!
+[hdr:0014000000022e00000002ca020000]
+[inf:96a29788838b815b834e]
+<T><A3/5>First, a heart is next to a diamond.
+!******************************!
+[hdr:0014000000022e00000002f8020000]
+[inf:96a29788838b815b834e]
+<T>Second, a club is not next to a
+spade.
+!******************************!
+[hdr:0014000000022e0000000222030000]
+[inf:96a29788838b815b834e]
+<T>Finally, a heart is directly to the
+right of a club.
+!******************************!
+[hdr:0014000000022e000000025a030000]
+[inf:96a29788838b815b834e]
+<T>Using just these three conditions,
+I challenge you to find the spade
+amongst these four cards.
+!******************************!
+[hdr:001e000000022e00000002bc030000]
+[inf:96a29788838b815b834e]
+<T>Are you quite sure about your
+answer, Professor? I'd reconsider
+it if I were you.
+!******************************!
+[hdr:0028000000022e0000000211040000]
+[inf:96a29788838b815b834e]
+<T><S671><A2/2>Yes, that is indeed the location of
+the spade. Impressive, Professor.
+!******************************!
+[hdr:002d00000002000000000266040000]
+[inf:838c834383678393]
+<T><A4/1>Thank you.<W> Now, if I may present
+you with a puzzle of my own design?
+!******************************!
+[hdr:002d000000022e00000002b7040000]
+[inf:96a29788838b815b834e]
+<T><A1/2>Nothing would please me more.
+!******************************!
+[hdr:0032000000020000000002de040000]
+[inf:838c834383678393]
+<T>Good. I appreciated the idea behind
+your puzzle, so if you don't mind,
+I'd like to do something similar.
+!******************************!
+[hdr:00320000000200000000024a050000]
+[inf:838c834383678393]
+<T><A2/1>Here are the conditions for my
+four cards:
+!******************************!
+[hdr:003c0000000200000000027e050000]
+[inf:838c834383678393]
+<T>A club lies directly to the right
+of a heart.
+!******************************!
+[hdr:003c000000020000000002af050000]
+[inf:838c834383678393]
+<T>A diamond is on the far left or far
+right and has a heart next to it.
+!******************************!
+[hdr:003c000000020000000002f8050000]
+[inf:838c834383678393]
+<T>Finally, a club is also the far left
+or far right card.
+!******************************!
+[hdr:004600000002000000000233060000]
+[inf:838c834383678393]
+<T><A1/1>Are you able to find the spade
+using these conditions?
+!******************************!
+[hdr:0050000000022e0000000273060000]
+[inf:96a29788838b815b834e]
+<T><A2/4>You almost had me there,
+Professor.<W> But as you know, this
+puzzle is flawed. It's unsolvable.
+!******************************!
+[hdr:0050000000020000000002dc060000]
+[inf:838c834383678393]
+<T><A4/1>Is that so?
+!******************************!
+[hdr:0050000000022e00000002f1060000]
+[inf:96a29788838b815b834e]
+<T><A2/4>Yes. I tried several solutions, but
+none work, given the conditions
+you've set forth.
+!******************************!
+[hdr:005000000002000000000250070000]
+[inf:838c834383678393]
+<T>Oh really?
+!******************************!
+[hdr:00500000000200000000025e070000]
+[inf:838c834383678393]
+<T>Tell me, did I ever state that the
+four cards on the table included
+one card from each suit?
+!******************************!
+[hdr:0050000000022e00000002be070000]
+[inf:96a29788838b815b834e]
+<T><A3/5>Hmph.<W> So the answer is...there is
+no spade?
+!******************************!
+[hdr:005a000000020000000002f6070000]
+[inf:838c834383678393]
+<T><A2/1>Precisely. This was a trick question,
+but it makes a pertinent point.
+!******************************!
+[hdr:005a00000002000000000245080000]
+[inf:838c834383678393]
+<T>In the puzzle you issued me, you
+failed to specify that the four
+cards included one from each suit.
+!******************************!
+[hdr:005a000000020000000002ac080000]
+[inf:838c834383678393]
+<T>Leaving in a loophole like that can
+make the puzzle unsolvable.
+!******************************!
+[hdr:005a000000020000000002ef080000]
+[inf:838c834383678393]
+<T>The same omission can also open
+the door to alternate solutions.
+!******************************!
+[hdr:005a00000002000000000233090000]
+[inf:838c834383678393]
+<T><A1/1>You intentionally presented me
+with a puzzle that, when examined
+closely, is actually incomplete.
+!******************************!
+[hdr:005a0000000200000000029e090000]
+[inf:838c834383678393]
+<T>That was the real test you set out
+for me, was it not? To see if I
+would spot the loophole?
+!******************************!
+[hdr:00e8030000022e00000002fd090000]
+[inf:96a29788838b815b834e]
+<T>Four cards sit in a line:
+
+{.}A heart is next to a diamond.
+{.}A club is not next to a spade.
+{.}A heart is directly to the right of a club.
+
+Can you work out which one is the spade,
+Professor? Touch that card.
+!******************************!
+[hdr:00d0070000020000000002d30a0000]
+[inf:838c834383678393]
+<T>Four cards sit in a line:
+
+{.}A club sits directly to the right of
+a heart.
+{.}One of the cards on the far left or
+far right is a diamond, and next to it
+is a heart.
+{.}The other card on the far left or far
+right is a club.
+
+Can you find the spade, Luke?
+!******************************!

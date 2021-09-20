@@ -1,0 +1,16 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Phew. I can't believe the three of
+us made it out of there in one piece.
+!******************************!
+[hdr:000a0000000253000000025c000000]
+[inf:838c834383678393]
+<T>Don't let your guard down, Luke.
+We're not out of the woods yet.
+!******************************!
+[hdr:000a000000020000000002a0000000]
+[inf:838b815b834e]
+<T>Professor, I just can't stop
+thinking about the last thing
+Celeste said to us.
+!******************************!

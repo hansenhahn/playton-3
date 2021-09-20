@@ -1,0 +1,34 @@
+[hdr:000a0000000200000000020f000000]
+[inf:836f815b8367839381699048816a]
+<T>Oh pork bun! Om nom. How I - gulp -
+love you.
+!******************************!
+[hdr:000a00000002400000000247000000]
+[inf:838b815b834e]
+<T>Aren't you supposed to be helping
+the inspector with his
+investigation, Constable?
+!******************************!
+[hdr:000a0000000200000000029d000000]
+[inf:836f815b8367839381699048816a]
+<T>Yes... But, well, there's an old
+saying in - chomp chomp -
+Scotland Yard.
+!******************************!
+[hdr:000a000000020000000002ea000000]
+[inf:836f815b8367839381699048816a]
+<T>Veteran officers always say one
+can't possibly fight crime - om
+nom - on an empty stomach.
+!******************************!
+[hdr:000a00000002000000000248010000]
+[inf:836f815b8367839381699048816a]
+<T>A solid investigation begins with a
+solid meal.
+!******************************!
+[hdr:000a0000000240000000027b010000]
+[inf:838b815b834e]
+<T>I see... Well, if that's how they do
+it in Scotland Yard, who am I to
+argue?
+!******************************!

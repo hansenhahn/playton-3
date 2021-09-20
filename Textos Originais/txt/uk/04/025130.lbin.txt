@@ -1,0 +1,26 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Say, when was that lighthouse on
+the river built?
+!******************************!
+[hdr:000a000000023c0000000247000000]
+[inf:96a29788838b815b834e]
+<T>About five years ago.
+!******************************!
+[hdr:000a00000002600000000269000000]
+[inf:838c834383678393]
+<T><A1/1>Did anyone comment on its peculiar
+location?
+!******************************!
+[hdr:000a0000000260000000029f000000]
+[inf:838c834383678393]
+<T>Building a structure like that in
+the middle of the river seems to
+serve little purpose.
+!******************************!
+[hdr:000a000000023c00000002fb000000]
+[inf:96a29788838b815b834e]
+<T><A3/5>That's not untrue, Professor...
+But let's discuss the city later. We
+need to make for the clock shop.
+!******************************!

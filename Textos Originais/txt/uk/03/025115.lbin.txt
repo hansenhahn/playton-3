@@ -1,0 +1,28 @@
+[hdr:000a00000002000000000209000000]
+[inf:83568383838d8393]
+<T>Oh, you again. Back to visit
+someone else? Or are you feeling a
+bit under the weather?
+!******************************!
+[hdr:000a00000002000000000263000000]
+[inf:83568383838d8393]
+<T>We're doing flu jabs now if you
+need one.
+!******************************!
+[hdr:000a00000002900000000297000000]
+[inf:838b815b834e]
+<T><A4/4>J-jabs?!<W> Oh no, I'm fit as a fiddle!
+Nope, no need to go poking at me
+with a needle!
+!******************************!
+[hdr:000a000000020000000002f8000000]
+[inf:83568383838d8393]
+<T>You sure? There's no waiting list,
+you know. You could have it done
+right now...
+!******************************!
+[hdr:000a0000000290000000024c010000]
+[inf:838b815b834e]
+<T>P-Professor, I think our business
+here is finished! Let's go!
+!******************************!

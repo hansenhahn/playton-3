@@ -1,0 +1,10 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>Look! There's Bostro!
+!******************************!
+[hdr:000a0000000220000000022b000000]
+[inf:96a29788838b815b834e]
+<T>Yes, I'd recognise that white
+pinstriped suit anywhere.
+Quick, everyone! Hide!
+!******************************!

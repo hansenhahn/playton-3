@@ -1,0 +1,51 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A3/2>This must be the place, Professor!
+!******************************!
+[hdr:000a0000000233000000023c000000]
+[inf:838c834383678393]
+<T>Yes, finally.
+!******************************!
+[hdr:000a0000000200000000024d000000]
+[inf:838b815b834e]
+<T>Let's go inside!
+!******************************!
+[hdr:001400000002000000000261000000]
+[inf:838b815b834e]
+<T><A4/1>Huh?
+!******************************!
+[hdr:00140000000233000000026f000000]
+[inf:838c834383678393]
+<T>What seems to be the matter, Luke?
+!******************************!
+[hdr:001400000002000000000295000000]
+[inf:838b815b834e]
+<T><A4/4>The door's locked. How are we
+supposed to get in?
+!******************************!
+[hdr:0014000000023300000002d0000000]
+[inf:838c834383678393]
+<T><A4/1>Let me have a look.<W><A2/1> Ah, it seems it's
+time for a puzzle. We have to solve
+this one to open the door.
+!******************************!
+[hdr:00e803000002000000000247010000]
+[inf:838b815b834e]
+<T><A4/4>There's nothing wrong with taking
+a break, but we won't be able to
+enter until we solve that puzzle.
+!******************************!
+[hdr:00d0070000023300000002b5010000]
+[inf:838c834383678393]
+<T>The door is fitted with a puzzle.
+We'll need to solve it to gain entry.
+!******************************!
+[hdr:00b80b000002000000000200020000]
+[inf:838b815b834e]
+<T><A3/2>That did the trick!
+!******************************!
+[hdr:00c20b00000233000000021d020000]
+[inf:838c834383678393]
+<T><A1/2>There's no sense dawdling outside.
+Come now, in we go.
+!******************************!

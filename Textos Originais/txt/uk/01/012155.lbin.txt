@@ -1,0 +1,22 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>This must be the big road that Max
+was talking about, Flatstone
+Street.
+!******************************!
+[hdr:000a0000000252000000025b000000]
+[inf:838c834383678393]
+<T>Excellent. If we continue north,
+we should find the station on the
+right.
+!******************************!
+[hdr:000a000000020000000002a8000000]
+[inf:838b815b834e]
+<T>Then we're almost there. Let's
+keep moving, Professor!
+!******************************!
+[hdr:000a000000020000000002e2000000]
+[inf:838b815b834e]
+<T><K>Hmm?<W></K> Hey, is it just me or is that
+man on the corner shaking? 
+!******************************!

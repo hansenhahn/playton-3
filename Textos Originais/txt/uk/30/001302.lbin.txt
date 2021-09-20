@@ -1,0 +1,26 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+This area doesn't
+feel like the future
+at all.
+!******************************!
+[hdr:00140000000236000000023f000000]
+[inf:838c834383678393]
+These stairs lead down
+to the river.
+!******************************!
+[hdr:001e0000000264000000026b000000]
+[inf:8341838d837d]
+Ah, this breeze feels
+great!
+!******************************!
+[hdr:002800000002880000000291000000]
+[inf:834e838983458358]
+It's so warm out here
+in the sunshine! But
+I'm getting thirsty.
+!******************************!
+[hdr:000f27000002d100000002d8000000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

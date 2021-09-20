@@ -1,0 +1,141 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Greetings, Shipley.
+!******************************!
+[hdr:000a00000002200000000227000000]
+[inf:837583628360]
+<T>Ah, Professor. Good timing. I just
+got a message for ya from Luke.
+!******************************!
+[hdr:000a0000000220000000026d000000]
+[inf:837583628360]
+<T>He wants ya to go to the
+observatory in the park
+that's north of here.
+!******************************!
+[hdr:000a000000022000000002b7000000]
+[inf:837583628360]
+<T>Make sure yer not followed.
+!******************************!
+[hdr:000a000000020000000002d6000000]
+[inf:838c834383678393]
+<T>This park is just off the path that
+connects Flatstone Street to
+Midland Road, correct?
+!******************************!
+[hdr:000a00000002200000000231010000]
+[inf:837583628360]
+<T>That's the one. Luke will be waiting
+for ya there.
+!******************************!
+[hdr:000a0000000267010000026e010000]
+[inf:838b815b834e]
+<T>Why do we need to make sure we're
+not followed?
+!******************************!
+[hdr:000a000000020000000002a1010000]
+[inf:838c834383678393]
+<T>It sounds as though someone out
+there may be monitoring our
+movements.
+!******************************!
+[hdr:000a000000020000000002eb010000]
+[inf:838c834383678393]
+<T>Are you paying attention to this,
+Flora? It's very important.
+!******************************!
+[hdr:0014000000022c0200000233020000]
+[inf:8341838d837d]
+<T>Of course I'm listening, Professor.
+!******************************!
+[hdr:00140000000200000000025a020000]
+[inf:838c834383678393]
+<T>Moving around in a group of three
+will make us more conspicuous.
+!******************************!
+[hdr:00140000000200000000029e020000]
+[inf:838c834383678393]
+<T>I know you don't want to be left
+alone, but I think it would be best
+if you waited for us at the hotel.
+!******************************!
+[hdr:0014000000022c0200000209030000]
+[inf:8341838d837d]
+<T><A1/5>What?!
+!******************************!
+[hdr:001400000002000000000219030000]
+[inf:838c834383678393]
+<T>As soon as we've caught up with the
+other Luke, we'll come and get you.
+!******************************!
+[hdr:0014000000022c0200000264030000]
+[inf:8341838d837d]
+<T>No! I'm coming with you.
+!******************************!
+[hdr:001400000002000000000280030000]
+[inf:838c834383678393]
+<T>Now, Flora...
+!******************************!
+[hdr:001400000002670100000291030000]
+[inf:838b815b834e]
+<T>Oh, come on, Professor. Let her
+come along. We'll do our best to be
+stealthy on our way to the park!
+!******************************!
+[hdr:0014000000020000000002f9030000]
+[inf:838c834383678393]
+<T><K>Hmm...
+!******************************!
+[hdr:001400000002670100000206040000]
+[inf:838b815b834e]
+<T>It'll be fine. Besides, it might be
+more dangerous to leave Flora all
+by herself.
+!******************************!
+[hdr:00140000000200000000025b040000]
+[inf:838c834383678393]
+<T>I suppose you may have a point
+there, Luke.
+!******************************!
+[hdr:00140000000200000000028a040000]
+[inf:838c834383678393]
+<T>Flora, you do realise that where
+we're headed could be extremely
+dangerous, don't you?
+!******************************!
+[hdr:0014000000020000000002e4040000]
+[inf:838c834383678393]
+<T>Are you really sure you want to
+come with us?
+!******************************!
+[hdr:0014000000022c0200000215050000]
+[inf:8341838d837d]
+<T><A1/2>Of course I do! I'm not scared.
+!******************************!
+[hdr:00140000000267010000023e050000]
+[inf:838b815b834e]
+<T>Well, that settles it. Let's get
+moving.
+!******************************!
+[hdr:00140000000200000000026a050000]
+[inf:838c834383678393]
+<T>Well Luke, it looks as though
+we'll have to put our dinner plans
+on hold again, I'm afraid.
+!******************************!
+[hdr:0014000000026701000002c9050000]
+[inf:838b815b834e]
+<T>I understand, Professor. I'm pretty
+hungry, but we shouldn't keep
+Big Luke waiting.
+!******************************!
+[hdr:0014000000022c0200000220060000]
+[inf:8341838d837d]
+<T>Well then, what are we waiting for?
+Let's go!
+!******************************!
+[hdr:001e00000002200000000251060000]
+[inf:837583628360]
+<T>Luke's waiting for ya at the park
+observatory.
+!******************************!

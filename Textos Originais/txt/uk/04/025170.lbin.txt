@@ -1,0 +1,19 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>There's the shop. The door was
+locked earlier and no one would 
+answer it when we knocked.
+!******************************!
+[hdr:000a00000002650000000270000000]
+[inf:96a29788838b815b834e]
+<T>That's because you didn't know
+the secret knock. Watch this.
+!******************************!
+[hdr:001400000002b000000002bd000000]
+[inf:8369838c815b835683878393]
+<T>Come on in!
+!******************************!
+[hdr:0014000000026500000002cc000000]
+[inf:96a29788838b815b834e]
+<T>Go on. Try the door now.
+!******************************!

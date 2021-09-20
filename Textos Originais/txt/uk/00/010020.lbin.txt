@@ -1,0 +1,42 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T><A1/1>Wow, can you believe this clock?
+!******************************!
+[hdr:000a0000000231000000023a000000]
+[inf:838c834383678393]
+<T><A4/1>It certainly is impressive.
+Unfortunately, it doesn't appear
+to work.
+!******************************!
+[hdr:000a00000002000000000289000000]
+[inf:838b815b834e]
+<T><A4/1>Then it's a good job there's so
+many other ways of telling the time
+here.
+!******************************!
+[hdr:000a000000023100000002dc000000]
+[inf:838c834383678393]
+<T><A2/2>Oh, you've just reminded me of a
+splendid puzzle, Luke.
+!******************************!
+[hdr:00e80300000231000000021d010000]
+[inf:838c834383678393]
+<T><A4/1>I suppose we can finish this puzzle
+later.
+!******************************!
+[hdr:00d007000002310000000251010000]
+[inf:838c834383678393]
+<T><A4/2>You know, Luke, you have yet to
+solve the clock puzzle I mentioned
+earlier.
+!******************************!
+[hdr:00b80b0000020000000002a6010000]
+[inf:838b815b834e]
+<T><A4/1>You know, I've never seen a clock
+this big up close.<W> <A4/4>It's a real shame
+that it's not in working order.
+!******************************!
+[hdr:00a00f00000200000000021f020000]
+[inf:838b815b834e]
+<T><A1/1>This clock is just fantastic.
+!******************************!

@@ -1,0 +1,28 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<V0010><T>Watch out, Professor. That rabbit
+looks awfully...jumpy.</V>
+!******************************!
+[hdr:000a0000000200000000024e000000]
+[inf:838b815b834e]
+<V0020><T>I don't like that glint in his eye.
+He looks like he could attack us at
+any moment.</V>
+!******************************!
+[hdr:000a00000002b000000002b9000000]
+[inf:838c834383678393]
+<V0030><T>Well, you've always had a way with
+animals, even those of the more...
+cantankerous variety.</V>
+!******************************!
+[hdr:000a00000002b00000000223010000]
+[inf:838c834383678393]
+<T><V0031>Why don't you see if you can't
+befriend the little fellow?</V>
+!******************************!
+[hdr:000a0000000200000000026c010000]
+[inf:838b815b834e]
+<V0040><T>Befriend him? Right... He doesn't
+look too friendly, but I guess I can
+give it a shot.</V>
+!******************************!

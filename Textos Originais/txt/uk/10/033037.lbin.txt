@@ -1,0 +1,24 @@
+[hdr:000a00000002000000000207000000]
+[inf:837e815b837d]
+<T>I'm obsessed with organisation and
+scheduling. It's really useful, but
+it can be stressful at times.
+!******************************!
+[hdr:000a000000026f0000000278000000]
+[inf:838c834383678393]
+<T>Well, you can't organise everything.
+Sometimes it's best to just take
+things as they come.
+!******************************!
+[hdr:000a000000026f00000002d6000000]
+[inf:838c834383678393]
+<T>Next time you start fretting, I'd
+recommend a five-minute break and
+a cup of tea.
+!******************************!
+[hdr:000a0000000200000000022b010000]
+[inf:837e815b837d]
+<T>That's not a bad idea. I'll pencil
+a tea break into my daily study
+hour.
+!******************************!

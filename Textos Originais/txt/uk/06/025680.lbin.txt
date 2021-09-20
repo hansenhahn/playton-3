@@ -1,0 +1,66 @@
+[hdr:000a0000000200000000020b000000]
+[inf:83608346838b837e815b]
+<T><A5/0>Layton!<W> Wh-what's all this? What's
+happened to London?
+!******************************!
+[hdr:000a000000024e0000000257000000]
+[inf:838c834383678393]
+<T>We're still in London, Inspector.
+We've just been transported 10
+years into the future.
+!******************************!
+[hdr:000a000000020000000002b2000000]
+[inf:83608346838b837e815b]
+<T><A2/5>But that's impossible!<W> <A2/6>Isn't it?<W>
+<A2/1>Or...is it possible, Layton?
+!******************************!
+[hdr:000a000000024e000000020b010000]
+[inf:838c834383678393]
+<T><A4/2>One thing is for certain. We're no
+longer in the London we know.
+!******************************!
+[hdr:000a00000002000000000255010000]
+[inf:83608346838b837e815b]
+<T><A3/2>Hmm. Well, there will be plenty of
+time for debate once my work here
+is done.
+!******************************!
+[hdr:000a000000020000000002ac010000]
+[inf:83608346838b837e815b]
+<T><A3/1>I seem to recall you saying
+something about the prime minister
+being trapped in the future, yes?
+!******************************!
+[hdr:000a000000024e0000000216020000]
+[inf:838c834383678393]
+<T>Yes.<W> It's by no means certain, but
+it remains a definite possibility.
+!******************************!
+[hdr:000a00000002000000000262020000]
+[inf:83608346838b837e815b]
+<T>Well then, what are we standing
+around here for?<A5/0> The hunt is on,
+Barton!
+!******************************!
+[hdr:000a000000020000000002b4020000]
+[inf:83608346838b837e815b]
+<T><A1/1>We're off to find the prime minister!
+!******************************!
+[hdr:000a000000024e00000002e3020000]
+[inf:838c834383678393]
+<T><A1/2>You know, Inspector, we may have
+better luck tracking him down if
+we work together on this case...
+!******************************!
+[hdr:000a0000000200000000024f030000]
+[inf:83608346838b837e815b]
+<T>That's enough from you, Layton.
+The fact remains that you're a
+civilian. I'll handle this on my own!
+!******************************!
+[hdr:0014000000020000000002b7030000]
+[inf:83608346838b837e815b]
+<T>Scotland Yard's finest are on the
+case now! Your help is no longer
+necessary, Layton.
+!******************************!

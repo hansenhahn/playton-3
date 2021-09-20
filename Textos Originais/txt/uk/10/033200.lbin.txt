@@ -1,0 +1,22 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>Excuse me. Have you seen a little
+boy in a blue hat? He's about this
+tall and-
+!******************************!
+[hdr:000a000000025b0000000264000000]
+[inf:835e83438389815b]
+<T>Nope, no one's come by. I'd know.
+I've been working here on the site
+all day.
+!******************************!
+[hdr:000a000000020000000002b5000000]
+[inf:838c834383678393]
+<T>Ah.<W> Well, if you do see him, would
+you kindly let him know that I've
+been looking for him?
+!******************************!
+[hdr:000a000000025b0000000216010000]
+[inf:835e83438389815b]
+<T><A3/1>No worries, mate.
+!******************************!

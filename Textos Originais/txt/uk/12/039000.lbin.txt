@@ -1,0 +1,59 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<V0010><T>No, there's no mistake here. And
+there's no hiding it any more, Luke.<W><W>
+Or should I call you Clive?</V>
+!******************************!
+[hdr:000a000000027f0000000294000000]
+[inf:834e838983458358816996588e7182a082e8816a]
+<V0020><T>Huh?!</V>
+!******************************!
+[hdr:000a000000020000000002a8000000]
+[inf:838c834383678393]
+<V0030><T>It took some time to put together
+the pieces of your plan.</V>
+!******************************!
+[hdr:000a000000020000000002f1000000]
+[inf:838c834383678393]
+<V0040><T>But when I finally understood it all,
+the sheer evil of it sent a chill
+down my spine.</V>
+!******************************!
+[hdr:001400000002560100000263010000]
+[inf:83668342837e8367838a815b]
+<V0050><T>Wh-what is he talking about, Clive?</V>
+!******************************!
+[hdr:001e000000027f0000000295010000]
+[inf:834e838983458358816996588e7182a082e8816a]
+<V0060><T><A1/4><K>...</V>
+!******************************!
+[hdr:001e000000020000000002b0010000]
+[inf:838c834383678393]
+<V0070><T>You kept your true intentions
+hidden from everyone, Clive. Even
+your partner, Dimitri.</V>
+!******************************!
+[hdr:002800000002560100000215020000]
+[inf:83668342837e8367838a815b]
+<V0080><T>What are you saying, Hershel?</V>
+!******************************!
+[hdr:0032000000027f0000000241020000]
+[inf:834e838983458358816996588e7182a082e8816a]
+<V0090><T><A1/1>Ahh...</V>
+!******************************!
+[hdr:00320000000200000000025c020000]
+[inf:838c834383678393]
+<V0100><T>Clive was aiming for revenge on a
+massive scale and you were nothing
+more than a pawn, Dimitri.</V>
+!******************************!
+[hdr:0032000000027f00000002ca020000]
+[inf:834e838983458358816996588e7182a082e8816a]
+<V0110><T><A2/6>Tremendous work, Professor!
+You've found me out.</V>
+!******************************!
+[hdr:003c000000020f030000021a030000]
+[inf:83608346838b837e815b]
+<V0120><T>Stop speaking in riddles, Layton!
+What's this all about?</V>
+!******************************!

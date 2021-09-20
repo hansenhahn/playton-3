@@ -1,5 +1,0 @@
-<HDR:>
-Well done!
-You completed the request
-{''}%s{''}!
-!******************************!

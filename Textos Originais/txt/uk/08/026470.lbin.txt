@@ -1,0 +1,116 @@
+[hdr:000a00000002000000000205000000]
+[inf:8378838b]
+<T>Oh, my dear, sweet Fluke! I've been
+looking everywhere for you!
+!******************************!
+[hdr:000f0000000248000000024f000000]
+[inf:838b815b834e]
+<T><A1/3>B-Belle?! What are you doing here?
+!******************************!
+[hdr:0014000000027b0000000284000000]
+[inf:838c834383678393]
+<T>Please forgive Luke. He is...easily
+flustered.
+!******************************!
+[hdr:0014000000027b00000002b6000000]
+[inf:838c834383678393]
+<T>What a pleasant coincidence it is
+to run into you here.
+!******************************!
+[hdr:0014000000020000000002f1000000]
+[inf:8378838b]
+<T><A3/5>Coincidence? Oh no, no, no!
+!******************************!
+[hdr:001400000002000000000216010000]
+[inf:8378838b]
+<T>This is nothing short of fate!
+Because, you see, Fluke and I are
+destined for each other!
+!******************************!
+[hdr:0014000000027b0000000273010000]
+[inf:838c834383678393]
+<T>Well that's one way of looking at
+it, I suppose.
+!******************************!
+[hdr:001400000002a701000002ae010000]
+[inf:8341838d837d]
+<T>Fate? Destiny? Luke, just what
+have you been telling this poor
+girl?
+!******************************!
+[hdr:001e000000024800000002f6010000]
+[inf:838b815b834e]
+<T><A1/5>Me?! Nothing! It's all one big
+misunderstanding!
+!******************************!
+[hdr:001e00000002480000000230020000]
+[inf:838b815b834e]
+<T>B-Belle isn't... We aren't...
+anything! We aren't anything!
+!******************************!
+[hdr:001e0000000200000000026f020000]
+[inf:8378838b]
+<T><A4/5>Oh Fluke. You're so cute when you
+get all flustered like that. I could
+just eat you up!
+!******************************!
+[hdr:001e000000024800000002d0020000]
+[inf:838b815b834e]
+<T><A1/3>I'm not flustered! Or cute!
+!******************************!
+[hdr:001e000000020000000002f5020000]
+[inf:8378838b]
+<T><A2/3>Shush now, my darling. There'll be
+time for chit-chat later.
+!******************************!
+[hdr:001e0000000200000000023b030000]
+[inf:8378838b]
+<T>I came to let you know that I've
+been seeing strange men running all
+over town looking for you!
+!******************************!
+[hdr:001e0000000200000000029e030000]
+[inf:8378838b]
+<T>They keep going on and on about
+{''}the boss{''}, {''}blue caps{''} and other
+gibberish.
+!******************************!
+[hdr:001e000000024800000002fa030000]
+[inf:838b815b834e]
+<T><A4/4>That sounds bad. Professor, do
+you think the Family has finally
+cottoned on to us?
+!******************************!
+[hdr:0028000000027b0000000256040000]
+[inf:838c834383678393]
+<T>I fear that might be the case.
+If so, we have limited time.
+!******************************!
+[hdr:0028000000027b0000000295040000]
+[inf:838c834383678393]
+<T>We must gain access to the Towering
+Pagoda before the Family sends
+more thugs into the area.
+!******************************!
+[hdr:0028000000020000000002f5040000]
+[inf:8378838b]
+<T><A3/10>Don't be scared, my sweet. I won't
+let anyone harm you.
+!******************************!
+[hdr:003200000002480000000237050000]
+[inf:838b815b834e]
+<T><A1/5>Look, Belle, thanks for the warning,
+but you can stop worrying about
+me now.
+!******************************!
+[hdr:00320000000248000000028d050000]
+[inf:838b815b834e]
+<T>And you can stop calling me weird
+names!<W> All right, let's go.
+!******************************!
+[hdr:0032000000020000000002d1050000]
+[inf:8378838b]
+<T><A2/8>Oh Fluke, I love it when you play
+hard to get. It just makes me
+swoon.
+!******************************!

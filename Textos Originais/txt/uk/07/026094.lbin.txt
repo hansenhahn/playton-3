@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000207000000]
+[inf:8341838d837d]
+<T>That funny little man in the lab
+coat has made me curious. Let's
+ask the shopkeeper about him.
+!******************************!

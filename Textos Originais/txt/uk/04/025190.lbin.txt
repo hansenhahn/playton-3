@@ -1,0 +1,5 @@
+[hdr:000a00000002000000000209000000]
+[inf:8354837d838a815b]
+<T>Cogg's tuning up the big clock in
+the back.
+!******************************!

@@ -1,0 +1,114 @@
+[hdr:000a00000002000000000209000000]
+[inf:836f815b83678393]
+<T>Ahh... Nothing like a nice cup of
+tea to soothe the nerves.
+!******************************!
+[hdr:000a00000002480000000251000000]
+[inf:838c834383678393]
+<T>Good day, Barton.
+!******************************!
+[hdr:000a00000002000000000266000000]
+[inf:836f815b83678393]
+<T><A1/1>Oh! Er... Good day to you, sir.
+!******************************!
+[hdr:000a0000000248000000028f000000]
+[inf:838c834383678393]
+<T>Barton, we wish to have a few
+words with the inspector, but
+I don't see him here.
+!******************************!
+[hdr:000a000000020000000002e4000000]
+[inf:836f815b83678393]
+<T>I don't see him here either.
+!******************************!
+[hdr:000a00000002480000000204010000]
+[inf:838c834383678393]
+<T>I was led to believe he was here in
+his office...
+!******************************!
+[hdr:000a00000002000000000239010000]
+[inf:836f815b83678393]
+<T>Yes, he was. Then he got up and left.<W>
+It was all very sudden.
+!******************************!
+[hdr:000a0000000200000000027d010000]
+[inf:836f815b83678393]
+<T><K>...</K><W>I am puzzled by his sudden
+disappearance.
+!******************************!
+[hdr:001400000002b701000002c2010000]
+[inf:83608346838b837e815b]
+<T><A5/0>Barton! I sincerely hope you're
+not spreading misinformation
+about me!
+!******************************!
+[hdr:001e00000002b70100000212020000]
+[inf:83608346838b837e815b]
+<T><A1/1>It wasn't five minutes ago I told
+you I needed to pop downstairs
+to see the chief constable.
+!******************************!
+[hdr:001e00000002000000000278020000]
+[inf:836f815b83678393]
+<T>Oh yes. You did say that, sir.
+!******************************!
+[hdr:001e00000002b7010000029a020000]
+[inf:83608346838b837e815b]
+<T><A1/5>Use your ears, Constable. You'll
+never move up in the force if
+you don't learn to listen.
+!******************************!
+[hdr:0028000000024800000002fd020000]
+[inf:838c834383678393]
+<T>Hello Inspector.
+!******************************!
+[hdr:002800000002b70100000211030000]
+[inf:83608346838b837e815b]
+<T><A3/1>Ah, sorry about that, Layton.
+What a surprise to see you.<W>
+Welcome to my humble office.
+!******************************!
+[hdr:002800000002480000000274030000]
+[inf:838c834383678393]
+<T>Forgive the sudden intrusion,
+Inspector.
+!******************************!
+[hdr:0028000000024800000002a0030000]
+[inf:838c834383678393]
+<T>I heard that you're leading the
+investigation into the prime
+minister's disappearance.
+!******************************!
+[hdr:002800000002b701000002fa030000]
+[inf:83608346838b837e815b]
+<T><A2/6>I am.<W> And since it's you I'm speaking
+to, I'll be quite candid. This case
+has me baffled. 
+!******************************!
+[hdr:002800000002b70100000261040000]
+[inf:83608346838b837e815b]
+<T>Dozens of eyewitnesses, myself
+included, and not one blasted lead
+to work with!
+!******************************!
+[hdr:0028000000024800000002b4040000]
+[inf:838c834383678393]
+<T><K>Hmm...
+!******************************!
+[hdr:002800000002b701000002c1040000]
+[inf:83608346838b837e815b]
+<T>Since you were there too, I might
+as well hear your take on things.<W>
+Have a seat.
+!******************************!
+[hdr:002800000002480000000218050000]
+[inf:838c834383678393]
+<T>I was interviewed on the day of the
+incident, but maybe another chat
+will uncover some new theories.
+!******************************!
+[hdr:003200000002000000000280050000]
+[inf:836f815b83678393]
+<T>I fear the inspector may be quite
+angry with me at the moment.
+!******************************!

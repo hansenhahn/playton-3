@@ -1,0 +1,11 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>I know we could take the train,
+Professor, but I think I'd rather
+walk to our next destination.
+!******************************!
+[hdr:000a000000026a0000000273000000]
+[inf:838c834383678393]
+<T>Good idea, Luke. Let's head there
+on foot.
+!******************************!

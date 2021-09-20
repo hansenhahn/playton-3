@@ -1,0 +1,34 @@
+[hdr:000a0000000200000000020b000000]
+[inf:8368834e8367838a815b]
+<T>Make way! Make way! Coming through!
+I'm in a hurry here! I've got to get
+back!
+!******************************!
+[hdr:0014000000025d0000000264000000]
+[inf:8341838d837d]
+<T>Goodness, that little man startled
+me!
+!******************************!
+[hdr:0014000000025d000000028e000000]
+[inf:8341838d837d]
+<T>Who would've thought such short
+legs could move so quickly? Did you
+see how he raced out of the shop?
+!******************************!
+[hdr:001400000002f700000002fe000000]
+[inf:838b815b834e]
+<T>He was really sprinting, wasn't he?
+It can't have been easy in those
+wet shoes and trousers of his!
+!******************************!
+[hdr:0014000000025d0000000265010000]
+[inf:8341838d837d]
+<T>And he was carrying two armfuls of
+books to boot. He must be a big
+customer here.
+!******************************!
+[hdr:0014000000025d00000002ba010000]
+[inf:8341838d837d]
+<T>Maybe the lady behind the counter
+can tell us something about him.
+!******************************!

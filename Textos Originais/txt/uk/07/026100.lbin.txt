@@ -1,0 +1,72 @@
+[hdr:000a0000000200000000020b000000]
+[inf:8368834e8367838a815b]
+<T><A2/3>What is it? Hmm? What do you
+want? Can't you see I'm in a
+hurry here?
+!******************************!
+[hdr:0014000000025a0000000261000000]
+[inf:8341838d837d]
+<T>Oh Luke, I think you've upset him.
+!******************************!
+[hdr:0014000000025a0000000287000000]
+[inf:8341838d837d]
+<T>You can't just go running up to
+strangers and expect them to
+chat to you, you know.
+!******************************!
+[hdr:001400000002de00000002e5000000]
+[inf:838b815b834e]
+<T>I can't help it, Flora. How else are
+we supposed to find leads for our
+investigation?
+!******************************!
+[hdr:0014000000025a000000023e010000]
+[inf:8341838d837d]
+<T>But some people really don't like
+talking to strangers. You-
+!******************************!
+[hdr:001e0000000200000000027e010000]
+[inf:8368834e8367838a815b]
+<T>Look, if you two are just going to
+stand there squabbling, will you
+at least get out of my way?
+!******************************!
+[hdr:001e000000020000000002e1010000]
+[inf:8368834e8367838a815b]
+<T>I've got places to be and I could
+do without you obstructing me.
+!******************************!
+[hdr:0028000000025a0000000225020000]
+[inf:8341838d837d]
+<T>Oh! But you can't keep running
+around like that!
+!******************************!
+[hdr:002800000002000000000259020000]
+[inf:8368834e8367838a815b]
+<T>Hmm? Like what?
+!******************************!
+[hdr:0028000000025a000000026c020000]
+[inf:8341838d837d]
+<T>With your trousers and shoes all
+dripping wet. It must be awfully
+uncomfortable.
+!******************************!
+[hdr:0028000000020000000002c0020000]
+[inf:8368834e8367838a815b]
+<T><A4/3>There will be time for drying off
+later! I have to go now. Enjoy your
+little row.
+!******************************!
+[hdr:003200000002de000000021b030000]
+[inf:838b815b834e]
+<T>Drat. He's gone.
+!******************************!
+[hdr:0032000000025a000000022f030000]
+[inf:8341838d837d]
+<T>He might have stayed if you hadn't
+got off on the wrong foot.
+!******************************!
+[hdr:003200000002de0000000270030000]
+[inf:838b815b834e]
+<T>You can hardly blame that on me...
+!******************************!

@@ -1,0 +1,12 @@
+[hdr:000a0000000200000000020d000000]
+[inf:8369838c815b835683878393]
+<T>A discussion with Rudolph reveals
+that the pagoda's owner spends
+much of his time down by the river.
+!******************************!
+[hdr:001400000002000000000275000000]
+[inf:8369838c815b835683878393]
+<T>Following this new lead, Layton
+and the others head down to the
+Thames.
+!******************************!

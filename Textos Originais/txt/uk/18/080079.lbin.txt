@@ -1,0 +1,83 @@
+[hdr:000a00000002000000000207000000]
+[inf:837d815b8384]
+<T><A2/1>Welcome to Maya's Miles of Books!
+Are you looking for anything in
+particular today?
+!******************************!
+[hdr:000a0000000264000000026b000000]
+[inf:838b815b834e]
+<T><A1/1>Gosh, there are so many books I
+want to read, but I don't get that
+much pocket money!
+!******************************!
+[hdr:000a000000020000000002ca000000]
+[inf:837d815b8384]
+<T><A3/1>That's a story I know all too well.
+I could rarely afford all the books
+I wanted to read as a child.
+!******************************!
+[hdr:000a00000002000000000238010000]
+[inf:837d815b8384]
+<T>But you know, if money's tight, you
+can always go and read at the
+library.
+!******************************!
+[hdr:000a00000002640000000286010000]
+[inf:838b815b834e]
+<T><A3/1>Erm... Don't you think encouraging
+customers to read at the library
+might be bad for business?
+!******************************!
+[hdr:000a000000020000000002ee010000]
+[inf:837d815b8384]
+<T><A5/1>Perhaps. But I'm all for anything
+that gets more people interested in
+reading.
+!******************************!
+[hdr:000a00000002640000000246020000]
+[inf:838b815b834e]
+<T>I like your enthusiasm!
+!******************************!
+[hdr:000a00000002000000000261020000]
+[inf:837d815b8384]
+<T><A2/1>You know, all this talk of money and
+books just inspired me to think up
+this puzzle.
+!******************************!
+[hdr:00e8030000020000000002bf020000]
+[inf:837d815b8384]
+<T><A4/1>Oh, was that too tough for you?
+!******************************!
+[hdr:00e8030000026400000002e8020000]
+[inf:838b815b834e]
+<T><A4/4>Yes, I'm stumped. But don't worry!
+I'm usually really good at working
+out how to spend money!
+!******************************!
+[hdr:00d00700000200000000024f030000]
+[inf:837d815b8384]
+<T><A2/1>Our little chat about money and
+books inspired me to pen this
+puzzle.
+!******************************!
+[hdr:00b80b00000200000000029e030000]
+[inf:837d815b8384]
+<T><A2/1>Great puzzling!
+!******************************!
+[hdr:00b80b0000026400000002b7030000]
+[inf:838b815b834e]
+<T><A3/2>Thanks. I have to be pretty careful
+with my pocket money, so solving
+that puzzle was a doddle!
+!******************************!
+[hdr:00b80b00000200000000021f040000]
+[inf:837d815b8384]
+<T><A3/1>Budgeting is hard work, but it makes
+picking out that one special book
+so much more fun!
+!******************************!
+[hdr:00a00f000002000000000281040000]
+[inf:837d815b8384]
+<T><A1/1>Hello again! Read any good books
+lately?
+!******************************!

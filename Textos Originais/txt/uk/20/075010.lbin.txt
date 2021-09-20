@@ -1,0 +1,12 @@
+[hdr:000a00000002000000000209000000]
+[inf:835f837e83418393]
+<T>I've got big plans for this wall. I'm
+going to get someone to paint
+something amazing on here.
+!******************************!
+[hdr:000a0000000200000000026b000000]
+[inf:835f837e83418393]
+<T>Oh, by the way, I don't think I
+introduced myself before. My
+name's Slate. Nice to meet you!
+!******************************!

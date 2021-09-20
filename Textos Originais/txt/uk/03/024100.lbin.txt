@@ -1,0 +1,52 @@
+[hdr:000a00000002000000000211000000]
+[inf:834e838d815b8393837d837483428341]
+<T>Uggggh... Owww...
+!******************************!
+[hdr:000a0000000226000000022d000000]
+[inf:838b815b834e]
+<T>Wow. You look terrible! What
+happened to you?
+!******************************!
+[hdr:000a0000000200000000025e000000]
+[inf:834e838d815b8393837d837483428341]
+<T>Yeah, I'm in a right state to be
+honest with you. Bostro just came
+by with all guns blazin'...
+!******************************!
+[hdr:000a000000022600000002c0000000]
+[inf:838b815b834e]
+<T>Oh dear. That's awful.
+!******************************!
+[hdr:000a000000020000000002da000000]
+[inf:834e838d815b8393837d837483428341]
+<T>You're tellin' me.<W> He kept bangin'
+on about some brat who'd got into
+the casino.
+!******************************!
+[hdr:000a00000002000000000231010000]
+[inf:834e838d815b8393837d837483428341]
+<T>That brat wouldn't happen to be
+you, would it?
+!******************************!
+[hdr:000a00000002260000000263010000]
+[inf:838b815b834e]
+<T>M-me?<W> Oh no, I wouldn't dream of
+going to an awful place like that.
+!******************************!
+[hdr:000a000000020000000002ad010000]
+[inf:834e838d815b8393837d837483428341]
+<T>Good. I was afraid I was gonna
+have to teach you a lesson for
+being so daft.
+!******************************!
+[hdr:000a000000020000000002fd010000]
+[inf:834e838d815b8393837d837483428341]
+<T>And I really ain't in no shape for
+teachin' right now, as you can see.
+!******************************!
+[hdr:000a00000002000000000247020000]
+[inf:834e838d815b8393837d837483428341]
+<T>Uggggh...<W> I just don't get that
+Bostro. He's always losin' his rag
+for no reason.
+!******************************!

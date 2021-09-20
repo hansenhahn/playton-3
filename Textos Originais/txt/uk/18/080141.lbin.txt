@@ -1,0 +1,63 @@
+[hdr:000a0000000200000000020b000000]
+[inf:8369835e815b83568383]
+<T>Ah, there's a lovely breeze blowing
+through London today.
+!******************************!
+[hdr:000a00000002480000000251000000]
+[inf:838c834383678393]
+<T>I couldn't agree more.
+!******************************!
+[hdr:000a0000000200000000026b000000]
+[inf:8369835e815b83568383]
+<T>It's the perfect day to find a nice
+grassy spot near the river - or to
+go for a walk.
+!******************************!
+[hdr:000a000000020000000002c4000000]
+[inf:8369835e815b83568383]
+<T><A3/5>Speaking of walks, my hubby and I
+came up with this great puzzle while
+we were out one day.
+!******************************!
+[hdr:00e803000002000000000229010000]
+[inf:8369835e815b83568383]
+<T>Aww, you're giving up?
+!******************************!
+[hdr:00d007000002000000000243010000]
+[inf:8369835e815b83568383]
+<T><A3/5>My hubby and I thought up this
+puzzle when we were out for a
+riverside stroll.
+!******************************!
+[hdr:00b80b00000200000000029b010000]
+[inf:8369835e815b83568383]
+<T>You're a clever one, aren't you?
+Nice work there!
+!******************************!
+[hdr:00b80b0000020000000002d0010000]
+[inf:8369835e815b83568383]
+<T><A2/1>Ah, I used to love walking with my
+hubby. Back then he used to come
+home for dinner every night.
+!******************************!
+[hdr:00b80b00000248000000023a020000]
+[inf:838c834383678393]
+<T>{''}Used to{''}?
+!******************************!
+[hdr:00b80b00000200000000024e020000]
+[inf:8369835e815b83568383]
+<T><A3/5>Sadly, those carefree walks ended
+as soon as we got here.
+!******************************!
+[hdr:00b80b000002000000000291020000]
+[inf:8369835e815b83568383]
+<T>They must be working him like a dog
+at that new job of his, because he
+hardly ever comes home! 
+!******************************!
+[hdr:00a00f0000020000000002f4020000]
+[inf:8369835e815b83568383]
+<T><A1/1>Ah, the breeze today is just
+blissful. I wish my hubby would finish
+work so we could go for a picnic.
+!******************************!

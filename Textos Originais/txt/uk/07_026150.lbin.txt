@@ -1,8 +1,0 @@
-<HDR:838C834383678393>
-<T>Does anything about this room
-strike you as familiar, Luke?
-!******************************!
-<HDR:838B815B834E>
-<T>Familiar?<W> Actually, now that you
-mention it...
-!******************************!

@@ -1,0 +1,26 @@
+[hdr:000a00000002000000000207000000]
+[inf:836a83528389]
+<T>I can't believe I'm seeing this!<W>
+Are you...? No, it can't be!
+!******************************!
+[hdr:000a000000024b0000000254000000]
+[inf:838c834383678393]
+<T><A1/1>I'm sorry... Have we met?
+!******************************!
+[hdr:000a00000002000000000277000000]
+[inf:836a83528389]
+<T><A2/6>Phe-ew! I thought I was in big
+trouble when I clocked that hat
+of yours, I tell you...
+!******************************!
+[hdr:000a000000020000000002d7000000]
+[inf:836a83528389]
+<T><A2/5>But it seems you ain't who I
+thought you were, so we ain't got
+nothing to talk about. Get lost!
+!******************************!
+[hdr:001400000002000000000240010000]
+[inf:836a83528389]
+<T><A2/5>Oi, leave me alone, will you? Your
+hat is giving me the heebie-jeebies!
+!******************************!

@@ -1,0 +1,20 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c834383678393]
+<T>What a lovely surprise! We've found
+a hidden puzzle.
+!******************************!
+[hdr:00e803000002000000000241000000]
+[inf:838c834383678393]
+<T><A4/1>Sometimes one just needs to step
+away from a problem and let the
+solution present itself.
+!******************************!
+[hdr:00d0070000020000000002a4000000]
+[inf:838c834383678393]
+<T>Oh, here's that hidden puzzle from
+earlier. I'd best hop to it.
+!******************************!
+[hdr:00b80b0000020000000002e7000000]
+[inf:838c834383678393]
+<T><A1/2>Done and dusted.
+!******************************!

@@ -1,0 +1,63 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+<T>It looks like no one's here.
+!******************************!
+[hdr:001400000002270000000234000000]
+[inf:8369838c815b835683878393]
+<T><J54>Tee hee hoo! Well, look who's
+back.<Q><K></J>
+!******************************!
+[hdr:00140000000200000000026a000000]
+[inf:838b815b834e]
+<T><A1/6>Augh! What are you doing hiding
+there?!
+!******************************!
+[hdr:0019000000029b00000002a4000000]
+[inf:8354837d838a815b]
+<T>I see you've learned the secret
+knock, dearie.
+!******************************!
+[hdr:001e00000002d600000002e1000000]
+[inf:96a29788838b815b834e]
+<T>Actually, I was the one who did the
+knocking, Spring. Is Cogg around?
+!******************************!
+[hdr:001e000000029b000000022a010000]
+[inf:8354837d838a815b]
+<T>Ah, there you are, Luke. Cogg's in
+the back room. 
+!******************************!
+[hdr:002800000002000000000260010000]
+[inf:838b815b834e]
+<T><A1/1>Oh, so you know the owners of
+the clock shop, Luke?
+!******************************!
+[hdr:002800000002d6000000029d010000]
+[inf:96a29788838b815b834e]
+<T><A2/5>I must have forgotten to mention
+that earlier, but yes, Spring and
+Cogg have been helping me.
+!******************************!
+[hdr:002800000002d60000000204020000]
+[inf:96a29788838b815b834e]
+<T>I think Cogg can explain better
+than I can, though. You should ask
+him.
+!******************************!
+[hdr:00280000000200000000024f020000]
+[inf:838b815b834e]
+<T>All right.<W><A4/1> Let's hear what he
+has to say.
+!******************************!
+[hdr:003200000002d60000000285020000]
+[inf:96a29788838b815b834e]
+<T>Cogg's in the back room. He'll fill
+you in on how all this time travelling
+began.
+!******************************!
+[hdr:003200000002d600000002da020000]
+[inf:96a29788838b815b834e]
+<T>Sorry for keeping you in the dark.
+It was never my intention to
+deceive you.
+!******************************!

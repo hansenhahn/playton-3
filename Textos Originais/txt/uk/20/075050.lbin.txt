@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:835f837e83418393]
+<T>If everything stays on schedule,
+we'll have the outline finished by
+the next time you visit!
+!******************************!

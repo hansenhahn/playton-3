@@ -1,0 +1,67 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+Whoa! It's so bright!
+!******************************!
+[hdr:0014000000021d0000000226000000]
+[inf:838c834383678393]
+Ah, now I see how
+this establishment
+got its name.
+!******************************!
+[hdr:001e00000002000000000259000000]
+[inf:838b815b834e]
+This car must cost 10
+times more than the
+Laytonmobile!
+!******************************!
+[hdr:002800000002910000000298000000]
+[inf:8341838d837d]
+I bet it's really
+buzzing inside!
+!******************************!
+[hdr:003200000002ba00000002c3000000]
+[inf:834e838983458358]
+How do they block out
+the light? It certainly
+adds to the ambiance.
+!******************************!
+[hdr:003c00000002000000000207010000]
+[inf:838b815b834e]
+It's closed now, of
+course. We did leave
+it in rather a mess!
+!******************************!
+[hdr:004600000002000000000245010000]
+[inf:838b815b834e]
+These cars must
+belong to the Family...
+What a scary thought!
+!******************************!
+[hdr:0050000000021d0000000283010000]
+[inf:838c834383678393]
+What a splendid
+fountain this would be
+if it were running!
+!******************************!
+[hdr:005a000000029100000002be010000]
+[inf:8341838d837d]
+What a cool design! I
+don't know what it
+means, though.
+!******************************!
+[hdr:006400000002ba00000002f6010000]
+[inf:834e838983458358]
+What were they
+thinking, wrecking
+their own casino?
+!******************************!
+[hdr:006e000000021d000000022a020000]
+[inf:838c834383678393]
+Oh, look. This poster
+says they'll open up
+again soon.
+!******************************!
+[hdr:000f27000002610200000268020000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

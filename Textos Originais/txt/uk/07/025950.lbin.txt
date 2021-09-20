@@ -1,0 +1,90 @@
+[hdr:000a00000002000000000209000000]
+[inf:838f838b837e815b]
+<T><A4/0>Ugh, this post is the pits. I can't
+wait to clock off so I can get my
+laughin' gear round a hot meal.
+!******************************!
+[hdr:000a00000002780000000283000000]
+[inf:838f838b815b83678393]
+<T><A4/0>Mmm. Sounds good bruv. What I
+wouldn't give for a pipin'-hot pasty
+with some mushroom gravy.
+!******************************!
+[hdr:000a000000027800000002e9000000]
+[inf:838f838b815b83678393]
+<T><A1/1>But hey, keep it down. Bostro'll
+tan our hides if he hears us
+talkin' food on the job.
+!******************************!
+[hdr:000a00000002000000000249010000]
+[inf:838f838b837e815b]
+<T><A3/5>Tsk. It's like all he does is watch
+us to see if we mess up. What a
+rotter to have as a boss.
+!******************************!
+[hdr:001400000002b001000002b7010000]
+[inf:838b815b834e]
+<T>All right <N1>,
+do your thing!
+!******************************!
+[hdr:001400000002d901000002e2010000]
+[inf:8349834583808251]
+<T><K><A2/5>...
+!******************************!
+[hdr:001400000002b001000002f2010000]
+[inf:838b815b834e]
+<T><A1/3>Psst, <N1>!
+You're on!
+!******************************!
+[hdr:001400000002d90100000212020000]
+[inf:8349834583808251]
+<T><A4/0>Get lost!<W> Get lost!
+!******************************!
+[hdr:001e00000002000000000232020000]
+[inf:838f838b837e815b]
+<T><A2/5>Did you hear that bruv?! It was
+Bostro!
+!******************************!
+[hdr:001e00000002780000000263020000]
+[inf:838f838b815b83678393]
+<T><A2/5>Yeah! He told me to get lost!
+Or was he talkin' to you?
+!******************************!
+[hdr:001e000000020000000002a4020000]
+[inf:838f838b837e815b]
+<T>I think he meant both of us!
+!******************************!
+[hdr:001e000000027800000002c4020000]
+[inf:838f838b815b83678393]
+<T>I think you're right!<W> <A3/5>Aye aye,
+Bostro. You don't need to tell us
+twice. We'll get lost immediately!
+!******************************!
+[hdr:002800000002b00100000234030000]
+[inf:838b815b834e]
+<T><A4/2>Nice work, <N1>!
+!******************************!
+[hdr:0028000000024e0300000255030000]
+[inf:834983458380]
+<T><A3/0>Skwaaarka skwawk!
+!******************************!
+[hdr:00320000000270030000027b030000]
+[inf:96a29788838b815b834e]
+<T><A2/2>Excellent! I think we can finally get
+into Chinatown now!
+!******************************!
+[hdr:003200000002b001000002be030000]
+[inf:838b815b834e]
+<T>And it's all thanks to our friend
+<N1>!
+!******************************!
+[hdr:003c00000002d901000002e9030000]
+[inf:8349834583808251]
+<T>Get lost!<W> Get lost!
+!******************************!
+[hdr:003c00000002b00100000203040000]
+[inf:838b815b834e]
+<T><A4/4>Um... You can stop saying that now,
+<N1>.
+
+!******************************!

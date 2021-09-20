@@ -1,0 +1,44 @@
+[hdr:000a00000002000000000209000000]
+[inf:838c8343836f8393]
+<T><A2/1>You there! Listen to me. I've got
+something I want to tell you.
+!******************************!
+[hdr:000a00000002520000000259000000]
+[inf:838b815b834e]
+<T><A3/1>Really? What is it?
+!******************************!
+[hdr:000a00000002000000000276000000]
+[inf:838c8343836f8393]
+<T><A3/1>I've just cooked up an amazing
+puzzle! It's so hard, it'll break
+your brain!
+!******************************!
+[hdr:00e8030000020000000002cc000000]
+[inf:838c8343836f8393]
+<T><A4/1>See? What did I tell you? Your brain
+is broken! Do I make the best puzzles
+or what!
+!******************************!
+[hdr:00d007000002000000000229010000]
+[inf:838c8343836f8393]
+<T><A3/1>Try all you want, you'll never solve
+my puzzle! It might even be the
+hardest one.<K><W>.<W>.<W></K>in the world!
+!******************************!
+[hdr:00b80b0000020000000002a3010000]
+[inf:838c8343836f8393]
+<T><A2/1>WHAT?! You solved it?! Already?
+I worked really hard on that puzzle,
+you know.
+!******************************!
+[hdr:00b80b0000020000000002fb010000]
+[inf:838c8343836f8393]
+<T>You could've at least taken a little
+longer to solve it. Hmph!
+!******************************!
+[hdr:00a00f00000200000000023d020000]
+[inf:838c8343836f8393]
+<T><A3/1>Hmph! The next puzzle I think up will
+be so hard, no one will be able to
+solve it! Not even me!
+!******************************!

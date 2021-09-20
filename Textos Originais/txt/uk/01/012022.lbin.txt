@@ -1,0 +1,67 @@
+[hdr:000a00000002000000000205000000]
+[inf:8378838b]
+<T>I'm late, I'm late, I'm late!
+!******************************!
+[hdr:00140000000226000000022d000000]
+[inf:838b815b834e]
+<T><A1/6>Oof!
+!******************************!
+[hdr:00190000000200000000023b000000]
+[inf:8378838b]
+<T>Ow ow owww...
+!******************************!
+[hdr:00190000000226000000024c000000]
+[inf:838b815b834e]
+<T><A4/4>I'm so sorry, miss! I didn't see
+you there!<W> Are you all right?
+!******************************!
+[hdr:001900000002000000000297000000]
+[inf:8378838b]
+<T><A2/4>Ouch! I skinned my knee...<W><A2/6> But if
+you gave it a kiss, it would make it
+aaaall better.
+!******************************!
+[hdr:0019000000022600000002ff000000]
+[inf:838b815b834e]
+<T><A4/1>Huh?
+!******************************!
+[hdr:00190000000200000000020d010000]
+[inf:8378838b]
+<T><A3/7>Great! Then pucker up.<W> Kissy
+kissy kissy!
+!******************************!
+[hdr:001b00000002260000000243010000]
+[inf:838b815b834e]
+<T><A1/3>What?! No!<W> Stay back! Don't come
+any closer!
+!******************************!
+[hdr:001e000000027c0100000285010000]
+[inf:838c834383678393]
+<T>Luke! Watch your tone.<W> A gentleman
+mustn't forget his manners when
+conversing with a lady.
+!******************************!
+[hdr:001e000000020000000002e6010000]
+[inf:8378838b]
+<T><A4/5>Oh, your name's Fluke? What a 
+charming name! So very whimsical!
+!******************************!
+[hdr:001e00000002000000000230020000]
+[inf:8378838b]
+<T><A3/5>All right, I have to go now, but
+let's rendezvous later, dreamboat!
+!******************************!
+[hdr:00280000000226000000027d020000]
+[inf:838b815b834e]
+<T>Actually, miss, my name is Lu-<W>
+<A4/4>Oh. She ran off.
+!******************************!
+[hdr:0028000000027c01000002b9020000]
+[inf:838c834383678393]
+<T>What an...unusual young lady.
+!******************************!
+[hdr:0028000000022600000002da020000]
+[inf:838b815b834e]
+<T>That's a nice way of putting it,
+Professor.
+!******************************!

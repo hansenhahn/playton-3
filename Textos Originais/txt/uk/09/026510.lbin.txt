@@ -1,0 +1,6 @@
+[hdr:000a00000002000000000209000000]
+[inf:8372837283418393]
+<T>You're always rushing about. That
+doesn't really seem very suitable
+for a gentleman...
+!******************************!

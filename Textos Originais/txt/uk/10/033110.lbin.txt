@@ -1,0 +1,51 @@
+[hdr:000a00000002000000000209000000]
+[inf:83778343835b838b]
+<T><A5/1>Augh!<A6/0> What do you want?! Please
+don't hurt meee!
+!******************************!
+[hdr:000a00000002490000000252000000]
+[inf:838c834383678393]
+<T>I simply wish to ask you a question,
+sir. No need for theatrics.
+!******************************!
+[hdr:000a00000002000000000296000000]
+[inf:83778343835b838b]
+<T><A2/5>Well...all right.
+!******************************!
+[hdr:000a000000024900000002b1000000]
+[inf:838c834383678393]
+<T>The young fellow I've been
+travelling with - have you seen
+him anywhere around here?
+!******************************!
+[hdr:000a00000002000000000209010000]
+[inf:83778343835b838b]
+<T><A1/1>You mean the one with the
+blue hat and the p-<W30>p-<W30>piercing
+stare?
+!******************************!
+[hdr:000a0000000249000000025b010000]
+[inf:838c834383678393]
+<T>I'd hardly describe his stare as
+{''}piercing{''}, but yes, I think we're
+talking about the same boy.
+!******************************!
+[hdr:000a000000020000000002c4010000]
+[inf:83778343835b838b]
+<T>I haven't seen him around here.</T>
+<TW>Is he lost?
+!******************************!
+[hdr:000a000000024900000002fb010000]
+[inf:838c834383678393]
+<T>Either lost or wandering. I'm not
+quite sure yet.
+!******************************!
+[hdr:000a00000002000000000230020000]
+[inf:83778343835b838b]
+<T>If it will keep you from hunting me
+down, I h-<W30>h-<W30>hope you find him soon.
+!******************************!
+[hdr:000a00000002490000000285020000]
+[inf:838c834383678393]
+<T>Er... Thank you.
+!******************************!

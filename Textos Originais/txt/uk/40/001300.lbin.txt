@@ -1,0 +1,183 @@
+[hdr:000100000002000000000201000000]
+[inf:]
+Let's see if I've got this right.
+!******************************!
+[hdr:000200000002230000000224000000]
+[inf:]
+Take note, Luke. A true gentleman
+never plays his ace in the hole
+until absolutely necessary.
+!******************************!
+[hdr:000300000002820000000283000000]
+[inf:]
+Yes, but I need to confirm a few
+facts before I can connect all the
+dots.
+!******************************!
+[hdr:000400000002cd00000002ce000000]
+[inf:]
+I've worked things out on my own
+this far, but I need you to help
+make sense of the rest.
+!******************************!
+[hdr:000500000002280100000229010000]
+[inf:]
+There's nothing to be done. Jump
+back in there and you'll die too!
+!******************************!
+[hdr:0006000000026c010000026d010000]
+[inf:]
+This one's as good as solved!
+!******************************!
+[hdr:0007000000028b010000028c010000]
+[inf:]
+Um... By time-travelling postman?
+Just joking, of course!
+!******************************!
+[hdr:000800000002c601000002c7010000]
+[inf:]
+Ah, of course. That must be your
+famous intuition talking, eh?
+!******************************!
+[hdr:000900000002060200000207020000]
+[inf:]
+I can't wait to start this new
+adventure with you! Please write
+back as soon as you get this!
+!******************************!
+[hdr:000a00000002650200000266020000]
+[inf:]
+You're a real piece of work!
+!******************************!
+[hdr:000b00000002830200000284020000]
+[inf:]
+Success!
+!******************************!
+[hdr:000c000000028d020000028e020000]
+[inf:]
+But before that, I'd just like to
+verify that I'm dealing with the
+real Professor Layton here.
+!******************************!
+[hdr:000d00000002ed02000002ee020000]
+[inf:]
+Tremendous work, Professor!
+You've found me out.
+!******************************!
+[hdr:000e000000021f0300000220030000]
+[inf:]
+The only thing a bully understands
+is force.
+!******************************!
+[hdr:000f000000024d030000024e030000]
+[inf:]
+Deep down inside, I hoped you might
+be able to talk me down from the
+edge of insanity again.
+!******************************!
+[hdr:001000000002ab03000002ac030000]
+[inf:]
+I don't think I have much longer
+here, Hershel.
+!******************************!
+[hdr:001100000002dc03000002dd030000]
+[inf:]
+No. I'm Celeste, her younger
+sister. I've been trying to uncover
+what really happened to Claire.
+!******************************!
+[hdr:0012000000023e040000023f040000]
+[inf:]
+What Dimitri, Bill and I did 10 years
+ago broke the laws of nature. And
+now we must pay.
+!******************************!
+[hdr:001300000002980400000299040000]
+[inf:]
+I can't just leave you here.
+!******************************!
+[hdr:001400000002b604000002b7040000]
+[inf:]
+That's not true, Clive. You can
+always start again and try to
+repair the damage you've done.
+!******************************!
+[hdr:001500000002140500000215050000]
+[inf:]
+After years of research in the
+field of time travel, I am pleased
+to share the fruits of my labour.
+!******************************!
+[hdr:00160000000279050000027a050000]
+[inf:]
+And now, without further ado,
+I give you my time machine!
+!******************************!
+[hdr:001700000002b405000002b5050000]
+[inf:]
+Why, they provide me with data,
+of course.
+!******************************!
+[hdr:001800000002e005000002e1050000]
+[inf:]
+Everything. You see, like you,
+Hershel...I loved Claire.
+!******************************!
+[hdr:0019000000021a060000021b060000]
+[inf:]
+Yes. The time machine worked,
+if only for that single moment
+before it exploded.
+!******************************!
+[hdr:001a000000026c060000026d060000]
+[inf:]
+Did you see that?
+!******************************!
+[hdr:001b000000027f0600000280060000]
+[inf:]
+You two have got some nerve,
+leaving me alone while you go off
+on another adventure!
+!******************************!
+[hdr:001c00000002d506000002d6060000]
+[inf:]
+I'm so glad to see you!
+!******************************!
+[hdr:001d00000002ee06000002ef060000]
+[inf:]
+Yes, people can often be so blinded
+by their own motivations that they
+lose sight of the damage they do.
+!******************************!
+[hdr:001e00000002580700000259070000]
+[inf:]
+Layton has been my arch-nemesis
+ever since that fateful day!
+!******************************!
+[hdr:001f00000002960700000297070000]
+[inf:]
+Oi! Come by to dig into a few
+puzzles, did ya?
+!******************************!
+[hdr:002000000002c607000002c7070000]
+[inf:]
+Go on! Don't be shy!
+!******************************!
+[hdr:002100000002dc07000002dd070000]
+[inf:]
+{''}Mr Rabbit{''}? Oh, puh-lease! What
+storybook did you get that from?
+The name's Subject 3, okay?
+!******************************!
+[hdr:002200000002410800000242080000]
+[inf:]
+Aha! So this is where you sneaky
+sneaks 'ave been 'iding. There'll
+be no getting away this time!
+!******************************!
+[hdr:002300000002a308000002a4080000]
+[inf:]
+Oh, this food is simply dreadful,
+Bill. Do get this over with quickly
+so we can leave.
+!******************************!

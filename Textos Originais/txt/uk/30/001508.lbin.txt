@@ -1,0 +1,33 @@
+[hdr:000a00000002000000000207000000]
+[inf:838b815b834e]
+This back room is
+a bit of a dump...
+!******************************!
+[hdr:00140000000200000000022c000000]
+[inf:838b815b834e]
+Could that be a trap
+to keep out
+intruders like us?
+!******************************!
+[hdr:001e00000002600000000269000000]
+[inf:838c834383678393]
+Dimitri must use these
+stairs to come and go
+as he pleases.
+!******************************!
+[hdr:002800000002a500000002ac000000]
+[inf:8341838d837d]
+It's ever so dark and
+dingy in here! Let's
+move on.
+!******************************!
+[hdr:0032000000026000000002e0000000]
+[inf:838c834383678393]
+My word, look at this
+dust... It's making
+my nose itch.
+!******************************!
+[hdr:000f2700000218010000021f010000]
+[inf:835283438393]
+You got a hint coin!
+!******************************!

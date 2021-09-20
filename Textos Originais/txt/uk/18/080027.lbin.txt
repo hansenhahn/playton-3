@@ -1,0 +1,60 @@
+[hdr:000a00000002000000000207000000]
+[inf:834583628359]
+<T><A6/0><W><A3/1>Oh. Hello again, fellas.
+!******************************!
+[hdr:000a00000002320000000239000000]
+[inf:838b815b834e]
+<T><A1/1>Every time we see you, you have
+your nose in the paper. You must
+really like current affairs.
+!******************************!
+[hdr:000a000000020000000002a0000000]
+[inf:834583628359]
+<T>That's the understatement of the
+year. Just think - all the world's
+news is here in these pages.
+!******************************!
+[hdr:000a00000002000000000204010000]
+[inf:834583628359]
+<T>How could I not devote my days to
+perusing them?
+!******************************!
+[hdr:000a00000002320000000238010000]
+[inf:838b815b834e]
+<T><A4/4>But there are hardly any pictures!
+And the print is so small! Doesn't it
+get boring?
+!******************************!
+[hdr:000a00000002000000000296010000]
+[inf:834583628359]
+<T><A2/1>Boring?! The paper's bursting with
+interesting stuff.<W> Like this puzzle,
+for instance.
+!******************************!
+[hdr:00e8030000020000000002f8010000]
+[inf:834583628359]
+<T><A2/1>The youth of today just don't
+appreciate print media like they
+should.
+!******************************!
+[hdr:00d007000002000000000248020000]
+[inf:834583628359]
+<T><A3/1>Want to have another look at the
+paper?<W> Go ahead, help yourself.
+!******************************!
+[hdr:00b80b000002000000000295020000]
+[inf:834583628359]
+<T><A3/1>So, now do you see why I read
+this thing night and day?
+!******************************!
+[hdr:00b80b0000023200000002d6020000]
+[inf:838b815b834e]
+<T><A4/1>Oh yes! I'm going to start reading
+the paper too.<W> Once this case is
+done.
+!******************************!
+[hdr:00a00f00000200000000022c030000]
+[inf:834583628359]
+<T><A1/1>Well, boy? Reading the paper much
+these days?
+!******************************!
