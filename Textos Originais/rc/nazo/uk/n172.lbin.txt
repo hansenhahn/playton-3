@@ -1,0 +1,40 @@
+n172
+!******************************!
+n172a
+!******************************!
+n172b
+!******************************!
+A friend of yours loves plasters. He simply
+adores them! He wears them all the time,
+whether he's injured or not.
+
+As usual, he's got a load of them stuck all
+over his face. But today, he's made a
+puzzle out of them just for you!
+
+{''}Which one did I stick on first?{''}
+
+Touch the correct plaster to mark it with
+an X, then touch <CR>Submit</C>.
+!******************************!
+Great eye!
+
+The plaster he stuck on first should be
+beneath all the rest. If you look closely,
+you'll see that there's only one plaster
+that doesn't overlap any of the others.
+!******************************!
+Too bad!
+
+Look closely at all the plasters
+before submitting your answer.
+!******************************!
+The first plaster he stuck on should
+be underneath all the others.
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!

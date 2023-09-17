@@ -1,0 +1,49 @@
+n015
+!******************************!
+n015a
+!******************************!
+n015b
+!******************************!
+If seven days after 70 days ago was
+Sunday, which day is it seven days
+before 70 days from now?
+
+Tick your answer, then touch <CR>Submit</C>.
+!******************************!
+That{9}s right!
+
+Sunday.
+One week is seven days. If you're asked
+{''}What day was it X days ago?{''} or {''}What
+day will it be X days from today?{''} and X
+is divisible by seven, then you know that
+it will be the same day as today.
+!******************************!
+Too bad.
+
+Don't let the numbers confuse you.
+!******************************!
+If you think in terms of big numbers,
+you'll get confused, so try thinking in
+terms of smaller numbers.
+
+For example, if seven days after 14 days
+ago is Wednesday, what day is today?
+!******************************!
+Seven days after 70 days ago is nine
+weeks ago. So if that day was a Sunday, 
+what day would it be today?
+!******************************!
+The thinking is the same for seven days
+before 70 days from now. Today is a
+Sunday, and the question is asking which
+day it will be nine weeks from today.
+
+Now you get it, right?
+!******************************!
+If you know which day of the week
+it is, then you know which day it is
+{''}X weeks before{''} or {''}X weeks after{''}.
+
+It's the same day as today. 
+!******************************!

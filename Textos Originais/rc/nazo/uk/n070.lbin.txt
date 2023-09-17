@@ -1,0 +1,56 @@
+n070
+!******************************!
+n070a
+!******************************!
+n070b
+!******************************!
+Blocks have been carefully stacked as
+shown in the image below. The image is a
+view from the side, and the perspective
+has been rotated in an unknown direction.
+
+Gravity is acting on the blocks, so any
+block not touching the surface or a block
+below it will fall.
+
+When you're looking at the blocks from
+the correct angle, which direction, A, B,
+C or D, is {''}up{''}?
+!******************************!
+You got it!
+
+D is indeed {''}up{''}! When you look carefully
+at the stack from each angle, you can see
+which blocks would be pulled down by
+gravity. With the exception of when D is
+{''}up{''}, all other possibilities involve blocks
+falling.
+!******************************!
+Too bad.
+
+Look again carefully.
+!******************************!
+When you examine the stack of blocks
+from each direction, can you find any
+unstable blocks? Look carefully.
+!******************************!
+Try turning the image and looking at it
+with each different letter as {''}up{''}.
+Keep an eye out for blocks with empty
+spaces beneath them.
+!******************************!
+If you look at the stack with B as {''}up{''},
+the small green square beneath the big
+red square would fall, so B isn't the
+answer.
+
+Keep looking at it from different
+directions like this and you'll soon
+find the answer!
+!******************************!
+Look at the image with C as {''}up{''}.
+Two of the small green squares would
+fall, so C can be ruled out as well.
+
+The answer is either A or D.
+!******************************!

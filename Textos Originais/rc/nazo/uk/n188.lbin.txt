@@ -1,0 +1,46 @@
+n188
+!******************************!
+n188a
+!******************************!
+n188b
+!******************************!
+A full deck of 52 cards (without jokers)
+has been shuffled and divided into three
+roughly equal piles.
+
+The pile on the left has 17 cards, four
+of which are red. The middle pile has
+18 cards, six of which are red.
+
+How many of the cards in the pile on
+the right are black?
+!******************************!
+Excellent!
+
+There is one black card.
+
+In the left pile of 17 cards, there are
+4 red and 13 black. In the middle pile
+of 18 cards, there are 6 red and 12
+black. In the pile on the right, then,
+there must be 16 red cards and just one
+black card!
+
+These cards were shuffled, right?
+!******************************!
+Too bad!
+
+Don't overthink it.
+!******************************!
+This puzzle can be solved with simple
+addition and subtraction.
+
+Remember, there is an equal number
+of red and black cards in a full deck.
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!

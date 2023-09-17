@@ -1,0 +1,53 @@
+n145
+!******************************!
+n145a
+!******************************!
+n145b
+!******************************!
+These four cards, 0, 1, 2 and 6, can be
+used to display different times of the
+day, as seen in the example 02:16.
+
+Using the 24-hour clock, how many
+different times can be displayed by
+rearranging the four cards?
+
+You must use all four cards to display 
+each time. The cards can't be overlapped.
+!******************************!
+That's it!
+
+20 different times can be displayed
+using the four cards.
+
+Did it take you a while to work out that
+the 6 can also be used as a 9?
+
+And, of course, times like 26 o'clock and
+60 minutes past the hour don't exist.
+!******************************!
+Too bad!
+
+First look at all the conditions, then
+start eliminating any answers that are
+impossible.
+!******************************!
+You're trying to display times of
+day, so let's be clear:
+
+{.} The hours go up to 23.
+{.} The minutes go up to 59.
+!******************************!
+There's one card that can be used to
+display two different numbers!
+!******************************!
+The 6 can be flipped and used as a 9!
+Better count those times again...
+!******************************!
+The earliest time you can display
+is 01:26. The latest is 21:09.
+
+Be careful not to overlook any
+combinations, and be wary of
+times that don't actually exist.
+!******************************!

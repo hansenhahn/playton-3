@@ -1,0 +1,38 @@
+n117
+!******************************!
+n117a
+!******************************!
+n117b
+!******************************!
+This is a Laytangram.
+
+Fill in the little bird's silhouette using
+the five pieces in Layton's top hat,
+without overlapping the pieces or leaving
+any empty space.
+
+You can flip pieces if need be.
+!******************************!
+Well done!
+
+These chicks are so tiny, they can't even
+fly yet!
+!******************************!
+Too bad.
+
+That doesn't look much like a bird...
+!******************************!
+Use {#4} to form the bird's legs.
+!******************************!
+{#3} forms the bird's forehead when
+oriented vertically.
+!******************************!
+{#1} forms the tail.
+
+Can you work out which way it needs to
+be turned?
+!******************************!
+Once flipped, {#2} forms the bird's chest.
+That should be enough information for
+you to complete the puzzle.
+!******************************!

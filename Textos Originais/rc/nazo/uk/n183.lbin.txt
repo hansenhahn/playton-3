@@ -1,0 +1,44 @@
+n183
+!******************************!
+n183a
+!******************************!
+n183b
+!******************************!
+Three books have been placed on a table.
+Someone looking at the books from a
+certain direction commented:
+{''}That reminds me of Professor Layton.{''}
+
+From which direction was this person
+looking at the books?
+
+Touch a letter, A to D, to select a
+direction.
+!******************************!
+That's right!
+
+Direction D.
+
+From that direction the books look like
+Layton's top hat!
+!******************************!
+Too bad.
+
+Isn't there a familiar shape to be found
+somewhere on the table?
+!******************************!
+When the person said it reminded them
+of Professor Layton, what did they
+mean?
+
+Professor Layton is an English
+gentleman. What's the first thing that
+comes to mind when you think of English
+gentlemen?
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!

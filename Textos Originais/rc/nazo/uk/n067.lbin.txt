@@ -1,0 +1,63 @@
+n067
+!******************************!
+n067a
+!******************************!
+n067b
+!******************************!
+Two criminals want to use this board to
+seal off the cave where they store their
+smuggled goods.
+
+If they cut the board into two pieces of
+identical size and shape, they'll be able
+to seal the cave entrance completely.
+
+Draw lines on the board to indicate
+where it needs to be cut.
+!******************************!
+Good job!
+
+The board needs to be cut as shown
+above.
+
+As you can see, the criminals have flipped
+one of the pieces and sealed the cave
+entrance tight.
+!******************************!
+Bad luck.
+
+It's not a particularly complicated cut
+that's required here.
+!******************************!
+Count the number of squares the board
+is made up of.
+
+Since the two pieces you need must be
+the same size, they will be made up of
+the same number of squares.
+!******************************!
+The board has to be cut into two pieces
+of seven squares each. The pieces also
+have to be the same shape, so you can't
+just cut any two seven-square pieces.
+
+Try visualising the shape that the two
+pieces will be after being cut.
+!******************************!
+First off, look for two rectangles
+containing six squares each.
+
+There are only two ways of cutting
+out two separate six-square
+rectangles. The important point is
+working out how to integrate the two
+remaining squares.
+
+!******************************!
+Split up the bottom two squares in
+the middle column and you'll be 
+very close to getting the answer.
+
+Can you visualise two boot-shaped
+pieces?
+!******************************!

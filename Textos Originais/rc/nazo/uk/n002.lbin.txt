@@ -1,0 +1,62 @@
+n002
+!******************************!
+n002a
+!******************************!
+n002b
+!******************************!
+Below is the map to the clock shop that
+accompanied the letter from Luke's
+future self. Starting from the yellow
+arrow, can you find the clock shop using
+the times listed on the map?
+
+Circle the letter of the correct building
+and touch <CR>Submit</C>.
+!******************************!
+Good timing!
+
+The answer is H. The times indicate which
+direction to go at each junction, and are
+written in order.
+
+At each junction, you need to check the
+listed time and proceed in the direction a
+clock's hour hand would point.
+!******************************!
+Too bad!
+
+The times listed are clues for how to get
+to the shop.
+
+Try thinking about it again.
+!******************************!
+To work out the route to the shop,
+you need to know where to turn, and
+in which direction...
+!******************************!
+Imagine the listed times being displayed 
+on an analogue clock. The minute hand is
+always pointing straight up, but the
+hour hand points in various directions...
+!******************************!
+If you're having trouble, you might be
+trying to imagine yourself inside the
+map and working out the directions from
+there.
+
+Try looking at the map as you would a
+clock on a wall, then use the Memo
+Function to draw the direction of the
+hour hand directly onto the map.
+!******************************!
+For each time listed, move in the
+direction the hour hand would point
+on an analogue clock.
+
+The first time listed is 12:00, so keep
+going north at the first junction you
+come to. The next time is 03:00, so
+you've got to head east at the second
+junction. You can work out the rest
+from here.
+!******************************!

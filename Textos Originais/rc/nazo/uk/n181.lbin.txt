@@ -1,0 +1,58 @@
+n181
+!******************************!
+n181a
+!******************************!
+n181b
+!******************************!
+An exclusive three-year private school
+has admitted only 100 new students a year
+since its inception three years ago.
+
+Starting from year four, the school plans
+to admit 10 more new students each year
+than it did the previous year.
+
+In what year of operation will the school's
+population first exceed 400 students?
+
+You can assume that no students will drop
+out, change schools or leave early.
+!******************************!
+Well done!
+
+The school's population will exceed 400
+students in year eight.
+
+Every year from year four onwards, the
+number of new recruits will increase by 10,
+but the students who started three
+years earlier will finish school and leave.
+In years four, five and six, the population
+will increase by 10, 20 and then 30
+students a year. After that, the
+population will increase steadily by
+30 students a year.
+!******************************!
+Too bad!
+
+Think about it carefully and try again.
+!******************************!
+When calculating the school's total
+population, don't forget that students
+stay at the school for three years.
+
+In its fourth year, the school will have
+10 more students overall than the
+previous year. In the fifth year, it will
+have 20 more than that and in the sixth,
+it will have 30 more.
+
+Each year thereafter, the number of
+students will grow by 30 per year.
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!

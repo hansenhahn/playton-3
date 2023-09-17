@@ -1,0 +1,65 @@
+n044
+!******************************!
+n044a
+!******************************!
+n044b
+!******************************!
+In the middle of the wall below is the
+last page of a 12-month calendar. The
+previous 11 pages were once pasted on
+this same wall, as you can see by the
+tattered remains still stuck everywhere.
+Somebody clearly tore off the old months'
+pages and pasted the new ones on top
+without bothering to line up the edges
+at all. Sloppy work, eh?
+
+The question is, which month's page is the
+arrow in the bottom-right pointing at?
+Answer with a number, for example
+January = 1, February = 2 and so on.
+!******************************!
+Sharp eye!
+
+January, the first month of the year,
+is the right answer.
+
+Look carefully and you can see that
+there are 10 pages between the page that
+the arrow was pointing to and the
+December page that's on top. One possible
+order is shown in the image above. Note
+that whichever order the pages are in,
+the one the arrow was pointing at is
+always January.
+!******************************!
+Too bad!
+
+Look very carefully and try again.
+!******************************!
+You'll work out the right answer if you
+look closely at how the remains overlap
+each other. The earlier the month, the
+closer to the bottom its page was
+pasted.
+!******************************!
+The complete calendar page on top, of
+course, is December, the twelfth month
+of the year. Try and work out where
+in the stack the page that the arrow
+is pointing at was pasted. It looks
+as if it was quite a while ago...
+!******************************!
+Track the order in which the pages on
+top of the one indicated by the arrow
+overlap each other.
+
+Follow these very closely and you should
+find an answer that you can be
+confident of.
+!******************************!
+The answer is the furthest month from
+December if you're looking at a
+calendar, but the closest if you think
+about it another way.
+!******************************!

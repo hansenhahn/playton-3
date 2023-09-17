@@ -1,0 +1,78 @@
+n009
+!******************************!
+n009a
+!******************************!
+n009b
+!******************************!
+Your task is to make the top and bottom
+cogs turn in the same direction, as shown
+by the arrows on the diagram.
+
+In order to do this, which extra cog
+should be inserted, A, B or C?
+
+Touch the letter in the centre of the
+correct cog to submit your answer.
+!******************************!
+Excellent!
+
+The answer is B. If there is an odd number
+of cogs between the top and bottom cogs,
+then those two cogs will move in the same
+direction. If there's an even number of
+cogs, however, they will move in opposite
+directions.
+ 
+By choosing B, there will be five cogs
+between the two main cogs, so the
+direction of their rotation will be the
+same.
+!******************************!
+Too bad!
+
+Try using the Memo Function to mark the
+direction in which each cog moves.
+!******************************!
+To find out how to make both the top
+and bottom cogs turn in the same
+direction, try following the cogs from
+one end to the other, checking the
+direction of each one.
+
+You do realise that two adjacent cogs
+always turn in opposite directions,
+don't you?
+!******************************!
+With the method explained in Hint 1,
+you can systematically check the
+rotation sequence of the cogs when
+A, B and C are inserted.
+
+However, there is an even quicker way
+to work out the answer. Try reading
+Hint 1 again.
+!******************************!
+As you know from Hint 1, adjacent cogs
+move in opposite directions. If three
+cogs were lined up, the second cog
+would move in the opposite direction
+to the first, but the third cog would
+move in the same direction as the first.
+Thinking along these lines, any two cogs
+that have an odd number of cogs
+between them will always move in the
+same direction. Any two cogs with an
+even number of cogs between them will
+move in different directions.
+!******************************!
+If you insert cog A, there will be four
+cogs between the top and bottom cogs.
+
+If you insert cog B, there will be five
+cogs between the two main cogs.
+
+Finally, inserting cog C would mean
+there are four cogs between top and
+bottom, the same as when cog A is
+inserted.
+!******************************!

@@ -1,0 +1,66 @@
+n034
+!******************************!
+n034a
+!******************************!
+n034b
+!******************************!
+Lost in an unfamiliar town, you ask a
+passer-by for directions to the clock
+tower. He helpfully tells you:
+
+{''}Go straight from here, then turn
+left at the first corner, turn right
+at the next corner, then turn left
+at the next corner and it'll be in
+front of you.{''}
+
+Assuming that you start from somewhere
+on the map below, where is the clock
+tower? Circle a letter, A-H.
+!******************************!
+That's right!
+
+H marks the location of the clock tower.
+
+You were standing at A and facing D when
+the passer-by gave you the directions.
+!******************************!
+Too bad!
+
+Hurry up, time waits for no man!
+!******************************!
+{''}Turn left at the first corner...{''}
+This first condition can be fulfilled
+if you start from any of the locations.
+
+The key is the next condition:
+{''}Turn right at the next corner...{''}
+
+From which starting locations can this
+condition be fulfilled?
+!******************************!
+You start from either A, C, D or G.
+
+Following the conditions mentioned
+in Hint 1:
+A goes to D, then E, then G.
+C goes to B, then E, then D.
+
+What happens when you start from
+D and G?
+!******************************!
+So, what happens if you start from D
+or G?
+
+Well, following the conditions mentioned
+in Hint 1:
+D goes to E, then B, then C.
+G goes to E, then D, then A.
+!******************************!
+Of the ending locations given in
+Hints 2 and 3, from which one can you
+{''}turn left at the next corner{''}?
+
+Bear in mind the direction you're
+facing, and try each one out.
+!******************************!

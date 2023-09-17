@@ -1,0 +1,72 @@
+n055
+!******************************!
+n055a
+!******************************!
+n055b
+!******************************!
+One day, King Arthur invited a number of
+honoured guests to dine at the Round
+Table. At his request, everyone sat at
+evenly spaced intervals around the table.
+
+After sitting down, two ladies in
+attendance, Guinevere and Nimue, were
+amused to find that neither of them had
+a woman sitting directly adjacent or
+opposite.
+
+What's the minimum number of people that
+were sitting at the Round Table?
+!******************************!
+A noble answer!
+
+Five people is the correct answer.
+
+The image above shows how they would be
+seated at the Round Table.
+
+The tricky part is realising that the
+guests weren't sitting directly opposite
+each other.
+
+If you're interested in the characters
+mentioned in this puzzle, be sure to
+read up on the legend of King Arthur!
+!******************************!
+Too bad!
+
+Did you try using the Memo Function to
+draw a diagram of the table and the
+people round it?
+
+If you did, perhaps you overlooked
+something important.
+!******************************!
+This puzzle isn't too difficult if you use
+the Memo Function to draw a picture of
+the table and people sitting round it.
+!******************************!
+You were told that neither Guinevere
+nor Nimue had a woman sitting directly
+adjacent or opposite to them. It's easy
+to be tricked by this information...
+!******************************!
+First, picture a man sitting opposite
+a woman. There are at least two women,
+so imagine another man and woman sitting
+opposite each other. That's four people.
+Now place another man between the two
+women and someone opposite him. Make
+sure the six are evenly spaced and this
+arrangement fulfils the conditions!
+Draw this image using the Memo Function
+and see for yourself. But wait! Is this
+really the minimum number that works? Is
+there a way to do it with fewer?
+!******************************!
+There's no reason why any of the people
+need to have someone sitting directly
+opposite them.
+
+The answer is an odd number.
+!******************************!

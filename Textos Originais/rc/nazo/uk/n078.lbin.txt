@@ -1,0 +1,52 @@
+n078
+!******************************!
+n078a
+!******************************!
+n078b
+!******************************!
+Four shy couples are depicted below by
+red and blue symbols.
+
+They would all like to meet up with their
+respective partners for a date, without
+running into anybody else in town.
+
+Draw lines between couples A-a, B-b,
+C-c and D-d so that none of their paths
+meet.
+!******************************!
+You worked it out!
+
+Now all the couples can meet up for
+their dates in peace.
+!******************************!
+Too bad!
+
+The couples will never be able to meet
+at this rate...
+!******************************!
+Think carefully about the detours the
+couples need to take to avoid crossing
+paths. They can't all simply take the
+shortest path to each other.
+!******************************!
+Couple D-d's path to each other has one
+turn in it.
+!******************************!
+Couples B-b and C-c's paths to each
+other have four turns. Couple A-a's
+path has three turns.
+!******************************!
+Couple D-d's path to each other goes
+along the right edge and the bottom
+edge. A walks straight down until just
+before d, then takes a left. B and C
+both start out by moving one block
+towards the left side of the map.
+Couple B-b's path wraps around beneath
+couple C-c's. Couple A-a's path is
+below B-b's. 
+
+With all that in mind, give it another
+shot!
+!******************************!

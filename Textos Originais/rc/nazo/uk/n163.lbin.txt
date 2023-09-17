@@ -1,0 +1,50 @@
+n163
+!******************************!
+n163a
+!******************************!
+n163b
+!******************************!
+Manoeuvre the three coloured blocks into
+the matching goal squares on the board.
+All three blocks must be in place at
+the same time to complete this puzzle.
+
+To move the blocks, rotate the board
+90 degrees clockwise or anticlockwise
+by touching the arrow buttons below.
+!******************************!
+Wahey!
+
+Did that make your head spin?
+!******************************!
+Too bad!
+
+Try again.
+!******************************!
+If you just keep rotating the board,
+you'll solve it eventually, right?
+
+Actually, no. If you don't plan ahead,
+you can get stuck. But if you do think
+ahead, it's much easier than you might
+expect!
+!******************************!
+If you're not careful, a block might get
+trapped somewhere and make the puzzle
+impossible to solve. If you think you're
+completely stuck, just restart the
+puzzle.
+!******************************!
+The trap you need to avoid is the nook
+next to the red goal square. If a block
+ends up in there, you'll have to start
+the puzzle from scratch.
+!******************************!
+Don't try to move the blocks out of
+their starting places all at once.
+
+Instead, try moving them to the other
+side of the board one at a time. If you
+can work out how to do that, the rest
+shouldn't be too hard.
+!******************************!

@@ -1,0 +1,47 @@
+n123
+!******************************!
+n123a
+!******************************!
+n123b
+!******************************!
+A rowdy band of thieves are about to be
+apprehended and need to stash their swag
+according to their boss's orders:
+
+{''}Right, lads, these 'ere 10 bars o' gold'll
+fit right into that there brick wall.
+Nobody'll be none the wiser! We'll stash 'em
+'ere 'til the 'eat dies down.
+Oh, I almost forgot the important part:
+don't go puttin' any bigger bars on top of
+any smaller ones. Sound like a plan, lads?{''}
+
+Place the gold bars into the wall to
+complete the boss's orders!
+!******************************!
+Golden!
+
+What a clever way to hide the bullion!
+That boss is a criminal genius!
+!******************************!
+Too bad!
+
+Did you make sure that there weren't any
+larger bars on top of any smaller ones?
+!******************************!
+Stacking gold bars of the same size on
+top of each other is perfectly fine.
+!******************************!
+The biggest gold bar goes on the very
+bottom, all the way over to the right.
+!******************************!
+Three of the smallest bars go side by
+side along the very top.
+!******************************!
+See the two bricks that form the base
+of the top-left corner space? Place
+one gold bar that's equal in length to
+those two bricks on top of them. The
+rest should come together pretty easily
+now.
+!******************************!

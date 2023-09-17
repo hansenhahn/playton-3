@@ -1,0 +1,59 @@
+n121
+!******************************!
+n121a
+!******************************!
+n121b
+!******************************!
+The numbered plates Paillard ordered have
+finally arrived! But wait a second...
+Oh no! The manufacturer painted all the
+numbers on backwards by mistake!
+
+Paillard would like to use them as soon as
+possible, but it will apparently take
+quite a while to fix each and every plate.
+To save time, the manufacturer would like
+him to make do with the plates that he
+can use as they are, and only send back
+the ones that absolutely have to be fixed.
+Paillard wants your help - tick only the
+plates that can't be used.
+!******************************!
+You're number one!
+
+6 and 9 definitely won't work.
+
+0, 1 and 8 are symmetrical, so they're
+clearly okay as they are. The 2 and the 5
+can replace each other if they are
+rotated 180 degrees. And rotating the 3,
+4 and 7 as shown allows them to work just
+fine!
+
+Pretty nifty!
+!******************************!
+Too bad!
+
+Are you sure you're using all the plates
+that you can and only ticking the ones
+that you absolutely cannot use?
+
+Take another look and try again.
+!******************************!
+The 0 and 1 can be used as they are.
+!******************************!
+You can also use the 8 as it is.
+
+Hmm... The 2 and 5 look really similar too.
+!******************************!
+The 4 will work just fine if you rotate
+it 90 degrees.
+!******************************!
+Look closely at the 7, too. It will also
+work if you rotate it.
+
+Wow. Quite a few will work just fine as
+they are. Some of them, however, simply
+must be fixed, no matter how usable
+they might look at first glance.
+!******************************!

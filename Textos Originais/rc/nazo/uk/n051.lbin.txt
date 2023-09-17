@@ -1,0 +1,54 @@
+n051
+!******************************!
+n051a
+!******************************!
+n051b
+!******************************!
+Bowls of plain noodles and pork noodles
+are lined up in a row on the counter.
+
+With the minimum of fuss, line up the
+bowls so that bowls of plain noodles and
+pork noodles alternate along the counter.
+
+What is the lowest number of moves it
+takes to accomplish this task?
+
+Note that in this puzzle, simply switching
+the places of two bowls counts as two
+moves!
+!******************************!
+That's right!
+
+Don't switch the bowls around, just move
+one.
+
+The chef in the illustration probably got
+angry at his colleague because he spent
+too long over the puzzle and the noodles
+got cold!
+!******************************!
+Too bad.
+
+What does {''}with the minimum of fuss{''}
+mean?
+!******************************!
+You can actually move the bowls
+yourself, so go ahead and try out some
+different possibilities.
+!******************************!
+This one's possibly a little bit sneaky.
+Take a good look at the complete
+line-up, you might notice something.
+!******************************!
+Did you notice that there's space for
+one more bowl to the right of the five
+already on the counter?
+!******************************!
+Just move a bowl from one end to the
+other and the pork and plain noodles
+will line up alternately along the
+counter.
+
+Give it a try.
+!******************************!

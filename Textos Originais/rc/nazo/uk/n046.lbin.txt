@@ -1,0 +1,61 @@
+n046
+!******************************!
+n046a
+!******************************!
+n046b
+!******************************!
+Create a tunnel that leads from the
+entrance to the exit, going through every
+segment on the way.
+
+Touch a tile to switch between a straight
+and a curved segment. Touch the edge of
+a tile and slide it in a circle to rotate it.
+
+The green tiles are already in their
+correct positions, so you can't change
+them. 
+
+Good luck!
+!******************************!
+Good work!
+
+Crikey, that was a project and a half!
+!******************************!
+Too bad!
+
+Keep trying, that tunnel won't finish
+itself!
+!******************************!
+This tunnel has no intersections, which
+means it forms a continuous line from
+the entrance to the exit.
+!******************************!
+There are no other ways out of the
+tunnel apart from the entrance and
+exit. As you can see, the segment in the
+bottom-right corner has to be curved
+and it's clear which way it has to turn.
+The segment in the top-left corner also
+has to be curved so it can connect to
+the fixed piece on its right.
+
+These are the types of little hints you
+should use to work this puzzle out,
+bit by bit.
+!******************************!
+You can use the information from Hint
+2 to determine the third, fourth and
+fifth segments from the entrance.
+
+Try to integrate the nearby fixed
+segments into the sequence and it's
+clear what the next two are.
+!******************************!
+The segment beneath the exit is
+straight, and the piece below that
+connects to the fixed segment on its
+left.
+
+You can work out the rest.
+!******************************!

@@ -1,0 +1,49 @@
+n113
+!******************************!
+n113a
+!******************************!
+n113b
+!******************************!
+This old brick wall has been decorated
+with an unusual design.
+Five different shapes have been painted
+on a white background as shown.
+Just by looking at the picture, you should
+be able to tell which colour of paint was
+used the most. So, which one was it?
+
+Touch the tin of paint that was used the
+most.
+!******************************!
+That's right!
+
+White.
+The white background used the most paint,
+without a doubt.
+!******************************!
+Too bad.
+
+Imagine that you were going to paint
+the wall yourself. You should be able
+to work it out.
+!******************************!
+It isn't wrong to calculate the area
+taken up by each coloured shape, but
+there's got to be an easier way...
+!******************************!
+You're not counting the number of
+bricks for every colour, are you?
+
+Though even doing it that way, you
+should get the answer as long as you
+don't overlook anything...
+!******************************!
+The colours used are red, yellow, green,
+black and blue.
+
+There aren't any more, are there?
+!******************************!
+No matter how large the painted shapes
+are, they can never be bigger than the
+background.
+!******************************!

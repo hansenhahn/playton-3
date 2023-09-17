@@ -1,0 +1,54 @@
+n098
+!******************************!
+n098a
+!******************************!
+n098b
+!******************************!
+A system of gears is shown below. Gear A
+turns in the direction of its red arrow,
+which currently causes gear B to turn in
+the direction of its red arrow.
+One group of smaller gears connecting
+gears A and B is labelled a. This group
+can be moved and rotated with the
+stylus, as can groups b and c below it.
+
+Use these groups of gears to alter the
+system so that gear B turns in the
+direction of its green arrow. You don't
+necessarily need to use all the groups,
+though.
+!******************************!
+Cognisant!
+
+You've reversed the power to the
+fortress!
+!******************************!
+Too bad!
+
+You're running out of time! Hurry!
+!******************************!
+The gears can't function properly if
+they're overlapping, so don't bother
+trying to stack any of them on top of
+each other.
+!******************************!
+If you link an odd number of gears
+between two main gears, the two main
+gears will rotate in the same direction.
+
+Conversely, an even number of gears
+linked between two main gears will
+cause the two main gears to rotate
+in the opposite direction.
+
+There are a lot of gears to count in
+this puzzle, but try adding them up!
+!******************************!
+You don't need to use gear group a. Try
+working groups b and c into the system.
+!******************************!
+Place gear group c into group a's
+original slot. Then rotate group b
+180 degrees and place it...somewhere.
+!******************************!

@@ -1,0 +1,62 @@
+n134
+!******************************!
+n134a
+!******************************!
+n134b
+!******************************!
+This wooden board is oddly shaped and
+difficult to work with.
+
+The best solution would be to cut it into
+two pieces that form a square when they
+are combined.
+
+However, the grain of the wood means
+that the two pieces can't be flipped or
+rotated after being cut.
+
+Draw lines where the board needs to be
+cut, then touch <CR>Submit</C>.
+!******************************!
+Sharp solution!
+
+A rather interesting rearrangement, eh?
+!******************************!
+Too bad!
+
+Focus on how you're going to fill that
+three-square gap.
+!******************************!
+You don't need to make any cuts on the
+left side of the board.
+!******************************!
+The gap is three squares long. In order
+to fill it, you need to find a place from
+which you can cut a piece of the same
+shape.
+
+Find a shape containing the protrusion
+on the right that you can cut out to fill
+this three-square gap.
+!******************************!
+You actually need to make two separate
+cuts to get the correct piece: a short,
+one-square line and a longer, four-
+square line that turns twice.
+
+Once you've made the correct cuts,
+shift your piece one square up and
+two squares to the left and it will
+fit right in and make a square!
+!******************************!
+The top square of the L-shaped
+protrusion will be included in the piece
+that you cut out. Include the two
+squares to the left of it in the part
+you're cutting out as well. Now combine
+those three squares with the other two
+of the protruding L shape, and you will
+get a five-square piece!
+Finish cutting out this shape and you've
+got the answer!
+!******************************!

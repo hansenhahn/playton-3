@@ -1,0 +1,71 @@
+n157
+!******************************!
+n157a
+!******************************!
+n157b
+!******************************!
+You found a nice circular patch of soil
+that you'd like to divide up into as
+many separate plots as possible.
+
+You have five ropes to work with. Each
+one must be stretched in a straight line
+across the patch, and they can cross
+each other as often as you like.
+
+Using only these five ropes, what is the
+maximum number of sections you can divide
+the patch of soil into?
+!******************************!
+Excellent!
+
+You can divide the patch of soil into as
+many as 16 different sections!
+
+The first rope divides the circular patch
+into two sections. The second rope divides
+it into four. The third rope crosses the
+first two and divides the patch into seven
+sections. Once you've used all five ropes
+like this, you end up with 16 sections!
+
+In other words, you form a star in the
+centre of the patch, as above.
+!******************************!
+Too bad!
+
+The sections can all be different sizes.
+The important thing is to divide the patch
+into the maximum number of plots.
+!******************************!
+Five ropes could only create six
+sections if they weren't allowed to
+cross.
+
+But the ropes are allowed to cross
+each other, so you can create a lot
+more sections.
+!******************************!
+If you stretch two ropes across the
+patch so that they cross in the middle,
+you'll divide the patch into four
+different sections. And that's using
+just two of your five ropes!
+!******************************!
+With your five ropes, you can divide
+the patch of soil into more than 10
+different sections.
+!******************************!
+Use the Memo Function to draw a star
+in the middle of the circle, using five
+straight lines. Make sure the points
+of the star are well within the circle
+and the lines creating each point
+extend out into the grass so they
+also create plots between the circle's
+circumference and the outside of the
+star.
+
+Now count each section. Well, how many
+are there?
+!******************************!

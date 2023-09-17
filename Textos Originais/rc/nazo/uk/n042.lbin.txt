@@ -1,0 +1,52 @@
+n042
+!******************************!
+n042a
+!******************************!
+n042b
+!******************************!
+Can you make a roll to these exact
+specifications?
+
+{.} The ham goes above the potato salad.
+{.} The only ingredient between the ham and
+tomato is lettuce.
+{.} The cheese touches the bread.
+{.} The middle layer is neither ham nor
+lettuce.
+
+Drag the ingredients to their correct
+positions and touch <CR>Submit</C>.
+!******************************!
+Delicious!
+
+It's time to tuck in!
+!******************************!
+Too bad!
+
+Hurry up and make that roll!
+
+!******************************!
+When trying to stack the ingredients as
+the rules dictate, are you finding that
+either the ham or the lettuce always
+seems to end up in the middle?
+
+The trick is to work out where the ham
+goes.
+!******************************!
+The ham goes either at the very top or
+very bottom.
+!******************************!
+The cheese goes at the very bottom.
+!******************************!
+The cheese goes on the bottom, to be
+next to the bread, and the ham goes at
+the top.
+
+Since the lettuce has to go between the
+ham and tomato, the order from the top
+down is ham, lettuce, then tomato.
+
+With the cheese at the very bottom, the
+roll is basically done.
+!******************************!

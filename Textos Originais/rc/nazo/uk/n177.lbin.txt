@@ -1,0 +1,44 @@
+n177
+!******************************!
+n177a
+!******************************!
+n177b
+!******************************!
+Several square carpets of the same size
+have been laid on top of each other. No
+carpet is completely hidden and none of
+them have been folded.
+
+Which carpet is at the bottom of the pile?
+
+Touch that carpet and then touch <CR>Submit</C>.
+!******************************!
+Magical!
+
+It's the carpet in the top-right.
+
+The best way to find the answer to this
+one is to work backwards from the carpet
+that is completely visible, checking the
+overlaps carefully.
+!******************************!
+Lost the thread?
+
+Don't get distracted by the pretty
+patterns!
+!******************************!
+It doesn't take a carpet-fitter to work
+out that the carpet in the bottom-left
+is on the top of the pile.
+
+Start from there and work in sequence.
+The next carpet down is the orange one,
+and the one under that has the wide
+stripe pattern. Right, which one's next?
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!

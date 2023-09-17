@@ -1,0 +1,59 @@
+n071
+!******************************!
+n071a
+!******************************!
+n071b
+!******************************!
+In order to open the cage, you'll need
+to decide which button to push.
+The rules are simple. Think of the buttons
+as squares. Each symbol indicates a
+direction and you proceed from square to
+square following these directions:
+Star = left
+Moon = right
+Sun = down
+Water = up
+There is one square you can start from
+which allows you to pass through every
+square exactly once. Touch that square. 
+!******************************!
+Well done!
+
+Apart from the last square itself, all
+squares form a single path leading to the
+last square. Once you realise this, it's
+easy to find the starting square.
+!******************************!
+Oh dear.
+
+Are you sure you haven't made a mistake
+somewhere?
+!******************************!
+This is the type of puzzle for which the
+Memo Function comes in really handy. It's
+difficult to visualise the directions
+using only the symbols, so try drawing
+an arrow in each square to make things
+easier.
+!******************************!
+Try choosing a square at random and
+starting from there. Use the Memo
+Function to write an arrow on each
+square and trace your path.
+!******************************!
+You've followed the advice given in
+Hint 2 but just went around in little
+circles? That must mean you started in
+one of the top-left squares.
+
+Those squares are actually the last
+ones on the path.
+!******************************!
+From Hint 3 you know the last squares
+on the path. Now think carefully and
+proceed backwards from here.
+
+The starting square is one of the five
+Star squares.
+!******************************!

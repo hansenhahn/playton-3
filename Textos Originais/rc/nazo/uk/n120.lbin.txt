@@ -1,0 +1,53 @@
+n120
+!******************************!
+n120a
+!******************************!
+n120b
+!******************************!
+Make your way from the start to the goal,
+but be wary of banana skins. Whenever you
+step on one, you'll slide without stopping
+until you hit a wall!
+
+Can you find a solid route through
+these slippery streets?
+
+Touch a red arrow to move in that
+direction.
+!******************************!
+Fruitastic!
+ 
+Here's something you might not know about
+bananas: they are one of the fruits
+that keep ripening even after they're
+picked. This means that they're green
+when they're picked. You wouldn't want
+to eat a green one, though. It probably
+wouldn't be very nice.
+!******************************!
+Too bad!
+
+Try it again.
+!******************************!
+It might seem obvious, but you can't go
+straight at the first junction.
+!******************************!
+Go down at the first junction and take
+a left at the next one.
+
+Now go for a slide!
+!******************************!
+Continuing from Hint 2, once you've slid
+into the far-left wall, go down and
+slide into the bottom wall. Then take a
+right and walk until you slide again!
+!******************************!
+Continuing from Hint 3, at the
+bottom-right junction walk back to the
+left until just before you run into a
+banana skin. Now go up and slide to the
+top.
+
+The slippery part of your trip is over.
+Now it's just a short walk to the goal!
+!******************************!

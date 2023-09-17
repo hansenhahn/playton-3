@@ -1,0 +1,58 @@
+n161
+!******************************!
+n161a
+!******************************!
+n161b
+!******************************!
+{''}Well now, can you reach the top of this
+gate again? If you think you've solved
+this puzzle before, think again!{''}
+
+This time, it's quite a lot harder...
+!******************************!
+Very impressive!
+
+{''}You may pass.{''}
+!******************************!
+Too bad!
+
+Try again.
+!******************************!
+There are multiple ways to solve this
+puzzle. Here's one example:
+
+First, move the yellow block above
+Professor Layton and Luke up and to
+the right so that it's mostly on top
+of the red block. Then move Professor
+Layton and Luke over to the left.
+
+Start from there and see how far you
+can get!
+!******************************!
+Continuing from Hint 1, move the red
+block down to the bottom and then the
+yellow block down on top of it.
+
+Now move the blue block down and over
+to the left, on top of Layton and Luke.
+!******************************!
+Continuing from Hint 2, move the yellow
+and red blocks up, then slide Layton and
+Luke to the right, under the red block.
+
+Now move the blue block down to the
+bottom and over to the right, next to
+Layton and Luke.
+!******************************!
+Continuing from Hint 3, move the yellow
+block over to the left wall and down on
+top of the blue block. Then slide the
+green block down as far as you can and
+move the orange block up into the goal
+square. Now move the green block back
+to where it started.
+
+See if you can work the rest out from
+there.
+!******************************!

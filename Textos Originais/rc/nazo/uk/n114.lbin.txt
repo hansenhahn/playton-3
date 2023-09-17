@@ -1,0 +1,52 @@
+n114
+!******************************!
+n114a
+!******************************!
+n114b
+!******************************!
+It's your job to paint a pyramid built
+from 21 circular pieces of wood. You've
+been given three colours to work with:
+red, blue and yellow.
+Before you get too creative, however,
+there's one important rule you need to
+follow: no two pieces of wood that are
+next to each other can be painted the
+same colour.
+
+One piece has already been painted red. If
+you follow the rule and finish painting the
+entire pyramid, what colour will piece A be?
+Circle the correctly coloured paint tin.
+!******************************!
+Bullseye!
+
+The image above shows the two possible
+ways of following the rule and painting
+the entire pyramid. Notice that either
+way results in piece A being red. Cool, eh?
+!******************************!
+Too bad!
+
+Don't overthink it. There's only one
+right answer.
+!******************************!
+There's more than one way to paint the
+pyramid, but piece A will end up being
+the same colour no matter how you do it.
+!******************************!
+Don't forget about the mighty Memo
+Function. You can use three different
+colours to help you work it out.
+!******************************!
+There are two possible ways to follow
+the rule and paint the entire pyramid.
+The order of blue and yellow around the
+original red piece can be switched
+around.
+!******************************!
+You learnt in Hint 3 that the order
+of blue and yellow pieces can be
+switched around, which means that one
+colour's position is fixed...
+!******************************!

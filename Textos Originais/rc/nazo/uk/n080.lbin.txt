@@ -1,0 +1,71 @@
+n080
+!******************************!
+n080a
+!******************************!
+n080b
+!******************************!
+Five people are talking about their
+swimming prowess.
+
+{''}The second-fastest swimmer is standing
+next to the biggest person.{''}
+{''}I may have the biggest body, but I'm
+certainly not the fastest swimmer.{''}
+{''}I've got the fanciest costume, but I'm
+no match for big B.{''}
+{''}I'm the smallest, and I'll finish fourth!{''}
+{''}I'll beat the person beside me to win!{''} 
+
+Who is the fastest swimmer?
+!******************************!
+First-rate!
+
+Swimmer D is the fastest.
+
+Swimming is a lot of fun, but make sure
+you always warm up beforehand.
+!******************************!
+Too bad!
+
+Pay close attention to each statement
+and you should be able to work this one
+out.
+!******************************!
+Let's narrow things down. The smallest
+person says: {''}I'll finish fourth{''}. Take
+a close look at the swimmers. Swimmer A
+is the smallest, so he will finish in
+fourth place.
+!******************************!
+{''}The second-fastest swimmer is standing
+next to the biggest person.{''}
+
+Well, B is clearly the biggest swimmer, so
+the above statement applies to either A
+or C. However, you already know that A
+will come fourth, so C must come second.
+!******************************!
+{''}I may have the biggest body, but I'm
+certainly not the fastest swimmer.{''}
+
+This must be B's statement. Since we've
+already worked out second and fourth
+place, that just leaves first, third
+and fifth. B clearly states that he's
+not the fastest, so he must be third
+or fifth. That leaves just two more
+places to work out!
+!******************************!
+{''}I've got the fanciest costume, but I'm
+no match for big B.{''}
+
+It's a matter of opinion, of course, but
+the only one really wearing a fancy
+costume is E.
+
+You learned that B must finish third or
+fifth. Based on E's statement, you can
+now say that B is third and E is fifth.
+
+There's one swimmer left, but who is it?
+!******************************!

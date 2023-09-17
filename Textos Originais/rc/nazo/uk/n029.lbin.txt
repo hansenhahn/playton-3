@@ -1,0 +1,58 @@
+n029
+!******************************!
+n029a
+!******************************!
+n029b
+!******************************!
+You've dug some tunnels, but they've
+ended up looking like an ant farm.
+You have to connect A to A', B to B'
+and C to C', but you can't use the same
+path twice.
+
+In order to do this, however, one of your
+connections must go above ground.
+
+Is this connection A, B or C?
+
+
+!******************************!
+Wonderful!
+
+You can make all three connections if
+C goes above ground.
+!******************************!
+Too bad!
+
+Give it another try.
+!******************************!
+Starting from A, head towards the right
+side of the screen at the first
+junction you encounter.
+
+Starting from B, head towards the left
+side of the screen at the first
+junction you encounter.
+!******************************!
+Starting from C, head towards the left
+of the screen at the first junction you
+encounter.
+
+Starting from A', head towards the right
+of the screen at the first junction you
+encounter.
+!******************************!
+Starting from B', head towards the top
+of the screen at the first junction you
+encounter.
+
+Starting from C', keep going straight at
+the first junction you encounter.
+!******************************!
+Based on the instructions in the first
+three hints, you should be able to
+complete connection A and ascertain
+that it doesn't go above ground. So
+now all you have to do is work out the
+other two.
+!******************************!

@@ -1,0 +1,60 @@
+n060
+!******************************!
+n060a
+!******************************!
+n060b
+!******************************!
+You've decided to make a special pair of
+dice for your desk that can display each
+date of the month numerically, as shown
+by the 12 at the top of the screen below.
+
+Each date must use both dice, however,
+which means single-digit dates like the
+first and second of the month will be
+displayed as 01 and 02 respectively.
+
+You thought you had the design sorted,
+but the layouts below can't display all
+the dates. Draw a circle around the one
+number that needs to be changed.
+!******************************!
+Nice!
+
+The six needs to be changed.
+
+The current design won't allow the dice
+to display the dates 07 or 08. But if
+you change the six to a zero, you can
+turn the nine upside down to use it as
+a six and display all the dates!
+!******************************!
+Too bad!
+
+Look at each of the numbers very
+carefully and you'll find the answer.
+!******************************!
+Think about how you can display each
+date, starting with the first of the
+month.
+!******************************!
+The way things stand, the seventh and
+eighth of the month cannot be displayed.
+
+For example, it's impossible to display
+07 for the seventh day of the month
+because there's no zero to pair with
+the seven.
+!******************************!
+Have you considered turning any of
+the numbers upside down to help you
+display all the dates?
+!******************************!
+To display 07, you need to change one
+of the numbers on the right-hand die
+to a zero. You need most of those
+numbers, but there's one you can
+afford to lose because you can turn
+the nine on the left-hand die upside
+down.
+!******************************!

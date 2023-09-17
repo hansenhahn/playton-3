@@ -1,0 +1,47 @@
+n088
+!******************************!
+n088a
+!******************************!
+n088b
+!******************************!
+Only one of these six screws, A-F, will fit
+properly into the threaded hole. The width
+of the hole matches the thickness of all
+the screws, so don't worry about that.
+
+Your only tool is a flathead screwdriver.
+Now hurry! You don't have much time.
+
+Circle the correct screw and touch
+<CR>Submit</C>.
+
+!******************************!
+That's it!
+
+Now hurry up and get the car moving!
+!******************************!
+Too bad!
+
+Take another look and try again.
+!******************************!
+Pay attention to the direction of the
+thread on each of the screws and on
+the hole.
+
+!******************************!
+Screw C won't go anywhere, no matter
+how much you turn it! You can cross
+that one off the list of possible
+answers.
+!******************************!
+Screw B can't be turned with any tool,
+and screw F can't be turned with a
+flathead screwdriver. You can cross
+these two options off the list as well.
+!******************************!
+Screw A is threaded in the opposite 
+direction to the hole, so that can't
+be the answer. That leaves only two
+possible choices. Take one last look
+and you should have this in the bag.
+!******************************!

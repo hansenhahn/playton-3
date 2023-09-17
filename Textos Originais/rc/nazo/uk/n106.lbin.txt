@@ -1,0 +1,70 @@
+n106
+!******************************!
+n106a
+!******************************!
+n106b
+!******************************!
+You have eight jars of jam of four
+different types, depicted by the
+different colours. The different types
+of jam vary in weight. Your jars have
+been put into boxes in pairs.
+
+Use the scales to work out the relative
+weight of each type of jam and rank them
+1 to 4, with 1 being the lightest and 4
+the heaviest.
+!******************************!
+Well done!
+
+Starting with the heaviest, the order is:
+blue, yellow, green, red.
+
+By weighing the red-blue box with the
+red-green box, you can work out that blue
+jam is heavier than green jam. Weighing
+red-blue with blue-green tells you that
+green jam is heavier than red jam.
+Finally, by ascertaining that yellow-yellow
+is the same weight as blue-green, you can
+work out that the weight of yellow jam is
+between that of blue jam and green jam.
+!******************************!
+Too bad.
+
+There's a certain knack to knowing which
+boxes to weigh together.
+!******************************!
+There are some boxes that have one
+type of jam in common. By weighing
+these boxes together you can compare
+the weight of the two jams that aren't
+the same.
+!******************************!
+Try weighing the red-blue box with
+the red-green box.
+
+This way you can find out which one is
+heavier, the blue jam or green jam.
+!******************************!
+Picking up from where Hint 2 left off,
+the next step is to check the relative
+weight of the red jam.
+
+In order to do this, weigh the red-blue
+box with the blue-green box. You'll find
+that the red jam is lighter than the
+green jam, which gives you a partial
+order: blue, green, red.
+!******************************!
+Imagine that a jar of blue jam has a
+weight of 300 g, green has a weight of
+200 g and red, 100 g.
+
+The yellow-yellow box and the blue-green
+box weigh the same, so 2 jars of yellow
+jam weigh 300 g + 200 g = 500 g.
+
+One jar of yellow jam therefore
+weighs 250 g.
+!******************************!

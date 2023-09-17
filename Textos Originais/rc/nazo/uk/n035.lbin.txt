@@ -1,0 +1,54 @@
+n035
+!******************************!
+n035a
+!******************************!
+n035b
+!******************************!
+{''}I was on a double-decker bus, and the
+conductor told me that, including myself,
+there were 25 passengers on the bottom
+deck. He also told me that the number of
+passengers on the top deck was 40% of
+the number on the bottom deck.{''}
+
+How many people were on the bus in total?
+!******************************!
+Good job!
+
+There were 37 people on the bus:
+25 passengers on the bottom deck
+and 40% of that, or 10 passengers,
+on the top deck. This amounts to 35
+passengers.
+
+If you add the conductor and bus
+driver, you get 37 people in total.
+!******************************!
+Too bad!
+
+40% is two fifths. But even if you
+get that, there's still a catch.
+!******************************!
+Even if you think you've got the answer
+after a quick calculation, you might have
+completely overlooked something.
+!******************************!
+Don't forget that it was the conductor
+who gave you all the information.
+!******************************!
+The top deck has 40% as many
+passengers as the bottom deck.
+In other words, two fifths of 25
+passengers, or 10 passengers.
+
+That makes 35 passengers in total.
+
+Is that everyone, though?
+
+!******************************!
+Hint 2 reminded you that apart from
+the passengers, there's also a
+conductor on the bus.
+
+Doesn't a bus need a driver as well?
+!******************************!

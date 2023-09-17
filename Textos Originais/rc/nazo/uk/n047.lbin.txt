@@ -1,0 +1,48 @@
+n047
+!******************************!
+n047a
+!******************************!
+n047b
+!******************************!
+One of these students broke a window, so
+you ask each of them who did it, in order.
+
+A: {''}I didn't do it.{''}
+B: {''}A is telling the truth.{''}
+C: {''}D is lying.{''}
+D: {''}It certainly wasn't me.{''}
+
+The one whose story sounds fishy is the
+culprit. Who is it?
+!******************************!
+That's right!
+
+C broke the window.
+He said that D was lying, even though D
+hadn't spoken yet.
+
+It doesn't get any fishier than that!
+!******************************!
+Too bad.
+
+Ask them again, {''}in order{''}.
+!******************************!
+Listen carefully to their testimonies, in
+order...
+!******************************!
+Look again at the content of each
+testimony and the order in which they
+are given.
+
+Do that, and you'll soon notice that
+one of them is saying something not
+quite right.
+!******************************!
+The culprit is the one who spoke in
+haste. If you'd heard the testimonies
+in the opposite order, the culprit might
+never have given themselves away.
+!******************************!
+The culprit gave the game away while
+trying to pin the blame on D.
+!******************************!

@@ -1,0 +1,53 @@
+n068
+!******************************!
+n068a
+!******************************!
+n068b
+!******************************!
+16 circular rooms are arranged in a
+square as shown below. Beams of light
+shine in straight lines from each of the
+four letters, A, B, C and D, and exit
+through the four yellow arrows. Two-sided
+mirrors in four of the rooms reflect
+these beams. Each beam passes through
+the number of rooms listed next to its
+letter.
+
+Identify which four rooms contain mirrors
+and the direction each mirror faces.
+Touch the rooms to add or remove mirrors
+and change their direction.
+!******************************!
+Dazzling!
+
+Right then, let's press on!
+!******************************!
+Too bad!
+
+Remember, only four of the rooms
+contain mirrors. You're not trying
+to place more than that, are you?
+!******************************!
+It is possible to make the beams pass
+through the correct number of rooms by
+putting mirrors in five of the rooms,
+but you need a solution where only four
+of the rooms have mirrors.
+
+Don't forget that the mirrors are
+two-sided!
+!******************************!
+Beam C exits without reflecting off a
+single mirror.
+
+!******************************!
+Beam A is only reflected by one mirror.
+!******************************!
+Beam B is only reflected once.
+
+Beam D is reflected three times and
+exits at the top-right arrow.
+
+That should do the trick!
+!******************************!

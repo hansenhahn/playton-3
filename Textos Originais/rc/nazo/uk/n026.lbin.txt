@@ -1,0 +1,45 @@
+n026
+!******************************!
+n026a
+!******************************!
+n026b
+!******************************!
+Three boys are playing a card-matching
+game using 20 cards, or 10 pairs.
+
+Boy A says: {''}I matched 10 pairs in a row
+from the start.{''}
+
+Boy B says: {''}I matched nine pairs in a row
+from the start.{''}
+
+Boy C says: {''}I matched eight pairs in a row
+from the start.{''}
+
+One boy is lying. Which one?
+!******************************!
+Very clever!
+
+B is lying. If you matched the first
+nine pairs in a row, you would
+automatically match the last pair.
+!******************************!
+Too bad!
+
+Think hard about this puzzle.
+!******************************!
+Only a liar can make a statement that's
+impossible...
+!******************************!
+Someone is describing a situation that
+couldn't possibly happen during this kind
+of game.
+!******************************!
+How many cards are left if you've
+already matched nine pairs out of 20
+cards?
+!******************************!
+If you've matched nine out of 10 pairs
+already, there's no reason why you
+can't get the last pair, is there?
+!******************************!

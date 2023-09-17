@@ -1,0 +1,66 @@
+n141
+!******************************!
+n141a
+!******************************!
+n141b
+!******************************!
+The bridge below has been painted in a
+black-and-white check pattern.
+
+Starting from the bottom-left arrow, you
+need to cross the bridge and finish at
+the top-right arrow. You can move one
+square at a time, either up, down, left
+or right. You can't move diagonally.
+
+Now here's the tricky part: how many
+different routes across are there that
+cross exactly four black squares and
+three white squares?
+!******************************!
+Precisely!
+
+There are 15 different routes. More than
+you'd think, eh?
+!******************************!
+Too bad!
+
+You can move vertically and horizontally,
+but not diagonally.
+
+Count the routes again.
+!******************************!
+Your task is to find all the routes
+that meet the conditions. Think about
+how each route crosses the central
+column of squares on the bridge.
+
+Crossing four black squares and three
+white ones means you have to cross the
+bridge in seven moves, so you can't
+afford to backtrack.
+!******************************!
+Once you've worked out the pattern
+in the routes that work, just go
+ahead and count them one by one.
+
+As Hint 1 mentioned, backtracking
+won't work. Keep the other conditions
+in mind and you should be fine.
+!******************************!
+One route is to go straight up to the
+top row and then turn right.
+
+Another is to go straight to the second
+row from the top, turn right, and then
+head up again when you reach the
+rightmost column.
+
+These are just two of several different
+possibilities. Count each one!
+!******************************!
+There are more than 10 routes, but
+fewer than 20.
+
+Keep on counting!
+!******************************!

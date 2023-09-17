@@ -1,0 +1,80 @@
+n135
+!******************************!
+n135a
+!******************************!
+n135b
+!******************************!
+Two people, A and B, are discussing
+the number of matchboxes on a table.
+A is describing the matchboxes as
+seen from above. B is describing them as
+seen from the side, but we don't know
+which side (front, back, left or right).
+
+What is the maximum possible number of
+matchboxes on the table?
+!******************************!
+Boxing clever!
+
+21 matchboxes.
+The above layout allows you to have the
+maximum possible number of matchboxes.
+
+
+!******************************!
+Too bad.
+
+Try to imagine looking at the matchboxes
+from every direction: front, back, left
+and right.
+!******************************!
+Take the layout that A described from
+above and imagine that B is looking at it
+from the right-hand side.
+Working from left to right in B's
+description, each row of matchboxes
+would contain a maximum of:
+2 piles x 2 layers
+3 piles x 3 layers
+3 piles x 1 layer
+2 piles x 2 layers
+So the maximum possible number of
+matchboxes in this case would be 20.
+!******************************!
+Now take A's layout and imagine that
+B is looking at it from the bottom
+of A's top-down description.
+Working from left to right in B's
+description, each row of matchboxes
+would contain a maximum of:
+3 piles x 2 layers
+1 pile x 3 layers
+2 piles x 1 layer
+4 piles x 2 layers
+So the maximum possible number of
+matchboxes in this case would be 19.
+!******************************!
+Thirdly, take A's layout and imagine that
+B is looking at it from the left.
+Working from left to right in B's
+description, each row of matchboxes
+would contain a maximum of:
+2 piles x 2 layers
+3 piles x 3 layers
+3 piles x 1 layer
+2 piles x 2 layers
+So the maximum possible number of
+matchboxes in this case would be 20.
+!******************************!
+Finally, take the layout that A described
+from above and imagine that B is looking
+at it from the top of A's top-down
+description.
+Add up the number of matchboxes as
+shown in Hints 1-3. If this number is
+higher than 20, you know it's your
+answer.
+
+Now all you have to do is count the
+matchboxes.
+!******************************!

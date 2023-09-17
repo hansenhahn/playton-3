@@ -1,0 +1,67 @@
+n131
+!******************************!
+n131a
+!******************************!
+n131b
+!******************************!
+There are three siblings: A, B and C.
+
+A: {''}I have one older brother and three
+younger sisters.{''}
+
+B: {''}I have two older brothers and two
+younger sisters.{''}
+
+C: {''}I have three older brothers and one
+younger sister.{''}
+
+Given that all their statements are true,
+what is the lowest possible number of
+siblings in this family?
+!******************************!
+Bang on!
+
+The lowest possible number of siblings is
+six.
+
+At first glance, it might seem like there
+are only five. But the fact that A says
+that he has three younger sisters means
+there must be at least three female
+siblings. Likewise, the fact that C says
+that she has three older brothers means
+there must also be at least three male
+siblings, so five siblings isn't quite
+enough.
+!******************************!
+Too bad!
+
+Remember that you want to find the
+minimum number of siblings.
+!******************************!
+Think about A, B and C.
+
+Who's the oldest? Who's the youngest?
+!******************************!
+You know that A is the oldest, followed
+by B and then C.
+
+A also has an older brother.
+
+C also has a younger sister.
+!******************************!
+Try making a diagram based on the
+conditions mentioned in Hint 2, and note
+the genders of each known sibling.
+You should realise something important.
+
+Also, just so you're clear, A is male
+and B is female.
+!******************************!
+There are more than five siblings.
+
+If A has three younger sisters and
+C has three older brothers, then
+there must be at least three female
+siblings and three male siblings.
+!******************************!

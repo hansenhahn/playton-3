@@ -1,0 +1,41 @@
+n204
+!******************************!
+n204a
+!******************************!
+n204b
+!******************************!
+Apart from 28 itself, the number 28 is
+divisible by its factors 1, 2, 4, 7 and 14.
+
+When you add these numbers together, you
+get 1 + 2 + 4 + 7 + 14 = 28. In other words,
+they add up to the original number.
+
+Now for the puzzle part:
+
+What is the smallest number for which the
+sum of its factors (not including the
+number itself) equals the original number?
+!******************************!
+That was sum job!
+
+The answer is 6.
+
+The number 6 is divisible by 1, 2, 3 and 6.
+If you don't include 6 in the sum, you get
+1 + 2 + 3 = 6!
+!******************************!
+Too bad!
+
+Don't be intimidated by the fact that this
+is a maths problem. Just think about it
+for a bit. It's easier than you'd expect.
+!******************************!
+The answer is a single-digit number.
+!******************************!
+
+!******************************!
+
+!******************************!
+
+!******************************!

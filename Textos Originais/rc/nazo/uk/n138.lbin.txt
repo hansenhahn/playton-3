@@ -1,0 +1,49 @@
+n138
+!******************************!
+n138a
+!******************************!
+n138b
+!******************************!
+This board can be cut in a way that
+produces two identical number-shaped
+pieces.
+
+Where do you need to cut the board in
+order to do this?
+
+You can only cut along the dotted lines.
+!******************************!
+A cut above!
+
+You can create two pieces shaped like the
+number 4. Cutting the board as shown
+above is one way of doing this.
+!******************************!
+Bad luck.
+
+What shapes could be made from this piece
+of wood?
+!******************************!
+If it weren't for those parts sticking
+out, you could make two rather chubby
+1s... But that's not the answer.
+!******************************!
+The number shape you're looking for is
+not 2 or 5.
+
+The main problem here is working out
+which part of the number is represented
+by those two protrusions.
+!******************************!
+The number shape isn't 6 or 9.
+
+You'd need an awful lot of squares to
+cut out two number shapes that have
+a hole in the middle.
+!******************************!
+One of the two number shapes has been
+turned upside down and slotted into the
+other one. If you think about this for a
+moment, you'll see that 3 can be ruled
+out.
+!******************************!

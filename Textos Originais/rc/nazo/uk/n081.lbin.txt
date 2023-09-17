@@ -1,0 +1,63 @@
+n081
+!******************************!
+n081a
+!******************************!
+n081b
+!******************************!
+This note contains instructions for
+disarming the traps in the door!
+
+{''}One of the four buttons, A, B, C or D,
+disarms the traps. To find out which one
+it is, trace a path from the centre
+square, going horizontally or vertically
+from square to square in the order red,
+blue, yellow until you reach the correct
+button. You cannot pass through the same
+square twice.{''}
+
+Touch the correct button, A to D.
+!******************************!
+Well done!
+
+Button A on the top-left is the one that
+disarms the traps.
+
+Now you can open the door!
+
+!******************************!
+Too bad.
+
+Are you sure you followed the colour
+order correctly?
+!******************************!
+Red, blue, yellow. 
+
+Follow this order carefully and the
+location of the correct button will
+soon become apparent.
+!******************************!
+Are you sure you're sticking to the
+red, blue, yellow order?
+
+From the start, go right, up, left, left,
+up, left, up.
+
+After that, check where you can go
+from each square, one by one.
+!******************************!
+Follow the directions given in Hint 2,
+then continue around to the right,
+following the red, blue, yellow order.
+
+Unless you make a mistake with the
+colour order along the way, you're sure
+to eventually find the correct button
+for disarming the traps.
+!******************************!
+The button you're after isn't the one
+in the top-right or the bottom-right.
+The correct answer is one of the
+buttons on the left side!
+
+!******************************!
