@@ -1,6 +1,0 @@
-[hdr:000a0000000200000000020b000000]
-[inf:96a29788838b815b834e]
-<T>We can't head out that way. The
-Family's bound to have men waiting
-for us below.
-!******************************!

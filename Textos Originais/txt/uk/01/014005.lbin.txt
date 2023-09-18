@@ -1,6 +1,0 @@
-[hdr:000a00000002000000000209000000]
-[inf:83568383838d8393]
-<T>The back of the building?<W> Just head
-down that hall and through the
-door at the end.
-!******************************!

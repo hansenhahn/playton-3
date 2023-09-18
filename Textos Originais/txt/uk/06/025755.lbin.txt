@@ -1,6 +1,0 @@
-[hdr:000a00000002000000000209000000]
-[inf:838c834383678393]
-<T>There'll be plenty of time to explore
-later. Let's go to the hotel and
-bring Flora up to speed.
-!******************************!

@@ -1,6 +1,0 @@
-[hdr:000a00000002000000000207000000]
-[inf:838b815b834e]
-<T>We've been here for quite some time
-now. I do wish that lady's husband
-would hurry back.
-!******************************!

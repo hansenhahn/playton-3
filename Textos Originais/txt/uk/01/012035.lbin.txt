@@ -1,5 +1,0 @@
-[hdr:000a00000002000000000209000000]
-[inf:838c834383678393]
-<T>It would be wise to drop in at the
-hotel before pressing on.
-!******************************!

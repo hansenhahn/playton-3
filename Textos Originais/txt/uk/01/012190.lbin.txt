@@ -1,6 +1,0 @@
-[hdr:000a00000002000000000207000000]
-[inf:838b815b834e]
-<T>It looks like I have to select a
-destination.<W> Where's the button
-for Auckland Lane Station?
-!******************************!

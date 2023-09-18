@@ -1,5 +1,0 @@
-[hdr:000a00000002000000000207000000]
-[inf:838b815b834e]
-<T>Hey!<W> It's that nervous-looking
-fellow we saw earlier.
-!******************************!

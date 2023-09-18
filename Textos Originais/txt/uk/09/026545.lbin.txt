@@ -1,6 +1,0 @@
-[hdr:000a0000000200000000020b000000]
-[inf:96a29788838b815b834e]
-<T>The professor wouldn't leave us
-alone without good reason. Let's
-just press on without him for now.
-!******************************!

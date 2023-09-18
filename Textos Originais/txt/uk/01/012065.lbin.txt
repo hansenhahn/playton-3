@@ -1,6 +1,0 @@
-[hdr:000a00000002000000000209000000]
-[inf:83788362834c815b]
-<T>I've prepared one of our finest
-rooms for you. If you would just
-sign the hotel guestbook first...
-!******************************!

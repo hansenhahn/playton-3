@@ -1,6 +1,0 @@
-[hdr:000a00000002000000000209000000]
-[inf:838c834383678393]
-<T>We can make our way into the
-facility by climbing down this
-ladder.
-!******************************!
