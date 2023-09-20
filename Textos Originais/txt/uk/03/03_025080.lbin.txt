@@ -1,0 +1,98 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T>Psst. Oi oi, you two, look sharp.
+Ye've got a lost look about ya.
+Do ya know where ye are?
+!******************************!
+[7117030004000000:000a00000002670000000270000000]
+レイトン
+!******************************!
+<T>I must confess we do not. It's our
+first time in this area.
+!******************************!
+[7117030007000000:000a000000020000000002af000000]
+セガール
+!******************************!
+<T>Listen. I could be wrong, but it
+looks like you two are a couple
+of fine, upstandin' citizens.
+!******************************!
+[711703000a000000:000a00000002000000000211010000]
+セガール
+!******************************!
+<T>I'm a nice fella, so I'll clue ye in.
+Yer standin' right in the middle of
+the black market bazaar.
+!******************************!
+[711703000d000000:000a0000000277010000027e010000]
+ルーク
+!******************************!
+<T>Black market?!<W> <A1/6>Wow!
+!******************************!
+[7117030010000000:000a0000000200000000029e010000]
+セガール
+!******************************!
+<T>Wow is right, sonny. We sell a lot of
+dodgy stuff out here and no one
+questions where it comes from.
+!******************************!
+[7117030013000000:000a00000002000000000206020000]
+セガール
+!******************************!
+<T>If it was me in those shiny loafers
+of yours, I'd keep me head down
+and leg it, quick as I could.
+!******************************!
+[7117030016000000:000a0000000267000000026b020000]
+レイトン
+!******************************!
+<T><A4/1>That would seem prudent indeed.
+!******************************!
+[7117030019000000:000a00000002770100000294020000]
+ルーク
+!******************************!
+<T><A1/1>Before we go, though, I've got a
+question. Why do people come all
+the way out here to shop?
+!******************************!
+[711703001c000000:000a000000020000000002f9020000]
+セガール
+!******************************!
+<T><A1/2>Listen, son. The things for sale
+here... Let's just say ya won't
+find them at the local corner shop.
+!******************************!
+[711703001f000000:000a00000002000000000267030000]
+セガール
+!******************************!
+<T>But come to the bazaar and who
+can say what treasures ye'll find?
+!******************************!
+[7117030022000000:000a000000027701000002ac030000]
+ルーク
+!******************************!
+<T><A2/1>Oh, I suppose you mean antiques
+and other rare items?
+!******************************!
+[7117030025000000:000a000000026700000002eb030000]
+レイトン
+!******************************!
+<T>I think we've asked enough
+questions for one day, Luke.
+Let's move on, shall we?
+!******************************!
+[7117030028000000:000a0000000200000000023f040000]
+セガール
+!******************************!
+<T>You two be careful! Oh and if yer
+ever in the market for somethin'...
+hard to find, swing by.
+!******************************!
+[711703002b000000:0014000000020000000002a0040000]
+セガール
+!******************************!
+<T>You two still hoverin' around here?
+I'd get goin' if I was you.
+!******************************!

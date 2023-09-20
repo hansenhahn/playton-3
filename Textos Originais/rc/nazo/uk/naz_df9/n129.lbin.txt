@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n129
+!******************************!
+n129a
+!******************************!
+n129b
+!******************************!
+[eb0b01000a000000:0211000000]
+The pool needs to be filled up with water
+before the kids can play in it, but all the
+valves on the hosepipe that is connected
+to the tank are shut tight.
+
+Open just three valves to fill the pool
+with water.
+!******************************!
+[ec0b01000b000000:02e1000000]
+That's right!
+
+Those are the three valves you need to
+open. Now the kids can splash about
+happily!
+!******************************!
+[ed0b01000c000000:0244010000]
+Bad luck.
+
+Remember, you can only open three valves.
+
+Starting from the tank, trace the route
+that the water would take through the
+hosepipe.
+!******************************!
+[ee0b01000d000000:02d2010000]
+Of the three possible valves that the
+water can pass through after the first
+split in the hosepipe, the one you need
+to open is either the middle one or the
+bottom one!
+
+!******************************!
+[ef0b01000e000000:027c020000]
+After opening the correct valve of the
+two mentioned in Hint 1, choose the
+route that involves opening the bottom
+valve!
+!******************************!
+[f00b01000f000000:02f5020000]
+Once you've opened the valves mentioned
+in Hints 1 and 2, the rest is easy. Have
+a look at the end part of the hosepipe.
+As long as you don't choose a route
+that contains a lot of valves, you'll
+be fine.
+!******************************!
+[f10b010010000000:02c1030000]
+After taking the route described in
+Hints 1 and 2, the last valve you need
+to open is the one in the bottom-left.
+Opening this one should allow the water
+to flow into the pool.
+
+You've now opened three valves in total,
+so the puzzle is complete.
+!******************************!

@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000610400000061040000000100000000000000000000000000]
+n108
+!******************************!
+n108a
+!******************************!
+n108b
+!******************************!
+[eb0b01000a000000:0211000000]
+A friend sent you an invitation to come
+and visit. The wording of the letter,
+however, is a bit odd...
+
+{''}First, knock on a certain door. Then
+knock on the door below it and then the
+door below that. Now knock on the door
+to the right of that one. Finally,
+knock on the next door to the right.
+That's my place!{''}
+
+Touch your friend's door to open it.
+Be careful not to leave any other doors
+open when submitting your answer.
+!******************************!
+[ec0b01000b000000:02be010000]
+Knock out!
+
+Even though you don't know which
+{''}certain door{''} your friend is initially
+referring to, the only door from which
+you can move two down and two to the
+right is the top-left door.
+The only possible location of your friend's
+pad is therefore the bottom-right!
+!******************************!
+[ed0b01000c000000:02d0020000]
+Too bad!
+
+Don't keep your friend waiting!
+!******************************!
+[ee0b01000d000000:02fa020000]
+Try to work out which {''}certain door{''}
+your friend is referring to and start
+from there.
+!******************************!
+[ef0b01000e000000:0257030000]
+If you can work out which door to knock
+on first, you should have no problem
+finding your friend's place.
+
+There's only one door from which you
+can follow your friend's instructions
+exactly...
+!******************************!
+[f00b01000f000000:0218040000]
+Your friend's place is two doors down
+and two doors to the right of the
+first door you're supposed to knock on.
+
+Since there are only three doors in
+each row, both horizontally and
+vertically...
+!******************************!
+[f10b010010000000:02db040000]
+Start from the top-left door and follow
+your friend's instructions to find your
+destination.
+
+Remember not to leave any doors open
+except for your friend's when
+submitting your answer.
+!******************************!

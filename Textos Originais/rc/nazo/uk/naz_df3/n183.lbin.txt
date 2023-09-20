@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n183
+!******************************!
+n183a
+!******************************!
+n183b
+!******************************!
+[eb0b01000a000000:0211000000]
+Three books have been placed on a table.
+Someone looking at the books from a
+certain direction commented:
+{''}That reminds me of Professor Layton.{''}
+
+From which direction was this person
+looking at the books?
+
+Touch a letter, A to D, to select a
+direction.
+!******************************!
+[ec0b01000b000000:0214010000]
+That's right!
+
+Direction D.
+
+From that direction the books look like
+Layton's top hat!
+!******************************!
+[ed0b01000c000000:026b010000]
+Too bad.
+
+Isn't there a familiar shape to be found
+somewhere on the table?
+!******************************!
+[ee0b01000d000000:02b6010000]
+When the person said it reminded them
+of Professor Layton, what did they
+mean?
+
+Professor Layton is an English
+gentleman. What's the first thing that
+comes to mind when you think of English
+gentlemen?
+!******************************!
+[ef0b01000e000000:027f020000]
+
+!******************************!
+[f00b01000f000000:0280020000]
+
+!******************************!
+[f10b010010000000:0281020000]
+
+!******************************!

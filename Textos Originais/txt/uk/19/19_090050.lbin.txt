@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Thanks to Shipley, Luke and the
+professor come a little bit closer
+to finding the future Layton.
+!******************************!
+[7117030004000000:001400000002000000000271000000]
+ナレーション
+!******************************!
+<T>Having identified the Towering
+Pagoda as a Family stronghold,
+the party split up.
+!******************************!
+[7117030007000000:0014000000020000000002c6000000]
+ナレーション
+!******************************!
+<T>While Future Luke runs ahead to
+secure a path into the pagoda,
+our heroes set out for Chinatown.
+!******************************!

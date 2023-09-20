@@ -1,0 +1,47 @@
+[7017010000000000:0007000000]
+[7117030001000000:000a00000002000000000209000000]
+サマリー
+!******************************!
+<T>I just can't believe Clive would do
+something like this. He was always
+such a nice boy.
+!******************************!
+[7117030004000000:000a0000000264000000026d000000]
+レイトン
+!******************************!
+<T>It's clear that Clive took pains
+to hide his plan from you and your
+husband.
+!******************************!
+[7117030007000000:000a000000020000000002bd000000]
+サマリー
+!******************************!
+<T>You must believe me, Professor.
+Deep down, Clive is a kind, gentle
+person.
+!******************************!
+[711703000a000000:000a0000000200000000020b010000]
+サマリー
+!******************************!
+<T>I know what it looks like, but he's
+not a cold-hearted criminal.
+!******************************!
+[711703000d000000:000a0000000264000000024f010000]
+レイトン
+!******************************!
+<T>I know. I'll do my best to put an
+end to this and bring him back.
+!******************************!
+[7117030010000000:000a00000002000000000294010000]
+サマリー
+!******************************!
+<T>Thank you, Professor.<W> We'll stay
+here and help everyone out.
+!******************************!
+[7117030013000000:0014000000020000000002d7010000]
+サマリー
+!******************************!
+<T>Professor, don't let Clive do this.
+You've got to stop him before he
+goes any further.
+!******************************!

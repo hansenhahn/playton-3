@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n069
+!******************************!
+n069a
+!******************************!
+n069b
+!******************************!
+[eb0b01000a000000:0211000000]
+There is only one way to get across this 
+room. In order to proceed, you have to
+work out how to put the four pieces of
+the Dragon Walkway back together!
+
+The spiked ball can also be moved freely.
+!******************************!
+[ec0b01000b000000:02d6000000]
+You did it!
+
+Future Layton awaits on the other side
+of the Dragon Walkway!
+
+!******************************!
+[ed0b01000c000000:0222010000]
+Too bad!
+
+Better give it another shot.
+!******************************!
+[ee0b01000d000000:0249010000]
+The dragon's head is at the top, its tail
+at the bottom.
+
+Try to visualise the finished Dragon
+Walkway before you start moving the
+pieces.
+!******************************!
+[ef0b01000e000000:02d4010000]
+You need to deal with the spiked ball
+by moving it off to the left and
+then sliding it over against the right
+wall. To clear the way, move the
+sideways T-shaped piece to the right,
+then slide the S-shaped piece down to
+the left of it. Now you can move the
+spiked ball down and to the left, and
+if you move the dragon's tail to the
+left and up, you can slide the spiked
+ball all the way against the wall to
+the right.
+!******************************!
+[f00b01000f000000:0275030000]
+Slide the sideways T-shaped piece
+above the S-shaped piece and flush
+with the left wall. Move the
+dragon's head and then the spiked ball
+to the bottom-centre. You can now
+move the dragon's tail to the
+bottom-right. Move the spiked ball
+against the right wall, then move
+the sideways T-shaped piece to the
+top-centre and the S-shaped piece
+below it and to the left.
+!******************************!
+[f10b010010000000:02e2040000]
+Move the dragon's head to the
+bottom-left corner to open up the
+middle. Slide the dragon's tail down
+into the bottom-centre space, then
+move the S-shaped piece down on top
+of the dragon's tail.
+
+You're nearly there! Work out the
+last few moves and the Dragon Walkway
+will take shape before your eyes!
+
+
+!******************************!

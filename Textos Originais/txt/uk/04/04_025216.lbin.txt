@@ -1,0 +1,55 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000209000000]
+ジャック
+!******************************!
+<T>Hrm? You two don't seem to have
+explored this London very
+thoroughly.
+!******************************!
+[7117030004000000:000a00000002000000000252000000]
+ジャック
+!******************************!
+<T>If you want to make some real
+headway in your case, you'll have
+to do a bit more research.
+!******************************!
+[7117030007000000:000a00000002b000000002b9000000]
+レイトン
+!******************************!
+<T>Exactly how much research do we
+need to do?
+!******************************!
+[711703000a000000:000a000000020000000002e8000000]
+ジャック
+!******************************!
+<T><K>Hmm...<W></K> Tell you what. Come back
+when you've solved 30 puzzles, and
+I'll return you to your own time.
+!******************************!
+[711703000d000000:000a00000002b0000000025a010000]
+レイトン
+!******************************!
+<T>All right then, Cogg. You've been in
+on this plan longer than we have,
+so I bow to your judgement.
+!******************************!
+[7117030010000000:000a00000002b000000002c0010000]
+レイトン
+!******************************!
+<T>We shall see if we can find a few
+more puzzles out there to solve.
+!******************************!
+[7117030013000000:001400000002000000000206020000]
+ジャック
+!******************************!
+<T>Hmm. You should probably do a bit
+more investigating here before
+returning to your own time.
+!******************************!
+[7117030016000000:001400000002000000000266020000]
+ジャック
+!******************************!
+<T>Come back when you've solved 30
+puzzles and I'll take you back to
+your London.
+!******************************!

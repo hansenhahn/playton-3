@@ -1,0 +1,98 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Oh, hi there, Becky. On your way
+out?
+!******************************!
+[7117030004000000:000a00000002300000000239000000]
+ベッキー
+!******************************!
+<T>That's right. That older gentleman
+who's staying with us asked me to
+run an errand for him.
+!******************************!
+[7117030007000000:000a00000002000000000298000000]
+ルーク
+!******************************!
+<T>You mean Dean Delmona?
+!******************************!
+[711703000a000000:000a000000023000000002b2000000]
+ベッキー
+!******************************!
+<T><A1/5>Yeah, that's the chap. I don't know
+why a man with so little hair needs
+a tub of hair gel, though...
+!******************************!
+[711703000d000000:000a00000002200100000229010000]
+レイトン
+!******************************!
+<T>Hair gel?<W> To style that little tuft?
+!******************************!
+[7117030010000000:000a00000002300000000254010000]
+ベッキー
+!******************************!
+<T>Strange, eh? Still, you can't blame
+a man for trying to stay stylish
+in his old age. Tee hee!
+!******************************!
+[7117030013000000:000a000000022001000002b5010000]
+レイトン
+!******************************!
+<T>That is quite curious. He never
+struck me as the hair gel type.
+!******************************!
+[7117030016000000:000a000000023000000002f8010000]
+ベッキー
+!******************************!
+<T><A2/2>By the way, since we're on the
+subject of shopping trips, there's
+something I need your help with.
+!******************************!
+[7117030019000000:00e803000002300000000264020000]
+ベッキー
+!******************************!
+<T>Well, I suppose there are some
+mysteries too complex for even
+the greatest of minds.
+!******************************!
+[711703001c000000:00d0070000023000000002bc020000]
+ベッキー
+!******************************!
+<T>Oh, you want to take another
+crack at my shopping puzzle?
+What a gentleman you are!
+!******************************!
+[711703001f000000:00b80b000002300000000213030000]
+ベッキー
+!******************************!
+<T>I knew you'd work it out,
+Professor.
+!******************************!
+[7117030022000000:00b80b00000230000000023b030000]
+ベッキー
+!******************************!
+<T>I had a question for Mr Delmona,
+you know, but he disappeared
+when I wasn't looking. Oh well. 
+!******************************!
+[7117030025000000:00b80b00000230000000029d030000]
+ベッキー
+!******************************!
+<T>Hey, don't tell Mr Delmona that I
+was wondering about his hair gel,
+okay?
+!******************************!
+[7117030028000000:00b80b0000023000000002ea030000]
+ベッキー
+!******************************!
+<T>I'll even give you a little something
+for keeping the matter hush-hush.
+!******************************!
+[711703002b000000:00a00f000002300000000235040000]
+ベッキー
+!******************************!
+<T>I had a question for Mr Delmona,
+but he ran off when I wasn't
+looking. I wonder where he's gone?
+!******************************!

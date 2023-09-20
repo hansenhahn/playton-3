@@ -1,0 +1,119 @@
+[7017010000000000:0012000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T>You there, with the shady
+expression! Look me in the
+eyes when I talk to you.
+!******************************!
+[7117030004000000:000a000000025c0000000263000000]
+ウッズ
+!******************************!
+<T><A3/1>Buzz off, will you? I'm reading here!
+!******************************!
+[7117030007000000:000a00000002000000000292000000]
+チェルミー
+!******************************!
+<T><A2/1>Listen, you hooligan, I'm acting
+under the authority of Scotland
+Yard!
+!******************************!
+[711703000a000000:000a000000020000000002e2000000]
+チェルミー
+!******************************!
+<T>I demand that you comply with my
+investigation!
+!******************************!
+[711703000d000000:000a000000025c0000000215010000]
+ウッズ
+!******************************!
+<T>Scotland Yard? Pfft.<W> It's been
+years since the police had any
+power in this city.
+!******************************!
+[7117030010000000:000a0000000200000000026d010000]
+チェルミー
+!******************************!
+<T><A5/0>No power, you say? You'd do well
+to take a close look at the man
+before you!
+!******************************!
+[7117030013000000:000a000000020000000002c3010000]
+チェルミー
+!******************************!
+<T>The very sight of this face sends
+thugs running for the hills!
+!******************************!
+[7117030016000000:000a000000025c0000000205020000]
+ウッズ
+!******************************!
+<T><A5/0>Whoa there, settle down!<W>
+<A4/1>S-somebody help me! This oddball's
+getting too c-close for comfort!
+!******************************!
+[7117030019000000:00140000000274020000027b020000]
+ルーク
+!******************************!
+<T>Inspector, please calm down!
+!******************************!
+[711703001c000000:00140000000200000000029b020000]
+チェルミー
+!******************************!
+<T><A1/1>Hrm? Ah, Luke. Not now, lad. I'm
+putting the screws on this dubious
+character here.
+!******************************!
+[711703001f000000:001e00000002f80200000201030000]
+レイトン
+!******************************!
+<T><A1/2>Inspector, please. I can vouch for
+this man. He's just an ordinary
+citizen.
+!******************************!
+[7117030022000000:001e00000002000000000256030000]
+チェルミー
+!******************************!
+<T><A3/1>Oh, so he's a friend of yours,
+Layton? You should've said so
+earlier.
+!******************************!
+[7117030025000000:001e000000020000000002a5030000]
+チェルミー
+!******************************!
+<T>You're off the hook, newspaper
+boy. But listen well, because I'll
+only say this once.
+!******************************!
+[7117030028000000:0028000000025c00000002fe030000]
+ウッズ
+!******************************!
+<T>Th-thanks!<A3/1> I'm l-listening!
+!******************************!
+[711703002b000000:002800000002000000000223040000]
+チェルミー
+!******************************!
+<T>The soul of Scotland Yard and what
+it stands for is immortal! Even in a
+corrupt pit of depravity like this!
+!******************************!
+[711703002e000000:002800000002000000000292040000]
+チェルミー
+!******************************!
+<T>Now if you'll excuse me, I've got an
+investigation to attend to.<W>
+Good day, Layton.
+!******************************!
+[7117030031000000:0032000000025c00000002eb040000]
+ウッズ
+!******************************!
+<T><A2/1>Phew!<W> Thanks for saving me from
+that loon. What was all that
+gibberish about Scotland Yard?
+!******************************!
+[7117030034000000:003c00000002740200000253050000]
+ルーク
+!******************************!
+<T>Oh, the inspector doesn't mean any
+harm. He just tends to get a little
+worked up.
+!******************************!

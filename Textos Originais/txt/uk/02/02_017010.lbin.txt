@@ -1,0 +1,99 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000207000000]
+デロイ
+!******************************!
+<T>Hmph. And just where do you two
+think you're going?
+!******************************!
+[7117030004000000:000a000000023e0000000247000000]
+レイトン
+!******************************!
+<T>We're on our way to meet someone
+at the Gilded 7 Casino.
+!******************************!
+[7117030007000000:000a00000002000000000283000000]
+デロイ
+!******************************!
+<T>I see.<W> Going to the casino to {''}meet
+someone{''}, are you?<W> Interesting.
+Veeery interesting...
+!******************************!
+[711703000a000000:000a00000002ec00000002f3000000]
+ルーク
+!******************************!
+<T>Psst, Professor, I think this man
+is trying to intimidate us.
+!******************************!
+[711703000d000000:000a00000002000000000234010000]
+デロイ
+!******************************!
+<T><A6/0>Stop that whispering, boy! I'm right
+here, you know!
+!******************************!
+[7117030010000000:000a00000002ec0000000272010000]
+ルーク
+!******************************!
+<T>Oops!<W> Um... Sorry, mister.
+!******************************!
+[7117030013000000:000a00000002000000000293010000]
+デロイ
+!******************************!
+<T><A3/1>Hmph.<W> Well, since you've apologised,
+I suppose I can overlook your
+rudeness this time.
+!******************************!
+[7117030016000000:000a000000023e00000002f6010000]
+レイトン
+!******************************!
+<T>I'm sorry to impose, sir, but would
+you be so kind as to let us pass?
+It's getting rather late.
+!******************************!
+[7117030019000000:000a00000002000000000259020000]
+デロイ
+!******************************!
+<T><A5/5>But of course, my good man.<W> As
+soon as you solve this puzzle of
+mine, that is.
+!******************************!
+[711703001c000000:00e8030000020000000002b4020000]
+デロイ
+!******************************!
+<T>Hmph. What's the matter? Has my
+puzzle stumped you?
+!******************************!
+[711703001f000000:00d0070000020000000002eb020000]
+デロイ
+!******************************!
+<T>Back to pit your wits against my
+puzzle, I see. Very well then.
+Prepare yourself!
+!******************************!
+[7117030022000000:00b80b000002000000000240030000]
+デロイ
+!******************************!
+<T><A2/5>Well done. You've proven yourself
+worthy, so I will provide you with a
+cryptic but valuable warning.
+!******************************!
+[7117030025000000:00b80b0000020000000002ae030000]
+デロイ
+!******************************!
+<T><A2/6>Danger lurks about that hat of
+yours. You'd best watch yourself
+around here.
+!******************************!
+[7117030028000000:00b80b0000023e0000000204040000]
+レイトン
+!******************************!
+<T>Why is everyone so fixated on my
+hat? Do you know someone else
+with a hat like mine?
+!******************************!
+[711703002b000000:00b80b00000200000000025c040000]
+デロイ
+!******************************!
+<T>If I told you, it would kill all the
+suspense, wouldn't it? I'll leave
+that little mystery for you.
+!******************************!

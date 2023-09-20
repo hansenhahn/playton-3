@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000060400000006040000000100000000000000000000000000]
+n159
+!******************************!
+n159a
+!******************************!
+n159b
+!******************************!
+[eb0b01000a000000:0211000000]
+Four different types of tinned food
+are randomly stacked up. You need to
+rearrange them into stacks of the same
+food.
+
+However, if there are tins on top of the
+tin you want to move, you have to move
+them all at once. Also, you can't have
+more than six tins in a stack.
+
+Not too hard, right? Oh...one more thing:
+you have to do it in 14 moves or fewer.
+!******************************!
+[ec0b01000b000000:0271010000]
+Beautiful!
+
+How many moves did it take?
+!******************************!
+[ed0b01000c000000:0299010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:02ae010000]
+There are several ways to solve this
+puzzle, so start moving those tins
+around and see how it goes.
+
+It shouldn't be too hard to get to a
+point where a few more moves will do it.
+!******************************!
+[ef0b01000e000000:0261020000]
+The 14-move limit definitely complicates
+matters. Don't forget that you can't
+stack up more than six tins at a time.
+
+Don't get carried away stacking up the
+same type of tin at every opportunity.
+It will cost you moves in the long run.
+!******************************!
+[f00b01000f000000:024d030000]
+Instead of stacking up the same type of
+tin every chance you get, it's better
+to think about what type of tin you
+should stack in each row.
+
+Whenever possible, you want to move
+as many tins as you can together. Of
+course, sometimes you have to move
+just one tin at a time.
+!******************************!
+[f10b010010000000:025e040000]
+From left to right, think of the stacks
+as the first, second, third and fourth.
+
+Move the fish from the fourth stack to
+the first stack. Move the peaches from
+the second stack to the fourth stack.
+Move the ham from the third stack to
+the second stack. Move the fish from
+the third stack to the first stack...
+
+You can take it from here!
+!******************************!

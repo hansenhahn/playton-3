@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n186
+!******************************!
+n186a
+!******************************!
+n186b
+!******************************!
+[eb0b01000a000000:0211000000]
+Treasure is buried beneath the far-left
+square of the six blank squares below.
+
+Place the six dice panels onto the blank
+squares in a way that will reveal the
+hidden treasure's location to anyone.
+!******************************!
+[ec0b01000b000000:02d6000000]
+Yarr!
+
+When rotated and arranged correctly, the
+dice panels form an arrow pointing at a
+red dot above the treasure. That should
+attract anyone's attention!
+
+What could the treasure be...?
+!******************************!
+[ed0b01000c000000:0292010000]
+Too bad!
+
+Think about how you might point towards
+the hidden treasure's location.
+!******************************!
+[ee0b01000d000000:02e4010000]
+Place the most eye-catching dice panel
+above the hidden treasure's location
+(the far-left blank square). Then
+create an arrow shape with the
+remaining dice panels.
+!******************************!
+[ef0b01000e000000:0288020000]
+
+!******************************!
+[f00b01000f000000:0289020000]
+
+!******************************!
+[f10b010010000000:028a020000]
+
+!******************************!

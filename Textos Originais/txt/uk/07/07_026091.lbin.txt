@@ -1,0 +1,40 @@
+[7017010000000000:0006000000]
+[7117030001000000:000a00000002000000000207000000]
+マーヤ
+!******************************!
+<T>Welcome to Maya's Miles of Books!
+!******************************!
+[7117030004000000:000a000000022c0000000235000000]
+レイトン
+!******************************!
+<T>You certainly aren't exaggerating.
+The selection here is simply
+astounding!
+!******************************!
+[7117030007000000:000a00000002000000000284000000]
+マーヤ
+!******************************!
+<T>If there's something that catches
+your eye, feel free to flip through
+it.
+!******************************!
+[711703000a000000:000a000000020000000002d1000000]
+マーヤ
+!******************************!
+<T>Our mission is to serve our fellow
+book lovers!
+!******************************!
+[711703000d000000:000a000000022c0000000204010000]
+レイトン
+!******************************!
+<T>Wonderful. A literature fiend like
+myself enjoys nothing better than
+browsing a good bookshop.
+!******************************!
+[7117030010000000:001400000002000000000266010000]
+マーヤ
+!******************************!
+<T>If you love literature, then you've
+come to the right place! Please
+take your time to look around.
+!******************************!

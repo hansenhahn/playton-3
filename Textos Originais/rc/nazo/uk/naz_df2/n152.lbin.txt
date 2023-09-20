@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000060400000006040000000100000000000000000000000000]
+n152
+!******************************!
+n152a
+!******************************!
+n152b
+!******************************!
+[eb0b01000a000000:0211000000]
+Three different types of tinned food
+are randomly stacked up. You need to
+rearrange them into stacks of the same
+food.
+
+However, if there are tins on top of the
+tin you want to move, you have to move
+them all at once. Also, you can't have
+more than six tins in a stack.
+
+Sounds easy, right? Oh...one more thing:
+you have to do it in six moves or fewer.
+!******************************!
+[ec0b01000b000000:0272010000]
+Stacktacular!
+
+Now everything is in order. Nice!
+!******************************!
+[ed0b01000c000000:02a3010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:02b8010000]
+If you plan your moves carefully, it
+shouldn't be too hard.
+
+Here's a clue to get you started:
+
+Your first move involves moving two tins
+at the same time.
+!******************************!
+[ef0b01000e000000:0253020000]
+For example, grab the tin of peaches
+from the middle stack and move it
+over to the left.
+
+There's just a single tin of fish in the
+middle now. Hmm... Well, why not move the
+tin of fish from the right stack onto
+the one in the middle?
+!******************************!
+[f00b01000f000000:023d030000]
+Continuing from Hint 2, if you grab the
+tin of fish from the left stack and move
+it onto the two you've got stacked in
+the middle, then you'll have all three
+tins of fish stacked together. Nice!
+
+Now then, what's next?
+!******************************!
+[f10b010010000000:0218040000]
+Continuing from Hint 3, move the tin of
+cherries from the right stack to the
+left stack. Now move the cherries from
+the middle stack to the left stack.
+
+Almost there now. You can do it!
+!******************************!

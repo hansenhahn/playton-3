@@ -1,0 +1,34 @@
+[7017010000000000:0005000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton and the others encounter
+Don Paolo within the grounds of
+the research facility.
+!******************************!
+[7117030004000000:000a00000002000000000267000000]
+ナレーション
+!******************************!
+<T>As the group push on, piles of
+curious materials catch the
+professor's eye.
+!******************************!
+[7117030007000000:0014000000020000000002b6000000]
+ナレーション
+!******************************!
+<T>What kind of strange research is
+being conducted in this facility?
+!******************************!
+[711703000a000000:0014000000020000000002fc000000]
+ナレーション
+!******************************!
+<T>Do Layton and the others have a 
+chance of finding Dimitri here?
+!******************************!
+[711703000d000000:001400000002000000000240010000]
+ナレーション
+!******************************!
+<T>These questions prey on Layton's
+mind as the group make their way
+to the core of the facility.
+!******************************!

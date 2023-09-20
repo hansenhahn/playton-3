@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n102
+!******************************!
+n102a
+!******************************!
+n102b
+!******************************!
+[eb0b01000a000000:0211000000]
+Below are two necklaces, a gold one on the
+left and a silver one on the right.
+
+Can you make them switch sides by sliding
+the blocks around?
+!******************************!
+[ec0b01000b000000:029e000000]
+Fantabulous job!
+
+Square-shaped slide puzzles like this
+usually have 15 blocks and only one
+empty space. This one, however, has two
+empty spaces, so it couldn't have been
+that hard for you!
+
+By the way, where did these necklaces
+come from? Does anybody know? Or might
+they be...stolen?!
+!******************************!
+[ed0b01000c000000:02bd010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:02d2010000]
+You need to move the silver necklace
+over to the left side and the gold
+necklace over to the right.
+
+Did you notice that there are two empty
+spaces to work with? This should make
+it fairly easy. Just keep moving those
+blocks around and you'll see!
+!******************************!
+[ef0b01000e000000:02ca020000]
+Unlike a lot of slide puzzles, this one
+has two empty spaces. If you take
+advantage of them both, switching the
+necklaces is actually pretty simple.
+!******************************!
+[f00b01000f000000:025f030000]
+The key is to not worry about the
+position of the individual blocks, but
+rather to simply switch all the blocks
+of each necklace to the opposite side.
+
+After you've done that, you can begin
+to reassemble each necklace.
+
+Keep trying, you can do it!
+Even if you decide to use the Super
+Hint, it won't tell you exactly how
+to solve it...
+!******************************!
+[f10b010010000000:02ae040000]
+You couldn't resist, could you?
+Okay then.
+
+Switching the necklaces around is easy
+if you utilise both of the open spaces.
+Keep the two open spaces above, below,
+or to the side of the two blocks you
+want to reposition and you should have
+no problem manoeuvring them around
+one another. Give it a try! You'll see.
+!******************************!

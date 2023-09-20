@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n124
+!******************************!
+n124a
+!******************************!
+n124b
+!******************************!
+[eb0b01000a000000:0211000000]
+This photograph shows the surface of a
+pond a few moments after somebody threw
+in a handful of pebbles.
+
+Assuming no pebbles landed in the exact
+same spot, how many pebbles were thrown?
+All the ripples captured in the photograph
+came from pebbles.
+!******************************!
+[ec0b01000b000000:0209010000]
+A ripple of applause!
+
+Six pebbles were thrown into the pond.
+!******************************!
+[ed0b01000c000000:0247010000]
+Too bad!
+
+Try using the Memo Function to help you
+work out where all the ripples are coming
+from.
+!******************************!
+[ee0b01000d000000:02a9010000]
+Ripples that have the same centre all
+came from the same pebble, no matter
+what size the ripples are.
+!******************************!
+[ef0b01000e000000:020f020000]
+Here's another way to think about
+Hint 1: the number of pebbles thrown
+into the pond is equal to the number of
+centres.
+!******************************!
+[f00b01000f000000:0287020000]
+If you think that only four pebbles
+were thrown, take a closer look.
+
+Have you noticed the largest ripple,
+for example?
+!******************************!
+[f10b010010000000:02ff020000]
+The largest ripple runs from top to
+bottom through the middle of the
+photograph. It's easy to mistake it for
+a ripple coming from the pebble that
+landed in the bottom-left corner, but in
+fact it has a different centre.
+
+Now, are there any more?
+!******************************!

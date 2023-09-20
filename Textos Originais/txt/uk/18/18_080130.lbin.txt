@@ -1,0 +1,67 @@
+[7017010000000000:000a000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<T>Have a look at this X-ray.
+!******************************!
+[7117030004000000:000a0000000227000000022e000000]
+ルーク
+!******************************!
+<T><A4/4>Hmm. Do you think it's
+Dr Schrader's?
+!******************************!
+[7117030007000000:000a0000000200000000025d000000]
+レイトン
+!******************************!
+<T>I believe so. But there's something
+odd about it. Have a look here,
+Luke.
+!******************************!
+[711703000a000000:00e8030000020000000002aa000000]
+レイトン
+!******************************!
+<T><A4/1>Curious. Whatever could have
+caused that strange shadow to
+appear on the X-ray?
+!******************************!
+[711703000d000000:00d007000002000000000203010000]
+レイトン
+!******************************!
+<T><A4/1>Something about this X-ray is not
+quite right.
+!******************************!
+[7117030010000000:00b80b00000227000000023b010000]
+ルーク
+!******************************!
+<T><A3/1>That's not funny at all. Who would
+try to play a prank like that on
+poor Dr Schrader?
+!******************************!
+[7117030013000000:00b80b00000200000000029a010000]
+レイトン
+!******************************!
+<T><A1/1>Now Luke, let's not jump to any
+conclusions. Andrew is quite the
+prankster himself.
+!******************************!
+[7117030016000000:00b80b0000020000000002f7010000]
+レイトン
+!******************************!
+<T>It's entirely possible that he placed
+this fake X-ray here to shock his
+visitors.
+!******************************!
+[7117030019000000:00b80b00000227000000024c020000]
+ルーク
+!******************************!
+<T><A4/4>If that's the case then it certainly
+worked on me. I was really worried
+for a moment there!
+!******************************!
+[711703001c000000:00a00f0000020000000002b1020000]
+レイトン
+!******************************!
+<T><A4/1>Some people are willing to go the
+extra mile to pull off a good
+practical joke.
+!******************************!

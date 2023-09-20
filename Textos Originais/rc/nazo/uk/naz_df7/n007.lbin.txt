@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n007
+!******************************!
+n007a
+!******************************!
+n007b
+!******************************!
+[eb0b01000a000000:0211000000]
+When this wall clock fell to the floor, all
+the numbers were knocked off and the
+clock stopped.
+
+Even without the numbers, though, you can
+tell the time at which the clock stopped.
+
+What time, in hours and minutes, is the
+clock displaying?
+
+Don't worry about am and pm.
+!******************************!
+[ec0b01000b000000:021f010000]
+That's right!
+
+It's easy once you notice that the hour
+hand is pointing straight at one of the
+clock's gradations.
+!******************************!
+[ed0b01000c000000:0292010000]
+Too bad.
+
+Try visualising an analogue clock.
+!******************************!
+[ee0b01000d000000:02bf010000]
+Pay attention to where the hour and
+minute hands are pointing.
+
+If you have an analogue clock to hand,
+try moving the hands around and you'll
+soon find the answer.
+!******************************!
+[ef0b01000e000000:0263020000]
+Have you noticed that both the hour
+and minute hands are pointing exactly
+at gradations of the clock? They're in
+a straight line, too.
+
+What time does that indicate?
+!******************************!
+[f00b01000f000000:0209030000]
+With the hour and minute hands pointing
+straight at the clock's gradations, the
+time must be ??:00, right on the hour.
+
+Considering that both hands are in a
+straight line, what time must it be?
+!******************************!
+[f10b010010000000:02cb030000]
+Even without an actual analogue clock,
+you can get the answer just by
+visualising one. First, imagine the hour
+and minute hands pointing the same way
+at 12:00. Now, if you move the hands
+round, hour by hour...
+
+There is a time when the hour and minute
+hands are pointing in a straight line.
+!******************************!

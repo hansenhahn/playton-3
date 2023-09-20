@@ -1,0 +1,41 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n218
+!******************************!
+n218a
+!******************************!
+n218b
+!******************************!
+[eb0b01000a000000:0211000000]
+Oh goodness! A precious garnet has fallen
+to the bottom of a very cluttered case.
+
+Can you get the garnet to the opening at
+the top of the briefcase by sliding the
+clutter out of the way?
+!******************************!
+[ec0b01000b000000:02cd000000]
+Great job!
+
+What a beautiful gemstone!
+!******************************!
+[ed0b01000c000000:02f4000000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:0209010000]
+Don't let the clutter get the better of
+you. As long as you keep creating space
+and avoid making the same moves over
+and over, you should be able to work
+the garnet to the top.
+!******************************!
+[ef0b01000e000000:02ba010000]
+
+!******************************!
+[f00b01000f000000:02bb010000]
+
+!******************************!
+[f10b010010000000:02bc010000]
+
+!******************************!

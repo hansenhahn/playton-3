@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n036
+!******************************!
+n036a
+!******************************!
+n036b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}I was considered quite the catch in my
+younger days, you know! This is a picture
+of me back then, along with three of my
+handsome suitors. A few moments after
+this photo was taken, one of these
+gents expressed his love for me by
+presenting me with a heart.{''}
+
+Which one of these men, A-C, is the suitor
+in question?
+!******************************!
+[ec0b01000b000000:0253010000]
+Lovely answer!
+
+It was him all right!
+
+He made a heart out of the magazine he
+was holding. Quite a creative gesture, eh?
+
+There's no inspiration like true love...
+!******************************!
+[ed0b01000c000000:02f6010000]
+Too bad!
+
+Pay close attention to what each
+gentleman is holding.
+!******************************!
+[ee0b01000d000000:0237020000]
+Each gentleman is holding something
+different. Concentrate on those items.
+!******************************!
+[ef0b01000e000000:0282020000]
+The heart she's talking about isn't
+drawn on anything that the gentlemen
+are holding. She must be referring to
+something shaped like a heart. Hmm...
+How can you make a heart shape?
+!******************************!
+[f00b01000f000000:0237030000]
+One of the three gentlemen is holding
+something that could easily be turned
+into a heart shape.
+
+Take another look.
+!******************************!
+[f10b010010000000:02ab030000]
+It wasn't a beautiful bouquet or an
+enchanting melody that charmed her.
+
+It was a loving gesture!
+!******************************!

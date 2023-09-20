@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n136
+!******************************!
+n136a
+!******************************!
+n136b
+!******************************!
+[eb0b01000a000000:0211000000]
+A fingerprint has been discovered at the
+scene of an unsolved crime!
+
+Four suspects have been rounded up and
+brought into the station.
+
+Compare the fingers of suspects A, B, C
+and D with the fingerprint shown beneath
+the magnifying glass to identify the
+culprit!
+!******************************!
+[ec0b01000b000000:0218010000]
+Solved!
+
+Suspect A is your culprit.
+
+At first glance, B looks like a possible
+match, but the print left at the scene is
+a mirror image of the culprit's finger.
+!******************************!
+[ed0b01000c000000:02b8010000]
+Too bad!
+
+Think about how the fingerprint would 
+have been left at the crime scene.
+!******************************!
+[ee0b01000d000000:020c020000]
+Don't jump to conclusions. Carefully
+consider all the options.
+!******************************!
+[ef0b01000e000000:024b020000]
+C looks completely wrong.
+!******************************!
+[f00b01000f000000:0265020000]
+A fingerprint is actually a mirror
+image of the finger itself.
+!******************************!
+[f10b010010000000:02a4020000]
+C and D are clearly wrong.
+
+The answer is either A or B.
+
+Remember Hint 3?
+!******************************!

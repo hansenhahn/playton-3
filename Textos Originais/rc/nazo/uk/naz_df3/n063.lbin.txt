@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n063
+!******************************!
+n063a
+!******************************!
+n063b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}No one has ever triumphed over the
+Impassable Gate! Give it a try, if you dare.
+Make it to the top and I'll let you pass.{''}
+
+Slide Professor Layton and Luke into the
+top square to solve this puzzle!
+!******************************!
+[ec0b01000b000000:02de000000]
+Incredible!
+
+{''}You may now pass through the gate.{''}
+!******************************!
+[ed0b01000c000000:0216010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:022b010000]
+That green piece is always going to
+get in your way. You need to find some
+way of moving it.
+
+First, move Professor Layton and Luke
+over to the left, then move the red
+piece down into the bottom-right
+corner. Now move the blue piece into
+the space that's opened up against the
+right wall. What's next?
+!******************************!
+[ef0b01000e000000:0259020000]
+Continuing from Hint 1, move the orange
+piece down against the blue piece
+so that they fit together snugly. Now
+you can move that pesky green piece
+off to the left. Next, move the orange
+piece up into the space vacated by the
+green piece. The green piece is now
+free!
+!******************************!
+[f00b01000f000000:0265030000]
+Continuing from Hint 2, move the green
+piece down so that it's just above the
+yellow piece. Now you can move the
+orange piece into the square at the
+top. This is the key move. Now raise
+the green piece...
+!******************************!
+[f10b010010000000:0232040000]
+Continuing from Hint 3, move the
+yellow piece that's above Professor
+Layton and Luke so that you can move
+them left one square and up two
+squares. Then move the red piece so
+that it's under Professor Layton and
+Luke, and stash the blue, yellow and
+green pieces in the bottom-right
+corner.
+
+The only piece that's left in the way
+now is the orange one at the top...
+!******************************!

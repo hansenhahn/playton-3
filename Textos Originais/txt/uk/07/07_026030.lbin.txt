@@ -1,0 +1,155 @@
+[7017010000000000:0017000000]
+[7117030001000000:000a00000002000000000209000000]
+ルドルフ
+!******************************!
+<T>Good day, whippersnappers! Tell me,
+have you ever stopped to admire
+this marvellous arch?
+!******************************!
+[7117030004000000:000a00000002000000000266000000]
+ルドルフ
+!******************************!
+<T>It was constructed to welcome lucky
+spirits into the area.
+!******************************!
+[7117030007000000:000a00000002a400000002ad000000]
+レイトン
+!******************************!
+<T><A1/2>It certainly is a breathtaking
+piece of art.<W> I take it you're
+familiar with this part of the city?
+!******************************!
+[711703000a000000:000a0000000200000000021c010000]
+ルドルフ
+!******************************!
+<T>You mean Chinatown?<W> You could say
+I know a thing or two about the
+area, I suppose.
+!******************************!
+[711703000d000000:000a00000002000000000275010000]
+ルドルフ
+!******************************!
+<T>As the name suggests, it's full of
+restaurants and shops selling goods
+from Asia.
+!******************************!
+[7117030010000000:000a000000020000000002ca010000]
+ルドルフ
+!******************************!
+<T>One thing most people don't know is
+that the buildings here aren't that
+old, despite their appearance.
+!******************************!
+[7117030013000000:000a00000002a40000000234020000]
+レイトン
+!******************************!
+<T><A3/1>I've also heard that the Family's
+headquarters are in this area. I-
+!******************************!
+[7117030016000000:000a00000002000000000281020000]
+ルドルフ
+!******************************!
+<T>Whoa there! Keep your voice down,
+will you?
+!******************************!
+[7117030019000000:000a000000020000000002b0020000]
+ルドルフ
+!******************************!
+<T>That fact might be common
+knowledge, but it's not the kind
+of thing you talk about in public.
+!******************************!
+[711703001c000000:000a00000002110300000218030000]
+ルーク
+!******************************!
+<T>What the professor wants to know 
+is if you can tell us how to get
+there.
+!******************************!
+[711703001f000000:000a00000002000000000265030000]
+ルドルフ
+!******************************!
+<T>Hoo hoo hoo! You don't mince your
+words, do you, boy? I admire that.
+!******************************!
+[7117030022000000:000a000000020000000002ad030000]
+ルドルフ
+!******************************!
+<T>I'll tell you what I'm going to do: if
+you solve my puzzle, I'll point out
+the Family's headquarters for you.
+!******************************!
+[7117030025000000:00e80300000200000000021e040000]
+ルドルフ
+!******************************!
+<T>If you can't even solve my puzzle,
+you're hardly equipped to go to
+the Family's headquarters.
+!******************************!
+[7117030028000000:00d00700000200000000027f040000]
+ルドルフ
+!******************************!
+<T>Back to try again, I see. You must
+really want to know where the
+Family's headquarters are!
+!******************************!
+[711703002b000000:00b80b0000020000000002de040000]
+ルドルフ
+!******************************!
+<T>Hoo hoo! You made short work of
+that puzzle, so here's your reward.
+See that tall building?
+!******************************!
+[711703002e000000:00b80b000002a4000000023d050000]
+レイトン
+!******************************!
+<T>That one over there?
+!******************************!
+[7117030031000000:00b80b000002000000000255050000]
+ルドルフ
+!******************************!
+<T>That's the one. It's called the
+Towering Pagoda and it's the
+Family's base of operations.
+!******************************!
+[7117030034000000:00b80b0000020000000002b2050000]
+ルドルフ
+!******************************!
+<T>The person in charge is said to be
+more monster than man. And he's
+got a hat just like yours...
+!******************************!
+[7117030037000000:00b80b000002000000000215060000]
+ルドルフ
+!******************************!
+<T>But enough of that unpleasant
+topic. Enjoy your time in Chinatown.<W>
+Good day.
+!******************************!
+[711703003a000000:001400000002a40000000268060000]
+レイトン
+!******************************!
+<T>If we wish to meet my future self,
+we must head to the Towering
+Pagoda. That much is clear.
+!******************************!
+[711703003d000000:0014000000021103000002c7060000]
+ルーク
+!******************************!
+<T>Great! So all we have to do now is
+head over and smash down the door.
+Let's go!
+!******************************!
+[7117030040000000:0014000000021a0700000225070000]
+未来ルーク
+!******************************!
+<T>Something tells me things won't be
+that easy, but there's only one way
+to find out, I suppose.
+!******************************!
+[7117030043000000:00a00f000002000000000287070000]
+ルドルフ
+!******************************!
+<T>Enjoying your time in Chinatown,
+whippersnappers?
+!******************************!

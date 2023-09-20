@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n047
+!******************************!
+n047a
+!******************************!
+n047b
+!******************************!
+[eb0b01000a000000:0211000000]
+One of these students broke a window, so
+you ask each of them who did it, in order.
+
+A: {''}I didn't do it.{''}
+B: {''}A is telling the truth.{''}
+C: {''}D is lying.{''}
+D: {''}It certainly wasn't me.{''}
+
+The one whose story sounds fishy is the
+culprit. Who is it?
+!******************************!
+[ec0b01000b000000:021b010000]
+That's right!
+
+C broke the window.
+He said that D was lying, even though D
+hadn't spoken yet.
+
+It doesn't get any fishier than that!
+!******************************!
+[ed0b01000c000000:02a0010000]
+Too bad.
+
+Ask them again, {''}in order{''}.
+!******************************!
+[ee0b01000d000000:02cc010000]
+Listen carefully to their testimonies, in
+order...
+!******************************!
+[ef0b01000e000000:02ff010000]
+Look again at the content of each
+testimony and the order in which they
+are given.
+
+Do that, and you'll soon notice that
+one of them is saying something not
+quite right.
+!******************************!
+[f00b01000f000000:02a9020000]
+The culprit is the one who spoke in
+haste. If you'd heard the testimonies
+in the opposite order, the culprit might
+never have given themselves away.
+!******************************!
+[f10b010010000000:023e030000]
+The culprit gave the game away while
+trying to pin the blame on D.
+!******************************!

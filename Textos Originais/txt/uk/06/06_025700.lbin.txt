@@ -1,0 +1,20 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Where's the other Luke, Professor?
+!******************************!
+[7117030004000000:000a000000022d0000000236000000]
+レイトン
+!******************************!
+<T>Now that you mention it, we never
+decided on a meeting place.<A2/2> Perhaps
+we should pay Shipley a visit.
+!******************************!
+[7117030007000000:000a000000020000000002a4000000]
+ルーク
+!******************************!
+<T><A4/1>Of course! He can get in touch with
+Big Luke for us! Shall we head over
+to the restaurant, then?
+!******************************!

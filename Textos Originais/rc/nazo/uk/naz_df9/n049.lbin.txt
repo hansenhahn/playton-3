@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n049
+!******************************!
+n049a
+!******************************!
+n049b
+!******************************!
+[eb0b01000a000000:0211000000]
+This young student has drawn five shapes
+on the blackboard, but one of them is not
+quite right.
+
+Circle the shape that doesn't belong.
+!******************************!
+[ec0b01000b000000:0298000000]
+Excellent!
+
+The other shapes are made up of three
+3s, four 4s, five 5s and seven 7s. This
+shape is neither six 6s nor nine 9s.
+
+!******************************!
+[ed0b01000c000000:0218010000]
+Too bad!
+
+These shapes are somewhat strange, but
+they are not without meaning.
+!******************************!
+[ee0b01000d000000:0267010000]
+Try drawing some of these shapes
+yourself. Drawing them might give
+you a hint as to how they are formed.
+!******************************!
+[ef0b01000e000000:02d0010000]
+Have you noticed that all the shapes
+are made up of numbers?
+
+Think about the relationship between
+each shape and its corresponding
+number.
+!******************************!
+[f00b01000f000000:025c020000]
+One shape is made of three 3s,
+one of four 4s...
+
+There is a correlation between the
+number used in each shape and how
+many of it the shape contains. With
+that in mind, can you work out which
+shape is the odd one out?
+!******************************!
+[f10b010010000000:0236030000]
+One of the shapes is made up of a
+number that can be read either the
+right way up or upside down.
+
+Consider how many of this number the
+shape contains and you will see that
+this shape doesn't follow the rule.
+!******************************!

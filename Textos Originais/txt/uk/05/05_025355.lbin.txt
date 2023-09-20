@@ -1,0 +1,83 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000207000000]
+アロマ
+!******************************!
+<T>What's done is done, so I guess
+there's no point in dwelling on it.
+!******************************!
+[7117030004000000:000a0000000200000000024e000000]
+アロマ
+!******************************!
+<T>You two must be awfully tired
+after all that running around.
+!******************************!
+[7117030007000000:000a0000000200000000028e000000]
+アロマ
+!******************************!
+<T>I just made a pot of tea. I'll go
+fetch it.
+!******************************!
+[711703000a000000:001400000002bd00000002c4000000]
+ルーク
+!******************************!
+<T><A4/4>Um, Professor... Did you just make
+a promise to Flora?
+!******************************!
+[711703000d000000:00140000000204010000020d010000]
+レイトン
+!******************************!
+<T>Yes, I'm rather afraid I did... And
+unfortunately, this is one promise
+I may have to break.
+!******************************!
+[7117030010000000:001400000002bd000000026c010000]
+ルーク
+!******************************!
+<T><A1/3>Professor, that's terrible! You're
+always saying that a gentleman
+never breaks his word.
+!******************************!
+[7117030013000000:0014000000020401000002ce010000]
+レイトン
+!******************************!
+<T>Well, I didn't see you doing anything
+to dissuade the poor girl from
+coming with us, Luke.
+!******************************!
+[7117030016000000:00140000000204010000022c020000]
+レイトン
+!******************************!
+<T>Besides, you know our current case
+is fraught with danger. I don't
+want her to get hurt.
+!******************************!
+[7117030019000000:001400000002040100000288020000]
+レイトン
+!******************************!
+<T>We need to finish what we came here
+to do so that we can find the
+inspector. We'd best move quickly.
+!******************************!
+[711703001c000000:001400000002bd00000002f0020000]
+ルーク
+!******************************!
+<T><A1/1>I suppose you're right, Professor.<W>
+So, what are we looking for?
+!******************************!
+[711703001f000000:00140000000204010000023c030000]
+レイトン
+!******************************!
+<T>Somewhere in my office is a
+leather-bound notebook with a
+yellow note sticking out of it.
+!******************************!
+[7117030022000000:001400000002040100000299030000]
+レイトン
+!******************************!
+<T>Do you think you can help me find it?
+!******************************!
+[7117030025000000:001400000002bd00000002c2030000]
+ルーク
+!******************************!
+<T><A3/2>Aye aye, Professor. I'm on the case!
+!******************************!

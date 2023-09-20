@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000b00000000f203000000f2030000000100000000000000000000000000]
+n134
+!******************************!
+n134a
+!******************************!
+n134b
+!******************************!
+[eb0b01000a000000:0211000000]
+This wooden board is oddly shaped and
+difficult to work with.
+
+The best solution would be to cut it into
+two pieces that form a square when they
+are combined.
+
+However, the grain of the wood means
+that the two pieces can't be flipped or
+rotated after being cut.
+
+Draw lines where the board needs to be
+cut, then touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:025f010000]
+Sharp solution!
+
+A rather interesting rearrangement, eh?
+!******************************!
+[ed0b01000c000000:0298010000]
+Too bad!
+
+Focus on how you're going to fill that
+three-square gap.
+!******************************!
+[ee0b01000d000000:02db010000]
+You don't need to make any cuts on the
+left side of the board.
+!******************************!
+[ef0b01000e000000:021a020000]
+The gap is three squares long. In order
+to fill it, you need to find a place from
+which you can cut a piece of the same
+shape.
+
+Find a shape containing the protrusion
+on the right that you can cut out to fill
+this three-square gap.
+!******************************!
+[f00b01000f000000:0202030000]
+You actually need to make two separate
+cuts to get the correct piece: a short,
+one-square line and a longer, four-
+square line that turns twice.
+
+Once you've made the correct cuts,
+shift your piece one square up and
+two squares to the left and it will
+fit right in and make a square!
+!******************************!
+[f10b010010000000:021e040000]
+The top square of the L-shaped
+protrusion will be included in the piece
+that you cut out. Include the two
+squares to the left of it in the part
+you're cutting out as well. Now combine
+those three squares with the other two
+of the protruding L shape, and you will
+get a five-square piece!
+Finish cutting out this shape and you've
+got the answer!
+!******************************!

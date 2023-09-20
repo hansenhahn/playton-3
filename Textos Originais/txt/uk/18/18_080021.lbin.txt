@@ -1,0 +1,68 @@
+[7017010000000000:000a000000]
+[7117030001000000:000a00000002000000000211000000]
+クローンマフィア
+!******************************!
+<T><A4/1>Puzzles are the only way to pass
+the time on these snooze-worthy
+shifts.
+!******************************!
+[7117030004000000:000a00000002000000000263000000]
+クローンマフィア
+!******************************!
+<T>See if you can wrap your thinkin'
+gear around this head-scratcher I
+cooked up.
+!******************************!
+[7117030007000000:00e8030000020000000002b5000000]
+クローンマフィア
+!******************************!
+<T>Ha! I knew this puzzle would be too
+much for a little kid like you.
+!******************************!
+[711703000a000000:00d0070000020000000002fc000000]
+クローンマフィア
+!******************************!
+<T>Well well, look who's back for
+another stab at my puzzle.
+Good luck - you'll need it.
+!******************************!
+[711703000d000000:00b80b000002000000000255010000]
+クローンマフィア
+!******************************!
+<T>HUH? You solved it?<W> Oh great. Now
+how am I supposed to get through
+another borin' day on the job?
+!******************************!
+[7117030010000000:00b80b000002bd01000002c4010000]
+ルーク
+!******************************!
+<T>Boring?<W> Um, don't you work for a
+crime syndicate? If your job's
+boring, you're doing it wrong!
+!******************************!
+[7117030013000000:00b80b000002000000000229020000]
+クローンマフィア
+!******************************!
+<T><A4/1>Huh? I must be hearin' things.
+I could've sworn you just told
+me how to do my job...
+!******************************!
+[7117030016000000:00b80b000002bd0100000287020000]
+ルーク
+!******************************!
+<T><A1/6>Eek!<W> Oh no no no! I didn't mean
+anything by it. Just ignore me.
+!******************************!
+[7117030019000000:00a00f0000020000000002d3020000]
+クローンマフィア
+!******************************!
+<T><A1/1>I'm tryin' to think up a new
+puzzle, but the well is dry.
+!******************************!
+[711703001c000000:00a00f000002000000000216030000]
+クローンマフィア
+!******************************!
+<T><A2/1>Nghh! How long do I have to wait for
+inspiration to strike? There ain't
+nothing worse than puzzler's block!
+!******************************!

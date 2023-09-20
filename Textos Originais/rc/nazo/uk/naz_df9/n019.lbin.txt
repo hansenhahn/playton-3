@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n019
+!******************************!
+n019a
+!******************************!
+n019b
+!******************************!
+[eb0b01000a000000:0211000000]
+You've been given two keys to the
+Laytonmobile, but there's no keyhole in
+which to insert them. Instead, the door
+can be opened by entering a certain
+number.
+
+This number is hidden somewhere in the
+keys. What is it?
+!******************************!
+[ec0b01000b000000:02e9000000]
+That's right!
+
+The hidden number is 47. You can see this
+number when you put the ends of the keys
+together!
+!******************************!
+[ed0b01000c000000:0255010000]
+Too bad!
+
+Did you try moving the keys around?
+You can rotate them as well.
+
+Give it another try!
+!******************************!
+[ee0b01000d000000:02b6010000]
+The number is hidden somewhere in the
+two keys.
+
+You won't find it by just looking at
+them, though. Try moving them around!
+!******************************!
+[ef0b01000e000000:0232020000]
+You won't find the number using just
+one of the keys. Move both keys around
+a bit and give it some thought.
+!******************************!
+[f00b01000f000000:029e020000]
+Aligning the keys just right will make
+the secret number appear.
+!******************************!
+[f10b010010000000:02df020000]
+Keep the blue key on top and rotate
+the yellow key 180 degrees. Align the
+teeth of the keys and...
+!******************************!

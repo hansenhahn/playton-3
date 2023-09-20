@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000001a040000001a040000000100000000000000000000000000]
+n125
+!******************************!
+n125a
+!******************************!
+n125b
+!******************************!
+[eb0b01000a000000:0211000000]
+Four frogs are sitting on logs.
+Get them hopping around so that each
+frog is on a log with a ribbon that
+matches its own colour.
+Here are three rules you'll need to follow:
+
+1. Frogs can hop to any empty, adjacent
+log.
+2. Frogs can leap over an adjacent frog
+to reach an empty log.
+3. Frogs can't leap over two frogs at a
+time.
+
+Now get those frogs hopping!
+!******************************!
+[ec0b01000b000000:0277010000]
+Hip, hop, hooray!
+
+Were you able to do it in only eight moves?
+!******************************!
+[ed0b01000c000000:02b6010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:02cb010000]
+Keep those frogs hopping around and
+you'll work it out eventually.
+!******************************!
+[ef0b01000e000000:020e020000]
+It can be done in as few as eight moves.
+Give it a try!
+!******************************!
+[f00b01000f000000:0246020000]
+Here's a hint to solving this puzzle in
+as few moves as possible:
+
+Red, green, blue, red...
+!******************************!
+[f10b010010000000:02a2020000]
+Continuing from Hint 3:
+
+Yellow, green, blue...
+
+Now hop to it!
+!******************************!

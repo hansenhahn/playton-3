@@ -1,0 +1,45 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n170
+!******************************!
+n170a
+!******************************!
+n170b
+!******************************!
+[eb0b01000a000000:0211000000]
+Three times of day are listed below. Which
+one, A, B or C, forms the largest angle
+between the two hands when displayed on
+an analogue clock?
+!******************************!
+[ec0b01000b000000:029f000000]
+Well done!
+
+2:20 is correct.
+
+The outer angle formed by the clock hands
+is larger than the inner angle for all
+three of the times. As shown above, the
+outer angle is greatest at 2:20.
+!******************************!
+[ed0b01000c000000:0257010000]
+Too bad!
+
+This is a puzzle, after all, so the answer
+isn't quite as simple as it might seem at
+first glance.
+!******************************!
+[ee0b01000d000000:02c4010000]
+Keep in mind that each time actually
+forms two angles between the clock
+hands, one on the inside and one on
+the outside.
+!******************************!
+[ef0b01000e000000:023d020000]
+
+!******************************!
+[f00b01000f000000:023e020000]
+
+!******************************!
+[f10b010010000000:023f020000]
+
+!******************************!

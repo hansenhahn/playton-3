@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n153
+!******************************!
+n153a
+!******************************!
+n153b
+!******************************!
+[eb0b01000a000000:0211000000]
+The green frame and six orange blocks
+below are all composed of identical
+equilateral triangles.
+
+The frame can be completely filled using
+five of the six blocks. The blocks can
+be freely rotated and flipped to fit into
+the frame.
+
+Circle the one block that isn't used!
+!******************************!
+[ec0b01000b000000:021f010000]
+Excellent!
+
+Was it difficult to assemble in your head?
+There's actually a really easy way to
+solve this puzzle. Did you find it?
+
+The frame is composed of 22 identical
+equilateral triangles. The six blocks
+together are composed of 24 triangles,
+which is two too many. This means the
+unused block must be the one made from
+only two triangles!
+!******************************!
+[ed0b01000c000000:0275020000]
+Too bad!
+
+Have you tried counting all the triangles?
+!******************************!
+[ee0b01000d000000:02aa020000]
+Don't be confused by the complex
+shapes of the blocks. Try comparing
+the frame and the blocks from a
+different perspective.
+!******************************!
+[ef0b01000e000000:0226030000]
+Filling the frame with the five correct
+shapes can be pretty tricky, but
+there's a way to identify the surplus
+block without worrying about the shapes
+at all!
+!******************************!
+[f00b01000f000000:02c5030000]
+The frame and the blocks are all
+composed of identical equilateral
+triangles.
+
+If you compare the number of triangles
+in the frame to the number of triangles
+used to create all six blocks, then...
+!******************************!
+[f10b010010000000:028a040000]
+The frame is composed of 22 triangles.
+
+Together, the six blocks are composed
+of 24 triangles.
+
+So there are two too many triangles in
+the blocks. Which means...?
+!******************************!

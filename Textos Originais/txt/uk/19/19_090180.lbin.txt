@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Having reunited with Layton, our
+heroes begin their ascent of the
+Towering Pagoda.
+!******************************!
+[7117030004000000:001400000002000000000263000000]
+ナレーション
+!******************************!
+<T>Solving every puzzle in their way,
+the group steadily climb past each
+of the pagoda's floors.
+!******************************!
+[7117030007000000:0014000000020000000002c4000000]
+ナレーション
+!******************************!
+<T>Slowly, challenge by challenge, they
+approach the top floor, where the
+future Layton awaits.
+!******************************!

@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000007e040000007e040000000100000000000000000000000000]
+n078
+!******************************!
+n078a
+!******************************!
+n078b
+!******************************!
+[eb0b01000a000000:0211000000]
+Four shy couples are depicted below by
+red and blue symbols.
+
+They would all like to meet up with their
+respective partners for a date, without
+running into anybody else in town.
+
+Draw lines between couples A-a, B-b,
+C-c and D-d so that none of their paths
+meet.
+!******************************!
+[ec0b01000b000000:0218010000]
+You worked it out!
+
+Now all the couples can meet up for
+their dates in peace.
+!******************************!
+[ed0b01000c000000:0266010000]
+Too bad!
+
+The couples will never be able to meet
+at this rate...
+!******************************!
+[ee0b01000d000000:02a7010000]
+Think carefully about the detours the
+couples need to take to avoid crossing
+paths. They can't all simply take the
+shortest path to each other.
+!******************************!
+[ef0b01000e000000:0237020000]
+Couple D-d's path to each other has one
+turn in it.
+!******************************!
+[f00b01000f000000:026b020000]
+Couples B-b and C-c's paths to each
+other have four turns. Couple A-a's
+path has three turns.
+!******************************!
+[f10b010010000000:02c9020000]
+Couple D-d's path to each other goes
+along the right edge and the bottom
+edge. A walks straight down until just
+before d, then takes a left. B and C
+both start out by moving one block
+towards the left side of the map.
+Couple B-b's path wraps around beneath
+couple C-c's. Couple A-a's path is
+below B-b's. 
+
+With all that in mind, give it another
+shot!
+!******************************!

@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n162
+!******************************!
+n162a
+!******************************!
+n162b
+!******************************!
+[eb0b01000a000000:0211000000]
+Line up the top and bottom halves of the
+four types of fruit below by rotating and
+moving the tiles.
+
+The central tile cannot be moved.
+!******************************!
+[ec0b01000b000000:0299000000]
+Fruitabulous!
+
+Did it take you very long?
+!******************************!
+[ed0b01000c000000:02c3000000]
+Too bad!
+
+Something isn't lined up correctly.
+!******************************!
+[ee0b01000d000000:02f1000000]
+This puzzle looks fun, but it's actually
+really hard. It's even hard to give hints
+for!
+
+Don't get impatient if you can't work it
+out straight away. Just keep at it.
+!******************************!
+[ef0b01000e000000:0297010000]
+The tiles all look so similar that it's
+hard to work out where to start. First,
+try just matching up the fruit around
+the central tile.
+
+By the way, the tile that goes above the
+central tile doesn't have a banana on it.
+!******************************!
+[f00b01000f000000:0273020000]
+The tile that goes to the left of the
+central one doesn't have an orange on
+it.
+
+The tile that goes to the right of the
+central tile doesn't have a melon on it.
+!******************************!
+[f10b010010000000:0214030000]
+The tile that goes below the central one
+has all four types of fruit on it. The
+top, of course, is a banana. The left is
+the bottom half of a melon, the right is
+the top half of an orange and the
+bottom is an apple.
+!******************************!

@@ -1,0 +1,54 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Are you getting used to moving
+around and investigating the city
+of London?
+!******************************!
+[7117030004000000:000a0000000200000000025c000000]
+ナレーション
+!******************************!
+<T>Well, here's some advice to keep
+your investigation running smoothly.
+!******************************!
+[7117030007000000:000a000000020000000002a5000000]
+ナレーション
+!******************************!
+<T>Some puzzles will disappear from
+their original locations as the
+story progresses.
+!******************************!
+[711703000a000000:000a000000020000000002fb000000]
+ナレーション
+!******************************!
+<T>But there's no need to worry!
+!******************************!
+[711703000d000000:000a0000000200000000021c010000]
+ナレーション
+!******************************!
+<T>Most of your unsolved puzzles are
+sent off to a certain spot for
+you to solve at your leisure.
+!******************************!
+[7117030010000000:000a0000000200000000027e010000]
+ナレーション
+!******************************!
+<T>Visit there often to track down
+puzzles you missed, and try to
+complete every puzzle in the game.
+!******************************!
+[7117030013000000:000a000000020000000002e3010000]
+ナレーション
+!******************************!
+<T>Also, remember that some puzzles do
+not disappear from their original
+locations.
+!******************************!
+[7117030016000000:000a00000002000000000237020000]
+ナレーション
+!******************************!
+<T>These puzzles can be solved at any
+time by returning to the place
+where you first found them.
+!******************************!

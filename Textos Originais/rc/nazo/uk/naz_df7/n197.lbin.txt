@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n197
+!******************************!
+n197a
+!******************************!
+n197b
+!******************************!
+[eb0b01000a000000:0211000000]
+The local post office sells 10 different
+stamps, with values of 10p, 20p, 30p and
+so on, up to 100p ({po}1).
+
+Your task is to purchase the four stamps
+that, when used in any combination, can
+create every 10p increment from 10p up
+to the highest possible value.
+
+The examples show four potential
+combinations, but not the answer.
+
+Which four stamps should you buy?
+!******************************!
+[ec0b01000b000000:027d010000]
+First class!
+
+With the 10p, 20p, 40p and 80p stamps,
+you can create every 10p increment
+from 10p all the way up to 150p!
+
+The calculations show how to combine
+the stamps to get each increment.
+!******************************!
+[ed0b01000c000000:023e020000]
+Too bad!
+
+You thought you had it, didn't you?
+Clear your mind and try again.
+!******************************!
+[ee0b01000d000000:028b020000]
+The highest possible value you'll be able
+to create with the correct four stamps
+is 150p.
+
+That's using all four stamps, of course,
+so which four would that be?
+!******************************!
+[ef0b01000e000000:022c030000]
+
+!******************************!
+[f00b01000f000000:022d030000]
+
+!******************************!
+[f10b010010000000:022e030000]
+
+!******************************!

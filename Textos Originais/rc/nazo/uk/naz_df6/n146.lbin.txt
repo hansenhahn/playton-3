@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n146
+!******************************!
+n146a
+!******************************!
+n146b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Coo-ee! I'm trying to shoo the birds away
+from these wires. Every time I clap my
+hands, half of them fly away, but then one
+comes back! The pattern keeps repeating
+itself. Even if I stood here clapping my
+hands all day, the number of birds would
+always end up right back where it
+started!{''}
+
+How many birds were there on the wires
+originally?
+!******************************!
+[ec0b01000b000000:026e010000]
+Tweet tweet!
+
+Two birds is correct!
+
+Half of two is one, so one bird flies away
+and then comes right back. The number
+of birds always ends up being two.
+
+In this puzzle, using {''}half{''} to refer to
+one bird is potentially quite misleading.
+Be sure to choose your words carefully,
+even if you're explaining something simple.
+!******************************!
+[ed0b01000c000000:02b5020000]
+Too bad!
+
+Don't let the birds win!
+!******************************!
+[ee0b01000d000000:02d8020000]
+This puzzle is actually quite simple.
+!******************************!
+[ef0b01000e000000:02fe020000]
+The woman is explaining something simple
+in an overly complicated way...
+!******************************!
+[f00b01000f000000:0247030000]
+Half the birds fly away and one comes
+back. Then half the birds fly away
+again and one comes back again.
+Etc. etc. etc.
+
+The number of birds always ends up the
+same as it started. The answer is so
+simple, you don't even need to calculate
+anything.
+!******************************!
+[f10b010010000000:023f040000]
+The phrase {''}half of them fly away{''} is
+the tricky part. In this puzzle, {''}half{''}
+means just one bird!
+
+Get it now?
+!******************************!

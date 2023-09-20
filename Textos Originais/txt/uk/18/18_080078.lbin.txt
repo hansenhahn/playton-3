@@ -1,0 +1,85 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T><A1/1>Hello there. Nice to see you
+again.
+!******************************!
+[7117030004000000:000a0000000234000000023d000000]
+ミーチェ
+!******************************!
+<T><A2/3>Man dances like a fool in an effort
+to fulfil his heart's desires.
+!******************************!
+[7117030007000000:000a00000002340000000289000000]
+ミーチェ
+!******************************!
+<T>But only when the hootenanny is
+over does he regret his actions.
+Such is the plight of mankind.
+!******************************!
+[711703000a000000:000a000000020000000002ec000000]
+ルーク
+!******************************!
+<T><A4/4>Uh, I think I'm already in over my
+head. Maybe I should go...
+!******************************!
+[711703000d000000:000a00000002340000000233010000]
+ミーチェ
+!******************************!
+<T><A2/1>Hold it! The lesson here is a simple
+one. I speak of love. People do
+such strange things in its name.
+!******************************!
+[7117030010000000:00e8030000023400000002a2010000]
+ミーチェ
+!******************************!
+<T><A3/3>You are probably still too young
+to understand the emotion of which
+I speak.
+!******************************!
+[7117030013000000:00e8030000023400000002f8010000]
+ミーチェ
+!******************************!
+<T>Worry not. One day you too will be
+compelled to ponder the myriad
+facets of the feeling called love.
+!******************************!
+[7117030016000000:00e803000002340000000260020000]
+ミーチェ
+!******************************!
+<T>Perhaps then you will be ready to
+gaze into the heart of my puzzle
+and unravel its complexity.
+!******************************!
+[7117030019000000:00d0070000023400000002c2020000]
+ミーチェ
+!******************************!
+<T><A1/1>Back to ponder the mysteries
+of the human heart?
+!******************************!
+[711703001c000000:00b80b0000023400000002fc020000]
+ミーチェ
+!******************************!
+<T><A2/1>Love is a beautiful thing, but it can
+also be cruel. Never hurt the ones
+you care for, young one.
+!******************************!
+[711703001f000000:00b80b000002000000000267030000]
+ルーク
+!******************************!
+<T><A1/1>That, um, sounds like good advice
+to me.
+!******************************!
+[7117030022000000:00c20b0000029903000002a2030000]
+レイトン
+!******************************!
+<T><K><A4/1>...
+!******************************!
+[7117030025000000:00a00f0000023400000002b2030000]
+ミーチェ
+!******************************!
+One day you too will be compelled
+to ponder the myriad facets of the
+feeling called love.
+!******************************!

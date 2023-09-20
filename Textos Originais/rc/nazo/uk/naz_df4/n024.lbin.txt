@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000002e040000002f040000000100000000000000000000000000]
+n024
+!******************************!
+n024a
+!******************************!
+n024b
+!******************************!
+[eb0b01000a000000:0211000000]
+Build a coin gun from the parts of this
+disassembled slot machine and help
+our heroes fight back!
+
+Rotate the parts to fit them into the
+chequered shape below. You must use
+all the parts, and none of them can
+overlap. Now hurry!
+!******************************!
+[ec0b01000b000000:02f6000000]
+Jackpot!
+
+It's time to fight back!
+!******************************!
+[ed0b01000c000000:0219010000]
+Too bad!
+
+Try again, and be quick about it!
+!******************************!
+[ee0b01000d000000:0245010000]
+It's a complicated shape, but you can
+work it out if you look closely at the
+connections between the pieces.
+
+The part that fires the coins points
+to the left. Now get to it!
+!******************************!
+[ef0b01000e000000:02f4010000]
+The long tube-like piece is the barrel
+of the gun, and points to the left
+with the red part at its tip.
+
+The funnel-shaped part of the big red
+piece points upwards.
+!******************************!
+[f00b01000f000000:0299020000]
+The long lever-like piece fits along
+the right edge.
+
+The piece with the cog goes next to
+the barrel of the gun, with the cog
+pointing upwards.
+!******************************!
+[f10b010010000000:0229030000]
+If you've followed Hints 2 and 3
+correctly, the rest is easy.
+
+You should have already positioned the
+big red piece to the left of the lever,
+with the funnel-shaped part pointing
+upwards.
+The piece with the heart-shaped screw
+fits in the bottom-right, with the gold
+part facing up.
+
+Just one piece left now. Hurry!
+!******************************!

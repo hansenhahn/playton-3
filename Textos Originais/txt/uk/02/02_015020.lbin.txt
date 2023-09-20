@@ -1,0 +1,72 @@
+[7017010000000000:000b000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Professor, I'm starting to believe
+that we've really travelled to the
+future...
+!******************************!
+[7117030004000000:000a000000025a0000000263000000]
+レイトン
+!******************************!
+<T>Hmm... Let's focus on what we're
+sure of for now.
+!******************************!
+[7117030007000000:000a000000025a0000000298000000]
+レイトン
+!******************************!
+<T>The author of this letter is Luke
+Triton. In other words, Luke, the
+sender is you.
+!******************************!
+[711703000a000000:000a000000025a00000002ee000000]
+レイトン
+!******************************!
+<T>We've been following his directives
+all this time.
+!******************************!
+[711703000d000000:000a000000025a0000000224010000]
+レイトン
+!******************************!
+<T>Perhaps meeting him face-to-face
+will shed some light on our current
+situation.
+!******************************!
+[7117030010000000:000a000000025a0000000277010000]
+レイトン
+!******************************!
+<T>Let's head to the Gilded 7 Casino.
+!******************************!
+[7117030013000000:000a0000000200000000029d010000]
+ルーク
+!******************************!
+<T>All right, Professor.<W> It's a shame
+we can't drive there, though.
+!******************************!
+[7117030016000000:000a000000025a00000002e4010000]
+レイトン
+!******************************!
+<T>Unfortunate as that may be, it
+doesn't look as though my car will
+be going anywhere soon.
+!******************************!
+[7117030019000000:000a00000002000000000241020000]
+ルーク
+!******************************!
+<T><A2/2>Never mind. After all, the best
+way to do the legwork for an
+investigation is on foot.
+!******************************!
+[711703001c000000:000a000000025a00000002a1020000]
+レイトン
+!******************************!
+<T><A1/2>Ha ha! I couldn't agree with you
+more, my boy.
+!******************************!
+[711703001f000000:0014000000025a00000002d9020000]
+レイトン
+!******************************!
+<T>Repairing this car requires more
+skill than I possess, unfortunately.
+Let's proceed on foot.
+!******************************!

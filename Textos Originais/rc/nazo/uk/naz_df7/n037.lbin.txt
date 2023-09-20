@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000800000000f203000000f2030000000100000000010000000001000000]
+n037
+!******************************!
+n037a
+!******************************!
+n037b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here are some matchsticks that spell
+out {''}100M{''}.
+
+Move one of the matches to the bin to
+display a length that is 1/1000 of
+that size.
+!******************************!
+[ec0b01000b000000:029d000000]
+Terrific!
+
+{''}100M{''} (100 metres) becomes {''}10CM{''}
+(10 centimetres).
+!******************************!
+[ed0b01000c000000:02e9000000]
+Too bad!
+
+First things first: try calculating what
+1/1000 of the original value would be.
+!******************************!
+[ee0b01000d000000:0243010000]
+{''}100M{''}.
+
+We're talking about length, so {''}M{''}
+stands for {''}metres{''}.
+!******************************!
+[ef0b01000e000000:0296010000]
+Is it {''}00M{''}? Nope.
+
+The answer is exactly 1/1000 of the
+original value.
+!******************************!
+[f00b01000f000000:02e4010000]
+No matter how much you juggle the
+numbers around, you can't get 1/1000 of
+the original value.
+
+Why don't you try changing the unit
+of measurement?
+!******************************!
+[f10b010010000000:0277020000]
+1/1000 of 1 km is 1 m.
+
+1/1000 of 100 m is 0.1 m, which can also
+be written as 10 cm.
+
+!******************************!

@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n092
+!******************************!
+n092a
+!******************************!
+n092b
+!******************************!
+[eb0b01000a000000:0211000000]
+So, what's the key code?
+
+Apparently you can arrange these 10
+pieces to form the answer.
+
+Move and rotate the pieces to find the
+key code, then touch <CR>Input Answer</C> to
+enter it.
+!******************************!
+[ec0b01000b000000:02c9000000]
+That's right!
+
+The answer is 081127.
+It becomes clear when you put the
+pieces together in the right way.
+Now you know the key code!
+!******************************!
+[ed0b01000c000000:024d010000]
+Bad luck.
+
+Make sure you have the pieces correctly
+positioned and it will be obvious.
+!******************************!
+[ee0b01000d000000:02a3010000]
+Start by inserting the pieces that go
+on the ends and those that have a
+distinctive shape.
+!******************************!
+[ef0b01000e000000:02fe010000]
+Each piece can be inserted in various
+positions by being rotated different
+ways. However, there is only one pattern
+that will allow all the pieces to be
+inserted.
+
+Keep on trying!
+!******************************!
+[f00b01000f000000:02b2020000]
+The first digit in the key code is 0
+and the last digit is 7.
+
+There's a 1 in there as well.
+Have you worked it out yet?
+!******************************!
+[f10b010010000000:022b030000]
+There are two 1s in the code. Next
+to one of them, there is a 2.
+
+The hints have told you what five of
+the six digits are already.
+
+Go on, insert the key code!
+!******************************!

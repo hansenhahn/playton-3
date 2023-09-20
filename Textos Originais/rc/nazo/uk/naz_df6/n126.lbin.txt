@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000880400000088040000000100000000010000000000000000]
+n126
+!******************************!
+n126a
+!******************************!
+n126b
+!******************************!
+[eb0b01000a000000:0211000000]
+This empty plot is lined with wooden stakes
+that form a grid of squares. Your job is
+to stretch some ropes between the
+stakes so that a four-person family
+planning to build a house here can have
+four identically-shaped rooms, using up
+the whole plot of land.
+
+For a straight line across multiple stakes,
+be sure to use only one rope. You need to
+complete this puzzle using five ropes or
+fewer.
+!******************************!
+[ec0b01000b000000:029b010000]
+Nice job!
+
+There we are, all the same shape. Did it
+take you long to realise that the rooms
+didn't need to all be the same size?
+!******************************!
+[ed0b01000c000000:021c020000]
+Too bad!
+
+Even if the shapes were similar,
+maybe their angles were different,
+or maybe they were not in proportion?
+!******************************!
+[ee0b01000d000000:0290020000]
+The plot is shaped like a square with
+two of its corners cut off. Keep this
+in mind and think about what kind of
+shapes you can make four of.
+!******************************!
+[ef0b01000e000000:021e030000]
+You need four rooms of the same shape
+to solve this puzzle. They don't all
+have to be the same size, however!
+
+Did you perhaps make four trapeziums
+and wonder why you failed? Remember,
+to truly be considered the same
+shape, all the rooms need to be
+to scale.
+!******************************!
+[f00b01000f000000:0221040000]
+The solution involves two large rooms
+of the same size and two small rooms
+of the same size. The large rooms are
+perfectly proportional to the small
+ones.
+!******************************!
+[f10b010010000000:02bc040000]
+Picture a cut diamond, the type that
+you'd put in a ring, viewed from the
+side. The four rooms are all that shape.
+
+If that's still confusing, count two
+stakes left from the top-right corner
+and stretch a rope two stakes down
+from there. Then count two stakes down
+from the top-right corner and stretch
+a rope two stakes left from there. See
+the shape you made? That's it!
+!******************************!

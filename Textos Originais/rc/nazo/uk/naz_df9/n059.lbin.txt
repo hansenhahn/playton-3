@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n059
+!******************************!
+n059a
+!******************************!
+n059b
+!******************************!
+[eb0b01000a000000:0211000000]
+An uncommonly clever rabbit has imposed
+some rather strange rules upon its
+movement. It can jump 70 cm forwards, but
+after every jump forwards, it must jump
+30 cm in the direction of its tail.
+
+If this rabbit needed to travel 10 m in a
+straight line, what is the lowest number of
+jumps in which it could cover the distance?
+
+!******************************!
+[ec0b01000b000000:0256010000]
+That's right!
+
+The answer is 20 jumps.
+After every 70 cm jump forwards, the
+rabbit turns around 180 degrees and
+jumps a further 30 cm in the direction
+of its tail, thereby covering 1 m in two
+jumps.
+!******************************!
+[ed0b01000c000000:021d020000]
+Bad luck!
+
+The rabbit is certainly eccentric, but
+there is no doubt it is clever.
+!******************************!
+[ee0b01000d000000:026f020000]
+A quick calculation will tell you that
+if the rabbit jumps forwards 70 cm and
+then jumps 30 cm backwards in the
+direction of its tail, it will cover
+40 cm of ground every two jumps.
+Isn't there a way of making slightly
+faster progress?
+!******************************!
+[ef0b01000e000000:025b030000]
+By performing a certain action after
+jumping 70 cm forwards, the rabbit can
+allow itself to jump even further
+towards its goal.
+
+Think of a way to avoid wasting the
+30 cm jump in the direction of its tail.
+
+!******************************!
+[f00b01000f000000:022a040000]
+The key to this puzzle is rotation.
+
+By turning on the spot, the rabbit is
+able to jump even further towards its
+goal.
+!******************************!
+[f10b010010000000:02a1040000]
+After the first jump, the rabbit turns
+around 180 degrees and performs its
+second jump. When it lands, it turns
+around again and starts its next jump.
+Repeating this pattern is the most
+efficient way of moving towards its
+goal, even if it does make the poor
+rabbit dizzy...
+!******************************!

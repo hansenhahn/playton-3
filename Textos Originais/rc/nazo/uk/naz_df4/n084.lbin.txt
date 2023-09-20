@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n084
+!******************************!
+n084a
+!******************************!
+n084b
+!******************************!
+[eb0b01000a000000:0211000000]
+Drop this wooden crate on the thugs!
+
+All you have to do is cut the rope...
+but it's all tangled up.
+Line up the parts to straighten out
+the rope, ready for cutting!
+
+Use all the parts!
+!******************************!
+[ec0b01000b000000:02cb000000]
+That's right!
+
+It's time to cut the rope, even if you
+do feel a little sorry for the thugs.
+!******************************!
+[ed0b01000c000000:0227010000]
+Too bad.
+
+You won't be able to proceed until those
+thugs are out of the way.
+!******************************!
+[ee0b01000d000000:0274010000]
+A single horizontal piece of rope
+connects to the crate. You can get
+that right away.
+
+The part nearest Luke has two pulleys
+on it.
+
+!******************************!
+[ef0b01000e000000:02f9010000]
+The two parts at the very bottom both
+have one pulley each on them. If you
+think about the direction that the rope
+goes, you should be able to work out
+which parts go there straight away.
+!******************************!
+[f00b01000f000000:02b5020000]
+The top-right part has one pulley on
+it. The rope comes in from the left
+and goes back out to the left.
+
+The part to the left of that has one
+pulley on it, and the rope coming
+from the right goes out at the bottom.
+The only thing that's above the
+pulley is a horizontal rope.
+!******************************!
+[f10b010010000000:02c9030000]
+Here's the path the rope follows,
+part-by-part.
+Starting from the part nearest
+the crate, the rope goes right, down,
+right, left, up, right, right, left,
+down, right, down, down, up.
+This brings us to the part that is three
+down from the top-right corner.
+The rope continues left, down, left,
+up, down, down, right, up and right,
+arriving at the part nearest Luke.
+Got it?
+!******************************!

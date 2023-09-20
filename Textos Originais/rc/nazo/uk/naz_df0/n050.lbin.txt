@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n050
+!******************************!
+n050a
+!******************************!
+n050b
+!******************************!
+[eb0b01000a000000:0211000000]
+At an antique shop, a rich man is looking
+at flower vases that have portraits
+painted on them.
+
+{''}Wow, the profile, the big belly - it looks
+just like me! I'll take this one!{''}
+
+The vases only have faces painted on
+them, though...
+
+Which vase did the man choose?
+!******************************!
+[ec0b01000b000000:021c010000]
+That's right! 
+
+It was vase A.
+Turn it upside down and look at the
+contours. They fit the man's profile
+perfectly!
+!******************************!
+[ed0b01000c000000:028f010000]
+Too bad.
+
+Compare the vases with the man and think
+again about the puzzle.
+!******************************!
+[ee0b01000d000000:02da010000]
+The man's looking at more than just the
+faces painted on the vases. 
+
+Take a step back and look again.
+
+!******************************!
+[ef0b01000e000000:0242020000]
+Don't just keep staring at the vases,
+try flipping them over in your mind. That
+might make the correct one stand out.
+!******************************!
+[f00b01000f000000:02b8020000]
+There's one vase that has contours
+which match the man's profile exactly...
+!******************************!
+[f10b010010000000:0204030000]
+You're not looking at just the vases
+that are a little plump like the man,
+are you?
+
+Don't just look at the vases' contours.
+Think about what would fit into them.
+
+See, the silhouette matches perfectly.
+!******************************!

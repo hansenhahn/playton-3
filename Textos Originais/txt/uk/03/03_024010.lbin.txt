@@ -1,0 +1,81 @@
+[7017010000000000:000c000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>So where are we headed to now
+then, um,<W> Mr Triton?
+!******************************!
+[7117030004000000:000a0000000240000000024b000000]
+未来ルーク
+!******************************!
+<T><A2/5>Luke, please call me anything but
+Mr Triton. It's really strange
+being called that by myself.
+!******************************!
+[7117030007000000:000a000000020000000002b2000000]
+ルーク
+!******************************!
+<T>It's pretty awkward for me too,
+but what else am I supposed to call
+you?
+!******************************!
+[711703000a000000:000a00000002fe0000000207010000]
+レイトン
+!******************************!
+<T><A1/2>I don't see why you can't both be
+called Luke.
+!******************************!
+[711703000d000000:000a00000002fe000000023f010000]
+レイトン
+!******************************!
+<T>Should the need to distinguish
+between you arise, you can be {''}Big
+Luke{''}, and you can be {''}Little Luke{''}.
+!******************************!
+[7117030010000000:000a000000020000000002b5010000]
+ルーク
+!******************************!
+<T>I'm not too keen on {''}Little Luke{''},
+but it's better than all this
+confusion.
+!******************************!
+[7117030013000000:000a0000000240000000020a020000]
+未来ルーク
+!******************************!
+<T><A2/2>You're the boss, Professor.<W>
+It's a pleasure to make your
+acquaintance, Little Luke!
+!******************************!
+[7117030016000000:000a0000000200000000026a020000]
+ルーク
+!******************************!
+<T><A3/2>Oh no, the pleasure is all mine,
+Big Luke!
+!******************************!
+[7117030019000000:000a0000000240000000029e020000]
+未来ルーク
+!******************************!
+<T><A1/1>Heh heh. Now, where were we?<W>
+Ah yes. There was something I
+needed to check up on.
+!******************************!
+[711703001c000000:000a000000024000000002fc020000]
+未来ルーク
+!******************************!
+<T>Professor, did you pass a
+restaurant in the shopping
+arcade on the way to the casino?
+!******************************!
+[711703001f000000:000a00000002fe0000000255030000]
+レイトン
+!******************************!
+<T>The one near the arcade's southern
+exit?
+!******************************!
+[7117030022000000:000a00000002400000000281030000]
+未来ルーク
+!******************************!
+<T>That's the one. We'll head there
+first. A friend of mine is waiting
+for us.
+!******************************!

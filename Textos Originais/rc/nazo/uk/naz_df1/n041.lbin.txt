@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n041
+!******************************!
+n041a
+!******************************!
+n041b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here are three sheets of transparent
+plastic with different patterns painted
+on them. If you layer them correctly,
+a chessboard pattern appears.
+
+The order in which you layer them is
+important, and you can't flip or rotate
+the sheets.
+
+Which sheet, A, B or C, goes on the very
+bottom? Touch a letter to give your
+answer.
+!******************************!
+[ec0b01000b000000:0252010000]
+Nicely done!
+
+B goes on the very bottom, and the other
+sheets are laid on top in the order
+pictured above.
+!******************************!
+[ed0b01000c000000:02bd010000]
+Too bad!
+
+Think carefully about how the sheets
+should be layered.
+!******************************!
+[ee0b01000d000000:02ff010000]
+You're not trying to build the entire
+chessboard in your head at once, are
+you? That will only confuse you.
+
+Try focusing on just one part of the
+board initially.
+!******************************!
+[ef0b01000e000000:02a2020000]
+The layered sheets must make a
+chessboard pattern. In some areas,
+the pattern won't appear until you
+have layered all three sheets, though.
+ 
+Keep this in mind and try to work out
+which sheet could go on top of the pile.
+!******************************!
+[f00b01000f000000:027f030000]
+A sheet that contains adjacent squares
+of the same colour can't go on top.
+!******************************!
+[f10b010010000000:02ca030000]
+Sheets A and B contain adjacent
+squares of the same colour. If you
+put either of these sheets on top,
+you won't have a chessboard pattern.
+In other words, you know that C goes
+on top.
+
+Now that you know this, think about
+which colours need to fit into the blank
+squares of sheet C.
+!******************************!

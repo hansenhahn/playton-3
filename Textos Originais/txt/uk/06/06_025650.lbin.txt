@@ -1,0 +1,41 @@
+[7017010000000000:0006000000]
+[7117030001000000:000a00000002000000000209000000]
+ジャック
+!******************************!
+<T>Seems you've got your time-
+travelling legs, Professor. You
+don't look shaken at all.
+!******************************!
+[7117030004000000:000a0000000262000000026b000000]
+レイトン
+!******************************!
+<T>I suppose I'm getting used to it,
+though I wouldn't say I find the
+process pleasurable.
+!******************************!
+[7117030007000000:000a000000020000000002c6000000]
+ジャック
+!******************************!
+<T>Yes, squeezing yourself through a
+vortex in time and coming out the
+other side can be draining.
+!******************************!
+[711703000a000000:000a00000002000000000229010000]
+ジャック
+!******************************!
+<T>You probably want to get going, but
+do <CR>come to me if you ever need to
+return to your time</C>.
+!******************************!
+[711703000d000000:000a0000000200000000028f010000]
+ジャック
+!******************************!
+<T>You're a good man. We'd be glad to
+help you out any time.
+!******************************!
+[7117030010000000:000a000000026200000002cc010000]
+レイトン
+!******************************!
+<T><A1/2>Thank you, Cogg. We'll be back if we
+need anything.
+!******************************!

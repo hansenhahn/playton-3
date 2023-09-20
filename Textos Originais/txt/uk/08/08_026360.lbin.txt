@@ -1,0 +1,61 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T>Salutations and whatnot. What
+brings upstandin' citizens like
+yerselves back through here?
+!******************************!
+[7117030004000000:000a0000000267000000026e000000]
+ルーク
+!******************************!
+<T>We're tracking down the boss of
+the Family. We got a hot tip that
+he's down by the river!
+!******************************!
+[7117030007000000:000a000000020000000002cb000000]
+セガール
+!******************************!
+<T><A2/1>Whoa now! Slow down!
+!******************************!
+[711703000a000000:000a000000020000000002e9000000]
+セガール
+!******************************!
+<T>Keep sniffin' around for trouble
+like that and something's bound to
+start stinkin'. Take it from me.
+!******************************!
+[711703000d000000:00140000000251010000025a010000]
+レイトン
+!******************************!
+<T>You certainly appear to be an
+authority on such subjects.
+!******************************!
+[7117030010000000:001400000002000000000297010000]
+セガール
+!******************************!
+<T>Don't you know it. And I can see
+that you two aren't going to heed
+my warning, either.
+!******************************!
+[7117030013000000:0014000000020000000002f1010000]
+セガール
+!******************************!
+<T><A2/2>If yer dead set on goin' to the
+riverside, ye should drop by the
+restaurant down there.
+!******************************!
+[7117030016000000:001400000002000000000252020000]
+セガール
+!******************************!
+<T>Their grub is top-notch. If yer
+going to look for trouble, you might
+as well do it on a full stomach.
+!******************************!
+[7117030019000000:001e000000020000000002bb020000]
+セガール
+!******************************!
+<T><A2/2>There's a gem of a restaurant by
+the riverside that ye should try.
+The grub's out of this world.
+!******************************!

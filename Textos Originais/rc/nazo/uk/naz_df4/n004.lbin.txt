@@ -1,0 +1,79 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000300000000f203000000f2030000000100000000000000000000000000]
+n004
+!******************************!
+n004a
+!******************************!
+n004b
+!******************************!
+[eb0b01000a000000:0211000000]
+Two men are moving boxes from the ground
+floor to the top floor. The larger man can
+carry two boxes at a time, and takes one
+minute to get to the top floor. The smaller
+man can only carry one box at a time, but
+takes just 30 seconds to reach the top
+floor. Both men take the same amount of
+time to return to the ground floor as
+they do to reach the top floor. The boxes
+are too bulky to pass from one man to the
+other on the way up.
+If there were seven boxes in total, how
+many minutes would it take the men to get
+all the boxes to the top floor?
+!******************************!
+[ec0b01000b000000:0234020000]
+Correct!
+
+It would take three minutes to get all
+the boxes to the top floor. This puzzle
+gets a lot easier if you make some notes.
+!******************************!
+[ed0b01000c000000:02b7020000]
+Too bad!
+
+Rather than just trying to work the
+puzzle out in your head, use the
+Memo Function to make some notes.
+!******************************!
+[ee0b01000d000000:0228030000]
+You can find the answer by doing a lot
+of calculations, but it's much easier to
+visualise if you use the Memo Function.
+
+How many boxes have been moved after
+one minute? And where are the two men
+at that point?
+!******************************!
+[ef0b01000e000000:02fb030000]
+After one minute, the larger man has
+carried two boxes up and the smaller
+man has carried one. The larger man is
+still upstairs though, while the little
+chap has made it back down to the
+ground floor. 
+
+If this is the case, what's their
+progress after two minutes?
+!******************************!
+[f00b01000f000000:0204050000]
+After two minutes, the larger fellow has
+made it down to the ground floor again
+and is ready to carry up some more
+boxes. His friend has brought another
+box upstairs, so there are a total of
+four boxes on the top floor.
+
+This means that there are just three
+boxes left to move.
+!******************************!
+[f10b010010000000:021a060000]
+From the previous hints you know that
+after two minutes, four boxes have been
+brought upstairs, and both men are back
+down on the ground floor. 
+
+If it takes 30 seconds for the smaller
+man to get upstairs with one box, and
+the larger fellow can make it upstairs
+with two boxes in a minute...
+!******************************!

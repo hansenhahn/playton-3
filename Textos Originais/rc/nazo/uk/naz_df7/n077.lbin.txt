@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n077
+!******************************!
+n077a
+!******************************!
+n077b
+!******************************!
+[eb0b01000a000000:0211000000]
+Three young lads are admiring a
+toy car that's on sale for {po}12.
+Jeff: {''}If we pooled all our pocket
+money, Pete and I could buy this car
+together in two weeks!{''}
+Sam: {''}Well, Pete and I could buy it
+in three weeks...{''}
+Pete: {''}Not bad, because it would take
+the two of you six weeks to save up
+enough together.{''}
+
+All pocket money is received weekly.
+How much pocket money does Sam get,
+in pounds?
+!******************************!
+[ec0b01000b000000:02ae010000]
+Yes! You're quids in!
+
+{po}0 is correct. Sam doesn't get any pocket
+money. For the record, Jeff gets {po}2 a
+week and Pete gets {po}4.
+!******************************!
+[ed0b01000c000000:0235020000]
+Too bad!
+
+At least your answer made Sam laugh!
+!******************************!
+[ee0b01000d000000:0264020000]
+Don't overthink it. Try plugging
+in some different variables and
+see what you come up with.
+!******************************!
+[ef0b01000e000000:02c0020000]
+Jeff gets {po}2 a week pocket money.
+!******************************!
+[f00b01000f000000:02e5020000]
+Pete gets {po}4 a week pocket money.
+!******************************!
+[f10b010010000000:020a030000]
+Jeff gets {po}2 a week and Pete gets
+{po}4 a week. Together, that's {po}6 a week.
+They'll have enough for the toy car
+in two weeks. How much was that car
+again? And if it will take Sam and
+Jeff six weeks, hmm...
+!******************************!

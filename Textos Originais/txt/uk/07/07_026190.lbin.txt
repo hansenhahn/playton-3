@@ -1,0 +1,83 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000207000000]
+ポルテ
+!******************************!
+<T>Welcome to Pepper's Noodle Palace!
+!******************************!
+[7117030004000000:000a0000000200000000022d000000]
+ポルテ
+!******************************!
+<T>What will it be, gents?
+!******************************!
+[7117030007000000:000a00000002480000000251000000]
+レイトン
+!******************************!
+<T>We're not here to eat, I'm afraid.
+!******************************!
+[711703000a000000:000a00000002480000000277000000]
+レイトン
+!******************************!
+<T>We just want to ask you a few
+questions about the fellow who
+runs the Towering Pagoda.
+!******************************!
+[711703000d000000:000a000000020000000002d1000000]
+ポルテ
+!******************************!
+<T><A1/3>You mean I really can't interest
+you in a bite to eat? Well...<W> All
+right. Now, what were you saying?
+!******************************!
+[7117030010000000:000a00000002480000000242010000]
+レイトン
+!******************************!
+<T>We'd like to meet the man who runs
+the Towering Pagoda, but he seems
+to be out at the moment.
+!******************************!
+[7117030013000000:000a000000024800000002a3010000]
+レイトン
+!******************************!
+<T>Has he come by your restaurant, by
+any chance?
+!******************************!
+[7117030016000000:000a000000020000000002d5010000]
+ポルテ
+!******************************!
+<T><A1/4>I don't think so. I mean, I don't
+even know what he looks like.
+!******************************!
+[7117030019000000:000a0000000200000000021e020000]
+ポルテ
+!******************************!
+<T>But his lackeys come by here to
+slack off on a daily basis. Terrible
+table manners they've got, too.
+!******************************!
+[711703001c000000:000a00000002000000000286020000]
+ポルテ
+!******************************!
+<T><A3/1>Come to think of it, that probably
+means the man you're looking for
+never comes in here.
+!******************************!
+[711703001f000000:000a000000020000000002e8020000]
+ポルテ
+!******************************!
+<T>I mean, would you go skiving off in
+a place where the boss could burst
+in at any moment?
+!******************************!
+[7117030022000000:000a00000002480000000244030000]
+レイトン
+!******************************!
+<T><A1/2>You make a good point. That's very
+astute of you.
+!******************************!
+[7117030025000000:000a0000000200000000027f030000]
+ポルテ
+!******************************!
+<T><A2/1>Flattery's nice, but if you really
+want to say thanks, order some
+food next time you come in, okay?
+!******************************!

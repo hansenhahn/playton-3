@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000900000000f203000000f2030000000100000000000000000000000000]
+n115
+!******************************!
+n115a
+!******************************!
+n115b
+!******************************!
+[eb0b01000a000000:0211000000]
+You've been hired to adorn a wall with
+decorative coloured tiles. There are
+three each of the red, yellow, green
+and orange tiles, and four blue ones.
+The first tile of each colour has already
+been placed for you. All you need to do
+is decide where to put the rest.
+
+Oh, and one more thing: no two tiles of
+the same colour can be in the same
+horizontal, vertical or diagonal line
+as each other.
+
+Nothing to it, right? Good luck!
+!******************************!
+[ec0b01000b000000:02be010000]
+Well tile be!
+
+That's the only pattern that will work.
+!******************************!
+[ed0b01000c000000:02f5010000]
+Too bad!
+
+Are you sure that you followed the rule?
+!******************************!
+[ee0b01000d000000:0228020000]
+There's only one layout that will work,
+and it does have a certain pattern to
+it.
+!******************************!
+[ef0b01000e000000:027a020000]
+The top-right tile is green.
+
+The one to the left of it is orange.
+!******************************!
+[f00b01000f000000:02bd020000]
+The bottom-left tile is red.
+
+The one above it is blue.
+!******************************!
+[f10b010010000000:02f5020000]
+One of the remaining blue tiles goes in
+the second square from the left on the
+top row. The other one goes in the third
+square from the left on the bottom row.
+
+With all the blue tiles out of the way,
+the rest shouldn't be too difficult.
+!******************************!

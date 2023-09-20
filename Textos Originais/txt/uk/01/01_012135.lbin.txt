@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Don't you want to take a peek at
+the restaurant Becky recommended,
+Professor?
+!******************************!
+[7117030004000000:000a00000002580000000261000000]
+レイトン
+!******************************!
+<T>Ah yes. It completely slipped my
+mind. Let's drop in for a bite
+before we head to the station.
+!******************************!

@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n203
+!******************************!
+n203a
+!******************************!
+n203b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}I went skiing last weekend and saw such a
+delicate beauty, I simply had to get my
+sketchbook out{''}, said one artist to his
+friend. {''}Look! Exquisite, don't you think?{''}
+
+The friend pointed to the drawing and
+replied: {''}Er... Well, I'd hardly describe that
+nose as delicate, but...nice drawing, 
+anyway.{''}
+
+What is the friend talking about? Circle
+the spot on the sketch and touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:02ab010000]
+You hit it on the nose!
+
+Depending on how you look at it, the
+sketch can resemble either a young
+woman or a portly middle-aged man!
+
+What the friend thought was a giant
+nose is actually the woman's hair.
+!******************************!
+[ed0b01000c000000:0277020000]
+Too bad!
+
+The friend is looking at the drawing in
+a different way from the artist.
+
+Shift your perspective and see if you can
+work out what he's talking about.
+!******************************!
+[ee0b01000d000000:0217030000]
+If the sketch was in colour, there
+would be no mistaking the woman.
+
+Look for a slightly pudgy chap with a
+moustache in the sketch. Then look for
+his nose...
+!******************************!
+[ef0b01000e000000:02b5030000]
+
+!******************************!
+[f00b01000f000000:02b6030000]
+
+!******************************!
+[f10b010010000000:02b7030000]
+
+!******************************!

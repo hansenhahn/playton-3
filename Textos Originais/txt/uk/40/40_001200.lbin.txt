@@ -1,0 +1,1395 @@
+[7017010000000000:005f000000]
+[7117030001000000:000100000002000000000211000000]
+Professor Layton
+!******************************!
+Though his main passions
+are solving puzzles and
+enjoying a nice cup of
+tea, Hershel Layton is
+also a highly regarded
+archaeology professor.
+His most prized
+possession is the top
+hat that was given to
+him by his sweetheart,
+Claire.
+!******************************!
+[7117030004000000:000200000002f900000002fe000000]
+Luke
+!******************************!
+The professor's self-
+proclaimed apprentice,
+Luke is a very bright
+boy with puzzle-solving
+skills that rival an
+adult's. His ability to
+talk to animals has been
+the saviour of more
+than one investigation
+and his appetite is
+legendary.
+!******************************!
+[7117030007000000:000300000002e901000002ef010000]
+Flora
+!******************************!
+Layton's prot{'e}g{'e}e and
+devoted follower, Flora
+refuses to be left
+behind on the professor
+and Luke's expeditions.
+Her cooking has been
+known to turn stomachs,
+but it seems to have
+improved a bit recently.
+!******************************!
+[711703000a000000:000400000002c102000002cb020000]
+Don Paolo
+!******************************!
+A brilliant scientist who
+believes himself to be
+Layton's arch-nemesis.
+Don Paolo's appearance
+changed forever when
+he found out that the
+girl he loved, Claire, was
+seeing Hershel Layton.
+His skill as an inventor
+is matched only by his
+mastery of disguise.
+!******************************!
+[711703000d000000:000500000002cc03000002de030000]
+Inspector Chelmey
+!******************************!
+The mere mention of
+Inspector Chelmey has
+the London underworld
+quaking in its boots.
+His strong sense of
+justice means he will do
+whatever it takes to
+put criminals behind
+bars, but at home with
+his wife he is the model
+of a loving husband.
+!******************************!
+[7117030010000000:000600000002d004000002d7040000]
+Barton
+!******************************!
+A placid bon vivant,
+Constable Barton is
+the perfect foil for
+Inspector Chelmey.
+His love of the chase is
+dampened only by his
+recurring hunger pangs,
+which he satisfies by
+frequent visits to the
+canteen for a snack.
+!******************************!
+[7117030013000000:000700000002b005000002bc050000]
+Future Luke
+!******************************!
+An older version of
+Luke from 10 years in
+the future. Future Luke
+requests Layton's help
+in eradicating the evil
+rampant in his London.
+Though more grown-up
+than Luke, he retains a
+genuine love of puzzles.
+He is later revealed to
+be Clive in disguise.
+!******************************!
+[7117030016000000:000800000002b806000002c0060000]
+Celeste
+!******************************!
+A young woman who
+claims to be Claire's
+sister, Celeste has
+taken it upon herself
+to solve the mystery
+of her sister's death,
+scouring the future
+London in search of
+clues. It is finally
+revealed that she is
+in fact Claire herself.
+!******************************!
+[7117030019000000:000900000002a807000002b6070000]
+Dimitri Allen
+!******************************!
+A researcher in the
+field of time travel,
+Dimitri's love for Claire
+was all-consuming,
+driving him to abduct
+scientists in order to
+develop a time machine.
+His genius is undisputed
+but, blinded by a desire
+for revenge, he became
+a pawn in Clive's plans.
+!******************************!
+[711703001c000000:000a00000002b408000002bf080000]
+Bill Hawks
+!******************************!
+The prime minister of
+the United Kingdom, Bill
+once worked with Dimitri
+on the development of a
+time machine, but
+betrayed his colleague,
+allowing him to rise
+to his current position.
+Even after being
+abducted by Dimitri, Bill
+remains unremorseful.
+!******************************!
+[711703001f000000:000b00000002b809000002bf090000]
+Spring
+!******************************!
+When she's not working
+in the clock shop,
+Spring is a shameless
+celebrity follower who
+knows all about
+everyone who's anyone.
+She's a dab hand at
+embroidery, but is often
+rudely interrupted by
+Cogg turning the lights
+off for his own work.
+!******************************!
+[7117030022000000:000c00000002ae0a000002b30a0000]
+Cogg
+!******************************!
+Cogg the clock shop
+owner was once a
+lackey at the Dove
+household. Clive's
+plan led him to develop
+a genuine passion for
+clocks, to the extent
+that all the clocks in
+the shop are Cogg's
+handiwork - except the
+giant one, of course.
+!******************************!
+[7117030025000000:000d000000029a0b000002aa0b0000]
+Future Schrader
+!******************************!
+An impersonation of
+Dr Schrader by Don
+Paolo, his former
+student. The likeness
+was perfect, but the
+Don was unable to
+resist taking a sly dig
+at his great rival and
+Dr Schrader's favourite
+student, Hershel Layton.
+
+!******************************!
+[7117030028000000:000e00000002810c000002900c0000]
+Future Delmona
+!******************************!
+A fake future Dean
+Delmona staying at
+the hotel, he is really
+Don Paolo in disguise.
+He gave himself white
+hair to indicate that
+Delmona had aged 10
+years, but this subtle
+touch was what gave him
+away.
+!******************************!
+[711703002b000000:000f000000025a0d000002620d0000]
+Shipley
+!******************************!
+Shipley is the postman
+who delivered the letter
+from the future to
+Layton. He was once
+quite slender but his
+love of the fine cuisine
+at the restaurant has
+left him somewhat the
+plumper. He started out
+as a gardener at the
+Dove household.
+!******************************!
+[711703002e000000:001000000002510e000002620e0000]
+Granny Riddleton
+!******************************!
+Puzzle savante Granny
+Riddleton used to store
+puzzles that Luke and
+Layton missed on their
+adventures, but she has
+passed on these duties
+to her granddaughter
+Puzzlette and gone off
+on holiday. The elusive
+lady now pops up in the
+most unexpected places.
+!******************************!
+[7117030031000000:001100000002600f0000026a0f0000]
+Puzzlette
+!******************************!
+Puzzlette is Granny
+Riddleton's
+granddaughter and
+her successor as the
+guardian of missed
+puzzles. She is an
+innocent girl with a kind
+of na{:i}ve ruthlessness.
+She sounds a bit dozy,
+but there could be more
+than meets the eye...
+!******************************!
+[7117030034000000:001200000002501000000257100000]
+Beasly
+!******************************!
+A bee with a taste for
+sweet puzzle nectar,
+there is likely a long
+story behind his taking
+the role of puzzle
+guardian, but due to
+Puzzlette's dislike of
+insects, the tale is lost
+forever. Beasly is a
+talkative chap with a
+spirit of chivalry.
+!******************************!
+[7117030037000000:0013000000024a1100000251110000]
+Parrot
+!******************************!
+This clever parrot has
+a knack for learning
+words and using them
+at just the right time.
+From humble beginnings
+in Dimitri's test labs, he
+became adept not only
+at talking and imitating
+voices, but also at
+delivering items across
+treacherous terrain.
+!******************************!
+[711703003a000000:0014000000024c1200000256120000]
+Subject 3
+!******************************!
+A rabbit with attitude,
+Subject 3 developed a
+profound mistrust of
+humans after being
+subjected to
+experiments by Dimitri's
+team. Once an ordinary
+wild rabbit, he has
+acquired the ability to
+walk on two legs.
+!******************************!
+[711703003d000000:00150000000227130000022e130000]
+Bostro
+!******************************!
+As Dimitri's head
+henchman, Bostro has
+never doubted that his
+boss is the true head
+of the Family and is
+loyal to a fault. This
+blind devotion has made
+him a useful tool for
+Clive, but he remains
+blissfully ignorant.
+!******************************!
+[7117030040000000:001600000002071400000213140000]
+Family Thug
+!******************************!
+These ubiquitous gang
+thugs like to hang
+around street corners.
+Though they all look the
+same to outsiders, each
+one apparently has a
+distinct personality.
+Their manners are
+atrocious, but they
+have shown a certain
+fondness for puzzles.
+!******************************!
+[7117030043000000:001700000002001500000208150000]
+Lockjaw
+!******************************!
+Posing as Bostro's
+underling, in truth
+Lockjaw answers only
+to Clive. However,
+his unfortunate habit
+of letting important
+information slip makes
+him something of a
+liability for his boss.
+!******************************!
+[7117030046000000:001800000002c415000002ce150000]
+Splinters
+!******************************!
+Splinters is a brutish,
+bloodthirsty man who
+works for Bostro.
+Surprisingly, his hobby
+is collecting old clocks,
+and he often makes
+secret visits to the
+clock shop. Though still
+only a young man of 28,
+he's already concerned
+by his receding hairline.
+!******************************!
+[7117030049000000:001900000002c916000002d1160000]
+Marzano
+!******************************!
+Marzano is a mid-ranking
+gang member who is
+wrapped up in his own
+little world, convinced
+that he has psychic
+powers and the ability
+to predict the future.
+Though he frequently
+laments his tragic life,
+he doesn't actually
+consider it all that bad.
+!******************************!
+[711703004c000000:001a00000002c917000002d0170000]
+Layman
+!******************************!
+Layman is a gangster
+with romantic ideals.
+Though not very tall,
+his unmatched dexterity
+makes him a promising
+recruit. He works for
+Bostro but, being
+literally below his
+boss's notice, he leads
+an unrewarding life
+in the back streets.
+!******************************!
+[711703004f000000:001b00000002bc18000002c4180000]
+Fisheye
+!******************************!
+Fisheye is a gangster
+who answers directly
+to Clive. He is a
+heartless and
+cold-blooded man,
+but scrupulously
+obedient to his boss.
+He boasts considerable
+skill with knives, not
+least when it comes to
+juggling them.
+!******************************!
+[7117030052000000:001c000000029c19000002a2190000]
+Silky
+!******************************!
+Silky is a gangster
+known for his unique
+laugh and unusual
+hairiness. He hates
+violence and would never
+harm civilians, but his
+bushy hair alone causes
+many to fear him.
+He takes pride in his
+beard and is never
+without his trimmer.
+!******************************!
+[7117030055000000:001d000000028a1a000002921a0000]
+Chelton
+!******************************!
+Chelton is a rough
+gangster who works for
+Bostro. His close
+relationship with Barmey
+has led many to think
+they are brothers, but
+they are just close
+friends. He often incurs
+his boss's wrath and
+can frequently be heard
+grumbling about him.
+!******************************!
+[7117030058000000:001e00000002831b0000028a1b0000]
+Barmey
+!******************************!
+Barmey is an underling
+of Bostro's who looks
+remarkably like
+Constable Barton - and
+eats like him too.
+He is so useless without
+Chelton that he might
+as well be his baby
+brother. He is a regular
+customer at Pepper's
+Noodle Palace.
+!******************************!
+[711703005b000000:001f00000002711c000002761c0000]
+Ward
+!******************************!
+Ward guards the way
+to various Family
+establishments, such
+as the casino and the
+pagoda. It is unclear
+whether his posing
+is conscious or not.
+His lax attitude to
+guard duty makes him
+an unwitting favourite
+among the scientists.
+!******************************!
+[711703005e000000:0020000000025b1d000002611d0000]
+Smith
+!******************************!
+Smith was once a guard
+at the exhibition site,
+but lost his job after
+an incident with an
+intruder, despite having
+caught the offender.
+He now works at
+Gressenheller
+University, watching out
+for student high jinks.
+!******************************!
+[7117030061000000:002100000002381e000002411e0000]
+Florence
+!******************************!
+Florence is an eccentric
+old lady who teaches
+you all about hint coins.
+Though she is married,
+she's only had eyes for
+Professor Layton ever
+since she met him.
+Her unique hairdo is
+the fruit of several
+hours' work every day.
+
+!******************************!
+[7117030064000000:002200000002231f000002281f0000]
+Vito
+!******************************!
+Vito is a mean-spirited
+little man who hangs
+around Midland Road.
+He has become well
+known in the area for
+giving visitors unhelpful
+directions. His loose
+trousers seem to be his
+latest cause for
+grumpiness.
+
+!******************************!
+[7117030067000000:002300000002f91f000002fd1f0000]
+Art
+!******************************!
+Art is a builder who's
+working single-handedly
+to reclaim the future
+Midland Road.
+Thanks to his efforts,
+the street has become
+a sunnier and more
+pleasant place to be.
+He is a real pro who'll
+turn his hand to
+anything.
+!******************************!
+[711703006a000000:002400000002d920000002e1200000]
+Niklaus
+!******************************!
+Niklaus is a boorish
+fellow who inhabits
+Midland Road. He hates
+responsibility and
+avoids trouble at all
+costs, but somehow
+always manages to end
+up the worse for it.
+He has a lot of respect
+for Art, who is cleaning
+up Midland Road.
+!******************************!
+[711703006d000000:002500000002ca21000002d0210000]
+Anita
+!******************************!
+Anita is the owner of
+the caf{'e} on Midland
+Road. She's a tough
+lady and manages the
+caf{'e} on her own, though
+she rarely has any
+customers apart
+from her regular, Alfie,
+who's been spreading
+the word about her
+luscious ham sandwiches.
+!******************************!
+[7117030070000000:002600000002be22000002c4220000]
+Alfie
+!******************************!
+Alfie is a regular
+customer at Anita's
+caf{'e}. It is even
+rumoured that his visits
+account for half of her
+total sales. He loves
+talking to young people,
+but his enthusiasm is
+rarely reciprocated.
+!******************************!
+[7117030073000000:0027000000028a2300000290230000]
+Edgar
+!******************************!
+Edgar is a faint-hearted
+youth who gets scared
+and runs away at the
+slightest provocation.
+He spends his days
+dreaming of finding
+a sweetheart for
+himself. He is Rudolph
+and Myrtle's grandson.
+
+!******************************!
+[7117030076000000:00280000000252240000025a240000]
+Adeline
+!******************************!
+Adeline is a fiery
+Welsh dragon with the
+pride of a queen. Born
+in Cardiff, she came to
+London a few years ago,
+and has lost most of her
+accent. She drinks a
+revolting thick brew to
+preserve her looks, but
+the results are hardly
+worth the sacrifice.
+!******************************!
+[7117030079000000:002900000002542500000258250000]
+Max
+!******************************!
+Max is a strange boy
+whose conversation
+consists mainly of game
+show sound effects. His
+usual hangout near the
+restaurant allows him to
+overhear lots of useful
+nuggets of information.
+He hates it when Becky
+patronises him.
+!******************************!
+[711703007c000000:002a0000000237260000023d260000]
+Becky
+!******************************!
+Becky is the lively maid
+at the Hotel Duke.
+When her grandma is
+listening, her manner is
+formal, but really she's
+a friendly, plucky girl.
+She likes to think of
+Max as her prot{'e}g{'e}.
+
+!******************************!
+[711703007f000000:002b00000002f92600000202270000]
+Margaret
+!******************************!
+Margaret is the manager
+of the Hotel Duke on
+Southern Street.
+Though she often dozes
+at reception during
+the hotel's many quiet
+periods, her commitment
+to customer service is
+unwavering. She is
+married to Grafton, but
+he is rarely around.
+!******************************!
+[7117030082000000:002c00000002f127000002fa270000]
+Paillard
+!******************************!
+Paillard is the owner
+of the restaurant. He
+gained renown as a chef
+working in a first-class
+hotel. His wife works as
+a researcher in the
+labs. He's finding it
+hard to talk to his son
+Max, of late, which is
+causing him concern.
+
+!******************************!
+[7117030085000000:002d00000002df28000002e6280000]
+Dupree
+!******************************!
+Dupree is a bearded
+man who spends his time
+reading newspapers.
+He has a great love of
+justice and despises all
+that is evil, but his
+tendency to believe
+everything he reads in
+the newspaper without
+question has made him
+the Family's puppet.
+!******************************!
+[7117030088000000:002e00000002d829000002e0290000]
+Natalia
+!******************************!
+Natalia is a nurse who
+works on reception at
+Green Hospital. She
+doesn't have many
+patients and usually
+looks rather bored. Her
+pale complexion makes
+her look ill and it is said
+that her patients worry
+more about her than
+she does about them.
+!******************************!
+[711703008b000000:002f00000002d32a000002da2a0000]
+Harold
+!******************************!
+Harold is the casino's
+bouncer, whose
+unexpectedly liberal
+door policy was in
+evidence when he let
+in Layton and Luke.
+Despite working in a
+casino, he is appallingly
+bad at card games.
+!******************************!
+[711703008e000000:003000000002932b0000029a2b0000]
+Horace
+!******************************!
+Horace is a scientist
+who was abducted and
+taken to future London.
+He realised that the
+Future Layton was in
+fact Dimitri, but held
+his tongue following
+threats from the Family.
+He has a girlfriend
+down in Chinatown.
+!******************************!
+[7117030091000000:003100000002732c000002792c0000]
+Hardy
+!******************************!
+Hardy is a workman
+drafted in to help with
+the construction of
+future London. He is
+lazy, but very attached
+to the wife and son he
+left behind. His concern
+for them means he
+barely notices which
+decade he's in.
+
+!******************************!
+[7117030094000000:0032000000024d2d000002562d0000]
+Cuthbert
+!******************************!
+One of the abducted
+scientists taken to
+future London,
+Cuthbert worries about
+his family and often
+sneaks out to see them.
+He is endowed with a
+brilliant mind for
+science and invention,
+but sadly has no
+sense of humour at all.
+!******************************!
+[7117030097000000:003300000002392e000002412e0000]
+Grafton
+!******************************!
+Grafton is a crafty
+character who lurks in
+the black market
+bazaar. He has watched
+future London evolve
+and grow, and is likely
+aware of many of its
+secrets. Though he is
+not a bad person, he
+somehow projects a
+suspicious aura.
+!******************************!
+[711703009a000000:003400000002252f0000022e2f0000]
+Catanova
+!******************************!
+Not even the awful
+dogs can discourage
+the devoted Catanova
+from visiting his female
+feline friends. His long
+sleek body contrasts
+with his short meows,
+but it certainly makes
+him popular with the
+ladies.
+!******************************!
+[711703009d000000:003500000002fb2f00000203300000]
+Rosetta
+!******************************!
+Rosetta is a student
+of Professor Layton's
+who is rather enamoured
+with her teacher. She is
+very passionate and
+even goes out to
+dig on her days off.
+Her unusual
+forwardness causes
+confusion to many,
+including Layton himself.
+!******************************!
+[71170300a0000000:003600000002e530000002eb300000]
+Colby
+!******************************!
+Colby is a constable
+who works on reception
+in Scotland Yard and a
+great fan of Layton's.
+He does his best at his
+job, but is a little tired
+of being stuck at the
+station. His chin gets
+even longer when he
+laughs!
+!******************************!
+[71170300a3000000:003700000002c131000002c9310000]
+Rudolph
+!******************************!
+No one knows what's
+going down in Chinatown
+better than Rudolph.
+Lately, he has been
+addicted to noodles
+and visits Pepper's shop
+whenever he can. Though
+very fond of his wife
+Myrtle, his love of food
+seems to come first. His
+grandson is Edgar.
+!******************************!
+[71170300a6000000:003800000002be32000002c4320000]
+Misha
+!******************************!
+Misha is a thoughtful
+and poetic woman with a
+philosophical outlook on
+life. She spends a lot of
+time reflecting on the
+nature of life and love
+and improving her mind.
+Her origin and family
+ties are a mystery.
+!******************************!
+[71170300a9000000:00390000000296330000029d330000]
+Duncan
+!******************************!
+Duncan is a boy living in
+Chinatown, whose
+brusque manner
+conceals a kind heart.
+He is nuts about toy
+cars and is a regular
+customer at Chequer's
+toy shop, though his
+visits are getting more
+secretive as he gets
+older.
+!******************************!
+[71170300ac000000:003a0000000278340000027c340000]
+Viv
+!******************************!
+Viv is a well-mannered
+little girl who lives
+in Chinatown with her
+parents. Her father
+works as a researcher
+specialising in
+mechanical engineering.
+Her mother's influence
+has made her somewhat
+uptight, but she is a
+gentle girl at heart.
+!******************************!
+[71170300af000000:003b000000026a3500000271350000]
+Pepper
+!******************************!
+Pepper is the owner of
+the noodle shop in
+Chinatown, which is
+thriving thanks to her
+careful and shrewd
+management. It is said
+that her noodle bar
+attracts the unhappy
+inhabitants of future
+London. Her speciality is
+jellied eel noodle soup.
+!******************************!
+[71170300b2000000:003c0000000262360000026a360000]
+Chequer
+!******************************!
+Chequer is a toymaker
+who works in the toy
+shop in Chinatown.
+He is the creator of his
+own brand of toy cars
+and his shop is always
+inundated with
+customers in search
+of collectables.
+!******************************!
+[71170300b5000000:003d0000000222370000022b370000]
+Avogadro
+!******************************!
+Avogadro is a scientist
+who works in the labs.
+He is impatient and
+quick-tempered but
+has read more books
+than Luke's had hot
+dinners. He is very
+sensitive about his
+height.
+
+!******************************!
+[71170300b8000000:003e00000002da37000002df370000]
+Maya
+!******************************!
+Maya runs the
+bookshop in Chinatown -
+the natural vocation
+for someone who loves
+reading as much as she
+does. She's just happy
+if she can persuade
+people to read at all,
+and sometimes even
+directs her customers
+to the library.
+!******************************!
+[71170300bb000000:003f00000002c238000002c9380000]
+Myrtle
+!******************************!
+Myrtle runs the little
+pet shop in Chinatown.
+She and her husband
+Rudolph were like
+lovebirds for years,
+but relations have
+cooled a little recently.
+Myrtle is normally a
+gentle animal-lover, but
+you wouldn't like her
+when she's angry!
+!******************************!
+[71170300be000000:004000000002b539000002bb390000]
+Belle
+!******************************!
+Belle is a young lady
+who has developed a
+big crush on Little Luke.
+Her burning passion is a
+bit too much for Luke
+to handle, and he is
+terrified of her. Belle,
+however, has never been
+one to let such
+obstacles get in the
+way of true love.
+!******************************!
+[71170300c1000000:004100000002ab3a000002b23a0000]
+Graham
+!******************************!
+Graham is, in his own
+eyes, the city's most
+stylish gentleman. He
+wears all the most
+expensive clothes and
+possesses an air of
+supreme confidence
+that impresses even the
+Family gangsters. His
+dream is to start a
+clothing line with Belle.
+!******************************!
+[71170300c4000000:004200000002a03b000002a63b0000]
+Slate
+!******************************!
+Ever since the wall of
+Slate's garden was
+covered in messy
+splodges of paint, he's
+been working with local
+youngsters to repaint
+it with street art. He
+isn't much good with a
+paintbrush himself, but
+his kindness makes him
+popular with the kids.
+!******************************!
+[71170300c7000000:0043000000029b3c000002a23c0000]
+Ernest
+!******************************!
+Ernest is a timid old
+man who dislikes talking
+to strangers, and so
+spends most of his time
+hiding on a corner of
+Midland Road. He is
+friends with Cogg and
+often goes round to
+the clock shop for a
+cup of tea.
+!******************************!
+[71170300ca000000:004400000002733d000002793d0000]
+Berta
+!******************************!
+Berta is a cheerful,
+motherly type with a
+loud laugh. She doesn't
+let trifles worry her
+and thoroughly enjoys
+her life in future
+London. She doesn't see
+much of her husband
+Avogadro, but still
+has food on the table
+whenever he comes home.
+!******************************!
+[71170300cd000000:004500000002683e0000026f3e0000]
+Minnie
+!******************************!
+Minnie is a laid-back girl
+with something of a
+sweet tooth. She takes
+something sugary with
+her wherever she goes.
+Her kind, conciliatory
+nature has made her
+many friends, to whom
+she takes great
+pleasure in feeding her
+home-made cakes.
+!******************************!
+[71170300d0000000:0046000000025c3f000002623f0000]
+Paige
+!******************************!
+Paige is a soft-spoken
+shy girl who wears
+glasses. She is earnest
+and hard-working, but
+sometimes needs to
+lighten up a little.
+She is aware of her
+quiet voice and
+practises projecting
+at home. Her hobby is
+writing poetry.
+!******************************!
+[71170300d3000000:004700000002414000000249400000]
+Raleigh
+!******************************!
+Raleigh is an assertive,
+immature boy. He is
+fascinated by beetles
+and keeps a rhinoceros
+and a stag at home.
+He sulks a lot if things
+don't go his way, but he
+soon forgets his foul
+moods, especially if
+there's a football to be
+kicked.
+!******************************!
+[71170300d6000000:00480000000235410000023c410000]
+Beacon
+!******************************!
+A passionate lighthouse
+keeper, Beacon has
+unfortunately been
+made redundant by
+technology. The upshot
+is that he now has more
+time to devote to his
+other passion, modern
+dance. He is currently
+choreographing a
+tribute to lighthouses.
+!******************************!
+[71170300d9000000:00490000000227420000022c420000]
+Mark
+!******************************!
+Mark's bland exterior
+hides a deeply curious
+individual. He tends to
+pontificate on all
+sorts of topics, but
+most of what he says
+is rubbish. He is a
+frequent visitor to the
+casino, where he serves
+as an easy target for
+experienced gamblers.
+!******************************!
+[71170300dc000000:004a000000021e430000022d430000]
+Stachenscarfen
+!******************************!
+Why, it's our old friend
+Mr Stachenscarfen!
+Where'd he come from?
+He has a strange habit
+of suddenly appearing,
+only to vanish moments
+later. Where he'll show
+up tomorrow is as much
+of a mystery as his
+identity.
+!******************************!
+[71170300df000000:004b00000002014400000207440000]
+Pavel
+!******************************!
+A man of contradictions,
+Pavel is a fearless
+adventurer with no
+sense of direction.
+He is always breaking
+his beloved compass and
+possesses a unique
+ability to get lost
+no matter how detailed
+a map he is using.
+!******************************!
+[71170300e2000000:004c00000002da44000002ed440000]
+Dr Andrew Schrader
+!******************************!
+Dr Andrew Schrader is
+Professor Layton and
+Don Paolo's old teacher.
+He is a highly respected
+archaeologist but has a
+tendency to get himself
+into trouble and in need
+of being rescued by his
+students. His collection
+of antiques is the
+stuff of legend.
+!******************************!
+[71170300e5000000:004d00000002e845000002f5450000]
+Dean Delmona
+!******************************!
+Dean Delmona is the
+head of Gressenheller
+University, a kind man
+well loved by all the
+students. He has a soft
+spot for his little
+granddaughter and
+spoils her rotten.
+His toupee protects
+passers-by from the
+glare of his shiny pate.
+!******************************!
+[71170300e8000000:004e00000002de46000002e7460000]
+Caroline
+!******************************!
+Caroline is the wife of
+Prime Minister Bill Hawks,
+a calculating woman
+who enjoys her
+celebrity lifestyle.
+She has an unfortunate
+taste for bling, and her
+dismayed husband has
+no idea of the limits of
+her greed.
+!******************************!
+[71170300eb000000:004f00000002bb47000002c1470000]
+Clive
+!******************************!
+Posing as an older Luke,
+Clive is the instigator
+of the terrible attack
+upon London. For years,
+he cultivated a bitter
+resentment towards the
+scientists and
+politicians involved in
+his parents' premature
+deaths. He has shown
+a desire for atonement.
+!******************************!
+[71170300ee000000:005000000002ba48000002c1480000]
+Claire
+!******************************!
+Claire is Layton's old
+girlfriend. Though she
+worked as Dimitri's
+assistant, she was an
+excellent scientist in
+her own right. She was
+the strong-willed young
+woman who gave
+Layton his beloved hat.
+She lost her life in a
+failed experiment.
+!******************************!
+[71170300f1000000:005100000002b049000002bf490000]
+Alain Stahngun
+!******************************!
+Dr Stahngun was the
+identity assumed by
+Dimitri while building
+the fake time machine.
+He was believed to have
+disappeared in the
+accident at the
+presentation site, but
+he had in fact departed
+to future London, along
+with the prime minister.
+!******************************!
+[71170300f4000000:005200000002b04a000002be4a0000]
+Future Layton
+!******************************!
+This is the future
+Professor Layton, who
+rules the dark city of 
+future London with an
+iron fist. Corrupted by
+his study of time
+travel, he no longer has
+the moral compass
+required of a gentleman.
+He was revealed to be
+Dimitri in disguise.
+!******************************!
+[71170300f7000000:005300000002ae4b000002b84b0000]
+Bartender
+!******************************!
+The bartender at the
+Thames Arms is a role
+Dimitri likes to adopt
+in his spare time,
+whenever he needs to
+take a breather from
+his gruelling research.
+The lower ranks of the
+Family are still unaware
+of his real identity.
+!******************************!
+[71170300fa000000:005400000002954c0000029c4c0000]
+Layton
+!******************************!
+Before he considered
+himself an English
+gentleman, Hershel
+Layton used to dress
+more casually. Until
+Claire gave him his
+top hat, he was never
+without his red cap.
+He became a professor
+at 27, but remains
+young at heart.
+!******************************!
+[71170300fd000000:005500000002794d000002864d0000]
+Laytonmobile
+!******************************!
+Layton's pride and joy,
+this little red car has
+served him well on his
+mystery-solving
+adventures. Thanks to
+Don Paolo, there now
+exists a model that can
+fly. Its high roof gives
+Layton the headroom he
+needs to drive with his
+hat on.
+!******************************!
+[7117030000010000:005600000002704e0000027d4e0000]
+Puzzle Lad 1
+!******************************!
+Puzzle Lad 1 is a
+mischievous boy who
+livens up any puzzle.
+He's a bit of a bragger,
+but a good leader for
+the puzzle lads.
+His impulsive nature
+frequently gets him
+into trouble, but he's
+not one to start a
+fight.
+!******************************!
+[7117030003010000:005700000002534f000002604f0000]
+Puzzle Lad 2
+!******************************!
+Puzzle Lad 2 is a
+clever boy who seems
+to do well at whatever
+he undertakes, a skill
+which sadly is often put
+to mischievous uses.
+Adults seem to be
+rather dubious about
+him. He has an agile
+body for sport and a
+good mind for games.
+!******************************!
+[7117030006010000:005800000002495000000256500000]
+Puzzle Lad 3
+!******************************!
+The effective personnel
+manager of the puzzle
+troupe, Puzzle Lad
+3 is a level-headed
+boy with an ability to
+rally the other lads.
+He enjoys pranks but
+dislikes violence, so he
+usually plays the role
+of peacekeeper.
+!******************************!
+[7117030009010000:0059000000022d510000023a510000]
+Puzzle Lad 4
+!******************************!
+The biggest eater in
+the group, Puzzle Lad
+4 is a taciturn
+child, but his kind heart
+and quiet strength make
+him truly well loved.
+He always carries
+snacks in his pockets in
+case he gets bored and
+fancies a bite to eat.
+
+!******************************!
+[711703000c010000:005a00000002175200000224520000]
+Puzzle Lad 5
+!******************************!
+Puzzle Lad 5 is a
+scaredy cat whose
+actions don't live up to
+his boastful words. He's
+an expert in plotting
+tricks to play on
+unsuspecting victims,
+but he is not usually
+the one to carry them
+out, as he doesn't much
+like physical activities.
+!******************************!
+[711703000f010000:005b00000002165300000224530000]
+Puzzle Lass 1
+!******************************!
+Puzzle Lass 1 is a
+hard-working girl who
+follows fashion closely
+and owns all the latest
+trendy gear. She likes
+learning new crafts and
+it is even said that she
+hoped to become a
+professional potter but
+was told that her style
+was too avant-garde.
+!******************************!
+[7117030012010000:005c000000021c540000022a540000]
+Puzzle Lass 2
+!******************************!
+Puzzle Lass 2 is a
+kindly old lady with
+a romantic streak, who
+loves evening strolls
+and picture books.
+She's fond of children
+and small animals and
+is happy to play the
+part of everybody's
+grandma.
+
+!******************************!
+[7117030015010000:005d00000002f25400000200550000]
+Puzzle Lass 3
+!******************************!
+A great art-lover,
+Puzzle Lass 3 can
+usually be found
+wandering around
+antique fairs looking
+for curios and baubles.
+Though she can come
+across as a little
+pretentious, she is 
+reliable and always
+keeps her cool.
+!******************************!
+[7117030018010000:005e00000002d555000002e3550000]
+Puzzle Lass 4
+!******************************!
+Puzzle Lass 4 is a
+motherly lady who looks
+after the puzzle troupe
+and is undoubtedly the
+finest cook of them all.
+She's a chatty type
+who'll natter for hours
+once a conversation has
+started. She enjoys
+handpicking ingredients
+to cook delicious meals.
+!******************************!
+[711703001b010000:005f00000002df56000002ed560000]
+Puzzle Lass 5
+!******************************!
+Puzzle Lass 5 is a
+headstrong intellectual,
+and yet her greatest
+worry is that she might
+shed a tear and ruin
+her make-up. She is a
+brilliant but undeniably
+cold woman. Strange
+though it may sound,
+her hobby is collecting
+teacups.
+!******************************!

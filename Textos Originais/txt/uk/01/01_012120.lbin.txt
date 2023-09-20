@@ -1,0 +1,82 @@
+[7017010000000000:000c000000]
+[7117030001000000:000a00000002000000000211000000]
+クローンマフィア
+!******************************!
+<T>Oi! What are you lookin' at,
+pint-size?
+!******************************!
+[7117030004000000:000a000000023c0000000243000000]
+ルーク
+!******************************!
+<T>Oh, um, hello sir. Didn't we just
+meet in front of the hotel?
+!******************************!
+[7117030007000000:000a00000002000000000284000000]
+クローンマフィア
+!******************************!
+<T>What hotel?<W> Not that it's any of
+your business, but I've been posted
+here all day.
+!******************************!
+[711703000a000000:000a000000020000000002dd000000]
+クローンマフィア
+!******************************!
+<T>Bostro'd have my guts for garters
+if I even thought about sneakin'
+off.
+!******************************!
+[711703000d000000:000a000000023c0000000228010000]
+ルーク
+!******************************!
+<T>Yikes!<W> Well, um, it looks like
+I got you mixed up with someone
+else. Have a good day, sir.
+!******************************!
+[7117030010000000:000a00000002000000000289010000]
+クローンマフィア
+!******************************!
+<T>Hold your horses, shorty! You're
+the one who wanted to talk, so you
+ain't runnin' out on me now.
+!******************************!
+[7117030013000000:000a000000020000000002ed010000]
+クローンマフィア
+!******************************!
+<T>Standin' around all day ain't that
+thrillin'. Watchin' you squirm with
+this puzzle might help pass the time.
+!******************************!
+[7117030016000000:00e80300000200000000025d020000]
+クローンマフィア
+!******************************!
+<T>Oh, so you're just gonna walk away
+without solvin' my puzzle? I won't
+forget this, you know!
+!******************************!
+[7117030019000000:00d0070000020000000002bd020000]
+クローンマフィア
+!******************************!
+<T>Gimme a hand with this puzzle, will
+you? It's the only thing that's
+keepin' me from dyin' of boredom.
+!******************************!
+[711703001c000000:00b80b000002000000000226030000]
+クローンマフィア
+!******************************!
+<T>What?! You solved it already?
+Great. How am I supposed to stop
+myself noddin' off on the job now?
+!******************************!
+[711703001f000000:00a00f00000200000000028b030000]
+クローンマフィア
+!******************************!
+<T>Stop hasslin' me, all right? I ain't
+got no more puzzles for you.
+!******************************!
+[7117030022000000:00a00f0000020000000002d0030000]
+クローンマフィア
+!******************************!
+<T>I'll see if I can think up another
+one, but I'm warnin' you - it's
+gonna take a while.
+!******************************!

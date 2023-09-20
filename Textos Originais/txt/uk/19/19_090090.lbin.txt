@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>With Chelmey's help, Layton gains
+access to documents that open a
+new lead for the investigation.
+!******************************!
+[7117030004000000:001400000002000000000272000000]
+ナレーション
+!******************************!
+<T>Armed with this new information,
+Layton and Luke decide to return
+to the future via the clock shop.
+!******************************!

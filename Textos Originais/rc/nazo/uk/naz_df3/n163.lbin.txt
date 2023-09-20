@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000006a040000006a040000000100000000000000000000000000]
+n163
+!******************************!
+n163a
+!******************************!
+n163b
+!******************************!
+[eb0b01000a000000:0211000000]
+Manoeuvre the three coloured blocks into
+the matching goal squares on the board.
+All three blocks must be in place at
+the same time to complete this puzzle.
+
+To move the blocks, rotate the board
+90 degrees clockwise or anticlockwise
+by touching the arrow buttons below.
+!******************************!
+[ec0b01000b000000:021f010000]
+Wahey!
+
+Did that make your head spin?
+!******************************!
+[ed0b01000c000000:0245010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:025a010000]
+If you just keep rotating the board,
+you'll solve it eventually, right?
+
+Actually, no. If you don't plan ahead,
+you can get stuck. But if you do think
+ahead, it's much easier than you might
+expect!
+!******************************!
+[ef0b01000e000000:0220020000]
+If you're not careful, a block might get
+trapped somewhere and make the puzzle
+impossible to solve. If you think you're
+completely stuck, just restart the
+puzzle.
+!******************************!
+[f00b01000f000000:02c3020000]
+The trap you need to avoid is the nook
+next to the red goal square. If a block
+ends up in there, you'll have to start
+the puzzle from scratch.
+!******************************!
+[f10b010010000000:0252030000]
+Don't try to move the blocks out of
+their starting places all at once.
+
+Instead, try moving them to the other
+side of the board one at a time. If you
+can work out how to do that, the rest
+shouldn't be too hard.
+!******************************!

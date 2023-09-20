@@ -1,0 +1,14 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ドン・ポール
+!******************************!
+<T>You certainly took your sweet time
+getting here, Layton. I thought
+you'd got lost or something.
+!******************************!
+[7117030004000000:000a00000002700000000279000000]
+レイトン
+!******************************!
+<T>Come now, Paul. You surely haven't
+been waiting that long, have you?
+!******************************!

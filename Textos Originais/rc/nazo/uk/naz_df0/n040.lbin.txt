@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n040
+!******************************!
+n040a
+!******************************!
+n040b
+!******************************!
+[eb0b01000a000000:0211000000]
+Barton needs to park his police car in
+the space indicated by the flag. When he
+encounters a cross, he has to turn left
+or right. When he meets a circle, he must
+keep going straight.
+
+Assuming he's not allowed to reverse the
+car, which route does Barton need to take
+in order to reach the parking space?
+
+Draw a line from the police car to the
+parking space. As you can see, the parking
+space can only be entered from one side.
+
+!******************************!
+[ec0b01000b000000:02be010000]
+Nice driving!
+
+Barton has to go all the way around the
+parking space in order to get there.
+
+Though you showed him the route he
+needed to take, all those turns seem to
+have confused Barton. He's written off
+the police car and the inspector's not
+happy!
+!******************************!
+[ed0b01000c000000:02bb020000]
+Too bad!
+
+Barton must have turned or gone straight
+where he wasn't supposed to.
+!******************************!
+[ee0b01000d000000:020b030000]
+Immediately after the starting point,
+Barton has to turn left or right. He'll
+be wanting to turn left here.
+!******************************!
+[ef0b01000e000000:0277030000]
+The path Barton needs to take goes
+straight along the second row from the
+top, from the left all the way over to
+the right.
+
+Try and find a way to get from the
+starting point to the leftmost square
+in the second row.
+!******************************!
+[f00b01000f000000:0250040000]
+Barton has to do a little loop through
+the four squares in the top-right and
+again through the four squares in the
+bottom-right.
+
+He'll be very close to the parking
+space after this second loop.
+!******************************!
+[f10b010010000000:0213050000]
+Barton needs to approach the square in
+front of the parking space from the
+right, and then turn right into the
+parking space.
+!******************************!

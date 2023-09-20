@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n179
+!******************************!
+n179a
+!******************************!
+n179b
+!******************************!
+[eb0b01000a000000:0211000000]
+This cheeky little magpie has been stealing
+one gem a day over a period of 10 days,
+and has brought them all back to its nest.
+
+There are four colours of gem in the
+nest: white, black, red and blue.
+
+The number of white gems is half the
+number of black gems. The number of black
+gems is half the number of red gems.
+
+How many gems are there of each colour?
+!******************************!
+[ec0b01000b000000:0276010000]
+That's right!
+
+One white.
+Two black.
+Four red.
+Three blue.
+
+Well collected!
+!******************************!
+[ed0b01000c000000:02c2010000]
+Too bad.
+
+Do you suppose the magpie cares about
+the colour of the gems?
+!******************************!
+[ee0b01000d000000:020a020000]
+There are 10 gems in total - that is an
+indisputable fact. Among these, there is
+at least one gem of each colour. The
+question is what colour each of the
+other six gems is.
+
+You know from the puzzle that there
+are more red gems than black gems, and
+more black gems than white gems (red,
+black, white). Think about the facts
+you've been given and the answer should
+present itself.
+!******************************!
+[ef0b01000e000000:0286030000]
+
+!******************************!
+[f00b01000f000000:0287030000]
+
+!******************************!
+[f10b010010000000:0288030000]
+
+!******************************!

@@ -1,0 +1,196 @@
+[7017010000000000:001e000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<V0010><T>Clive, you lived next door to the
+lab that exploded 10 years ago.
+You were just a child then.</V>
+!******************************!
+[7117030004000000:000a00000002000000000275000000]
+レイトン
+!******************************!
+<V0020><T>That blast demolished half of the
+building you lived in.</V>
+!******************************!
+[7117030007000000:000a000000020000000002bc000000]
+レイトン
+!******************************!
+<V0030><T>Reports indicate that 10 people
+were killed in the explosion, two of
+whom were your parents.</V>
+!******************************!
+[711703000a000000:000a00000002000000000227010000]
+レイトン
+!******************************!
+<V0040><T>It must have been a terrible shock.<W>
+In the span of a few seconds, you
+lost your family and your home.</V>
+!******************************!
+[711703000d000000:000a0000000200000000029e010000]
+レイトン
+!******************************!
+<V0050><T>When the initial shock wore off, it
+was replaced with anger.</V>
+!******************************!
+[7117030010000000:000a000000020000000002e9010000]
+レイトン
+!******************************!
+<T><V0051>You became obsessed with exacting
+revenge on those who had wronged
+you.</V>
+!******************************!
+[7117030013000000:000a000000023f0200000254020000]
+クラウス（帽子あり）
+!******************************!
+<V0060><T><K><A4/1>...</V>
+!******************************!
+[7117030016000000:000a0000000200000000026f020000]
+レイトン
+!******************************!
+<V0070><T><A3/1>You were lucky enough to be adopted
+by a kindly woman in her golden
+years, Constance Dove.</V>
+!******************************!
+[7117030019000000:000a000000020000000002de020000]
+レイトン
+!******************************!
+<V0080><T>Miss Dove's extreme kindness was
+matched in scale only by the
+enormous fortune she possessed.</V>
+!******************************!
+[711703001c000000:000a0000000200000000024a030000]
+レイトン
+!******************************!
+<V0090><T><A1/1>You two lived quite happily as a
+family for a time.<W> Sadly, it wasn't
+to last.</V>
+!******************************!
+[711703001f000000:000a000000020000000002af030000]
+レイトン
+!******************************!
+<V0100><T>Miss Dove departed from this world
+five short years later, leaving
+her fortune to you.</V>
+!******************************!
+[7117030022000000:000a00000002000000000214040000]
+レイトン
+!******************************!
+<V0110><T>Before long, you graduated from
+secondary school and took a part-
+time job at a prominent newspaper.</V>
+!******************************!
+[7117030025000000:000a00000002000000000287040000]
+レイトン
+!******************************!
+<V0120><T>Considering your sizeable
+inheritance, I don't think you
+took the job for pocket money.</V>
+!******************************!
+[7117030028000000:000a000000020000000002ed040000]
+レイトン
+!******************************!
+<T><V0121>You were searching for something.</V>
+!******************************!
+[711703002b000000:000a0000000200000000021d050000]
+レイトン
+!******************************!
+<V0130><T>Using the newspaper's resources,
+you finally hunted down the men
+responsible for your misery.</V>
+!******************************!
+[711703002e000000:000a00000002000000000289050000]
+レイトン
+!******************************!
+<V0140><T>You knew that both Bill Hawks and
+Dimitri Allen were responsible for
+the explosion.</V>
+!******************************!
+[7117030031000000:000a000000020000000002eb050000]
+レイトン
+!******************************!
+<V0150><T>Armed with this information, you
+concocted a plan to avenge your
+parents.</V>
+!******************************!
+[7117030034000000:000a00000002000000000243060000]
+レイトン
+!******************************!
+<V0160><T><A2/1>First, you befriended Dimitri and
+convinced him to resume his
+research on the time machine.</V>
+!******************************!
+[7117030037000000:000a000000020000000002b3060000]
+レイトン
+!******************************!
+<V0170><T>Then you used your inheritance to
+set up this elaborate facsimile
+of London.</V>
+!******************************!
+[711703003a000000:000a0000000200000000020e070000]
+レイトン
+!******************************!
+<V0180><T>With your stage in place, you used
+your contacts in the press to find
+the best scientists in the country.</V>
+!******************************!
+[711703003d000000:000a00000002000000000286070000]
+レイトン
+!******************************!
+<V0190><T>After all, you would need quite a
+bit of help to complete this time
+machine.</V>
+!******************************!
+[7117030040000000:000a000000020000000002e1070000]
+レイトン
+!******************************!
+<V0200><T>You then proceeded to lure these
+brilliant men into your trap.</V>
+!******************************!
+[7117030043000000:000a0000000200000000022e080000]
+レイトン
+!******************************!
+<V0210><T>However, unbeknownst to Dimitri,
+most of your staff were not
+working on the time machine.</V>
+!******************************!
+[7117030046000000:0014000000029608000002a3080000]
+ディミトリー
+!******************************!
+<V0220><T>Wh-what?</V>
+!******************************!
+[7117030049000000:001e000000023f02000002ba080000]
+クラウス（帽子あり）
+!******************************!
+<V0230><T><K>...</V>
+!******************************!
+[711703004c000000:001e000000020000000002cf080000]
+レイトン
+!******************************!
+<V0240><T>Clive had secretly reassigned
+many of the scientists to a
+different project.</V>
+!******************************!
+[711703004f000000:001e0000000200000000022a090000]
+レイトン
+!******************************!
+<V0250><T>You might think of it as his pet
+project.</V>
+!******************************!
+[7117030052000000:00280000000262090000026d090000]
+チェルミー
+!******************************!
+<V0260><T>We don't have all day, Layton!
+What was the second project?</V>
+!******************************!
+[7117030055000000:0028000000020000000002b7090000]
+レイトン
+!******************************!
+<V0270><T>A weapon designed to cause
+destruction on an unimaginable
+scale.</V>
+!******************************!
+[7117030058000000:0032000000029608000002060a0000]
+ディミトリー
+!******************************!
+<V0280><T>A weapon?! Is this true, Clive?</V>
+!******************************!

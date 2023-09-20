@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n026
+!******************************!
+n026a
+!******************************!
+n026b
+!******************************!
+[eb0b01000a000000:0211000000]
+Three boys are playing a card-matching
+game using 20 cards, or 10 pairs.
+
+Boy A says: {''}I matched 10 pairs in a row
+from the start.{''}
+
+Boy B says: {''}I matched nine pairs in a row
+from the start.{''}
+
+Boy C says: {''}I matched eight pairs in a row
+from the start.{''}
+
+One boy is lying. Which one?
+!******************************!
+[ec0b01000b000000:0240010000]
+Very clever!
+
+B is lying. If you matched the first
+nine pairs in a row, you would
+automatically match the last pair.
+!******************************!
+[ed0b01000c000000:02b5010000]
+Too bad!
+
+Think hard about this puzzle.
+!******************************!
+[ee0b01000d000000:02dd010000]
+Only a liar can make a statement that's
+impossible...
+!******************************!
+[ef0b01000e000000:0213020000]
+Someone is describing a situation that
+couldn't possibly happen during this kind
+of game.
+!******************************!
+[f00b01000f000000:026d020000]
+How many cards are left if you've
+already matched nine pairs out of 20
+cards?
+!******************************!
+[f10b010010000000:02bb020000]
+If you've matched nine out of 10 pairs
+already, there's no reason why you
+can't get the last pair, is there?
+!******************************!

@@ -1,0 +1,289 @@
+[7017010000000000:002d000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T>We've already established that
+you were there when the explosion
+occurred.
+!******************************!
+[7117030004000000:000a00000002590000000262000000]
+レイトン
+!******************************!
+<T>Yes, I certainly was.
+!******************************!
+[7117030007000000:000a0000000200000000027b000000]
+チェルミー
+!******************************!
+<T>Then you must believe, as I do, that
+there's no way anyone could have
+survived that blast.
+!******************************!
+[711703000a000000:000a000000020000000002d9000000]
+チェルミー
+!******************************!
+<T>Not that quack Stahngun, not his
+staff and, though I hate to say
+it, not the prime minister.
+!******************************!
+[711703000d000000:000a00000002000000000239010000]
+チェルミー
+!******************************!
+<T>But what confounds me is that we
+haven't found a single trace of
+any of them.
+!******************************!
+[7117030010000000:000a0000000259000000028a010000]
+レイトン
+!******************************!
+<T>What do you mean?
+!******************************!
+[7117030013000000:000a0000000200000000029f010000]
+チェルミー
+!******************************!
+<T><A1/5>We went through the place with a
+fine-tooth comb and didn't find
+anything related to the victims.
+!******************************!
+[7117030016000000:000a0000000200000000020a020000]
+チェルミー
+!******************************!
+<T>No bodies, no clothing and no shoes.
+Not even so much as a pocket watch
+or ring!
+!******************************!
+[7117030019000000:000a0000000200000000025e020000]
+チェルミー
+!******************************!
+<T>All we recovered from the scene
+was the 10 tons of scrap metal
+that used to be the machine.
+!******************************!
+[711703001c000000:000a000000020000000002bd020000]
+チェルミー
+!******************************!
+<T>No people.
+!******************************!
+[711703001f000000:001400000002cb02000002d4020000]
+バートン
+!******************************!
+<T>There were eight of them, sir.
+!******************************!
+[7117030022000000:0014000000020000000002f6020000]
+チェルミー
+!******************************!
+<T>What? Did you just say something,
+Constable?
+!******************************!
+[7117030025000000:001400000002cb0200000226030000]
+バートン
+!******************************!
+<T>There were eight of them, sir.
+Eight people vanished.
+!******************************!
+[7117030028000000:00140000000200000000025f030000]
+チェルミー
+!******************************!
+<T><A2/1>Ah, yes. According to eyewitness
+reports, eight people vanished from
+the scene.
+!******************************!
+[711703002b000000:0014000000020000000002b8030000]
+チェルミー
+!******************************!
+<T>That group consisted of Stahngun,
+a handful of his assistants and the
+prime minister.
+!******************************!
+[711703002e000000:001400000002000000000211040000]
+チェルミー
+!******************************!
+<T>Now, how in the world do eight
+people just vanish? It's like a
+blasted magic trick!
+!******************************!
+[7117030031000000:001e0000000268040000026f040000]
+ルーク
+!******************************!
+<T>Don't worry, Inspector. From what
+I've heard, the prime minister is
+still alive!
+!******************************!
+[7117030034000000:001e000000020000000002c3040000]
+チェルミー
+!******************************!
+<T><A2/5><K>Hmm?<W></K><A2/1> Ah, young Luke. Be a good lad
+and keep quiet, all right?
+!******************************!
+[7117030037000000:001e0000000200000000021a050000]
+チェルミー
+!******************************!
+<T>The adults are having a serious
+conversation here.
+!******************************!
+[711703003a000000:001e00000002000000000250050000]
+チェルミー
+!******************************!
+<T>If you're bored, why don't you and
+Barton go and play in the lobby?
+!******************************!
+[711703003d000000:002800000002590000000297050000]
+レイトン
+!******************************!
+<T>Inspector, I assure you Luke isn't
+making this up. There's a very real
+possibility that Bill Hawks is alive.
+!******************************!
+[7117030040000000:002800000002000000000207060000]
+チェルミー
+!******************************!
+<T><A2/5>What?!<W> Well, don't leave me here
+scratching my head like a fool!
+Explain yourself, Layton.
+!******************************!
+[7117030043000000:00280000000259000000026e060000]
+レイトン
+!******************************!
+<T>I will, but I must ask a favour of
+you first.
+!******************************!
+[7117030046000000:00280000000200000000029f060000]
+チェルミー
+!******************************!
+<T><A1/1>And what would that be?
+!******************************!
+[7117030049000000:0028000000025900000002c0060000]
+レイトン
+!******************************!
+<T>Do you recall the explosion at the
+Institute of Polydimensional
+Research, 10 years ago?
+!******************************!
+[711703004c000000:002d0000000200000000021b070000]
+チェルミー
+!******************************!
+<T><J54>What did you just say?!<K><Q></J>
+!******************************!
+[711703004f000000:002f00000002590000000245070000]
+レイトン
+!******************************!
+<T>I'll take that as a yes.<W> It is
+imperative that I see any and all
+case files on that incident.
+!******************************!
+[7117030052000000:002f000000020000000002a9070000]
+チェルミー
+!******************************!
+<T><A1/5>It sounds like you're on to
+something here, Layton. What do
+you know?
+!******************************!
+[7117030055000000:002f000000025900000002f8070000]
+レイトン
+!******************************!
+<T>Nothing at the moment. But I have
+a suspicion your current case is
+somehow linked to this old one.
+!******************************!
+[7117030058000000:002f0000000200000000025e080000]
+チェルミー
+!******************************!
+<T>Hmm. I'd like to help, really I
+would. But those files are sealed
+and require top-level clearance.
+!******************************!
+[711703005b000000:002f000000020000000002c4080000]
+チェルミー
+!******************************!
+<T>Even a high-ranking officer like
+myself would have trouble getting
+his hands on those.
+!******************************!
+[711703005e000000:002f0000000259000000021e090000]
+レイトン
+!******************************!
+<T>I see...
+!******************************!
+[7117030061000000:002f0000000259000000022a090000]
+レイトン
+!******************************!
+<T>I had hoped a man of your status
+might have the necessary clout to
+acquire those documents.
+!******************************!
+[7117030064000000:002f00000002590000000289090000]
+レイトン
+!******************************!
+<T>Unfortunately, it seems I may have
+hoped for too much. I'm sorry to
+have asked the impossible of you.
+!******************************!
+[7117030067000000:002f000000020000000002f2090000]
+チェルミー
+!******************************!
+<T><A1/1>Er...<W> Wait just a moment, Layton.
+I...just might be able to get
+you access to the case files.
+!******************************!
+[711703006a000000:002f0000000259000000025c0a0000]
+レイトン
+!******************************!
+<T>Excellent. I would be extremely
+grateful for that.
+!******************************!
+[711703006d000000:002f000000020000000002920a0000]
+チェルミー
+!******************************!
+<T>Just one thing, though. These
+documents don't come for free.
+!******************************!
+[7117030070000000:002f000000020000000002d20a0000]
+チェルミー
+!******************************!
+<T>I want to hear everything you know,
+or suspect, about the prime
+minister's whereabouts.
+!******************************!
+[7117030073000000:002f0000000259000000022d0b0000]
+レイトン
+!******************************!
+<T><A3/2>Of course. Once I've seen the
+documents and I'm sure my theory
+is sound, every detail will be yours.
+!******************************!
+[7117030076000000:002f0000000200000000029b0b0000]
+チェルミー
+!******************************!
+<T><A4/2>Barton! Head down to the archives
+and find those old files. Tell them
+you're there on my orders.
+!******************************!
+[7117030079000000:003200000002cb02000002050c0000]
+バートン
+!******************************!
+<T><A3/0>Right away, sir!<A2/1>
+!******************************!
+[711703007c000000:003c000000020000000002250c0000]
+チェルミー
+!******************************!
+<T><A1/1>Those files can't leave the
+archives, but you can read
+them down there.
+!******************************!
+[711703007f000000:003c000000020000000002760c0000]
+チェルミー
+!******************************!
+<T>Take the stairs down from the
+lobby to the cellar.
+!******************************!
+[7117030082000000:003c000000025900000002ac0c0000]
+レイトン
+!******************************!
+<T>Much appreciated, Inspector.
+!******************************!
+[7117030085000000:0046000000020000000002cc0c0000]
+チェルミー
+!******************************!
+<T>The archives are in the cellar
+under the lobby. You can peruse
+the documents down there.
+!******************************!

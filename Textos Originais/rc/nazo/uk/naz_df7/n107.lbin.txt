@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000600400000060040000000100000000000000000000000000]
+n107
+!******************************!
+n107a
+!******************************!
+n107b
+!******************************!
+[eb0b01000a000000:0211000000]
+You've received eyewitness reports about
+a shady trio. They all wore red, white
+and green, but none of them wore the
+same combination. Here's what witnesses
+had to say about them:
+{''}The men wore jackets of the same
+colour.{''}
+{''}Two of them had white trousers on.{''}
+{''}The larger man wore a white hat.{''}
+{''}The woman's jacket was green.{''}
+
+Touch the trio's clothes to change
+the colours so that they match the
+eyewitness reports.
+!******************************!
+[ec0b01000b000000:02cb010000]
+Smashing!
+
+For a shady trio, their clothes might be a
+bit too conspicuous.
+!******************************!
+[ed0b01000c000000:0216020000]
+Too bad!
+
+Start with what you know for sure and
+the rest shouldn't be too difficult.
+!******************************!
+[ee0b01000d000000:026b020000]
+You know for sure that the large man
+has a white hat and the woman has a
+green jacket. That's your starting
+point.
+
+You also know that the men have the
+same colour jackets. So what colour
+must their jackets be?
+!******************************!
+[ef0b01000e000000:023e030000]
+The large man has a white hat. This
+means the men's jackets cannot be
+white.
+
+Two of the three scoundrels are wearing
+white trousers, and you know the large
+chap isn't one of them.
+
+Now that you know which two have white
+trousers on, see if you can work out
+the rest.
+!******************************!
+[f00b01000f000000:024a040000]
+The woman's jacket is green and her
+trousers are white. Therefore, her hat
+must be red.
+
+Remember, they are all wearing all three
+colours, but none of them are wearing
+the same combination. Keep this in mind
+and you'll be fine!
+!******************************!
+[f10b010010000000:022e050000]
+You know that the man in the middle
+has white trousers. In order to avoid
+the same combination as the woman,
+therefore, his hat must be green and
+his jacket must be red.
+
+Fill in all those colours and you'll
+have this puzzle solved in no time!
+!******************************!

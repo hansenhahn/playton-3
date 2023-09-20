@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n143
+!******************************!
+n143a
+!******************************!
+n143b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}10 close brothers and sisters live
+together. Now Luke, let's imagine that
+you're the eighth child.
+The oldest daughter is the second son's
+younger sister and the third son's older
+sister. The fourth son is the second
+daughter's older brother and the oldest
+daughter's younger brother. There are no
+boys in between the third and fourth
+daughters.
+Is the third child from the bottom a boy
+or a girl?{''}
+{''}I can't tell just from this!{''}
+Let's tell Luke the answer in secret.
+!******************************!
+[ec0b01000b000000:02f2010000]
+That's right!
+
+It's a boy.
+
+{''}I told you at the beginning, Luke:
+{''}Let's imagine that you're the eighth
+child.{''}
+
+My question was asking about the third
+child from the bottom, or in other words,
+the eighth oldest child. That eighth
+child was you, Luke, and I know better
+than anyone that you're a boy!{''}
+!******************************!
+[ed0b01000c000000:022a030000]
+Too bad.
+
+Try to think of things as simply
+as possible.
+!******************************!
+[ee0b01000d000000:0262030000]
+You weren't confounded by that 
+roundabout explanation, were you?
+Read the puzzle again from the very
+beginning.
+!******************************!
+[ef0b01000e000000:02d3030000]
+Is reading all the conditions of the
+puzzle proving too much of a pain?
+
+If you've started thinking that way,
+then you should know that this is a
+VERY simple puzzle!
+!******************************!
+[f00b01000f000000:0279040000]
+Out of the 10 brothers and sisters,
+Luke is the eighth child {''}from the top{''}.
+
+If this is the first condition of
+the puzzle, then...
+!******************************!
+[f10b010010000000:0203050000]
+Out of 10 brothers and sisters, third
+from the bottom is eighth from the top.
+
+Luke certainly isn't a girl...
+
+{''}I think you know the answer now, Luke!{''}
+!******************************!

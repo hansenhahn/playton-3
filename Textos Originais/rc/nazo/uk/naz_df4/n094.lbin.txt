@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000010000000000000000]
+n094
+!******************************!
+n094a
+!******************************!
+n094b
+!******************************!
+[eb0b01000a000000:0211000000]
+The floor below is made up of 24 tiles. It's
+specially designed so that the tiles will
+fall away in a path, one by one, until
+they're all gone.
+
+Once the first tile falls, an adjacent tile
+falls, then one next to that and so on,
+following this order of suits: hearts,
+spades, diamonds, clubs. The first tile to
+fall, however, is not necessarily a heart.
+
+If you can find the tile that will fall last,
+you can stop this floor from disappearing!
+Touch the last tile and then touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:0200020000]
+Bingo!
+
+Very impressive work!
+!******************************!
+[ed0b01000c000000:021e020000]
+Too bad!
+
+If you can't find that last tile,
+the floor's as good as gone!
+
+You'd better give it another try.
+!******************************!
+[ee0b01000d000000:028a020000]
+First try picking a random tile to
+start from and see how far you can go.
+You have to find a path that will allow
+all the tiles to fall away.
+!******************************!
+[ef0b01000e000000:0218030000]
+If you reach a dead end before all the
+tiles have been cleared, you'll need to
+either start from a different tile or
+try going in another direction.
+!******************************!
+[f00b01000f000000:02ad030000]
+The first tile that falls is a diamond.
+
+The last tile that falls is a spade.
+!******************************!
+[f10b010010000000:02fb030000]
+One of the two spade tiles in the second
+column from the left is the last tile
+that falls.
+!******************************!

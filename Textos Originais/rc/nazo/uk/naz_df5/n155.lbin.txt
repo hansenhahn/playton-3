@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n155
+!******************************!
+n155a
+!******************************!
+n155b
+!******************************!
+[eb0b01000a000000:0211000000]
+Somebody tore this calendar page in half!
+How rude! But the puzzle must go on.
+
+When added together, the four circled
+days equal 20. The smallest of the four
+numbers is one. 
+
+Assuming you had the entire calendar page
+to work with and you circled a square
+of four numbers that added up to 88,
+what would the smallest of those four
+numbers be?
+!******************************!
+[ec0b01000b000000:0268010000]
+Ding ding!
+
+Eighteen is correct! If you look closely
+at a calendar, you'll see some numerical
+patterns. Numbers to the left or right of
+each other differ by one. Numbers above
+or below one another differ by seven.
+In a square of four numbers, the bottom
+row total and top row total will have a
+difference of 14 between them.
+So, if the sum of four numbers in a square
+is 88, the upper two must equal 44 - 7,
+or 37. And those two must differ by one,
+so they're 19 and the answer, 18!
+!******************************!
+[ed0b01000c000000:024b030000]
+Too bad!
+
+Don't go too crazy trying to add up every
+possible combination of four numbers that
+equals 88. Instead, try to be efficient
+in your thought process.
+!******************************!
+[ee0b01000d000000:02ea030000]
+Are you trying to reproduce the entire
+calendar page on a piece of paper?
+
+You could find the answer that way,
+but there might be an easier method...
+!******************************!
+[ef0b01000e000000:0280040000]
+This is a calendar page, so there is a
+specific order to the way the numbers
+are arranged. If you can find a pattern
+between the numbers next to each other
+and above and below one another, you
+might discover an interesting way of
+solving this puzzle.
+!******************************!
+[f00b01000f000000:027b050000]
+On a calendar, numbers to the left and
+right of each other differ by one.
+Numbers above and below each other
+differ by seven.
+
+Using this pattern, there's a relatively
+simple calculation you can use to solve
+this puzzle.
+!******************************!
+[f10b010010000000:0258060000]
+In the square of numbers you're looking
+for, the bottom-right one is 26.
+!******************************!

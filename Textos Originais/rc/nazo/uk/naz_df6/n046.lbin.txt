@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000a00000000f203000000f2030000000100000000000000000000000000]
+n046
+!******************************!
+n046a
+!******************************!
+n046b
+!******************************!
+[eb0b01000a000000:0211000000]
+Create a tunnel that leads from the
+entrance to the exit, going through every
+segment on the way.
+
+Touch a tile to switch between a straight
+and a curved segment. Touch the edge of
+a tile and slide it in a circle to rotate it.
+
+The green tiles are already in their
+correct positions, so you can't change
+them. 
+
+Good luck!
+!******************************!
+[ec0b01000b000000:0254010000]
+Good work!
+
+Crikey, that was a project and a half!
+!******************************!
+[ed0b01000c000000:0287010000]
+Too bad!
+
+Keep trying, that tunnel won't finish
+itself!
+!******************************!
+[ee0b01000d000000:02bf010000]
+This tunnel has no intersections, which
+means it forms a continuous line from
+the entrance to the exit.
+!******************************!
+[ef0b01000e000000:0227020000]
+There are no other ways out of the
+tunnel apart from the entrance and
+exit. As you can see, the segment in the
+bottom-right corner has to be curved
+and it's clear which way it has to turn.
+The segment in the top-left corner also
+has to be curved so it can connect to
+the fixed piece on its right.
+
+These are the types of little hints you
+should use to work this puzzle out,
+bit by bit.
+!******************************!
+[f00b01000f000000:02a9030000]
+You can use the information from Hint
+2 to determine the third, fourth and
+fifth segments from the entrance.
+
+Try to integrate the nearby fixed
+segments into the sequence and it's
+clear what the next two are.
+!******************************!
+[f10b010010000000:027a040000]
+The segment beneath the exit is
+straight, and the piece below that
+connects to the fixed segment on its
+left.
+
+You can work out the rest.
+!******************************!

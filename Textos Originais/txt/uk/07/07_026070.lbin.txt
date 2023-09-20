@@ -1,0 +1,160 @@
+[7017010000000000:0019000000]
+[7117030001000000:000a00000002000000000207000000]
+ポルテ
+!******************************!
+<T>Welcome to Pepper's Noodle Palace!
+!******************************!
+[7117030004000000:000a0000000200000000022d000000]
+ポルテ
+!******************************!
+<T>I'm Pepper, and if you're in the
+mood for tasty treats, you've
+come to the right place!
+!******************************!
+[7117030007000000:000a00000002880000000291000000]
+レイトン
+!******************************!
+<T>That sounds delightful, Pepper.
+But what we're actually hungry
+for is answers.
+!******************************!
+[711703000a000000:000a000000028800000002e3000000]
+レイトン
+!******************************!
+<T>Would you mind if we asked you
+a few questions?
+!******************************!
+[711703000d000000:000a00000002000000000216010000]
+ポルテ
+!******************************!
+<T><A3/1>I'm up to my ears in prep work
+here. Why not order something?
+We can talk while you eat.
+!******************************!
+[7117030010000000:000a00000002880000000278010000]
+レイトン
+!******************************!
+<T>All right. What do you recommend?
+!******************************!
+[7117030013000000:000a0000000200000000029d010000]
+ポルテ
+!******************************!
+<T><A2/1>We've put a London twist on
+traditional Chinese food.
+!******************************!
+[7117030016000000:000a00000002dc01000002e3010000]
+ルーク
+!******************************!
+<T><A1/6>Wow! What does that involve?
+!******************************!
+[7117030019000000:000a00000002000000000209020000]
+ポルテ
+!******************************!
+<T>All sorts! Fish and chip suey,
+spotted dim sum and our speciality,
+jellied eel noodle soup.
+!******************************!
+[711703001c000000:000a00000002000000000268020000]
+ポルテ
+!******************************!
+<T>Oh, and the special today is pork
+noodle soup!<W> We've even made a
+puzzle about it!
+!******************************!
+[711703001f000000:00e8030000020000000002c0020000]
+ポルテ
+!******************************!
+<T>Aw well, you tried your best. <W>What
+you need is some ballast. Shall I
+take your order?
+!******************************!
+[7117030022000000:00d00700000200000000021c030000]
+ポルテ
+!******************************!
+<T>Heya gents! Back for another
+hearty helping of that pork noodle
+puzzle?
+!******************************!
+[7117030025000000:00b80b000002000000000267030000]
+ポルテ
+!******************************!
+<T>So, what'll it be, gents?
+!******************************!
+[7117030028000000:00b80b000002dc0100000284030000]
+ルーク
+!******************************!
+<T><A4/2>You know, that puzzle has put me in
+the mood for pork noodle soup. I'll
+have a bowl of that, please.
+!******************************!
+[711703002b000000:00b80b0000028800000002f2030000]
+レイトン
+!******************************!
+<T><A3/2>As will I.
+!******************************!
+[711703002e000000:00b80b000002000000000206040000]
+ポルテ
+!******************************!
+<T>Righto, just one sec.<K><W>.<W>.<W></K> Here you
+are!<W> Now, what did you want to ask?
+!******************************!
+[7117030031000000:00b80b000002880000000261040000]
+レイトン
+!******************************!
+<T><A1/1>I used to live in London about 10
+years ago, but I don't remember
+this part of the city.
+!******************************!
+[7117030034000000:00b80b0000028800000002c3040000]
+レイトン
+!******************************!
+<T>Is this area a new development?
+!******************************!
+[7117030037000000:00b80b0000020000000002e6040000]
+ポルテ
+!******************************!
+<T><A1/4>That's a good question. I don't
+really know. I only opened up
+here a little while ago, actually.
+!******************************!
+[711703003a000000:00b80b000002000000000250050000]
+ポルテ
+!******************************!
+<T>An investor told me this area was
+ripe for a new restaurant, so I
+took the plunge and set up shop.
+!******************************!
+[711703003d000000:00b80b0000028800000002b6050000]
+レイトン
+!******************************!
+<T><A3/1>Interesting...<W> Well, thank you
+for your time - and for the
+recommendations.
+!******************************!
+[7117030040000000:00b80b000002dc010000020e060000]
+ルーク
+!******************************!
+<T><A4/2>Professor, this noodle soup is
+amazing! Hurry up and eat before it
+gets cold!
+!******************************!
+[7117030043000000:00a00f000002000000000265060000]
+ポルテ
+!******************************!
+<T>Welcome to Pepper's Noodle Palace!
+What can I get you?
+!******************************!
+[7117030046000000:00a00f00000288000000029f060000]
+レイトン
+!******************************!
+<T>Nothing for the moment. We're still
+full from that wonderful pork
+noodle soup you served us earlier.
+!******************************!
+[7117030049000000:00a00f000002000000000207070000]
+ポルテ
+!******************************!
+<T>Oh, right! You gents came in earlier.
+Sorry, you lose track of things in
+a busy kitchen.
+!******************************!

@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000006a040000006a040000000100000000000000000000000000]
+n045
+!******************************!
+n045a
+!******************************!
+n045b
+!******************************!
+[eb0b01000a000000:0211000000]
+Move the red and blue blocks to the
+spaces of the same colour. Touch the
+arrow buttons at the bottom to rotate
+the board 90 degrees. Blocks fall
+downwards when there's nothing beneath
+them.
+
+Give it a try!
+!******************************!
+[ec0b01000b000000:02df000000]
+Superb!
+
+How many moves did it take you?
+Could you do it in five?
+!******************************!
+[ed0b01000c000000:0221010000]
+Too bad!
+
+Give it another try.
+!******************************!
+[ee0b01000d000000:0240010000]
+Rotate the board enough times and
+you're sure to get there eventually!
+!******************************!
+[ef0b01000e000000:0287010000]
+Think about moving the blue block
+first. Everything should fall into
+place for you after that.
+!******************************!
+[f00b01000f000000:02e6010000]
+If you're having trouble, you might
+be tempted to keep restarting the
+puzzle, but don't give in to temptation,
+keep rotating the board!
+!******************************!
+[f10b010010000000:026e020000]
+Rotate the board five times in a
+certain direction...
+!******************************!

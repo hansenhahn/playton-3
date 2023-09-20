@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000560400000056040000000100000000000000000000000000]
+n076
+!******************************!
+n076a
+!******************************!
+n076b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}In the course of his research, Father
+discovered a very significant number and
+noted it on a slip of paper.
+
+Unfortunately, somebody mistook this
+note for a piece of rubbish and tore it
+up into pieces! Now Father is hopping
+mad and Mother is beside herself...
+
+Perhaps you can work out the number
+by piecing the note back together?{''}
+!******************************!
+[ec0b01000b000000:0265010000]
+That's it!
+
+{''}The number is 74!
+
+And don't tell anybody, but the person
+who tore up the note? It was me...{''}
+!******************************!
+[ed0b01000c000000:02d6010000]
+Too bad!
+
+Did you line up all the pieces
+correctly? Take another look.
+!******************************!
+[ee0b01000d000000:021d020000]
+Did you put the pieces back together
+carefully? If you do it correctly, the
+answer should reveal itself.
+!******************************!
+[ef0b01000e000000:0286020000]
+The number isn't written down. Did you
+notice there are some edges that fit
+together perfectly and some that
+don't?
+!******************************!
+[f00b01000f000000:02fa020000]
+If you line up all the edges that
+fit together perfectly, the gaps
+in the middle will reveal a number.
+!******************************!
+[f10b010010000000:0261030000]
+Did you notice the number that's formed
+by the gaps between the pieces?
+That's your answer. It's two digits.
+!******************************!

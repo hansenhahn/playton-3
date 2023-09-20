@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000007e040000007e040000000100000000000000000000000000]
+n085
+!******************************!
+n085a
+!******************************!
+n085b
+!******************************!
+[eb0b01000a000000:0211000000]
+The plus sign displayed in the top-left is
+hidden somewhere in this pattern.
+Can you find it?
+
+It's exactly the same shape and size.
+Draw a line around it.
+!******************************!
+[ec0b01000b000000:02ad000000]
+That's right!
+
+It should be easy, but people seem to
+have a hard time solving this one.
+
+The human eye can be surprisingly
+unreliable.
+!******************************!
+[ed0b01000c000000:0234010000]
+Too bad.
+
+Take another careful look at the pattern.
+!******************************!
+[ee0b01000d000000:0268010000]
+The shape is visible from the very
+start, but it's hard for the eye to
+pick out. Be sure to keep your focus.
+!******************************!
+[ef0b01000e000000:02d5010000]
+You can get distracted by all the
+lines and have trouble finding the
+shape's outline. Try drawing some
+plus signs using the Memo Function
+to see if that helps.
+!******************************!
+[f00b01000f000000:0275020000]
+It's the top half you need to focus
+on. There should be one place where
+a plus sign can be drawn.
+!******************************!
+[f10b010010000000:02d7020000]
+Look carefully at the top-right.
+That's where the plus sign is hiding.
+!******************************!

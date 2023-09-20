@@ -1,0 +1,126 @@
+[7017010000000000:0013000000]
+[7117030001000000:000a00000002000000000209000000]
+ロゼッタ
+!******************************!
+<T>There you are, Professor L! I see
+you've cancelled our lecture again
+this week.
+!******************************!
+[7117030004000000:000a0000000200000000025c000000]
+ロゼッタ
+!******************************!
+<T>Let me guess, you're off
+investigating another strange
+mystery, aren't you?
+!******************************!
+[7117030007000000:000a00000002ab00000002b4000000]
+レイトン
+!******************************!
+<T><A4/1>Ah, Miss Stone. Hello there.
+Yes, I'm afraid that something
+rather pressing has come up.
+!******************************!
+[711703000a000000:000a00000002ab0000000216010000]
+レイトン
+!******************************!
+<T>I'll be holding supplementary
+lectures later, though. You can
+be sure of it.
+!******************************!
+[711703000d000000:000a00000002000000000266010000]
+ロゼッタ
+!******************************!
+<T>Oh, no worries, Professor L. As
+long as I get the credits, I don't
+really care.
+!******************************!
+[7117030010000000:000a00000002ab00000002b9010000]
+レイトン
+!******************************!
+<T>Now, what kind of attitude is that,
+Rosetta?
+!******************************!
+[7117030013000000:000a00000002ab00000002e9010000]
+レイトン
+!******************************!
+<T>If you want those credits, you'll
+have to earn them.
+!******************************!
+[7117030016000000:000a00000002ab0000000221020000]
+レイトン
+!******************************!
+<T><A4/2>And since your topic is the stone
+relics of Cornwall, I'd say you
+have your work cut out for you.
+!******************************!
+[7117030019000000:000a00000002ab000000028c020000]
+レイトン
+!******************************!
+<T>As your supervisor, I insist that
+you check in with me weekly until
+your dissertation is up to scratch.
+!******************************!
+[711703001c000000:000a000000020000000002f7020000]
+ロゼッタ
+!******************************!
+<T>Heh heh! I didn't mean to imply that
+I wasn't interested in my studies.
+!******************************!
+[711703001f000000:000a00000002000000000242030000]
+ロゼッタ
+!******************************!
+<T>And I'm very much looking forward
+to our...sessions together.
+!******************************!
+[7117030022000000:000a00000002000000000283030000]
+ロゼッタ
+!******************************!
+<T><A3/5>Not every girl has the privilege of
+receiving private tuition from the
+great Professor Layton.
+!******************************!
+[7117030025000000:000a00000002ab00000002eb030000]
+レイトン
+!******************************!
+<T><A3/1>Erm.<W> Ahem.<W> What I meant was that
+you should check in with me during
+office hours.
+!******************************!
+[7117030028000000:000a0000000200000000024c040000]
+ロゼッタ
+!******************************!
+<T><A2/2>Oh, you don't have to tell me twice,
+Professor L. I'll see you next
+week.<W> Heh heh!
+!******************************!
+[711703002b000000:001400000002ab04000002b2040000]
+ルーク
+!******************************!
+<T><A1/5>I don't know what that girl's up to,
+but it can't be good, Professor!
+!******************************!
+[711703002e000000:001400000002ab0000000201050000]
+レイトン
+!******************************!
+<T>Nonsense, my boy.<W> It's all in your
+head.
+!******************************!
+[7117030031000000:001400000002ab0400000230050000]
+ルーク
+!******************************!
+<T>You can't fool me. Did you see the
+look she gave you? She's a...<W>a...<W>
+maneater!<W> Whatever that means...
+!******************************!
+[7117030034000000:001400000002ab00000002a2050000]
+レイトン
+!******************************!
+<T><A5/1>Oh dear...
+!******************************!
+[7117030037000000:001e000000020000000002b6050000]
+ロゼッタ
+!******************************!
+<T>Heh heh!<W><A2/2> You're always off chasing
+some mystery, aren't you,
+Professor L?
+!******************************!

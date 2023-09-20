@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n210
+!******************************!
+n210a
+!******************************!
+n210b
+!******************************!
+[eb0b01000a000000:0211000000]
+This photo of telephone boxes was taken
+on a London street corner. The phone
+boxes were a brilliant shade of red, but
+sadly the photo turned out a bit faded.
+Four phone boxes appear in the photo, but
+only three have a working phone.
+
+Which phone box is the one that can't be
+used?
+!******************************!
+[ec0b01000b000000:022a010000]
+Good call!
+
+Box D.
+
+The yellow arrows show the direction in
+which sunlight falls. It is therefore the
+right side of the phone boxes that should
+be in shadow. Looking at how the shadows
+lie on the left side of box D, it becomes
+clear that it is a mirror image of box C.
+
+Box D can't be used because it's not
+actually there!
+!******************************!
+[ed0b01000c000000:026d020000]
+Too bad!
+
+One of the phone boxes is not like
+the others...
+!******************************!
+[ee0b01000d000000:02a8020000]
+If you look closely, you'll see that
+one of the phone boxes is actually a
+reflection of another one.
+!******************************!
+[ef0b01000e000000:020d030000]
+
+!******************************!
+[f00b01000f000000:020e030000]
+
+!******************************!
+[f10b010010000000:020f030000]
+
+!******************************!

@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n083
+!******************************!
+n083a
+!******************************!
+n083b
+!******************************!
+[eb0b01000a000000:0211000000]
+Make your way from the green square to
+the red square, one step at a time.
+
+What's the catch? Well, you can only move
+to numbers that are one higher or lower
+than your current number.
+
+Reach the red goal square following this
+rule and the door will open. Each number
+you touch will light up. Make sure all the
+squares on your route are lit up before
+submitting your answer.
+!******************************!
+[ec0b01000b000000:0287010000]
+Success!
+
+You found the correct path!
+!******************************!
+[ed0b01000c000000:02ad010000]
+Too bad!
+
+Remember, you can only move to numbers
+that differ by one from your current
+number.
+
+Keep this simple rule in mind and give it
+another try.
+!******************************!
+[ee0b01000d000000:0243020000]
+It may seem like there are many
+junctions, but choose your path
+carefully and you'll be all right.
+
+!******************************!
+[ef0b01000e000000:02a7020000]
+Don't let the numbers get too large.
+If you reach a seven, you've made a
+mistake. When you reach a six, your
+next step should be to a five.
+
+Think you can solve it now?
+!******************************!
+[f00b01000f000000:0250030000]
+If you're stuck, try going from the red
+goal square to the green start square.
+There's only one path you can initially
+take in that direction.
+!******************************!
+[f10b010010000000:02df030000]
+The correct path is:
+
+1, 2, 3, 4, 3, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1
+!******************************!

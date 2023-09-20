@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n038
+!******************************!
+n038a
+!******************************!
+n038b
+!******************************!
+[eb0b01000a000000:0211000000]
+Inserting one of the blocks (A, B, C or D)
+into the space marked {''}?{''} reveals a
+hidden message.
+
+Touch the letter of the correct block.
+!******************************!
+[ec0b01000b000000:029e000000]
+Quite right!
+
+The answer is block B, which is shaped like
+the letter O. When you insert that block
+into the space and line up all the blocks,
+they spell out {''}LAYTON{''}!
+!******************************!
+[ed0b01000c000000:024b010000]
+Too bad!
+
+You need to look at this puzzle from
+various angles. 
+!******************************!
+[ee0b01000d000000:028b010000]
+Are the blocks' complicated shapes
+confusing you?
+
+Here's a hint: each block represents
+something.
+
+!******************************!
+[ef0b01000e000000:02ef010000]
+The upper blocks are letters.
+
+Try to work out which letter each block
+at the top represents.
+!******************************!
+[f00b01000f000000:024d020000]
+As we all know, the main character in
+this game is Professor Layton. Think
+about that for a second...
+!******************************!
+[f10b010010000000:02b3020000]
+As Hint 3 alluded to, the upper sequence
+of blocks almost spells out {''}LAYTON{''}.
+
+Which letter is needed to complete the
+word?
+!******************************!

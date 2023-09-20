@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n137
+!******************************!
+n137a
+!******************************!
+n137b
+!******************************!
+[eb0b01000a000000:0211000000]
+You placed three identical paper cups on
+the table as shown in the top-left image
+and secretly marked the middle one as
+shown by the small blue arrow.
+
+You then closed your eyes and told a
+friend: {''}Hide a coin under one of these
+cups and then switch the places of the
+other two.{''}
+
+When you opened your eyes, the cups were
+rearranged as shown below. Which one has
+the coin hidden under it, A, B or C?
+!******************************!
+[ec0b01000b000000:02a7010000]
+Yeah!
+
+The coin is under cup A!
+
+Since the marked cup in the middle moved
+to the right to become cup C, you know
+that it switched places with the cup that
+was there originally, cup B.
+
+The cup that your friend hid the coin
+under didn't move, so you know it must
+be cup A!
+!******************************!
+[ed0b01000c000000:02b7020000]
+Too bad!
+
+There's nothing confusing about this
+puzzle if you just think things through...
+!******************************!
+[ee0b01000d000000:0211030000]
+Which cup didn't move?
+!******************************!
+[ef0b01000e000000:0228030000]
+The marked cup moved.
+!******************************!
+[f00b01000f000000:023e030000]
+The marked cup moved from the middle
+over to the right.
+!******************************!
+[f10b010010000000:0276030000]
+The marked cup started in the middle
+and switched places with the cup on
+the right.
+
+So where's the coin?
+!******************************!

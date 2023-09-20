@@ -1,0 +1,87 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T><A1/1>Say, Professor, how are we going
+to keep track of our progress?
+!******************************!
+[7117030004000000:00140000000250000000025d000000]
+ナレーション
+!******************************!
+<T>Ah yes.<W><A2/2> I suspect we could both use
+a refresher on that subject.
+!******************************!
+[7117030007000000:001e000000025000000002aa000000]
+ナレーション
+!******************************!
+<T>To start, touch the trunk icon
+located in the top-right corner of
+the Touch Screen.
+!******************************!
+[711703000a000000:002800000002500000000201010000]
+ナレーション
+!******************************!
+<T>This will open the trunk, where you
+can access several useful options
+by touching their icons.
+!******************************!
+[711703000d000000:002d00000002500000000263010000]
+ナレーション
+!******************************!
+<T>This is the Puzzle Index. This option
+allows you to review puzzles you've
+found during the adventure.
+!******************************!
+[7117030010000000:0032000000025000000002cc010000]
+ナレーション
+!******************************!
+<T>This is the Save option. Touch this
+option to save your progress
+throughout the adventure.
+!******************************!
+[7117030013000000:003c00000002500000000263010000]
+ナレーション
+!******************************!
+<T>This is the Puzzle Index. This option
+allows you to review puzzles you've
+found during the adventure.
+!******************************!
+[7117030016000000:00460000000250000000022a020000]
+ナレーション
+!******************************!
+<T>Solved puzzles are marked with a
+tick. Those you're yet to solve are
+blank.
+!******************************!
+[7117030019000000:004600000002500000000279020000]
+ナレーション
+!******************************!
+<T>Any previously solved puzzle can
+be replayed from this menu.
+!******************************!
+[711703001c000000:0046000000025000000002b9020000]
+ナレーション
+!******************************!
+<T>In order to have another go at an
+unsolved puzzle, however, you'll
+need to return to its location.
+!******************************!
+[711703001f000000:00500000000250000000021f030000]
+ナレーション
+!******************************!
+<T>Finally, this is the Journal. Touch
+the Journal to review the events
+of the story.
+!******************************!
+[7117030022000000:005a00000002000000000275030000]
+ルーク
+!******************************!
+<T><A3/2>Got it, Professor!
+!******************************!
+[7117030025000000:005a0000000291030000029a030000]
+レイトン
+!******************************!
+<T>That's good to hear, Luke. I imagine
+we'll be making good use of the
+trunk during our investigation.
+!******************************!

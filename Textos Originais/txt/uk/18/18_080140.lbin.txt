@@ -1,0 +1,180 @@
+[7017010000000000:001b000000]
+[7117030001000000:000a00000002000000000209000000]
+マモリス
+!******************************!
+<T>Well, hello. And who might you be?
+!******************************!
+[7117030004000000:000a000000022f0000000238000000]
+レイトン
+!******************************!
+<T><A1/1>My name is Hershel Layton. I don't
+believe I've made your
+acquaintance, Mr...?
+!******************************!
+[7117030007000000:000a00000002000000000290000000]
+マモリス
+!******************************!
+<T><A5/8>Me? I'm Beacon. <A5/7>I take care of that
+lighthouse on the river.
+!******************************!
+[711703000a000000:000a00000002dc00000002e3000000]
+ルーク
+!******************************!
+<T><A3/1>Then shouldn't you be in there, um,
+protecting the shore from errant
+boats?
+!******************************!
+[711703000d000000:000a00000002000000000238010000]
+マモリス
+!******************************!
+<T><A1/1>Oh, hello little boy. You were so
+quiet, I didn't notice you down
+there!
+!******************************!
+[7117030010000000:000a0000000200000000028a010000]
+マモリス
+!******************************!
+<T>So you want to know why I'm here?<W>
+I'd be happy to tell you, but first
+I could really use some help.
+!******************************!
+[7117030013000000:000a000000020000000002f4010000]
+マモリス
+!******************************!
+<T><A4/6>There's this puzzle I just can't
+solve. It's been keeping me up all
+night, and I need my beauty sleep.
+!******************************!
+[7117030016000000:000a00000002000000000264020000]
+マモリス
+!******************************!
+<T>Won't you help me find the answer
+to this troublesome little thing?
+!******************************!
+[7117030019000000:00e8030000020000000002ab020000]
+マモリス
+!******************************!
+<T><A5/7>Giving up already?<W> Oh fiddlesticks!
+!******************************!
+[711703001c000000:00d0070000020000000002db020000]
+マモリス
+!******************************!
+<T><A2/3>I've lost so much sleep over this
+puzzle. Won't you help me solve
+the dreadful thing, please?
+!******************************!
+[711703001f000000:00b80b000002000000000242030000]
+マモリス
+!******************************!
+<T><A5/7>Goodness, you're quite the
+intellectual, aren't you?
+!******************************!
+[7117030022000000:00b80b000002000000000280030000]
+マモリス
+!******************************!
+<T>Now, what was it that you and your
+little friend wanted to talk to me
+about?
+!******************************!
+[7117030025000000:00b80b0000022f00000002d0030000]
+レイトン
+!******************************!
+<T><A2/1>We were just wondering what you
+were doing here on the shore,
+instead of in the lighthouse.
+!******************************!
+[7117030028000000:00b80b000002000000000235040000]
+マモリス
+!******************************!
+<T><A4/6>Ah yes. Well, mine's a rather sad
+story, so I hope you're not criers.
+I'll try to keep it brief.
+!******************************!
+[711703002b000000:00b80b00000200000000029f040000]
+マモリス
+!******************************!
+<T><A1/1>Before I came to London, I was
+the star lighthouse keeper down in
+Dover.
+!******************************!
+[711703002e000000:00b80b0000020000000002f1040000]
+マモリス
+!******************************!
+<T>But then my employer fitted the
+place out with a mechanical
+control system.
+!******************************!
+[7117030031000000:00b80b000002000000000240050000]
+マモリス
+!******************************!
+<T>With the machine there, I was made,
+as they say, redundant!<W> I was
+utterly crushed!
+!******************************!
+[7117030034000000:00b80b000002000000000299050000]
+マモリス
+!******************************!
+<T><A2/3>I was living my dream down there,
+only to be chased out by a machine!
+!******************************!
+[7117030037000000:00b80b0000022f00000002e8050000]
+レイトン
+!******************************!
+<T><A4/1>That is a terribly unfortunate turn
+of events.
+!******************************!
+[711703003a000000:00b80b000002000000000220060000]
+マモリス
+!******************************!
+<T><A3/5>Just wait, it gets worse. After
+being run out of town, I found
+work here in London.
+!******************************!
+[711703003d000000:00b80b00000200000000027d060000]
+マモリス
+!******************************!
+<T>The ad said I'd be looking after the
+lighthouse, but when I peeked
+inside, I got a horrible shock!
+!******************************!
+[7117030040000000:00b80b0000020000000002e3060000]
+マモリス
+!******************************!
+<T>The whole thing was filled with
+awful machines buzzing, whirring
+and doing other machiney things!
+!******************************!
+[7117030043000000:00b80b000002000000000248070000]
+マモリス
+!******************************!
+<T><A1/1>This morning, I just couldn't stand
+being around all that clanking, so I
+came for a walk to clear my head.
+!******************************!
+[7117030046000000:00b80b000002dc00000002bc070000]
+ルーク
+!******************************!
+<T><A2/1>Strange. Why would the owner put
+out an ad for a lighthouse keeper
+when the machines do all the work?
+!******************************!
+[7117030049000000:00b80b000002dc000000022b080000]
+ルーク
+!******************************!
+<T>There's something fishy about this,
+Professor.
+!******************************!
+[711703004c000000:00b80b0000022f000000025d080000]
+レイトン
+!******************************!
+<T>I agree.<W> I have a feeling there's
+more going on here than you, I or
+Beacon are aware of.
+!******************************!
+[711703004f000000:00a00f0000020000000002bc080000]
+マモリス
+!******************************!
+<T><A3/5>I should never have come to London.
+I would've been better off staying
+on the coast.
+!******************************!

@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>A discussion with Rudolph reveals
+that the pagoda's owner spends
+much of his time down by the river.
+!******************************!
+[7117030004000000:001400000002000000000275000000]
+ナレーション
+!******************************!
+<T>Following this new lead, Layton
+and the others head down to the
+Thames.
+!******************************!

@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n202
+!******************************!
+n202a
+!******************************!
+n202b
+!******************************!
+[eb0b01000a000000:0211000000]
+You have eight gems of four different
+types. They have been placed in boxes in
+sets of two. You want to find out which
+type of gem is heavier, {#D} or {#A}.
+
+You can weigh the gems by dragging the
+boxes onto the scales and touching the
+button in the centre.
+
+What is the minimum number of times you'll
+need to use the scales to find out which
+of {#D} and {#A} is heavier? Touch <CR>Input
+Answer</C> and then write your answer.
+!******************************!
+[ec0b01000b000000:02bc010000]
+That's right!
+
+Only once.
+Compare the two sets:  {#B}{#A} and {#A}{#C}
+with the two sets: {#D}{#D} and {#C}{#B}.
+
+Since both sides have {#C} and {#B} in common,
+these cancel each other out, so it's the
+same as comparing two {#D} with two {#A}.
+!******************************!
+[ed0b01000c000000:02b0020000]
+Too bad.
+
+Don't assume too much...
+!******************************!
+[ee0b01000d000000:02d3020000]
+Look carefully at the contents of each
+set. Once you've grasped what each set
+includes, you'll know how to compare
+them.
+
+You can place more than one set on
+each side of the scales at the same
+time.
+!******************************!
+[ef0b01000e000000:029a030000]
+
+!******************************!
+[f00b01000f000000:029b030000]
+
+!******************************!
+[f10b010010000000:029c030000]
+
+!******************************!

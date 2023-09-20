@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a00000002000000000209000000]
+バッカス
+!******************************!
+<T>You're not going to have a bite
+before you leave? That's a real
+shame, lad.
+!******************************!
+[7117030004000000:000a00000002000000000258000000]
+バッカス
+!******************************!
+<T>I don't mean to twist the knife, but
+you're missing out on the finest
+lamb you'll ever dig a fork into.
+!******************************!
+[7117030007000000:000a00000002c300000002ca000000]
+ルーク
+!******************************!
+<T><A1/4>If I could stay, I would, believe me.
+Next time I'm here, I'm ordering
+for two!
+!******************************!

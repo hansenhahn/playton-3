@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n194
+!******************************!
+n194a
+!******************************!
+n194b
+!******************************!
+[eb0b01000a000000:0211000000]
+A frog is sitting on a long, thin stick.
+This frog can only move by hopping 70 cm
+or 30 cm at a time. In order to move 10 cm
+down the stick in the lowest possible
+number of hops, the frog must hop 70 cm
+forwards and then make two 30 cm hops
+backwards.
+
+Using this method, which of the distances
+marked on the stick, from 20 cm to 100 cm,
+will require the most hops to reach?
+
+Touch <CR>Input Answer</C>, then enter a
+number as your answer.
+!******************************!
+[ec0b01000b000000:02c9010000]
+Top of the hops!
+
+The answer is 50 cm.
+
+The frog will have to hop five times to
+reach that point on the stick.
+!******************************!
+[ed0b01000c000000:0238020000]
+Too bad!
+
+Try working out how many hops it would
+take the frog to reach each of the
+remaining nine marked distances.
+!******************************!
+[ee0b01000d000000:02ad020000]
+There's no special trick to working
+this one out, so you'll just have to
+knuckle down and think about each one
+of the distances individually.
+
+Just bear in mind that there might be a
+more efficient way to reach a distance
+than you realise at first.
+!******************************!
+[ef0b01000e000000:02a6030000]
+
+!******************************!
+[f00b01000f000000:02a7030000]
+
+!******************************!
+[f10b010010000000:02a8030000]
+
+!******************************!

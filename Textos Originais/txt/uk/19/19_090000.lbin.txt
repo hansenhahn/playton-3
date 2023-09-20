@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>A letter from Luke's future self
+directs Layton and Luke towards a
+clock shop on Midland Road.
+!******************************!
+[7117030004000000:00140000000200000000026f000000]
+ナレーション
+!******************************!
+<T>En route to the clock shop, they
+recall the strange events at last
+week's time machine presentation.
+!******************************!

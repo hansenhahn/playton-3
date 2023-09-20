@@ -1,0 +1,60 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T><A1/6>Yikes! This place is disgusting!
+!******************************!
+[7117030004000000:00140000000231000000023a000000]
+レイトン
+!******************************!
+<T>It seems this tunnel has been
+neglected for some time. It's
+started to leak and fall apart.
+!******************************!
+[7117030007000000:001400000002310000000299000000]
+レイトン
+!******************************!
+<T>There's no way to get to the other
+side without getting one's feet
+thoroughly soaked.
+!******************************!
+[711703000a000000:0014000000020000000002f2000000]
+ルーク
+!******************************!
+<T>No wonder those scientists always
+have wet shoes!
+!******************************!
+[711703000d000000:001400000002310000000227010000]
+レイトン
+!******************************!
+<T>With all the boats in the area
+under Family supervision, crossing
+the river is no easy task.
+!******************************!
+[7117030010000000:001400000002310000000287010000]
+レイトン
+!******************************!
+<T>The tunnel is their best bet for
+unimpeded movement between both
+sides of the river.
+!******************************!
+[7117030013000000:001e00000002df01000002e6010000]
+アロマ
+!******************************!
+<T><A2/5>Professor! Luke! Wait! If we try
+and walk through this mess, we'll
+all get absolutely soaked.
+!******************************!
+[7117030016000000:00280000000200000000024d020000]
+ルーク
+!******************************!
+<T>I know it's hard, Flora.<W> <A2/1>But
+sometimes sacrifices must be made
+for the sake of the investigation.
+!******************************!
+[7117030019000000:002800000002df01000002bb020000]
+アロマ
+!******************************!
+<T><A3/3>That's easy for you to say, Luke.
+You're wearing shorts!
+!******************************!

@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n158
+!******************************!
+n158a
+!******************************!
+n158b
+!******************************!
+[eb0b01000a000000:0211000000]
+It takes 15 minutes to travel from station
+A, the first stop on the line, to station B.
+It takes five minutes to travel from
+station B to station C.
+It takes 10 minutes to travel from station
+C to the last stop on the line, station D.
+However, it does not take 30 minutes to
+travel from station A to station D.
+
+Given that this is a straight railway line
+with no branches, how many minutes does it
+take to go from station A to station D?
+!******************************!
+[ec0b01000b000000:02c7010000]
+Choo choo!
+
+Twenty minutes is correct!
+
+To meet the conditions of this puzzle,
+station C must be located between
+station A and station B.
+!******************************!
+[ed0b01000c000000:0251020000]
+Too bad!
+
+Try altering your thought process.
+!******************************!
+[ee0b01000d000000:027e020000]
+It's impossible?
+
+Well, the conditions are all true, so
+there's no funny business going on
+there. Be flexible in your thinking
+and see if you can work it out.
+!******************************!
+[ef0b01000e000000:021d030000]
+You need to reverse your thinking!
+!******************************!
+[f00b01000f000000:0240030000]
+Station B must come straight after
+station A, right? Well, no, actually.
+That's just the order of letters in
+the alphabet!
+!******************************!
+[f10b010010000000:02bb030000]
+In order to fulfil the conditions of
+the puzzle, the order of the stations
+must be A, C, B, D. With this knowledge,
+you should be able to calculate the
+time it takes to get from station A to
+station D.
+!******************************!

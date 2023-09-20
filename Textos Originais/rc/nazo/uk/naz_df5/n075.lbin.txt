@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000740400000074040000000100000000000000000000000000]
+n075
+!******************************!
+n075a
+!******************************!
+n075b
+!******************************!
+[eb0b01000a000000:0211000000]
+For each of the four squares below,
+there is a way to display all the
+numbers from zero to nine. Touch the
+four buttons, A, B, C and D, to change
+the numbers according to a hidden set
+of rules.
+
+Work out the hidden rules and set all
+the numbers to zero.
+!******************************!
+[ec0b01000b000000:020f010000]
+Wonderful job!
+
+Button A adds five, B adds three,
+C adds seven and D adds four.
+
+You must have worked that out. Unless
+you're one of those people that just
+kept pounding the buttons until they
+set everything to zero...
+!******************************!
+[ed0b01000c000000:02ea010000]
+Too bad!
+
+Better try again.
+!******************************!
+[ee0b01000d000000:0206020000]
+Notice that when a number goes over
+nine, the counter starts again at zero.
+In other words, the numbers are on a
+loop, so touch the buttons as many
+times as you like. It won't mess
+anything up.
+
+If you touch each button several times
+and pay close attention to what each
+one does, the rules should become clear.
+!******************************!
+[ef0b01000e000000:023e030000]
+The coloured rectangle connected
+to each button indicates the two
+squares that it affects. When a button
+is touched, the two numbers within
+its coloured rectangle increase
+according to a hidden rule. Study what
+happens to the numbers when you touch
+each button.
+!******************************!
+[f00b01000f000000:0244040000]
+Button A adds five.
+Button B adds three.
+
+It shouldn't be too hard to work out
+the rules for buttons C and D now.
+
+But even knowing the rules, how do
+you turn all the numbers to zero?
+!******************************!
+[f10b010010000000:02fc040000]
+Don't get too frustrated if you're
+still stuck. This puzzle is tricky.
+
+To solve it, don't touch button A at
+first, instead touch buttons C and D
+until the numbers in A's rectangle are
+both five. After that, you'll be able to
+solve it in no time.
+!******************************!

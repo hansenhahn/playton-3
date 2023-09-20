@@ -1,0 +1,103 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Hello there. Do you live in
+Chinatown? Could you tell us a
+little about the area?
+!******************************!
+[7117030004000000:000a000000025c0000000265000000]
+ミーチェ
+!******************************!
+<T>Listen to yourself, young man.
+<A2/1>Like all sentient beings, we exist
+both everywhere and nowhere.
+!******************************!
+[7117030007000000:000a000000020000000002cd000000]
+ルーク
+!******************************!
+<T>Well that's very...nice.
+!******************************!
+[711703000a000000:000a000000025c00000002e9000000]
+ミーチェ
+!******************************!
+<T><A3/1>Now, if what you really wanted to
+ask me was where my physical body
+resides, I'll tell you.
+!******************************!
+[711703000d000000:000a000000025c000000024e010000]
+ミーチェ
+!******************************!
+<T>I do indeed {''}live{''} in Chinatown.
+!******************************!
+[7117030010000000:000a000000025c0000000278010000]
+ミーチェ
+!******************************!
+<T><A3/3>Here you can find exotic goods
+and rare wonders from all over
+the world.
+!******************************!
+[7117030013000000:000a000000025c00000002ca010000]
+ミーチェ
+!******************************!
+<T>But these things don't interest me.
+Material objects are mere flecks
+of dust on the universe's canvas.
+!******************************!
+[7117030016000000:000a00000002000000000234020000]
+ルーク
+!******************************!
+<T><A4/4>Ugh. Something tells me I picked the
+wrong person to ask for
+directions.
+!******************************!
+[7117030019000000:000a000000025c0000000286020000]
+ミーチェ
+!******************************!
+<T><A2/1>You've only just started making
+your way in this world, young one.
+!******************************!
+[711703001c000000:000a000000025c00000002d2020000]
+ミーチェ
+!******************************!
+<T>For you, many of life's greatest
+puzzles remain unsolved.<W> This one,
+for example.
+!******************************!
+[711703001f000000:00e8030000025c0000000229030000]
+ミーチェ
+!******************************!
+<T>Learn, but do not lose your
+individuality. You mustn't conform
+to the values of the masses.
+!******************************!
+[7117030022000000:00e803000002000000000288030000]
+ルーク
+!******************************!
+<T><A1/1>Erm... I'll try my best.
+!******************************!
+[7117030025000000:00d0070000025c00000002aa030000]
+ミーチェ
+!******************************!
+<T>I see you've returned, young one.
+!******************************!
+[7117030028000000:00b80b0000025c00000002cf030000]
+ミーチェ
+!******************************!
+<T>Yes, that's it! Seek the answers to
+your own questions! That is the
+root of individuality.
+!******************************!
+[711703002b000000:00b80b0000025c000000022d040000]
+ミーチェ
+!******************************!
+<T>Only by doing this will you find the
+true value to be had in the infinite
+moment we call the present.
+!******************************!
+[711703002e000000:00b80b000002000000000296040000]
+ルーク
+!******************************!
+<T>Erm...<W> Thanks for the compliment,
+but I have to go now. Bye!
+!******************************!

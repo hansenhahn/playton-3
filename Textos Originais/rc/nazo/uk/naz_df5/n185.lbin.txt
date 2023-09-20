@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n185
+!******************************!
+n185a
+!******************************!
+n185b
+!******************************!
+[eb0b01000a000000:0211000000]
+This is a jelly mould.
+
+After pouring in the liquid jelly and
+letting it set in the fridge, you turn out
+the mould and get a solid shape of jelly.
+
+Which one of the jelly shapes, A to D, is
+the shape produced by your mould?
+!******************************!
+[ec0b01000b000000:02f1000000]
+That's right!
+
+The answer is shape D.
+When the jelly is turned out of the mould,
+right and left are reversed, as well
+as the indentation.
+
+Since the colour of the jelly depends on
+the ingredients, it is irrelevant to this
+puzzle.
+!******************************!
+[ed0b01000c000000:02d7010000]
+Too bad.
+
+Think about what you're looking at.
+!******************************!
+[ee0b01000d000000:0205020000]
+What will the jelly look like when it's
+removed from the mould?
+
+Look at the details on the jelly shapes
+and try to reverse your way of
+thinking.
+!******************************!
+[ef0b01000e000000:0297020000]
+
+!******************************!
+[f00b01000f000000:0298020000]
+
+!******************************!
+[f10b010010000000:0299020000]
+
+!******************************!

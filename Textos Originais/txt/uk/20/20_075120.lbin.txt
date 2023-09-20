@@ -1,0 +1,47 @@
+[7017010000000000:0007000000]
+[7117030001000000:000a00000002000000000209000000]
+ダミアン
+!******************************!
+<T><A2/1>Perfect timing, fellows! We just
+finished the mural!
+!******************************!
+[7117030004000000:000a0000000247000000024e000000]
+ルーク
+!******************************!
+<T><A1/2>Oh great!<W> Wow, that's a real work
+of art!
+!******************************!
+[7117030007000000:000a00000002000000000284000000]
+ダミアン
+!******************************!
+<T><A1/1>Thanks! I'll be sure to pass on the
+praise to all the young artists who
+helped create it!
+!******************************!
+[711703000a000000:000a000000024700000002e7000000]
+ルーク
+!******************************!
+<T><A4/2>Don't forget to give yourself a
+pat on the back while you're at it!
+!******************************!
+[711703000d000000:000a00000002470000000234010000]
+ルーク
+!******************************!
+<T>You may not have painted it, but
+you still put a lot of effort into
+that mural, Slate!
+!******************************!
+[7117030010000000:000a0000000200000000028e010000]
+ダミアン
+!******************************!
+<T><A3/2>Heh heh! Thanks!<W> It's not going
+anywhere, so come and have a look
+at it any time you like.
+!******************************!
+[7117030013000000:00e803000002f501000002f6010000]
+
+!******************************!
+The mural is finished! It's a
+beautiful work of art unrivalled
+in all of London.
+!******************************!

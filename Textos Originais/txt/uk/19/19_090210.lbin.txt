@@ -1,0 +1,29 @@
+[7017010000000000:0004000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Our heroes divide into two groups
+and make a successful escape from
+the Towering Pagoda.
+!******************************!
+[7117030004000000:000a00000002000000000269000000]
+ナレーション
+!******************************!
+<T>Once outside, Luke, Layton and
+Don Paolo discuss Dimitri's 
+ambitions and his dark past.
+!******************************!
+[7117030007000000:0014000000020000000002c5000000]
+ナレーション
+!******************************!
+<T>The discussion then turns to
+Don Paolo, and the source of his
+contempt for Layton.
+!******************************!
+[711703000a000000:00140000000200000000021b010000]
+ナレーション
+!******************************!
+<T>With many of their questions
+answered, our heroes head to
+the hotel in order to regroup.
+!******************************!

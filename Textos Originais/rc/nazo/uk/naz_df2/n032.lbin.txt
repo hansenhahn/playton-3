@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000700000000420400000042040000000100000000000000000000000000]
+n032
+!******************************!
+n032a
+!******************************!
+n032b
+!******************************!
+[eb0b01000a000000:0211000000]
+A red garnet has fallen to the bottom of
+this cluttered briefcase. Can you move
+the garnet to the opening at the top by
+sliding the clutter out of the way?
+!******************************!
+[ec0b01000b000000:02ad000000]
+Great!
+
+Just look at that sparkling gem!
+!******************************!
+[ed0b01000c000000:02d6000000]
+Too bad.
+
+Try again!
+!******************************!
+[ee0b01000d000000:02eb000000]
+All that clutter is confusing, isn't it?
+Well, here's a hint for you. You can't
+just move the garnet straight up. Looks
+like you'll have to bring it round from
+the right.
+!******************************!
+[ef0b01000e000000:0296010000]
+Move the following pieces up: the
+corner-shaped piece above the gem,
+then the T-shaped piece in the
+top-right and the piece below it
+that looks like an L on its side.
+
+You can then move the garnet up
+and all the way over to the right.
+!******************************!
+[f00b01000f000000:0281020000]
+When you've followed the instructions
+given in Hint 2, put the gem in the
+cavity of the U-shaped piece in the
+bottom-right.
+
+You can then move the pieces above it
+to the left out of the way.
+
+Now move the gem all the way to the
+top-right corner.
+!******************************!
+[f10b010010000000:0277030000]
+If you made it all the way through Hint
+3, the rest should be simple.
+
+At this point, the gem should be in
+the top-right corner. If you move
+the three pieces that are below the
+briefcase's opening, a way out will
+appear.
+
+The key is to not move any items apart
+from the three you moved initially.
+!******************************!

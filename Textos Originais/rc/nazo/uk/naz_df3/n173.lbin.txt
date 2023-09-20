@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n173
+!******************************!
+n173a
+!******************************!
+n173b
+!******************************!
+[eb0b01000a000000:0211000000]
+The seller of a large farm has demanded
+that a prospective buyer also purchase
+all the cows and chickens currently
+living on the land or the deal is off!
+
+{''}There are 30 animals on my farm.{''}
+
+{''}But...how many of each are there?{''}
+
+{''}Well, there are 100 legs. What a bargain,
+right? Do we have a deal?{''}
+
+All the animals are healthy and have all
+their legs. How many cows are there?
+!******************************!
+[ec0b01000b000000:029c010000]
+Exactly!
+
+There are 20 cows living on the farm.
+
+20 cows with four legs each equals 80
+legs. 10 chickens with two legs each
+equals 20 legs. Together, that's a total
+of 30 animals and 100 legs!
+!******************************!
+[ed0b01000c000000:025d020000]
+Too bad!
+
+Don't let this sneaky seller fool you!
+!******************************!
+[ee0b01000d000000:028e020000]
+You know there are 100 legs in total,
+so start from there. Try different
+combinations of numbers and see what
+you end up with.
+
+Say there are 15 cows and 15 chickens.
+That's 15 times four legs for the cows
+and 15 times two legs for the chickens.
+That gives you 30 animals and 90 legs.
+Close, but not quite 100. Now give it
+a try yourself and see if you can work
+out the answer!
+!******************************!
+[ef0b01000e000000:0208040000]
+
+!******************************!
+[f00b01000f000000:0209040000]
+
+!******************************!
+[f10b010010000000:020a040000]
+
+!******************************!

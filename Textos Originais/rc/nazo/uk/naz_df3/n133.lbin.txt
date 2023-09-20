@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000b00000000f203000000f2030000000100000000000000000000000000]
+n133
+!******************************!
+n133a
+!******************************!
+n133b
+!******************************!
+[eb0b01000a000000:0211000000]
+This wooden board is oddly shaped and
+difficult to work with.
+
+The best solution would be to cut it
+into two pieces that form a square when
+they are combined.
+
+However, the grain of the wood means
+that the two pieces can't be flipped or
+rotated after being cut.
+
+Draw lines where the board needs to be
+cut, then touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:025f010000]
+Sharp answer!
+
+That wasn't too hard, was it?
+!******************************!
+[ed0b01000c000000:028c010000]
+Too bad!
+
+The answer is actually rather simple.
+Take another look and try again.
+!******************************!
+[ee0b01000d000000:02dd010000]
+Compare the shape of your strange
+wooden board to the square in the
+top-right corner. Keep the number of
+little squares along each side in mind.
+That should give you a good place to
+start.
+!******************************!
+[ef0b01000e000000:029a020000]
+Each side of the square you're trying
+to make is five little squares. If you
+bear that in mind, you should be able
+to work out where to cut.
+!******************************!
+[f00b01000f000000:0227030000]
+You may have noticed that you could
+simply cut a straight line two rows
+in from the right side and then flip
+and rotate that piece to make it fit.
+However, that's against the rules
+because it would mess up the grain.
+
+The cut you need to make looks like
+some steps...
+!******************************!
+[f10b010010000000:0233040000]
+From the left edge of the empty square
+in the bottom-right corner, cut up one
+square, over to the left one square,
+then up one more square. That's it!
+!******************************!

@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n003
+!******************************!
+n003a
+!******************************!
+n003b
+!******************************!
+[eb0b01000a000000:0211000000]
+Your bus journey to work takes one hour.
+You work for two hours, then take the
+bus home from the bus stop next to where
+you work. The bus timetables to and from
+work are shown below.
+
+You want to make the time between getting
+on the bus to work and getting off the
+bus from work as short as possible. Which
+bus should you take to work in order to
+achieve this?
+
+Touch the letter next to the departure
+time of this bus.
+!******************************!
+[ec0b01000b000000:02b4010000]
+That's right!
+
+Taking the midnight bus to work and
+catching the first bus back in the 
+morning will take the least amount of
+time overall.
+!******************************!
+[ed0b01000c000000:023f020000]
+Bad luck!
+
+Making some notes on the bus timetable
+might help you work it out.
+!******************************!
+[ee0b01000d000000:028d020000]
+You can choose any bus you like to get
+to work, but you have to take the first
+bus that leaves after you finish work in
+order to get back as quickly as possible.
+
+Remember to take this into consideration.
+!******************************!
+[ef0b01000e000000:025a030000]
+For example, suppose that there is a
+bus at 12:30. If you took this bus you
+would get to work at 13:30. By the time
+you finished work it'd be 15:30. 
+
+Work out what time you'd finish work for
+each bus on the timetable this way.
+!******************************!
+[f00b01000f000000:023e040000]
+Forget any preconceived notions you
+might have about what time work starts.
+
+You can work at any time you like. 
+!******************************!
+[f10b010010000000:02af040000]
+Don't rule out working at night and
+going home in the morning...
+!******************************!

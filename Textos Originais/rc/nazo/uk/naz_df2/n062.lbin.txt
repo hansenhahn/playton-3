@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000004c040000004c040000000100000000000000000000000000]
+n062
+!******************************!
+n062a
+!******************************!
+n062b
+!******************************!
+[eb0b01000a000000:0211000000]
+Bowls of plain noodles and pork noodles
+are lined up in a row on the counter.
+
+Line up the bowls so that bowls of plain
+noodles and pork noodles alternate, but
+make sure they all remain evenly spaced.
+
+What is the fewest number of moves it
+would take to accomplish this task?
+
+Note that in this puzzle, simply switching
+the places of two bowls counts as two
+moves!
+!******************************!
+[ec0b01000b000000:027e010000]
+That's using your noodle!
+
+Just move the pork from one bowl
+to another!
+!******************************!
+[ed0b01000c000000:02c6010000]
+Too bad.
+
+Are the bowls evenly spaced?
+!******************************!
+[ee0b01000d000000:02ed010000]
+Isn't this the same as last time?
+
+Well, no, actually. It's a bit different.
+Don't be afraid to try out different
+things.
+!******************************!
+[ef0b01000e000000:0267020000]
+A bowl of plain noodles. A bowl of pork
+noodles. What exactly is the difference
+between the two dishes?
+
+Poke around a bit with your stylus and
+see what you can find...
+!******************************!
+[f00b01000f000000:0210030000]
+Whoa! You can just move the pork?!
+!******************************!
+[f10b010010000000:0233030000]
+Counting from left to right, move the
+pork from the fourth bowl to the fifth
+bowl. And...you're done!
+
+Now, how many moves was that?
+!******************************!

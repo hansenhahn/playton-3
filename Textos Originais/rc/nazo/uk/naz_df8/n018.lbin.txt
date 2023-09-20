@@ -1,0 +1,80 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000600000000f203000000f2030000000100000000010000000001000000]
+n018
+!******************************!
+n018a
+!******************************!
+n018b
+!******************************!
+[eb0b01000a000000:0211000000]
+Dr Schrader needs to drink one fifth of
+this bottle of medicine per day over a
+period of five days. Unfortunately, the
+dosages aren't marked on the bottle.
+
+Dr Schrader has taken the first dose, and
+the amount of medicine in the bottle has
+been reduced to the level shown in the
+diagram. It's now time for the second
+dose.
+
+To where should he drink today? Draw a
+line on the bottle to mark the point at
+which he should stop drinking.
+!******************************!
+[ec0b01000b000000:02c3010000]
+That's right!
+
+You can rotate the bottle left or right
+and get the same result. Just make sure
+the medicine reaches the line you drew.
+
+Looking at the diagram, you can see that
+a diagonal line like the one shown divides
+the rectangle into two. Since the
+rectangle makes up two fifths of the
+medicine, halving it gives you just the
+right amount!
+!******************************!
+[ed0b01000c000000:021c030000]
+Too bad!
+
+Look at the shape of the bottle again and
+work out how to find the right dose for
+Dr Schrader.
+!******************************!
+[ee0b01000d000000:0285030000]
+It's easy to divide the medicine into 
+five doses when looking at the bottle 
+from the bottom. If each square
+contains one dose, then on the first
+day you would drink one square, and
+on the second day you'd drink one more.
+!******************************!
+[ef0b01000e000000:0264040000]
+No matter how you tilt the bottle,
+there's no way of getting the medicine
+to lie evenly within the outlines of the
+squares. You must therefore find the
+required dosage by dividing the squares
+another way. For example, you could try
+combining two adjacent squares that
+make a rectangle, then drawing a
+diagonal line through the middle. The
+resulting triangle would contain the
+same amount of medicine as one of the
+squares.
+!******************************!
+[f00b01000f000000:020b060000]
+Try finding the kind of rectangles
+talked about in Hint 2. You can create
+two horizontal rectangles using the
+centre square and the square to its
+left or right.
+!******************************!
+[f10b010010000000:02ac060000]
+You've got to draw a line through one
+of the two rectangles talked about in
+Hint 3.
+
+Think about the angle of this line.
+!******************************!

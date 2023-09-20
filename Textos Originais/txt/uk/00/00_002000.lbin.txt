@@ -1,0 +1,120 @@
+[7017010000000000:0012000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<V0000><T>Professor, I hope this letter finds
+you well.<W><W> As for me, I am in quite
+a predicament.</V>
+!******************************!
+[7117030004000000:000a00000002000000000277000000]
+ナレーション
+!******************************!
+<V0010><T>You see, the London we know and
+love has been thrown into
+absolute chaos.</V>
+!******************************!
+[7117030007000000:000a000000020000000002cf000000]
+ナレーション
+!******************************!
+<V0020><T>To complicate matters, the
+calamity I speak of does not take
+place in your time.</V>
+!******************************!
+[711703000a000000:000a0000000200000000022e010000]
+ナレーション
+!******************************!
+<V0030><T>This may be difficult to believe,<W>
+but I am writing to you from 10
+years in the future.</V>
+!******************************!
+[711703000d000000:000a00000002000000000296010000]
+ナレーション
+!******************************!
+<V0040><T>I know this is a lot to take in,
+but I'll explain it all soon.</V>
+!******************************!
+[7117030010000000:000a000000020000000002e3010000]
+ナレーション
+!******************************!
+<V0050><T>For now, I ask that you head to
+the clock shop on Midland Road in
+Baldwin.</V>
+!******************************!
+[7117030013000000:000a0000000200000000023c020000]
+ナレーション
+!******************************!
+<V0060><T>I look forward to seeing you again.
+
+     <W120>Your student, Luke Triton</V>
+!******************************!
+[7117030016000000:00140000000294020000029f020000]
+OPレイトン
+!******************************!
+<V0070><T>Strange as it sounds, it seems that
+the author of this letter is none
+other than your future self, Luke.</V>
+!******************************!
+[7117030019000000:00140000000216030000021f030000]
+OPルーク
+!******************************!
+<V0080><T>From...my future self?</T> <T><W><W>But how
+is that even possible?</V>
+!******************************!
+[711703001c000000:001400000002940200000270030000]
+OPレイトン
+!******************************!
+<V0090><T>I don't know, but it does raise the
+question: if this letter is indeed
+authentic, how did it get here?</V>
+!******************************!
+[711703001f000000:0014000000021603000002e5030000]
+OPルーク
+!******************************!
+<V0100><T>Um...<W> By time-travelling postman?</T><W>
+<A2/2><T>Just joking, of course!</V>
+!******************************!
+[7117030022000000:001400000002160300000240040000]
+OPルーク
+!******************************!
+<T><V0101>But seriously, I think this mystery
+might be the strangest we've ever
+encountered!</V>
+!******************************!
+[7117030025000000:0014000000029402000002a1040000]
+OPレイトン
+!******************************!
+<V0110><T><A1/2>Indeed. And even in the future, you
+seem to need my help in solving it.</V>
+!******************************!
+[7117030028000000:0014000000029402000002fd040000]
+OPレイトン
+!******************************!
+<T><V0111>Your constancy can be quite a
+comfort in these uncertain times,
+my boy.</V>
+!******************************!
+[711703002b000000:001400000002160300000253050000]
+OPルーク
+!******************************!
+<V0120><T><A2/1>Er...<W></T><T> Well, thank you, I think.<W>
+But back to the letter - how do we
+know it's real?</V>
+!******************************!
+[711703002e000000:0014000000029402000002c7050000]
+OPレイトン
+!******************************!
+<V0130><T><A1/1><K>Hmm...</K> Well, we haven't much to go
+on yet.</T></V>
+!******************************!
+[7117030031000000:001400000002940200000211060000]
+OPレイトン
+!******************************!
+<T><V0135><T>But I can't help but think that this
+strange occurrence is connected to
+the terrible events of last week.</V>
+!******************************!
+[7117030034000000:00140000000216030000028c060000]
+OPルーク
+!******************************!
+<V0140><T><K><A1/1>Hmm...</V>
+!******************************!

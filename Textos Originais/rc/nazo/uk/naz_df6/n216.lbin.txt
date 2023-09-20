@@ -1,0 +1,48 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n216
+!******************************!
+n216a
+!******************************!
+n216b
+!******************************!
+[eb0b01000a000000:0211000000]
+From each top letter, follow the vertical
+line down, and turn to follow the first
+horizontal line you reach. Then continue
+downwards, turning 90 degrees at every 
+intersection you meet.
+
+This map is meant to connect each top
+letter to its matching bottom letter when
+followed as described above. However, it
+contains two mistakes. To make it work,
+two horizontal lines must be removed.
+Touch those two lines to mark them with
+an X, then touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:02dc010000]
+Perfect!
+
+The map now works just as designed.
+!******************************!
+[ed0b01000c000000:020a020000]
+Too bad!
+
+Remember, only two horizontal lines need
+to be removed for the map to work.
+!******************************!
+[ee0b01000d000000:0260020000]
+The two horizontal lines between letters
+B and C are fine as they are.
+
+That should make things a lot easier!
+!******************************!
+[ef0b01000e000000:02ce020000]
+
+!******************************!
+[f00b01000f000000:02cf020000]
+
+!******************************!
+[f10b010010000000:02d0020000]
+
+!******************************!

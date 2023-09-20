@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n212
+!******************************!
+n212a
+!******************************!
+n212b
+!******************************!
+[eb0b01000a000000:0211000000]
+The picture below represents 10 ordinary
+playing cards, the ace to the 10 of
+hearts.
+
+The actual cards, however, look a little
+different from what's shown here.
+
+Which three cards add up to 12 when you
+count the hearts displayed on each card?
+!******************************!
+[ec0b01000b000000:0204010000]
+Hearty!
+
+Ace, two and three is the correct
+combination!
+
+It's easy to forget to count the heart
+below each of the two numbered corners
+on every card, but you got it!
+!******************************!
+[ed0b01000c000000:02aa010000]
+Too bad!
+
+Before you pull out a deck of cards
+to solve this puzzle the easy way,
+try stretching your brain and see
+if you can remember what playing cards
+look like.
+!******************************!
+[ee0b01000d000000:024f020000]
+Try to visualise what real playing cards
+look like. There is a number of hearts
+in the middle of each card equal to its
+value. But that's not all! There is also
+a heart below the number in two corners
+of every card.
+
+You should be able to work it out now!
+!******************************!
+[ef0b01000e000000:024f030000]
+
+!******************************!
+[f00b01000f000000:0250030000]
+
+!******************************!
+[f10b010010000000:0251030000]
+
+!******************************!

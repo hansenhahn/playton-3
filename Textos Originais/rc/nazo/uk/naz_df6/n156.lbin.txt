@@ -1,0 +1,92 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n156
+!******************************!
+n156a
+!******************************!
+n156b
+!******************************!
+[eb0b01000a000000:0211000000]
+There are 52 cards in the deck below,
+26 black and 26 red. No jokers.
+
+After shuffling the deck and randomly
+cutting it in half, you count 23 cards
+in the stack on the left.
+
+So, what's the difference between the
+number of red cards in the left stack
+and the number of black cards in the
+right stack?
+!******************************!
+[ec0b01000b000000:023e010000]
+You aced it!
+
+There will always be three more black
+cards in the stack on the right than
+there are red cards in the stack on
+the left.
+
+You can use an equation to solve this
+puzzle, but it's also fun to just try
+some random numbers and work it out that
+way. Once you start noticing that there's
+a consistent difference no matter what
+numbers you choose, it's really exciting!
+!******************************!
+[ed0b01000c000000:02b6020000]
+Too bad!
+
+It's clear that this is a maths problem
+of sorts, but it's hard to work out
+what you're supposed to calculate.
+
+Experiment with some numbers and you
+might notice something...
+!******************************!
+[ee0b01000d000000:026f030000]
+Don't let the fact that this is a
+number problem confuse you.
+
+You should be able to work out the
+answer using simple arithmetic if you
+know what to look for.
+!******************************!
+[ef0b01000e000000:020e040000]
+The quickest way is to come up with
+trial numbers.
+
+There are 23 cards in the left-hand
+stack. Since there are 52 cards in a
+deck, that means 29 cards in the other
+stack.
+
+Now imagine that the left-hand stack is
+made up of 10 red cards and 13 black
+cards. How many cards of each colour
+remain in the right-hand stack?
+!******************************!
+[f00b01000f000000:024c050000]
+After following Hint 2, you can work
+out the colour of the cards in the
+right-hand stack based on how many red
+and black cards are in the left stack.
+Subtract 10 from 26 and you get 16 red
+cards. Then take 13 from 26 and you get
+13 black cards.
+You now know the difference between
+the number of red cards in the left
+stack and black cards in the right!
+Now try a different set of numbers and
+see what you get.
+!******************************!
+[f10b010010000000:02e6060000]
+Keep trying out different numbers.
+If the left stack has five red cards
+and 18 black, the right stack will
+have 21 red cards and eight black.
+
+Now compare this result with the one
+from Hint 3. Look at that! The
+difference is the same no matter
+how many of each colour there are!
+!******************************!

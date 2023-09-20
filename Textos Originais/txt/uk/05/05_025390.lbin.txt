@@ -1,0 +1,158 @@
+[7017010000000000:0018000000]
+[7117030001000000:000a00000002000000000209000000]
+ロゼッタ
+!******************************!
+<T>Heya, Professor L. Where are you
+rushing off to now?
+!******************************!
+[7117030004000000:000a00000002410000000248000000]
+ルーク
+!******************************!
+<T><A1/5>We don't have time to talk!
+We're in the middle of an important
+investigation!
+!******************************!
+[7117030007000000:000a000000020000000002a0000000]
+ロゼッタ
+!******************************!
+<T>I wasn't talking to you, shorty.
+Well, Professor L?
+!******************************!
+[711703000a000000:000a00000002d700000002e0000000]
+レイトン
+!******************************!
+<T>We are indeed following a lead in
+our investigation.
+!******************************!
+[711703000d000000:000a00000002000000000218010000]
+ロゼッタ
+!******************************!
+<T><A2/2>Right, right... I don't suppose I
+could have a second of your time
+before you head off, though?
+!******************************!
+[7117030010000000:000a00000002410000000281010000]
+ルーク
+!******************************!
+<T>Didn't you hear the professor?
+We're in a hurry!
+!******************************!
+[7117030013000000:000a000000020000000002b5010000]
+ロゼッタ
+!******************************!
+<T>Listen, pipsqueak, you might think
+you're the professor's spokesman,
+but, um,<W> YOU AREN'T!
+!******************************!
+[7117030016000000:000a00000002410000000215020000]
+ルーク
+!******************************!
+<T><A1/3>D-did you just call me {''}pipsqueak{''}?!
+!******************************!
+[7117030019000000:000a00000002d70000000249020000]
+レイトン
+!******************************!
+<T>Now, Luke, calm yourself. There's
+always time for a lady's request.<W>
+What can I do for you, Rosetta?
+!******************************!
+[711703001c000000:000a000000020000000002b3020000]
+ロゼッタ
+!******************************!
+<T><A1/1>Heh heh! I knew you wouldn't let me
+down, Professor L.
+!******************************!
+[711703001f000000:000a000000020000000002f3020000]
+ロゼッタ
+!******************************!
+<T>I've got this puzzle I just can't
+get my head around, you see. Won't
+you help a damsel in distress?
+!******************************!
+[7117030022000000:000a00000002d7000000025a030000]
+レイトン
+!******************************!
+<T><A1/2>A puzzle, you say?<W> I think we may
+be able to offer some assistance.
+Let's have a look.
+!******************************!
+[7117030025000000:000a000000024100000002bd030000]
+ルーク
+!******************************!
+<T><A1/5>If all you wanted was some help
+with a puzzle, you should've just
+said so from the start...
+!******************************!
+[7117030028000000:00e803000002000000000222040000]
+ロゼッタ
+!******************************!
+<T>Can't solve it?<W> You must be tired,
+Professor L.
+!******************************!
+[711703002b000000:00e803000002000000000258040000]
+ロゼッタ
+!******************************!
+<T>Tell you what, why not come round
+to mine tonight, and we'll think it
+through together over dinner?
+!******************************!
+[711703002e000000:00e8030000024100000002bf040000]
+ルーク
+!******************************!
+<T><A1/3>The professor's fully booked
+this evening!<W> And for the rest of
+the year, come to think of it!
+!******************************!
+[7117030031000000:00d007000002000000000229050000]
+ロゼッタ
+!******************************!
+<T>You will help me with this pesky
+puzzle, won't you, Professor L?
+!******************************!
+[7117030034000000:00b80b00000200000000026d050000]
+ロゼッタ
+!******************************!
+<T>Thank you sooo much, Professor L!
+Watching you in action always
+takes my breath away. Heh heh!
+!******************************!
+[7117030037000000:00b80b000002d700000002cf050000]
+レイトン
+!******************************!
+<T><A1/2>Think nothing of it, Rosetta.<W>
+I hope to see you next week. Be
+sure not to neglect your studies.
+!******************************!
+[711703003a000000:00b80b00000200000000023b060000]
+ロゼッタ
+!******************************!
+<T>Heh heh.<W> No worries, Professor L.
+I'm looking forward to our many
+hours of...private instruction.
+!******************************!
+[711703003d000000:00b80b0000020000000002a3060000]
+ロゼッタ
+!******************************!
+<T>Oh, and make sure you leave your
+little friend at home next time
+we meet.
+!******************************!
+[7117030040000000:00b80b0000020000000002f0060000]
+ロゼッタ
+!******************************!
+<T>He might distract me from my
+studies.
+!******************************!
+[7117030043000000:00b80b000002410000000219070000]
+ルーク
+!******************************!
+<T><A1/5>I shouldn't say bad things about
+your students, Professor, but she
+is definitely not top of my class!
+!******************************!
+[7117030046000000:00a00f000002000000000288070000]
+ロゼッタ
+!******************************!
+<T>Hope to see you soon, Professor L.
+VERY soon. Heh heh!
+!******************************!

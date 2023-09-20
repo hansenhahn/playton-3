@@ -1,0 +1,108 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T><A2/6><K>Hrm...<W></K> Blast! Which one is it now?
+!******************************!
+[7117030004000000:000a0000000241000000024a000000]
+レイトン
+!******************************!
+<T><A1/1>You look quite deep in thought
+there, Inspector. Have you found
+any new information on the case?
+!******************************!
+[7117030007000000:000a000000020000000002b4000000]
+チェルミー
+!******************************!
+<T><A1/1>Ah, Layton. Just the man I was
+looking for.
+!******************************!
+[711703000a000000:000a000000020000000002e9000000]
+チェルミー
+!******************************!
+<T>You see, I've uncovered a clue that
+has simply stumped me. Here, you
+have a look.
+!******************************!
+[711703000d000000:00e80300000200000000023e010000]
+チェルミー
+!******************************!
+<T><A1/5>I'm this close to cracking the case
+wide open. This close, I tell you!
+!******************************!
+[7117030010000000:00d00700000200000000028e010000]
+チェルミー
+!******************************!
+<T><A1/1>No time for chit-chat, Layton. I've
+a clue that needs deciphering. Here,
+see for yourself.
+!******************************!
+[7117030013000000:00b80b0000020000000002f2010000]
+チェルミー
+!******************************!
+<T><A2/5>That's it! Now I just need to track
+down the fiend who committed this
+crime.
+!******************************!
+[7117030016000000:00b80b00000248020000024f020000]
+ルーク
+!******************************!
+<T><A3/1>Um, Inspector, aren't you supposed
+to be searching for the prime
+minister right now?
+!******************************!
+[7117030019000000:00b80b0000020000000002ad020000]
+チェルミー
+!******************************!
+<T><A3/1>Listen lad, a man of the law can't
+simply ignore one case because
+he's busy with another.
+!******************************!
+[711703001c000000:00b80b000002000000000210030000]
+チェルミー
+!******************************!
+<T>It's every officer's duty to assist
+and defend the citizens of our fair
+city.
+!******************************!
+[711703001f000000:00b80b000002000000000261030000]
+チェルミー
+!******************************!
+<T>That's how I work, even in a place
+as lawless and overrun with
+criminal activity as this.
+!******************************!
+[7117030022000000:00b80b0000020000000002be030000]
+チェルミー
+!******************************!
+<T>Yes, even in this den of depravity,
+I will ensure that the spirit of
+Scotland Yard burns bright! 
+!******************************!
+[7117030025000000:00b80b000002410000000223040000]
+レイトン
+!******************************!
+<T><A1/2>I'm sure the citizens of this London
+are very grateful for your efforts,
+Inspector.
+!******************************!
+[7117030028000000:00b80b000002480200000280040000]
+ルーク
+!******************************!
+<T><A4/2>Yeah, and maybe you'll find some
+clues to help track down the prime
+minister along the way.
+!******************************!
+[711703002b000000:00a00f0000020000000002e5040000]
+チェルミー
+!******************************!
+<T><A1/1>This blasted case has kept me away
+from home for some time now.
+!******************************!
+[711703002e000000:00a00f00000200000000022e050000]
+チェルミー
+!******************************!
+<T><A1/5>I hope I can close the book on it
+soon and get back home before
+Amelie starts to worry.
+!******************************!

@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000001000000]
+n104
+!******************************!
+n104a
+!******************************!
+n104b
+!******************************!
+[eb0b01000a000000:0211000000]
+A shopkeeper points at her exotic cat
+ornaments and says something strange:
+
+{''}Ruby is next to Sapphire.
+Ebony is not white.
+Jade is not green.
+Sapphire is three over from Ebony.
+Ruby is on the end.{''}
+
+So, which cat is Pearl?
+!******************************!
+[ec0b01000b000000:02f7000000]
+Good thinking!
+
+The green cat is called Pearl.
+
+The shopkeeper named each ornament
+after a precious material of a different
+colour. She would appear to be a bit
+eccentric...
+!******************************!
+[ed0b01000c000000:02a5010000]
+Too bad!
+
+This puzzle's a bit mean, isn't it?
+The trick is to change your way of
+thinking.
+!******************************!
+[ee0b01000d000000:0200020000]
+Just to be original, the shopkeeper
+has named each cat after a material of
+a different colour from the ornament
+itself. Fancy that...
+!******************************!
+[ef0b01000e000000:0286020000]
+{''}Ruby is next to Sapphire{''} and {''}Ruby is
+on the end{''}, so Sapphire is either B or
+D.
+
+{''}Sapphire is three over from Ebony{''},
+and we just determined that Sapphire is
+either B or D, so Ebony must be A or E.
+
+However, {''}Ebony is not white{''}, so Ebony
+must be A!
+!******************************!
+[f00b01000f000000:029b030000]
+If A is Ebony, then D must be Sapphire.
+Which cat is next to Sapphire? The last
+part should be pretty simple now.
+!******************************!
+[f10b010010000000:020d040000]
+{''}Ruby is next to Sapphire{''} and {''}Ruby is
+on the end{''}, so E must be Ruby.
+
+A is Ebony.
+
+D is Sapphire.
+
+E is Ruby.
+
+Now consider the condition you haven't
+accounted for and you can work out
+which cat is Pearl!
+!******************************!

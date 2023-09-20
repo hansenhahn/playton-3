@@ -1,0 +1,61 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Salutations, mein amigo. I'm afraid
+I'm a little bit lost.
+!******************************!
+[7117030004000000:000f000000024b0000000254000000]
+レイトン
+!******************************!
+<T>Hello there, Pavel. Fancy meeting
+you here.<W> Where are you trying to
+get to this time?
+!******************************!
+[7117030007000000:001200000002b000000002b7000000]
+ポーロ
+!******************************!
+<T>I read a magnifique article about
+the underground caverns of der welt
+and decided to come and see them.
+!******************************!
+[711703000a000000:0012000000024b0000000222010000]
+レイトン
+!******************************!
+<T>Ah yes... I've done some research
+into these caverns myself.
+!******************************!
+[711703000d000000:0012000000024b0000000262010000]
+レイトン
+!******************************!
+<T>They're said to exist under many
+of the world's great cities.
+
+!******************************!
+[7117030010000000:001200000002b000000002a4010000]
+ポーロ
+!******************************!
+<T>Hai, exactamente. I was on my way
+to discover the subterranean
+ruins of Rome...when I got lost.
+!******************************!
+[7117030013000000:00140000000207020000020e020000]
+ルーク
+!******************************!
+<T>Wait... You were on your way to
+Rome and ended up here?
+!******************************!
+[7117030016000000:001400000002b00000000249020000]
+ポーロ
+!******************************!
+<T>Ja. The road of a traveller is long
+and winding. Nevertheless, I'm sure
+I'm heading the right way.
+!******************************!
+[7117030019000000:001400000002b000000002af020000]
+ポーロ
+!******************************!
+<T>Seeing as how we bumped into each
+other like this, though, how about
+a puzzle pour la route?
+!******************************!

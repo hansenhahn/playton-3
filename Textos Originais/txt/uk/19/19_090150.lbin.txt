@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Luke and the others have a brief
+but intense encounter with a tough
+rabbit by the name of Subject 3.
+!******************************!
+[7117030004000000:000a00000002000000000275000000]
+ナレーション
+!******************************!
+<T>Following some negotiation, the
+rabbit lets the group pass through
+to the riverside area.
+!******************************!
+[7117030007000000:0014000000020000000002d2000000]
+ナレーション
+!******************************!
+<T>Using the clues they obtained in
+Chinatown, our heroes attempt to
+track down the future Layton.
+!******************************!

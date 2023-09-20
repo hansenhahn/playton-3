@@ -1,0 +1,42 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n213
+!******************************!
+n213a
+!******************************!
+n213b
+!******************************!
+[eb0b01000a000000:0211000000]
+The cave ceiling suddenly collapsed
+during your caving expedition and now
+you're trapped underground!
+
+To escape, make your way through the
+blocks and reach the exit, marked by
+the white arrow at the surface.
+
+The orange ball is you. Good luck!
+!******************************!
+[ec0b01000b000000:0206010000]
+You made it!
+
+Phew! That was a close one.
+!******************************!
+[ed0b01000c000000:0230010000]
+Too bad!
+!******************************!
+[ee0b01000d000000:0239010000]
+The two square blocks near the exit
+are a real nuisance, aren't they?
+
+Line those two up along the bottom and
+you'll be out in no time!
+!******************************!
+[ef0b01000e000000:02c1010000]
+
+!******************************!
+[f00b01000f000000:02c2010000]
+
+!******************************!
+[f10b010010000000:02c3010000]
+
+!******************************!

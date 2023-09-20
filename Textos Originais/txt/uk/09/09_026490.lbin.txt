@@ -1,0 +1,87 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T>Hello there, friends. Did you find
+that fella ye were chasin'?
+!******************************!
+[7117030004000000:000a000000024b0000000254000000]
+レイトン
+!******************************!
+<T>Unfortunately not, but I'm
+confident we'll corner him at
+the Towering Pagoda this time.
+!******************************!
+[7117030007000000:000a000000020000000002af000000]
+セガール
+!******************************!
+<T><A1/2>Yikes, jumpin' straight into the
+lion's den, eh? You be careful down
+there in Chinatown.
+!******************************!
+[711703000a000000:000a00000002000000000211010000]
+セガール
+!******************************!
+<T>On the, um, off chance things get
+hairy, come and talk to me. I'll
+help ye out.
+!******************************!
+[711703000d000000:000a0000000264010000026b010000]
+ルーク
+!******************************!
+<T>The way you say that makes me
+think there's more than an off
+chance things'll get hairy...
+!******************************!
+[7117030010000000:000a000000020000000002c9010000]
+セガール
+!******************************!
+<T><A2/1>Not at all, my small friend. But ya
+know what they say: hope for the
+best, prepare for the not best.
+!******************************!
+[7117030013000000:000a00000002640100000237020000]
+ルーク
+!******************************!
+<T>The not best? Don't you mean the
+worst?
+!******************************!
+[7117030016000000:000a00000002000000000262020000]
+セガール
+!******************************!
+<T>Do I? I dunno.<W> Speakin' of
+preparation, have you fellas ever
+heard this one?
+!******************************!
+[7117030019000000:00e8030000020000000002b5020000]
+セガール
+!******************************!
+<T>Leaving a job half done? I didn't
+{''}prepare{''} for that possibility. Arf.
+!******************************!
+[711703001c000000:00d007000002000000000205030000]
+セガール
+!******************************!
+<T>Here to try that puzzle again?<W>
+Good! Here it is.
+!******************************!
+[711703001f000000:00b80b00000200000000023c030000]
+セガール
+!******************************!
+<T>Now that's out the way, I s'pose
+ye'll be headin' to the Towering
+Pagoda, eh?
+!******************************!
+[7117030022000000:00b80b00000200000000028d030000]
+セガール
+!******************************!
+<T>Watch yerselves out there, all
+right?
+!******************************!
+[7117030025000000:00a00f0000020000000002b6030000]
+セガール
+!******************************!
+<T>That pagoda's a treacherous
+place. Keep an eye out for trouble,
+won't ya?
+!******************************!

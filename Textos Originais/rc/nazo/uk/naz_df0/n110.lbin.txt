@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n110
+!******************************!
+n110a
+!******************************!
+n110b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Prepare to be amazed! Once while
+travellin' on a train, I came to the
+realisation that I knew exactly which
+station this complete stranger was goin'
+to get off at. Further evidence of my
+psychic gift!{''}
+
+This man doesn't really have any psychic
+powers. In fact, anybody could have made
+the same correct prediction. Which train
+was he travelling on?
+
+Circle your answer, A, B, C or D, and then
+touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:02b6010000]
+Full steam ahead!
+
+Train D is the right answer.
+
+It is the only train that can reach one
+end of the line without passing another
+station, so you know that all the
+passengers have to get off at the next
+stop.
+!******************************!
+[ed0b01000c000000:0286020000]
+Too bad!
+
+Remember, the man doesn't really have any
+psychic powers, and anybody could make
+the same correct prediction.
+!******************************!
+[ee0b01000d000000:02fe020000]
+You're not overthinking it, are you? If
+you were on the same train as this
+chap, you would know which station the
+stranger would get off at as well.
+!******************************!
+[ef0b01000e000000:0293030000]
+Imagine the train only stopped at one
+station. Anybody could predict where
+the stranger would get off then!
+!******************************!
+[f00b01000f000000:02ff030000]
+Out of the four trains, which one might
+stop at only one station?
+!******************************!
+[f10b010010000000:0241040000]
+If a train is coming up to the last
+station on the line, you know for sure
+that all the passengers will get off at
+the next stop.
+
+Yes, it's that simple!
+!******************************!

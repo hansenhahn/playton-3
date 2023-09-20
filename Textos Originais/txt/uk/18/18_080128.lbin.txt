@@ -1,0 +1,115 @@
+[7017010000000000:0011000000]
+[7117030001000000:000a00000002000000000207000000]
+ラルフ
+!******************************!
+<T><A1/3>You there, what do you think
+you're doing? Children in the
+casino?! Have you lost your mind?
+!******************************!
+[7117030004000000:000a000000026d0000000274000000]
+ルーク
+!******************************!
+<T><A3/1>Yikes!<W> S-sorry, sir! We didn't mean
+to break the rules of your
+establishment.
+!******************************!
+[7117030007000000:000a000000020000000002ce000000]
+ラルフ
+!******************************!
+<T><A2/1>If you're really sorry, prove it
+by solving this puzzle. It's been
+bothering me all day.
+!******************************!
+[711703000a000000:00e803000002000000000230010000]
+ラルフ
+!******************************!
+<T><A3/8>If you don't even have the nous to
+solve this puzzle, you're going to be
+leaving here with empty pockets.
+!******************************!
+[711703000d000000:00d0070000020000000002a3010000]
+ラルフ
+!******************************!
+<T><A2/1>Ah, so you're back to try and
+make amends again?<W> Well, go on
+then. Get solving!
+!******************************!
+[7117030010000000:00b80b0000020000000002ff010000]
+ラルフ
+!******************************!
+<T><A2/5>Oh, it looks like you solved that
+puzzle. Thanks for entertaining me.
+!******************************!
+[7117030013000000:00b80b0000026d000000024e020000]
+ルーク
+!******************************!
+<T><A4/1>What do you mean, {''}entertaining{''}
+you? Didn't you say that puzzle had
+been bothering you all day?
+!******************************!
+[7117030016000000:00b80b0000020000000002be020000]
+ラルフ
+!******************************!
+<T><A1/4>I did say that, but I was lying. I was
+just bored and wanted someone to
+chat to.
+!******************************!
+[7117030019000000:00b80b0000026d0000000218030000]
+ルーク
+!******************************!
+<T><A1/1>Chat? But don't you have work to
+be doing? Considering you own the
+casino?
+!******************************!
+[711703001c000000:00b80b00000200000000026c030000]
+ラルフ
+!******************************!
+<T><A1/4>Ah yes...I lied about that too.
+Sorry, I was so bored I just
+couldn't help messing with you two. 
+!******************************!
+[711703001f000000:00b80b0000020000000002d7030000]
+ラルフ
+!******************************!
+<T><A1/1>In reality I'm just a normal, 
+everyday chap.<W> <A4/9>My name's Mark,
+in case you're wondering.
+!******************************!
+[7117030022000000:00b80b000002000000000241040000]
+ラルフ
+!******************************!
+<T><A3/8>I hope you remember my name. No one
+ever seems to, and it makes me feel
+ever so lonely.
+!******************************!
+[7117030025000000:00b80b0000026d00000002a2040000]
+ルーク
+!******************************!
+<T><A3/1>Wow, this London really is full
+of weirdos.
+!******************************!
+[7117030028000000:00a00f0000020000000002d7040000]
+ラルフ
+!******************************!
+<T><A1/1>Crikey, if I were any more bored,
+I'd be growing splinters.
+!******************************!
+[711703002b000000:00a00f0000026d000000021c050000]
+ルーク
+!******************************!
+<T><A4/1>But you're in a casino! If you're
+that bored, why not go and play a
+few games?
+!******************************!
+[711703002e000000:00a00f000002000000000274050000]
+ラルフ
+!******************************!
+<T><A1/4>Ha! I would if I could, but I've
+already put every penny I had
+into the slots here.
+!******************************!
+[7117030031000000:00a00f0000026d00000002d1050000]
+ルーク
+!******************************!
+<T>Oh...
+!******************************!

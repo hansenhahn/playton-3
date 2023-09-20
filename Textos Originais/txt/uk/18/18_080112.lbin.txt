@@ -1,0 +1,89 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000209000000]
+ハロルド
+!******************************!
+<T><A1/3>Hello there, sir. I must say, you've
+got some nerve coming back here
+after the mess you caused.
+!******************************!
+[7117030004000000:000a00000002720000000279000000]
+ルーク
+!******************************!
+<T><A1/3>Hey, don't blame the professor! It
+was your staff who decided to pick
+a fight with us!
+!******************************!
+[7117030007000000:000a000000020000000002d9000000]
+ハロルド
+!******************************!
+<T><A2/1>Maybe so, but that doesn't change
+the fact that I got demoted for
+letting you two in.
+!******************************!
+[711703000a000000:000a00000002000000000238010000]
+ハロルド
+!******************************!
+<T><A1/3>To be honest, I'm quite annoyed at
+you two for getting me involved in
+all this.
+!******************************!
+[711703000d000000:000a00000002000000000291010000]
+ハロルド
+!******************************!
+<T>But I'm not an unreasonable man.
+I'm willing to let bygones be
+bygones if you solve this puzzle.
+!******************************!
+[7117030010000000:00e8030000020000000002f5010000]
+ハロルド
+!******************************!
+<T><A2/2>What a pity. I was sure you'd breeze
+through this puzzle, what with that
+hat and everything.
+!******************************!
+[7117030013000000:00d00700000200000000025b020000]
+ハロルド
+!******************************!
+<T><A2/2>Back to make amends for getting
+me demoted? If you really want to
+say sorry, solve this.
+!******************************!
+[7117030016000000:00b80b0000020000000002bd020000]
+ハロルド
+!******************************!
+<T><A1/1>This casino used to be a gathering
+place for ladies and gentlemen of
+impeccable taste, but no more.
+!******************************!
+[7117030019000000:00b80b0000022a0300000233030000]
+レイトン
+!******************************!
+<T><A1/1>Yes, I noticed that you're no longer
+working the door.
+!******************************!
+[711703001c000000:00b80b0000022a0300000273030000]
+レイトン
+!******************************!
+<T>Does this mean you've done away
+with membership cards?
+!******************************!
+[711703001f000000:00b80b0000020000000002ad030000]
+ハロルド
+!******************************!
+<T><A2/2>That's right, sir. Financially,
+we're no longer in a position to
+pick and choose our customers.
+!******************************!
+[7117030022000000:00b80b000002000000000216040000]
+ハロルド
+!******************************!
+<T>We're happy to take money from
+anyone willing to lose it.
+!******************************!
+[7117030025000000:00a00f000002000000000253040000]
+ハロルド
+!******************************!
+<T><A1/3>Welcome to the Gilded 7, where
+you're guaranteed to hit the fun
+jackpot every time.
+!******************************!

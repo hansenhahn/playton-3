@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n178
+!******************************!
+n178a
+!******************************!
+n178b
+!******************************!
+[eb0b01000a000000:0211000000]
+This king's crown contains a number of
+jewels of the following types: diamond,
+emerald and sapphire.
+
+There are more than twice as many
+diamonds as there are emeralds. The
+number of sapphires is less than half
+the number of emeralds.
+
+What is the minimum number of jewels in
+the king's crown?
+!******************************!
+[ec0b01000b000000:0236010000]
+Glittering!
+
+The answer is 11 jewels.
+
+If there were only one or two emeralds,
+then the number of sapphires would not
+fit the puzzle conditions. The minimum
+number of emeralds is therefore three,
+meaning that there's one sapphire.
+From that, you know that the minimum
+number of diamonds is seven.
+!******************************!
+[ed0b01000c000000:025f020000]
+Oh dear.
+
+I wonder how much a crown like this
+would cost to buy...
+!******************************!
+[ee0b01000d000000:02a2020000]
+{''}The number of sapphires is less than
+half the number of emeralds.{''} What can
+you gather from this information?
+
+There's at least one of each type of
+jewel, remember.
+
+!******************************!
+[ef0b01000e000000:024f030000]
+
+!******************************!
+[f00b01000f000000:0250030000]
+
+!******************************!
+[f10b010010000000:0251030000]
+
+!******************************!

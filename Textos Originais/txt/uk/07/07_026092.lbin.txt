@@ -1,0 +1,41 @@
+[7017010000000000:0006000000]
+[7117030001000000:000a0000000200000000020b000000]
+ドクトリー
+!******************************!
+<T>Make way! Make way! Coming through!
+I'm in a hurry here! I've got to get
+back!
+!******************************!
+[7117030004000000:0014000000025d0000000264000000]
+アロマ
+!******************************!
+<T>Goodness, that little man startled
+me!
+!******************************!
+[7117030007000000:0014000000025d000000028e000000]
+アロマ
+!******************************!
+<T>Who would've thought such short
+legs could move so quickly? Did you
+see how he raced out of the shop?
+!******************************!
+[711703000a000000:001400000002f700000002fe000000]
+ルーク
+!******************************!
+<T>He was really sprinting, wasn't he?
+It can't have been easy in those
+wet shoes and trousers of his!
+!******************************!
+[711703000d000000:0014000000025d0000000265010000]
+アロマ
+!******************************!
+<T>And he was carrying two armfuls of
+books to boot. He must be a big
+customer here.
+!******************************!
+[7117030010000000:0014000000025d00000002ba010000]
+アロマ
+!******************************!
+<T>Maybe the lady behind the counter
+can tell us something about him.
+!******************************!

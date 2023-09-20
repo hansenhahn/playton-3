@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n167
+!******************************!
+n167a
+!******************************!
+n167b
+!******************************!
+[eb0b01000a000000:0211000000]
+You have three identical bracelets that
+you'd like to make into one big necklace.
+
+Rearrange the tiles below to connect all
+the bracelet pieces in one continuous
+loop.
+!******************************!
+[ec0b01000b000000:02b9000000]
+Skilfully done!
+
+Hopefully it's not too long to wear!
+!******************************!
+[ed0b01000c000000:02ef000000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:0204010000]
+Before you start moving things around
+willy-nilly, think about what kind of
+large loop shape you can make with the
+pieces available.
+!******************************!
+[ef0b01000e000000:0289010000]
+Combine the bracelets into the shape of
+a large plus sign (+).
+!******************************!
+[f00b01000f000000:02c8010000]
+The three blank tiles and one empty
+square go in the four corners when
+the necklace is complete.
+
+Even the shortest solution takes quite
+a few moves, so keep at it and don't
+give up!
+!******************************!
+[f10b010010000000:027f020000]
+Try using the Memo Function to sketch
+out where each type of tile will go when
+the necklace is complete. Once you've
+worked that out, it shouldn't take you 
+too long to manoeuvre the tiles into
+place.
+!******************************!

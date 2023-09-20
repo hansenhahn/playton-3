@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n103
+!******************************!
+n103a
+!******************************!
+n103b
+!******************************!
+[eb0b01000a000000:0211000000]
+Professor Layton and Luke are chatting
+in a clothes shop:
+
+{''}You know, Luke... There's something here
+that really appeals to me. I think I might
+just try and negotiate a purchase!{''}
+
+What has caught Professor Layton's eye?
+!******************************!
+[ec0b01000b000000:02f4000000]
+Keen eye!
+
+The answer is C.
+
+The item Professor Layton is actually
+interested in, however, is the hanger.
+It's shaped like a question mark!
+
+{''}Whenever I see a puzzle, Luke, I can't
+help but take action!{''}
+
+{''}But, Professor...that's not a puzzle,
+it's a hanger!{''}
+!******************************!
+[ed0b01000c000000:0204020000]
+Too bad!
+
+Think about the things that Professor
+Layton loves. You know what they are,
+don't you?
+!******************************!
+[ee0b01000d000000:0265020000]
+Professor Layton isn't much of a
+fashionista, so...
+!******************************!
+[ef0b01000e000000:0299020000]
+Something Professor Layton likes is
+hidden among the clothes...
+!******************************!
+[f00b01000f000000:02d9020000]
+We all know how much Professor Layton
+loves puzzles. So look around for
+something puzzle-like...
+!******************************!
+[f10b010010000000:023a030000]
+Professor Layton loves his puzzles. A
+symbol that represents puzzles is
+hidden somewhere on the screen.
+!******************************!

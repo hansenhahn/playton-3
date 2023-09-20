@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n207
+!******************************!
+n207a
+!******************************!
+n207b
+!******************************!
+[eb0b01000a000000:0211000000]
+Two of the five paper letters below have
+exactly the same surface area. This can
+be confirmed without performing any
+complicated calculations or using a ruler.
+All you need to work it out is two of each
+letter.
+
+Knowing this, can you tell which two
+letters have identical surface areas?
+
+Tick the boxes at the bottom-right of
+both letters and then touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:0283010000]
+Very nice!
+
+The letters C and E are correct.
+
+As shown above, putting two Cs and two
+Es together face-to-face forms the same
+shape! Since these two shapes can be
+perfectly stacked, you know for sure
+that the letters C and E must have the
+same surface areas. This can't be done
+with any of the other letters.
+!******************************!
+[ed0b01000c000000:02b7020000]
+Too bad!
+
+Having two of each letter is the key, so
+there must be a trick to arranging them.
+!******************************!
+[ee0b01000d000000:0213030000]
+Two of each letter...
+
+Think about how you could arrange two
+of each letter to create a larger
+shape. Then try and find the two
+letters whose combined shapes end
+up looking exactly the same!
+!******************************!
+[ef0b01000e000000:02d2030000]
+
+!******************************!
+[f00b01000f000000:02d3030000]
+
+!******************************!
+[f10b010010000000:02d4030000]
+
+!******************************!

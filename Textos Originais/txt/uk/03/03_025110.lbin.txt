@@ -1,0 +1,72 @@
+[7017010000000000:000b000000]
+[7117030001000000:000a0000000200000000020b000000]
+未来ルーク
+!******************************!
+<T>There. Much better. I don't think
+anyone is likely to overhear us now.
+!******************************!
+[7117030004000000:000a0000000255000000025e000000]
+レイトン
+!******************************!
+<T>You mentioned that there is a way
+for us to visit the inspector in our
+own time.
+!******************************!
+[7117030007000000:000a000000025500000002b2000000]
+レイトン
+!******************************!
+<T>I can only imagine that this means
+going back to 10 years ago. Is such
+a thing possible?
+!******************************!
+[711703000a000000:000a0000000200000000020e010000]
+未来ルーク
+!******************************!
+<T><A2/2>Indeed, Professor. But the only
+way to do it is to use the wormhole
+in the clock shop.
+!******************************!
+[711703000d000000:000a000000026e0100000275010000]
+ルーク
+!******************************!
+<T><A4/4>But the door to the clock shop is
+locked. How are we going to get in?
+!******************************!
+[7117030010000000:000a000000020000000002c4010000]
+未来ルーク
+!******************************!
+<T>That shouldn't be a problem. I can
+get that door open for you.
+!******************************!
+[7117030013000000:000a00000002550000000206020000]
+レイトン
+!******************************!
+<T>Strange... Why is it that you have
+such easy access to the wormhole?
+!******************************!
+[7117030016000000:000a0000000200000000024e020000]
+未来ルーク
+!******************************!
+<T>I promise I'll explain everything
+when we get there. Please trust me
+on this.
+!******************************!
+[7117030019000000:000a0000000200000000029f020000]
+未来ルーク
+!******************************!
+<T>But for now, let's return to the
+clock shop on Midland Road.
+!******************************!
+[711703001c000000:000a000000026e01000002df020000]
+ルーク
+!******************************!
+<T><A1/1>But what about our plan to head
+into Chinatown?
+!******************************!
+[711703001f000000:000a00000002000000000218030000]
+未来ルーク
+!******************************!
+<T>That'll have to be put on the back
+burner for now. The situation has
+changed.
+!******************************!

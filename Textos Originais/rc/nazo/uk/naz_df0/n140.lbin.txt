@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n140
+!******************************!
+n140a
+!******************************!
+n140b
+!******************************!
+[eb0b01000a000000:0211000000]
+You have created a scene with the 
+following conditions: 
+
+{.} One male is standing in front of a child.
+{.} Two males are standing behind a female.
+{.} One male and one female are standing
+behind a male.
+{.} One female is standing behind a child.
+
+You created this scene with the minimum
+number of people.
+
+How many people are there in your scene?
+!******************************!
+[ec0b01000b000000:026e010000]
+Three's a crowd!
+
+One adult male, one adult female and one
+male child. That's all it takes if they're
+standing as shown above.
+!******************************!
+[ed0b01000c000000:02ed010000]
+Too bad!
+
+There's a bit of a trick to this one...
+!******************************!
+[ee0b01000d000000:021f020000]
+It's easy to work this one out if you
+draw a picture of the scene.
+
+There's something you need to be
+mindful of, though...
+!******************************!
+[ef0b01000e000000:029a020000]
+You know, the puzzle never specified
+that everybody was facing the same
+direction...
+!******************************!
+[f00b01000f000000:02ef020000]
+There's only one child in your scene.
+ 
+What gender is it?
+!******************************!
+[f10b010010000000:022a030000]
+The child is male!
+
+Things get a lot easier when you've
+worked that out.
+
+With that in mind, a male child standing
+behind an adult male, both of whom have
+their backs to an adult female fulfils
+all the conditions. That's it!
+!******************************!

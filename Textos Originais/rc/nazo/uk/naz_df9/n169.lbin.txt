@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n169
+!******************************!
+n169a
+!******************************!
+n169b
+!******************************!
+[eb0b01000a000000:0211000000]
+A particularly sporty boy is looking at
+some sporting equipment and says:
+
+{''}I love all kinds of sport, but there's
+one piece of equipment here that wasn't
+designed with me in mind.{''}
+
+What could he be talking about?
+
+Select the correct item, then touch
+<CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:0223010000]
+Hole in one!
+
+The answer is the golf club.
+All the equipment except the golf club can
+be used equally well by right-handed or
+left-handed people.
+!******************************!
+[ed0b01000c000000:02b5010000]
+Bad luck.
+
+Try to imagine actually using each item.
+!******************************!
+[ee0b01000d000000:02e9010000]
+Both the golf club and the baseball bat
+are held in one's hands when they're
+being used.
+
+Think about that fact for a while...
+!******************************!
+[ef0b01000e000000:0268020000]
+
+!******************************!
+[f00b01000f000000:0269020000]
+
+!******************************!
+[f10b010010000000:026a020000]
+
+!******************************!

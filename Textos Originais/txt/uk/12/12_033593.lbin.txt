@@ -1,0 +1,104 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T>Ah, Layton. Any breakthroughs in
+your investigation?
+!******************************!
+[7117030004000000:000a0000000243000000024c000000]
+レイトン
+!******************************!
+<T>Possibly, Inspector. In fact, I'm
+very glad to see you. I need you to
+accompany me to the Thames Arms.
+!******************************!
+[7117030007000000:000a000000020000000002b6000000]
+チェルミー
+!******************************!
+<T>The Thames Arms? 
+!******************************!
+[711703000a000000:001400000002cb00000002d4000000]
+バートン
+!******************************!
+<T>My investigation of those premises
+revealed delicious smells, sir.
+!******************************!
+[711703000d000000:00190000000200000000021a010000]
+チェルミー
+!******************************!
+<T><A3/5>Be quiet for just a minute, will you,
+Barton?
+!******************************!
+[7117030010000000:001e00000002000000000251010000]
+チェルミー
+!******************************!
+<T><A3/1>What is there at the Thames Arms
+that's so amazing that I need to
+head there this very instant?
+!******************************!
+[7117030013000000:001e000000024300000002ba010000]
+レイトン
+!******************************!
+<T><A1/2>I make no promises, but it's likely
+that what happens there will lead
+you to the prime minister.
+!******************************!
+[7117030016000000:001e00000002000000000224020000]
+チェルミー
+!******************************!
+<T><A2/5>Really now?<W> <A2/1>Hmm... Well, my interest
+is piqued. But there's the matter
+of this blasted puzzle...
+!******************************!
+[7117030019000000:001e00000002430000000297020000]
+レイトン
+!******************************!
+<T>What puzzle?
+!******************************!
+[711703001c000000:001e000000020000000002a7020000]
+チェルミー
+!******************************!
+<T>It's in this note I found. I have a
+feeling it could have some bearing
+on the case.
+!******************************!
+[711703001f000000:001e000000024300000002fe020000]
+レイトン
+!******************************!
+<T>Would you mind if I had a look at it,
+Inspector?
+!******************************!
+[7117030022000000:00e803000002000000000232030000]
+チェルミー
+!******************************!
+<T>No luck? Well, I'm afraid I'm stuck
+here until I get this puzzle solved.
+!******************************!
+[7117030025000000:00d00700000200000000027e030000]
+チェルミー
+!******************************!
+<T>I'm sure there's a useful clue to be
+found in this note, if only I could
+solve the puzzle.
+!******************************!
+[7117030028000000:00b80b0000024300000002dc030000]
+レイトン
+!******************************!
+<T>I'm sorry, Inspector, but this
+letter doesn't appear to have any
+relevance to your case.
+!******************************!
+[711703002b000000:00b80b000002000000000238040000]
+チェルミー
+!******************************!
+<T><A2/5>Oh. Well, isn't that just wonderful!
+Another prospective lead fizzles
+out.<A3/5> I'm at my wits' end, I tell you.
+!******************************!
+[711703002e000000:00b80b0000020000000002b3040000]
+チェルミー
+!******************************!
+<T><A3/1>Whatever you've got to show me at
+the Thames Arms, it has to be more
+useful than that note.
+!******************************!

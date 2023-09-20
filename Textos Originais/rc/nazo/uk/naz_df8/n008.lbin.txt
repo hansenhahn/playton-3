@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n008
+!******************************!
+n008a
+!******************************!
+n008b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here is a numberless clock face that
+some prankster has rotated an unknown
+amount. The clock is still running
+normally, though, and each coloured
+circle on its face represents an hour.
+
+You can still tell what time it is without
+the numbers. Write down the exact hour.
+
+It doesn't matter whether it's am or pm,
+but your answer should be in the form
+of ?? o'clock.
+!******************************!
+[ec0b01000b000000:027d010000]
+You clocked it!
+
+Yes, the answer is 12 o'clock. The only
+time the two hands would point towards
+the same hour on a clock like this is at
+12 o'clock, though it's impossible to tell
+if it's noon or midnight.
+
+!******************************!
+[ed0b01000c000000:024c020000]
+Too bad!
+
+The answer should become apparent if you
+picture a real clock.
+!******************************!
+[ee0b01000d000000:0295020000]
+The hour hand and the minute hand are
+on top of each other, aren't they?
+!******************************!
+[ef0b01000e000000:02de020000]
+The hour and minute hands are on top of
+each other. They're also pointing at
+one of the hours.
+!******************************!
+[f00b01000f000000:023d030000]
+The hour and minute hands are on top of
+each other. They're also pointing at
+one of the hours.
+
+There's only one hour it could be.
+!******************************!
+[f10b010010000000:02c0030000]
+Imagine the two hands pointing straight
+up. That should give you your answer.
+!******************************!

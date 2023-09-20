@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000001000000]
+n105
+!******************************!
+n105a
+!******************************!
+n105b
+!******************************!
+[eb0b01000a000000:0211000000]
+You return to your flat to find a strange
+piece of paper next to your calculator.
+
+Your flatmate must have been trying
+to tell you something before he left.
+
+The note says {''}101 x 5{''}.
+
+What word could your flatmate have been
+trying to convey to you with this
+mysterious memo?
+!******************************!
+[ec0b01000b000000:022a010000]
+You got it!
+
+The message is {''}SOS{''}.
+
+When you enter 101 x 5 into a calculator,
+you can interpret the answer, 505, as SOS.
+
+Your flatmate was asking for help!
+!******************************!
+[ed0b01000c000000:02cd010000]
+Too bad!
+
+The note is next to the calculator...
+!******************************!
+[ee0b01000d000000:02fd010000]
+Remember, the note was left right next
+to the calculator...
+!******************************!
+[ef0b01000e000000:0239020000]
+A mathematical calculation next to a
+calculator.
+
+You know what you've got to do...
+!******************************!
+[f00b01000f000000:028d020000]
+101 x 5 = 505
+
+The way numbers are displayed on a
+calculator screen is rather unique,
+isn't it?
+!******************************!
+[f10b010010000000:02ed020000]
+The answer to the equation is 505.
+
+On a calculator screen, the five looks
+like an S and the zero looks like an O...
+!******************************!

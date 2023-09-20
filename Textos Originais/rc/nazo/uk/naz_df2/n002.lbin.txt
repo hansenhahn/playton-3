@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000200000000f203000000f2030000000100000000000000000000000000]
+n002
+!******************************!
+n002a
+!******************************!
+n002b
+!******************************!
+[eb0b01000a000000:0211000000]
+Below is the map to the clock shop that
+accompanied the letter from Luke's
+future self. Starting from the yellow
+arrow, can you find the clock shop using
+the times listed on the map?
+
+Circle the letter of the correct building
+and touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:020d010000]
+Good timing!
+
+The answer is H. The times indicate which
+direction to go at each junction, and are
+written in order.
+
+At each junction, you need to check the
+listed time and proceed in the direction a
+clock's hour hand would point.
+!******************************!
+[ed0b01000c000000:02f4010000]
+Too bad!
+
+The times listed are clues for how to get
+to the shop.
+
+Try thinking about it again.
+!******************************!
+[ee0b01000d000000:0253020000]
+To work out the route to the shop,
+you need to know where to turn, and
+in which direction...
+!******************************!
+[ef0b01000e000000:02b0020000]
+Imagine the listed times being displayed 
+on an analogue clock. The minute hand is
+always pointing straight up, but the
+hour hand points in various directions...
+!******************************!
+[f00b01000f000000:0252030000]
+If you're having trouble, you might be
+trying to imagine yourself inside the
+map and working out the directions from
+there.
+
+Try looking at the map as you would a
+clock on a wall, then use the Memo
+Function to draw the direction of the
+hour hand directly onto the map.
+!******************************!
+[f10b010010000000:025f040000]
+For each time listed, move in the
+direction the hour hand would point
+on an analogue clock.
+
+The first time listed is 12:00, so keep
+going north at the first junction you
+come to. The next time is 03:00, so
+you've got to head east at the second
+junction. You can work out the rest
+from here.
+!******************************!

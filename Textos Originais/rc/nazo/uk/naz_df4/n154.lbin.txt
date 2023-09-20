@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n154
+!******************************!
+n154a
+!******************************!
+n154b
+!******************************!
+[eb0b01000a000000:0211000000]
+The black top hat below is made from six
+pieces. Using the same pieces, make a
+white top hat in the same spot!
+
+The pieces must be moved and rotated,
+but you can't flip them over.
+!******************************!
+[ec0b01000b000000:02c5000000]
+Smooth!
+
+What an elegant white top hat!
+!******************************!
+[ed0b01000c000000:02ed000000]
+Too bad!
+
+That's not really the shape of a top hat...
+!******************************!
+[ee0b01000d000000:0223010000]
+This puzzle might look familiar, but
+you can't flip these pieces over.
+
+Start by thinking about what a
+{''}white top hat{''} looks like.
+!******************************!
+[ef0b01000e000000:02ac010000]
+If you move all the pieces outside the
+frame, the frame itself becomes a white
+top hat! See how that works?
+
+Now all you have to do is arrange the
+pieces around the hat to frame it.
+!******************************!
+[f00b01000f000000:0262020000]
+So you know what you need to do, but
+you don't know how to do it? Well,
+not to worry. Here's a hint:
+
+You can fit the two pieces with two
+bends around either end of the hat's
+brim.
+!******************************!
+[f10b010010000000:0217030000]
+The short piece with two bends goes
+around the left side of the brim.
+
+The long piece with two bends goes
+around the right side of the brim.
+
+The rest should be no problem now!
+!******************************!

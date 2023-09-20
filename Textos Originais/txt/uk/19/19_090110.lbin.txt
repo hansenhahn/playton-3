@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Having met up with Future Luke,
+Layton and the others form a plan
+to get into Chinatown.
+!******************************!
+[7117030004000000:001400000002000000000269000000]
+ナレーション
+!******************************!
+<T>Once they get past the guards at
+the gate, their aim is to sneak into
+Future Layton's base.
+!******************************!

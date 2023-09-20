@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n016
+!******************************!
+n016a
+!******************************!
+n016b
+!******************************!
+[eb0b01000a000000:0211000000]
+It seems you need to enter a number to
+open the door. The only clue you have
+is a hastily written note from a woman
+known for her poor handwriting.
+
+Can you work out the number you need?
+!******************************!
+[ec0b01000b000000:02cc000000]
+Exactly right!
+
+The number you need is 8. If you look at
+the note in the right way, you can see
+that it says {''}121 - 113 ={''}, so of course
+the answer is 8.
+!******************************!
+[ed0b01000c000000:026c010000]
+Too bad!
+
+If only you could find some numbers in the
+note...
+!******************************!
+[ee0b01000d000000:02a9010000]
+It looks like RHB, you say?
+
+No, that's not the right track at all.
+Try looking at things in a different way.
+!******************************!
+[ef0b01000e000000:0217020000]
+The answer is a number, so perhaps
+these scrawls are numbers too?
+
+The mark at the end looks a bit like an
+equals sign (=), doesn't it?
+!******************************!
+[f00b01000f000000:029f020000]
+The note is an equation, consisting
+of two three-digit numbers.
+
+Take a closer look!
+!******************************!
+[f10b010010000000:02f4020000]
+The note actually reads {''}121 - 113 ={''}.
+If you can find the answer to that,
+you have the answer to the puzzle.
+!******************************!

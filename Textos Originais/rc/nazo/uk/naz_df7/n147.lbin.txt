@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n147
+!******************************!
+n147a
+!******************************!
+n147b
+!******************************!
+[eb0b01000a000000:0211000000]
+You want to pave your garden using one
+of these five types of paving stones.
+However, only one of these shapes will,
+when used repeatedly, cover every part
+of the garden apart from the
+star-shaped flower pots.
+
+The paving stone shapes can be rotated,
+but not flipped.
+
+Which type of paving stone should you
+use? 
+
+
+!******************************!
+[ec0b01000b000000:024c010000]
+Well done!
+
+E is the paving stone you need to use, as
+you can see above. Being able to make
+good use of stones is a useful skill for
+a gardener.
+!******************************!
+[ed0b01000c000000:02dd010000]
+Too bad.
+
+Maybe landscape gardening is harder than
+it looks...
+!******************************!
+[ee0b01000d000000:021c020000]
+Start laying the stones at the corners.
+There are some types that won't fit
+into every corner, no matter how much
+you rotate them.
+!******************************!
+[ef0b01000e000000:029f020000]
+No matter how you try to lay paving
+stone C, you can only fit three of them
+in the garden, and there will always be
+one space left over.
+
+C cannot therefore be the answer.
+!******************************!
+[f00b01000f000000:024b030000]
+D's got a rather unique shape, so you
+can't fit more than two of those paving
+stones in the garden.
+
+D is therefore out of the question as
+well.
+!******************************!
+[f10b010010000000:02dc030000]
+The answer is one of A, B or E.
+
+As mentioned in Hint 1, if you start
+laying the stones at the corners of the
+garden, you'll soon find out which
+shapes don't fit.
+
+You can't fit more than four of any
+of the stones into the garden.
+!******************************!

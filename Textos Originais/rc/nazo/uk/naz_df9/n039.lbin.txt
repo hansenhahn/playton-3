@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000000000000]
+n039
+!******************************!
+n039a
+!******************************!
+n039b
+!******************************!
+[eb0b01000a000000:0211000000]
+In recent years, this city has been
+suffering from an increase in accidents
+and crime. According to a survey, there's
+one place in the city that has a higher
+average of injured people and deaths
+throughout the year than anywhere else.
+
+Where could it be? Circle the name of
+the place.
+
+!******************************!
+[ec0b01000b000000:022f010000]
+That's right!
+
+There may be a lot of dangerous places
+in the city, but the hospital is where
+sick and injured people gather
+throughout the year.
+!******************************!
+[ed0b01000c000000:02c0010000]
+Too bad!
+
+Think about the question once again.
+!******************************!
+[ee0b01000d000000:02ef010000]
+The key point is that it's the average
+throughout the year.
+!******************************!
+[ef0b01000e000000:022b020000]
+Just because there are a lot of injured
+people and deaths in a place, it doesn't
+necessarily mean that it's a dangerous
+location.
+!******************************!
+[f00b01000f000000:02ad020000]
+The description could apply to a place
+where a lot of crime and accidents
+occur. However, it could also apply to a
+place where injured and sick people
+gather.
+!******************************!
+[f10b010010000000:024c030000]
+There's only one place where sick
+and injured people are taken.
+!******************************!

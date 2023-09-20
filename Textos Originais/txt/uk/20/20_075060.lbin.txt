@@ -1,0 +1,70 @@
+[7017010000000000:000b000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<T><A2/2>I see you've managed to lay down
+a rough sketch of the whole mural.
+It looks excellent.
+!******************************!
+[7117030004000000:000a000000026a0000000273000000]
+ダミアン
+!******************************!
+<T>Heh heh! It really is something else,
+isn't it? I'm glad I asked those
+kids to do the job.
+!******************************!
+[7117030007000000:000a00000002d100000002d8000000]
+ルーク
+!******************************!
+<T><A3/1>So are you going to colour in the
+rest of the piece now?
+!******************************!
+[711703000a000000:000a000000026a000000021a010000]
+ダミアン
+!******************************!
+<T><A3/2>Of course! It'll be exploding with
+colour when it's done! It's just
+going to take a little while.
+!******************************!
+[711703000d000000:000a000000026a0000000285010000]
+ダミアン
+!******************************!
+<T><A3/5>I bet you can hardly wait, eh?<W>
+Maybe this puzzle about painting
+will help you pass the time.
+!******************************!
+[7117030010000000:00e8030000026a00000002ee010000]
+ダミアン
+!******************************!
+<T>Was that puzzle too tough for you?
+Sorry about that!
+!******************************!
+[7117030013000000:00d0070000026a0000000226020000]
+ダミアン
+!******************************!
+<T>Ready to paint in an answer for this
+puzzle?
+!******************************!
+[7117030016000000:00b80b0000026a0000000256020000]
+ダミアン
+!******************************!
+<T><A2/1>You two certainly have a way with
+puzzles. I'm tickled pink.
+!******************************!
+[7117030019000000:00b80b00000200000000029c020000]
+レイトン
+!******************************!
+<T><A1/2>Thank you, and good luck with the
+rest of your mural. I'm sure the
+finished work will be wonderful.
+!******************************!
+[711703001c000000:00b80b0000026a0000000209030000]
+ダミアン
+!******************************!
+<T><A4/6>Yep, you can count on that! Heh heh!
+!******************************!
+[711703001f000000:00a00f0000026a0000000237030000]
+ダミアン
+!******************************!
+<T>I can hardly stand the wait myself!
+!******************************!

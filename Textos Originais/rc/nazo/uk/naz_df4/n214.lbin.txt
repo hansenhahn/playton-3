@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000007e040000007e040000000100000000000000000000000000]
+n214
+!******************************!
+n214a
+!******************************!
+n214b
+!******************************!
+[eb0b01000a000000:0211000000]
+Four proud top hat aficionados have
+formed an exclusive club called the
+Top Hat Society. This distinctive sign
+hangs outside their swanky headquarters.
+
+Just this week, however, a fifth member
+joined the group, so they're planning to
+alter the existing sign into one that
+represents all five of their top hats.
+
+This can be done by simply cutting the
+existing sign into three pieces and then
+reassembling it in a new way. Where should
+the cuts be made? Draw two straight lines.
+!******************************!
+[ec0b01000b000000:02ef010000]
+Hats off!
+
+When you cut the sign as shown above and
+then switch the top two pieces, you get
+five top hats instead of four!
+
+The hats are a little smaller, true, but
+it's better than buying a new sign!
+!******************************!
+[ed0b01000c000000:02b8020000]
+Too bad!
+
+Remember that you're trying to turn four
+top hats into five, so they're all going to
+be a bit smaller.
+!******************************!
+[ee0b01000d000000:0229030000]
+For the first cut, divide the sign into
+a top and bottom piece by drawing a line
+through the middle from left to right.
+
+Now think carefully about where to make
+the second cut.
+!******************************!
+[ef0b01000e000000:02da030000]
+
+!******************************!
+[f00b01000f000000:02db030000]
+
+!******************************!
+[f10b010010000000:02dc030000]
+
+!******************************!

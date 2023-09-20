@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n014
+!******************************!
+n014a
+!******************************!
+n014b
+!******************************!
+[eb0b01000a000000:0211000000]
+A woman is looking for the station, but
+it doesn't seem to appear on her map.
+The map does have one clue written on
+the back, however.
+
+{''}To get from the flower shop to the
+station, follow the path that students
+take from school to the library.{''}
+
+Circle the station's location and touch
+<CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:0245010000]
+Good navigation!
+
+If you take the route that the students
+take to the library and just start at
+the flower shop, you end up with the
+map above.
+
+There are a couple of other routes you
+could take, but they all end up at the
+same destination.
+!******************************!
+[ed0b01000c000000:0236020000]
+Too bad!
+
+Try using the Memo Function to draw the
+route on the map.
+!******************************!
+[ee0b01000d000000:027a020000]
+Use the Memo Function to draw the
+students' path to the library.
+That's what you want to imitate.
+!******************************!
+[ef0b01000e000000:02dc020000]
+Think about what you tell someone when
+giving them directions: {''}Go out of the
+door and turn left. At the first
+junction, turn right.{''}
+
+Something like that, right?
+!******************************!
+[f00b01000f000000:0285030000]
+Here are the directions from the
+school to the library:
+
+{''}Exit the school and turn left. At the
+second junction, turn left again, and
+pass two junctions after that. The
+library will be on your left.{''}
+!******************************!
+[f10b010010000000:0253040000]
+From the flower shop, follow these
+directions:
+
+{''}Exit the flower shop and turn left.
+At the second junction, turn left again,
+and pass two junctions after that.
+The station will be on your left.{''}
+
+It's the same route the students take
+from the school to the library, just
+rotated 90 degrees clockwise.
+!******************************!

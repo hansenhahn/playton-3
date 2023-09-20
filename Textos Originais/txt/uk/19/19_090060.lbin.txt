@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>As they approach Chinatown, 
+our heroes are blocked by two 
+Family henchmen at the gate.
+!******************************!
+[7117030004000000:000a00000002000000000269000000]
+ナレーション
+!******************************!
+<T>This encounter reminds Layton
+of Inspector Chelmey, and some 
+questions he'd like to ask him.
+!******************************!
+[7117030007000000:0014000000020000000002ca000000]
+ナレーション
+!******************************!
+<T>Aided by Future Luke, Layton and
+Luke look for a way to return to
+the present to speak to Chelmey.
+!******************************!

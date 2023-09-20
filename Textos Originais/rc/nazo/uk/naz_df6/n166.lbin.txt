@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n166
+!******************************!
+n166a
+!******************************!
+n166b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}You may have beaten it twice before,
+but this time you will never solve the
+Impassable Gate!{''}
+!******************************!
+[ec0b01000b000000:0276000000]
+Unbelievable!
+
+You can now pass through the gate
+whenever you want!
+!******************************!
+[ed0b01000c000000:02ba000000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:02cf000000]
+The solution involves too many moves
+for each one to be listed in these
+hints.
+
+To begin with, just move the blocks
+around for a while and think about
+your options. As in the other two gate
+puzzles, the horizontal three-square
+bar is the key.
+!******************************!
+[ef0b01000e000000:02c2010000]
+See the small pink block? You need to
+work out how to manoeuvre that block
+down to Layton and Luke's level.
+
+No need to move the turquoise or the
+red block for now.
+!******************************!
+[f00b01000f000000:0267020000]
+Once you've moved the pink block down
+towards the bottom, some space will open
+up at the top.
+
+You'll then be able to move the red block
+down to the middle and the turquoise
+block up into the top square.
+
+Now move the red block back up to where
+it started.
+!******************************!
+[f10b010010000000:0268030000]
+The turquoise block should be stashed 
+away in the top square. The red block 
+should also be up near the top. Now 
+organise the blocks at the bottom in a 
+way that will allow you to move the red 
+block down and switch it with Layton 
+and Luke's block, so you can move 
+them to the top.
+
+This puzzle is designed to be very
+challenging. Don't give up!
+!******************************!

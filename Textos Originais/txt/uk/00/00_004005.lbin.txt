@@ -1,0 +1,68 @@
+[7017010000000000:000a000000]
+[7117030001000000:000a00000002000000000211000000]
+チェルミー（食）
+!******************************!
+<T>Hrm.<W> Well, the food certainly isn't
+anything to write home about.
+!******************************!
+[7117030004000000:000a00000002590000000268000000]
+バートン（食）
+!******************************!
+<T>Sorry you feel that way, sir.
+I think it's quite - chomp chomp -
+scrumptious, myself.
+!******************************!
+[7117030007000000:000a000000020000000002c1000000]
+チェルミー（食）
+!******************************!
+<T><A1/2>Bah. This over-salted chop and pile
+of wilted greens have nothing on
+Amelie's cooking.
+!******************************!
+[711703000a000000:000a00000002590000000221010000]
+バートン（食）
+!******************************!
+<T>If that's how you feel, sir, I'd be
+happy to relieve you of that, um,
+burden.
+!******************************!
+[711703000d000000:000a00000002000000000272010000]
+チェルミー（食）
+!******************************!
+<T><A1/3>Now see here, Barton! If you don't
+return my chop at once, I'll have
+you driving a desk next week!
+!******************************!
+[7117030010000000:000a000000025900000002de010000]
+バートン（食）
+!******************************!
+<T>It would be worth it! Mmm... 
+This crackling is, um, cracking!
+!******************************!
+[7117030013000000:001400000002000000000220020000]
+チェルミー（食）
+!******************************!
+<T>Hrm! They don't seem to be in any
+hurry to get this show started.
+!******************************!
+[7117030016000000:001400000002590000000265020000]
+バートン（食）
+!******************************!
+<T>Come on, sir, it's not all bad.
+At least there's - shlurp - food
+to enjoy while we wait.
+!******************************!
+[7117030019000000:0014000000020000000002c1020000]
+チェルミー（食）
+!******************************!
+<T><A1/2>Honestly, I'm knee-deep in case
+work. I haven't got the time
+for fancy banquets.
+!******************************!
+[711703001c000000:00140000000259000000021b030000]
+バートン（食）
+!******************************!
+<T>Chomp! Oh my, sir, you should try
+this. It's - chomp chomp -
+absolutely lovely.
+!******************************!

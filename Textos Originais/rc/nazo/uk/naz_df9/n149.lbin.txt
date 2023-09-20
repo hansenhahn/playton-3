@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n149
+!******************************!
+n149a
+!******************************!
+n149b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here are three strange symbols: A, B and C.
+
+If A is 63 and B is 89, what on earth could
+C be?
+
+You can take it for granted that C will be
+a two-digit number as well.
+!******************************!
+[ec0b01000b000000:02b8000000]
+Correct!
+
+The answer is 52.
+
+When the symbols are rotated 90 degrees
+clockwise and a line is drawn down the
+middle, they appear as 63, 89 and 52.
+!******************************!
+[ed0b01000c000000:024a010000]
+Bad luck.
+
+Try looking at the symbols from a bit
+further away.
+!******************************!
+[ee0b01000d000000:0289010000]
+Think about the relationship between
+the symbols and the numbers.
+
+Try using the Memo Function to write
+down the numbers. You'll need to write
+them in quite an angular way.
+
+!******************************!
+[ef0b01000e000000:0237020000]
+Try tilting your head a little to the
+left and look at the symbols again.
+
+Can you see anything?
+!******************************!
+[f00b01000f000000:0298020000]
+Use the Memo Function to colour in the
+cavities in each symbol. When you've
+finished colouring, use the eraser to
+rub out a straight horizontal line
+through the middle of the symbols.
+
+Are you seeing it now?
+!******************************!
+[f10b010010000000:0268030000]
+Okay, here comes the big hint:
+
+After following the instructions in Hint
+3, try looking at the symbols from the
+right-hand side of the screen.
+
+Can you see some digital-clock style
+numbers?
+!******************************!

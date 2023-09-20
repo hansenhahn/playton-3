@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Having reached the top of the
+pagoda, the professor gets ready
+to confront his future self.
+!******************************!
+[7117030004000000:00140000000200000000026c000000]
+ナレーション
+!******************************!
+<T>Here, in the heart of the enemy's
+base, will Layton put an end to the
+time machine once and for all?
+!******************************!

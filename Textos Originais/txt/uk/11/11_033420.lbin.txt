@@ -1,0 +1,53 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<T>This door appears to lead to the
+central research room.
+!******************************!
+[7117030004000000:000a0000000244000000024b000000]
+ルーク
+!******************************!
+<T>I hope Dimitri is in there,
+Professor!
+!******************************!
+[7117030007000000:000a00000002000000000275000000]
+レイトン
+!******************************!
+<T>As do I. You heard him talking
+earlier, Luke. He can still be
+reasoned with, I'm sure of it.
+!******************************!
+[711703000a000000:000a000000024400000002d5000000]
+ルーク
+!******************************!
+<T>Well, our first challenge is to get
+this door open. It's got some
+strange lock on it.
+!******************************!
+[711703000d000000:000a0000000200000000022e010000]
+レイトン
+!******************************!
+<T>Another puzzle, I suspect. Dimitri
+no doubt wishes to test the
+intelligence of all those who enter.
+!******************************!
+[7117030010000000:00e803000002000000000295010000]
+レイトン
+!******************************!
+<T>Dimitri has set out a fearsome
+challenge for us. I need a
+moment to gather my thoughts.
+!******************************!
+[7117030013000000:00d0070000020000000002f0010000]
+レイトン
+!******************************!
+<T>I'm sure I'll be able to get it open
+this time.
+!******************************!
+[7117030016000000:00b80b000002000000000223020000]
+レイトン
+!******************************!
+<T>There we are! The door's lock
+seems to have disengaged.
+!******************************!

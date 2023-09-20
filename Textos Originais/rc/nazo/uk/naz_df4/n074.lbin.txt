@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000006a040000006a040000000100000000000000000000000000]
+n074
+!******************************!
+n074a
+!******************************!
+n074b
+!******************************!
+[eb0b01000a000000:0211000000]
+Move the three coloured blocks to their
+respective spaces. Touch the arrow
+buttons at the bottom to rotate the
+board 90 degrees. Blocks fall downwards
+when there's nothing beneath them.
+
+All three blocks must be in place in order
+to complete this puzzle.
+
+Give it a try!
+!******************************!
+[ec0b01000b000000:0220010000]
+Amazing!
+
+Even when the number of blocks increases,
+the way you do the puzzle stays the same.
+It's easy if you keep your cool...right?
+
+!******************************!
+[ed0b01000c000000:02a8010000]
+Too bad.
+
+Try again!
+!******************************!
+[ee0b01000d000000:02bd010000]
+You've got three blocks to deal with
+this time!
+
+There's no need to panic, though.
+Keep calm and carry on!
+!******************************!
+[ef0b01000e000000:0228020000]
+Are the yellow and red blocks' positions
+the wrong way round? Look closely. You
+can switch them easily.
+!******************************!
+[f00b01000f000000:0290020000]
+Here are the first steps for moving
+the positions of the red and yellow
+blocks.
+Rotate the playing field five times
+using the right-hand button, once with
+the left-hand button and then once
+more with the right-hand button.
+
+Make sure you watch the movements
+carefully, though. The next step is
+a hard one.
+!******************************!
+[f10b010010000000:02c2030000]
+From where Hint 3 left off, touch the
+right-hand button, then the left-hand
+one.
+
+You should be able to work out the rest
+from here.
+!******************************!

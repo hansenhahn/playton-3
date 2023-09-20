@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n023
+!******************************!
+n023a
+!******************************!
+n023b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here's a painting of two players in fierce
+competition over a game of cards.
+
+At first glance, nothing seems strange,
+but occasionally people remark:
+{''}If they're really in fierce competition,
+isn't this part of the painting strange?{''}
+
+Circle the part of the painting that
+people would find strange, then touch
+<CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:025d010000]
+That's right! 
+
+Cards usually have their number displayed
+in the top-left and bottom-right corners.
+
+No matter how badly he wants to win,
+therefore, the player in the orange hat is
+going to have a hard time seeing his hand
+if he's holding his cards like that.
+!******************************!
+[ed0b01000c000000:0261020000]
+Too bad.
+
+Try considering how things would look from
+a different perspective!
+!******************************!
+[ee0b01000d000000:02af020000]
+Imagine you were there, playing cards at
+this table.
+
+Is there anything you find unusual?
+!******************************!
+[ef0b01000e000000:0209030000]
+This painting is of two chaps in
+fierce competition.
+
+Look closely at the players.
+!******************************!
+[f00b01000f000000:025c030000]
+Have you given some thought to the
+characteristics of playing cards?
+
+Look carefully at the cards the
+man in the foreground is holding.
+
+The location of the number on the
+cards is a clue. 
+!******************************!
+[f10b010010000000:0219040000]
+Where is a card's number displayed?
+Not in the top-right or bottom-left
+corner, that's for sure.
+
+If you think about this and look at
+what the players are doing, you'll
+see something that's unnatural for a
+fiercely competitive card game.
+!******************************!

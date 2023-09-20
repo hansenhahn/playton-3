@@ -1,0 +1,81 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n150
+!******************************!
+n150a
+!******************************!
+n150b
+!******************************!
+[eb0b01000a000000:0211000000]
+Two sisters are talking.
+{''}One year ago, my age was exactly half
+your age{''}, says the younger sister.
+The older sister replies: {''}Even one year
+from now, your age will be half my age.
+Here, look, if we split the numbers into
+two parts, top and bottom, they both give
+your age in a year's time.{''}
+{''}Wow, you're right!{''}
+
+How old is the younger sister now?
+!******************************!
+[ec0b01000b000000:0280010000]
+That's right!
+
+The younger sister is currently 9 and the
+older sister is 17.
+
+One year ago, the older sister was 16 and
+the younger sister was 8, half her
+sister's age. One year from now, the older
+sister will be 18 and the younger sister
+will be 10. Splitting 18 horizontally gives
+you 10 twice.
+!******************************!
+[ed0b01000c000000:02a9020000]
+Too bad.
+
+Don't think too hard - try changing
+your way of thinking instead.
+!******************************!
+[ee0b01000d000000:02f5020000]
+You don't need to worry about how old
+the sisters were a year ago. The
+important point is their age a year
+from now. What does {''}split the
+numbers into two parts{''} mean?
+!******************************!
+[ef0b01000e000000:02a3030000]
+Have you worked out what {''}split the
+numbers into two parts, top and bottom{''}
+means?
+
+Think about the numbers 0-9. Of these,
+the only ones that retain a numerical
+meaning even when they're cut in half
+are 1 and 8.
+!******************************!
+[f00b01000f000000:027d040000]
+If the older sister were 1 year old
+next year, the younger sister would
+also be 1, so that can't be right.
+
+If the older sister were 8 in a year's
+time, the younger sister would be 0,
+so that's wrong as well.
+
+Thinking about it this way, it's also
+plain to see that it wouldn't work if
+the older sister were 81 or 88 either.
+!******************************!
+[f10b010010000000:02c2050000]
+From Hint 3, you know that the older
+sister will be either 11 or 18 in a year's
+time. Splitting 11 into two parts, top and
+bottom, gives you 11, which doesn't fulfil
+the conditions. The only remaining
+possibility is that the older sister
+will be 18 in a year's time.
+
+All you've got to do now is work out
+the sisters' current ages.
+!******************************!

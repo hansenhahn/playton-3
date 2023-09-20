@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n222
+!******************************!
+n222a
+!******************************!
+n222b
+!******************************!
+[eb0b01000a000000:0211000000]
+Unscramble Professor Layton and Luke's
+names by sliding the tiles around.
+
+Line up each tile to match the letters on
+the outside of the box.
+
+Oh, and be sure to leave the space
+with the red slash through it blank.
+!******************************!
+[ec0b01000b000000:02e7000000]
+That's it!
+
+The first letter of each name is a
+different colour from the rest, but
+that's not a problem!
+
+The puzzle can't be solved if you try to
+match the colour of the L tiles to the
+rest of the letter tiles in each name.
+!******************************!
+[ed0b01000c000000:02c8010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:02dd010000]
+Can't work it out no matter how many
+times you try?
+
+This is a tricky one. Note that the
+puzzle never said that the colours have
+to match. If you try to match the colour
+of each L to the rest of the tiles in
+the name, you'll never solve it.
+!******************************!
+[ef0b01000e000000:02ce020000]
+
+!******************************!
+[f00b01000f000000:02cf020000]
+
+!******************************!
+[f10b010010000000:02d0020000]
+
+!******************************!

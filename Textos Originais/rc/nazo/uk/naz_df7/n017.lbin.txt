@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n017
+!******************************!
+n017a
+!******************************!
+n017b
+!******************************!
+[eb0b01000a000000:0211000000]
+A doctor has to visit nine hospital rooms
+on her rounds. The numbers of the rooms
+she needs to visit are listed below. When
+checking the room numbers she notices
+that if she always proceeds to a room
+with at least one digit in common with the
+room she's currently in, she can visit all
+the rooms in one trip.
+
+Which will be the fifth room she visits on
+such a trip?
+
+Circle the correct room number.
+!******************************!
+[ec0b01000b000000:02a0010000]
+That's right!
+
+Room 63. The digits 2 and 7 are only used
+once, while the rest of the digits are
+used at least twice, so her route through
+the nine rooms is as in the image above.
+Whether you start from room 29 or 71,
+the fifth room will always be 63.
+!******************************!
+[ed0b01000c000000:029b020000]
+Too bad.
+
+Look closely at the numbers.
+!******************************!
+[ee0b01000d000000:02c2020000]
+Look at all the digits used in every
+room number. How often is each digit
+used?
+!******************************!
+[ef0b01000e000000:0212030000]
+There are some digits that are only
+used once. This means that if you're
+in a room with a number that contains
+one of these digits, the only room
+numbers you can proceed to are those
+that contain the other digit.
+!******************************!
+[f00b01000f000000:02e7030000]
+Out of the nine digits, the ones that
+are only used once are 2 and 7. The room
+numbers that contain these digits are
+29 and 71. You have to visit these rooms
+either first or last.
+!******************************!
+[f10b010010000000:029b040000]
+If you start from room 29, the order is
+29-49-54.
+
+If you start from room 71, the order is
+71-18-38.
+
+And if 29 and 71 are the start and end
+of your rounds...
+!******************************!

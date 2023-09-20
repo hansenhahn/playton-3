@@ -1,0 +1,45 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n221
+!******************************!
+n221a
+!******************************!
+n221b
+!******************************!
+[eb0b01000a000000:0211000000]
+Move the orange ball to the square
+marked by the red arrow at the top.
+
+It looks daunting, but it can be done.
+
+Give it a try!
+!******************************!
+[ec0b01000b000000:0290000000]
+Well done!
+
+Working out the last move and finally
+sliding the orange ball into the final
+square is so satisfying!
+!******************************!
+[ed0b01000c000000:0202010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:0217010000]
+The blocks are packed in very tightly,
+but work with the spaces you have and
+you'll find that you can move them
+around quite easily.
+
+Try working the orange ball up using
+the small gaps on the right-hand side.
+!******************************!
+[ef0b01000e000000:02e9010000]
+
+!******************************!
+[f00b01000f000000:02ea010000]
+
+!******************************!
+[f10b010010000000:02eb010000]
+
+!******************************!

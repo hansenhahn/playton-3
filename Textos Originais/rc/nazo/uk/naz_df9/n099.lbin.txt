@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000240400000025040000000100000000000000000000000000]
+n099
+!******************************!
+n099a
+!******************************!
+n099b
+!******************************!
+[eb0b01000a000000:0211000000]
+Your escape route is blocked...by blocks!
+
+Luckily, you have five bombs at your
+disposal. Each bomb will completely
+destroy the block it's placed on.
+Remaining blocks will fall into any empty
+spaces created by blocks destroyed below
+them, but they won't change shape.
+
+Place your five bombs onto the five
+blocks that, when destroyed, will
+leave behind a flat surface you can
+drive across. Then touch that detonator!
+!******************************!
+[ec0b01000b000000:02b1010000]
+Boom!
+
+Great job. Now get out of here!
+!******************************!
+[ed0b01000c000000:02d8010000]
+Too bad!
+
+Now hurry up and try again!
+!******************************!
+[ee0b01000d000000:02fe010000]
+There are five specific blocks you need
+to destroy. Don't worry about making a
+mistake, though. You can try again as
+many times as you want, so just have
+fun blowing stuff up! You're bound to
+work it out eventually.
+!******************************!
+[ef0b01000e000000:02d6020000]
+If you look closely, you'll notice that
+the blocks are made up of evenly sized
+squares. Also, the pit is five squares
+deep. Start your thinking from here.
+!******************************!
+[f00b01000f000000:0271030000]
+There are three blocks on the bottom
+row. You need to destroy the one on
+the left and the one on the right.
+Leave the middle block intact.
+!******************************!
+[f10b010010000000:02fc030000]
+Do not destroy the square block in the
+top-right of the stack.
+!******************************!

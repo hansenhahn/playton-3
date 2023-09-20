@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n131
+!******************************!
+n131a
+!******************************!
+n131b
+!******************************!
+[eb0b01000a000000:0211000000]
+There are three siblings: A, B and C.
+
+A: {''}I have one older brother and three
+younger sisters.{''}
+
+B: {''}I have two older brothers and two
+younger sisters.{''}
+
+C: {''}I have three older brothers and one
+younger sister.{''}
+
+Given that all their statements are true,
+what is the lowest possible number of
+siblings in this family?
+!******************************!
+[ec0b01000b000000:0260010000]
+Bang on!
+
+The lowest possible number of siblings is
+six.
+
+At first glance, it might seem like there
+are only five. But the fact that A says
+that he has three younger sisters means
+there must be at least three female
+siblings. Likewise, the fact that C says
+that she has three older brothers means
+there must also be at least three male
+siblings, so five siblings isn't quite
+enough.
+!******************************!
+[ed0b01000c000000:02df020000]
+Too bad!
+
+Remember that you want to find the
+minimum number of siblings.
+!******************************!
+[ee0b01000d000000:0228030000]
+Think about A, B and C.
+
+Who's the oldest? Who's the youngest?
+!******************************!
+[ef0b01000e000000:0267030000]
+You know that A is the oldest, followed
+by B and then C.
+
+A also has an older brother.
+
+C also has a younger sister.
+!******************************!
+[f00b01000f000000:02dc030000]
+Try making a diagram based on the
+conditions mentioned in Hint 2, and note
+the genders of each known sibling.
+You should realise something important.
+
+Also, just so you're clear, A is male
+and B is female.
+!******************************!
+[f10b010010000000:02aa040000]
+There are more than five siblings.
+
+If A has three younger sisters and
+C has three older brothers, then
+there must be at least three female
+siblings and three male siblings.
+!******************************!

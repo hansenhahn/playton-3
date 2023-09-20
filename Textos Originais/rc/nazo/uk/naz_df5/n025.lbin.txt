@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n025
+!******************************!
+n025a
+!******************************!
+n025b
+!******************************!
+[eb0b01000a000000:0211000000]
+Rubbing his back, the waiter sighed
+wearily and said:
+
+{''}I always use the same box to carry as
+many glasses as I can at a time, but
+there's one type of glass that I really
+hate carrying.{''}
+
+Of the four glass types pictured here,
+which one is the waiter talking about?
+Keep in mind that they all weigh the same.
+!******************************!
+[ec0b01000b000000:024c010000]
+Very good!
+
+The glass type in question is B. This is the
+only kind of glass that's stackable, which
+means that you can fit a lot into the box,
+making it very heavy and a pain to carry.
+!******************************!
+[ed0b01000c000000:0205020000]
+Too bad!
+
+Try to imagine actually carrying glasses in
+a box...
+!******************************!
+[ee0b01000d000000:0244020000]
+The waiter said he hated carrying the
+box when it was filled with one type of
+glass.
+
+What makes things unpleasant to carry?
+!******************************!
+[ef0b01000e000000:02c1020000]
+It's the weight of the box that gives
+the waiter trouble when he's carrying
+glasses.
+!******************************!
+[f00b01000f000000:0216030000]
+The more glasses there are in a box,
+the heavier the box becomes. The type
+of glass that the waiter doesn't like
+carrying is the one that you can fit a
+lot of into a box.
+!******************************!
+[f10b010010000000:02c1030000]
+If a glass is stackable, you can fit more
+of them into a box.
+
+Which of these glasses can you stack?
+!******************************!

@@ -1,0 +1,202 @@
+[7017010000000000:001f000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<V0010><T><A4/2>You mean to say we're underground
+right now?</V>
+!******************************!
+[7117030004000000:000a000000024c0000000255000000]
+レイトン
+!******************************!
+<V0020><T><A2/1>Precisely. You may have heard of
+subterranean caverns, as some of
+them house ancient ruins.</V>
+!******************************!
+[7117030007000000:000a000000024c00000002c5000000]
+レイトン
+!******************************!
+<V0030><T>Some experts theorise that these
+caverns pepper the entire earth.</V>
+!******************************!
+[711703000a000000:000a000000024c0000000215010000]
+レイトン
+!******************************!
+<V0040><T><A1/1>What I've seen here leads me to
+conclude that Dimitri used one such
+cavern to build this false London.</V>
+!******************************!
+[711703000d000000:000a000000024c0000000290010000]
+レイトン
+!******************************!
+<V0050><T>It's as if we're standing in the
+largest film set ever created.</V>
+!******************************!
+[7117030010000000:001400000002de01000002e5010000]
+ルーク
+!******************************!
+<V0060><T><A1/1>What?! I don't believe it!</V>
+!******************************!
+[7117030013000000:001e00000002000000000214020000]
+チェルミー
+!******************************!
+<V0070><T><A2/1>So Dimitri is behind all this then?
+But why?</V>
+!******************************!
+[7117030016000000:001e000000024c0000000255020000]
+レイトン
+!******************************!
+<V0080><T><A4/3>That question stumped me as well.</V>
+!******************************!
+[7117030019000000:001e0000000200000000028b020000]
+チェルミー
+!******************************!
+<V0090><T>Why would he go to such pains to
+make us believe we're in the
+future?</V>
+!******************************!
+[711703001c000000:001e000000024c00000002df020000]
+レイトン
+!******************************!
+<V0100><T>It doesn't make sense.<W> Unless
+convincing people of this is the key
+to achieving his ultimate goal.</V>
+!******************************!
+[711703001f000000:002800000002de0100000253030000]
+ルーク
+!******************************!
+<V0110><T><A4/1>What kind of goal requires a set-up
+like that?</V>
+!******************************!
+[7117030022000000:0028000000024c0000000296030000]
+レイトン
+!******************************!
+<V0120><T><A4/1>It's simple.</V>
+!******************************!
+[7117030025000000:0028000000024c00000002b7030000]
+レイトン
+!******************************!
+<V0130><T>It seems that Dimitri never gave up
+his original dream of building a time
+machine.</V>
+!******************************!
+[7117030028000000:0028000000024c0000000218040000]
+レイトン
+!******************************!
+<V0140><T><A1/1>But though he poured all his energy
+into achieving this feat, the task
+was too large for one man.</V>
+!******************************!
+[711703002b000000:0028000000024c000000028e040000]
+レイトン
+!******************************!
+<V0150><T>He needed other scientists to
+support his project, so he turned
+to the greatest minds in London.</V>
+!******************************!
+[711703002e000000:0028000000024c00000002fd040000]
+レイトン
+!******************************!
+<V0160><T>But to keep the scientists working
+for him, they needed to believe
+that they were in the future.</V>
+!******************************!
+[7117030031000000:002800000002de010000026c050000]
+ルーク
+!******************************!
+<V0170><T><A1/6>Why?</V>
+!******************************!
+[7117030034000000:0028000000024c0000000285050000]
+レイトン
+!******************************!
+<V0180><T><A2/1>Think about it, Luke. Dimitri couldn't
+imprison the scientists. Not in the
+conventional sense.</V>
+!******************************!
+[7117030037000000:0028000000024c00000002f8050000]
+レイトン
+!******************************!
+<T><V0181>After all, who knows what kind of
+work they would produce under those
+circumstances?</V>
+!******************************!
+[711703003a000000:0028000000024c000000025b060000]
+レイトン
+!******************************!
+<V0190><T>No, Dimitri needed a different
+approach to compel the scientists
+to complete his research.</V>
+!******************************!
+[711703003d000000:0028000000024c00000002c4060000]
+レイトン
+!******************************!
+<V0200><T><A1/1>The scientists had to want the time
+machine to work as much as
+Dimitri did.</V>
+!******************************!
+[7117030040000000:0028000000024c0000000224070000]
+レイトン
+!******************************!
+<V0210><T>So he told them that they had been
+shot forward 10 years in time,
+stranded a decade from home.</V>
+!******************************!
+[7117030043000000:0028000000024c0000000291070000]
+レイトン
+!******************************!
+<V0220><T>Dimitri misled the scientists, telling
+them that the time machine was an
+unfinished project.</V>
+!******************************!
+[7117030046000000:0028000000024c00000002fc070000]
+レイトン
+!******************************!
+<V0230><T>They thought they were stranded,
+and that the machine was their
+only hope of returning home.</V>
+!******************************!
+[7117030049000000:003200000002000000000267080000]
+チェルミー
+!******************************!
+<V0240><T>Ah. So that's why they were so
+willing to follow orders.</V>
+!******************************!
+[711703004c000000:0032000000024c00000002ae080000]
+レイトン
+!******************************!
+<V0250><T><A3/1>That's all I've been able to work
+out.<W> Perhaps our friend here can fill
+us in on the rest.</V>
+!******************************!
+[711703004f000000:003c00000002200900000229090000]
+バーテン
+!******************************!
+<V0260><T>Heh. I see you've caught on.
+Excellent work as always, Hershel. </V>
+!******************************!
+[7117030052000000:0046000000024c0000000278090000]
+レイトン
+!******************************!
+<V0270><T>The Family uses this establishment
+as a hideout.</V>
+!******************************!
+[7117030055000000:0046000000024c00000002b7090000]
+レイトン
+!******************************!
+<T><V0271>Therefore, it seemed a bit odd that
+the bartender didn't so much as
+raise an eyebrow when we walked in.</V>
+!******************************!
+[7117030058000000:00460000000220090000022d0a0000]
+バーテン
+!******************************!
+<V0280><T>I have to give credit where it's due.
+I never imagined you'd work out so
+much of the plan yourself.</V>
+!******************************!
+[711703005b000000:00460000000220090000029f0a0000]
+バーテン
+!******************************!
+<V0290><T><A2/1>I suppose I have no choice but
+to shut you up for good.</V>
+
+!******************************!

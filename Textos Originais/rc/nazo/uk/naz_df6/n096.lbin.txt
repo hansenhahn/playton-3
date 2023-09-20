@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000043040000000100000000000000000000000000]
+n096
+!******************************!
+n096a
+!******************************!
+n096b
+!******************************!
+[eb0b01000a000000:0211000000]
+To crack this security lock, you'll need
+to swap A and B in 10 moves or fewer.
+
+Get cracking!
+!******************************!
+[ec0b01000b000000:026f000000]
+Bravo!
+
+You cracked the lock!
+!******************************!
+[ed0b01000c000000:028d000000]
+Too bad!
+
+Take another, er, crack at it!
+!******************************!
+[ee0b01000d000000:02b6000000]
+The four bars between A and B are
+what make this a tough puzzle.
+
+Start by moving things around until you
+get stuck. Then think about how many
+more steps would have been required.
+!******************************!
+[ef0b01000e000000:026a010000]
+You'll definitely run out of moves if you
+keep moving A and B alternately.
+At some point, you're going to need to
+swap A and B in one fell swoop.
+
+!******************************!
+[f00b01000f000000:02fd010000]
+It doesn't matter whether you start
+with A or B, but here are the
+instructions for A:
+
+Slide the second bar from the top over
+to the left and move A down to the right
+of the third bar. Then move the second
+bar all the way to the right and slide
+the third bar up and to the left of it.
+!******************************!
+[f10b010010000000:021a030000]
+Continuing from Hint 3, move B to the
+left side of the row that A is in.
+You can now move A into its target slot.
+All that's left is to use the last four
+moves to get B into its target slot.
+
+You can do it!
+!******************************!

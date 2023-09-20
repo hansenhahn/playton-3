@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n176
+!******************************!
+n176a
+!******************************!
+n176b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here is a photograph of four aliens.
+The Panporo alien is further right than
+the Pinporo alien and the Punporo alien is
+further left than the Panporo alien. The
+Penporo alien is further right than the
+Pinporo alien.
+
+If the alien two to the right of the
+Punporo isn't the Penporo, is that alien
+A: The Panporo or B: The Pinporo?
+!******************************!
+[ec0b01000b000000:025a010000]
+Out of this world!
+
+It's A, the Panporo alien.
+There are two possible line-ups that
+fulfil the conditions, but in both cases
+the alien two to the right of the
+Punporo alien is the Panporo alien.
+!******************************!
+[ed0b01000c000000:021d020000]
+Bad luck.
+
+Are you finding the aliens' names
+confusing?
+!******************************!
+[ee0b01000d000000:0255020000]
+Try out the different possibilities for
+the alien two to the right of the
+Punporo.
+
+If you go through the puzzle conditions,
+you'll eventually eliminate a candidate
+and have your answer.
+!******************************!
+[ef0b01000e000000:0210030000]
+
+!******************************!
+[f00b01000f000000:0211030000]
+
+!******************************!
+[f10b010010000000:0212030000]
+
+!******************************!

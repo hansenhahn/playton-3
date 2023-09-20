@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n100
+!******************************!
+n100a
+!******************************!
+n100b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Hey Professor! All the information about
+our next adventure is in this sealed
+document! Do you like my seal, by the way?
+It's just like the one you use, except it
+looks like my hat and the L stands for
+Luke! The colour even matches my hat!
+In fact, the seal has made me think of a
+puzzle: of the four examples, A, B, C and
+D, which one is my actual stamp?
+You have to solve this puzzle before
+breaking the seal!{''}
+
+Circle your answer and touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:02e3010000]
+Lovely!
+ 
+The challenge is working out the
+differences between the various hat
+shapes and realising that the L on
+the stamp should be backwards.
+ 
+It's rather nice that the L works for
+both Luke and Layton! Handy, eh?
+ 
+{''}Hurry up, Professor! Break the seal and
+read the document!{''}
+!******************************!
+[ed0b01000c000000:0202030000]
+Too bad!
+
+{''}Come on, Professor! You have to read
+the document I've sealed inside!{''}
+!******************************!
+[ee0b01000d000000:025a030000]
+Keep in mind that a stamp will print
+a mirror image of its actual design.
+!******************************!
+[ef0b01000e000000:02a4030000]
+The stamps are all circular, so pay close
+attention to what's in the centre: the
+outline of a hat and an L.
+
+First off, take a look at the direction
+the L is facing...
+!******************************!
+[f00b01000f000000:024c040000]
+Stamp B doesn't have the L correctly
+reversed, so you can eliminate that
+option.
+
+Now look closely at the hat shapes
+of stamps A, C and D.
+!******************************!
+[f10b010010000000:02d7040000]
+The top part of the hat shape in stamp
+A is touching the outer circle, so you
+can safely eliminate that option.
+
+It's just between stamps C and D now!
+!******************************!

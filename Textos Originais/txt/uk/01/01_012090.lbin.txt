@@ -1,0 +1,161 @@
+[7017010000000000:0019000000]
+[7117030001000000:000a00000002000000000209000000]
+ベッキー
+!******************************!
+<T>This room's got the best view in
+the whole hotel. Lucky for you that
+it was available.
+!******************************!
+[7117030004000000:000a0000000263000000026a000000]
+ルーク
+!******************************!
+<T><A4/1>Did you hear that, Professor?
+What a stroke of luck!
+!******************************!
+[7117030007000000:000a000000020000000002a8000000]
+ベッキー
+!******************************!
+<T><A1/5>Yeah... Though come to think of it,
+I suppose it's not really luck at all.
+!******************************!
+[711703000a000000:000a000000020000000002fc000000]
+ベッキー
+!******************************!
+<T>We haven't had a single guest since
+we moved the hotel to this new
+location, you see.
+!******************************!
+[711703000d000000:000a00000002630000000255010000]
+ルーク
+!******************************!
+<T>So the Hotel Duke used to be
+located somewhere else?
+!******************************!
+[7117030010000000:000a0000000200000000028d010000]
+ベッキー
+!******************************!
+<T><A4/4>Erm... It's a bit of a touchy
+subject, so I'd rather not go into
+it. I hope you understand...
+!******************************!
+[7117030013000000:000a000000020000000002f4010000]
+ベッキー
+!******************************!
+<T><A2/2>Hey, I was really impressed with
+the way you solved the puzzle that
+Granny threw at you, you know.
+!******************************!
+[7117030016000000:000a00000002630000000260020000]
+ルーク
+!******************************!
+<T>Well, I do like a good puzzle...
+!******************************!
+[7117030019000000:000a00000002000000000284020000]
+ベッキー
+!******************************!
+<T>Me too! How about this: solve this
+puzzle for me, and I'll tell you how
+to get to the station.
+!******************************!
+[711703001c000000:00e8030000020000000002e6020000]
+ベッキー
+!******************************!
+<T><A4/5>Hey, no backing out! You have to
+solve my puzzle if you want me to
+tell you where the station is.
+!******************************!
+[711703001f000000:00d007000002000000000251030000]
+ベッキー
+!******************************!
+<T>I'll be happy to tell you how to get
+to the station if you solve this
+puzzle!
+!******************************!
+[7117030022000000:00b80b0000020000000002a2030000]
+ベッキー
+!******************************!
+<T><A1/1>Nicely done!<W> Oh! I nearly forgot you
+were trying to get to the station.
+!******************************!
+[7117030025000000:00b80b0000020000000002f6030000]
+ベッキー
+!******************************!
+<T>It's not too far. Just keep going
+east once you leave the hotel.
+!******************************!
+[7117030028000000:00b80b00000200000000023a040000]
+ベッキー
+!******************************!
+<T>You'll come out onto Flatstone
+Street. Head north and the station
+will be on your right.
+!******************************!
+[711703002b000000:00b80b000002630000000296040000]
+ルーク
+!******************************!
+<T><A4/2>Thanks, Becky. I think we'll be able
+to find it now.
+!******************************!
+[711703002e000000:00b80b0000020000000002d4040000]
+ベッキー
+!******************************!
+<T>Hey wait! One more thing.
+!******************************!
+[7117030031000000:00b80b0000026300000002f1040000]
+ルーク
+!******************************!
+<T>Hmm? What's that?
+!******************************!
+[7117030034000000:00b80b000002000000000206050000]
+ベッキー
+!******************************!
+<T>It's a bit of a detour, but you
+should drop by the arcade on your
+way to the station.
+!******************************!
+[7117030037000000:00b80b00000200000000025f050000]
+ベッキー
+!******************************!
+<T>There's a restaurant there that's 
+just scrumptious!
+!******************************!
+[711703003a000000:00b80b000002000000000297050000]
+ベッキー
+!******************************!
+<T><A1/5>It's not a patch on the food we
+serve here, of course, but it's not
+half bad, you know?
+!******************************!
+[711703003d000000:00b80b0000026300000002f8050000]
+ルーク
+!******************************!
+<T><A4/1>The arcade? You mean that place
+where the little boy is standing,
+blocking the entrance?
+!******************************!
+[7117030040000000:00b80b00000200000000025a060000]
+ベッキー
+!******************************!
+<T><A2/2>Little boy? Oh, you must be
+talking about Max.
+!******************************!
+[7117030043000000:00b80b000002000000000292060000]
+ベッキー
+!******************************!
+<T>I've got him wrapped around my
+little finger.
+!******************************!
+[7117030046000000:00b80b0000020000000002c3060000]
+ベッキー
+!******************************!
+<T>Just let him know that Becky sent
+you and he'll let you straight
+through.
+!******************************!
+[7117030049000000:00c20b000002100700000219070000]
+レイトン
+!******************************!
+<T><A1/2>Ha ha! Good to know. Well, we might
+as well go through the arcade and
+see a bit more of the area.
+!******************************!

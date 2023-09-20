@@ -1,0 +1,120 @@
+[7017010000000000:0012000000]
+[7117030001000000:000a0000000200000000020d000000]
+マーガレット
+!******************************!
+<T>Oh! Goodness me, hello there.
+You'll have to forgive me, I didn't
+even see you coming in.
+!******************************!
+[7117030004000000:000a0000000200000000026a000000]
+マーガレット
+!******************************!
+<T>Welcome to the Hotel Duke, home
+of exemplary service and the
+world's best breakfast.
+!******************************!
+[7117030007000000:000a000000020000000002c2000000]
+マーガレット
+!******************************!
+<T>I'm Margaret, the hotel manager.
+Please don't hesitate to ask
+should you need anything.
+!******************************!
+[711703000a000000:000a000000021d0100000224010000]
+ルーク
+!******************************!
+<T><A1/1>Thanks! But what about lunch and
+dinner? Aren't those the world's
+best as well?
+!******************************!
+[711703000d000000:000a0000000200000000027d010000]
+マーガレット
+!******************************!
+<T>Aha! It seems we have a little
+gourmand here.
+!******************************!
+[7117030010000000:000a000000020000000002ae010000]
+マーガレット
+!******************************!
+<T>Well, rest easy, young man. For
+lunch, we offer sandwiches made with
+freshly baked, pillowy-soft bread.
+!******************************!
+[7117030013000000:000a00000002000000000219020000]
+マーガレット
+!******************************!
+<T>And if you're partial to a good
+roast, our beef with Yorkshire
+pudding is the best in London.
+!******************************!
+[7117030016000000:000a000000021d010000027a020000]
+ルーク
+!******************************!
+<T><A3/2>You know, Professor, I've changed
+my mind. I quite like this place.
+Let's stay here.
+!******************************!
+[7117030019000000:000a000000020000000002d8020000]
+マーガレット
+!******************************!
+<T>Heh heh. Our sandwiches do tend
+to have that effect on people.</T>
+<TW>Now, if I could just-<W> Oh dear...
+!******************************!
+[711703001c000000:000a000000021d0100000246030000]
+ルーク
+!******************************!
+<T><A1/1>What's wrong?
+!******************************!
+[711703001f000000:000a0000000200000000025d030000]
+マーガレット
+!******************************!
+<T>I've got four pens here, but only
+one of them has any ink in it.
+!******************************!
+[7117030022000000:000a000000020000000002a1030000]
+マーガレット
+!******************************!
+<T>I don't suppose I could ask you to
+help me work out which one it is, 
+could I?
+!******************************!
+[7117030025000000:00e8030000020000000002f3030000]
+マーガレット
+!******************************!
+<T>Now let's see... Which pen was
+it?
+!******************************!
+[7117030028000000:00d007000002000000000219040000]
+マーガレット
+!******************************!
+<T>Only one of these pens has any ink
+in it, but I can't for the life of me
+remember which one.
+!******************************!
+[711703002b000000:00b80b000002000000000279040000]
+マーガレット
+!******************************!
+<T>Ah, that's the one. Thank you ever
+so much. Now if you'd be so kind as
+to sign your name.
+!******************************!
+[711703002e000000:00b80b000002d604000002df040000]
+レイトン
+!******************************!
+<T><A4/1>Very well.<S320></S320>
+!******************************!
+[7117030031000000:00b80b000002000000000200050000]
+マーガレット
+!******************************!
+<T>You're all set now, Professor
+Layton.<W> Oh, and you must be Luke.
+Becky will show you to your room.
+!******************************!
+[7117030034000000:00a00f000002000000000268050000]
+マーガレット
+!******************************!
+<T>You're checked in and your room is
+all set. Becky over there will take 
+you up.
+!******************************!

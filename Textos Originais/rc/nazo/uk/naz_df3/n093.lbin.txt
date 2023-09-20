@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000c00000000f203000000f2030000000100000000010000000000000000]
+n093
+!******************************!
+n093a
+!******************************!
+n093b
+!******************************!
+[eb0b01000a000000:0211000000]
+Place cat's-eye stones into the round
+slots below. The only rule is that no four
+stones can form a square or rectangle,
+either horizontally or vertically.
+
+Touch the icon in the top-left corner to
+view examples of how to arrange the
+stones.
+
+There are 16 slots in this puzzle.
+What is the maximum number of stones you
+can place while following the above rule?
+Input that number as your answer.
+!******************************!
+[ec0b01000b000000:029b010000]
+Terrific!
+
+No matter how you arrange the stones,
+the most you can place without breaking
+the rule is nine. This diagram shows just
+one example. The difficult part is being
+confident that you've found the correct
+answer!
+!******************************!
+[ed0b01000c000000:0277020000]
+Too bad!
+
+It should go without saying, but the
+answer is fewer than 16.
+!******************************!
+[ee0b01000d000000:02bf020000]
+At first, just try placing stones while
+following the rule until you can't place
+any more. If you repeat this process
+over and over, the answer should start
+to reveal itself.
+!******************************!
+[ef0b01000e000000:026e030000]
+It's probably obvious, but the answer
+isn't 16. What about 15 or 14? Nope, you
+can cross those off your list as well.
+!******************************!
+[f00b01000f000000:02e4030000]
+The answer is a multiple of three.
+!******************************!
+[f10b010010000000:0207040000]
+The answer is not a two-digit number.
+You're so close now. You can do it!
+!******************************!

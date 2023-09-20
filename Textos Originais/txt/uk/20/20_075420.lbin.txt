@@ -1,0 +1,27 @@
+[7017010000000000:0004000000]
+[7117030001000000:000a0000000200000000020b000000]
+未来ルーク
+!******************************!
+<T>I fear that going back to your
+time could introduce additional
+anomalies to the flow of time.
+!******************************!
+[7117030004000000:000a0000000200000000026c000000]
+未来ルーク
+!******************************!
+<T>I've therefore decided to stay
+here until you return.
+!******************************!
+[7117030007000000:000a00000002a500000002ae000000]
+レイトン
+!******************************!
+<T><A1/1>I was going to suggest the same
+thing myself. Please wait for us
+here. We'll be back before long.
+!******************************!
+[711703000a000000:001400000002190100000222010000]
+ジャック
+!******************************!
+<T>Are you ready to go, then?<W> Good!
+<A3/0>Let's be off!
+!******************************!

@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a00000002000000000209000000]
+ダミアン
+!******************************!
+<T>I've got big plans for this wall. I'm
+going to get someone to paint
+something amazing on here.
+!******************************!
+[7117030004000000:000a0000000200000000026b000000]
+ダミアン
+!******************************!
+<T>Oh, by the way, I don't think I
+introduced myself before. My
+name's Slate. Nice to meet you!
+!******************************!

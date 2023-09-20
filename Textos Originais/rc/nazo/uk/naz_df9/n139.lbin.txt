@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000001a040000001a040000000100000000000000000000000000]
+n139
+!******************************!
+n139a
+!******************************!
+n139b
+!******************************!
+[eb0b01000a000000:0211000000]
+Six frogs are sitting on logs.
+Get them hopping around so that each
+frog is on a log with a ribbon that
+matches its own colour.
+Here are three rules you'll need to follow:
+
+1. Frogs can hop to any empty, adjacent
+log.
+2. Frogs can leap over an adjacent frog
+to reach an empty log.
+3. Frogs can't leap over two frogs at a
+time.
+
+Now get those frogs hopping!
+!******************************!
+[ec0b01000b000000:0276010000]
+Hip, hop- huh?!
+
+Where have they gone?
+
+They must be preparing for the
+frog-cappella!
+!******************************!
+[ed0b01000c000000:02cc010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:02e1010000]
+Don't overthink it.
+
+This puzzle isn't too tricky if you just
+relax and keep those frogs hopping
+around. It's fun, isn't it? Boing boing!
+
+Don't even worry about the other hints.
+Just keep leaping!
+!******************************!
+[ef0b01000e000000:02a7020000]
+This puzzle can be solved in as few as
+15 moves. Here are the first four:
+
+Red, yellow, white, red...
+!******************************!
+[f00b01000f000000:020d030000]
+Continuing from Hint 2, here are the
+next six moves:
+
+Black, green, yellow, white, red, black...
+
+Look at that! The right side is finished!
+!******************************!
+[f10b010010000000:0299030000]
+Continuing from Hint 3, here are the
+next three moves:
+
+Green, yellow, blue...
+
+Just two moves left now. You can do it!
+!******************************!

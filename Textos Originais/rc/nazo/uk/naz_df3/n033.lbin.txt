@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000900000000f203000000f2030000000100000000000000000000000000]
+n033
+!******************************!
+n033a
+!******************************!
+n033b
+!******************************!
+[eb0b01000a000000:0211000000]
+To open the door, place four numbered
+tiles in the blank spaces so that all the
+conditions set forth by the equations are
+fulfilled.
+
+Placing a numbered tile into a blank space
+enters it into the equations in the
+positions above and below that space.
+!******************************!
+[ec0b01000b000000:020c010000]
+Brilliant!
+
+Here is one possible solution. The right
+and left halves of each equation are
+interchangeable. Additionally, since each
+half of the equations involves the
+addition or multiplication of a pair of
+numbers, the order of numbers in each
+pair can be switched without affecting
+the overall result.
+!******************************!
+[ed0b01000c000000:023c020000]
+Too bad!
+
+It's a combination of simple numbers.
+Just keep trying.
+!******************************!
+[ee0b01000d000000:027e020000]
+It's difficult to choose the correct 
+numbers, even though there are only 
+four of them. Just keep trying 
+different possibilities.
+!******************************!
+[ef0b01000e000000:0202030000]
+Think of two pairs of two numbers that
+produce the same value when the
+numbers in one pair are multiplied and
+the numbers in the other pair are added
+together, and vice versa.
+!******************************!
+[f00b01000f000000:02b2030000]
+The two numbers on each side of the
+equation should produce the same result
+when they are multiplied as when they
+are added together, so large numbers
+won't work.
+!******************************!
+[f10b010010000000:0255040000]
+When the solution to the top equation
+is six, the solution to the bottom
+equation is five.
+!******************************!

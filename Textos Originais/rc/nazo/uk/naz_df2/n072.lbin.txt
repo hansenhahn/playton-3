@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000007e040000007e040000000100000000000000000000000000]
+n072
+!******************************!
+n072a
+!******************************!
+n072b
+!******************************!
+[eb0b01000a000000:0211000000]
+In this dark maze of tunnels, you can't
+turn unless you hit a wall. Starting at
+the red dot and following this rule,
+you need to reach the exit without
+taking the same path twice or running
+into any dead ends.
+
+Which route should you take? Draw a
+line to plan your escape!
+!******************************!
+[ec0b01000b000000:0222010000]
+Great escape!
+
+You found the way out!
+!******************************!
+[ed0b01000c000000:0248010000]
+Too bad!
+
+Remember, you can only turn when you
+hit a wall.
+!******************************!
+[ee0b01000d000000:0283010000]
+There are three directions in which
+you can go from the start point.
+Try each one and see where you end up.
+
+Watch out for dead ends!
+!******************************!
+[ef0b01000e000000:0209020000]
+It might look confusing at first because
+there are so many junctions, but if you
+eliminate all the routes that contain
+dead ends, you should soon find the
+answer.
+!******************************!
+[f00b01000f000000:02ac020000]
+The correct route is not the one that
+goes up from the start point.
+!******************************!
+[f10b010010000000:02f0020000]
+The route that goes right from the
+start point isn't the correct one
+either. Head down to make your escape!
+!******************************!

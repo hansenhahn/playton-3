@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000000000000000000000000000000]
+n224
+!******************************!
+n224a
+!******************************!
+n224b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}So we meet again, Professor!
+It's Anton, your rival from Professor
+Layton and Pandora's Box, and I'm here
+to present you with a most pleasing
+puzzle.
+
+Can you get the gem out of this complex
+box by moving it to the spot indicated by
+the arrows?
+
+I want you to enjoy this puzzle in its
+purest form, so I'll provide you with no
+silly hints!{''}
+!******************************!
+[ec0b01000b000000:026c010000]
+{''}Excellent!
+
+I see you haven't lost the puzzle-solving
+skills that got you all the way through
+Professor Layton and Pandora's Box.
+
+That reminds me... I'm sure you will
+understand if I ask you to keep my
+identity to yourself.
+
+So long, then!{''}
+!******************************!
+[ed0b01000c000000:0265020000]
+
+!******************************!
+[ee0b01000d000000:0266020000]
+
+!******************************!
+[ef0b01000e000000:0267020000]
+
+!******************************!
+[f00b01000f000000:0268020000]
+
+!******************************!
+[f10b010010000000:0269020000]
+
+!******************************!

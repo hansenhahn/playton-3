@@ -1,0 +1,100 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000207000000]
+ラルフ
+!******************************!
+<T>Visiting the casino in the middle of
+the day? Some people have such
+poor self-control.
+!******************************!
+[7117030004000000:000a00000002610000000268000000]
+ルーク
+!******************************!
+<T><A3/1>Isn't that a bit of a hypocritical
+thing for you to say?
+!******************************!
+[7117030007000000:000a000000020000000002aa000000]
+ラルフ
+!******************************!
+<T><A1/3>You've got a big mouth on you,
+boy.<W> You, sir, should teach this
+child some manners!
+!******************************!
+[711703000a000000:000a000000020a0100000213010000]
+レイトン
+!******************************!
+<T><A3/1>I do apologise. Luke can get a little
+worked up at times.
+!******************************!
+[711703000d000000:000a00000002000000000256010000]
+ラルフ
+!******************************!
+<T><A2/1>Hmph, you're lucky I'm in a good
+mood. Solve this puzzle and I'll
+forget about the whole thing.
+!******************************!
+[7117030010000000:00e8030000020000000002bf010000]
+ラルフ
+!******************************!
+<T><A3/8>If you don't even have the brains
+to solve this puzzle, you're going
+to be kissing your money goodbye.
+!******************************!
+[7117030013000000:00d00700000200000000022f020000]
+ラルフ
+!******************************!
+<T><A2/1>You'd better solve this puzzle if you
+want me to forgive that rude
+remark you made earlier.
+!******************************!
+[7117030016000000:00b80b000002000000000294020000]
+ラルフ
+!******************************!
+<T><A1/1>Nicely done, boy. Watching you solve
+that was a nice way to stave off
+boredom for a few minutes.
+!******************************!
+[7117030019000000:00b80b0000026100000002fe020000]
+ルーク
+!******************************!
+<T><A1/1>So...are you always here at the
+casino?
+!******************************!
+[711703001c000000:00b80b00000200000000022f030000]
+ラルフ
+!******************************!
+<T><A2/1>Yeah, I don't have much else to do.
+Besides, have you looked out of
+the window recently?
+!******************************!
+[711703001f000000:00b80b000002000000000291030000]
+ラルフ
+!******************************!
+<T>London's filled with Family
+henchmen. You'd have to be crazy
+to wander around out there!
+!******************************!
+[7117030022000000:00b80b0000020000000002ed030000]
+ラルフ
+!******************************!
+<T><A1/4>Those thugs have scared just about
+everyone in town into following
+their orders.
+!******************************!
+[7117030025000000:00b80b000002000000000247040000]
+ラルフ
+!******************************!
+<T><A1/4>What else can a good citizen like me
+do but hide indoors where it's safe?
+!******************************!
+[7117030028000000:00b80b0000020a010000029a040000]
+レイトン
+!******************************!
+<T>I see.
+!******************************!
+[711703002b000000:00a00f0000020000000002a4040000]
+ラルフ
+!******************************!
+<T><A2/1>If you're going to run around
+outside, don't let the Family
+spot you!
+!******************************!

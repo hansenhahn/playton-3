@@ -1,0 +1,48 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n172
+!******************************!
+n172a
+!******************************!
+n172b
+!******************************!
+[eb0b01000a000000:0211000000]
+A friend of yours loves plasters. He simply
+adores them! He wears them all the time,
+whether he's injured or not.
+
+As usual, he's got a load of them stuck all
+over his face. But today, he's made a
+puzzle out of them just for you!
+
+{''}Which one did I stick on first?{''}
+
+Touch the correct plaster to mark it with
+an X, then touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:026c010000]
+Great eye!
+
+The plaster he stuck on first should be
+beneath all the rest. If you look closely,
+you'll see that there's only one plaster
+that doesn't overlap any of the others.
+!******************************!
+[ed0b01000c000000:021c020000]
+Too bad!
+
+Look closely at all the plasters
+before submitting your answer.
+!******************************!
+[ee0b01000d000000:0266020000]
+The first plaster he stuck on should
+be underneath all the others.
+!******************************!
+[ef0b01000e000000:02a9020000]
+
+!******************************!
+[f00b01000f000000:02aa020000]
+
+!******************************!
+[f10b010010000000:02ab020000]
+
+!******************************!

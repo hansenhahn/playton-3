@@ -1,0 +1,84 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a0000000200000000020b000000]
+ナゾリーヌ
+!******************************!
+<T>You know all those poor little
+puzzles you leave unsolved? Or
+the ones you just forget about?
+!******************************!
+[7117030004000000:000a0000000200000000026c000000]
+ナゾリーヌ
+!******************************!
+<T>Well, there's no need to worry about
+them, because I give them a place
+to stay.
+!******************************!
+[7117030007000000:000a000000020000000002bf000000]
+ナゾリーヌ
+!******************************!
+<V0010><T><A3/2>They all live in that adorable little
+house over there!</V>
+!******************************!
+[711703000a000000:00140000000200000000020b010000]
+ナゾリーヌ
+!******************************!
+<T><A3/2>All those lost little puzzles live in
+that teeny-weeny house over there.
+!******************************!
+[711703000d000000:00140000000200000000025d010000]
+ナゾリーヌ
+!******************************!
+<V0020><T>Isn't it just the cutest thing
+you've ever seen?</V>
+!******************************!
+[7117030010000000:001e0000000200000000029c010000]
+ナゾリーヌ
+!******************************!
+<T><A3/2>See that tiny house over there?
+That's where all the darling little
+puzzles that you leave behind go.
+!******************************!
+[7117030013000000:001e0000000200000000020b020000]
+ナゾリーヌ
+!******************************!
+<V0030><T>You should definitely solve them
+when you get a chance, though. It
+hurts their feelings if you don't.</V>
+!******************************!
+[7117030016000000:00280000000200000000027f020000]
+ナゾリーヌ
+!******************************!
+<T><A3/2>The lost little puzzles would love
+to see you. Touch that tiny house
+over there to say hello.
+!******************************!
+[7117030019000000:0028000000020000000002e6020000]
+ナゾリーヌ
+!******************************!
+<V0040><T>Go on! Don't be shy!</V>
+!******************************!
+[711703001c000000:003200000002000000000209030000]
+ナゾリーヌ
+!******************************!
+<V0050><T><A3/2>If you've missed any puzzles along
+the way, you can find them in that
+little house!</V>
+!******************************!
+[711703001f000000:003200000002000000000271030000]
+ナゾリーヌ
+!******************************!
+<T>Just go and knock on the door!
+!******************************!
+[7117030022000000:003c00000002000000000293030000]
+ナゾリーヌ
+!******************************!
+<V0060><T>Can you hear all those poor puzzles
+crying, {''}Solve me! Solve me!{''}? You'd
+be a monster not to help them.</V>
+!******************************!
+[7117030025000000:003c0000000200000000020f040000]
+ナゾリーヌ
+!******************************!
+<T>Just touch the house to say hello
+to some of those lost puzzles.
+!******************************!

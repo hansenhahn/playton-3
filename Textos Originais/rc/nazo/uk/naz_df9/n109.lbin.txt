@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n109
+!******************************!
+n109a
+!******************************!
+n109b
+!******************************!
+[eb0b01000a000000:0211000000]
+You have 15 biscuits to share among a
+large group. The first person eats one
+biscuit and then passes two equal shares
+of the remaining biscuits to two other
+people. They both eat a biscuit, and both
+pass two equal shares of their remaining
+biscuits to two other people, and so on
+until all the biscuits are gone.
+
+It takes one minute to eat a biscuit.
+Ignoring the time it takes to pass them,
+what's the shortest amount of time, in
+minutes, that it would take for all the
+biscuits to be eaten?
+!******************************!
+[ec0b01000b000000:02ff010000]
+Crumbs!
+
+The biscuits will be gone in four minutes.
+
+The diagram above shows how you can
+visualise the puzzle to help you solve it.
+This seems like the kind of thing that
+might be useful in real life, but it's
+not a situation that arises very often,
+is it?
+!******************************!
+[ed0b01000c000000:0200030000]
+Too bad!
+
+Clear your mind and think about it again.
+!******************************!
+[ee0b01000d000000:0234030000]
+Drawing a diagram is the quickest way of
+working this one out.
+!******************************!
+[ef0b01000e000000:0273030000]
+Try and break the problem down into
+numbers. If one of the 15 biscuits is
+eaten, that means 14 are left. Divide
+those 14 equally between two people,
+and they get seven each. That's taken
+one minute so far.
+
+Think about the problem in concrete
+mathematical terms like this and
+you should be able to work it out.
+!******************************!
+[f00b01000f000000:02aa040000]
+The two people who get seven biscuits
+eat one biscuit each, which takes one
+minute. They both have six biscuits
+left, which they each divide between
+two people, giving those people three
+biscuits each. That's two minutes so
+far.
+!******************************!
+[f10b010010000000:028f050000]
+All the people who receive three
+biscuits eat one of them, so they each
+have two remaining. Three minutes have
+elapsed at this point.
+
+If you divide these two biscuits between
+the next people in line, giving them one
+each, how many more minutes will it take
+for the biscuits to be gone?
+!******************************!

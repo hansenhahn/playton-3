@@ -1,0 +1,104 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000209000000]
+バージル
+!******************************!
+<T><A3/3>Oh, curse this unfortunate soul of
+mine! My life has taken another turn
+for the tragic.
+!******************************!
+[7117030004000000:000a000000026a0000000271000000]
+ルーク
+!******************************!
+<T><A3/1>What seems to be the trouble
+now?
+!******************************!
+[7117030007000000:000a0000000200000000029c000000]
+バージル
+!******************************!
+<T><A2/1>I've discovered that, as well as
+seein' the future, I possess yet
+another terrible superpower.
+!******************************!
+[711703000a000000:000a00000002000000000204010000]
+バージル
+!******************************!
+<T><A4/5>You see, I know things no human
+bein' should know...<W> Like the
+answer to this puzzle. Look here.
+!******************************!
+[711703000d000000:00e803000002000000000270010000]
+バージル
+!******************************!
+<T><A4/5>Hmph, just as I suspected. No
+normal human could possibly untangle
+a puzzle this complex.
+!******************************!
+[7117030010000000:00e8030000020000000002d3010000]
+バージル
+!******************************!
+<T>I'm alone in my comprehension of it.
+Brilliance is a lonely place, I'm
+tellin' you.
+!******************************!
+[7117030013000000:00d00700000200000000022a020000]
+バージル
+!******************************!
+<T><A1/1>You there, sir, show me I'm not the
+only one burdened with the power
+of puzzle solvin'!
+!******************************!
+[7117030016000000:00b80b00000200000000028b020000]
+バージル
+!******************************!
+<T><A2/1>My word! There's another man who
+shares my superhuman abilities! Oh
+joy, I'm not alone!
+!******************************!
+[7117030019000000:00b80b0000026a00000002ec020000]
+ルーク
+!******************************!
+<T><A4/4>What are you getting so worked
+up about? All he had to do was
+count the rings, you know.
+!******************************!
+[711703001c000000:00b80b0000024e0300000257030000]
+レイトン
+!******************************!
+<T>I think you may be confused, sir.
+You see-
+!******************************!
+[711703001f000000:00b80b000002000000000285030000]
+バージル
+!******************************!
+<T><A4/5>Hush now, friend, you don't have
+to say another word. I know exactly
+how you're feeling right now.
+!******************************!
+[7117030022000000:00b80b0000020000000002f1030000]
+バージル
+!******************************!
+<T>You could say that it's my sad fate
+to know how conversations end
+before they even begin.
+!******************************!
+[7117030025000000:00b80b0000024e030000024e040000]
+レイトン
+!******************************!
+<T>Of course, if you always interr-<W>
+<A3/1>I'm sorry, I just remembered I
+have some business to attend to.
+!******************************!
+[7117030028000000:00a00f0000020000000002bb040000]
+バージル
+!******************************!
+<T><A2/1>You and I share superpowers that
+will forever alienate us from our
+peers. Ours is a lonely road.
+!******************************!
+[711703002b000000:00a00f0000024e0300000225050000]
+レイトン
+!******************************!
+<T>This man is extremely confused, but
+I fear there's nothing we can do
+to bring him to his senses.
+!******************************!

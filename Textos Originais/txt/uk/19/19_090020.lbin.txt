@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton and Luke remain mystified
+by the locals' terrified reactions
+to the professor's top hat.
+!******************************!
+[7117030004000000:000a00000002000000000270000000]
+ナレーション
+!******************************!
+<T>While working their way through
+town, the pair receive a second
+letter from Luke's future self.
+!******************************!
+[7117030007000000:0014000000020000000002d3000000]
+ナレーション
+!******************************!
+<T>Following the instructions in the
+letter, our heroes head to Green
+Hospital, on Auckland Lane.
+!******************************!

@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n168
+!******************************!
+n168a
+!******************************!
+n168b
+!******************************!
+[eb0b01000a000000:0211000000]
+This is the time machine's ignition
+mechanism! In order to prevent accidents,
+a complicated security procedure has
+been incorporated.
+
+To start the time machine, assemble the
+blocks into a square. Make sure that the
+red orb is at the centre, in its original
+position.
+!******************************!
+[ec0b01000b000000:021d010000]
+Stellar!
+
+The time machine is ready to go!
+!******************************!
+[ed0b01000c000000:0248010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:025d010000]
+Think about how the blocks will fit
+together to make a square before you
+start moving them around. You won't
+get very far if you don't plan ahead.
+!******************************!
+[ef0b01000e000000:02f0010000]
+Use the Memo Function to work out the
+correct position for each block. There
+are four small L-shaped blocks. Three of
+them form corners of the square.
+!******************************!
+[f00b01000f000000:0287020000]
+The T-shaped block goes on the right
+side of the square, slotted into two
+small L-shaped blocks.
+
+The S-shaped block goes in the middle,
+sitting on the red orb.
+!******************************!
+[f10b010010000000:0228030000]
+The small L-shaped block in the
+bottom-left goes one square above its
+starting position. The large L-shaped
+block goes directly below it, forming the
+bottom-left corner of the square.
+!******************************!

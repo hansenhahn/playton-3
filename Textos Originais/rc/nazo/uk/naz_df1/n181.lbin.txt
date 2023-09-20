@@ -1,0 +1,66 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n181
+!******************************!
+n181a
+!******************************!
+n181b
+!******************************!
+[eb0b01000a000000:0211000000]
+An exclusive three-year private school
+has admitted only 100 new students a year
+since its inception three years ago.
+
+Starting from year four, the school plans
+to admit 10 more new students each year
+than it did the previous year.
+
+In what year of operation will the school's
+population first exceed 400 students?
+
+You can assume that no students will drop
+out, change schools or leave early.
+!******************************!
+[ec0b01000b000000:029b010000]
+Well done!
+
+The school's population will exceed 400
+students in year eight.
+
+Every year from year four onwards, the
+number of new recruits will increase by 10,
+but the students who started three
+years earlier will finish school and leave.
+In years four, five and six, the population
+will increase by 10, 20 and then 30
+students a year. After that, the
+population will increase steadily by
+30 students a year.
+!******************************!
+[ed0b01000c000000:0234030000]
+Too bad!
+
+Think about it carefully and try again.
+!******************************!
+[ee0b01000d000000:0266030000]
+When calculating the school's total
+population, don't forget that students
+stay at the school for three years.
+
+In its fourth year, the school will have
+10 more students overall than the
+previous year. In the fifth year, it will
+have 20 more than that and in the sixth,
+it will have 30 more.
+
+Each year thereafter, the number of
+students will grow by 30 per year.
+!******************************!
+[ef0b01000e000000:02d2040000]
+
+!******************************!
+[f00b01000f000000:02d3040000]
+
+!******************************!
+[f10b010010000000:02d4040000]
+
+!******************************!

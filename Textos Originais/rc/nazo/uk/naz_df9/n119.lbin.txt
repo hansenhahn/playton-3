@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000100400000010040000000100000000000000000000000000]
+n119
+!******************************!
+n119a
+!******************************!
+n119b
+!******************************!
+[eb0b01000a000000:0211000000]
+Make your way from the start to the goal,
+but be wary of banana skins. Whenever you
+step on one, you'll slide without stopping
+until you hit a wall!
+
+Can you find a solid route through
+these slippery streets?
+
+Touch a red arrow to move in that
+direction.
+!******************************!
+[ec0b01000b000000:0210010000]
+Bananza!
+
+Sweet and delicious, most people are used
+to eating the common Cavendish bananas
+raw, straight after peeling them. In the
+tropics, however, where most of the
+world's bananas are produced, there are
+many less-sweet varieties that are often
+used in cooking.
+!******************************!
+[ed0b01000c000000:021a020000]
+Too bad!
+
+Try it again.
+!******************************!
+[ee0b01000d000000:0232020000]
+If you leave the course, you'll go back
+to the start.
+
+It's easy to slide out of it by mistake,
+so be careful out there.
+!******************************!
+[ef0b01000e000000:02ab020000]
+The first move you have to make is to go
+straight!
+
+Keep sliding until you hit the wall!
+!******************************!
+[f00b01000f000000:0204030000]
+Once you've hit the wall, go back a
+little bit. Turn at the first junction
+you reach. You'll slide again, but
+that's okay.
+!******************************!
+[f10b010010000000:027f030000]
+When you hit the wall, just remain calm.
+Take a good look at the course. You can
+walk to the goal from where you are.
+!******************************!

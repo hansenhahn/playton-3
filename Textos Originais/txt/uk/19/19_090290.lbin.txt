@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Clive's mobile fortress, long 
+concealed underwater, unleashes
+its power on a terrified London.
+!******************************!
+[7117030004000000:001400000002000000000270000000]
+ナレーション
+!******************************!
+<T>To stop Clive's rampage and rescue
+Flora, Layton and the others try
+to infiltrate the fortress.
+!******************************!

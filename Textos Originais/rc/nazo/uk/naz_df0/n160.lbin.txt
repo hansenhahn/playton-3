@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n160
+!******************************!
+n160a
+!******************************!
+n160b
+!******************************!
+[eb0b01000a000000:0211000000]
+This strange door will only open if these
+three stamp-like key pieces, 1, 2 and 3,
+are inserted into every keyhole that will
+accommodate all three of them at once.
+
+Note that the key pieces displayed below
+are not to scale.
+
+Tick all the keyholes that will work.
+!******************************!
+[ec0b01000b000000:0218010000]
+Sharp eyes!
+
+The correct keyholes are A, B, D, F and G.
+C and E don't work.
+
+The key pieces often have to be rotated
+to fit into place. E looks as though it
+should work, but piece 2 is actually
+backwards.
+!******************************!
+[ed0b01000c000000:02e5010000]
+Too bad!
+
+Remember, these are keys, so you can
+rotate them freely, but you only insert
+them one way round.
+!******************************!
+[ee0b01000d000000:0250020000]
+Don't forget about the Memo Function!
+You can use it to draw in the shapes.
+!******************************!
+[ef0b01000e000000:029c020000]
+The most important thing is how you
+use key piece 2.
+!******************************!
+[f00b01000f000000:02d1020000]
+You can probably tell just by looking at
+it that C won't work. B, on the other
+hand, does work, surprisingly!
+
+Note that you can rotate the key
+pieces clockwise or anticlockwise, but
+they have a handle on the back so they
+can only go in one way round. You have
+to push them in by holding the handle,
+which means that the shapes shown on
+the Touch Screen will be flipped when
+they're inserted.
+!******************************!
+[f10b010010000000:025a040000]
+C doesn't work.
+
+A, B and G all work.
+
+Of the remaining three, D, E and F,
+one doesn't work. Which is it?
+
+You know, that Z-shaped one looks
+pretty suspicious...
+!******************************!

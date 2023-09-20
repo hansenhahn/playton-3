@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton and the others finally gain
+entrance to Chinatown with the
+help of their parrot friend.
+!******************************!
+[7117030004000000:00140000000200000000026f000000]
+ナレーション
+!******************************!
+<T>Once inside, the group immediately
+set about investigating the area
+and its residents.
+!******************************!
+[7117030007000000:0014000000020000000002c9000000]
+ナレーション
+!******************************!
+<T>All the while, the group moves
+closer to Future Layton's base:
+the Towering Pagoda.
+!******************************!

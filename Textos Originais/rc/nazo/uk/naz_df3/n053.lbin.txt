@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n053
+!******************************!
+n053a
+!******************************!
+n053b
+!******************************!
+[eb0b01000a000000:0211000000]
+Arrange these books of equal thickness
+on the shelf according to the rules below:
+{.} There are no books to the left of the
+brown one. 
+{.} Only the blue book touches the brown
+one.
+{.} The yellow book is to the left of the
+white one.
+{.} The blue book touches the purple one.
+{.} The white book is sandwiched between the
+yellow and purple books, but touches no
+other.
+{.} There's an empty space for one book
+next to the yellow one.
+!******************************!
+[ec0b01000b000000:02c2010000]
+That's right!
+
+Placing the blue book horizontally on
+top of the others makes it work.
+!******************************!
+[ed0b01000c000000:0218020000]
+Too bad!
+
+Remember, it doesn't matter how tidily the
+books are arranged as long as you meet
+all the conditions.
+!******************************!
+[ee0b01000d000000:0288020000]
+If there are no books to the left of
+the brown one, the chances are it goes
+on the far left of the shelf.
+!******************************!
+[ef0b01000e000000:02f2020000]
+The third and fifth clues reveal how
+to line up the yellow, white and
+purple books. From left to right,
+put them in the following order:
+yellow, white, then purple.
+
+!******************************!
+[f00b01000f000000:0298030000]
+From the second and fourth clues, you
+should be able to deduce where the blue
+book goes.
+
+However, if you're trying to stand all
+the books vertically, it will be impossible
+to meet all the conditions. Take away 
+this constraint and there's only one
+place you can put the blue book...
+!******************************!
+[f10b010010000000:02b4040000]
+If standing all the books upright
+doesn't work, try putting one in
+sideways.
+
+When you put all except the blue book in,
+can you see a space at the top? That's
+where the blue book goes.
+!******************************!

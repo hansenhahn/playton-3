@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000400000000f203000000f2030000000100000000000000000000000000]
+n005
+!******************************!
+n005a
+!******************************!
+n005b
+!******************************!
+[eb0b01000a000000:0211000000]
+You've arrived at the clock shop, but
+there doesn't seem to be any way of
+opening the door.
+
+You notice the strange design below
+displayed on the door, and a voice calls
+out from inside the shop:
+
+{''}Touch the panel with the timepiece on it.{''}
+
+Which panel should you touch? Remember,
+you only need to touch one.
+!******************************!
+[ec0b01000b000000:024d010000]
+Exactly!
+
+An hourglass can clearly be seen on one
+of the panels.
+
+Hey look, the door is opening!
+!******************************!
+[ed0b01000c000000:02ae010000]
+Too bad!
+
+There are many different kinds of
+timepieces, remember.
+!******************************!
+[ee0b01000d000000:02f0010000]
+You're looking for a timepiece. Bear in
+mind, however, that there are many
+different kinds of timepieces.
+
+Since you were told to {''}touch the panel
+with the timepiece on it{''}, you know that
+the entire timepiece should fit on one
+panel...
+!******************************!
+[ef0b01000e000000:02e2020000]
+You're not looking for an ordinary
+analogue or digital clock. There are
+other types of timepiece that don't
+have many moving parts.
+Try to think of some examples.
+!******************************!
+[f00b01000f000000:0285030000]
+The timepiece you're looking for won't
+necessarily help you to tell the time.
+
+This timepiece shows you how much time
+has passed instead.
+
+You'd probably use a stopwatch to do
+that these days, but what you're
+looking for is more of a classic type of
+timepiece.
+!******************************!
+[f10b010010000000:028a040000]
+You're looking for an hourglass.
+Surely you've seen one before?
+
+Now go ahead, try and find it!
+!******************************!

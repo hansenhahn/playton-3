@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n052
+!******************************!
+n052a
+!******************************!
+n052b
+!******************************!
+[eb0b01000a000000:0211000000]
+Two squares of paper, A and B, are shown
+below. Each piece of paper has been folded
+in half and then folded in half again, as
+shown in the images. The dotted red line
+on the rightmost image of paper A shows
+where a cut will be made.
+
+Your task is to cut paper B so that when
+you unfold it, the cut-out shape in the
+middle matches the hole in the middle of
+paper A when it's unfolded.
+
+Draw the cut you need to make on the
+rightmost image of paper B.
+!******************************!
+[ec0b01000b000000:02d3010000]
+You made the cut!
+
+As shown in the image above, both pieces
+of paper will have the same shape cut out
+of the middle when unfolded.
+
+Why not get a few pieces of paper and
+try it out yourself? It's fun!
+!******************************!
+[ed0b01000c000000:029c020000]
+Too bad!
+
+It might be easier to grab a few pieces of
+paper to try working it out that way, but
+try solving it in your head first.
+
+If you were convinced your solution would
+work, perhaps you're making your cut too
+big or too small.
+!******************************!
+[ee0b01000d000000:0284030000]
+Imagine what paper A will look like after
+it's been cut and unfolded. Work that
+out first and go from there.
+!******************************!
+[ef0b01000e000000:02f1030000]
+When unfolded, paper A will have a
+square cut out of its centre that has
+been rotated 45 degrees from the
+square outline of the paper.
+
+When trying to match this shape, be
+careful to match the size as well.
+!******************************!
+[f00b01000f000000:02c0040000]
+You can do it with just one straight
+line.
+!******************************!
+[f10b010010000000:02eb040000]
+Diagonally cut off the correct corner
+of paper B and you'll cut out the same
+shape as the one cut from paper A. The
+key is not to cut off too much or too
+little.
+!******************************!

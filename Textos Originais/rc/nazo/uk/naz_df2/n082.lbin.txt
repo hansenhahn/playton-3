@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n082
+!******************************!
+n082a
+!******************************!
+n082b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here's a strange construction site. You
+have to inspect every ladder and girder,
+starting from the arrow and passing
+through points A, B, C and D in order.
+
+You never take the same route twice,
+except to pass over or under a ladder.
+In what order do you use the white
+ladders?
+
+Drag the numbered ladders over the white
+ladders to indicate their order.
+
+!******************************!
+[ec0b01000b000000:0272010000]
+That's right!
+
+No matter which route you take, the three
+ladders get used in the same order.
+
+These routes may seem inefficient, but no
+matter which one you take, since you
+can't go the same way twice, the distance
+travelled is the same. 
+!******************************!
+[ed0b01000c000000:0261020000]
+Too bad.
+
+Take your time and give it some thought.
+!******************************!
+[ee0b01000d000000:0294020000]
+It looks complicated, but it's just
+one unbroken line.
+
+Keep your thought process simple.
+!******************************!
+[ef0b01000e000000:02ee020000]
+There is more than one route you can
+take, but the order in which you use
+the white ladders is always the same.
+!******************************!
+[f00b01000f000000:025e030000]
+Head straight down the white ladder
+under the starting point to get to A.
+There's your first ladder.
+!******************************!
+[f10b010010000000:02c3030000]
+As mentioned in Hint 3, use the ladder
+under the starting point to get to A.
+That's the first ladder. Don't use a
+white ladder to get from A to B. This
+should be all the information you need.
+
+All you have to do now is decide on the
+order of the other two ladders.
+!******************************!

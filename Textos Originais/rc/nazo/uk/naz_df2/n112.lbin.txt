@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n112
+!******************************!
+n112a
+!******************************!
+n112b
+!******************************!
+[eb0b01000a000000:0211000000]
+This fancy analogue watch features a
+small window at the bottom that displays
+the day of the month, as seen in these
+three examples.
+
+Out of the three numbers indicated by the
+letters A, B and C, which one would be
+impossible to ever actually see on this
+watch?
+!******************************!
+[ec0b01000b000000:0217010000]
+Genius!
+
+The number displayed in example C is
+the correct answer.
+
+You could see A or B as the date changed
+over at midnight, but there's no way
+the number in C would ever appear.
+!******************************!
+[ed0b01000c000000:02cb010000]
+Too bad!
+
+Remember, this is an analogue watch. Think
+about the type of mechanism it must use
+to display all the days of the month.
+!******************************!
+[ee0b01000d000000:024e020000]
+All the days of the month are listed in
+order on a round dial inside the watch.
+
+When the date changes over, however, a
+date that doesn't exist could appear...
+!******************************!
+[ef0b01000e000000:02ee020000]
+Two of the three examples show the
+date just as it's changing over from
+one day to the next. 
+
+Think about how two of these numbers
+are possible and see if you can work
+out why one of them isn't.
+!******************************!
+[f00b01000f000000:02b2030000]
+Bear in mind that each day of the month
+is listed in order on a rotating dial
+inside the watch.
+
+So when the 19th switches over to the
+20th, for example, you would see the
+number 92 displayed for a few moments
+around midnight.
+!******************************!
+[f10b010010000000:0295040000]
+The number 93 in example B shows the
+date as the 29th is switching over to
+the 30th at midnight.
+
+By the way, there's no 40th of the
+month...
+!******************************!

@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000000000000000000000]
+n097
+!******************************!
+n097a
+!******************************!
+n097b
+!******************************!
+[eb0b01000a000000:0211000000]
+Two long wires connect the prime
+minister's heart sensor to a monitor!
+
+In a single move, can you switch the
+wires so that the pocket watch is
+connected to the monitor instead?
+
+Swap two blocks around to connect the
+wires from the monitor at the top of
+the screen to the pocket watch in the
+bottom-right.
+
+Give it your best shot!
+!******************************!
+[ec0b01000b000000:025b010000]
+Amazing!
+
+You successfully swapped the devices!
+!******************************!
+[ed0b01000c000000:028b010000]
+Too bad!
+
+Remember, you can only swap one pair
+of blocks.
+
+Are you sure you didn't move more
+than two blocks?
+!******************************!
+[ee0b01000d000000:02f9010000]
+You need to swap a pair of blocks in one
+single move. First take a look at how
+all the wires are connected.
+
+Find the wires connecting the monitor
+(top-right) to the prime minister's
+heart sensor (bottom-left).
+!******************************!
+[ef0b01000e000000:02cc020000]
+Note that the two wires leading from
+the pocket watch in the bottom-right
+corner are connected in the middle. 
+Pay close attention to their route.
+!******************************!
+[f00b01000f000000:025f030000]
+Have you noticed that only certain
+blocks can be swapped with each other
+and still connect? Keep an eye out for
+blocks that have matching wire entry
+and exit points.
+
+!******************************!
+[f10b010010000000:0206040000]
+The two blocks are both in the third
+row. Look carefully.
+!******************************!

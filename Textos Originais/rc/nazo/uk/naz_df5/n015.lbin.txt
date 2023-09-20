@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n015
+!******************************!
+n015a
+!******************************!
+n015b
+!******************************!
+[eb0b01000a000000:0211000000]
+If seven days after 70 days ago was
+Sunday, which day is it seven days
+before 70 days from now?
+
+Tick your answer, then touch <CR>Submit</C>.
+!******************************!
+[ec0b01000b000000:029f000000]
+That{9}s right!
+
+Sunday.
+One week is seven days. If you're asked
+{''}What day was it X days ago?{''} or {''}What
+day will it be X days from today?{''} and X
+is divisible by seven, then you know that
+it will be the same day as today.
+!******************************!
+[ed0b01000c000000:0288010000]
+Too bad.
+
+Don't let the numbers confuse you.
+!******************************!
+[ee0b01000d000000:02b5010000]
+If you think in terms of big numbers,
+you'll get confused, so try thinking in
+terms of smaller numbers.
+
+For example, if seven days after 14 days
+ago is Wednesday, what day is today?
+!******************************!
+[ef0b01000e000000:026c020000]
+Seven days after 70 days ago is nine
+weeks ago. So if that day was a Sunday, 
+what day would it be today?
+!******************************!
+[f00b01000f000000:02d6020000]
+The thinking is the same for seven days
+before 70 days from now. Today is a
+Sunday, and the question is asking which
+day it will be nine weeks from today.
+
+Now you get it, right?
+!******************************!
+[f10b010010000000:0289030000]
+If you know which day of the week
+it is, then you know which day it is
+{''}X weeks before{''} or {''}X weeks after{''}.
+
+It's the same day as today. 
+!******************************!

@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n064
+!******************************!
+n064a
+!******************************!
+n064b
+!******************************!
+[eb0b01000a000000:0211000000]
+This photo, taken at the finishing line
+of a race, has been cut into strips and
+mixed up.
+Before it was cut, the photo displayed
+the runners in the order they finished
+the race.
+
+Which of the runners came third? Circle
+the letter that corresponds to your
+answer.
+!******************************!
+[ec0b01000b000000:0218010000]
+Good eye!
+
+F came third by a nose.
+!******************************!
+[ed0b01000c000000:023b010000]
+Too bad!
+
+Give it another try.
+!******************************!
+[ee0b01000d000000:025a010000]
+Look closely at how the pieces fit
+together and you'll soon get it.
+Base your observations on things that
+are easy to spot, such as birds or a
+person with a distinctive look.
+!******************************!
+[ef0b01000e000000:0209020000]
+For example, the head of the white bird
+near J connects to the bird's neck,
+which means this strip comes before
+(i.e. to the left of) the strip with D
+on it.
+!******************************!
+[f00b01000f000000:02a7020000]
+A's face appears above D. In other
+words, the strip with A on it comes
+after the strip with D.
+
+What about the head of the white bird
+by person I? Can you find that?
+!******************************!
+[f10b010010000000:024d030000]
+The head of the white bird mentioned
+in Hint 3 is missing from the photo.
+
+The order of the photo strips, from
+left to right, is as follows:
+The strip with H, the strip with F,
+the strip with J, the strip with
+D and the strip with A.
+
+Now, find the person in third place.
+!******************************!

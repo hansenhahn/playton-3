@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n113
+!******************************!
+n113a
+!******************************!
+n113b
+!******************************!
+[eb0b01000a000000:0211000000]
+This old brick wall has been decorated
+with an unusual design.
+Five different shapes have been painted
+on a white background as shown.
+Just by looking at the picture, you should
+be able to tell which colour of paint was
+used the most. So, which one was it?
+
+Touch the tin of paint that was used the
+most.
+!******************************!
+[ec0b01000b000000:0242010000]
+That's right!
+
+White.
+The white background used the most paint,
+without a doubt.
+!******************************!
+[ed0b01000c000000:0293010000]
+Too bad.
+
+Imagine that you were going to paint
+the wall yourself. You should be able
+to work it out.
+!******************************!
+[ee0b01000d000000:02f8010000]
+It isn't wrong to calculate the area
+taken up by each coloured shape, but
+there's got to be an easier way...
+!******************************!
+[ef0b01000e000000:0265020000]
+You're not counting the number of
+bricks for every colour, are you?
+
+Though even doing it that way, you
+should get the answer as long as you
+don't overlook anything...
+!******************************!
+[f00b01000f000000:020d030000]
+The colours used are red, yellow, green,
+black and blue.
+
+There aren't any more, are there?
+!******************************!
+[f10b010010000000:0269030000]
+No matter how large the painted shapes
+are, they can never be bigger than the
+background.
+!******************************!

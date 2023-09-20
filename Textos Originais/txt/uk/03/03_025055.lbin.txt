@@ -1,0 +1,101 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000209000000]
+グラハム
+!******************************!
+<T>Good day, fine gents. Isn't the view
+from here absolutely glorious?
+!******************************!
+[7117030004000000:000a00000002500000000259000000]
+レイトン
+!******************************!
+<T>It most certainly is, sir.
+!******************************!
+[7117030007000000:000a00000002000000000277000000]
+グラハム
+!******************************!
+<T><A1/5>Truly, it's nothing short of
+breathtaking.
+!******************************!
+[711703000a000000:000a00000002ab00000002b2000000]
+ルーク
+!******************************!
+<T>Psst, Professor. Look at this man.
+Do you suppose he could be part of
+the Family?
+!******************************!
+[711703000d000000:000a00000002000000000207010000]
+グラハム
+!******************************!
+<T><A2/3>What's that, boy? I'm standing
+right here! If you have something
+to say, say it to my face!
+!******************************!
+[7117030010000000:000a0000000200000000026c010000]
+グラハム
+!******************************!
+<T>What's more, I don't appreciate
+being associated with those drably
+clad ruffians.
+!******************************!
+[7117030013000000:000a000000020000000002c1010000]
+グラハム
+!******************************!
+<T>Look at this suit! See the
+stitching? This was custom-made
+in Italy!<W> Italy, I say!
+!******************************!
+[7117030016000000:000a00000002ab000000021a020000]
+ルーク
+!******************************!
+<T><A1/6>I'm ever so sorry, sir. I meant no
+offence! I never thought you were
+one of them really.
+!******************************!
+[7117030019000000:000a0000000200000000027c020000]
+グラハム
+!******************************!
+<T><A2/2>Well, as long as you acknowledge
+your outrageous mistake, I'm willing
+to let bygones be bygones.
+!******************************!
+[711703001c000000:000a000000020000000002e6020000]
+グラハム
+!******************************!
+<T>Just to assuage any lingering
+doubts as to my identity, however,
+allow me to introduce myself.
+!******************************!
+[711703001f000000:000a00000002000000000248030000]
+グラハム
+!******************************!
+<T><A1/1>Before you stands London's most
+distinguished, dashing and debonair
+man.<W> <A4/5>The name's Graham.
+!******************************!
+[7117030022000000:000a000000020000000002b6030000]
+グラハム
+!******************************!
+<T><A1/1>I would tell you to remember the
+name, but I know you can't possibly
+forget!
+!******************************!
+[7117030025000000:000a00000002ab000000020c040000]
+ルーク
+!******************************!
+<T>Got it! Graham, London's most
+distinguished, dashing and, um...
+I forgot the last one.
+!******************************!
+[7117030028000000:000a00000002ab0000000266040000]
+ルーク
+!******************************!
+<T>But I won't forget the name, I
+promise!
+!******************************!
+[711703002b000000:001400000002000000000291040000]
+グラハム
+!******************************!
+<T>Graham's the name. Those in search
+of London's most debonair man
+need look no further!
+!******************************!

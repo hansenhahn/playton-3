@@ -1,0 +1,14 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a00000002000000000209000000]
+ベッキー
+!******************************!
+<T>Welcome back, esteemed guests.
+Your friends arrived a while ago, so
+I invited them to wait in your room.
+!******************************!
+[7117030004000000:000a0000000275000000027c000000]
+ルーク
+!******************************!
+<T>Oh good! It sounds like Flora and
+Luke made it back safely.
+!******************************!

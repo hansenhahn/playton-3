@@ -1,0 +1,74 @@
+[7017010000000000:000b000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<V0030><T>Professor, if you're reading this,
+it means you've made it safely to
+my time.</V>
+!******************************!
+[7117030004000000:000a00000002000000000269000000]
+ナレーション
+!******************************!
+<T><V0031>I can hardly wait to see you again.</V>
+!******************************!
+[7117030007000000:000a0000000200000000029b000000]
+ナレーション
+!******************************!
+<V0040><T>I wish to enlist your help in freeing
+this town from the tragedy that
+has befallen it.</V>
+!******************************!
+[711703000a000000:000a00000002000000000200010000]
+ナレーション
+!******************************!
+<V0050><T>But first, I'm sure you'll want some
+proof that you're actually in the
+future.</V>
+!******************************!
+[711703000d000000:000a0000000200000000025d010000]
+ナレーション
+!******************************!
+<V0060><T>I've thought long and hard about
+the best way of convincing you.</V>
+!******************************!
+[7117030010000000:000a000000020000000002ac010000]
+ナレーション
+!******************************!
+<V0070><T>Make your way through town to the
+address below. What you find there
+is sure to quell any doubts.</V>
+!******************************!
+[7117030013000000:000a0000000200000000021c020000]
+ナレーション
+!******************************!
+<V0080><T>Room 312
+Green Hospital
+123 Auckland Lane</V>
+!******************************!
+[7117030016000000:00140000000254020000025d020000]
+レイトン
+!******************************!
+<T>It seems our next destination has
+been decided for us. Let's pay this
+hospital a visit.
+!******************************!
+[7117030019000000:001400000002b802000002bf020000]
+ルーク
+!******************************!
+<T><A3/1>Sounds good, Professor. But how
+do we get to Auckland Lane?
+!******************************!
+[711703001c000000:001400000002540200000204030000]
+レイトン
+!******************************!
+<T>It would be easy if the buses were
+running, but unfortunately that's
+not the case.
+!******************************!
+[711703001f000000:00140000000254020000025a030000]
+レイトン
+!******************************!
+<T>Perhaps that lady over there
+knows of a different way to get
+around town.
+!******************************!

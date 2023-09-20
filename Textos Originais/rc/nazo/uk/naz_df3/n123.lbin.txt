@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n123
+!******************************!
+n123a
+!******************************!
+n123b
+!******************************!
+[eb0b01000a000000:0211000000]
+A rowdy band of thieves are about to be
+apprehended and need to stash their swag
+according to their boss's orders:
+
+{''}Right, lads, these 'ere 10 bars o' gold'll
+fit right into that there brick wall.
+Nobody'll be none the wiser! We'll stash 'em
+'ere 'til the 'eat dies down.
+Oh, I almost forgot the important part:
+don't go puttin' any bigger bars on top of
+any smaller ones. Sound like a plan, lads?{''}
+
+Place the gold bars into the wall to
+complete the boss's orders!
+!******************************!
+[ec0b01000b000000:02e9010000]
+Golden!
+
+What a clever way to hide the bullion!
+That boss is a criminal genius!
+!******************************!
+[ed0b01000c000000:0239020000]
+Too bad!
+
+Did you make sure that there weren't any
+larger bars on top of any smaller ones?
+!******************************!
+[ee0b01000d000000:0294020000]
+Stacking gold bars of the same size on
+top of each other is perfectly fine.
+!******************************!
+[ef0b01000e000000:02e0020000]
+The biggest gold bar goes on the very
+bottom, all the way over to the right.
+!******************************!
+[f00b01000f000000:022d030000]
+Three of the smallest bars go side by
+side along the very top.
+!******************************!
+[f10b010010000000:026c030000]
+See the two bricks that form the base
+of the top-left corner space? Place
+one gold bar that's equal in length to
+those two bricks on top of them. The
+rest should come together pretty easily
+now.
+!******************************!

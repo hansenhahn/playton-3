@@ -1,0 +1,43 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n174
+!******************************!
+n174a
+!******************************!
+n174b
+!******************************!
+[eb0b01000a000000:0211000000]
+Create a valid equation by placing all five
+of the red tiles into the row with the
+green ones.
+!******************************!
+[ec0b01000b000000:0270000000]
+Excellent!
+
+You turn the plus sign into a times sign by
+rotating it 45 degrees, the six into a nine
+by rotating it 180 degrees, and the one
+into a minus sign by rotating it 90
+degrees. Genius!
+!******************************!
+[ed0b01000c000000:0231010000]
+Too bad!
+
+Have you noticed that you can rotate the
+red tiles?
+!******************************!
+[ee0b01000d000000:026f010000]
+You can rotate the red tiles!
+
+The number one (1) can become a minus
+sign (-) and the plus sign (+) can be
+turned into a times sign (x).
+!******************************!
+[ef0b01000e000000:02f8010000]
+
+!******************************!
+[f00b01000f000000:02f9010000]
+
+!******************************!
+[f10b010010000000:02fa010000]
+
+!******************************!

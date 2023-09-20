@@ -1,0 +1,60 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>So, let me get this straight. Dimitri
+is building a time machine to go
+back to the past and save Claire?
+!******************************!
+[7117030004000000:000a0000000273000000027c000000]
+レイトン
+!******************************!
+<T>Correct. Or at least that's what
+he said.
+!******************************!
+[7117030007000000:000a000000020000000002a9000000]
+ルーク
+!******************************!
+<T><A2/1>Funny. We went through every floor
+in the pagoda and I didn't see
+anything like a time machine.
+!******************************!
+[711703000a000000:000a00000002730000000212010000]
+レイトン
+!******************************!
+<T><A2/2>Well observed, my boy!
+!******************************!
+[711703000d000000:000a00000002730000000232010000]
+レイトン
+!******************************!
+<T>Dimitri clearly had a destination
+in mind when he escaped from the
+Towering Pagoda.
+!******************************!
+[7117030010000000:000a00000002730000000289010000]
+レイトン
+!******************************!
+<T>I think he was heading to another
+base, perhaps the facility where he
+conducts his time travel research.
+!******************************!
+[7117030013000000:000a000000020000000002f5010000]
+ルーク
+!******************************!
+<T><A2/2>Is that what you went looking for
+while we were climbing the Towering
+Pagoda with Don Paolo?
+!******************************!
+[7117030016000000:000a0000000273000000025b020000]
+レイトン
+!******************************!
+<T><A4/2>Yes - in part, anyway. I'll explain
+everything once we've caught up
+with Flora and Big Luke.
+!******************************!
+[7117030019000000:000a000000027300000002c1020000]
+レイトン
+!******************************!
+<T>Until then, I challenge you to think
+about the situation on your own.
+!******************************!

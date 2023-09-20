@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n089
+!******************************!
+n089a
+!******************************!
+n089b
+!******************************!
+[eb0b01000a000000:0211000000]
+The door below is sealed shut with a
+mysterious lock that uses six dials
+which can be swapped and rotated.
+
+To open the door, arrange the dials so
+that gems of the same colour border each
+other both horizontally and vertically.
+
+Touch and slide the centre of the dials to
+move them, and touch and slide the edges
+to rotate them in either direction.
+
+Good luck!
+!******************************!
+[ec0b01000b000000:027a010000]
+A gem of a solution!
+
+Now you can push on!
+!******************************!
+[ed0b01000c000000:02a5010000]
+Too bad!
+
+Did you make sure that all adjacent gems
+were the same colour?
+!******************************!
+[ee0b01000d000000:02ee010000]
+Dial A goes in the bottom-right slot.
+!******************************!
+[ef0b01000e000000:0214020000]
+Dial F goes in the top-left slot.
+!******************************!
+[f00b01000f000000:0236020000]
+Dial D goes in the bottom-left slot.
+
+The key to this puzzle is that all the
+gems on the inside - both on the right
+edge of the left column and the left
+edge of the right column - are yellow!
+!******************************!
+[f10b010010000000:02f6020000]
+Dial E goes in the top-right slot. If
+you've followed all the hints correctly
+so far, the rest will be a doddle!
+!******************************!

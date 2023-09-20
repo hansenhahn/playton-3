@@ -1,0 +1,221 @@
+[7017010000000000:0022000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>I've been thinking, Professor.
+!******************************!
+[7117030004000000:000a00000002290000000232000000]
+レイトン
+!******************************!
+<T>What about, Luke?
+!******************************!
+[7117030007000000:000a00000002000000000247000000]
+ルーク
+!******************************!
+<T><A4/1>About how you, Dimitri and Don
+Paolo all have a personal tie to
+poor Claire.
+!******************************!
+[711703000a000000:000a0000000200000000029d000000]
+ルーク
+!******************************!
+<T>And all of you seem to question the
+circumstances surrounding her
+death. Even Celeste does.
+!******************************!
+[711703000d000000:000a000000020000000002fc000000]
+ルーク
+!******************************!
+<T>Why do I get the feeling that many
+of the mysteries in this city
+lead back to that explosion?
+!******************************!
+[7117030010000000:000a0000000229000000025d010000]
+レイトン
+!******************************!
+<T><K><A4/5>...
+!******************************!
+[7117030013000000:00140000000229000000026d010000]
+レイトン
+!******************************!
+<T><A4/1>The explosion that killed Claire
+didn't just destroy the lab in which
+she worked...
+!******************************!
+[7117030016000000:001e000000022900000002ca010000]
+レイトン
+!******************************!
+<T>By the time I got word of the
+accident and ran to the site, the
+whole place was in flames.
+!******************************!
+[7117030019000000:001e00000002290000000228020000]
+レイトン
+!******************************!
+<T>A block of flats next to the lab
+had also been destroyed by the
+blast.
+!******************************!
+[711703001c000000:001e00000002290000000272020000]
+レイトン
+!******************************!
+<T>The entire area was devastated.
+!******************************!
+[711703001f000000:001e00000002290000000295020000]
+レイトン
+!******************************!
+<T><A5/1>Looking upon that scene, I knew
+that Claire was lost to me
+forever.
+!******************************!
+[7117030022000000:001e000000022900000002e2020000]
+レイトン
+!******************************!
+<T><A3/1>And I wasn't the only one who lost
+something that day. Many others
+were wounded or lost loved ones.
+!******************************!
+[7117030025000000:001e0000000229000000024f030000]
+レイトン
+!******************************!
+<T>To this day, I still remember an
+orphaned child I met wandering
+the street, wailing for his parents.
+!******************************!
+[7117030028000000:0028000000022900000002b7030000]
+レイトン
+!******************************!
+<T>For some time after the incident, I
+was in a state of shocked grief.
+!******************************!
+[711703002b000000:0028000000022900000002ff030000]
+レイトン
+!******************************!
+<T>Then, when I came back to my
+senses, I noticed something
+curious.
+!******************************!
+[711703002e000000:002800000002290000000244040000]
+レイトン
+!******************************!
+<T><A1/1>Despite the scale of the damage,
+there was no follow-up coverage
+in the media.
+!******************************!
+[7117030031000000:00280000000229000000029c040000]
+レイトン
+!******************************!
+<T>Not one word about the incident
+was printed or broadcast after
+the initial reports.
+!******************************!
+[7117030034000000:0032000000022900000002f3040000]
+レイトン
+!******************************!
+<T>I knew the only way I'd get answers
+about what happened was by
+running my own investigation.
+!******************************!
+[7117030037000000:003200000002290000000253050000]
+レイトン
+!******************************!
+<T>I immediately set to work
+researching Claire's lab and the
+scientists she had worked with.
+!******************************!
+[711703003a000000:0032000000022900000002b1050000]
+レイトン
+!******************************!
+<T>During my investigation, I learned
+that powerful political forces had
+suppressed reports of the blast.
+!******************************!
+[711703003d000000:003c0000000229000000021b060000]
+レイトン
+!******************************!
+<T><A>It was right after this discovery
+that I was viciously assaulted.
+!******************************!
+[7117030040000000:003c00000002290000000263060000]
+レイトン
+!******************************!
+<T>My injuries were so severe that I
+was in hospital for a month. I was
+lucky to be alive.
+!******************************!
+[7117030043000000:0046000000022900000002be060000]
+レイトン
+!******************************!
+<T><A4/1>When I returned to work, my office
+had been torn apart.
+!******************************!
+[7117030046000000:0046000000022900000002ff060000]
+レイトン
+!******************************!
+<T>The majority of the information
+I'd gathered on the case had been
+stolen.
+!******************************!
+[7117030049000000:00460000000229000000024c070000]
+レイトン
+!******************************!
+<T>That explosion was no ordinary
+accident. Someone with serious
+political clout was involved.
+!******************************!
+[711703004c000000:0046000000022900000002ab070000]
+レイトン
+!******************************!
+<T>And this person abused his or her
+power to keep any facts about the
+event from ever coming to light.
+!******************************!
+[711703004f000000:005000000002290000000213080000]
+レイトン
+!******************************!
+<T><A4/5>I tried to dig back into the case
+several times, but it was no use.
+!******************************!
+[7117030052000000:005000000002290000000260080000]
+レイトン
+!******************************!
+<T>Every time I tried to make progress,
+I was met with resistance and
+threats of violence.
+!******************************!
+[7117030055000000:0050000000022900000002bb080000]
+レイトン
+!******************************!
+<T><A3/1>Claire is lost to me forever, I know
+that. But I must know the truth of
+what happened that day.
+!******************************!
+[7117030058000000:005000000002290000000224090000]
+レイトン
+!******************************!
+<T>It's a feeling I'm sure Don Paolo
+and Celeste share as well.
+!******************************!
+[711703005b000000:005a00000002000000000264090000]
+ルーク
+!******************************!
+<T><A4/4>So you think Dimitri knows the
+truth?
+!******************************!
+[711703005e000000:005a00000002290000000293090000]
+レイトン
+!******************************!
+<T>Dimitri and perhaps one other
+person...
+!******************************!
+[7117030061000000:005a000000020000000002be090000]
+ルーク
+!******************************!
+<T>Who else do you mean, Professor?
+!******************************!
+[7117030064000000:005a000000022900000002e2090000]
+レイトン
+!******************************!
+<T>Everything will become clear at
+the Thames Arms. Let's go.
+!******************************!

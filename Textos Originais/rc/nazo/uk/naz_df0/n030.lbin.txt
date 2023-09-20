@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n030
+!******************************!
+n030a
+!******************************!
+n030b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Ah'm afraid there might be some of that
+Family lot up ahead... There's no telling
+whit they'd do if they spotted me. Ah've
+taken up a hiding spot behind this wall,
+so's Ah can take a wee peek withoot
+being found.
+
+Could ye please help me oot - jist how
+many henchmen are actually oot there?{''} 
+!******************************!
+[ec0b01000b000000:023d010000]
+That's right!
+
+{''}Crivens! Nine henchmen! Ah was right tae
+be afraid...{''}
+!******************************!
+[ed0b01000c000000:028a010000]
+Too bad. 
+
+Check every nook and cranny!
+!******************************!
+[ee0b01000d000000:02b2010000]
+{''}There's the head henchman, up on the
+balcony taewards the top-right!
+
+He's yer first one.{''}
+!******************************!
+[ef0b01000e000000:0214020000]
+{''}They're hiding in places ye wouldnae
+even dream of! Take a look at that
+barrel in the bottom-right, there's
+something nae right with it...{''}
+!******************************!
+[f00b01000f000000:02a7020000]
+{''}They're hiding in awfully strange
+places! Over there on the top-left,
+Ah think Ah can see a hat...
+
+Take a closer look!{''}
+!******************************!
+[f10b010010000000:0227030000]
+{''}Ah'd say there's fewer than 10 of
+them.{''}
+!******************************!

@@ -1,0 +1,81 @@
+[7017010000000000:000c000000]
+[7117030001000000:000a00000002000000000207000000]
+ベモラ
+!******************************!
+<T><A1/1>There isn't any crime to be
+organised in a peaceful park like
+this. Hrrrm. How terribly boring. 
+!******************************!
+[7117030004000000:000a00000002710000000278000000]
+ルーク
+!******************************!
+<T><A4/1>If things are too slow for you here,
+why not move somewhere more,
+erm...exciting?
+!******************************!
+[7117030007000000:000a000000020000000002d3000000]
+ベモラ
+!******************************!
+<T><A3/2>Hyaah haa haa! Would if I could,
+boy, but I can't very well leave
+my post here, can I?
+!******************************!
+[711703000a000000:000a00000002710000000233010000]
+ルーク
+!******************************!
+<T>In that case, I hope you're using
+your time here to do something
+productive.
+!******************************!
+[711703000d000000:000a00000002000000000283010000]
+ベモラ
+!******************************!
+<T><A2/4>Hrrrm. Well, I often make up puzzles
+when I have some time to myself.
+Here, I'll share one with you.
+!******************************!
+[7117030010000000:00e8030000027100000002f1010000]
+ルーク
+!******************************!
+<T><A4/4>Hmm. I'm going to have to come back
+for this one later.
+!******************************!
+[7117030013000000:00d007000002000000000232020000]
+ベモラ
+!******************************!
+<T><A1/1>Hrrrm, care to take another run at
+that frog puzzle?
+!******************************!
+[7117030016000000:00b80b000002000000000270020000]
+ベモラ
+!******************************!
+<T><A3/2>Hyaah haa haa! That's some brain
+you've got there, boy.
+!******************************!
+[7117030019000000:00b80b0000020000000002b1020000]
+ベモラ
+!******************************!
+<T><A2/1>I like you, so I'm going to give you
+some advice that may just save
+your hide one day.
+!******************************!
+[711703001c000000:00b80b000002000000000211030000]
+ベモラ
+!******************************!
+<T>Stay away from the Family. I'm a
+nice man, but I can't say the same
+about the people I work with.
+!******************************!
+[711703001f000000:00b80b000002000000000276030000]
+ベモラ
+!******************************!
+<T><A4/3>Keep out of our way and you'll have
+nothing to worry about.
+!******************************!
+[7117030022000000:00a00f0000020000000002bb030000]
+ベモラ
+!******************************!
+<T><A1/1>Hrrrm. Another uneventful day in
+the park. Can't someone at least
+try and start some trouble?
+!******************************!

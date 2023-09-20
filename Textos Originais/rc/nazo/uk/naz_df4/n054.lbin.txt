@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n054
+!******************************!
+n054a
+!******************************!
+n054b
+!******************************!
+[eb0b01000a000000:0211000000]
+This shop only sells items that cost
+{po}1, {po}2 or {po}3.
+If you buy two of the same item, you
+can buy a third one at half price.
+
+You bought six items and paid {po}9.50.
+How many {po}1, {po}2 and {po}3 items did you
+buy? You bought at least one of each.
+
+Line up the items from left to right to
+show how much of each one you bought.
+!******************************!
+[ec0b01000b000000:0261010000]
+Splendid!
+
+You bought three {po}1 items, two {po}2 items,
+and one {po}3 item. To get the last 50p,
+you'd have to have bought three of
+either the {po}1 or the {po}3 items - though
+the latter option would have taken you
+over budget. But you already knew that,
+didn't you?
+!******************************!
+[ed0b01000c000000:026f020000]
+Too bad!
+
+The key thing to consider is the 50 pence
+in the total you paid.
+!******************************!
+[ee0b01000d000000:02ba020000]
+The total amount you paid contains a
+fraction. That's where your thought
+process should begin.
+!******************************!
+[ef0b01000e000000:0219030000]
+The items that result in a fraction 
+at half price are the {po}1 and {po}3 items.
+Remember the conditions for getting
+the half-price discount.
+!******************************!
+[f00b01000f000000:02a8030000]
+If you buy three of the {po}3 items,
+you'll exceed {po}9.50 if you try and
+buy a total of six items. It is the
+{po}1 item that gives you the 50 pence.
+!******************************!
+[f10b010010000000:023f040000]
+Your shopping costs {po}9.50 in total.
+If you don't buy at least three of the
+same item, you won't get that 50p.
+If you buy three of the {po}1 item, you
+get a total of {po}2.50.
+
+You still need to buy {po}7 worth of items,
+so think hard.
+!******************************!

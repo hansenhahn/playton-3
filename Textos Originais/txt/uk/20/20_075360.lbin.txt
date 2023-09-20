@@ -1,0 +1,96 @@
+[7017010000000000:000e000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Fill in the missing elements of the
+story by placing stickers into each
+picture book.
+!******************************!
+[7117030004000000:000a00000002000000000266000000]
+ナレーション
+!******************************!
+<T>Touch <CR>Place</C> to display a bar
+containing all the stickers that
+you have collected for this book.
+!******************************!
+[7117030007000000:000a000000020000000002d1000000]
+ナレーション
+!******************************!
+<T>Touch a sticker and slide it to the
+position of your choice to stick
+it on the page.
+!******************************!
+[711703000a000000:000a00000002000000000229010000]
+ナレーション
+!******************************!
+<T>To remove a sticker from the page,
+slide it back to the bar at the
+bottom of the Touch Screen.
+!******************************!
+[711703000d000000:000c0000000200000000028b010000]
+ナレーション
+!******************************!
+<T>Touch <CR>Remove</C> to remove all the
+stickers from the picture book.
+!******************************!
+[7117030010000000:000c000000020000000002d5010000]
+ナレーション
+!******************************!
+<T>Touch the arrows on the left and
+right sides of the Touch Screen to
+turn the page.
+!******************************!
+[7117030013000000:000f0000000200000000022b020000]
+ナレーション
+!******************************!
+<T>The text on the top screen changes
+automatically to match the stickers
+you've placed.
+!******************************!
+[7117030016000000:000f00000002000000000284020000]
+ナレーション
+!******************************!
+<T>Try to create a story that makes
+sense by placing all the stickers in
+the correct positions.
+!******************************!
+[7117030019000000:000f000000020000000002e4020000]
+ナレーション
+!******************************!
+<T>You'll collect more stickers as you
+play through the game and solve
+puzzles.
+!******************************!
+[711703001c000000:000f00000002000000000234030000]
+ナレーション
+!******************************!
+<T>Solve as many puzzles as you can
+and try to collect every sticker.
+!******************************!
+[711703001f000000:00140000000200000000027a030000]
+ナレーション
+!******************************!
+<T>There are a total of three picture
+books for you to complete.
+!******************************!
+[7117030022000000:0014000000020000000002bb030000]
+ナレーション
+!******************************!
+<T>Each picture book has its own set
+of stickers which can only be used
+in that book.
+!******************************!
+[7117030025000000:001400000002000000000211040000]
+ナレーション
+!******************************!
+<T>Complete the first picture book to
+unlock the second, and complete
+the second to unlock the third.
+!******************************!
+[7117030028000000:001400000002000000000277040000]
+ナレーション
+!******************************!
+<T>When you've successfully completed
+every picture book, something
+wonderful will happen!
+!******************************!

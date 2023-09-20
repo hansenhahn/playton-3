@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n056
+!******************************!
+n056a
+!******************************!
+n056b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}I bought a pen from a shop, which had 10%
+off the original price of {po}30.00. When my
+friend caught sight of it, she decided she
+had to have it for herself. She offered
+to pay 10% more than the price I had
+bought it for, so I agreed to sell it.
+
+Overall, how much did I gain or lose?{''}
+
+Enter your answer in pence. Be sure to
+put a minus sign (-) in front of your
+answer for a loss. 
+!******************************!
+[ec0b01000b000000:0298010000]
+Correct!
+
+{''}It was a {po}2.70 gain.
+The initial 10% discount I got in the shop
+determines the price I had to pay for the
+pen ({po}30.00 - {po}3.00 = {po}27.00), but it
+doesn't affect the 10% gain I made later
+when I sold it on to my friend.
+
+I bought the pen for {po}27.00 and sold it
+for 10% more ({po}27.00 + {po}2.70 = {po}29.70),
+making a profit of {po}2.70, or 270 pence.{''}
+!******************************!
+[ed0b01000c000000:0217030000]
+Too bad.
+
+Think about it carefully.
+!******************************!
+[ee0b01000d000000:023b030000]
+There are often traps in puzzles that
+use so much text to describe a simple
+problem.
+
+Don't you get that feeling with this
+one?
+
+None of the information is wrong, but
+there's definitely some text in there
+that's meant to confuse you.
+!******************************!
+[ef0b01000e000000:0225040000]
+{''}Start by calculating how much I paid
+for the pen. After that, it should be
+easy enough to work out the rest.{''}
+!******************************!
+[f00b01000f000000:029a040000]
+{''}The price for which I bought the
+pen had already been discounted by 10%.
+
+If my friend then bought it off me for
+10% more than what I paid for it, I
+definitely made a profit.{''}
+!******************************!
+[f10b010010000000:0251050000]
+{''}I bought the pen for {po}27.00 and sold it
+to my friend for {po}29.70.
+
+That's all the information you need.{''}
+!******************************!

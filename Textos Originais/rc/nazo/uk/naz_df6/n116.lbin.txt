@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n116
+!******************************!
+n116a
+!******************************!
+n116b
+!******************************!
+[eb0b01000a000000:0211000000]
+This is a Laytangram.
+
+To reveal the key, you must fit the five
+pieces that make up the top hat into the
+shape of the key, without overlapping the
+pieces or leaving any empty space.
+
+Can you do it?
+
+You can flip the pieces if necessary.
+!******************************!
+[ec0b01000b000000:02fe000000]
+Well done!
+
+Now you've got the key, all you need is a
+lock!
+!******************************!
+[ed0b01000c000000:023a010000]
+Too bad.
+
+Try again.
+!******************************!
+[ee0b01000d000000:024f010000]
+Orientate {#3} vertically and place it
+right at the tip of the key.
+!******************************!
+[ef0b01000e000000:0293010000]
+You need to place {#2} horizontally
+in the tooth section of the key.
+
+You can complete the key with or
+without flipping {#0}, but its
+position will change.
+!******************************!
+[f00b01000f000000:022f020000]
+{#1} is not flipped.
+
+Can you complete the puzzle now?
+!******************************!
+[f10b010010000000:0266020000]
+{#1} forms the base of the key's shaft.
+
+Now you just need to get {#0} and {#4}
+to fit together.
+!******************************!

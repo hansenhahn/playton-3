@@ -1,0 +1,47 @@
+[7017010000000000:0007000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T><A5/0>Be straight with me, Layton. Can
+you really stop that contraption?
+!******************************!
+[7117030004000000:000a00000002000000000257000000]
+チェルミー
+!******************************!
+<T><A4/2>If we let it carry on, there's no
+telling how much damage it could do
+to London!
+!******************************!
+[7117030007000000:000a00000002b100000002ba000000]
+レイトン
+!******************************!
+<T>I'll do my best to stop the machine.
+In the meantime, I need you to get
+everyone out of here.
+!******************************!
+[711703000a000000:000a00000002b1000000021b010000]
+レイトン
+!******************************!
+<T>Lead everyone to the clock shop
+and get them above ground as fast
+as possible. 
+!******************************!
+[711703000d000000:000a0000000200000000026e010000]
+チェルミー
+!******************************!
+<T>Don't worry, Layton. I'll make sure
+everyone is safe. You focus on
+stopping that machine.
+!******************************!
+[7117030010000000:000a00000002b100000002cb010000]
+レイトン
+!******************************!
+<T>Thank you, Inspector.
+!******************************!
+[7117030013000000:0014000000020000000002e4010000]
+チェルミー
+!******************************!
+<T>I'll make sure everyone evacuates
+the area safely. You just focus on
+stopping Clive and his machine.
+!******************************!

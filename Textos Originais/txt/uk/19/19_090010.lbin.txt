@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>The giant clock lurches to life, and
+Layton and Luke find themselves in a
+London that they don't recognise.
+!******************************!
+[7117030004000000:00140000000200000000027c000000]
+ナレーション
+!******************************!
+<T>To acquaint themselves with their
+new, unfamiliar surroundings, they
+set out to investigate the area.
+!******************************!

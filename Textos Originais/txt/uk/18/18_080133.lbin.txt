@@ -1,0 +1,67 @@
+[7017010000000000:000a000000]
+[7117030001000000:000a00000002000000000209000000]
+タイラー
+!******************************!
+<T>Watch out, fellas! Can't y'see
+you're standing in the middle
+of a building site?!
+!******************************!
+[7117030004000000:000a000000025e0000000267000000]
+レイトン
+!******************************!
+<T><A3/2>It's good to see that you're making
+progress with the construction
+work.
+!******************************!
+[7117030007000000:000a000000020000000002b9000000]
+タイラー
+!******************************!
+<T><A3/1>Pfft, if only that were the case.
+We've hit a snag, see. Look at these
+boards here.
+!******************************!
+[711703000a000000:000a0000000216010000021d010000]
+ルーク
+!******************************!
+<T><A4/1>They're a very odd shape. What are
+you using them for?
+!******************************!
+[711703000d000000:000a0000000200000000025d010000]
+タイラー
+!******************************!
+<T>Diddly-squat. I've got crates of
+these things, but I can't use them.
+!******************************!
+[7117030010000000:000a000000020000000002a5010000]
+タイラー
+!******************************!
+<T>I need square boards, y'see. What's
+a man to do?
+!******************************!
+[7117030013000000:00e8030000020000000002d9010000]
+タイラー
+!******************************!
+<T>Yeah, it's useless. Thanks for your
+help, but I think we'll just have to
+order new boards.
+!******************************!
+[7117030016000000:00d007000002000000000237020000]
+タイラー
+!******************************!
+<T>Got any bright ideas that might help
+fix my problem?
+!******************************!
+[7117030019000000:00b80b00000200000000026f020000]
+タイラー
+!******************************!
+<T><A2/1>Hey, look at that! One cut and I've
+got square boards. Thanks for the
+idea, mate!
+!******************************!
+[711703001c000000:00a00f0000020000000002ca020000]
+タイラー
+!******************************!
+<T><A2/1>Thanks for fixing that board
+problem. We're undermanned, y'see,
+so help is always appreciated.
+!******************************!

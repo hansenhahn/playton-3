@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n219
+!******************************!
+n219a
+!******************************!
+n219b
+!******************************!
+[eb0b01000a000000:0211000000]
+Oh no! You're trapped deep underground!
+To escape, make your way past the blocks
+and reach the surface. The exit is marked
+by the white arrow.
+
+The orange ball at the bottom is you.
+
+Good luck!
+!******************************!
+[ec0b01000b000000:02d3000000]
+You're free!
+
+This type of puzzle often remains just 
+as hard to solve no matter how many 
+times you do it!
+!******************************!
+[ed0b01000c000000:023f010000]
+Too bad!
+
+Try again.
+!******************************!
+[ee0b01000d000000:0254010000]
+This puzzle is difficult, but it can be
+solved in as few as 10 moves.
+
+Find a way to slide the blue block into
+the square space on the right. Then
+slide the yellow block into the crook of
+the blue block. After that, slide the
+orange block around the end of the
+yellow block.
+
+That should help you escape!
+!******************************!
+[ef0b01000e000000:0285020000]
+
+!******************************!
+[f00b01000f000000:0286020000]
+
+!******************************!
+[f10b010010000000:0287020000]
+
+!******************************!

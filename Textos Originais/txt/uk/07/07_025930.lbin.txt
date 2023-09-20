@@ -1,0 +1,87 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a0000000200000000020b000000]
+ギョラック
+!******************************!
+<T>Ohhh... So bored. So very, very
+bored.
+!******************************!
+[7117030004000000:000a0000000235000000023c000000]
+ルーク
+!******************************!
+<T>Same old story, eh?
+!******************************!
+[7117030007000000:000a00000002000000000253000000]
+ギョラック
+!******************************!
+<T>Can you blame me? Life's not
+exactly a bed o' roses, and I
+don't have anyone to talk to.
+!******************************!
+[711703000a000000:000a000000020000000002af000000]
+ギョラック
+!******************************!
+<T>At least I'm not sad, though. The
+only thing worse than being bored
+is being sad.
+!******************************!
+[711703000d000000:000a00000002350000000204010000]
+ルーク
+!******************************!
+<T><A4/2>I suppose so.<W> You know, if you want
+someone to talk to, I'd be happy
+to listen.
+!******************************!
+[7117030010000000:000a00000002000000000260010000]
+ギョラック
+!******************************!
+<T>That's nice of you. I bet you'll
+grow up to be a nice fella. Thanks
+for the offer, little chappie.
+!******************************!
+[7117030013000000:000a000000020000000002c6010000]
+ギョラック
+!******************************!
+<T><A2/1>I feel better already. How about I
+share one of my puzzles with you by
+way of thanks?
+!******************************!
+[7117030016000000:000a00000002350000000225020000]
+ルーク
+!******************************!
+<T>Yes, please! I love a good puzzle.
+!******************************!
+[7117030019000000:000a0000000200000000024b020000]
+ギョラック
+!******************************!
+<T>Okay. Now digging's my game, see.
+It's what I do. I thought of this
+one at work one day...
+!******************************!
+[711703001c000000:00e8030000020000000002a9020000]
+ギョラック
+!******************************!
+<T>Don't look so down, little chappie.
+You can always come back and try
+again.
+!******************************!
+[711703001f000000:00d0070000020000000002f8020000]
+ギョラック
+!******************************!
+<T>I appreciate how nice you've been
+to me. Let me thank you with this
+puzzle I thought up.
+!******************************!
+[7117030022000000:00b80b000002000000000254030000]
+ギョラック
+!******************************!
+<T>You're a smart little chap, aren't
+you? You come back and see me
+again sometime, yeah?
+!******************************!
+[7117030025000000:00a00f0000020000000002ae030000]
+ギョラック
+!******************************!
+<T><A1/5>I really wish I could get back home.
+It'd be nice to see the family.
+My family, that is. Not THE Family.
+!******************************!

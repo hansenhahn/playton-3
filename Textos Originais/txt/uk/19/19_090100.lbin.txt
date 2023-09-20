@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Flora, Chelmey and Barton tail
+Layton and Luke all the way to the
+future.
+!******************************!
+[7117030004000000:00140000000200000000025a000000]
+ナレーション
+!******************************!
+<T>With Flora in tow, the professor
+and his apprentice set out in
+search of Future Luke.
+!******************************!

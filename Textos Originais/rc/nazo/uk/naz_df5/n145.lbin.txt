@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n145
+!******************************!
+n145a
+!******************************!
+n145b
+!******************************!
+[eb0b01000a000000:0211000000]
+These four cards, 0, 1, 2 and 6, can be
+used to display different times of the
+day, as seen in the example 02:16.
+
+Using the 24-hour clock, how many
+different times can be displayed by
+rearranging the four cards?
+
+You must use all four cards to display 
+each time. The cards can't be overlapped.
+!******************************!
+[ec0b01000b000000:0239010000]
+That's it!
+
+20 different times can be displayed
+using the four cards.
+
+Did it take you a while to work out that
+the 6 can also be used as a 9?
+
+And, of course, times like 26 o'clock and
+60 minutes past the hour don't exist.
+!******************************!
+[ed0b01000c000000:0219020000]
+Too bad!
+
+First look at all the conditions, then
+start eliminating any answers that are
+impossible.
+!******************************!
+[ee0b01000d000000:027d020000]
+You're trying to display times of
+day, so let's be clear:
+
+{.} The hours go up to 23.
+{.} The minutes go up to 59.
+!******************************!
+[ef0b01000e000000:02f0020000]
+There's one card that can be used to
+display two different numbers!
+!******************************!
+[f00b01000f000000:0234030000]
+The 6 can be flipped and used as a 9!
+Better count those times again...
+!******************************!
+[f10b010010000000:027c030000]
+The earliest time you can display
+is 01:26. The latest is 21:09.
+
+Be careful not to overlook any
+combinations, and be wary of
+times that don't actually exist.
+!******************************!
