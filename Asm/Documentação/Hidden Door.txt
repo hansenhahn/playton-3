@@ -1,0 +1,95 @@
+Endereço da senha na memória:   0233E2A0
+[0233E2A0]?
+
+Copia para o endereço 
+[027E3568]?
+
+r7 = 0233e2a0
+r8 = 027e3568
+
+r0 = 027e3568
+r1 = 0233e2a0
+
+r6 = 0233e2a0
+r7 = 027e3568
+
+0203B1BC 13510000 cmpne   r1,0h                                   ;1  23
+0203B1C0 03A00000 moveq   r0,0h                                   ;1  24
+0203B1C4 012FFF1E bxeq    r14                                     ;3  27
+0203B1C8 E1D130D0 ldrsb   r3,[r1]                                 ;2  29        ; r1 endereço da rom                r1=027e3554
+0203B1CC E1D020D0 ldrsb   r2,[r0]                                 ;2  31        ; r0 endereço entrada do usuario    r0=027e3568
+0203B1D0 E1520003 cmp     r2,r3                                   ;1  32
+0203B1D4 1A000006 bne     Lxx_203B1F4h                            ;3  35
+0203B1D8 E3520000 cmp     r2,0h                                   ;1  36
+0203B1DC 03A00000 moveq   r0,0h                                   ;1  37
+0203B1E0 012FFF1E bxeq    r14                                     ;3  40
+0203B1E4 E1F130D1 ldrsb   r3,[r1,1h]!                             ;2  42
+0203B1E8 E1F020D1 ldrsb   r2,[r0,1h]!                             ;2  44
+0203B1EC E1520003 cmp     r2,r3                                   ;1  45
+0203B1F0 0AFFFFF8 beq     Lxx_203B1D8h                            ;3  48
+0203B1F4 E20210FF and     r1,r2,0FFh                              ;1  49
+0203B1F8 E20300FF and     r0,r3,0FFh                              ;1  50
+0203B1FC E0410000 sub     r0,r1,r0                                ;1  51
+0203B200 E12FFF1E bx      r14                                     ;3  54
+0203B204 E3500000 cmp     r0,0h                                   ;1  55
+
+;;;;
+
+0211F34C E2511001 subs    r1,r1,1h                                ;1  29
+0211F350 1AFFFFF8 bne     Lxx_211F338h                            ;3  32
+0211F354 E5C20000 strb    r0,[r2]                                 ;1  33
+0211F358 E5981804 ldr     r1,[r8,804h]                            ;2  35
+0211F35C E3A04000 mov     r4,0h                                   ;1  36
+0211F360 E3510000 cmp     r1,0h                                   ;1  37
+0211F364 DA000013 ble     Lxx_211F3B8h                            ;3  40
+0211F368 E2880FF9 add     r0,r8,3E4h                              ;1  41
+0211F36C E28D7020 add     r7,r13,20h                              ;1  42        ; r7 tem o endereço de memória da senha corrigido
+0211F370 E1A05008 mov     r5,r8                                   ;1  43        
+0211F374 E2806B01 add     r6,r0,400h                              ;1  44        ; r6 tem o endereço de memória da senha que o usuário colocou
+0211F378 E3A09001 mov     r9,1h                                   ;1  45
+
+;;;;;;
+
+0211F284 EBFC6E67 bl      Lxx_203AC28h                            ;3  47
+0211F288 E59F7088 ldr     r7,=Lxx_92492493h                       ;2  49
+0211F28C E59F0088 ldr     r0,=Lxx_38E38E39h                       ;2  51
+0211F290 E28D2008 add     r2,r13,8h                               ;1  52
+0211F294 E3A01000 mov     r1,0h                                   ;1  53
+0211F298 E3A06007 mov     r6,7h                                   ;1  54
+0211F29C E3A08009 mov     r8,9h                                   ;1  55
+0211F2A0 E1A04FA1 mov     r4,r1,lsr 1Fh                           ;1  56
+0211F2A4 E0643F81 rsb     r3,r4,r1,lsl 1Fh                        ;1  57
+0211F2A8 E0943FE3 adds    r3,r4,r3,ror 1Fh                        ;1  58
+0211F2AC E5D2C000 ldrb    r12,[r2]                                ;2  60
+0211F2B0 1A000008 bne     Lxx_211F2D8h                            ;3  63
+0211F2B4 E0CE4C90 smull   r4,r14,r0,r12                           ;3  66
+0211F2B8 E1A03FAC mov     r3,r12,lsr 1Fh                          ;1  67
+0211F2BC E083E0CE add     r14,r3,r14,asr 1h                       ;1  68
+0211F2C0 E0C43E98 smull   r3,r4,r8,r14                            ;3  71
+0211F2C4 E04CE003 sub     r14,r12,r3                              ;1  72
+0211F2C8 E20E30FF and     r3,r14,0FFh                             ;1  73
+0211F2CC E5C2E000 strb    r14,[r2]                                ;1  74
+0211F2D0 E2833030 add     r3,r3,30h                               ;1  75
+0211F2D4 EA000008 b       Lxx_211F2FCh                            ;3  78
+0211F2D8 E0C43C97 smull   r3,r4,r7,r12                            ;3  81
+0211F2DC E08C4004 add     r4,r12,r4                               ;1  82
+0211F2E0 E1A03FAC mov     r3,r12,lsr 1Fh                          ;1  83
+0211F2E4 E0834144 add     r4,r3,r4,asr 2h                         ;1  84
+0211F2E8 E0C43496 smull   r3,r4,r6,r4                             ;3  87
+0211F2EC E04C4003 sub     r4,r12,r3                               ;1  88
+0211F2F0 E20430FF and     r3,r4,0FFh                              ;1  89
+0211F2F4 E5C24000 strb    r4,[r2]                                 ;1  90
+0211F2F8 E2833041 add     r3,r3,41h                               ;1  91
+0211F2FC E7C53001 strb    r3,[r5,r1]                              ;1  92            ; aqui monta o código correto
+0211F300 E2811001 add     r1,r1,1h                                ;1  93
+0211F304 E3510008 cmp     r1,8h                                   ;1  94
+0211F308 E2822001 add     r2,r2,1h                                ;1  95
+0211F30C BAFFFFE3 blt     Lxx_211F2A0h                            ;3  98
+0211F310 E28DD010 add     r13,r13,10h                             ;1  99
+0211F314 E8BD83F8 pop     r3-r9,r15                               ;4  103
+
+;;;;;;;;;
+
+0211F3D4 E28D0020 add     r0,r13,20h                              ;1  207
+0211F3D8 E28D100C add     r1,r13,0Ch                              ;1  208           ; add     r1,r13,20h
+0211F3DC EBFC6F75 bl      Lxx_203B1B8h                            ;3  211           ; os endereços que serão comparados
