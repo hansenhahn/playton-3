@@ -20,9 +20,9 @@ from rhCompression import lzss, rle, huffman
 from rhImages import images, bmp
 
 __title__ = "Layton's Image Processor"
-__version__ = "2.0"
+__version__ = "3.0"
 
-DEBUG = 1
+DEBUG = 0
 
 def gba2tuple(fd):
     rgb = struct.unpack('<H', fd.read(2))[0] & 0x7FFF
@@ -43,10 +43,9 @@ def scandirs(path):
             files.append(currentFile)
     return files
 
-def unpackBackground( src, dst ):
-    #bg_path = os.path.join(src, 'img')
-    bg_path = src
-    files = filter(lambda x: x.__contains__('.cimg'), scandirs(bg_path))
+def unpackBackground( src, tmp, dst ):
+
+    files = filter(lambda x: x.__contains__('.cimg'), scandirs(src))
         
     for _, fname in enumerate(files):
         try:
@@ -55,9 +54,12 @@ def unpackBackground( src, dst ):
             path = fname[len(src):]
             fdirs = dst + path[:-len(os.path.basename(path))]
             if not os.path.isdir(fdirs):
-                os.makedirs(fdirs)          
+                os.makedirs(fdirs)
+                
+            ftemp = tmp + path[:-len(os.path.basename(path))]
+            if not os.path.isdir(ftemp):
+                os.makedirs(ftemp)   
             
-            #fname = r"C:\WorkingCopy\playton-3\ROM Original\PLAYTON3\data\lt3\ani\uk\evt_chapt.cimg"
             file = open(fname, 'rb')
             type = struct.unpack('B', file.read(1))[0]
             if type == 0x30:
@@ -69,9 +71,11 @@ def unpackBackground( src, dst ):
             else:
                 file.seek(4,0)
                 buffer = array.array('c', file.read())
-               
-            # with open("temp", "wb") as fd: fd.write(buffer.tostring())
-            # raw_input()
+            
+            # vamos simplificar a inserção mantendo um tracking dos arquivos originais descomprimidos
+            with open(ftemp + os.path.basename(path) , 'wb') as fd:
+                fd.write(buffer.tostring())
+ 
                
             temp = mmap.mmap(-1, len(buffer))
             temp.write(buffer.tostring())
@@ -141,20 +145,23 @@ def unpackBackground( src, dst ):
             
         temp.close()    
     
-def packBackground( src, dst ):
-    outdir = ['../Imagens/bg_pt/', '../Imagens/bg_pt/pt/']
-    originals = ['../Imagens/bg/', '../Imagens/bg/en/']
-    
-    bg_path = os.path.join(src, 'bg')
-    files = filter(lambda x: x.__contains__('.bmp'), scandirs(bg_path))    
+def packBackground( src, tmp, dst ):
+
+    files = filter(lambda x: x.__contains__('.bmp'), scandirs(src))    
     
     print "Buffering..."
 
-    for name in files:    
-                
-        input = open(name, 'rb')
+    for fname in files:    
+        print fname
+        path = fname[len(src):]
+        fdirs = dst + path[:-len(os.path.basename(path))]          
+        ftemp = tmp + path[:-len(os.path.basename(path))]
+              
+        input = open(fname, 'rb')
         w = images.Reader(input)
-        data, colormap = w.as_data(mode = 1, bitdepth = 8)
+        data, colormap = w.as_data(mode = 1)
+        bitdepth = w._bitdepth
+        tile_size = 8*bitdepth
 
         width = len(w.data[0])
         height = len(w.data)
@@ -163,8 +170,8 @@ def packBackground( src, dst ):
         tileset = array.array('c')
         tilemap = array.array('c')
         
-        for x in range(width*height/64):
-            string = data[64*x:64*(x+1)]
+        for x in range(width*height/tile_size):
+            string = data[tile_size*x:tile_size*(x+1)]
             if string in tilelist:
                 mapper = tilelist.index(string)
                 tilemap.extend(struct.pack('<H', mapper))
@@ -173,26 +180,39 @@ def packBackground( src, dst ):
                 mapper = tilelist.index(string)
                 tileset.extend(string)
                 tilemap.extend(struct.pack('<H', mapper))
-            
+                
+        with open(ftemp + os.path.basename(path).replace(".bmp", "") , 'rb') as fd:
+            buffer = fd.read()
+                              
         temp = open('temp', 'w+b')
-        # Escrita do arquivo tempor?rio:
-        temp.write(struct.pack('<L', 0xE0))#len(colormap)))
-        for x in range(0xE0):#colormap:
-            temp.write(tuple2gba(colormap[x]))
-        temp.write(struct.pack('<L', len(tilelist)))
-        tileset.tofile(temp)
+        temp.write(buffer)
+
+        temp.seek(0,0)
+        assert temp.read(4) == "LIMG"
+        colormap_offset = struct.unpack("<L", temp.read(4))[0]
+        temp.read(8)
+        tilemap_offset, tilemap_entries = struct.unpack("<HH", temp.read(4))
         
-        temp.write(struct.pack('<H', width / 8))
-        temp.write(struct.pack('<H', height / 8))
-        tilemap.tofile(temp)
+        # atualiza a quantidade de tiles 
+        background_offset = struct.unpack("<H", temp.read(2))[0]
+        temp.write(struct.pack("<H", len(tilelist)))
         
-        filepath = dst + name[len(src):]
+        colormap_type, colormap_entries = struct.unpack("<HH", temp.read(4))
+        
+        temp.seek( tilemap_offset )
+        temp.write(tilemap.tostring())     
+
+        temp.seek( background_offset )
+        temp.write(tileset.tostring())     
+
+        
+        filepath = dst + fname[len(src):]
         path  = os.path.dirname( filepath )
         if not os.path.isdir( path ):
             os.makedirs( path )                   
         
         output = open(filepath.replace('.bmp', ''), 'wb')
-        output.write(struct.pack('<L', 2))
+       # output.write(struct.pack('<L', 2))
         
         buffer = lzss.compress(temp)             
         buffer.tofile(output)
@@ -211,7 +231,6 @@ def unpackSprite( src, dst ):
             if b == "\x00": return txt
             txt += b
     
-    #ani_path = os.path.join(src, 'ani')
     ani_path = src
     files = filter(lambda x: x.__contains__('.cani') or x.__contains__('.arj'), scandirs(ani_path))
         
@@ -226,7 +245,6 @@ def unpackSprite( src, dst ):
             if not os.path.isdir(fdirs):
                 os.makedirs(fdirs)                 
                         
-            #fname = r"C:\WorkingCopy\playton-3\ROM Original\PLAYTON3\data\lt3\ani\uk\evt_chapt.cimg"
             file = open(fname, 'rb')
             type = struct.unpack('B', file.read(1))[0]
             if type == 0x30:
@@ -248,7 +266,7 @@ def unpackSprite( src, dst ):
 
             temp.seek(0)
             header = struct.unpack("<7L", temp.read(7*4))
-            # VerificaÃ§Ãµes iniciais
+            # Verificações iniciais
             assert header[0] == 0x3243504c #"LPC2"
             # 0 u8 magic[4];
             # 1 u32 count;//Number of subfiles
@@ -298,11 +316,12 @@ def unpackSprite( src, dst ):
                                 fd.write(r(m))
                                 fd.write('\n!******************************!\n')
                                 
-                            else:
-                                print "unsupported rec2[1] %d " % rec2[1]
+                            # else:
+                                # print "unsupported rec2[1] %d " % rec2[1]
                 elif stamp == "LIMG":
                     colormap_offset = struct.unpack("<L", m.read(4))[0]
-                    m.read(8)
+                    attr_offset, attr_entries = struct.unpack("<HH", m.read(4))
+                    m.read(4)
                     tilemap_offset, tilemap_entries = struct.unpack("<HH", m.read(4))
                     background_offset, background_entries = struct.unpack("<HH", m.read(4))
                     colormap_type, colormap_entries = struct.unpack("<HH", m.read(4))
@@ -315,6 +334,7 @@ def unpackSprite( src, dst ):
                     width = struct.unpack('<H', m.read(2))[0]
                     height = struct.unpack('<H', m.read(2))[0]   
 
+                    attr = []
                     colormap = []
                     tilelist = []
                     buffer = array.array('c')
@@ -325,8 +345,14 @@ def unpackSprite( src, dst ):
                             colormap.append((0,0,0))
                             
                     for _ in range(colormap_entries):
-                        colormap.append(gba2tuple(m))    
-
+                        colormap.append(gba2tuple(m))
+                        
+                    m.seek(attr_offset)
+                    for _ in range(attr_entries):
+                        x0, y0, w, h = struct.unpack("<BBBB", m.read(4))
+                        m.read(4)
+                        attr.append((x0<<3, y0<<3, w<<3, h<<3))
+                    
                     m.seek( background_offset )
                     for _ in range(background_entries):
                         tilelist.append(m.read( 32 * 2**colormap_bpp ))                          
@@ -346,7 +372,7 @@ def unpackSprite( src, dst ):
                             # string = horizontal(string)
                         buffer.extend(string)
                                
-                    output = open(fdirs + os.path.basename(path) + '.bmp', 'wb')
+                    output = open(fdirs + os.path.basename(path) + ('-%02d.bmp' % (i)), 'wb')
 
                     if colormap_bpp == 0:
                         w = images.Writer((width, height), colormap, 4, 1, 0)
@@ -355,183 +381,36 @@ def unpackSprite( src, dst ):
                         w = images.Writer((width, height), colormap, 8, 1, 0)
                         w.write(output, buffer, 8, 'BMP')
                     
-                    output.close()
+                    output.close()                    
+                    
+                    
+                    try:
+                        for j in range(attr_entries):
+                            spr_buffer = array.array('c')
+                            x0, y0, w, h = attr[j]
+                            for hi in range(h/8):
+                                if colormap_bpp == 0:
+                                    spr_buffer.extend(buffer[width*(y0+hi*8)/2 + x0*4: width*(y0+hi*8)/2 + (x0+w)*4])
+                                else:
+                                    spr_buffer.extend(buffer[width*(y0+hi*8) + x0*8: width*(y0+hi*8) + (x0+w)*8])
+                        
+                            output = open(fdirs + os.path.basename(path) + ('-%02d-%02d-%02d.bmp' % (i, j+1, attr_entries)), 'wb')
+
+                            if colormap_bpp == 0:
+                                w = images.Writer((w, h), colormap, 4, 1, 0)
+                                w.write(output, spr_buffer, 4, 'BMP')
+                            else:
+                                w = images.Writer((w, h), colormap, 8, 1, 0)
+                                w.write(output, spr_buffer, 8, 'BMP')
+                            
+                            output.close()
+                    except:
+                        pass
                 else:
                     print "unsupported stamp %s " % stamp
                    
                 m.close()
-            # if re.match(r'^.*\.cani$', name):
-                # temp.seek(0,0)
-                # entries = struct.unpack('<H', temp.read(2))[0]
-                # type = struct.unpack('<H', temp.read(2))[0]
-                # objs = []
-                
-                # if type == 3:
-                    # for p in range(entries):
-                        # xcoord = struct.unpack('<H', temp.read(2))[0]
-                        # ycoord = struct.unpack('<H', temp.read(2))[0]
-                        # obj_entries = struct.unpack('<L', temp.read(4))[0]
-                        
-                        # objs_params = []
-                        
-                        # for x in range(obj_entries):
-                            # obj_xcoord = struct.unpack('<H', temp.read(2))[0]
-                            # obj_ycoord = struct.unpack('<H', temp.read(2))[0]          
-                            # obj_width = 4 * (2 ** struct.unpack('<H', temp.read(2))[0]) # 4 BPP)
-                            # obj_height = 8 * (2 ** struct.unpack('<H', temp.read(2))[0])
-                            # obj_data = []
 
-                            # for y in range(obj_height):
-                                # obj_data.append(f.read(obj_width))
-                                
-                            # objs_params.append( (obj_xcoord, obj_ycoord,
-                                                 # obj_width, obj_height, obj_data) )
-
-                        # width = 0
-                        # height = 0
-
-                        # for obj_param in objs_params:
-                            # if width <= obj_param[0] + obj_param[2]*2:
-                                # width = obj_param[0] + obj_param[2]*2
-                            # if height <= obj_param[1] + obj_param[3]:
-                                # height = obj_param[1] + obj_param[3]
-
-                        # buffer = array.array('c', '\xFF' * width * height)
-
-                        # for obj_param in objs_params:
-                            # obj_data = obj_param[4]
-                            # for y in range(obj_param[3]):
-                                # buffer[width/2*(obj_param[1] + y) + (obj_param[0])/2:
-                                       # width/2*(obj_param[1] + y) + (obj_param[0])/2 + obj_param[2]] = array.array('c', obj_data.pop(0))                        
-
-                        # objs.append((width, height, buffer))
-                                       
-                    # pal_entries = struct.unpack('<L', temp.read(4))[0]         
-                    # colormap = []
-                    # for x in range(pal_entries):
-                        # colormap.append(gba2tuple(temp))
-
-                    # for x in range(entries):                             
-                        # output = open(os.path.join(fdirs, '%s-%02d-%02d.bmp' %(fname, (x+1), entries)), 'wb')
-                        # w = images.Writer((objs[x][0], objs[x][1]), colormap, 4, 2)
-                        # w.write(output, objs[x][2], 4, 'BMP')
-                        # output.close()
-
-                # elif type == 4:
-                    # for p in range(entries):
-                        # xcoord = struct.unpack('<H', temp.read(2))[0]
-                        # ycoord = struct.unpack('<H', temp.read(2))[0]
-                        # obj_entries = struct.unpack('<L', temp.read(4))[0]
-                        
-                        # objs_params = []                        
-
-                        # for x in range(obj_entries):
-                            # obj_xcoord = struct.unpack('<H', temp.read(2))[0]
-                            # obj_ycoord = struct.unpack('<H', temp.read(2))[0]          
-                            # obj_width = 8 * (2 ** struct.unpack('<H', temp.read(2))[0])
-                            # obj_height = 8 * (2 ** struct.unpack('<H', temp.read(2))[0])
-                            # obj_data = []
-                            # for y in range(obj_height):
-                                # obj_data.append(temp.read(obj_width))                          
-
-                            # objs_params.append( (obj_xcoord, obj_ycoord,
-                                                 # obj_width, obj_height, obj_data) )
-                
-                        # width = 0
-                        # height = 0
-
-                        # for obj_param in objs_params:
-                            # if width <= obj_param[0] + obj_param[2]:
-                                # width = obj_param[0] + obj_param[2]
-                            # if height <= obj_param[1] + obj_param[3]:
-                                # height = obj_param[1] + obj_param[3]                        
-
-                        # buffer = array.array('c', '\xFF' * width * height)
-                        
-                        # for obj_param in objs_params:
-                            # obj_data = obj_param[4]
-                            # for y in range(obj_param[3]):
-                                # buffer[width*(obj_param[1] + y) + (obj_param[0]):
-                                       # width*(obj_param[1] + y) + (obj_param[0]) + obj_param[2]] = array.array('c', obj_data.pop(0))                        
-                
-                        # objs.append((width, height, buffer))
-
-                    # pal_entries = struct.unpack('<L', f.read(4))[0]         
-                    # colormap = []
-                    # for x in range(pal_entries):
-                        # colormap.append(gba2tuple(temp))                               
-                        
-                    # for x in range(entries):
-                        # output = open(os.path.join(fdirs, '%s-%02d-%02d.bmp' %(fname, (x+1), entries)), 'wb')
-                        # w = images.Writer((objs[x][0], objs[x][1]), colormap, 8, 2)
-                        # w.write(output, objs[x][2], 8, 'BMP')
-                        # output.close()                                                  
-                    
-                # else:
-                    # print 'except %s' % name
-
-            # elif re.match(r'^.*\.arj$', name):
-                # f.seek(0,0)
-                # objs = []
-            
-                # entries = struct.unpack('<H', f.read(2))[0]
-                # type = struct.unpack('<H', f.read(2))[0]                        
-                # pal_entries = struct.unpack('<L', f.read(4))[0]
-                # for p in range(entries):
-                    # xcoord = struct.unpack('<H', f.read(2))[0]
-                    # ycoord = struct.unpack('<H', f.read(2))[0]
-                    # obj_entries = struct.unpack('<L', f.read(4))[0]
-                    
-                    # objs_params = []
-                    
-                    # for x in range(obj_entries):
-                        # obj_shape = struct.unpack('<H', f.read(2))[0]
-                        # obj_size = struct.unpack('<H', f.read(2))[0]
-                        # obj_xcoord = struct.unpack('<H', f.read(2))[0]
-                        # obj_ycoord = struct.unpack('<H', f.read(2))[0]
-                        # obj_width = 8 * (2**struct.unpack('<H', f.read(2))[0])
-                        # obj_height = 8 * (2**struct.unpack('<H', f.read(2))[0]) 
-                        # obj_data = []
-                        # for y in range(obj_width * obj_height / 64):
-                            # obj_data.append(f.read(64))
-                            
-                        # objs_params.append( (obj_shape, obj_size, obj_xcoord, obj_ycoord,
-                                             # obj_width, obj_height, obj_data) )
-                    # width = 0
-                    # height = 0
-
-                    # for obj_param in objs_params:
-                        # if width <= obj_param[2] + obj_param[4]:
-                            # width = obj_param[2] + obj_param[4]
-                        # if height <= obj_param[3] + obj_param[5]:
-                            # height = obj_param[3] + obj_param[5]
-                                                                
-                    # buffer = array.array('c', '\xFF' * width * height)
-                    
-                    # for obj_param in objs_params:
-                        # obj_data = obj_param[6]
-                        # for y in range(obj_param[5] / 8):
-                            # for w in range(obj_param[4] / 8):
-                                # buffer[(width*(obj_param[3] + y*8)) + obj_param[2]*8 + 64*(w):
-                                       # (width*(obj_param[3] + y*8)) + obj_param[2]*8 + 64*(w+1)] = array.array('c',obj_data.pop(0))
-
-                    # objs.append((width, height, buffer))
-            
-                # colormap = []
-                # for _ in range(pal_entries):
-                    # colormap.append(gba2tuple(f))
-
-                # for x in range(entries):
-                    # output = open(os.path.join(fdirs, '%s-%02d-%02d.bmp' %(fname, (x+1), entries)), 'wb')
-                    # w = images.Writer((objs[x][0], objs[x][1]), colormap, 8, 1)
-                    # w.write(output, objs[x][2], 8, 'BMP')
-                    # output.close()
-                    
-        # except AssertionError:
-            # pass
-        # except:
-            # pass
-            
             temp.close()                     
                             
 def packSprite( src, dst, src1 ):
@@ -697,7 +576,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument( '-m', dest = "mode", type = str, required = True )
     parser.add_argument( '-s', dest = "src", type = str, nargs = "?", required = True )
-    parser.add_argument( '-s1', dest = "src1", type = str, nargs = "?" )
+    parser.add_argument( '-s1', dest = "src1", type = str, nargs = "?", default = "" )
     parser.add_argument( '-d', dest = "dst", type = str, nargs = "?", required = True )
     
     args = parser.parse_args()
@@ -705,11 +584,11 @@ if __name__ == "__main__":
     # dump bg
     if args.mode == "e0":
         print "Unpacking background"
-        unpackBackground( args.src , args.dst )
+        unpackBackground( args.src, args.src1, args.dst )
     # insert bg
     elif args.mode == "i0": 
         print "Packing background"
-        packBackground( args.src , args.dst )
+        packBackground( args.src, args.src1, args.dst )
     # dump ani
     elif args.mode == "e1": 
         print "Unpacking animation"
