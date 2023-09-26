@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n071
+!******************************!
+n071a
+!******************************!
+n071b
+!******************************!
+[eb0b01000a000000:0211000000]
+In order to open the cage, you'll need
+to decide which button to push.
+The rules are simple. Think of the buttons
+as squares. Each symbol indicates a
+direction and you proceed from square to
+square following these directions:
+Star = left
+Moon = right
+Sun = down
+Water = up
+There is one square you can start from
+which allows you to pass through every
+square exactly once. Touch that square. 
+!******************************!
+[ec0b01000b000000:0299010000]
+Well done!
+
+Apart from the last square itself, all
+squares form a single path leading to the
+last square. Once you realise this, it's
+easy to find the starting square.
+!******************************!
+[ed0b01000c000000:0241020000]
+Oh dear.
+
+Are you sure you haven't made a mistake
+somewhere?
+!******************************!
+[ee0b01000d000000:027e020000]
+This is the type of puzzle for which the
+Memo Function comes in really handy. It's
+difficult to visualise the directions
+using only the symbols, so try drawing
+an arrow in each square to make things
+easier.
+!******************************!
+[ef0b01000e000000:024d030000]
+Try choosing a square at random and
+starting from there. Use the Memo
+Function to write an arrow on each
+square and trace your path.
+!******************************!
+[f00b01000f000000:02d2030000]
+You've followed the advice given in
+Hint 2 but just went around in little
+circles? That must mean you started in
+one of the top-left squares.
+
+Those squares are actually the last
+ones on the path.
+!******************************!
+[f10b010010000000:0297040000]
+From Hint 3 you know the last squares
+on the path. Now think carefully and
+proceed backwards from here.
+
+The starting square is one of the five
+Star squares.
+!******************************!

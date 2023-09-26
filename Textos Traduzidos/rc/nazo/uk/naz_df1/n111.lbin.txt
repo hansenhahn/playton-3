@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000003000000000000000000f203000000f2030000000100000000010000000000000000]
+n111
+!******************************!
+n111a
+!******************************!
+n111b
+!******************************!
+[eb0b01000a000000:0211000000]
+A 5 cm x 10 cm bar of chocolate has a
+5 cm x 1 cm piece broken off from it, as
+shown in the image below. The chocolate
+bar has also had a 5 mm diameter hole
+drilled into it at the location shown in
+the image.
+
+How many more pieces can you break off
+from the remaining chocolate bar that
+are the exact same size and shape as this
+one?
+
+Any piece that contains even a small part
+of the hole can't be included in the count.
+!******************************!
+[ec0b01000b000000:02b6010000]
+Cocoa-rrect!
+
+Eight pieces.
+
+You should break up the left side of the
+chocolate bar horizontally, as shown in
+the image.
+
+If you make sure the entire hole fits
+within one piece of chocolate and exclude
+that piece from the count, you're left
+with eight pieces.
+!******************************!
+[ed0b01000c000000:02ba020000]
+Too bad.
+
+You need to bend your brain just
+a little.
+!******************************!
+[ee0b01000d000000:02ef020000]
+First try simply cutting the chocolate
+bar in vertical strips. If you break off
+pieces that are exactly the same as the
+first piece, you'll have nine pieces.
+
+
+!******************************!
+[ef0b01000e000000:028f030000]
+If you cut the chocolate evenly into
+nine pieces, as described in Hint 1,
+the two pieces on the left edge will
+have a hole in them. 
+
+So, 9 - 2 = 7. Is that really the
+answer?
+
+Bend your brain just a little harder.
+!******************************!
+[f00b01000f000000:0266040000]
+You don't have to break off the other
+pieces in the same way as the first one.
+Try cutting the left 5 cm of the
+chocolate bar horizontally.
+!******************************!
+[f10b010010000000:02f2040000]
+The hole can be contained in only one
+piece.
+
+How many pieces are left if you do that?
+!******************************!

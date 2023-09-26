@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n151
+!******************************!
+n151a
+!******************************!
+n151b
+!******************************!
+[eb0b01000a000000:0211000000]
+Here are two scoreboards, made up of
+panels. Touching a panel reverses its
+colour.
+
+Both scoreboards currently display 58,
+but by touching just one panel each,
+Layton and Luke can create two new
+numbers. The difference between these
+numbers is 39.
+
+Try to work out which panels they touch
+and which new numbers they make. Enter
+your answer as two two-digit numbers.
+!******************************!
+[ec0b01000b000000:027f010000]
+Well done!
+
+One scoreboard should display 98 and the
+other one should display 59.
+!******************************!
+[ed0b01000c000000:02d1010000]
+Bad luck.
+
+What numbers can you make by touching
+the panels?
+!******************************!
+[ee0b01000d000000:020e020000]
+Making use of the original numbers, which
+panels can you reverse in order to
+create new numbers?
+
+Think about what you can make with
+a 5 or 8 individually.
+!******************************!
+[ef0b01000e000000:02aa020000]
+A 5 can be changed into either a 6
+or a 9.
+!******************************!
+[f00b01000f000000:02d5020000]
+An 8 can be made into a 0, a 6 or a 9.
+All you have to do now is subtract the
+possible numbers on one scoreboard
+from the possible numbers on the other.
+!******************************!
+[f10b010010000000:026e030000]
+One of the scoreboards should display
+either 50, 56 or 59.
+
+All you've got to do now is some simple
+calculation.
+!******************************!

@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n031
+!******************************!
+n031a
+!******************************!
+n031b
+!******************************!
+[eb0b01000a000000:0211000000]
+This tomcat is trying to meet up with his
+sweetheart. However, there are dogs on
+the squares marked with Xs, and if the
+tomcat comes within three squares of one,
+they'll pick up his scent and chase him
+off. Rest assured that the dogs can't
+smell through walls, though.
+
+Which entrance, out of A, B, C and D
+should the tomcat take so that he can be
+safely reunited with his lady friend?
+
+
+!******************************!
+[ec0b01000b000000:0295010000]
+Purrrfect!
+
+The answer is C. Reunited at last!
+!******************************!
+[ed0b01000c000000:02c4010000]
+Too bad!
+
+Might you have overlooked something?
+!******************************!
+[ee0b01000d000000:02f3010000]
+Trying to find the safe path by
+starting at each entrance in turn is
+hard work.
+
+Start by thinking about where the
+dogs are.
+!******************************!
+[ef0b01000e000000:0270020000]
+Where is the tomcat in danger of
+being noticed by the dogs?
+
+Using the Memo Function to fill in
+the dangerous areas might prove
+helpful.
+!******************************!
+[f00b01000f000000:02f9020000]
+Did you try filling in the dangerous
+squares? Didn't doing that reveal a
+safe path?
+!******************************!
+[f10b010010000000:024d030000]
+On the dangerous paths, the tomcat
+can't turn more than three corners
+without running into a dog. If he can
+clear four corners safely, you know
+he's on the right path!
+
+!******************************!

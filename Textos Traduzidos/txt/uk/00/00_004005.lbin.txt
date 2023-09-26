@@ -1,0 +1,67 @@
+[7017010000000000:000a000000]
+[7117030001000000:000a00000002000000000211000000]
+チェルミー（食）
+!******************************!
+<T>Hrm.<W> Bom, está claro que esta
+comida não tem nada de mais.
+!******************************!
+[7117030004000000:000a00000002590000000268000000]
+バートン（食）
+!******************************!
+<T>Sinto que pense assim, senhor!
+Na minha opinião - nhac nhac - está
+tudo delicioso!
+!******************************!
+[7117030007000000:000a000000020000000002c1000000]
+チェルミー（食）
+!******************************!
+<T><A1/2>Bah. Esta carne excessivamente
+temperada e as verduras murchas não
+chegam aos pés da comida de Amelie.
+!******************************!
+[711703000a000000:000a00000002590000000221010000]
+バートン（食）
+!******************************!
+<T>Se está te fazendo tão mal, senhor,
+ficarei feliz em livrá-lo desse,
+hmm, fardo.
+!******************************!
+[711703000d000000:000a00000002000000000272010000]
+チェルミー（食）
+!******************************!
+<T><A1/3>O que está fazendo, Barton?
+Ou você me devolve esta carne, ou te
+colocarei para lavar as viaturas!
+!******************************!
+[7117030010000000:000a000000025900000002de010000]
+バートン（食）
+!******************************!
+<T>Terá valido a pena! Hmm...
+Este bife está tão, hm, suculento!
+!******************************!
+[7117030013000000:001400000002000000000220020000]
+チェルミー（食）
+!******************************!
+<T>Hrm! Parece que eles não têm
+pressa para começar o evento.
+!******************************!
+[7117030016000000:001400000002590000000265020000]
+バートン（食）
+!******************************!
+<T>Senhor, pelo menos temos - nhac -
+comida enquanto esperamos.
+!******************************!
+[7117030019000000:0014000000020000000002c1020000]
+チェルミー（食）
+!******************************!
+<T><A1/2>Eu estou até os joelhos de casos
+no trabalho. Não tenho tempo
+para estes banquetes de rico.
+!******************************!
+[711703001c000000:00140000000259000000021b030000]
+バートン（食）
+!******************************!
+<T>Nhac! Senhor, você deveria experimentar
+isto! É - nhac nhac - a melhor comida
+do mundo!
+!******************************!

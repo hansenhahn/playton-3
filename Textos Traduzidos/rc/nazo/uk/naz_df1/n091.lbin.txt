@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n091
+!******************************!
+n091a
+!******************************!
+n091b
+!******************************!
+[eb0b01000a000000:0211000000]
+How to open:
+
+{''}Start from a button and follow the
+arrows from one button to the next.
+Find the only button that will lead
+you through all the other buttons
+on the panel!{''}
+
+Can you work out which button leads
+through all the rest?
+
+Touch the button to mark it!
+!******************************!
+[ec0b01000b000000:021b010000]
+That's the one!
+
+Did you find the button that doesn't
+point to any other button and work
+backwards from there?
+
+The starting button isn't pointed at
+by any other button either, so that's
+another way to solve this puzzle.
+!******************************!
+[ed0b01000c000000:02f8010000]
+Too bad!
+
+The answer shouldn't be too difficult
+once you understand the conditions of
+the puzzle. Give it another try!
+!******************************!
+[ee0b01000d000000:026f020000]
+Instead of looking for the starting
+button, try looking for the end button
+and work backwards. Bear in mind that
+the arrow on the end button won't point
+to any other button.
+!******************************!
+[ef0b01000e000000:021d030000]
+The end button doesn't point to any
+other button, so it must be a button
+on the edge that points outwards.
+Once you've found the end point, you
+can work your way backwards to find
+the starting button!
+!******************************!
+[f00b01000f000000:02e6030000]
+The end point is the button in the
+top-right corner. Work backwards
+from there to find the start!
+!******************************!
+[f10b010010000000:0248040000]
+The starting button isn't pointed at
+by any other button. Can you find it?
+That's your answer!
+!******************************!
