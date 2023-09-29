@@ -473,7 +473,7 @@ def packSprite( src, tmp, dst ):
                     if stamp == "LIMG":
                         colormap_offset = struct.unpack("<L", f.read(4))[0]
                         attr_offset, attr_entries = struct.unpack("<HH", f.read(4))
-                        f.read(4)
+                        unk_offset, unk_entries = struct.unpack("<HH", f.read(4))
                         tilemap_offset, tilemap_entries = struct.unpack("<HH", f.read(4))
                         background_offset, background_entries = struct.unpack("<HH", f.read(4))
                         colormap_type, colormap_entries = struct.unpack("<HH", f.read(4))
@@ -489,11 +489,19 @@ def packSprite( src, tmp, dst ):
                         attr = []
                         
                         raw_colormap = array.array('c')
+                        raw_attr = array.array('c')
+                        raw_unk = array.array('c')
                         tilelist = []
                         buffer = array.array('c')
                         
                         f.seek( offset+colormap_offset )
                         raw_colormap.extend(f.read(colormap_entries*2))
+                        
+                        f.seek(offset+attr_offset)
+                        raw_attr.extend(f.read(attr_entries*8))
+                        
+                        f.seek(offset+unk_offset)
+                        raw_unk.extend(f.read(unk_entries*3))
                         
                         # colormap = []
                         # f.seek( offset+colormap_offset )
@@ -546,7 +554,7 @@ def packSprite( src, tmp, dst ):
                                         buffer[width*(y0+hi*8) + x0*8 + wi] = l
                                         
                         # desmontamos o background e geramos um novo tilemap
-                        full_tileset = list()
+                        full_tileset = ["\x00"*32*2**colormap_bpp)]
                         if colormap_bpp == 0:
                             lenght = len(buffer) / 32
                             for x in range(lenght):
@@ -556,6 +564,7 @@ def packSprite( src, tmp, dst ):
                             for x in range(lenght):
                                 full_tileset.append(buffer[64*x:64*(x+1)].tostring())
                                 
+                        # if colormap_type == 2: 
                         full_tileset.remove("\x00"*32*2**colormap_bpp)        
 
                         tiles = list(set(full_tileset))
@@ -565,17 +574,34 @@ def packSprite( src, tmp, dst ):
                             new_tileset.extend(tile)
                         #print tiles
                         for tile in full_tileset:
+                            #if colormap_type == 2: 
                             if tile == "\x00"*32*2**colormap_bpp:
                                 index = 0xffff
                             else:
-                                index = tiles.index(tile)
-                            #print index
+                                index = tiles.index(tile) + 1
                             new_tilemap.extend(struct.pack("<H", index))
 
-                        while len(content) % 4 != 0:
+                        while len(content) % 2 != 0:
                             content.extend('\x00')
                             
-                        tilemap_offset = len(content)-1
+                        content = array.array('c', content.tostring()[:0x30])
+                        
+                        colormap_offset = len(content)
+                        content.extend(raw_colormap)
+                        while len(content) % 4 != 0:
+                            content.extend('\x00')
+
+                        attr_offset = len(content)
+                        content.extend(raw_attr)
+                        while len(content) % 4 != 0:
+                            content.extend('\x00') 
+
+                        unk_offset = len(content)
+                        content.extend(raw_unk)
+                        while len(content) % 4 != 0:
+                            content.extend('\x00')                        
+                        
+                        tilemap_offset = len(content)
                         tilemap_entries = len(new_tilemap) / 2
                         content.extend(new_tilemap.tostring())
                         while len(content) % 4 != 0:
@@ -587,6 +613,8 @@ def packSprite( src, tmp, dst ):
                         while len(content) % 4 != 0:
                             content.extend('\x00')
                         
+                        content[8], content[9] = struct.pack("<H", attr_offset)
+                        content[12], content[13] = struct.pack("<H", unk_offset)
                         content[16], content[17] = struct.pack("<H", tilemap_offset)
                         content[18], content[19] = struct.pack("<H", tilemap_entries)
                         content[20], content[21] = struct.pack("<H", background_offset)
@@ -602,7 +630,8 @@ def packSprite( src, tmp, dst ):
                             # w = images.Writer((width, height), colormap, 8, 1, 0)
                             # w.write(output, buffer, 8, 'BMP')
                         
-                        # output.close()                                               
+                        # output.close()
+                else:
                     
                     #return
                 record.append(content)
@@ -614,6 +643,7 @@ def packSprite( src, tmp, dst ):
                 pointer = f.tell() - header[6]
                 size = len(content)
                 f.write(content)
+                f.write('\x00')
                 while f.tell() % 4 != 0: f.write('\x00')
                 link = f.tell()
                 
