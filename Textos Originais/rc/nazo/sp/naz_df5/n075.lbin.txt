@@ -1,0 +1,82 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000740400000074040000000100000000000000000000000000]
+n075
+!******************************!
+n075a
+!******************************!
+n075b
+!******************************!
+[eb0b01000a000000:0211000000]
+En cada una de estas cuatro casillas
+pueden aparecer n{'u}meros del 0 al 9.
+Si tocas los botones A, B, C y D, ir{'a}n
+cambiando los n{'u}meros de acuerdo
+con una regla secreta.
+
+Descubre cu{'a}l es esta regla y consigue
+que en todas las casillas haya un 0.
+!******************************!
+[ec0b01000b000000:0212010000]
+{^!}Excelente trabajo!
+
+El bot{'o}n A suma 5, el B suma 3, el C suma
+7 y el D suma 4.
+
+Tienes que haber descubierto esta regla
+para resolver el puzle. A menos que seas
+una de esas personas que tocan y tocan
+los botones al azar, hasta que aparecen
+ceros en todas las casillas...
+!******************************!
+[ed0b01000c000000:0228020000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:0251020000]
+Cuando un n{'u}mero pasa de 9, la cuenta
+sigue desde el 0, es decir, los n{'u}meros
+se van repitiendo c{'i}clicamente. Por lo
+tanto, puedes tocar los botones tantas
+veces como quieras sin que resulte un
+caos irreversible.
+
+Si tocas todos los botones varias veces
+y prestas atenci{'o}n a lo que hace cada
+uno, pronto descubrir{'a}s las reglas.
+!******************************!
+[ef0b01000e000000:02a8030000]
+Los rect{'a}ngulos de colores abarcan
+pares de casillas a las que afecta
+el correspondiente bot{'o}n. Cuando
+tocas un bot{'o}n, los dos n{'u}meros dentro
+de su rect{'a}ngulo se incrementar{'a}n
+seg{'u}n una regla secreta.
+
+Experimenta tocando un bot{'o}n
+cada vez y observa qu{'e} n{'u}meros
+van apareciendo.
+!******************************!
+[f00b01000f000000:02dd040000]
+El bot{'o}n A a{-n}ade 5 unidades.
+El bot{'o}n B a{-n}ade 3 unidades.
+
+Con esta pista, no te ser{'a} dif{'i}cil
+encontrar las reglas de los botones
+C y D.
+
+Pero, adem{'a}s de conocer las reglas,
+{^?}c{'o}mo har{'a}s para poner un 0
+en todas las casillas?
+!******************************!
+[f10b010010000000:02dc050000]
+Si todav{'i}a no puedes resolverlo,
+que no te invada la frustraci{'o}n.
+Este puzle no es sencillo.
+
+Para resolverlo, comienza por no tocar
+para nada el bot{'o}n A. Toca los botones
+C y D hasta que los dos n{'u}meros
+en el rect{'a}ngulo de A sean 5.
+A partir de ah{'i}, no tardar{'a}s
+en dar con la soluci{'o}n.
+!******************************!

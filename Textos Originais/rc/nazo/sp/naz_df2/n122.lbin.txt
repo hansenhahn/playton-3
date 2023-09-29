@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n122
+!******************************!
+n122a
+!******************************!
+n122b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cuatro ni{-n}os estaban jugando en el
+parque cuando se dieron cuenta de que
+ten{'i}an que volver a casa r{'a}pidamente.
+Pero, con las prisas, {^!}se hicieron un
+l{'i}o con sus abrigos!
+
+A: {''}Me dej{'e} el abrigo en el parque...{''}
+B: {''}{^!}El nombre de A est{'a} en este abrigo!{''}
+C: {''}{^!}Oh, no! Sal{'i} sin abrigo, pero ahora
+llevo puesto el de alguien.{''}
+D: {''}Este abrigo no es m{'i}o.{''}
+
+{^?}Qui{'e}n lleva el abrigo de D?
+!******************************!
+[ec0b01000b000000:02cc010000]
+{^!}Correcto!
+
+La respuesta es C.
+
+A, B y D salieron de casa con sus
+abrigos. B ahora lleva el abrigo de
+A. Quedan sin localizar los abrigos
+de B y D, pero como D no lleva su
+propio abrigo, tiene que llevar
+el de B. Por tanto, C llevar{'a}
+ahora el abrigo de D.
+!******************************!
+[ed0b01000c000000:02d2020000]
+{^!}L{'a}stima!
+
+D no lleva puesto su abrigo, por lo que
+tiene que llevarlo uno de los otros tres
+ni{-n}os. Dado que el ni{-n}o que acabas de
+escoger no es el que lo tiene, no quedan
+muchas m{'a}s opciones, {^?}no?
+!******************************!
+[ee0b01000d000000:02a9030000]
+Si piensas con calma en el abrigo que
+lleva cada ni{-n}o y a qui{'e}n pertenece,
+adivinar{'a}s la respuesta inmediatamente.
+
+Por ejemplo, B lleva el abrigo de A,
+{^?}no?
+!******************************!
+[ef0b01000e000000:0253040000]
+A no lleva abrigo.
+B lleva el abrigo de A.
+C lleva abrigo, {^!}y eso que al salir
+de casa no lo llevaba! Pero no es
+el de A...
+
+Es un poco lioso, pero ya casi
+tienes la respuesta.
+!******************************!
+[f00b01000f000000:0207050000]
+C no tra{'i}a abrigo, as{'i} que solo hay
+tres abrigos en total: los de A, B y D.
+
+B lleva el abrigo de A, y D no lleva
+su propio abrigo.
+
+{^?}Lo ves claro ahora?
+!******************************!
+[f10b010010000000:02aa050000]
+Los {'u}nicos abrigos que nos quedan
+son los de B y D.
+
+Vuelve a leerte bien las pistas.
+!******************************!

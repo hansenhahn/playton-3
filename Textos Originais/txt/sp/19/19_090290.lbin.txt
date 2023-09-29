@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>La fortaleza de Clive surge
+del r{'i}o y empieza a sembrar el
+p{'a}nico por todo Londres.
+!******************************!
+[7117030004000000:00140000000200000000026a000000]
+ナレーション
+!******************************!
+<T>El grupo decide infiltrarse en la
+fortaleza para salvar a Flora y
+detener los planes de Clive.
+!******************************!

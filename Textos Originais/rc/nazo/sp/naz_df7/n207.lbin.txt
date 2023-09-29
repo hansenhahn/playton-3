@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n207
+!******************************!
+n207a
+!******************************!
+n207b
+!******************************!
+[eb0b01000a000000:0211000000]
+De las cinco letras de papel que ves
+abajo, hay dos cuyas superficies
+miden exactamente lo mismo.
+Esto se puede confirmar sin realizar
+ning{'u}n c{'a}lculo complicado y sin
+necesidad de utilizar una regla.
+Bastar{'i}a con tener dos de cada
+una de esas letras para verlo.
+
+Siendo as{'i}, {^?}qu{'e} dos letras tienen
+la misma superficie? Marca la casilla
+a la derecha de cada una de esas dos
+letras y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02b5010000]
+{^!}Muy bien!
+
+Las letras correctas son C y E.
+
+Tal como ves arriba, si pones una C
+cara a cara con otra C, {^!}obtienes
+la misma forma que si pones una E
+cara a cara con otra E!
+Como puedes poner las dos formas una
+encima de otra perfectamente, sabes
+sin duda que tienen la misma
+superficie, no como las otras letras.
+!******************************!
+[ed0b01000c000000:02f4020000]
+{^!}Qu{'e} pena!
+
+Si la clave est{'a} en tener dos veces cada
+letra, lo importante ser{'a} la forma en
+que se coloquen.
+!******************************!
+[ee0b01000d000000:026c030000]
+Tener dos de cada una de esas letras...
+
+Piensa en las formas posibles de
+colocar dos veces la misma letra para
+crear una forma mayor. Luego prueba a
+encontrar las dos letras cuyas posibles
+combinaciones de formas tengan
+exactamente el mismo aspecto.
+!******************************!
+[ef0b01000e000000:0267040000]
+
+!******************************!
+[f00b01000f000000:0268040000]
+
+!******************************!
+[f10b010010000000:0269040000]
+
+!******************************!

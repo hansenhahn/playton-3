@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n169
+!******************************!
+n169a
+!******************************!
+n169b
+!******************************!
+[eb0b01000a000000:0211000000]
+Un chico muy deportista est{'a} viendo
+varios accesorios de deporte y dice:
+
+{''}Todos los deportes se me dan muy bien,
+pero uno de estos objetos no est{'a} hecho
+para m{'i}.{''}
+
+{^?}A cu{'a}l se refiere? Marca el objeto
+correcto y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:020e010000]
+{^!}Directo al hoyo!
+
+La respuesta es el palo de golf.
+Los otros objetos sirven de la
+misma forma para personas diestras
+o zurdas, pero ese no es el caso
+con el palo de golf.
+!******************************!
+[ed0b01000c000000:02bd010000]
+{^!}Mala suerte!
+
+Intenta imaginar que est{'a}s usando cada
+uno de los objetos.
+!******************************!
+[ee0b01000d000000:020d020000]
+Tanto el palo de golf como el bate de
+b{'e}isbol se usan agarr{'a}ndolos con las
+manos.
+
+Piensa en ello un rato...
+!******************************!
+[ef0b01000e000000:0280020000]
+
+!******************************!
+[f00b01000f000000:0281020000]
+
+!******************************!
+[f10b010010000000:0282020000]
+
+!******************************!

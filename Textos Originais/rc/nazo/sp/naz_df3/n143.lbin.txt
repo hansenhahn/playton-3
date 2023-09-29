@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n143
+!******************************!
+n143a
+!******************************!
+n143b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}10 hermanos viven juntos. Luke,
+imagina que fueras el octavo de la
+familia. La hija mayor naci{'o} despu{'e}s
+que el segundo hijo y antes que el
+tercero. El cuarto hijo naci{'o} antes
+que la segunda hija, y despu{'e}s que
+la hija mayor. No hay ning{'u}n chico
+entre la tercera y la cuarta hija.
+{^?}El antepen{'u}ltimo miembro de
+esta familia es ni{-n}o o ni{-n}a?{''}
+
+{''}{^?}Eh? {^!}No he entendido nada!{''}
+
+{^?}Descubrir{'a} Luke la respuesta?
+!******************************!
+[ec0b01000b000000:02d7010000]
+{^!}En efecto!
+
+Es un ni{-n}o.
+Le han dicho a Luke, {''}imagina que
+fueras el octavo de la familia{''}.
+Si son diez, le est{'a} diciendo que
+es el antepen{'u}ltimo de todos.
+{^!}Ah{'i} est{'a} la respuesta!
+Y se supone que Luke es chico, {^?}no?
+!******************************!
+[ed0b01000c000000:02cd020000]
+{^!}Qu{'e} pena!
+
+Trata de no liarte con tanto dato
+y f{'i}jate en lo esencial.
+!******************************!
+[ee0b01000d000000:021d030000]
+El planteamiento resulta demasiado
+complicado con tanto rodeo, {^?}no?
+Vuelve a leer la pregunta desde
+el principio y f{'i}jate en lo importante.
+!******************************!
+[ef0b01000e000000:02af030000]
+{^?}Te est{'a}s liando con todas estas
+instrucciones?
+
+{^!}Quiz{'a}s deber{'i}as saber que en realidad
+este puzle es extremadamente sencillo!
+!******************************!
+[f00b01000f000000:023d040000]
+De los diez hijos de la familia,
+Luke es el octavo empezando
+{''}desde arriba{''}, por as{'i} decirlo.
+
+Si tomamos esto como la primera
+condici{'o}n del puzle, entonces...
+!******************************!
+[f10b010010000000:02e9040000]
+Si son 10 hijos, antepen{'u}ltimo
+es lo mismo que decir el octavo.
+
+Luke no es una chica, eso est{'a} claro.
+
+{^!}Creo que ya sabes la respuesta!
+!******************************!

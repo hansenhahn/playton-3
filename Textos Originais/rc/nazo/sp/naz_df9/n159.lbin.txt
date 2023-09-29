@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000060400000006040000000100000000000000000000000000]
+n159
+!******************************!
+n159a
+!******************************!
+n159b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cuatro productos en conserva distintos
+est{'a}n apilados desordenadamente. Tienes
+que recolocarlos en montones que
+contengan un solo producto cada uno.
+
+Pero si mueves una lata, tambi{'e}n tienes
+que mover con ella todas las latas que
+tenga encima. Ah, y no puedes apilar m{'a}s
+de 6 latas a la vez.
+
+{^?}Parece f{'a}cil? Pues a{'u}n no lo sabes todo:
+debes hacerlo en 14 movimientos o menos.
+!******************************!
+[ec0b01000b000000:029a010000]
+{^!}Todo en su sitio!
+
+{^?}Cu{'a}ntos movimientos has necesitado?
+!******************************!
+[ed0b01000c000000:02dc010000]
+{^!}Qu{'e} pena!
+
+Prueba otra vez.
+!******************************!
+[ee0b01000d000000:02ff010000]
+Hay varias formas de resolver este
+puzle, as{'i} que empieza a mover latas
+de un lado a otro a ver qu{'e} pasa.
+
+Seguro que acabas llegando a un punto
+en el que puedas resolverlo con solo
+unos cuantos movimientos m{'a}s.
+!******************************!
+[ef0b01000e000000:02dc020000]
+El l{'i}mite de 14 movimientos es lo que
+lo complica todo. Y no olvides que no
+puedes apilar m{'a}s de 6 latas en un solo
+mont{'o}n. Tampoco te lances a apilar el
+mismo tipo de lata a la primera
+oportunidad, porque eso va a hacer que
+acabes perdiendo movimientos.
+!******************************!
+[f00b01000f000000:02e4030000]
+En vez de apilar el mismo tipo de
+lata de buenas a primeras, intenta
+pensar en el tipo de lata que es
+mejor apilar en cada columna.
+
+Siempre que te sea posible, procura
+mover el mayor n{'u}mero de latas que
+puedas en cada movimiento. Aunque
+a veces tendr{'a}s que mover solo una.
+!******************************!
+[f10b010010000000:02fc040000]
+Vamos a numerar los montones de
+izquierda a derecha: 1, 2, 3 y 4.
+
+Mueve el pescado desde el mont{'o}n 4
+al 1. Mueve los melocotones del
+mont{'o}n 2 al 4. Mueve el jam{'o}n york
+del mont{'o}n 3 al 2. Mueve el pescado
+del mont{'o}n 3 al 1...
+
+{^!}T{'u} puedes hacer el resto!
+!******************************!

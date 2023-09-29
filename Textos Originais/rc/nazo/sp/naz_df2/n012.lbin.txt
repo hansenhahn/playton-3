@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n012
+!******************************!
+n012a
+!******************************!
+n012b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este puzle es muy sencillo. Solo tienes
+que colocar estas cartas con n{'u}meros
+y signos donde indican las flechas.
+
+Eso s{'i}, la igualdad resultante tiene
+que ser correcta.
+!******************************!
+[ec0b01000b000000:02c0000000]
+{^!}Eso es!
+
+Si pones las cartas tal como est{'a}n
+originalmente, la operaci{'o}n ser{'a}
+incorrecta.
+Tienes que hacer girar 90{o} la carta
+con el n{'u}mero 1, para convertirla
+en un signo de resta {''}-{''}.
+!******************************!
+[ed0b01000c000000:0291010000]
+Qu{'e} pena...
+
+{^?}Es correcta la operaci{'o}n?
+Mira otra vez.
+!******************************!
+[ee0b01000d000000:02d1010000]
+{^?}Has seguido las flechas y colocado
+las cartas en los lugares correctos?
+Aseg{'u}rate de que no te haces un l{'i}o
+con las posiciones de las cartas.
+!******************************!
+[ef0b01000e000000:0269020000]
+Si has seguido las flechas y colocado
+las cartas en los lugares correctos,
+te habr{'a}s dado cuenta de que la
+operaci{'o}n es incorrecta y no has
+resuelto el puzle. {^!}No te preocupes!
+Con un peque{-n}o cambio puedes hacer
+que la operaci{'o}n sea correcta.
+!******************************!
+[f00b01000f000000:026b030000]
+Hay una carta que, si cambias de
+perspectiva, puede convertirse
+en algo diferente de lo que es.
+A ver si descubres de cu{'a}l se trata.
+!******************************!
+[f10b010010000000:02f3030000]
+Tienes que realizar una operaci{'o}n
+con tres n{'u}meros que d{'e} 5 como
+resultado. Por eso tienes que usar
+una de las cartas como signo,
+no como n{'u}mero.
+!******************************!

@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n073
+!******************************!
+n073a
+!******************************!
+n073b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Alguien ha organizado una carrera
+de gallinas! Y aqu{'i} tenemos la foto
+de llegada... El problema es que la
+han cortado en trozos.
+
+{^?}Eres capaz de descubrir qu{'e} gallina
+lleg{'o} en s{'e}ptimo lugar? Rodea con un
+c{'i}rculo la respuesta correcta.
+!******************************!
+[ec0b01000b000000:0212010000]
+{^!}Exactamente!
+
+La gallina E lleg{'o} en s{'e}ptimo lugar.
+!******************************!
+[ed0b01000c000000:024f010000]
+{^!}Qu{'e} l{'a}stima!
+
+Es un poco complicado. Pi{'e}nsalo bien
+antes de dar otra respuesta.
+!******************************!
+[ee0b01000d000000:02ac010000]
+Comenzando por la l{'i}nea de meta, analiza
+con cuidado c{'o}mo habr{'i}a que juntar los
+trozos. No puedes girarlos.
+!******************************!
+[ef0b01000e000000:0221020000]
+Como no puedes girar los trozos,
+la l{'i}nea de meta marca el borde
+izquierdo de la foto. Esto significa
+que el trozo donde est{'a} la gallina G
+y el trozo del centro que est{'a} m{'a}s
+a la izquierda forman juntos el borde
+izquierdo de la foto.
+!******************************!
+[f00b01000f000000:0217030000]
+Teniendo en cuenta la pista 2, ahora
+podr{'a}s descubrir tambi{'e}n qu{'e} trozos
+forman el borde derecho de la foto.
+Eso es, los trozos donde est{'a}n K y C.
+Ahora busca otros trozos que
+complementen a esos dos.
+!******************************!
+[f10b010010000000:02ec030000]
+Esta es la clasificaci{'o}n con los seis
+primeros puestos: G, D, H, L, I y M.
+
+Descartados estos candidatos,
+{^!}la respuesta es casi obvia!
+!******************************!

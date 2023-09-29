@@ -1,0 +1,28 @@
+[7017010000000000:0004000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Luke y Layton encuentran al
+Dr. Schrader en Green Hospital.
+!******************************!
+[7117030004000000:000a0000000200000000024c000000]
+ナレーション
+!******************************!
+<T>El doctor les dice que se dirijan
+a la parte de atr{'a}s, donde
+encuentran el Laytonm{'o}vil.
+!******************************!
+[7117030007000000:0014000000020000000002ad000000]
+ナレーション
+!******************************!
+<T>En el coche encuentran otra carta
+de Luke del futuro en la que este
+los cita en otro lugar.
+!******************************!
+[711703000a000000:00140000000200000000020c010000]
+ナレーション
+!******************************!
+<T>Luke y Layton se dirigen al casino
+Siete de Oro, que est{'a} en
+Flatstone Street.
+!******************************!

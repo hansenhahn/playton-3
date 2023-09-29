@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n043
+!******************************!
+n043a
+!******************************!
+n043b
+!******************************!
+[eb0b01000a000000:0211000000]
+Estos seis espectadores son un poco
+pesados y hay que acomodarlos en el cine
+de manera que queden todos contentos.
+A: {''}Me niego a sentarme al lado, delante
+o detr{'a}s de C.{''}
+B: {''}Odio sentarme en la primera fila.{''}
+C: {''}No me gustan los asientos del lado
+derecho ni los del izquierdo.{''}
+D: {''}Detesto sentarme atr{'a}s o a la
+izquierda.{''}
+E: {''}Prefiero sentarme a la derecha.{''}
+F: {''}Me vale cualquier sitio, excepto
+en la fila de delante o a la izquierda.{''}
+{^?}C{'o}mo habr{'a} que sentarlos?
+!******************************!
+[ec0b01000b000000:0219020000]
+{^!}Excelente!
+
+Las {'u}nicas dos opciones v{'a}lidas para C
+son los asientos del medio, ya sea en
+la fila de delante o en la de detr{'a}s.
+Si partes de esta condici{'o}n, ver{'a}s que
+solo hay una manera de dejarlos a todos
+satisfechos.
+!******************************!
+[ed0b01000c000000:0207030000]
+{^!}Qu{'e} l{'a}stima!
+
+Hay una manera de sentarlos y que est{'e}n
+todos contentos. Solo tienes que
+encontrarla.
+!******************************!
+[ee0b01000d000000:0278030000]
+Usa la funci{'o}n de las notas para
+escribir las diferentes posibilidades
+que hay para cada asiento.
+!******************************!
+[ef0b01000e000000:02dd030000]
+Si has escrito las preferencias
+de cada espectador, est{'a} claro que
+solo hay una persona que aceptar{'a}
+sentarse en la fila delantera
+y a la izquierda. {^?}Qui{'e}n es?
+!******************************!
+[f00b01000f000000:0289040000]
+A es la {'u}nica persona que puede
+sentarse a gusto en el asiento
+izquierdo de la fila de delante.
+Con esto deber{'i}as ser capaz de
+situar a C.
+
+Despu{'e}s, como nadie m{'a}s quiere sentarse
+en el asiento de la izquierda de la fila
+trasera, coloca a B detr{'a}s de A.
+!******************************!
+[f10b010010000000:0296050000]
+Como ahora sabes que C se sienta en el
+asiento del medio en la fila de atr{'a}s,
+el {'u}nico sitio que le queda a F es
+el asiento de la derecha en la fila
+de atr{'a}s.
+
+Repasa una a una las condiciones de
+los dem{'a}s espectadores y enseguida
+tendr{'a}s el puzle resuelto.
+!******************************!

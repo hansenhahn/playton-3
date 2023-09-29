@@ -1,0 +1,107 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a00000002000000000209000000]
+バージル
+!******************************!
+<T><A3/3>{^!}Ay, m{'i}sero de m{'i}! Mi vida no es m{'a}s
+que una inescapable tragedia.
+!******************************!
+[7117030004000000:000a00000002610000000268000000]
+ルーク
+!******************************!
+<T><A3/1>{^?}Qu{'e} le ocurre ahora?
+!******************************!
+[7117030007000000:000a0000000200000000028d000000]
+バージル
+!******************************!
+<T><A2/1>He descubierto que ver el futuro
+no es el {'u}nico poder que atormenta
+mi existencia.
+!******************************!
+[711703000a000000:000a000000020000000002ec000000]
+バージル
+!******************************!
+<T><A4/5>Tambi{'e}n s{'e} cosas que ning{'u}n
+ser humano deber{'i}a saber. Por
+ejemplo, la soluci{'o}n de este puzle.
+!******************************!
+[711703000d000000:00e803000002000000000262010000]
+バージル
+!******************************!
+<T><A4/5>Tal y como supon{'i}a, ning{'u}n ser
+humano podr{'i}a resolver un
+puzle de tal complejidad.
+!******************************!
+[7117030010000000:00e8030000020000000002c7010000]
+バージル
+!******************************!
+<T>Estoy solo en la comprensi{'o}n
+de este puzle. La genialidad es
+un camino solitario.
+!******************************!
+[7117030013000000:00d00700000200000000021f020000]
+バージル
+!******************************!
+<T><A1/1>{^!}Por favor, mu{'e}streme que no soy
+el {'u}nico ser en la faz de la tierra
+que tiene el don de resolver puzles!
+!******************************!
+[7117030016000000:00b80b00000200000000029b020000]
+バージル
+!******************************!
+<T><A2/1>{^!}Vaya! {^!}Parece que hay alguien m{'a}s
+con mi inhumana capacidad de
+resoluci{'o}n de puzles!
+!******************************!
+[7117030019000000:00b80b000002000000000206030000]
+バージル
+!******************************!
+<T>{^!}Gracias, gracias! {^!}No estoy solo!
+!******************************!
+[711703001c000000:00b80b000002610000000232030000]
+ルーク
+!******************************!
+<T><A4/4>{^?}Por qu{'e} se pone tan contento?
+Lo {'u}nico que ha hecho el profesor
+ha sido contar las ondulaciones.
+!******************************!
+[711703001f000000:00b80b000002a603000002af030000]
+レイトン
+!******************************!
+<T>Se{-n}or m{'i}o, creo que se equivoca.
+Ver{'a}...
+!******************************!
+[7117030022000000:00b80b0000020000000002e4030000]
+バージル
+!******************************!
+<T><A4/5>Tranquilo, amigo, no diga nada.
+Puedo sentir el abanico completo
+de sus emociones.
+!******************************!
+[7117030025000000:00b80b000002000000000240040000]
+バージル
+!******************************!
+<T>S{'i}, mi triste destino es saber c{'o}mo
+acaban todas las conversaciones
+incluso antes de que tengan lugar.
+!******************************!
+[7117030028000000:00b80b000002a603000002b0040000]
+レイトン
+!******************************!
+<T>Por supuesto, si siempre interr...<W>
+<A3/1>Lo siento, acabo de recordar que
+tengo que ocuparme de un asunto.
+!******************************!
+[711703002b000000:00a00f000002000000000221050000]
+バージル
+!******************************!
+<T><A2/1>Es imposible que la sociedad acepte
+nuestros poderes. Estamos juntos
+en esta desolada carretera.
+!******************************!
+[711703002e000000:00a00f000002a6030000028b050000]
+レイトン
+!******************************!
+<T>Este hombre est{'a} bastante
+ofuscado, pero me temo que no
+podemos hacerle razonar.
+!******************************!

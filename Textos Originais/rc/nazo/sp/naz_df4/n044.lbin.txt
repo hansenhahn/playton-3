@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n044
+!******************************!
+n044a
+!******************************!
+n044b
+!******************************!
+[eb0b01000a000000:0211000000]
+En esta pared puedes ver pegada la p{'a}gina
+correspondiente al {'u}ltimo mes de un
+calendario. Los once meses anteriores
+tambi{'e}n estuvieron adheridos a la misma
+pared, como se puede ver por los restos
+de papel que han quedado.
+Cada vez que comenzaba un mes, alguien
+muy descuidado arrancaba la p{'a}gina
+del mes anterior y pegaba la del nuevo
+mes sin limpiar del todo los restos
+de las p{'a}ginas previas.
+{^?}A qu{'e} mes apunta la flecha de la esquina
+inferior derecha? Responde con un n{'u}mero
+(por ejemplo, enero = 1, febrero = 2, etc.).
+!******************************!
+[ec0b01000b000000:0234020000]
+{^!}Qu{'e} ojo tienes!
+
+La respuesta es enero, el primer mes
+del a{-n}o.
+
+Mirando con cuidado se puede ver que
+entre la p{'a}gina de diciembre y aquella
+a la que apuntaba la flecha hay otras
+diez. En la imagen de arriba puedes ver
+una posible forma de colocar las distintas
+p{'a}ginas de cada mes. Si te fijas, da
+igual el orden en el que est{'e}n colocadas
+las p{'a}ginas; el mes que se{-n}alaba la
+flecha solo pod{'i}a ser enero.
+!******************************!
+[ed0b01000c000000:02e4030000]
+{^!}Qu{'e} pena!
+
+Mira con cuidado e int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0220040000]
+Para dar con la respuesta, observa
+c{'o}mo los restos de unas p{'a}ginas se
+superponen con los restos de otras.
+Los restos de los meses m{'a}s antiguos
+est{'a}n m{'a}s pr{'o}ximos a la pared.
+
+!******************************!
+[ef0b01000e000000:02e1040000]
+Por supuesto, la p{'a}gina que est{'a}
+encima de todas las dem{'a}s es la
+de diciembre, el duod{'e}cimo mes del a{-n}o.
+Intenta descubrir qu{'e} posici{'o}n
+ocupaba la p{'a}gina a la que apunta
+la flecha. Parece que la pegaron
+hace bastante...
+!******************************!
+[f00b01000f000000:02d5050000]
+A partir de la p{'a}gina a la que apunta
+la flecha, s{'i}guele la pista a las p{'a}ginas
+que fueron pegadas encima de ella.
+En cada p{'a}gina, busca cu{'a}l
+ha sido pegada justo despu{'e}s.
+
+Si lo haces con calma y con m{'e}todo,
+llegar{'a}s a una conclusi{'o}n satisfactoria.
+!******************************!
+[f10b010010000000:02ea060000]
+La respuesta es el mes que m{'a}s lejos
+est{'a} de diciembre, pero tambi{'e}n puede
+ser el que est{'a} m{'a}s cerca, si lo piensas
+de otra manera.
+!******************************!

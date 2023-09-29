@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n146
+!******************************!
+n146a
+!******************************!
+n146b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}{^!}Hola! Estoy intentando espantar a esos
+p{'a}jaros que est{'a}n posados en el tendido
+el{'e}ctrico. Cada vez que doy palmadas,
+la mitad de ellos se va, {^!}pero luego
+siempre vuelve un p{'a}jaro! Aunque est{'e}
+dando palmadas toda la tarde, {^!}al final
+el n{'u}mero de p{'a}jaros que hay vuelve a ser
+el que hab{'i}a al principio!{''}
+
+Entonces, {^?}cu{'a}ntos p{'a}jaros hab{'i}a en
+el tendido el{'e}ctrico al principio?
+!******************************!
+[ec0b01000b000000:02bf010000]
+{^!}P{'i}o, p{'i}o!
+
+{^!}Se trata de dos p{'a}jaros!
+
+La mitad de dos es uno, as{'i} que es
+un p{'a}jaro el que se va y luego vuelve.
+As{'i}, siempre vuelve a haber dos
+p{'a}jaros.
+
+Hablar de {''}la mitad{''} casi te confunde,
+{^?}a que s{'i}?
+!******************************!
+[ed0b01000c000000:02b3020000]
+{^!}L{'a}stima!
+
+Si te rindes, {^!}ganan los p{'a}jaros!
+!******************************!
+[ee0b01000d000000:02ec020000]
+En realidad este puzle es muy sencillo.
+!******************************!
+[ef0b01000e000000:0214030000]
+La mujer est{'a} explicando algo muy
+sencillo de una forma excesivamente
+complicada...
+!******************************!
+[f00b01000f000000:026b030000]
+La mitad de los p{'a}jaros sale volando
+y uno vuelve. Luego, la mitad de los
+p{'a}jaros sale volando y uno vuelve.
+Y siempre as{'i}...
+
+Pero el n{'u}mero de p{'a}jaros al final
+nunca cambia. La respuesta es tan
+simple que no hace falta ni calcular
+nada.
+!******************************!
+[f10b010010000000:0269040000]
+La frase {''}la mitad de ellos se va{''}
+es la que contiene la trampa. En
+este puzle, {^!}la {''}mitad{''} se refiere
+solo a un p{'a}jaro!
+
+{^?}Ahora lo pillas?
+!******************************!

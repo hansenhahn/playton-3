@@ -1,0 +1,111 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Tu loro se ha ofrecido para
+llevar a cabo recados como
+loro mensajero.
+!******************************!
+[7117030004000000:000a00000002000000000257000000]
+ナレーション
+!******************************!
+<T>Lamentablemente, el peso de
+los objetos le dificulta
+mucho el vuelo.
+!******************************!
+[7117030007000000:000a0000000200000000029f000000]
+ナレーション
+!******************************!
+<T>Anticipa su itinerario y ay{'u}dale
+a llegar a su destino colocando
+cuerdas en su camino.
+!******************************!
+[711703000a000000:0014000000020000000002fc000000]
+ナレーション
+!******************************!
+<T>Para colocar una cuerda,
+conecta dos puntos con ella.
+!******************************!
+[711703000d000000:001400000002000000000235010000]
+ナレーション
+!******************************!
+<T>El n{'u}mero de cuerdas que tienes
+disponibles es diferente en cada
+recado.
+!******************************!
+[7117030010000000:001400000002000000000284010000]
+ナレーション
+!******************************!
+<T>La posici{'o}n y el {'a}ngulo de las
+cuerdas afectan a la
+trayectoria del loro.
+!******************************!
+[7117030013000000:0014000000020000000002d7010000]
+ナレーション
+!******************************!
+<T>Coloca las cuerdas de forma
+que el loro pueda alcanzar su
+destino r{'a}pidamente.
+!******************************!
+[7117030016000000:001e0000000200000000022c020000]
+ナレーション
+!******************************!
+<T>Las cuerdas no se pueden cruzar
+entre s{'i}. Adem{'a}s, no puedes atar
+dos cuerdas al mismo punto.
+!******************************!
+[7117030019000000:002800000002000000000292020000]
+ナレーション
+!******************************!
+<T>Toca <CR>Reiniciar</C> para quitar todas
+las cuerdas que hayas colocado
+hasta el momento.
+!******************************!
+[711703001c000000:0028000000020000000002ef020000]
+ナレーション
+!******************************!
+<T>Toca <CR>{^!}Adelante!</C> para que el loro
+levante el vuelo. Pon especial
+atenci{'o}n a su patr{'o}n de vuelo.
+!******************************!
+[711703001f000000:002800000002000000000262030000]
+ナレーション
+!******************************!
+<T>Si quieres cancelar un recado
+cuando el loro ya ha empezado,
+toca <CR>Parar</C>.
+!******************************!
+[7117030022000000:0032000000020000000002b6030000]
+ナレーション
+!******************************!
+<T>Si el loro aterriza en una
+cuerda horizontal, volver{'a} a
+su patr{'o}n de vuelo ordinario.
+!******************************!
+[7117030025000000:003200000002000000000215040000]
+ナレーション
+!******************************!
+<T>El loro puede llegar a lugares muy
+altos si colocas las cuerdas en la
+posici{'o}n adecuada.
+!******************************!
+[7117030028000000:003c00000002000000000274040000]
+ナレーション
+!******************************!
+<T>Para completar el recado, el loro
+debe llegar a la persona que
+necesita el objeto.
+!******************************!
+[711703002b000000:003c000000020000000002ca040000]
+ナレーション
+!******************************!
+<T>Si se sale de los m{'a}rgenes de la
+pantalla o cae al vac{'i}o, tendr{'a}s
+que volver a intentarlo.
+!******************************!
+[711703002e000000:003c00000002000000000231050000]
+ナレーション
+!******************************!
+<T>El loro debe llegar a su destino
+antes de que se acabe el tiempo.
+!******************************!

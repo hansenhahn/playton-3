@@ -1,0 +1,82 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n080
+!******************************!
+n080a
+!******************************!
+n080b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cinco nadadores est{'a}n hablando entre s{'i}:
+{''}El segundo nadador m{'a}s r{'a}pido est{'a}
+junto a la persona m{'a}s grande.{''}
+{''}Yo soy el m{'a}s corpulento de todos,
+pero otros son m{'a}s r{'a}pidos que yo.{''}
+{''}Mi traje de ba{-n}o es el que tiene m{'a}s
+colores, pero el gran B es mejor
+que yo...{''}
+{''}Soy el m{'a}s peque{-n}o, {^!}pero acabar{'e}
+en cuarto lugar!{''}
+{''}{^!}Para ganar superar{'e} a alguien
+que est{'a} junto a m{'i}!{''}
+
+{^?}Qui{'e}n es el nadador m{'a}s r{'a}pido?
+!******************************!
+[ec0b01000b000000:0208020000]
+{^!}Estupendo!
+
+El nadador m{'a}s r{'a}pido es D.
+
+Nadar est{'a} muy bien, pero no olvides
+calentar antes de empezar.
+!******************************!
+[ed0b01000c000000:027e020000]
+{^!}L{'a}stima!
+
+Lee atentamente cada afirmaci{'o}n y dar{'a}s
+con la respuesta.
+!******************************!
+[ee0b01000d000000:02cf020000]
+Vamos a descartar algunas posibilidades.
+La persona m{'a}s peque{-n}a dice {''}acabar{'e}
+en cuarto lugar{''}.
+F{'i}jate bien en los nadadores.
+El nadador A es el m{'a}s peque{-n}o,
+de manera que ocupar{'a} el cuarto lugar.
+!******************************!
+[ef0b01000e000000:02af030000]
+{''}El segundo nadador m{'a}s r{'a}pido est{'a}
+junto a la persona m{'a}s grande.{''}
+
+Sin duda B es el nadador m{'a}s grande.
+La afirmaci{'o}n de arriba la podr{'i}an decir
+A o C, pero ya sabes que A llegar{'a}
+en cuarto lugar, de manera que C
+debe llegar en segundo lugar.
+!******************************!
+[f00b01000f000000:02c2040000]
+{''}Yo soy el m{'a}s corpulento de todos,
+pero otros son m{'a}s r{'a}pidos que yo.{''}
+
+Esto lo tiene que haber dicho B.
+Como ya sabemos qui{'e}nes ocupan
+el segundo y el cuarto puesto, B podr{'i}a
+ser el primero, el tercero o el quinto.
+Pero B dice que otros son m{'a}s r{'a}pidos,
+as{'i} que ser{'a} el tercero o el quinto.
+{^!}Ahora solo quedan dos puestos
+por determinar!
+!******************************!
+[f10b010010000000:023a060000]
+{''}Mi traje de ba{-n}o es el que tiene m{'a}s
+colores, pero el gran B es mejor
+que yo...{''}
+
+Est{'a} claro que E es el {'u}nico que lleva
+un ba{-n}ador de dos colores.
+
+Sabes que B ser{'a} el tercero o el quinto.
+Y por lo que dice E, ahora sabes que
+B es el tercero y E el quinto.
+
+Solo queda un nadador... {^?}Qui{'e}n es?
+!******************************!

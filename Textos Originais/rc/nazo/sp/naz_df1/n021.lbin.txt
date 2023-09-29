@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n021
+!******************************!
+n021a
+!******************************!
+n021b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} hay cinco sellos numerados que
+debes usar para imprimir n{'u}meros en
+los recuadros que hay arriba de manera
+que completen la operaci{'o}n. En cada
+recuadro vac{'i}o solo puede ir un d{'i}gito,
+y hay que completar la operaci{'o}n con el
+menor n{'u}mero de sellos posible.
+
+Selecciona los sellos que necesitas y
+luego toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:026a010000]
+{^!}Eso es!
+
+Los sellos que hay que usar son el 3 y
+el 6.
+
+Si giras el sello 6 lo puedes usar tambi{'e}n
+como un 9. Por otra parte, puedes usar el
+sello 3 tres veces, y as{'i} puedes completar
+la operaci{'o}n con solo dos sellos.
+!******************************!
+[ed0b01000c000000:0250020000]
+Qu{'e} pena...
+
+F{'i}jate mejor en los cinco sellos.
+!******************************!
+[ee0b01000d000000:0285020000]
+Tienes que sumar tres n{'u}meros de un
+solo d{'i}gito de manera que den como
+resultado otro n{'u}mero de un solo d{'i}gito.
+
+Piensa en todas las formas de cumplir
+esta condici{'o}n con los cinco n{'u}meros
+disponibles en los sellos.
+!******************************!
+[ef0b01000e000000:026e030000]
+Recuerda que para completar la
+operaci{'o}n tienes que usar el menor
+n{'u}mero de sellos posible. Si usas
+el mismo sello m{'a}s de una vez, reducir{'a}s
+el n{'u}mero total de sellos empleados.
+!******************************!
+[f00b01000f000000:022f040000]
+No puedes completar la igualdad usando
+solo estos n{'u}meros: 3, 4, 5, 6, 7.
+
+Ten en cuenta que no est{'a}s escribiendo
+los n{'u}meros, sino que est{'a}s usando
+sellos para imprimirlos. Prueba a ver
+si puedes usar los sellos de varias
+maneras para imprimir n{'u}meros
+diferentes.
+!******************************!
+[f10b010010000000:0247050000]
+En estos sellos no se puede determinar
+qu{'e} lado es arriba, abajo, derecha
+o izquierda.
+
+Uno de los sellos se puede girar 180{o}
+para producir un n{'u}mero que, una vez
+puesto en el lado derecho de la
+operaci{'o}n, te permitir{'a} resolverla
+enseguida.
+!******************************!

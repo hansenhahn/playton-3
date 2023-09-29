@@ -1,0 +1,143 @@
+[7017010000000000:0015000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Coloca los paneles en las casillas
+correctas para recoger todos los
+objetos y llegar a la meta.
+!******************************!
+[7117030004000000:001400000002000000000270000000]
+ナレーション
+!******************************!
+<T>El n{'u}mero y los tipos de paneles
+que puedes usar cambian en cada
+circuito.
+!******************************!
+[7117030007000000:0014000000020000000002c1000000]
+ナレーション
+!******************************!
+<T>Arrastra un panel a la ubicaci{'o}n
+seleccionada para colocarlo.
+!******************************!
+[711703000a000000:001400000002000000000205010000]
+ナレーション
+!******************************!
+<T>Puedes poner un panel en cada
+una de las casillas del circuito.
+!******************************!
+[711703000d000000:001400000002000000000248010000]
+ナレーション
+!******************************!
+<T>Solo puedes colocar paneles en
+terreno estable, como hierba o
+arena.
+!******************************!
+[7117030010000000:001400000002000000000290010000]
+ナレーション
+!******************************!
+<T>No puedes colocar paneles en
+casillas con puentes, agua,
+interruptores, {'a}rboles o rocas.
+!******************************!
+[7117030013000000:001e000000020000000002ef010000]
+ナレーション
+!******************************!
+<T>Cuando el coche pase por un panel
+de salto, saltar{'a} una casilla sin
+importar lo que haya en ella.
+!******************************!
+[7117030016000000:002000000002000000000257020000]
+ナレーション
+!******************************!
+<T>Cuando el coche pase por un panel
+de flecha, tomar{'a} la direcci{'o}n
+indicada por la flecha.
+!******************************!
+[7117030019000000:0020000000020000000002b9020000]
+ナレーション
+!******************************!
+<T>Cuando el coche pase por un panel,
+este desaparecer{'a} del circuito.
+!******************************!
+[711703001c000000:002200000002000000000202030000]
+ナレーション
+!******************************!
+<T>Puedes cambiar la direcci{'o}n
+inicial del coche toc{'a}ndolo
+antes de que arranque.
+!******************************!
+[711703001f000000:00240000000200000000025a030000]
+ナレーション
+!******************************!
+<T>El cochecito solo puede cruzar
+puentes si est{'a}n en la posici{'o}n
+correcta.
+!******************************!
+[7117030022000000:0024000000020000000002ac030000]
+ナレーション
+!******************************!
+<T>Para abrir y cerrar puentes, haz
+que el cochecito pase por los
+interruptores amarillos.
+!******************************!
+[7117030025000000:002800000002000000000207040000]
+ナレーション
+!******************************!
+<T>Toca <CR>Reiniciar</C> para quitar todos
+los paneles del circuito.
+!******************************!
+[7117030028000000:00280000000200000000024d040000]
+ナレーション
+!******************************!
+<T>Cuando no quieras colocar m{'a}s
+paneles, toca <CR>{^!}Adelante!</C> para
+arrancar el coche.
+!******************************!
+[711703002b000000:0028000000020000000002ad040000]
+ナレーション
+!******************************!
+<T>Si has colocado los paneles de
+forma correcta, el cochecito
+llegar{'a} a la meta.
+!******************************!
+[711703002e000000:002800000002000000000202050000]
+ナレーション
+!******************************!
+<T>Ten en cuenta, sin embargo, que
+no basta con llegar a la meta.
+!******************************!
+[7117030031000000:002800000002000000000244050000]
+ナレーション
+!******************************!
+<T>Si no recoges todos los objetos
+del circuito, no conseguir{'a}s
+completarlo.
+!******************************!
+[7117030034000000:002800000002000000000294050000]
+ナレーション
+!******************************!
+<T>Si tu cochecito se estrella o
+se cae del circuito, tendr{'a}s
+que volver a empezar.
+!******************************!
+[7117030037000000:0028000000020000000002eb050000]
+ナレーション
+!******************************!
+<T>Hay diez circuitos. Los
+encontrar{'a}s a medida que
+avances en la historia.
+!******************************!
+[711703003a000000:00280000000200000000023a060000]
+ナレーション
+!******************************!
+<T>Resuelve todos los puzles que
+encuentres para conseguir
+todos los circuitos.
+!******************************!
+[711703003d000000:00280000000200000000028a060000]
+ナレーション
+!******************************!
+<T>Cuando hayas completado todos
+los circuitos, {^!}te llevar{'a}s una
+sorpresa!
+!******************************!

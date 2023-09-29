@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton, que ha usado a Don Paolo
+como cebo, entra en escena para
+ajustarle las cuentas a Dimitri.
+!******************************!
+[7117030004000000:000a00000002000000000272000000]
+ナレーション
+!******************************!
+<T>Lamentablemente, llegan refuerzos
+enemigos y Dimitri consigue
+escapar.
+!******************************!
+[7117030007000000:0014000000020000000002bc000000]
+ナレーション
+!******************************!
+<T>Nuestros amigos, que se ven
+de pronto rodeados por fuerzas
+hostiles, planean su escapada.
+!******************************!

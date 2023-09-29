@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n153
+!******************************!
+n153a
+!******************************!
+n153b
+!******************************!
+[eb0b01000a000000:0211000000]
+El hueco verde y los seis bloques naranjas
+de abajo est{'a}n formados por tri{'a}ngulos
+equil{'a}teros iguales entre s{'i}. Se puede
+rellenar completamente el hueco con
+cinco de esos seis bloques. Los bloques
+se pueden girar en cualquier direcci{'o}n
+para que encajen en el hueco.
+
+{^!}Rodea el {'u}nico bloque que no es necesario!
+!******************************!
+[ec0b01000b000000:025d010000]
+{^!}Excelente!
+
+{^?}Ha sido dif{'i}cil montar la figura
+en tu cabeza? Hay una forma f{'a}cil de
+resolver este puzle. {^?}Sabes cu{'a}l es?
+
+El hueco verde est{'a} formado por 22
+tri{'a}ngulos equil{'a}teros id{'e}nticos.
+Los seis bloques juntos suman 24
+tri{'a}ngulos, con lo que sobran dos.
+{^!}Esto significa que el bloque que no
+sirve tiene que ser el formado solo
+por dos tri{'a}ngulos!
+!******************************!
+[ed0b01000c000000:02e4020000]
+{^!}Qu{'e} pena!
+
+{^?}Has probado a contar todos los
+tri{'a}ngulos?
+!******************************!
+[ee0b01000d000000:0228030000]
+No te dejes liar por las formas tan
+complicadas de los bloques. Trata de
+comparar el hueco y los bloques
+desde otra perspectiva.
+!******************************!
+[ef0b01000e000000:02a9030000]
+Rellenar el hueco con las cinco formas
+correctas puede ser muy complicado.
+De hecho, {^!}hay una forma de identificar
+el bloque sobrante sin que tengas que
+preocuparte de las formas!
+!******************************!
+[f00b01000f000000:0260040000]
+El hueco y los bloques est{'a}n formados
+por tri{'a}ngulos equil{'a}teros iguales.
+
+Si comparas el n{'u}mero de tri{'a}ngulos del
+hueco con el n{'u}mero de tri{'a}ngulos de
+los seis bloques, ver{'a}s que... Ejem.
+!******************************!
+[f10b010010000000:0235050000]
+El hueco est{'a} formado por 22
+tri{'a}ngulos.
+
+Los seis bloques en total suman
+24 tri{'a}ngulos.
+
+Vamos, que sobran dos tri{'a}ngulos
+de los bloques. Entonces...
+!******************************!

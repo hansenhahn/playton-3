@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n019
+!******************************!
+n019a
+!******************************!
+n019b
+!******************************!
+[eb0b01000a000000:0211000000]
+Te han dado dos llaves para abrir
+el Laytonm{'o}vil, pero no hay ninguna
+cerradura. Lo que hay que introducir
+para abrir la puerta es un n{'u}mero.
+
+Este n{'u}mero est{'a} oculto en las llaves...
+{^?}Cu{'a}l es?
+!******************************!
+[ec0b01000b000000:02e5000000]
+{^!}Bien visto!
+
+El n{'u}mero oculto es el 47. {^!}Las cifras
+aparecen cuando juntas los dientes de
+las dos llaves!
+!******************************!
+[ed0b01000c000000:0259010000]
+{^!}Qu{'e} pena!
+
+{^?}Has probado a desplazar las llaves?
+Tambi{'e}n las puedes girar.
+
+{^!}Int{'e}ntalo otra vez!
+!******************************!
+[ee0b01000d000000:02cc010000]
+El n{'u}mero est{'a} oculto en alg{'u}n lugar de
+las dos llaves, pero no lo encontrar{'a}s
+solo observ{'a}ndolas. {^!}Mu{'e}velas un poco!
+!******************************!
+[ef0b01000e000000:0257020000]
+Si usas solo una de las llaves,
+no encontrar{'a}s el n{'u}mero oculto.
+Mu{'e}velas un poco y piensa.
+!******************************!
+[f00b01000f000000:02bc020000]
+Cuando tengas las llaves en cierta
+posici{'o}n, aparecer{'a} el n{'u}mero oculto.
+!******************************!
+[f10b010010000000:020e030000]
+Deja la llave azul arriba y gira
+la llave amarilla 180{o}.
+Coloca las llaves de manera
+que sus dientes se toquen y...
+!******************************!

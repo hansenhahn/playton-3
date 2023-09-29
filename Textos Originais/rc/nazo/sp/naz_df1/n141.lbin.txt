@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n141
+!******************************!
+n141a
+!******************************!
+n141b
+!******************************!
+[eb0b01000a000000:0211000000]
+El puente de abajo est{'a} pintado en blanco
+y negro como un tablero de ajedrez.
+Empezando desde la flecha de la esquina
+inferior izquierda, quieres cruzar el
+puente y terminar en la flecha de la
+esquina superior derecha. Puedes pisar
+una casilla cada vez en sentido
+horizontal o vertical, pero no diagonal.
+
+La pregunta es esta: {^?}cu{'a}ntas rutas
+diferentes existen para cruzar el puente
+si tienes que pisar exactamente cuatro
+casillas negras y tres blancas?
+!******************************!
+[ec0b01000b000000:02e0010000]
+{^!}Precisamente!
+
+Hay 15 rutas diferentes. M{'a}s de las
+que parec{'i}a, {^?}a que s{'i}?
+!******************************!
+[ed0b01000c000000:023b020000]
+{^!}L{'a}stima!
+
+Puedes moverte en sentido horizontal y
+vertical, pero no diagonalmente.
+
+Cuenta otra vez las rutas.
+!******************************!
+[ee0b01000d000000:02b0020000]
+Recuerda que tienes que encontrar las
+rutas que re{'u}nen todas las condiciones.
+Piensa en la forma en que cada ruta
+atraviesa la columna central del
+puente.
+
+Tocar cuatro casillas negras y tres
+blancas significa que debes cruzar
+el puente en siete movimientos, as{'i}
+que no puedes retroceder en ning{'u}n
+momento.
+!******************************!
+[ef0b01000e000000:02ec030000]
+Todas las rutas v{'a}lidas tienen puntos
+en com{'u}n. Identifica el patr{'o}n que
+comparten y procura no olvidarte de
+ninguna.
+
+Tal como se menciona en la pista 1,
+no debes retroceder sobre tus pasos.
+Eso te deja solo dos direcciones
+en las que moverte.
+!******************************!
+[f00b01000f000000:02ea040000]
+Una ruta posible es seguir recto hasta
+el final y all{'i} girar a la derecha.
+
+Otra consiste en avanzar hasta la
+segunda fila empezando por arriba, y
+all{'i} moverte a la derecha hasta la
+tercera columna, y subir hasta arriba.
+
+Esas solo son dos posibles soluciones.
+{^!}Cu{'e}ntalas todas!
+!******************************!
+[f10b010010000000:020d060000]
+Hay m{'a}s de diez rutas, pero menos
+de veinte.
+
+{^!}Sigue contando!
+!******************************!

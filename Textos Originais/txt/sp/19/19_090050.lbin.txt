@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Gracias a Blake, Luke y Layton
+est{'a}n algo m{'a}s cerca de encontrar
+al profesor Layton del futuro.
+!******************************!
+[7117030004000000:001400000002000000000276000000]
+ナレーション
+!******************************!
+<T>Ahora que saben que Layton del
+futuro puede estar en la Pagoda
+Colosal, el grupo se separa.
+!******************************!
+[7117030007000000:0014000000020000000002d5000000]
+ナレーション
+!******************************!
+<T>Luke del futuro se adelanta para
+buscar una entrada a la pagoda
+y Layton y Luke van a Chinatown.
+!******************************!

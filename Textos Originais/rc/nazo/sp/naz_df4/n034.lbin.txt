@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n034
+!******************************!
+n034a
+!******************************!
+n034b
+!******************************!
+[eb0b01000a000000:0211000000]
+Te has perdido en un pueblo que no
+conoces y quieres llegar a la torre
+del reloj. Pides ayuda a un viandante,
+que te da las siguientes indicaciones:
+{''}Ve en l{'i}nea recta desde aqu{'i}. En la
+primera esquina que encuentres gira
+a la izquierda, luego gira a la derecha
+en la siguiente esquina, a la izquierda
+en la siguiente y tendr{'a}s la torre
+del reloj justo delante de ti.{''}
+Suponiendo que comienzas en alg{'u}n lugar
+del mapa de abajo, {^?}d{'o}nde est{'a} la torre?
+Marca con un c{'i}rculo tu respuesta (A - H).
+!******************************!
+[ec0b01000b000000:021c020000]
+{^!}Excelente!
+
+La torre del reloj est{'a} en H.
+
+En el momento de recibir las indicaciones
+del viandante est{'a}s en el punto A,
+mirando hacia D.
+!******************************!
+[ed0b01000c000000:02af020000]
+Qu{'e} pena...
+
+{^!}No te rindas ahora!
+!******************************!
+[ee0b01000d000000:02d7020000]
+{''}En la primera esquina que encuentres
+gira a la izquierda.{''} Esto puede ocurrir
+comenzando desde cualquier punto,
+pero la clave est{'a} en la siguiente
+indicaci{'o}n: {''}luego gira a la derecha
+en la siguiente esquina{''}.
+
+{^?}En qu{'e} sitios se puede cumplir
+esta condici{'o}n?
+!******************************!
+[ef0b01000e000000:02f6030000]
+Comienzas en alguno de estos puntos:
+A, C, D o G.
+De acuerdo con lo dicho en la pista 1,
+tenemos que desde A ir{'i}as a D, luego a E
+y despu{'e}s a G.
+Y desde C ir{'i}as a B, luego a E
+y finalmente a D.
+
+{^?}Qu{'e} ocurre si partes de D y de G?
+!******************************!
+[f00b01000f000000:02eb040000]
+Si comienzas desde D o desde G,
+entonces estos ser{'i}an los trayectos,
+de acuerdo con la pista 1.
+Desde D ir{'i}as a E, a B y luego a C.
+Desde G ir{'i}as a E, a D y luego a A.
+
+!******************************!
+[f10b010010000000:029d050000]
+Siguiendo desde los puntos mencionados
+en las pistas 2 y 3, {^?}d{'o}nde podr{'i}as girar
+a la izquierda en la siguiente esquina,
+como te dec{'i}a el viandante?
+
+Ten en cuenta en qu{'e} direcci{'o}n est{'a}s
+mirando y prueba con cada punto.
+!******************************!

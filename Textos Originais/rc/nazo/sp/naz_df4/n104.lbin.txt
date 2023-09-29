@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000001000000]
+n104
+!******************************!
+n104a
+!******************************!
+n104b
+!******************************!
+[eb0b01000a000000:0211000000]
+La due{-n}a de una tienda se{-n}ala a sus
+ex{'o}ticos gatos y dice algo un tanto
+extra{-n}o:
+
+{''}Rub{'i} est{'a} junto a Zafiro.{''}
+{''}{'E}bano no es blanco.{''}
+{''}Jade no es verde.{''}
+{''}Zafiro est{'a} a tres puestos de {'E}bano.{''}
+{''}Rub{'i} est{'a} en un extremo.{''}
+
+{^?}Cu{'a}l de los gatos es Perla?
+!******************************!
+[ec0b01000b000000:024e010000]
+{^!}Bien pensado!
+
+El gato verde se llama {''}Perla{''}.
+
+La due{-n}a les ha puesto a sus gatos
+nombres de materiales preciosos, en
+cada caso un color diferente al color
+del pelo del gato.
+
+Un poco rara la mujer, {^?}no?
+!******************************!
+[ed0b01000c000000:022b020000]
+{^!}Qu{'e} l{'a}stima!
+
+Este puzle es un poco retorcido, {^?}no
+crees? La clave est{'a} en pensar de un
+modo diferente del habitual.
+!******************************!
+[ee0b01000d000000:02b0020000]
+La due{-n}a de la tienda les ha puesto
+nombres a los gatos. Pero para
+d{'a}rselas de exc{'e}ntrica, son nombres
+de materiales que, adem{'a}s, no coinciden
+con el color real del gato.
+Se habr{'a} quedado a gusto...
+!******************************!
+[ef0b01000e000000:0286030000]
+{''}Rub{'i} est{'a} junto a Zafiro{''} y {''}Rub{'i} est{'a}
+al final{''}. Por tanto, Zafiro tiene que
+ser B o D.
+
+{''}Zafiro est{'a} a tres puestos de {'E}bano.{''}
+Acabamos de decir que Zafiro es B o D,
+as{'i} que {'E}bano ser{'a} A o E.
+
+Sin embargo, {''}{'E}bano no es blanco{''},
+{^!}con lo cual {'E}bano tiene que ser A!
+!******************************!
+[f00b01000f000000:02cd040000]
+Si A es {'E}bano, entonces D tiene que
+ser Zafiro. {^?}Y qui{'e}n est{'a} junto a
+Zafiro? A partir de aqu{'i} la soluci{'o}n
+deber{'i}a encontrarse f{'a}cilmente.
+!******************************!
+[f10b010010000000:0270050000]
+Como {''}Rub{'i} est{'a} junto a Zafiro{''} y {''}Rub{'i}
+est{'a} al final{''}, entonces E tiene que
+ser Rub{'i}.
+
+A es {'E}bano.
+D es Zafiro.
+E es Rub{'i}.
+
+Ahora f{'i}jate en la condici{'o}n que a{'u}n
+no has tenido en cuenta, {^!}y obtendr{'a}s
+la respuesta!
+!******************************!

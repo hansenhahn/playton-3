@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n121
+!******************************!
+n121a
+!******************************!
+n121b
+!******************************!
+[eb0b01000a000000:0211000000]
+Han llegado los platos numerados que
+Paillard hab{'i}a pedido, pero... {^!}Qu{'e}
+mala pata! {^!}Han cometido un error y
+todos los n{'u}meros han salido del rev{'e}s!
+
+Paillard quer{'i}a usar los platos cuanto
+antes, pero parece que har{'i}a falta mucho
+tiempo para arreglarlos todos. Por eso,
+el artesano le ha pedido que utilice
+los que pueda tal como est{'a}n y que solo
+le env{'i}e los que haya que arreglar
+necesariamente.
+
+Marca solo los platos que no pueda usar.
+!******************************!
+[ec0b01000b000000:02e7010000]
+{^!}Impresionante!
+
+El seis y el nueve no sirven.
+El cero, el uno y el ocho son
+sim{'e}tricos, as{'i} que valen tal como
+est{'a}n. Si giras el dos y el cinco
+180{o}, se sustituir{'a}n el uno al otro.
+Y si giras el tres, el cuatro y el
+siete tal como se muestra arriba,
+{^!}estos tambi{'e}n servir{'a}n!
+
+Ingenioso, {^?}verdad?
+!******************************!
+[ed0b01000c000000:022e030000]
+{^!}Qu{'e} pena!
+
+{^?}Seguro que est{'a}s marcando solo los
+platos que no sirven de ninguna forma?
+
+F{'i}jate otra vez y vuelve a intentarlo.
+!******************************!
+[ee0b01000d000000:02bc030000]
+El cero y el uno ya valen tal como est{'a}n.
+!******************************!
+[ef0b01000e000000:02e9030000]
+Tambi{'e}n sirve el ocho tal como est{'a}.
+
+Mmm... El dos y el cinco se parecen
+bastante uno al otro, {^?}no crees?
+!******************************!
+[f00b01000f000000:025d040000]
+El cuatro tambi{'e}n vale si lo
+giras 90{o}.
+!******************************!
+[f10b010010000000:028a040000]
+Mira bien el siete. Tambi{'e}n servir{'a}
+si lo giras.
+
+{^!}Hay que ver! Si es que en realidad
+la mayor{'i}a ya sirven tal como est{'a}n...
+Pero hay dos n{'u}meros que no ser{'a}n
+{'u}tiles por muy utilizables que
+puedan parecer a primera vista.
+!******************************!

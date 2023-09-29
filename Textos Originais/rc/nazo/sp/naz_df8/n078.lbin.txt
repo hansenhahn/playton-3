@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000007e040000007e040000000100000000000000000000000000]
+n078
+!******************************!
+n078a
+!******************************!
+n078b
+!******************************!
+[eb0b01000a000000:0211000000]
+Los s{'i}mbolos rojos y azules que ves
+abajo representan a cuatro parejas
+muy t{'i}midas. A todos les gustar{'i}a
+reunirse con su media naranja, pero
+sin cruzarse en el camino con ninguna
+otra persona.
+
+Traza l{'i}neas entre las parejas A-a, B-b,
+C-c y D-d de manera que ninguno de sus
+caminos se crucen.
+!******************************!
+[ec0b01000b000000:0242010000]
+{^!}As{'i} se hace!
+
+Ahora cada pareja puede reunirse sin
+preocuparse de que alguien los vea
+por el camino.
+!******************************!
+[ed0b01000c000000:02ae010000]
+{^!}Qu{'e} l{'a}stima!
+
+Si esto sigue as{'i}, estas parejas nunca
+van a poder quedar...
+!******************************!
+[ee0b01000d000000:0206020000]
+Piensa con calma qu{'e} rodeos tendr{'a}
+que hacer cada pareja para no cruzarse
+con otras. Nadie lo conseguir{'a}
+siguiendo el camino m{'a}s corto.
+!******************************!
+[ef0b01000e000000:029a020000]
+El camino de la pareja D-d
+solo incluye un giro.
+!******************************!
+[f00b01000f000000:02cb020000]
+Los caminos que han de recorrer
+las parejas B-b y C-c tienen
+cuatro giros.
+La pareja A-a tiene que girar
+tres veces para encontrarse.
+!******************************!
+[f10b010010000000:0251030000]
+El recorrido de la pareja D-d pasa
+por los bordes derecho e inferior.
+A tiene que ir hacia abajo, detenerse
+antes de cruzarse con d y luego girar
+a su izquierda. B y C comienzan hacia
+la izquierda del mapa. El camino de
+B-b da un rodeo por debajo de la
+pareja C-c. El trayecto de la pareja
+A-a pasa por debajo del de B-b.
+
+Con esto en mente, int{'e}ntalo otra vez.
+!******************************!

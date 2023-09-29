@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n077
+!******************************!
+n077a
+!******************************!
+n077b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tres chicos contemplan un coche de
+juguete que est{'a} a la venta por 12 {po}.
+
+Jeff: {''}Si ahorr{'a}semos nuestras pagas,
+{^!}Pete y yo podr{'i}amos comprar juntos
+este coche en dos semanas!{''}
+Sam: {''}Pues Pete y yo lo podr{'i}amos
+comprar en tres semanas...{''}
+Pete: {''}Ya veo... Si juntaseis vuestras
+dos pagas, tardar{'i}ais seis semanas
+en ahorrar para el coche.{''}
+
+Todas las pagas son semanales. {^?}Cu{'a}ntas
+libras recibe Sam a la semana?
+!******************************!
+[ec0b01000b000000:02d9010000]
+{^!}Has dado en el clavo!
+
+La respuesta es 0 {po}, es decir, Sam no
+recibe ninguna paga. Y, por si a{'u}n no
+estaba claro, Jeff recibe 2 {po} por semana
+y Pete 4 {po}.
+!******************************!
+[ed0b01000c000000:0281020000]
+{^!}Qu{'e} pena!
+
+A Sam tu respuesta le hace cierta gracia.
+!******************************!
+[ee0b01000d000000:02bd020000]
+No le des demasiadas vueltas. Intenta
+dar diversos valores a las inc{'o}gnitas,
+a ver qu{'e} resulta.
+!******************************!
+[ef0b01000e000000:0223030000]
+La paga semanal de Jeff es de 2 {po}.
+!******************************!
+[f00b01000f000000:0249030000]
+La paga semanal de Pete es de 4 {po}.
+!******************************!
+[f10b010010000000:026f030000]
+Jeff recibe 2 {po} por semana y Pete 4 {po}.
+Juntas suman 6 {po} semanales. Por tanto,
+en dos semanas ahorrar{'i}an el dinero
+necesario para comprar el coche.
+{^?}Y cu{'a}nto costaba?
+Si Sam y Jeff necesitan seis semanas
+para ahorrar juntos esa cantidad...
+!******************************!

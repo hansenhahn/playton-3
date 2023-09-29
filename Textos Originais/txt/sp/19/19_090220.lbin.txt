@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton conjetura que Dimitri debe
+de tener otra base adem{'a}s de la
+Pagoda Colosal.
+!******************************!
+[7117030004000000:001400000002000000000265000000]
+ナレーション
+!******************************!
+<T>El profesor indaga c{'o}mo podr{'i}an
+cruzar el T{'a}mesis cuando, de
+repente, Luke desaparece.
+!******************************!

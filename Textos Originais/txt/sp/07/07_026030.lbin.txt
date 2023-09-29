@@ -1,0 +1,154 @@
+[7017010000000000:0017000000]
+[7117030001000000:000a00000002000000000209000000]
+ルドルフ
+!******************************!
+<T>{^!}Hola, jovenzuelos! {^?}Hab{'i}ais
+reparado ya en este maravilloso
+arco?
+!******************************!
+[7117030004000000:000a00000002000000000258000000]
+ルドルフ
+!******************************!
+<T>Esta magn{'i}fica estructura se
+construy{'o} para invitar a un
+esp{'i}ritu de la suerte.
+!******************************!
+[7117030007000000:000a00000002b400000002bd000000]
+レイトン
+!******************************!
+<T><A1/2>S{'i}, es una verdadera obra de
+arte.<W> D{'i}game, se{-n}or, {^?}conoce
+usted esta parte de la ciudad?
+!******************************!
+[711703000a000000:000a0000000200000000022e010000]
+ルドルフ
+!******************************!
+<T>{^?}Chinatown?<W> S{'i}, claro, como
+la palma de mi mano.
+!******************************!
+[711703000d000000:000a0000000200000000026b010000]
+ルドルフ
+!******************************!
+<T>En los restaurantes y las tiendas
+de la zona encontrar{'e}is productos
+t{'i}picos de Asia.
+!******************************!
+[7117030010000000:000a000000020000000002c9010000]
+ルドルフ
+!******************************!
+<T>Por cierto, es dif{'i}cil darse cuenta,
+pero los edificios de por aqu{'i} no
+son tan antiguos como aparentan.
+!******************************!
+[7117030013000000:000a00000002b4000000023a020000]
+レイトン
+!******************************!
+<T><A3/1>Tambi{'e}n he o{'i}do que en esta
+zona se encuentra el cuartel
+general de la Fami...
+!******************************!
+[7117030016000000:000a00000002000000000298020000]
+ルドルフ
+!******************************!
+<T>{^!}Sssh! {^!}Cuidado con lo que dices!
+!******************************!
+[7117030019000000:000a000000020000000002c3020000]
+ルドルフ
+!******************************!
+<T>Aunque es un secreto a voces,
+no se puede discutir ese tema
+en p{'u}blico.
+!******************************!
+[711703001c000000:000a00000002110300000218030000]
+ルーク
+!******************************!
+<T>Aun as{'i}, {^?}cree que podr{'i}a decirnos
+d{'o}nde est{'a}?
+!******************************!
+[711703001f000000:000a00000002000000000259030000]
+ルドルフ
+!******************************!
+<T>{^!}Jo, jo, jo! T{'u} no te andas por
+las ramas, {^?}verdad? Es una
+cualidad admirable.
+!******************************!
+[7117030022000000:000a000000020000000002b4030000]
+ルドルフ
+!******************************!
+<T>Tengo una idea. Si resuelves este
+puzle, os dir{'e} d{'o}nde est{'a} el lugar
+que busc{'a}is.
+!******************************!
+[7117030025000000:00e803000002000000000215040000]
+ルドルフ
+!******************************!
+<T>{^?}C{'o}mo te las vas a apa{-n}ar en el
+cuartel general de la Familia si no
+puedes ni resolver mi puzle?
+!******************************!
+[7117030028000000:00d007000002000000000282040000]
+ルドルフ
+!******************************!
+<T>{^?}Quieres volver a intentar mi
+puzle? Vaya, pues s{'i} que tienes
+ganas de encontrar a la Familia.
+!******************************!
+[711703002b000000:00b80b0000020000000002ea040000]
+ルドルフ
+!******************************!
+<T>{^!}Jo, jo, jo! Muy bien hecho. Bueno,
+lo prometido es deuda. {^?}Veis aquel
+edificio?
+!******************************!
+[711703002e000000:00b80b000002b40000000244050000]
+レイトン
+!******************************!
+<T>{^?}Ese que se ve en lontananza?
+!******************************!
+[7117030031000000:00b80b000002000000000268050000]
+ルドルフ
+!******************************!
+<T>El mismo. Se trata de la Pagoda
+Colosal y es all{'i} donde la Familia
+tiene su base.
+!******************************!
+[7117030034000000:00b80b0000020000000002c0050000]
+ルドルフ
+!******************************!
+<T>Se dice que el encargado es m{'a}s
+monstruo que humano... y lleva
+un sombrero como el tuyo.
+!******************************!
+[7117030037000000:00b80b00000200000000021f060000]
+ルドルフ
+!******************************!
+<T>Bueno, basta ya de hablar del
+tema. Espero que lo pas{'e}is bien
+en Chinatown.<W> {^!}Hasta luego!
+!******************************!
+[711703003a000000:001400000002b40000000285060000]
+レイトン
+!******************************!
+<T>Est{'a} claro que nuestro siguiente
+paso deber{'i}a ser dirigirnos a
+la Pagoda Colosal.
+!******************************!
+[711703003d000000:0014000000021103000002e0060000]
+ルーク
+!******************************!
+<T>{^!}Perfecto! As{'i} que solo tenemos que
+ir all{'i}, llamar a la puerta y entrar.
+!******************************!
+[7117030040000000:001400000002360700000241070000]
+未来ルーク
+!******************************!
+<T>Algo me dice que no va a ser
+tan f{'a}cil, pero ya nos
+preocuparemos de eso m{'a}s tarde.
+!******************************!
+[7117030043000000:00a00f00000200000000029e070000]
+ルドルフ
+!******************************!
+<T>{^?}Os lo est{'a}is pasando bien
+en Chinatown, jovenzuelos?
+!******************************!

@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n040
+!******************************!
+n040a
+!******************************!
+n040b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes que aparcar el coche en el sitio
+que indica la bandera. Como puedes ver,
+solo se puede entrar por uno de los lados.
+Cuando llegues a una casilla con una X
+tendr{'a}s que girar a la izquierda o a la
+derecha, y cuando llegues a un c{'i}rculo
+tendr{'a}s que seguir hacia adelante.
+
+Suponiendo que no puedes ir marcha atr{'a}s,
+{^?}qu{'e} ruta tienes que seguir para llegar
+al aparcamiento?
+
+Dibuja una l{'i}nea desde el coche hasta
+la casilla del aparcamiento.
+!******************************!
+[ec0b01000b000000:02e2010000]
+{^!}Excelente maniobra!
+
+Tienes que rodear por completo
+el aparcamiento antes de llegar
+a {'e}l.
+
+Un poco frustrante, pero suele
+ocurrir cuando buscas donde
+aparcar, {^?}no?
+!******************************!
+[ed0b01000c000000:0290020000]
+{^!}L{'a}stima!
+
+Parece que has girado o has seguido en
+l{'i}nea recta donde no deb{'i}as.
+!******************************!
+[ee0b01000d000000:02eb020000]
+Nada m{'a}s comenzar tienes que girar
+a la izquierda o a la derecha. En esta
+ocasi{'o}n ser{'a} mejor ir hacia la izquierda.
+!******************************!
+[ef0b01000e000000:0268030000]
+Parte de la ruta que tienes que seguir
+recorre de izquierda a derecha toda
+la segunda fila, contando desde arriba.
+
+Busca un trayecto que te lleve desde
+el punto inicial hasta la casilla que
+est{'a} m{'a}s a la izquierda en la segunda
+fila.
+!******************************!
+[f00b01000f000000:0259040000]
+Tendr{'a}s que hacer un peque{-n}o rizo
+en las cuatro casillas de la esquina
+superior derecha, y otro en las cuatro
+casillas de la esquina inferior derecha.
+
+A partir de ah{'i}, ya estar{'a}s muy cerca
+del aparcamiento.
+!******************************!
+[f10b010010000000:0235050000]
+A la casilla que est{'a} justo delante
+del aparcamiento tendr{'a}s que llegar
+desde la derecha. Luego solo hay
+que girar a la derecha para terminar
+de aparcar.
+!******************************!

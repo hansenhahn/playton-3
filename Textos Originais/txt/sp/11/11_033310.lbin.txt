@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<T>No creo que podamos entrar
+por la puerta principal como
+si nada.
+!******************************!
+[7117030004000000:000a0000000200000000024d000000]
+レイトン
+!******************************!
+<T>Quiz{'a}s haya una manera m{'a}s
+discreta de ganar acceso al
+establecimiento.
+!******************************!
+[7117030007000000:000a000000029e00000002a5000000]
+ルーク
+!******************************!
+<T>Buena idea, profesor. A lo mejor
+podemos encontrar otra entrada
+si buscamos un poco.
+!******************************!

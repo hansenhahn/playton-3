@@ -1,0 +1,237 @@
+[7017010000000000:0017000000]
+[7117030001000000:000100000002000000000214000000]
+La carta del futuro
+!******************************!
+El profesor Layton ha recibido
+una carta del futuro. El autor
+dice ser un Luke mayor, desde
+el futuro, dentro de diez a{-n}os.
+{^?}C{'o}mo puede ser posible?
+!******************************!
+[7117030004000000:000100000002b200000002b3000000]
+
+!******************************!
+Luke, desde el futuro, utiliz{'o} una
+m{'a}quina del tiempo para enviar
+la carta al pasado y pedirle
+a su antiguo profesor, Hershel
+Layton, que le ayudara a salvar
+el ca{'o}tico Londres del futuro.
+!******************************!
+[7117030007000000:000200000002790100000297010000]
+El primer ministro desaparece
+!******************************!
+El primer ministro Bill Hawks
+desapareci{'o} misteriosamente en
+el accidente de la presentaci{'o}n
+de la m{'a}quina del tiempo. {^?}Qu{'e}
+le habr{'a} pasado?
+!******************************!
+[711703000a000000:000200000002360200000237020000]
+
+!******************************!
+El profesor Layton encontr{'o}
+en el Londres del futuro al
+primer ministro, que hab{'i}a
+desaparecido en el accidente
+de la m{'a}quina del tiempo.
+Dimitri lo hab{'i}a secuestrado.
+{^?}Podr{'a}n rescatarlo nuestros
+h{'e}roes?
+!******************************!
+[711703000d000000:00030000000218030000022d030000]
+Un Londres diferente
+!******************************!
+Cuando el profesor Layton y Luke
+salieron de la relojer{'i}a, las
+calles de Londres ten{'i}an un
+aspecto completamente distinto.
+{^?}Qu{'e} habr{'a} pasado?
+!******************************!
+[7117030010000000:000300000002ca03000002cb030000]
+
+!******************************!
+Las extra{-n}as calles formaban
+parte de un Londres diez
+a{-n}os posterior a la {'e}poca de
+Luke y el profesor Layton.
+!******************************!
+[7117030013000000:000300000002420400000243040000]
+
+!******************************!
+El Londres del futuro era una
+ciudad falsa construida bajo
+el Londres real. Dimitri hab{'i}a
+enga{-n}ado a los cient{'i}ficos para
+que creyeran que no pod{'i}an volver
+a su {'e}poca y tuvieran motivaci{'o}n
+para construir una m{'a}quina del
+tiempo real.
+!******************************!
+[7117030016000000:00040000000241050000025a050000]
+Los habitantes asustados
+!******************************!
+En esta parte de la ciudad parece
+que mucha gente se asusta al ver
+al profesor Layton. {^?}Por qu{'e} se
+asustar{'i}a una persona normal del
+amable y caballeroso Layton?
+Parece que tiene algo que ver
+con su sombrero...
+!******************************!
+[7117030019000000:000400000002350600000236060000]
+
+!******************************!
+El Londres del futuro est{'a}
+bajo el control de un Layton
+malvado. La mera visi{'o}n del
+profesor, que se parece a su
+futuro yo, es suficiente para
+infundir el terror en los
+ciudadanos.
+!******************************!
+[711703001c000000:000500000002f10600000201070000]
+Luke del futuro
+!******************************!
+Este joven envi{'o} una carta
+al profesor Layton en la que
+afirmaba ser el Luke del futuro.
+Pero {^?}es eso posible?
+!******************************!
+[711703001f000000:000500000002760700000277070000]
+
+!******************************!
+El joven que se hac{'i}a llamar {''}Luke
+Triton{''} result{'o} ser un Luke mayor,
+el Luke de diez a{-n}os en el futuro.
+Escribi{'o} a su antiguo y leal
+profesor para pedirle ayuda.
+!******************************!
+[7117030022000000:0005000000022c080000022d080000]
+
+!******************************!
+Luke del futuro es en realidad
+Clive, un chico que perdi{'o} a sus
+padres en el accidente de la
+m{'a}quina del tiempo de hace diez
+a{-n}os. Desde entonces ha estado
+planeando vengarse. Acudi{'o} a
+Layton con la esperanza de que
+le salvara de su propia locura.
+!******************************!
+[7117030025000000:000600000002310900000248090000]
+Individuos sospechosos
+!******************************!
+Se trata de unos personajes
+sospechosos que visten ropas
+oscuras y merodean por todas
+las calles del Londres del
+futuro. {^?}Qu{'e} estar{'a}n tramando?
+!******************************!
+[7117030028000000:000600000002e109000002e2090000]
+
+!******************************!
+El grupo de hombres vestidos
+con ropas oscuras pertenece a
+una banda que controla Layton
+del futuro, el jefe de los bajos
+fondos de Londres.
+!******************************!
+[711703002b000000:0007000000026f0a000002810a0000]
+El Layton malvado
+!******************************!
+El futuro Hershel Layton es el
+cabecilla de una banda organizada
+que tiene aterrorizada a la ciudad
+de Londres. Los londinenses lo
+conocen incluso como {''}el diablo
+de la chistera{''}. {^?}C{'o}mo ha podido
+convertirse nuestro perfecto
+caballero en un monstruo?
+!******************************!
+[711703002e000000:000700000002880b000002890b0000]
+
+!******************************!
+Layton del futuro era Dimitri
+Allen, el famoso cient{'i}fico
+conocido por su trabajo sobre
+la tecnolog{'i}a relacionada con
+los viajes en el tiempo. {^?}Cu{'a}l
+puede ser la raz{'o}n de Dimitri
+para hacerse pasar por el futuro
+profesor Layton?
+!******************************!
+[7117030031000000:0008000000027d0c0000028d0c0000]
+El Dr. Stahngun
+!******************************!
+El Dr. Stahngun es el cient{'i}fico
+que present{'o} la m{'a}quina del
+tiempo, pero no existen registros
+de ning{'u}n cient{'i}fico con ese
+nombre. Alguien debe de haber
+usado esa identidad para ocultar
+la suya propia, pero {^?}qui{'e}n?
+!******************************!
+[7117030034000000:0008000000027a0d0000027b0d0000]
+
+!******************************!
+El Dr. Stahngun es en realidad
+Dimitri Allen, uno de los
+cient{'i}ficos implicados en el
+accidente de la m{'a}quina del
+tiempo de hace diez a{-n}os.
+!******************************!
+[7117030037000000:000900000002100e000002240e0000]
+La mujer misteriosa
+!******************************!
+Una mujer que guarda un parecido
+sorprendente con la antigua novia
+del profesor Layton se pasea por
+la ciudad. {^?}Qui{'e}n puede ser?
+!******************************!
+[711703003a000000:000900000002ab0e000002ac0e0000]
+
+!******************************!
+La misteriosa mujer no es otra
+que la hermana peque{-n}a de Claire,
+Celeste. Vino al Londres del
+futuro en busca de pistas sobre
+la muerte de su hermana y sigue
+al profesor porque cree que {'e}l
+desvelar{'a} la verdad.
+!******************************!
+[711703003d000000:000900000002870f000002880f0000]
+
+!******************************!
+Celeste es en realidad Claire,
+que viaj{'o} al presente desde el
+d{'i}a del accidente de hace diez
+a{-n}os. Acepta su destino y se
+despide del profesor para volver
+a su {'e}poca, en concreto al d{'i}a
+del tr{'a}gico accidente.
+!******************************!
+[7117030040000000:000a000000026b1000000284100000]
+Los hombres de las batas
+!******************************!
+En esta parte de la ciudad
+se ven muchos hombres con
+bata blanca, pero lo m{'a}s
+raro de todo es que siempre
+llevan mojados los bajos de
+los pantalones y los zapatos.
+{^?}Por qu{'e} andar{'a}n por Londres
+con los pies mojados?
+!******************************!
+[7117030043000000:000a00000002671100000268110000]
+
+!******************************!
+Los hombres de blanco que van
+con los pies mojados son los
+cient{'i}ficos que trabajan en
+el laboratorio de Dimitri.
+Pasan por un t{'u}nel parcialmente
+inundado bajo el r{'i}o para llegar
+a la ciudad cuando quieren
+tomarse una pausa del trabajo.
+!******************************!

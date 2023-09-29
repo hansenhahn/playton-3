@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000007e040000007e040000000100000000000000000000000000]
+n085
+!******************************!
+n085a
+!******************************!
+n085b
+!******************************!
+[eb0b01000a000000:0211000000]
+El signo de suma que se ve en la esquina
+superior izquierda est{'a} tambi{'e}n escondido
+en alg{'u}n lugar de este mosaico. {^?}Lo podr{'a}s
+encontrar?
+
+Tiene exactamente la misma forma y el
+mismo tama{-n}o. Dibuja una l{'i}nea a su
+alrededor.
+!******************************!
+[ec0b01000b000000:0205010000]
+{^!}Eso es!
+
+En realidad no es tan dif{'i}cil, pero
+parece que a mucha gente le cuesta
+bastante resolverlo.
+!******************************!
+[ed0b01000c000000:0271010000]
+{^!}Qu{'e} pena!
+
+Observa el mosaico una vez m{'a}s.
+!******************************!
+[ee0b01000d000000:02a6010000]
+La forma est{'a} a la vista desde el
+principio, pero al ojo le cuesta
+reconocerla. F{'i}jate bien.
+!******************************!
+[ef0b01000e000000:0209020000]
+Puede que las l{'i}neas interiores te
+distraigan y te impidan reconocer
+la forma que buscas. Intenta dibujar
+signos de suma con la funci{'o}n
+de las notas. Quiz{'a} eso ayude.
+!******************************!
+[f00b01000f000000:02b9020000]
+Conc{'e}ntrate en la mitad superior. Hay
+un lugar donde deber{'i}a poder dibujarse
+un signo de suma.
+!******************************!
+[f10b010010000000:021e030000]
+Mira bien, arriba a la derecha. Ah{'i}
+es donde se esconde el signo de suma.
+!******************************!

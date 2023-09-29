@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Tras llegar a lo alto de la pagoda,
+el profesor se prepara para
+enfrentarse a su siniestro doble.
+!******************************!
+[7117030004000000:001400000002000000000272000000]
+ナレーション
+!******************************!
+<T>{^?}Podr{'a} Layton acabar con la
+m{'a}quina del tiempo de una vez
+por todas?
+!******************************!

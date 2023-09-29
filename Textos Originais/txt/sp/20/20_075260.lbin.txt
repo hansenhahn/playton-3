@@ -1,0 +1,54 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>{^?}Te est{'a}s acostumbrando ya a
+moverte por la ciudad de Londres
+para explorar?
+!******************************!
+[7117030004000000:000a00000002000000000263000000]
+ナレーション
+!******************************!
+<T>Aqu{'i} tienes un consejo que te
+ayudar{'a} bastante en tu aventura.
+!******************************!
+[7117030007000000:000a000000020000000002ab000000]
+ナレーション
+!******************************!
+<T>Algunos puzles desaparecer{'a}n
+de sus ubicaciones a medida
+que avance la historia.
+!******************************!
+[711703000a000000:000a00000002000000000202010000]
+ナレーション
+!******************************!
+<T>{^!}Pero no hay nada que temer!
+!******************************!
+[711703000d000000:000a00000002000000000225010000]
+ナレーション
+!******************************!
+<T>La mayor{'i}a de los puzles que no
+hayas resuelto ir{'a}n a parar a un
+sitio concreto para tu comodidad.
+!******************************!
+[7117030010000000:000a00000002000000000291010000]
+ナレーション
+!******************************!
+<T>P{'a}sate por ese sitio a menudo para
+resolver esos puzles. {^!}As{'i} podr{'a}s
+aspirar a completarlos todos!
+!******************************!
+[7117030013000000:000a00000002000000000203020000]
+ナレーション
+!******************************!
+<T>Recuerda tambi{'e}n que algunos
+puzles no se mueven nunca de
+su ubicaci{'o}n original.
+!******************************!
+[7117030016000000:000a0000000200000000025d020000]
+ナレーション
+!******************************!
+<T>Puedes resolver estos puzles en
+cualquier momento volviendo al
+sitio donde los encontraste.
+!******************************!

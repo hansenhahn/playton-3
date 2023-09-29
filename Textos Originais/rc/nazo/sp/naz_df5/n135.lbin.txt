@@ -1,0 +1,88 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n135
+!******************************!
+n135a
+!******************************!
+n135b
+!******************************!
+[eb0b01000a000000:0211000000]
+Dos personas, A y B, hablan sobre el
+n{'u}mero de cajas de cerillas que hay en
+una mesa. A describe las cajitas tal como
+se ven desde arriba (diagrama superior).
+B las describe tal como se ven desde un
+lado, pero no sabemos cu{'a}l (diagrama
+inferior).
+
+{^?}Cu{'a}l es el n{'u}mero m{'a}ximo de cajas de
+cerillas que puede haber sobre la mesa?
+!******************************!
+[ec0b01000b000000:0269010000]
+{^!}Qu{'e} lumbrera!
+
+21 cajas de cerillas.
+El esquema que se muestra arriba
+te permite tener el m{'a}ximo n{'u}mero
+posible de cajas de cerillas.
+!******************************!
+[ed0b01000c000000:02fc010000]
+{^!}L{'a}stima!
+
+Intenta imaginarte la disposici{'o}n de
+las cajas de cerillas desde todas las
+direcciones: por delante, por detr{'a}s,
+por la derecha y por la izquierda.
+!******************************!
+[ee0b01000d000000:02a7020000]
+Toma la disposici{'o}n descrita por A
+en la parte superior e imag{'i}nate que
+B la est{'a} mirando por la derecha.
+De izquierda a derecha, en la
+descripci{'o}n de B cada fila de cajas
+de cerillas contendr{'a} un m{'a}ximo de:
+2 pilas de 2 capas
+3 pilas de 3 capas
+3 pilas de 1 capa
+2 pilas de 2 capas
+As{'i} que el m{'a}ximo de cajas de
+cerillas en este caso ser{'i}a de 20.
+!******************************!
+[ef0b01000e000000:021e040000]
+Ahora f{'i}jate en el diagrama de A
+e imag{'i}nate que B lo est{'a} mirando
+desde abajo. Siguiendo el diagrama
+de B de izquierda a derecha, cada fila
+de cajas de cerillas contendr{'i}a hasta:
+3 pilas de 2 capas
+1 pila de 3 capas
+2 pilas de 1 capa
+4 pilas de 2 capas
+Por tanto el n{'u}mero m{'a}ximo posible de
+cajas de cerillas aqu{'i} ser{'i}a de 19.
+!******************************!
+[f00b01000f000000:027e050000]
+En tercer lugar, toma la disposici{'o}n de
+A e imag{'i}nate que B la est{'a} mirando
+desde la izquierda. Siguiendo la
+descripci{'o}n de B de izquierda a derecha,
+cada hilera de cajas de cerillas
+contendr{'a} un m{'a}ximo de:
+2 pilas de 2 capas
+3 pilas de 3 capas
+3 pilas de 1 capa
+2 pilas de 2 capas
+As{'i} que el n{'u}mero m{'a}ximo de cajas de
+cerillas ser{'i}a en este caso de 20.
+!******************************!
+[f10b010010000000:02fe060000]
+Por {'u}ltimo, toma el diagrama de A e
+imag{'i}nate que B lo mira desde el lado
+superior.
+
+Calcula el n{'u}mero de cajas de cerillas
+como has visto en las anteriores
+pistas. Si ese n{'u}mero es mayor que
+20, ah{'i} tienes la respuesta.
+
+{^?}Cu{'a}ntas cajas cuentas?
+!******************************!

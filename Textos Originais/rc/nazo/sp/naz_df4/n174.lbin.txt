@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n174
+!******************************!
+n174a
+!******************************!
+n174b
+!******************************!
+[eb0b01000a000000:0211000000]
+Crea una operaci{'o}n v{'a}lida colocando
+las cinco fichas con n{'u}meros rojos en
+la fila de arriba sin dejarte ninguna.
+
+Los n{'u}meros verdes ya est{'a}n colocados
+y no pueden cambiarse de sitio.
+!******************************!
+[ec0b01000b000000:02d8000000]
+{^!}No se te escapa una!
+
+Has girado 45{o} el signo de la suma para
+convertirlo en uno de multiplicaci{'o}n,
+has girado 180{o} el n{'u}mero 6 para
+convertirlo en un 9 y has girado 90{o}
+el n{'u}mero 1 para que quede como un
+signo de resta. {^!}Qu{'e} ojo tienes!
+!******************************!
+[ed0b01000c000000:02df010000]
+{^!}Qu{'e} pena!
+
+{^?}Te has fijado en que puedes girar
+las fichas adem{'a}s de moverlas?
+!******************************!
+[ee0b01000d000000:0239020000]
+{^!}Tambi{'e}n puedes girar las fichas!
+
+El n{'u}mero uno (1) puede convertirse en
+un signo de resta (-) y el signo de suma
+(+) puede convertirse en un signo de
+multiplicaci{'o}n (x). Adem{'a}s, el 6 puede
+convertirse en un 9.
+!******************************!
+[ef0b01000e000000:021c030000]
+
+!******************************!
+[f00b01000f000000:021d030000]
+
+!******************************!
+[f10b010010000000:021e030000]
+
+!******************************!

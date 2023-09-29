@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n090
+!******************************!
+n090a
+!******************************!
+n090b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir la puerta tendr{'a}s que pulsar
+ciertos n{'u}meros, de acuerdo con
+estas cr{'i}pticas instrucciones:
+
+{''}Se abre con dos, pero deja cuatro.{''}
+
+Pulsar el dos y no pulsar el cuatro
+no va a funcionar. {^?}Qu{'e} habr{'a} que
+hacer para abrirla?
+!******************************!
+[ec0b01000b000000:0211010000]
+{^!}Bingo!
+
+La soluci{'o}n consiste en tocar los n{'u}meros
+que juntos forman la figura de un 2.
+
+{''}Deja cuatro{''} simplemente quiere decir
+que dejes cuatro n{'u}meros sin tocar.
+!******************************!
+[ed0b01000c000000:02c7010000]
+{^!}L{'a}stima!
+
+Intenta pensar de otra manera.
+!******************************!
+[ee0b01000d000000:02f7010000]
+Para abrir la puerta tendr{'a}s que
+interpretar correctamente las
+instrucciones. En realidad no tiene
+tanto misterio. Solo tienes que
+cambiar de enfoque.
+!******************************!
+[ef0b01000e000000:0291020000]
+Intenta pensar en {''}se abre con dos{''}
+en un sentido algo m{'a}s amplio.
+No te concentres solo en los n{'u}meros
+que hay en cada bot{'o}n.
+!******************************!
+[f00b01000f000000:021f030000]
+{''}Se abre con dos{''} significa que los
+n{'u}meros correctos, al iluminarse,
+deben tomar la forma de un 2.
+!******************************!
+[f10b010010000000:028c030000]
+Pulsa el 1, el 2, el 3, 6, 9, 8, 7...
+{^?}No ves aparecer un n{'u}mero?
+
+{^!}Eso es! Se trata de pulsar
+los n{'u}meros que, al iluminarse,
+forman juntos un 2.
+Interesante, {^?}verdad?
+
+Y tambi{'e}n ves que son cuatro los
+botones que has dejado sin tocar...
+A eso se refer{'i}a la segunda parte
+de las instrucciones.
+!******************************!

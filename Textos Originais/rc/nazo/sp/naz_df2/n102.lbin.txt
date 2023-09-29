@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n102
+!******************************!
+n102a
+!******************************!
+n102b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo puedes ver dos colgantes, uno
+de oro a la izquierda y otro de plata
+a la derecha.
+
+Deslizando los bloques, {^?}te ves capaz
+de cambiar las posiciones de los
+colgantes?
+!******************************!
+[ec0b01000b000000:02bf000000]
+{^!}Excelente trabajo!
+
+En los puzles donde hay que deslizar
+paneles como este suele haber 15 bloques
+y un solo espacio libre. Sin embargo, en
+este puzle hay dos espacios libres. Eso
+lo hace m{'a}s sencillo, {^?}verdad?
+
+Por cierto, {^?}alguien sabe de d{'o}nde han
+salido estos colgantes? {^!}{^?}Podr{'i}an ser...
+robados?!
+!******************************!
+[ed0b01000c000000:0205020000]
+{^!}L{'a}stima!
+
+{^!}Vuelve a intentarlo!
+!******************************!
+[ee0b01000d000000:022f020000]
+El colgante de plata tiene que quedar
+a la izquierda y el de oro a la derecha.
+
+{^?}Has notado que hay dos espacios
+vac{'i}os para maniobrar? Esto simplifica
+bastante las cosas. Sigue moviendo los
+paneles, {^!}y ver{'a}s que no es tan dif{'i}cil!
+!******************************!
+[ef0b01000e000000:0226030000]
+A diferencia de muchos de los puzles
+de este tipo, este puzle tiene dos
+espacios libres. Si los usas con
+habilidad, intercambiar los colgantes
+es en realidad bastante simple.
+!******************************!
+[f00b01000f000000:02d5030000]
+La clave est{'a} en no preocuparse por la
+posici{'o}n de cada panel individualmente,
+sino en llevar todos los bloques de cada
+colgante al lado opuesto.
+Una vez intercambiadas sus posiciones
+puedes dedicarte a poner cada panel en
+el lugar correcto hasta recomponer los
+colgantes.
+Sigue intent{'a}ndolo, {^!}t{'u} puedes!
+Aunque te decidas a usar la pista
+especial, no te dir{'a} exactamente
+c{'o}mo resolver el puzle...
+!******************************!
+[f10b010010000000:0278050000]
+Vaya, no lo pod{'i}as resistir, {^?}eh?
+Bueno, no pasa nada.
+
+Es f{'a}cil cambiar de lugar los colgantes
+si utilizas los dos espacios vac{'i}os.
+Mant{'e}n esos dos espacios arriba, abajo
+o a los lados de los paneles que quieras
+colocar en su sitio, y no tendr{'a}s
+problemas para maniobrar con ellos.
+Ver{'a}s que s{'i}, {^!}prueba otra vez!
+!******************************!

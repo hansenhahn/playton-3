@@ -1,0 +1,61 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000209000000]
+ジジック
+!******************************!
+<T><A5/5>Chico, {^?}te importar{'i}a dejar de
+mirarme as{'i}? Me est{'a}s empezando
+a poner nervioso.
+!******************************!
+[7117030004000000:000a000000026f000000027a000000]
+未来ルーク
+!******************************!
+<T><A2/2>Lo siento mucho, se{-n}or. Es que
+tiene usted cara de bastante
+preocupaci{'o}n.
+!******************************!
+[7117030007000000:000a000000020000000002d3000000]
+ジジック
+!******************************!
+<T><A1/1>Ah, es eso. Llevo d{'a}ndole vueltas
+a este puzle toda la semana y a{'u}n
+no he podido dar con la soluci{'o}n.
+!******************************!
+[711703000a000000:00e80300000200000000024b010000]
+ジジック
+!******************************!
+<T><A2/5>{^?}Nada?<W> Estoy empezando a
+pensar que este puzle es
+imposible de resolver.
+!******************************!
+[711703000d000000:00d0070000020000000002a3010000]
+ジジック
+!******************************!
+<T><A1/1>{^?}Quieres ayudar a un pobre
+anciano con un puzle muy dif{'i}cil?
+!******************************!
+[7117030010000000:00b80b0000020000000002ef010000]
+ジジック
+!******************************!
+<T><A2/1>{^!}Por fin podr{'e} dormir tranquilo
+sin que me atormente ese
+terrible puzle!
+!******************************!
+[7117030013000000:00b80b000002000000000247020000]
+ジジック
+!******************************!
+<T>Muchas gracias por tu ayuda.
+!******************************!
+[7117030016000000:00b80b0000026f0000000267020000]
+未来ルーク
+!******************************!
+<T><A1/2>Ha sido un placer. Es el deber de
+todo caballero ayudar a quien lo
+necesita.
+!******************************!
+[7117030019000000:00a00f0000020000000002bd020000]
+ジジック
+!******************************!
+<T><A3/6>Me pone algo nervioso que la
+gente me mire, as{'i} que tened
+un poco de discreci{'o}n.
+!******************************!

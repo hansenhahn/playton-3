@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n100
+!******************************!
+n100a
+!******************************!
+n100b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}En este documento sellado encontrar{'a}
+toda la informaci{'o}n acerca de nuestra
+nueva aventura. Por cierto, {^?}le gusta mi
+sello de cera? Es como el que usa usted
+para sellar sus sobres y documentos
+m{'a}s importantes, pero con la forma de mi
+sombrero y la L de Luke. Ya lo he usado
+una vez. F{'i}jese, {^?}a que es bonita la
+marca en la cera azul? {^!}Ha dejado la
+forma de mi sombrero!
+Bueno, pues ah{'i} va mi puzle: {^?}cu{'a}l de
+los cuatro sellos, A, B, C o D, dej{'o}
+esa impresi{'o}n?{''}
+Rodea la respuesta correcta y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:023a020000]
+{^!}Qu{'e} maravilla!
+
+Lo dif{'i}cil es encontrar las diferencias
+entre todas las formas de los sombreros
+y darse cuenta de que la L del sello
+correcto tiene que estar mirando hacia
+la izquierda.
+
+Por cierto, la {''}L{''} vale tanto para Luke
+como para Layton. {^!}Qu{'e} bien nos viene!
+
+{''}{^!}Venga, profesor! {^!}Rompa el sello y
+lea el documento!{''}
+!******************************!
+[ed0b01000c000000:029f030000]
+{^!}Qu{'e} pena!
+
+{''}{^!}Dese prisa, profesor! {^!}Tiene que leer
+el documento que he sellado!{''}
+!******************************!
+[ee0b01000d000000:0203040000]
+No olvides que el sello dejar{'a} una marca
+que ser{'a} como su imagen reflejada
+en un espejo.
+!******************************!
+[ef0b01000e000000:0262040000]
+Todos los sellos son circulares, as{'i}
+que presta atenci{'o}n a lo que tienen
+dentro: un contorno con forma
+de sombrero y una letra L.
+
+F{'i}jate hacia qu{'e} lado est{'a}
+dibujada la letra L.
+!******************************!
+[f00b01000f000000:0224050000]
+El sello B no tiene la L mirando
+hacia la izquierda, as{'i} que ya lo
+puedes descartar.
+
+Ahora observa con cuidado las formas
+de los sombreros en los sellos A, C y D.
+!******************************!
+[f10b010010000000:02cb050000]
+En el sello A, la parte superior
+del sombrero est{'a} tocando el contorno
+del c{'i}rculo, de modo que tambi{'e}n
+puedes eliminar este sello.
+
+{^!}Solo puede ser el sello C o el D!
+!******************************!

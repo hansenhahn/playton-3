@@ -1,0 +1,54 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>{^!}Hallo, mein amico! Me temo que sono
+un peu peurdido.
+!******************************!
+[7117030004000000:000f00000002490000000252000000]
+レイトン
+!******************************!
+<T>Ah, hola, Polo. Qu{'e} casualidad
+verle por aqu{'i}.<W> {^?}Ad{'o}nde se dirige
+esta vez?
+!******************************!
+[7117030007000000:001200000002af00000002b6000000]
+ポーロ
+!******************************!
+<T>Le{'i} un magnifique art{'i}culo sobre
+las cavernosas cavidades del
+mondo y las veni a vidi vici.
+!******************************!
+[711703000a000000:00120000000249000000021b010000]
+レイトン
+!******************************!
+<T>Ah, s{'i}... Una conocida teor{'i}a
+sugiere que existen cavernas
+subterr{'a}neas por todo el mundo.
+!******************************!
+[711703000d000000:001200000002af0000000282010000]
+ポーロ
+!******************************!
+<T>{^!}Hai! Veo que capisce usted. Quer{'i}a
+ver las de Roma, pero non todos
+los caminos llevan ah{'i}.
+!******************************!
+[7117030010000000:001400000002ea01000002f1010000]
+ルーク
+!******************************!
+<T>{^?}C{'o}mo? {^?}Que estaba intentando
+llegar a Roma y acab{'o} aqu{'i}?
+!******************************!
+[7117030013000000:001400000002af000000023d020000]
+ポーロ
+!******************************!
+<T>Yes. Los caminen del viajeren son
+inexcrutosos, pero seguro que
+llego salvo und sano.
+!******************************!
+[7117030016000000:001400000002af0000000296020000]
+ポーロ
+!******************************!
+<T>A ustedes les plac{'i}an los puzles,
+{^?}ja? A ver si me risolven aqueste.
+!******************************!

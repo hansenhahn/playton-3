@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n176
+!******************************!
+n176a
+!******************************!
+n176b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} tienes una fotograf{'i}a de cuatro
+marcianos. El marciano Pampollo est{'a}
+m{'a}s a la derecha que el marciano
+Pimpollo, y el marciano Pumpollo
+est{'a} m{'a}s a la izquierda que Pampollo.
+El marciano Pempollo est{'a} m{'a}s a la
+derecha que el marciano Pimpollo.
+
+Si el marciano que est{'a} dos lugares a la
+derecha de Pumpollo no es Pempollo,
+{^?}cu{'a}l es? Toca A si es Pampollo y
+B si es Pimpollo.
+!******************************!
+[ec0b01000b000000:02ab010000]
+{^!}Eres lo mejor de la galaxia!
+
+Es A, el marciano Pampollo.
+Hay dos posibles colocaciones que
+cumplen estas condiciones, pero en
+cualquiera de los dos casos el marciano
+que est{'a} dos puestos a la derecha del
+marciano Pumpollo es Pampollo.
+!******************************!
+[ed0b01000c000000:029e020000]
+{^!}Qu{'e} pena!
+
+{^?}Te has liado con los nombres de los
+marcianos?
+!******************************!
+[ee0b01000d000000:02e3020000]
+Prueba las distintas posibilidades para
+el marciano dos puestos a la derecha de
+Pumpollo.
+
+Si repasas las condiciones del puzle,
+acabar{'a}s eliminando a un candidato
+y obtendr{'a}s la respuesta.
+!******************************!
+[ef0b01000e000000:02a7030000]
+
+!******************************!
+[f00b01000f000000:02a8030000]
+
+!******************************!
+[f10b010010000000:02a9030000]
+
+!******************************!

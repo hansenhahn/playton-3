@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000010000000000000000]
+n094
+!******************************!
+n094a
+!******************************!
+n094b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este suelo consta de 24 baldosas y est{'a}
+especialmente dise{-n}ado para que se
+hundan una tras otra hasta que no quede
+ninguna. Al hundirse una, alguna otra
+adyacente (no en diagonal) caer{'a} a
+continuaci{'o}n, formando un camino seg{'u}n
+este orden: corazones, picas, diamantes
+y tr{'e}boles. La primera baldosa en caer
+no tiene por qu{'e} ser un coraz{'o}n.
+
+Si sabes cu{'a}l ser{'a} la {'u}ltima baldosa
+en caer, {^!}podr{'a}s impedir que todo el
+suelo desaparezca! Toca la {'u}ltima
+baldosa y luego toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:021f020000]
+{^!}Excelente!
+
+{^!}Un trabajo impresionante!
+!******************************!
+[ed0b01000c000000:024d020000]
+{^!}L{'a}stima!
+
+Si no eres capaz de identificar la {'u}ltima
+baldosa, {^!}todo el suelo se hundir{'a}!
+
+Int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:02cd020000]
+Primero elige una baldosa al azar
+y mira hasta d{'o}nde llegar{'i}as
+a partir de ella.
+Tienes que encontrar la baldosa
+que pueda desencadenar la ca{'i}da
+de todas las dem{'a}s.
+!******************************!
+[ef0b01000e000000:027e030000]
+Si llegas a un punto muerto antes de que
+hayan desaparecido todas las baldosas,
+tendr{'a}s que partir de otra o probar en
+una direcci{'o}n diferente.
+!******************************!
+[f00b01000f000000:0214040000]
+La primera baldosa en caer ser{'a}
+un diamante, y la {'u}ltima, una pica.
+!******************************!
+[f10b010010000000:025e040000]
+La {'u}ltima baldosa en caer ser{'a}
+una de las dos picas en la segunda
+columna comenzando por la izquierda.
+!******************************!

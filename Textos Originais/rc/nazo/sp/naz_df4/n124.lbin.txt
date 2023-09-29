@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n124
+!******************************!
+n124a
+!******************************!
+n124b
+!******************************!
+[eb0b01000a000000:0211000000]
+La imagen que ves abajo es la fotograf{'i}a
+de la superficie de un estanque tras
+haber tirado un pu{-n}ado de piedrecitas.
+
+Suponiendo que ninguna piedrecita cay{'o}
+en el mismo sitio, {^?}cu{'a}ntas se han
+lanzado? Todas las ondas que se ven
+en la foto se han producido por el
+impacto de una piedrecita.
+!******************************!
+[ec0b01000b000000:0242010000]
+{^!}Respuesta correcta!
+
+Han ca{'i}do seis piedrecitas en
+el estanque.
+!******************************!
+[ed0b01000c000000:0289010000]
+{^!}Est{'a}s fuera de onda!
+
+Prueba a utilizar la funci{'o}n de las notas
+para comprobar de d{'o}nde proviene cada
+ondulaci{'o}n.
+!******************************!
+[ee0b01000d000000:020b020000]
+Las ondulaciones que tengan el mismo
+centro provienen de la misma piedrecita,
+independientemente de su tama{-n}o.
+!******************************!
+[ef0b01000e000000:027d020000]
+Hay otra forma de plantear lo que te
+dec{'i}amos en la pista 1: el n{'u}mero de
+piedrecitas lanzadas al estanque es
+igual al de puntos centrales.
+!******************************!
+[f00b01000f000000:020f030000]
+Si crees que solo han ca{'i}do cuatro
+piedrecitas, echa otro vistazo.
+
+Por ejemplo, {^?}te has fijado
+en la ondulaci{'o}n m{'a}s grande?
+!******************************!
+[f10b010010000000:0298030000]
+La ondulaci{'o}n m{'a}s grande va de arriba
+abajo cruzando el centro de la foto.
+Es f{'a}cil confundirla con la
+ondulaci{'o}n que surge de la piedrecita
+que ha ca{'i}do en la esquina inferior
+izquierda, pero su aut{'e}ntico centro
+ni siquiera sale en la imagen.
+
+Pues bien, {^?}hay alguna m{'a}s?
+!******************************!

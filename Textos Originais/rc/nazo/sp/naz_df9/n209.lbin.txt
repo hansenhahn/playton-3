@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n209
+!******************************!
+n209a
+!******************************!
+n209b
+!******************************!
+[eb0b01000a000000:0211000000]
+El cuadrado de abajo est{'a} completamente
+lleno de bolas blancas y negras. Como
+ves, solo dos esquinas son visibles.
+{^!}Pero ojo! La parte no visible del
+cuadrado tiene una extensi{'o}n diferente
+de la que se aprecia en la pantalla.
+El borde exterior est{'a} ocupado solo por
+bolas negras, un total de 36. El resto
+son blancas, y no hay ning{'u}n hueco que
+no est{'e} ocupado por una bola.
+{^?}Cu{'a}ntas bolas blancas hay en total?
+Recuerda que la imagen que aparece m{'a}s
+abajo solo tiene fines ilustrativos.
+{^!}No la utilices para hacer tus c{'a}lculos!
+!******************************!
+[ec0b01000b000000:0242020000]
+{^!}Bien contado!
+
+Hay 64 bolas blancas en el cuadrado.
+Si hay 36 bolas negras en el borde
+exterior, eso significa que cada
+hilera, tanto horizontal como
+vertical, es de 10 bolas.
+
+Otra manera de resolverlo consiste
+en ver que los lados del cuadrado
+interior blanco tienen una longitud
+de 8 bolas. Y... {^!}8 x 8 = 64!
+!******************************!
+[ed0b01000c000000:0281030000]
+{^!}Qu{'e} pena!
+
+Hay 36 bolas negras rodeando el borde
+exterior, as{'i} que cada lado tiene que
+tener 9 bolas negras, {^?}no?
+
+Pues la verdad es que no es as{'i}.
+Piensa en ello e int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:024d040000]
+Como hay 36 bolas negras en el borde
+exterior, quiz{'a}s has pensado que cada
+lado del cuadrado est{'a} formado por
+9 bolas negras. Eso no es as{'i}.
+
+Las bolas de cada esquina est{'a}n
+compartidas por dos lados, con lo que
+cada lado est{'a} formado por 10 bolas
+negras.
+
+Intenta crear tu propio diagrama y
+obtendr{'a}s la soluci{'o}n r{'a}pidamente.
+!******************************!
+[ef0b01000e000000:02ac050000]
+
+!******************************!
+[f00b01000f000000:02ad050000]
+
+!******************************!
+[f10b010010000000:02ae050000]
+
+!******************************!

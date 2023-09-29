@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000001000000]
+n105
+!******************************!
+n105a
+!******************************!
+n105b
+!******************************!
+[eb0b01000a000000:0211000000]
+Al regresar a casa encuentras un extra{-n}o
+trozo de papel junto a tu calculadora.
+Parece que tu compa{-n}ero de piso
+intentaba decirte algo antes de irse.
+La nota dice {''}101 x 5{''}.
+
+{^?}Qu{'e} querr{'a} decir esta nota tan curiosa?
+!******************************!
+[ec0b01000b000000:02fe000000]
+{^!}Eso es!
+
+El mensaje dice SOS.
+
+Si realizas la operaci{'o}n 101 x 5
+con tu calculadora, puedes leer
+el resultado {''}505{''} como {''}SOS{''}.
+
+{^!}Tu compa{-n}ero ped{'i}a auxilio!
+!******************************!
+[ed0b01000c000000:02b7010000]
+{^!}L{'a}stima!
+
+La nota est{'a} junto a la calculadora...
+!******************************!
+[ee0b01000d000000:02f2010000]
+Recuerda, la nota estaba junto
+a la calculadora.
+!******************************!
+[ef0b01000e000000:0223020000]
+Vaya, una operaci{'o}n matem{'a}tica al
+lado de una calculadora...
+
+Ya sabes qu{'e} hacer.
+!******************************!
+[f00b01000f000000:027e020000]
+101 x 5 = 505
+
+En las calculadoras los n{'u}meros tienen
+un aspecto muy particular, {^?}no?
+!******************************!
+[f10b010010000000:02da020000]
+El resultado de la operaci{'o}n es 505.
+
+Seguramente has notado que el cinco
+se parece a una S y el cero a una O.
+!******************************!

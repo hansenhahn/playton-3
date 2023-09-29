@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n058
+!******************************!
+n058a
+!******************************!
+n058b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} tenemos unas extra{-n}as ecuaciones:
+
+0 + 1 = perro            0 + 2 = gato
+6 + 3 = perro            6 + 7 = perro perro
+7 + 9 = perro gato    11 + 12 = gato perro
+11 + 17 = gato gato
+
+Si todas las ecuaciones de arriba son
+correctas, {^?}cu{'a}l es el valor m{'i}nimo que
+puede tener {''}?{''} para que la siguiente
+ecuaci{'o}n tambi{'e}n se cumpla?
+
+1 + ? = perro perro perro
+!******************************!
+[ec0b01000b000000:0292010000]
+{^!}Brillante!
+
+La respuesta es 110.
+
+Un perro representa un n{'u}mero impar
+y un gato representa un n{'u}mero par.
+Por lo tanto, el n{'u}mero m{'a}s peque{-n}o
+con el que puedes conseguir {''}perro
+perro perro{''} es 111, que resulta de
+sumarle 110 a 1.
+!******************************!
+[ed0b01000c000000:0291020000]
+Qu{'e} suerte m{'a}s perra...
+
+Piensa qu{'e} pueden representar los gatos
+y los perros.
+!******************************!
+[ee0b01000d000000:02e9020000]
+Lo que tenemos aqu{'i} son ecuaciones,
+as{'i} que los perros y los gatos seguro
+que tienen algo que ver con n{'u}meros.
+!******************************!
+[ef0b01000e000000:0261030000]
+Intenta sumar los n{'u}meros a la izquierda
+de cada ecuaci{'o}n y mira qu{'e} resultados
+obtienes. {^?}Vas pillando lo que
+representan los gatos y los perros?
+!******************************!
+[f00b01000f000000:0200040000]
+Si te fijas en los resultados de
+las ecuaciones, ver{'a}s que los perros
+representan n{'u}meros impares
+y los gatos n{'u}meros pares.
+!******************************!
+[f10b010010000000:0286040000]
+Los perros son n{'u}meros impares,
+y los gatos n{'u}meros pares.
+Si tienes un n{'u}mero de tres d{'i}gitos
+impares, {^?}cu{'a}l es el valor m{'i}nimo
+que puede tener cada uno?
+!******************************!

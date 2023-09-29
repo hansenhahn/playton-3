@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000610400000061040000000100000000000000000000000000]
+n108
+!******************************!
+n108a
+!******************************!
+n108b
+!******************************!
+[eb0b01000a000000:0211000000]
+Una amiga te ha enviado una invitaci{'o}n
+para que la visites. Sin embargo, la
+redacci{'o}n es un poquito extra{-n}a.
+{''}Primero llama a cierta puerta. Despu{'e}s
+llama a la que est{'a} debajo y luego a
+la que est{'a} debajo de esta. Ahora llama
+a la puerta que est{'a} a su derecha. Por
+{'u}ltimo, llama a una puerta m{'a}s a la
+derecha. {^!}Ah{'i} es donde vivo yo!{''}
+
+Toca la puerta de tu amiga para
+abrirla y aseg{'u}rate de que no has
+dejado otras puertas abiertas cuando
+des tu respuesta.
+!******************************!
+[ec0b01000b000000:0203020000]
+{^!}Esa era la puerta!
+
+Aunque no sepas cu{'a}l es esa {''}cierta
+puerta{''} a la que se refiere tu amiga,
+la de la esquina superior izquierda
+es la {'u}nica a partir de la cual te puedes
+mover dos puertas m{'a}s hacia abajo
+y otras dos hacia la derecha.
+Por lo tanto, {^!}la puerta de tu amiga
+solo puede ser la que est{'a} en la esquina
+inferior derecha!
+!******************************!
+[ed0b01000c000000:0268030000]
+{^!}Qu{'e} l{'a}stima!
+
+{^!}No hagas esperar a tu amiga!
+!******************************!
+[ee0b01000d000000:02a1030000]
+Intenta descubrir cu{'a}l es esa {''}cierta
+puerta{''} a la que se refiere tu amiga
+y empieza por ah{'i}.
+!******************************!
+[ef0b01000e000000:020b040000]
+Si sabes cu{'a}l es la primera puerta
+a la que tienes que llamar, no deber{'i}as
+tener problemas para encontrar
+la puerta de tu amiga.
+
+Solo hay una puerta a partir
+de la cual se pueden seguir exactamente
+las instrucciones que te han dado.
+!******************************!
+[f00b01000f000000:02fb040000]
+La puerta de tu amiga est{'a} dos lugares
+m{'a}s abajo y dos m{'a}s a la derecha
+de la primera puerta a la que tienes
+que llamar.
+
+Si en cada fila y en cada columna solo
+hay tres puertas, entonces...
+!******************************!
+[f10b010010000000:02c3050000]
+Comienza por la puerta en la esquina
+superior izquierda y sigue las
+instrucciones que te ha dejado
+tu amiga.
+
+Antes de dar tu respuesta,
+no olvides cerrar las puertas
+que no son la de tu amiga.
+!******************************!

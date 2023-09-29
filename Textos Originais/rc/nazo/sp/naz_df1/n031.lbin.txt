@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n031
+!******************************!
+n031a
+!******************************!
+n031b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este gato intenta encontrarse con su
+amada. El problema es que los perros
+situados en las casillas X pueden oler
+un gato a una distancia de hasta tres
+casillas y atraparlo desde all{'i}.
+Por lo menos no pueden oler a trav{'e}s
+de las paredes, as{'i} que con eso no
+hay problema.
+
+{^?}Qu{'e} entrada, A, B, C o D, tendr{'a} que
+coger el gato para reunirse con ella?
+!******************************!
+[ec0b01000b000000:027e010000]
+{^!}Miauuuravilloso!
+
+C es la respuesta correcta.
+{^!}Por fin juntos!
+!******************************!
+[ed0b01000c000000:02c4010000]
+{^!}Qu{'e} l{'a}stima!
+
+Int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:02f3010000]
+Buscar un camino a partir de cada
+entrada es complicado.
+
+Comienza por fijarte en la posici{'o}n
+que ocupan los perros.
+!******************************!
+[ef0b01000e000000:026b020000]
+{^?}En qu{'e} sitios habr{'i}a que tener
+cuidado con los perros?
+Marcar las zonas peligrosas usando
+la funci{'o}n de las notas puede ser
+muy {'u}til.
+!******************************!
+[f00b01000f000000:0201030000]
+{^?}Has probado a rellenar las casillas
+peligrosas? Si lo has hecho, el camino
+seguro deber{'i}a estar a la vista.
+!******************************!
+[f10b010010000000:0274030000]
+En los caminos peligrosos podr{'a}s
+doblar tres esquinas, pero un perro
+te alcanzar{'a} justo despu{'e}s de doblar
+la cuarta.
+
+Si consigues doblar cuatro esquinas
+sin que te pille un perro, {^!}ya est{'a}s
+a salvo!
+!******************************!

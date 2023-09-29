@@ -1,0 +1,1333 @@
+[7017010000000000:005f000000]
+[7117030001000000:000100000002000000000210000000]
+Profesor Layton
+!******************************!
+Hershel Layton es
+un reputado profesor
+de arqueolog{'i}a cuyas
+dos grandes pasiones
+son los puzles y el t{'e}.
+Su posesi{'o}n m{'a}s
+preciada es el
+sombrero de copa
+que le regal{'o} su
+novia, Claire.
+!******************************!
+[7117030004000000:000200000002d800000002dd000000]
+Luke
+!******************************!
+El aprendiz del profesor
+es un ni{-n}o muy listo que
+puede resolver hasta
+los puzles m{'a}s dif{'i}ciles
+para los adultos.
+Su capacidad de hablar
+con los animales ha
+salvado m{'a}s de un
+caso y su apetito es
+legendario.
+!******************************!
+[7117030007000000:000300000002b901000002bf010000]
+Flora
+!******************************!
+Flora es la protegida y
+devota seguidora del
+profesor, que se niega
+a quedarse sola cuando
+Luke y el profesor se
+van a investigar. Le
+gusta cocinar y, aunque
+cada vez lo hace mejor,
+sus platos han revuelto
+m{'a}s de un est{'o}mago.
+!******************************!
+[711703000a000000:000400000002a702000002b1020000]
+Don Paolo
+!******************************!
+Don Paolo se cree
+el archienemigo de
+Layton. Su aspecto
+cambi{'o} para siempre
+cuando se enter{'o} de
+que su amada Claire
+era la novia de Hershel
+Layton. Su habilidad
+como inventor solo es
+comparable a su dominio
+del disfraz.
+!******************************!
+[711703000d000000:0005000000029303000002a5030000]
+Inspector Chelmey
+!******************************!
+Los delincuentes de
+Londres se revuelven
+en sus guaridas solo
+con o{'i}r su nombre.
+Chelmey tiene un
+fuerte sentido de la
+justicia y hace lo
+imposible para poner
+a un criminal entre
+rejas. En casa es
+un marido modelo.
+!******************************!
+[7117030010000000:0006000000027f0400000286040000]
+Barton
+!******************************!
+A Barton le gustan los
+placeres sencillos de la
+vida, aunque a veces
+pone en evidencia al
+inspector Chelmey. Su
+amor por su trabajo
+solo se ve empa{-n}ado
+por los arrebatos de
+hambre que satisface
+con frecuentes visitas
+a la cafeter{'i}a.
+!******************************!
+[7117030013000000:000700000002750500000285050000]
+Luke del futuro
+!******************************!
+Es una versi{'o}n de
+Luke diez a{-n}os mayor
+que busca la ayuda de
+Layton para erradicar
+el mal que impera en
+el Londres del futuro.
+Aunque es mayor que
+Luke, conserva su
+amor por los puzles.
+En realidad es Clive
+disfrazado.
+!******************************!
+[7117030016000000:00080000000266060000026e060000]
+Celeste
+!******************************!
+Celeste dice ser la
+hermana de Claire, y
+pone el futuro Londres
+patas arriba en busca
+de pistas que la ayuden
+a resolver el misterio
+de la muerte de su
+hermana. M{'a}s adelante
+se desvela que ella es
+la propia Claire.
+!******************************!
+[7117030019000000:000900000002480700000256070000]
+Dimitri Allen
+!******************************!
+El amor de Dimitri hacia
+Claire era tan obsesivo
+que le llev{'o} a raptar a
+cient{'i}ficos para
+construir una m{'a}quina
+del tiempo. Es un hombre
+muy inteligente, pero se
+dej{'o} embaucar por Clive,
+que lo utiliz{'o} para sus
+malvados planes.
+!******************************!
+[711703001c000000:000a00000002490800000254080000]
+Bill Hawks
+!******************************!
+Bill, el primer ministro
+del Reino Unido, trabaj{'o}
+con Dimitri hace a{-n}os
+en el desarrollo de una
+m{'a}quina del tiempo.
+Acab{'o} traicionando
+a su colega para llegar
+a lo m{'a}s alto y, aunque
+Dimitri lo secuestr{'o} en
+venganza, Bill no se ha
+arrepentido de aquello.
+!******************************!
+[711703001f000000:000b0000000265090000026d090000]
+Crystal
+!******************************!
+Cuando no trabaja en
+la relojer{'i}a, Crystal se
+dedica a leer revistas
+de cotilleos para estar
+al tanto de lo que pasa
+en el mundo del famoseo.
+Tambi{'e}n le gusta bordar,
+pero Quartz le apaga
+las luces sin cesar para
+sus propios proyectos.
+!******************************!
+[7117030022000000:000c000000025f0a000002660a0000]
+Quartz
+!******************************!
+Quartz, el relojero, fue
+el criado de los Dove
+hace a{-n}os. El plan de
+Clive le sirvi{'o} para
+desarrollar su pasi{'o}n
+aut{'e}ntica, los relojes.
+Todas las piezas de la
+tienda son obras suyas.
+Excepto el reloj grande,
+claro.
+!******************************!
+[7117030025000000:000d00000002490b0000025d0b0000]
+Schrader del futuro
+!******************************!
+Se trata de Don Paolo
+disfrazado de Andrew
+Schrader. El parecido
+era perfecto, pero Don
+Paolo no pudo evitar
+soltarle una peque{-n}a
+indirecta a Layton,
+su archienemigo y el
+alumno favorito del
+Dr. Schrader.
+!******************************!
+[7117030028000000:000e000000022d0c000002400c0000]
+Delmann del futuro
+!******************************!
+El decano Delmann del
+futuro era en realidad
+Don Paolo disfrazado.
+Se puso una peluca
+canosa para dar a
+entender que el decano
+hab{'i}a envejecido diez
+a{-n}os, pero este toque
+sutil fue precisamente
+su error.
+!******************************!
+[711703002b000000:000f00000002120d000002180d0000]
+Blake
+!******************************!
+Blake es el cartero que
+entrega la carta del
+futuro a Layton. Ten{'i}a
+una figura esbelta, pero
+su amor por la comida
+del restaurante de
+Paillard ha redondeado
+su silueta. Trabaj{'o} como
+jardinero en la casa de
+los Dove hace a{-n}os.
+!******************************!
+[711703002e000000:001000000002030e000002110e0000]
+Yaya Enigmina
+!******************************!
+La guardiana de los
+puzles, Enigmina, sol{'i}a
+guardar los puzles que
+Luke y Layton dejaban
+sin resolver, pero ha
+traspasado esta tarea
+a Puzelina, su nieta, y
+se ha ido de vacaciones.
+Ahora aparece en los
+lugares m{'a}s inusitados.
+!******************************!
+[7117030031000000:001100000002fa0e000002030f0000]
+Puzelina
+!******************************!
+Puzelina, la nieta de la
+yaya Enigmina, es su
+sucesora como
+guardiana de los puzles
+perdidos. Es muy
+inocente y tiene cierta
+agresividad ingenua.
+Parece que siempre
+est{'a} adormilada, pero
+no es bueno fiarse de
+las apariencias...
+!******************************!
+[7117030034000000:001200000002ea0f000002f30f0000]
+Aguijino
+!******************************!
+Aguijino es un tipo
+hablador que adora
+el n{'e}ctar de las flores
+enigm{'a}ticas. Habr{'i}a
+sido curioso saber c{'o}mo
+se convirti{'o} en guardi{'a}n
+de los puzles, pero
+Puzelina odia los
+insectos, as{'i} que hemos
+perdido esa historia
+para siempre.
+!******************************!
+[7117030037000000:001300000002ed10000002f2100000]
+Loro
+!******************************!
+Este inteligente loro
+tiene facilidad para
+aprender palabras y
+usarlas en el momento
+apropiado. En el
+laboratorio de Dimitri
+tambi{'e}n desarroll{'o} la
+capacidad de entregar
+objetos de valor a sus
+respectivos due{-n}os.
+!******************************!
+[711703003a000000:001400000002cf11000002d9110000]
+Sujeto 03
+!******************************!
+El Sujeto 03 tiene
+mucha personalidad.
+Desconf{'i}a plenamente
+de los humanos tras
+haber sido objeto de
+experimentos por parte
+del equipo de Dimitri.
+Era un conejo normal,
+pero en el laboratorio
+adquiri{'o} la habilidad de
+andar sobre dos patas.
+!******************************!
+[711703003d000000:001500000002cf12000002d6120000]
+Bostro
+!******************************!
+Bostro es uno de los
+secuaces de Dimitri.
+{'E}l nunca ha dudado
+que su jefe fuera el
+cabecilla de la Familia
+y siempre le ha sido
+fiel. Esta devoci{'o}n
+ciega lo convirti{'o} en
+un pe{'o}n {'u}til para Clive,
+pero {'e}l prefiere ignorar
+la cruda realidad.
+!******************************!
+[7117030040000000:001600000002d613000002de130000]
+Esbirro
+!******************************!
+Estos omnipresentes
+esbirros suelen vigilar
+las calles de la ciudad.
+Parecen id{'e}nticos,
+pero cada uno tiene
+su propia personalidad.
+Son muy maleducados,
+pero les interesan
+mucho los puzles.
+!******************************!
+[7117030043000000:0017000000029f14000002a9140000]
+Prognatti
+!******************************!
+Prognatti finge que
+trabaja para Bostro,
+pero en realidad solo
+responde ante Clive.
+Sin embargo, a menudo
+se le escapa informaci{'o}n
+importante, por lo que
+es m{'a}s bien una carga
+para su jefe.
+!******************************!
+[7117030046000000:0018000000026d1500000275150000]
+Peppino
+!******************************!
+Peppino es un hombre
+bruto y sanguinario que
+trabaja para Bostro.
+Le gusta coleccionar
+relojes antiguos y
+visita de vez en
+cuando la relojer{'i}a.
+Aunque solo tiene
+28 a{-n}os, empieza a
+preocuparle su calva
+incipiente.
+!******************************!
+[7117030049000000:001900000002511600000257160000]
+Basil
+!******************************!
+Basil es un g{'a}nster
+de rango medio que
+vive en su mundo,
+convencido de que
+tiene poderes y de
+que puede predecir
+el futuro. Aunque
+se lamenta de su
+tr{'a}gica vida sin
+cesar, sabe que
+no vive tan mal.
+!******************************!
+[711703004c000000:001a0000000223170000022a170000]
+Taylon
+!******************************!
+Taylon es un g{'a}nster
+con ideales rom{'a}nticos.
+No es muy alto, pero
+compensa su corta
+estatura con mucha
+ma{-n}a. Trabaja para
+Bostro, pero como
+es invisible para {'e}l,
+lleva una vida infeliz
+en los bajos fondos.
+!******************************!
+[711703004f000000:001b0000000204180000020a180000]
+Lubin
+!******************************!
+Lubin responde ante
+Clive. Es un g{'a}nster
+despiadado que sigue
+cada una de las
+{'o}rdenes de su jefe
+a rajatabla. Es muy
+h{'a}bil con los cuchillos,
+con los que sabe incluso
+hacer malabarismo.
+!******************************!
+[7117030052000000:001c00000002cd18000002d4180000]
+George
+!******************************!
+George es un g{'a}nster
+que tiene una risa {'u}nica
+y una enorme cantidad
+de pelo. Odia la violencia
+y nunca har{'i}a da{-n}o a
+ning{'u}n inocente, pero su
+barba frondosa asusta
+hasta al m{'a}s pintado.
+Est{'a} muy orgulloso de
+ella y pasa el tiempo
+arregl{'a}ndosela.
+!******************************!
+[7117030055000000:001d00000002e119000002e9190000]
+Grelmey
+!******************************!
+Grelmey es un g{'a}nster
+violento que trabaja
+para Bostro. Es algo
+m{'a}s fuerte que su
+compa{-n}ero Gralton.
+A menudo saca a su
+jefe de sus casillas
+y por eso siempre anda
+quej{'a}ndose de {'e}l.
+!******************************!
+[7117030058000000:001e00000002ae1a000002b61a0000]
+Gralton
+!******************************!
+Gralton es otro de los
+esbirros de Bostro, y
+adem{'a}s se parece
+mucho a Barton. Incluso
+come tanto como {'e}l.
+Siempre anda con su
+compa{-n}ero Grelmey y sin
+{'e}l se encuentra perdido.
+Es cliente habitual de
+Deli Catessen.
+!******************************!
+[711703005b000000:001f00000002971b0000029d1b0000]
+Vigil
+!******************************!
+Vigil custodia el camino
+hacia varios locales de
+la Familia, como el casino
+y la pagoda. No est{'a}
+claro si su actitud es
+una pose o es que {'e}l
+es as{'i}. No se toma muy
+en serio su tarea de
+vigilante, por lo que
+es el esbirro favorito
+de los cient{'i}ficos.
+!******************************!
+[711703005e000000:002000000002a31c000002a91c0000]
+Smith
+!******************************!
+Smith era vigilante el
+d{'i}a de la presentaci{'o}n,
+pero alguien se col{'o} en
+el evento y perdi{'o} su
+trabajo, aunque hab{'i}a
+conseguido atrapar al
+intruso. Ahora trabaja
+en la Universidad de
+Gressenheller
+controlando a los
+estudiantes.
+!******************************!
+[7117030061000000:0021000000029a1d000002a31d0000]
+Florence
+!******************************!
+Florence es una se{-n}ora
+mayor muy exc{'e}ntrica
+que te ense{-n}a todo
+sobre las monedas.
+Est{'a} casada, pero
+desde que conoci{'o}
+al profesor, solo
+tiene ojos para {'e}l.
+Su peinado es el fruto
+de varias horas de
+preparaci{'o}n al d{'i}a.
+!******************************!
+[7117030064000000:002200000002951e0000029a1e0000]
+Vito
+!******************************!
+Vito es un granuja que
+siempre anda por Midland
+Road. Se sabe que le
+gusta dar indicaciones
+falsas a los turistas.
+Parece que {'u}ltimamente
+est{'a} de mal humor
+porque se le caen
+los pantalones.
+!******************************!
+[7117030067000000:0023000000025e1f000002621f0000]
+Art
+!******************************!
+Art es capataz y
+trabaja solo para
+intentar recuperar la
+futura Midland Road.
+Gracias a su duro
+trabajo, la calle es un
+lugar m{'a}s agradable.
+Es un profesional
+que siempre se
+esfuerza al m{'a}ximo.
+!******************************!
+[711703006a000000:0024000000022a200000022e200000]
+Bob
+!******************************!
+Bob es un hombre un
+tanto brusco que vive
+en Midland Road. Odia
+las responsabilidades
+y siempre intenta
+evitar los problemas,
+pero acaba meti{'e}ndose
+en l{'i}os de todas formas.
+Respeta mucho a Art
+porque est{'a} arreglando
+el barrio.
+!******************************!
+[711703006d000000:0025000000021a2100000221210000]
+Hannah
+!******************************!
+Hannah es la due{-n}a del
+caf{'e} de Midland Road.
+Es una mujer fuerte
+que lleva el local sola,
+aunque rara vez tiene
+m{'a}s clientes que Alfie,
+el parroquiano habitual,
+que habla muy bien de
+los bocadillos especiales
+de Hannah.
+!******************************!
+[7117030070000000:00260000000206220000020c220000]
+Alfie
+!******************************!
+Alfie es cliente
+habitual del caf{'e} de
+Hannah. Al parecer, la
+mitad de la recaudaci{'o}n
+del local viene de su
+bolsillo. Le gusta
+mucho hablar con la
+gente joven, pero su
+entusiasmo no suele
+ser rec{'i}proco.
+!******************************!
+[7117030073000000:002700000002df22000002e6220000]
+Gallin
+!******************************!
+Gallin es un muchacho
+asustadizo que sale
+corriendo a la m{'a}s
+m{'i}nima provocaci{'o}n.
+Se pasa los d{'i}as
+so{-n}ando que encuentra
+novia. Es nieto de Aaron
+y Myrtle.
+!******************************!
+[7117030076000000:002800000002902300000298230000]
+Adeline
+!******************************!
+Adeline naci{'o} en Gales,
+pero se mud{'o} a Londres
+hace unos a{-n}os. La
+repugnante infusi{'o}n
+que se prepara para
+conservar su belleza
+es tan espesa como su
+acento, pero vistos los
+resultados, el sacrificio
+parece no valer la pena.
+!******************************!
+[7117030079000000:002900000002842400000289240000]
+Chip
+!******************************!
+Chip es un muchacho
+raro cuya conversaci{'o}n
+est{'a} plagada de sonidos
+de concursos. Siempre
+se encuentra cerca del
+restaurante porque ah{'i}
+se entera de datos muy
+interesantes. Odia que
+Becky le d{'e} {'o}rdenes.
+!******************************!
+[711703007c000000:002a00000002622500000268250000]
+Becky
+!******************************!
+Becky trabaja en
+el hotel Duke.
+Delante de su abuela
+es fr{'i}a y formal, pero
+en realidad es una
+muchacha amable
+y atrevida. Le gusta
+pensar que Chip es
+su protegido.
+!******************************!
+[711703007f000000:002b00000002102600000219260000]
+Margaret
+!******************************!
+Margaret es la
+directora del hotel
+Duke. Aunque a
+veces se duerme en el
+mostrador de recepci{'o}n
+cuando el hotel est{'a}
+tranquilo, es una firme
+defensora del servicio
+formal. Est{'a} casada
+con Rufus, pero se ven
+muy poco.
+!******************************!
+[7117030082000000:002c00000002fa2600000203270000]
+Paillard
+!******************************!
+Paillard es el due{-n}o del
+restaurante, aunque su
+fama le viene de cuando
+trabajaba en un hotel
+de cinco estrellas. Su
+mujer investiga en el
+laboratorio. {'U}ltimamente
+le cuesta hablar con su
+hijo Chip, y esto le est{'a}
+dando muchos dolores
+de cabeza.
+!******************************!
+[7117030085000000:002d00000002022800000209280000]
+Dupree
+!******************************!
+Dupree pasa el tiempo
+leyendo el peri{'o}dico.
+Respeta la justicia y
+desprecia el mal, pero
+su tendencia a creer
+todo lo que lee en
+el peri{'o}dico le ha
+convertido en una
+marioneta de la Familia.
+!******************************!
+[7117030088000000:002e00000002ce28000002d6280000]
+Natalie
+!******************************!
+Natalie es enfermera
+en Green Hospital. No
+tiene muchos pacientes
+y suele aburrirse. Como
+tiene la cara tan p{'a}lida
+siempre parece enferma
+y los pacientes se
+preocupan m{'a}s por ella
+que lo que ella se
+preocupa por ellos.
+!******************************!
+[711703008b000000:002f00000002b729000002be290000]
+Harold
+!******************************!
+Harold es el portero
+del casino, pero cuando
+dej{'o} pasar a nuestros
+amigos, su laxitud qued{'o}
+en evidencia. Lo raro es
+que, aunque trabaja en
+un casino, los juegos de
+cartas se le dan muy
+mal.
+!******************************!
+[711703008e000000:003000000002832a0000028a2a0000]
+Horace
+!******************************!
+Horace es un cient{'i}fico
+al que secuestraron y
+llevaron al Londres del
+futuro. Descubri{'o} que
+Layton del futuro era
+Dimitri, pero mantuvo
+el secreto por miedo
+a represalias de la
+Familia. Su novia vive
+en Chinatown.
+!******************************!
+[7117030091000000:003100000002662b0000026c2b0000]
+Hardy
+!******************************!
+Hardy es un obrero
+contratado para
+construir el Londres
+del futuro. Es muy vago
+y echa de menos a su
+mujer y a su hijo, a
+quienes dej{'o} atr{'a}s. Su
+familia le preocupa
+tanto que se le olvida
+en qu{'e} {'e}poca est{'a}.
+!******************************!
+[7117030094000000:0032000000024a2c000002502c0000]
+Craig
+!******************************!
+Craig es otro de los
+cient{'i}ficos que fueron
+secuestrados. Le
+preocupa su familia
+y a veces se escapa
+para ir a verla. Tiene
+una mente brillante
+para la ciencia y la
+inventiva, pero un
+sentido del humor nulo.
+!******************************!
+[7117030097000000:003300000002232d000002292d0000]
+Rufus
+!******************************!
+Rufus es todo un
+personaje que pasa el
+tiempo en el mercado
+negro. Ha visto c{'o}mo
+se desarrollaba el
+Londres del futuro y
+conoce muchos de
+sus secretos. Aunque
+no es mala persona, a
+veces parece un poco
+sospechoso.
+!******************************!
+[711703009a000000:003400000002022e0000020b2e0000]
+Gatanova
+!******************************!
+Ni los perros m{'a}s
+agresivos pueden
+disuadir a Gatanova
+de que visite a sus
+amigas felinas. Su
+cuerpo largo y esbelto
+contrasta con sus
+graves maullidos,
+pero es la raz{'o}n de
+su {'e}xito con las mininas.
+!******************************!
+[711703009d000000:003500000002db2e000002e32e0000]
+Rosetta
+!******************************!
+Rosetta es alumna del
+profesor Layton y est{'a}
+un poco obsesionada
+con {'e}l. Le apasiona su
+carrera, y a veces va
+a excavar en sus d{'i}as
+libres. Su descaro no
+deja a nadie impasible,
+ni siquiera al mismo
+Layton.
+!******************************!
+[71170300a0000000:003600000002bb2f000002c12f0000]
+Colby
+!******************************!
+Colby trabaja en la
+recepci{'o}n de Scotland
+Yard y es fan de
+Layton. Se esfuerza
+en el trabajo, pero
+est{'a} harto de tener
+que quedarse en la
+comisar{'i}a. Su larga
+mand{'i}bula lo parece
+a{'u}n m{'a}s cuando se r{'i}e.
+!******************************!
+[71170300a3000000:0037000000029f30000002a5300000]
+Aaron
+!******************************!
+Nadie conoce Chinatown
+mejor que Aaron. Hace
+poco que se ha vuelto
+pr{'a}cticamente adicto
+a las sopas de Deli y
+visita su local siempre
+que puede. Aunque ama
+a su mujer, Myrtle, su
+amor por la sopa es lo
+m{'a}s importante para {'e}l.
+Gallin es su nieto.
+!******************************!
+[71170300a6000000:003800000002a431000002ad310000]
+Michelle
+!******************************!
+Michelle tiene una visi{'o}n
+filos{'o}fica de la vida.
+Pasa gran parte del
+tiempo aprendiendo y
+reflexionando sobre
+la naturaleza de la
+vida y el amor. No se
+sabe de d{'o}nde viene,
+ni si tiene familia.
+!******************************!
+[71170300a9000000:00390000000278320000027f320000]
+Duncan
+!******************************!
+Duncan vive en
+Chinatown. Sus modales
+bruscos ocultan un
+gran coraz{'o}n. Le gustan
+mucho los coches de
+juguete y es cliente
+habitual de Ludovic,
+aunque ha empezado
+a ocultar sus visitas
+a la jugueter{'i}a al ir
+haci{'e}ndose mayor.
+!******************************!
+[71170300ac000000:003a0000000268330000026f330000]
+Vivian
+!******************************!
+Vivian es una ni{-n}a
+educada que vive en
+Chinatown con sus
+padres. Su padre es
+ingeniero mec{'a}nico.
+Es un poco altanera
+debido a la influencia
+de su madre, pero
+en el fondo es buena
+chica.
+!******************************!
+[71170300af000000:003b000000022f3400000234340000]
+Deli
+!******************************!
+Deli es la due{-n}a del
+Deli Catessen, un
+restaurante que sigue
+prosperando gracias a
+su duro trabajo. Los
+habitantes infelices del
+Londres del futuro van
+a menudo a su local.
+Su especialidad es la
+sopa de anguilas en
+gelatina.
+!******************************!
+[71170300b2000000:003c00000002183500000220350000]
+Ludovic
+!******************************!
+Ludovic hace juguetes
+y ha creado su propia
+marca de cochecitos
+de juguete. Su tienda
+est{'a} siempre atestada
+de clientes en busca
+de sus miniaturas
+coleccionables.
+!******************************!
+[71170300b5000000:003d00000002c635000002cf350000]
+Avogadro
+!******************************!
+Avogadro trabaja en
+el laboratorio. Es
+impaciente y se
+enfada con facilidad,
+pero ha le{'i}do m{'a}s
+libros que helados
+ha comido Luke. Su
+estatura es un tema
+delicado para {'e}l.
+!******************************!
+[71170300b8000000:003e00000002833600000287360000]
+May
+!******************************!
+May tiene una librer{'i}a
+en Chinatown. Es el
+trabajo perfecto para
+una amante de los
+libros como ella. Es
+feliz cuando convence
+a alguien de que lea
+un libro y siempre
+anima a sus clientes
+a ir a la biblioteca.
+!******************************!
+[71170300bb000000:003f000000025b3700000262370000]
+Myrtle
+!******************************!
+Myrtle lleva la tienda de
+animales de Chinatown.
+Su matrimonio con Aaron
+fue una luna de miel
+continua durante a{-n}os,
+pero la relaci{'o}n se ha
+ido enfriando. Myrtle
+es muy amable y
+adora los animales, pero
+{^!}mejor no molestarla
+cuando est{'a} enfadada!
+!******************************!
+[71170300be000000:00400000000264380000026a380000]
+Bella
+!******************************!
+Bella es una jovencita
+que se ha enamorado
+del peque{-n}o Luke. Su
+pasi{'o}n es demasiado
+para Luke, que le tiene
+pavor. Pero ella no est{'a}
+dispuesta a dejar que
+ning{'u}n obst{'a}culo se
+interponga entre ella
+y su verdadero amor.
+!******************************!
+[71170300c1000000:00410000000253390000025a390000]
+Graham
+!******************************!
+Graham cree que es el
+Romeo de la ciudad.
+Lleva ropa cara y est{'a}
+muy seguro de s{'i} mismo.
+Impresiona hasta a los
+mismos esbirros de la
+Familia. Planea crear
+una l{'i}nea de ropa con
+Bella.
+!******************************!
+[71170300c4000000:0042000000021c3a000002253a0000]
+Do Pinto
+!******************************!
+Cuando alguien llen{'o}
+de grafitis la pared
+del jard{'i}n de Do Pinto,
+decidi{'o} colaborar con
+los chicos de la zona
+para decorarla con
+un mural. No se le da
+bien pintar, pero con su
+amabilidad se ha ganado
+el coraz{'o}n de los
+muchachos.
+!******************************!
+[71170300c7000000:004300000002163b0000021d3b0000]
+Ernest
+!******************************!
+Ernest es muy t{'i}mido y
+no le gusta hablar con
+desconocidos, as{'i} que
+pasa la mayor parte del
+tiempo escondido en
+una esquina de Midland
+Road. Es amigo de
+Quartz y, a veces, va
+a su relojer{'i}a a tomar
+el t{'e}.
+!******************************!
+[71170300ca000000:004400000002f63b000002fd3b0000]
+Bertha
+!******************************!
+Bertha es una mujer
+alegre y maternal cuya
+risa es escandalosa.
+No se preocupa por
+nimiedades y disfruta
+de su vida en el Londres
+del futuro. No ve mucho
+a Avogadro, su marido,
+pero siempre le pone
+comida en la mesa
+cuando vuelve a casa.
+!******************************!
+[71170300cd000000:004500000002eb3c000002f23c0000]
+Minnie
+!******************************!
+Minnie es una golosa
+y siempre tiene dulces
+en el bolsillo. Es amable
+y conciliadora, y por
+eso tiene muchos
+amigos, a los que les
+ofrece gustosamente
+pasteles que ella misma
+prepara.
+!******************************!
+[71170300d0000000:004600000002aa3d000002b13d0000]
+Millie
+!******************************!
+Millie es t{'i}mida, pero
+muy trabajadora y a
+veces necesita que
+la animen. Sabe que
+habla muy bajito y en
+casa hace pr{'a}cticas
+de proyecci{'o}n de voz.
+Le gusta escribir
+poemas.
+!******************************!
+[71170300d3000000:004700000002663e0000026f3e0000]
+Randolph
+!******************************!
+Randolph es infantil y
+autoritario. Le fascinan
+los escarabajos y tiene
+un escarabajo luc{'a}nido
+y uno rinoceronte. Se
+pone de muy mal humor
+si las cosas no le salen
+como {'e}l quiere, pero se
+le pasa enseguida, sobre
+todo si tiene un bal{'o}n
+al que dar patadas.
+!******************************!
+[71170300d6000000:004800000002783f0000027f3f0000]
+Lucian
+!******************************!
+Sol{'i}a ser farero, pero
+debido a los avances
+de la tecnolog{'i}a ya
+no tiene trabajo.
+Lo bueno es que ahora
+tiene m{'a}s tiempo para
+dedicarse a su otra
+pasi{'o}n, la danza
+moderna, y prepara
+una coreograf{'i}a como
+tributo a los faros.
+!******************************!
+[71170300d9000000:0049000000026e4000000273400000]
+Mark
+!******************************!
+Mark es un individuo
+peculiar. Habla con
+vehemencia, pero
+suele decir tonter{'i}as.
+Visita el casino a
+menudo, donde es
+blanco f{'a}cil para los
+jugadores expertos.
+!******************************!
+[71170300dc000000:004a0000000218410000021f410000]
+Bigout
+!******************************!
+Pero {^!}si es nuestro
+amigo Bigout! {^?}De
+d{'o}nde habr{'a} salido?
+Tiene la costumbre de
+aparecer de repente
+para desaparecer
+momentos despu{'e}s.
+Es un misterio d{'o}nde
+estar{'a} ma{-n}ana, al
+igual que su identidad.
+!******************************!
+[71170300df000000:004b00000002fd4100000202420000]
+Polo
+!******************************!
+Polo es un aventurero
+temerario sin sentido
+de la orientaci{'o}n.
+Siempre se le rompe su
+adorada br{'u}jula y tiene
+la extra{-n}a habilidad de
+perderse por muy
+detallado que sea
+su mapa.
+!******************************!
+[71170300e2000000:004c00000002bd42000002cd420000]
+Andrew Schrader
+!******************************!
+Es el antiguo mentor
+del profesor Layton y
+de Don Paolo. Es un
+arque{'o}logo muy
+respetado, pero tiende
+a meterse en l{'i}os y
+son sus alumnos los
+que acaban salv{'a}ndole.
+Su colecci{'o}n de
+antig{:u}edades es
+legendaria.
+!******************************!
+[71170300e5000000:004d00000002ac43000002bb430000]
+Decano Delmann
+!******************************!
+El decano Delmann
+dirige la Universidad de
+Gressenheller. Es un
+hombre amable al que
+todos los estudiantes
+adoran. Quiere mucho
+a su nieta y le concede
+todos los caprichos.
+Su peluqu{'i}n protege
+a todo el mundo del
+brillo de su calva.
+!******************************!
+[71170300e8000000:004e00000002a744000002b0440000]
+Caroline
+!******************************!
+Caroline es la mujer
+del primer ministro, Bill
+Hawks. Es calculadora
+y disfruta del estilo de
+vida que la fama le ha
+dado. Tiene un gusto
+p{'e}simo para las joyas
+y su marido no tiene
+ni idea de los l{'i}mites
+de la avaricia de su
+esposa.
+!******************************!
+[71170300eb000000:004f000000029f45000002a5450000]
+Clive
+!******************************!
+Clive planeaba un
+terrible ataque sobre
+Londres. Pas{'o} a{-n}os
+resentido con los
+cient{'i}ficos y los
+pol{'i}ticos implicados en
+la muerte prematura
+de sus padres, pero
+ahora quiere redimirse.
+!******************************!
+[71170300ee000000:00500000000268460000026f460000]
+Claire
+!******************************!
+Claire era la novia de
+Layton. Ayudaba a
+Dimitri en el laboratorio,
+pero tambi{'e}n era una
+cient{'i}fica excelente.
+Esta mujer fuerte y
+perseverante fue quien
+le dio a Layton su
+adorado sombrero.
+Perdi{'o} la vida en un
+experimento fallido.
+!******************************!
+[71170300f1000000:005100000002614700000270470000]
+Alain Stahngun
+!******************************!
+Es la identidad ficticia
+que utiliz{'o} Dimitri al
+construir la m{'a}quina
+del tiempo falsa. Se
+cre{'i}a que hab{'i}a
+desaparecido en el
+accidente de la
+presentaci{'o}n, pero en
+realidad hab{'i}a ido al
+Londres del futuro
+con el primer ministro.
+!******************************!
+[71170300f4000000:005200000002664800000278480000]
+Layton del futuro
+!******************************!
+Layton del futuro es
+quien controla el
+Londres del futuro
+con pu{-n}o de hierro.
+En el futuro ya no
+es ning{'u}n caballero,
+pero m{'a}s adelante
+se descubre que en
+realidad se trataba de
+Dimitri disfrazado.
+!******************************!
+[71170300f7000000:005300000002474900000250490000]
+Camarero
+!******************************!
+El camarero de The
+Thames Arms es la
+identidad que adopta
+Dimitri en su tiempo
+libre para tomarse un
+respiro. Los esbirros
+menos importantes
+de la Familia a{'u}n no
+saben qui{'e}n es en
+realidad.
+!******************************!
+[71170300fa000000:005400000002144a000002214a0000]
+Layton joven
+!******************************!
+Antes de considerarse
+un caballero, Hershel
+Layton vest{'i}a con
+ropa m{'a}s informal y
+nunca sal{'i}a de casa
+sin su gorra roja.
+Se hizo profesor
+con 27 a{-n}os y
+sigue siendo joven
+de esp{'i}ritu.
+!******************************!
+[71170300fd000000:005500000002e84a000002f74a0000]
+Laytonm{'o}vil
+!******************************!
+Este coche rojo, el
+orgullo de Layton, le
+ha sido {'u}til en la mayor
+parte de sus casos.
+Gracias a Don Paolo,
+ahora tambi{'e}n existe
+un modelo volador.
+Como tiene un techo
+tan alto, es ideal para
+el sombrero del
+profesor.
+!******************************!
+[7117030000010000:005600000002d74b000002df4b0000]
+Actor 1
+!******************************!
+Este chico revoltoso
+anima cualquier puzle.
+Le gusta fanfarronear,
+pero es un buen l{'i}der
+para los dem{'a}s.
+Suele tener problemas
+por su car{'a}cter
+impulsivo, pero {'e}l
+nunca inicia una pelea.
+!******************************!
+[7117030003010000:005700000002a54c000002ad4c0000]
+Actor 2
+!******************************!
+Es muy listo y se le
+da bien casi todo lo
+que se propone,
+aunque a veces usa
+sus habilidades para
+su propio beneficio.
+Los adultos no le
+tienen mucho aprecio.
+Es muy {'a}gil, y muy
+bueno con los juegos.
+!******************************!
+[7117030006010000:005800000002784d000002804d0000]
+Actor 3
+!******************************!
+Se le da muy bien
+organizar al grupo
+porque es muy
+responsable. Le gusta
+gastar bromas, pero
+no la violencia, y a
+menudo le toca hacer
+de mediador.
+!******************************!
+[7117030009010000:005900000002144e0000021c4e0000]
+Actor 4
+!******************************!
+A este chico taciturno
+le gusta mucho comer,
+pero gracias a su gran
+coraz{'o}n y a su buen
+car{'a}cter se ha hecho
+muy popular en el grupo.
+Siempre lleva algo para
+picar por si se aburre
+y le entra hambre.
+!******************************!
+[711703000c010000:005a00000002ea4e000002f24e0000]
+Actor 5
+!******************************!
+Este chico t{'i}mido
+es mucho ruido y
+pocas nueces. Le
+gusta tramar bromas
+pesadas, pero no las
+suele llevar a cabo
+porque no le gusta
+el esfuerzo f{'i}sico.
+!******************************!
+[711703000f010000:005b00000002904f000002994f0000]
+Actriz 1
+!******************************!
+Esta chica trabajadora
+est{'a} loca por la moda y
+siempre va a la {'u}ltima.
+Le gusta la artesan{'i}a
+y quer{'i}a dedicarse a
+la cer{'a}mica, pero le
+dijeron que su estilo
+era muy vanguardista.
+!******************************!
+[7117030012010000:005c000000025b5000000264500000]
+Actriz 2
+!******************************!
+Esta se{-n}ora mayor sigue
+siendo una rom{'a}ntica.
+Le gusta pasear al
+atardecer y leer libros
+de ilustraciones. Los
+ni{-n}os y los animales la
+adoran y no le importa
+desempe{-n}ar el papel
+de abuela para todo
+el mundo.
+!******************************!
+[7117030015010000:005d00000002405100000249510000]
+Actriz 3
+!******************************!
+Esta muchacha adora
+las obras de arte y
+las antig{:u}edades.
+Es com{'u}n encontrarla
+en los mercadillos
+buscando objetos
+curiosos y antiguos.
+Puede parecer
+pretenciosa, pero
+es una chica de
+fiar.
+!******************************!
+[7117030018010000:005e000000020d5200000216520000]
+Actriz 4
+!******************************!
+Esta se{-n}ora cuida del
+resto del grupo y es
+la que mejor cocina de
+todos. Siempre escoge
+cuidadosamente los
+ingredientes de las
+deliciosas recetas
+que prepara y habla
+sin parar.
+!******************************!
+[711703001b010000:005f00000002ca52000002d3520000]
+Actriz 5
+!******************************!
+A esta mujer inteligente
+le preocupa derramar
+una sola l{'a}grima que le
+estropee el maquillaje.
+Es una mujer fr{'i}a, pero
+brillante y, aunque
+parezca extra{-n}o, su
+afici{'o}n es coleccionar
+tazas.
+!******************************!

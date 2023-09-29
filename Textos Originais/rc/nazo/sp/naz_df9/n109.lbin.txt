@@ -1,0 +1,81 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n109
+!******************************!
+n109a
+!******************************!
+n109b
+!******************************!
+[eb0b01000a000000:0211000000]
+Hay 15 galletas para compartir.
+La primera persona se come una galleta
+y pasa las restantes, divididas en dos
+cantidades iguales, a otras dos personas.
+Cada una de ellas se come una galleta
+y vuelve a pasar las restantes, tambi{'e}n
+repartidas en dos cantidades iguales,
+a otras dos personas, y as{'i} sucesivamente
+hasta que ya no quedan galletas.
+Si cada persona tarda un minuto en
+comerse una galleta (y sin considerar
+el tiempo empleado en dar las galletas
+a otras personas), {^?}cu{'a}nto tardar{'a}n
+en comerse todas las galletas?
+!******************************!
+[ec0b01000b000000:022a020000]
+{^!}Correcto!
+
+Tardar{'a}n cuatro minutos en comerse
+todas las galletas.
+
+Seguro que el esquema de arriba te ayuda
+a ver el puzle con m{'a}s claridad. En la
+vida real resultar{'i}a muy pr{'a}ctico, pero
+situaciones como esta no se presentan a
+menudo, {^?}verdad?
+!******************************!
+[ed0b01000c000000:0231030000]
+{^!}L{'a}stima!
+
+Pon orden en tus pensamientos y vuelve
+a comenzar.
+!******************************!
+[ee0b01000d000000:0275030000]
+Quiz{'a} lo {'u}nico que necesites sea
+visualizar con precisi{'o}n en tu mente
+lo que el puzle describe.
+!******************************!
+[ef0b01000e000000:02de030000]
+Intenta desglosar el problema seg{'u}n
+los n{'u}meros que intervienen en {'e}l.
+Si de 15 galletas alguien se come una,
+quedar{'a}n 14. Si divides estas 14
+en dos partes iguales y se las pasas
+a dos personas, cada una recibir{'a} 7.
+Hasta aqu{'i} se ha empleado un minuto.
+Plant{'e}atelo de este modo, en t{'e}rminos
+matem{'a}ticos precisos, y pronto
+hallar{'a}s la soluci{'o}n.
+!******************************!
+[f00b01000f000000:0258050000]
+Las dos personas que han recibido 7
+galletas se comen una de ellas, para
+lo cual necesitan un minuto.
+A cada persona le quedan 6 galletas,
+que a su vez las reparten entre otras
+dos personas, dando 3 galletas a cada
+una. Con esto llevamos ya dos minutos.
+!******************************!
+[f10b010010000000:0256060000]
+Las personas que reciben 3 galletas
+se comen una y les quedan dos. Llegar
+a este punto ha llevado tres minutos.
+
+Si cada uno reparte sus dos galletas
+restantes, otras dos personas
+recibir{'a}n una galleta cada una,
+se la comer{'a}n y ya no quedar{'a}n
+m{'a}s por repartir.
+
+{^?}Cu{'a}ntos minutos m{'a}s har{'a}n falta
+para com{'e}rselas todas?
+!******************************!

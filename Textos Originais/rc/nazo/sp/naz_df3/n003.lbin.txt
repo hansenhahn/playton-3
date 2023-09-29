@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n003
+!******************************!
+n003a
+!******************************!
+n003b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tardo una hora en ir con el autob{'u}s a
+la oficina. Trabajo durante dos horas
+y despu{'e}s cojo el autob{'u}s en la parada
+que hay junto a la oficina. El horario
+de ida y vuelta de los autobuses se
+muestra en la tabla de abajo.
+
+Si quiero que el tiempo transcurrido desde
+que me subo en el autob{'u}s de ida hasta
+que me bajo del autob{'u}s de vuelta sea
+el m{'i}nimo posible, {^?}qu{'e} autob{'u}s deber{'i}a
+coger para ir a la oficina? Toca la letra
+que corresponda a la hora correcta.
+!******************************!
+[ec0b01000b000000:02fa010000]
+{^!}Correcto!
+
+Si para ir a la oficina coges el autob{'u}s
+que pasa a medianoche y coges el primer
+autob{'u}s de la ma{-n}ana para volver a casa,
+el tiempo que tendr{'a}s que esperar ser{'a}
+el m{'i}nimo posible.
+!******************************!
+[ed0b01000c000000:02cf020000]
+{^!}Qu{'e} l{'a}stima!
+
+Puedes tomar notas en los horarios
+del autob{'u}s. Quiz{'a} te sirva de ayuda.
+!******************************!
+[ee0b01000d000000:0236030000]
+Puedes coger el autob{'u}s que quieras
+para ir a la oficina, pero luego tendr{'a}s
+que volver en el primer autob{'u}s que
+pase cuando termines de trabajar.
+
+Tenlo en cuenta.
+!******************************!
+[ef0b01000e000000:02e4030000]
+Por ejemplo, sup{'o}n que pasa un autob{'u}s
+a las 12:30. Con {'e}l llegar{'i}as a la oficina
+a las 13:30 y terminar{'i}as de trabajar
+a las 15:30. 
+
+Razona de este modo para determinar
+a qu{'e} hora terminar{'i}as de trabajar
+si coges cada uno de los otros
+autobuses.
+!******************************!
+[f00b01000f000000:02f1040000]
+Olvida tus ideas preconcebidas acerca
+de los horarios de trabajo.
+
+Aqu{'i} puedes comenzar a trabajar
+a cualquier hora.
+!******************************!
+[f10b010010000000:0269050000]
+No descartes trabajar por la noche
+y volver a casa por la ma{-n}ana...
+!******************************!

@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n071
+!******************************!
+n071a
+!******************************!
+n071b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir la jaula tendr{'a}s que pulsar
+ciertos botones. Las reglas son simples.
+Considera los botones como casillas.
+Cada s{'i}mbolo indica la direcci{'o}n que
+debes seguir al pasar de una casilla
+a otra:
+
+Estrella = izquierda     Luna = derecha
+Sol = abajo                 Agua = arriba
+
+Hay una casilla que, si partes de ella,
+te permite pasar exactamente una vez
+por todas las casillas. T{'o}cala para
+que se ilumine y despu{'e}s toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02d9010000]
+{^!}Bien hecho!
+
+En cuanto ves que, excepto la {'u}ltima
+casilla, todas las dem{'a}s forman un
+{'u}nico camino hacia ella, no es dif{'i}cil
+encontrar la casilla inicial.
+!******************************!
+[ed0b01000c000000:0283020000]
+Qu{'e} pena...
+
+{^?}No te habr{'a}s equivocado en alg{'u}n sitio?
+!******************************!
+[ee0b01000d000000:02c5020000]
+En este tipo de puzles la funci{'o}n de las
+notas resulta muy {'u}til. Es muy dif{'i}cil
+ver todas las direcciones usando solo
+los s{'i}mbolos; intenta dibujar una flecha
+en cada casilla para simplificar la tarea.
+!******************************!
+[ef0b01000e000000:029b030000]
+Prueba a empezar por una casilla
+escogida al azar. Usa la funci{'o}n de
+las notas para dibujar una flecha en
+cada casilla y traza el recorrido.
+!******************************!
+[f00b01000f000000:022b040000]
+{^?}Has seguido las indicaciones de la
+pista 2 pero te mueves en peque{-n}os
+c{'i}rculos? Eso significa que has
+comenzado por una de las casillas
+de la esquina superior izquierda.
+
+Lo cierto es que esas casillas son
+en realidad las {'u}ltimas del recorrido.
+!******************************!
+[f10b010010000000:022d050000]
+Gracias a la pista 3 sabes cu{'a}les son
+las {'u}ltimas casillas del recorrido. Ahora
+piensa con cuidado y mu{'e}vete hacia
+atr{'a}s desde all{'i}.
+
+La casilla inicial es una de las cinco
+que tiene una estrella.
+!******************************!

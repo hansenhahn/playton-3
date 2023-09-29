@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n010
+!******************************!
+n010a
+!******************************!
+n010b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aunque estamos permanentemente
+sometidos al paso del tiempo, a veces
+nos cuesta pensar en c{'o}mo transcurre.
+
+Si dos d{'i}as despu{'e}s de ayer es domingo,
+{^?}qu{'e} d{'i}a fue dos d{'i}as antes de ma{-n}ana?
+
+Elige un d{'i}a de la semana y luego toca
+<CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:021e010000]
+{^!}Excelente!
+
+Viernes es la respuesta correcta.
+No es tan dif{'i}cil si vas por partes.
+Dos d{'i}as despu{'e}s de ayer es domingo,
+as{'i} que ma{-n}ana ha de ser domingo.
+Por lo tanto, hoy es s{'a}bado.
+
+Dos d{'i}as antes de ma{-n}ana es por tanto
+lo mismo que dos d{'i}as antes del domingo,
+es decir, viernes.
+!******************************!
+[ed0b01000c000000:0257020000]
+{^!}Vaya, qu{'e} pena!
+
+Por el modo en que est{'a} formulado, este
+puzle es un poquito dif{'i}cil. No tengas
+prisa. Si cuentas con los dedos, seguro
+que as{'i} lo sacas.
+!******************************!
+[ee0b01000d000000:0201030000]
+Hazte un calendario, ver{'a}s que as{'i}
+resulta m{'a}s f{'a}cil pensar este puzle.
+!******************************!
+[ef0b01000e000000:0255030000]
+Dos d{'i}as despu{'e}s de ayer es domingo.
+Entonces, {^?}qu{'e} d{'i}a fue ayer?
+
+Viernes, {^!}por supuesto!
+!******************************!
+[f00b01000f000000:02c2030000]
+Dos d{'i}as antes de ma{-n}ana es...
+
+Ayer, {^?}verdad?
+!******************************!
+[f10b010010000000:02fa030000]
+Las pistas 2 y 3 casi te han dado
+la respuesta. Como dos d{'i}as despu{'e}s
+de ayer es domingo, ayer tiene
+que haber sido viernes.
+Dos d{'i}as antes de ma{-n}ana es ayer.
+{^?}Y cu{'a}l era la pregunta...?
+!******************************!

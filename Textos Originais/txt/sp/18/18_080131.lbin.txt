@@ -1,0 +1,36 @@
+[7017010000000000:0005000000]
+[7117030001000000:000a00000002000000000209000000]
+レイバン
+!******************************!
+<T><A3/1>{^!}Soy un genio! {^!}Un genio! {^!}Mire
+qu{'e} puzle m{'a}s maravilloso me
+acabo de inventar como si nada!
+!******************************!
+[7117030004000000:00e80300000200000000027e000000]
+レイバン
+!******************************!
+<T><A4/1>Ya le he dicho que era un genio.
+Mi puzle es tan dif{'i}cil que no lo
+resolver{'a} ni en un mill{'o}n de a{-n}os.
+!******************************!
+[7117030007000000:00d0070000020000000002f9000000]
+レイバン
+!******************************!
+<T><A4/1>Pruebe cuantas veces quiera,
+pero no lo resolver{'a}. Debe de ser
+el puzle m{'a}s dif{'i}cil jam{'a}s creado.
+!******************************!
+[711703000a000000:00b80b000002000000000270010000]
+レイバン
+!******************************!
+<T><A2/1>{^?}C{'o}mo? {^?}Que lo ha resuelto?
+Seguro que ha hecho trampa.
+{^!}Nos vemos, tramposo!
+!******************************!
+[711703000d000000:00a00f0000020000000002d3010000]
+レイバン
+!******************************!
+<T><A1/1>Un d{'i}a me har{'e} profesor de
+puzleolog{'i}a. {^!}Ya ver{'a} lo temible
+que ser{'e} entonces!
+!******************************!

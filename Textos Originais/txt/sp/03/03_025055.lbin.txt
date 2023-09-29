@@ -1,0 +1,102 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000209000000]
+グラハム
+!******************************!
+<T>Muy buenas. {^?}No les parece que
+desde aqu{'i} gozamos de una
+vista extraordinaria?
+!******************************!
+[7117030004000000:000a0000000261000000026a000000]
+レイトン
+!******************************!
+<T>En efecto, es un lugar muy
+agradable a la vista.
+!******************************!
+[7117030007000000:000a0000000200000000029e000000]
+グラハム
+!******************************!
+<T><A1/5>Yo a{'u}n dir{'i}a m{'a}s, caballero.
+Es un placer inconmensurable
+para los sentidos.
+!******************************!
+[711703000a000000:000a00000002fd0000000204010000]
+ルーク
+!******************************!
+<T>{^!}Eh, profesor! {^?}Cree usted que
+este se{-n}or forma parte de la
+Familia?
+!******************************!
+[711703000d000000:000a00000002000000000255010000]
+グラハム
+!******************************!
+<T><A2/3>{^!}Ni{-n}o! {^?}Qu{'e} modales son esos?
+{^!}Si quieres decir algo de m{'i},
+d{'i}melo a la cara!
+!******************************!
+[7117030010000000:000a000000020000000002c1010000]
+グラハム
+!******************************!
+<T>Adem{'a}s, me ofende que me compares
+con esa pandilla de rufianes del
+tres al cuarto.
+!******************************!
+[7117030013000000:000a0000000200000000021a020000]
+グラハム
+!******************************!
+<T>{^?}A ti esto se te parece a los
+harapos de esos indeseables? {^!}Este
+traje es de pura seda italiana!
+!******************************!
+[7117030016000000:000a00000002fd0000000284020000]
+ルーク
+!******************************!
+<T><A1/6>Lo... Lo siento mucho, se{-n}or.
+Es absurdo pensar que tiene
+usted algo que ver con ellos.
+!******************************!
+[7117030019000000:000a000000020000000002e8020000]
+グラハム
+!******************************!
+<T><A2/2>Bueno, bueno, como pareces
+arrepentido, te perdonar{'e}
+por esta vez.
+!******************************!
+[711703001c000000:000a00000002000000000237030000]
+グラハム
+!******************************!
+<T>Pero para que no vuelva a haber
+errores, perm{'i}teme presentarme.
+!******************************!
+[711703001f000000:000a0000000200000000027d030000]
+グラハム
+!******************************!
+<T><A1/1>Soy el hombre m{'a}s elegante,
+gallardo y donjuanesco de
+todo Londres.<W> <A4/5>Me llamo Graham.
+!******************************!
+[7117030022000000:000a000000020000000002e7030000]
+グラハム
+!******************************!
+<T><A1/1>Te recomendar{'i}a que recordaras mi
+nombre, pero seguro que est{'a}s tan
+impresionado que no hace ni falta.
+!******************************!
+[7117030025000000:000a00000002fd000000025d040000]
+ルーク
+!******************************!
+<T>{^!}Sin problema! {^!}Graham, un hombre
+elefante, gallin{'a}ceo y juanetesco!
+O algo as{'i}...
+!******************************!
+[7117030028000000:000a00000002fd00000002bf040000]
+ルーク
+!******************************!
+<T>Bueno, lo importante es que nunca
+se me va a olvidar el nombre.
+!******************************!
+[711703002b000000:001400000002000000000202050000]
+グラハム
+!******************************!
+<T>A veces pienso que esta ciudad no
+est{'a} a la altura de mi elegancia.
+!******************************!

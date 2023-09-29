@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n007
+!******************************!
+n007a
+!******************************!
+n007b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este reloj de pared se cay{'o} al suelo
+y todos los n{'u}meros se desprendieron.
+Aunque el impacto de la ca{'i}da detuvo
+el reloj, todav{'i}a es posible saber
+qu{'e} hora marcaba en ese momento.
+
+{^?}Qu{'e} hora y qu{'e} minuto era? No importa
+determinar si era antes o despu{'e}s de la
+medianoche.
+!******************************!
+[ec0b01000b000000:023c010000]
+{^!}Eso es!
+
+Si prestas atenci{'o}n a qu{'e} lugar apunta
+exactamente la manecilla peque{-n}a, es
+f{'a}cil encontrar la respuesta.
+!******************************!
+[ed0b01000c000000:02bf010000]
+{^!}Qu{'e} pena!
+
+Intenta imaginarte un reloj anal{'o}gico.
+!******************************!
+[ee0b01000d000000:02fb010000]
+Presta atenci{'o}n a la posici{'o}n de las
+manecillas, ad{'o}nde apuntan. Si tienes
+un reloj anal{'o}gico, no ser{'i}a mala
+idea probar con {'e}l para encontrar
+la respuesta.
+!******************************!
+[ef0b01000e000000:02aa020000]
+{^?}Has notado que las manecillas del reloj
+apuntan exactamente a sitios donde
+ir{'i}an n{'u}meros?
+Pero no solo eso, sino que adem{'a}s
+est{'a}n en l{'i}nea recta.
+{^?}Qu{'e} hora y qu{'e} minutos ser{'a}n?
+!******************************!
+[f00b01000f000000:027a030000]
+Con las manecillas tal como est{'a}n
+dispuestas actualmente, la hora
+indicada tiene que ser una hora en
+punto.
+
+Si las dos manecillas forman una
+l{'i}nea recta, {^?}qu{'e} hora es?
+!******************************!
+[f10b010010000000:022f040000]
+Aunque no tengas un reloj anal{'o}gico,
+si te lo imaginas, puedes encontrar
+la respuesta.
+Primero imag{'i}nate las dos manecillas
+superpuestas a las 12:00. Si despu{'e}s
+mueves las manecillas una hora,
+y despu{'e}s otra, y otra...
+Llega un momento en que las dos
+manecillas forman una l{'i}nea recta.
+!******************************!

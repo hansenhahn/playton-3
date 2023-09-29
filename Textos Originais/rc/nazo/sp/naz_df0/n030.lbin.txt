@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n030
+!******************************!
+n030a
+!******************************!
+n030b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Tengo la sensaci{'o}n de que ah{'i} fuera me
+est{'a}n esperando esbirros de la Familia...
+Me aterra pensar qu{'e} ocurrir{'i}a si me
+descubren. Me he escondido detr{'a}s de
+esta pared para poder observarlos sin
+que me encuentren.
+
+{^?}Cu{'a}ntos esbirros hay ah{'i}?{''}
+!******************************!
+[ec0b01000b000000:0224010000]
+{^!}Muy bien!
+
+{''}En efecto, son nueve.
+Mis temores estaban justificados...{''}
+!******************************!
+[ed0b01000c000000:0275010000]
+L{'a}stima...
+
+{^!}Escudri{-n}a bien cada rinc{'o}n!
+!******************************!
+[ee0b01000d000000:02aa010000]
+{''}{^!}Arriba a la derecha, en el balc{'o}n!
+{^!}Ah{'i} est{'a} el jefe de los esbirros!
+
+Ese es el primero...{''}
+!******************************!
+[ef0b01000e000000:021e020000]
+{''}{^!}Se esconden en sitios que no te puedes
+ni imaginar! Atenci{'o}n a los barriles
+que hay abajo a la derecha, ah{'i} hay
+algo sospechoso...{''}
+!******************************!
+[f00b01000f000000:02b3020000]
+{''}{^!}Se ocultan en los sitios m{'a}s
+inesperados! Ah{'i} en el tejado,
+arriba a la izquierda, creo que
+veo uno... {^!}F{'i}jate bien!{''}
+!******************************!
+[f10b010010000000:0240030000]
+{''}Parece que son menos de 10.{''}
+!******************************!

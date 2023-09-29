@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n136
+!******************************!
+n136a
+!******************************!
+n136b
+!******************************!
+[eb0b01000a000000:0211000000]
+Se ha descubierto una huella dactilar
+en la escena de un crimen y en la
+comisar{'i}a han tomado las huellas a
+cuatro sospechosos.
+
+Compara los dedos A, B, C y D con la
+huella que se muestra bajo la lupa, {^!}e
+identifica al culpable del crimen!
+!******************************!
+[ec0b01000b000000:0206010000]
+{^!}Caso resuelto!
+
+El sospechoso A es el culpable.
+
+A primera vista parece que la huella
+de B encaja perfectamente, pero la
+huella encontrada en la escena del
+crimen tiene que ser la imagen
+invertida del dedo del criminal.
+!******************************!
+[ed0b01000c000000:02e6010000]
+{^!}Te equivocas!
+
+Piensa c{'o}mo ser{'i}a la huella que dejase
+ese dedo en la escena del crimen.
+!******************************!
+[ee0b01000d000000:0248020000]
+No saques conclusiones precipitadas.
+Reflexiona sobre cada opci{'o}n.
+!******************************!
+[ef0b01000e000000:028e020000]
+C no se parece en nada.
+!******************************!
+[f00b01000f000000:02a6020000]
+Al dejar una huella, la marca
+resultante mostrar{'a} la imagen
+invertida de la yema del dedo.
+!******************************!
+[f10b010010000000:0204030000]
+C y D no son la respuesta.
+
+La huella correcta tiene que ser
+la A o la B.
+
+{^?}Recuerdas la pista 3?
+!******************************!

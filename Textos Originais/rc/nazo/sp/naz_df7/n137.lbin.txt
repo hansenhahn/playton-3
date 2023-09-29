@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n137
+!******************************!
+n137a
+!******************************!
+n137b
+!******************************!
+[eb0b01000a000000:0211000000]
+Como se ve en el recuadro menor, has
+colocado tres vasos id{'e}nticos en la
+mesa y has marcado secretamente el vaso
+central, como indica la flechita azul.
+
+Luego has cerrado los ojos y le has dicho
+a un amigo: {''}Oculta una moneda bajo uno
+de los vasos y cambia la posici{'o}n de los
+otros dos{''}.
+
+Al abrir los ojos, los vasos han quedado
+tal como se ve en la imagen de abajo.
+{^?}En cu{'a}l de los tres, A, B o C, ha quedado
+escondida la moneda?
+!******************************!
+[ec0b01000b000000:02d3010000]
+{^!}En efecto!
+
+{^!}La moneda est{'a} bajo el vaso A!
+
+Como el vaso central se ha movido al
+sitio de la derecha, est{'a} claro que
+B y C han intercambiado posiciones.
+
+El vaso en el que tu amigo escondi{'o}
+la moneda no se ha movido en ning{'u}n
+momento, {^!}as{'i} que tiene que ser el A!
+!******************************!
+[ed0b01000c000000:02f5020000]
+{^!}Qu{'e} pena!
+
+Presta atenci{'o}n a las condiciones del
+puzle y a la posici{'o}n del vaso marcado.
+Con eso podr{'a}s deducir la respuesta.
+!******************************!
+[ee0b01000d000000:0283030000]
+{^?}Qu{'e} vaso es el que no se ha movido?
+!******************************!
+[ef0b01000e000000:02ae030000]
+El vaso marcado se ha movido.
+!******************************!
+[f00b01000f000000:02cc030000]
+El vaso marcado se ha movido desde
+el centro a la posici{'o}n de la derecha.
+!******************************!
+[f10b010010000000:0219040000]
+El vaso marcado empez{'o} en el centro
+e intercambi{'o} posiciones con el vaso
+de la derecha. Eso significa que la
+moneda no estaba en ninguno de ellos.
+
+Entonces, {^?}d{'o}nde est{'a} la moneda?
+!******************************!

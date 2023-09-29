@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n148
+!******************************!
+n148a
+!******************************!
+n148b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}La operaci{'o}n matem{'a}tica de abajo est{'a}
+escrita con cerillas! Si traducimos los
+n{'u}meros romanos de que consta, significa
+1 + 11 = 10.
+
+Para convertir esto en una operaci{'o}n
+correcta, {^?}cu{'a}ntas cerillas tendr{'i}amos
+que cambiar de sitio como m{'i}nimo?
+!******************************!
+[ec0b01000b000000:0223010000]
+{^!}No se te escapa una!
+
+No hace falta mover ninguna cerilla.
+
+Si miras la operaci{'o}n matem{'a}tica
+d{'a}ndole la vuelta, ver{'a}s que pone
+10 = 9 + 1 con n{'u}meros romanos.
+
+La expresi{'o}n {''}como m{'i}nimo{''} puede
+haberte despistado para que pienses
+{''}como m{'i}nimo una cerilla{''}, {^!}pero aqu{'i}
+significa {''}ninguna{''}!
+!******************************!
+[ed0b01000c000000:0277020000]
+{^!}Qu{'e} l{'a}stima!
+
+Procura examinar la operaci{'o}n desde
+todos los puntos de vista.
+!******************************!
+[ee0b01000d000000:02d1020000]
+Un repaso a los n{'u}meros romanos:
+
+I = 1, II = 2 y III = 3.
+
+Pero IIII no es 4.
+
+IV = 4 y V = 5, as{'i} que el I que va
+delante del V le est{'a} restando 1.
+
+VI = 6, VII = 7 y VIII = 8.
+
+IX = 9, X = 10 y XI = 11.
+!******************************!
+[ef0b01000e000000:02a8030000]
+La respuesta deber{'i}a quedar clara
+si entiendes la pista 1 y te
+molestas en mirar las cosas desde
+distintos puntos de vista...
+!******************************!
+[f00b01000f000000:0229040000]
+Tal como se dice en la pista 2, es
+importante mirar las cosas {''}desde
+distintos puntos de vista{''}.
+!******************************!
+[f10b010010000000:0290040000]
+Dale la vuelta a la operaci{'o}n,
+o m{'i}rala boca abajo.
+
+{^!}Mira qu{'e} sorpresa! No hace falta
+mover ninguna cerilla. {^!}La operaci{'o}n
+ya est{'a} bien como est{'a}!
+!******************************!

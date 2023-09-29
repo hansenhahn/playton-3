@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000b00000000f203000000f2030000000100000000000000000000000000]
+n133
+!******************************!
+n133a
+!******************************!
+n133b
+!******************************!
+[eb0b01000a000000:0211000000]
+El trozo de madera de abajo tiene una
+forma peculiar que impide que sea f{'a}cil
+trabajar en {'e}l. La mejor soluci{'o}n es
+serrarlo en dos piezas que al combinarse
+formen un cuadrado.
+
+Debido a las caracter{'i}sticas de la madera,
+no podr{'a}s invertir ni girar los trozos.
+Dibuja una l{'i}nea que indique por d{'o}nde
+quieres cortar y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:0276010000]
+{^!}Has sabido cortar por lo sano!
+
+No ha sido tan dif{'i}cil, {^?}verdad?
+!******************************!
+[ed0b01000c000000:02c1010000]
+{^!}L{'a}stima!
+
+En realidad la respuesta es muy sencilla.
+Echa otro vistazo e int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0227020000]
+Compara la forma del extra{-n}o trozo de
+madera con el cuadrado de la esquina
+superior derecha. F{'i}jate en el n{'u}mero
+de cuadrados de cada lado. Eso ser{'a}
+un buen punto de partida.
+!******************************!
+[ef0b01000e000000:02e2020000]
+Cada lado de la pieza que intentas
+formar tendr{'a} cinco cuadrados.
+Teniendo eso en cuenta, seguro que
+puedes deducir por d{'o}nde debes cortar.
+!******************************!
+[f00b01000f000000:0274030000]
+Tal vez te hayas fijado en que si cortas
+las dos {'u}ltimas columnas y luego
+inviertes y rotas esa pieza puedes
+cubrir el hueco. {^!}Pero no se puede
+cambiar la orientaci{'o}n de la pieza
+sin estropear la textura de la madera!
+
+El corte que debes hacer tiene forma
+de escal{'o}n...
+!******************************!
+[f10b010010000000:028e040000]
+Desde la esquina superior izquierda
+del cuadrado vac{'i}o en el lado derecho
+del trozo de madera, empieza a cortar
+un cuadrado hacia arriba, luego otro
+hacia la izquierda, y otro hacia
+arriba. {^!}Eso es todo!
+!******************************!

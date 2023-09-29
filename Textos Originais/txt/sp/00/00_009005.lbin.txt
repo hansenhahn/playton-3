@@ -1,0 +1,80 @@
+[7017010000000000:000c000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T><A3/1>Pues ya estamos aqu{'i}.<W><A3/2> La relojer{'i}a
+tendr{'i}a que estar cerca, pero
+{^?}d{'o}nde exactamente?
+!******************************!
+[7117030004000000:000a000000027d0000000286000000]
+レイトン
+!******************************!
+<T>Creo que este es el momento ideal
+para consultar el mapa que ven{'i}a
+con la carta.
+!******************************!
+[7117030007000000:000a000000027d00000002dd000000]
+レイトン
+!******************************!
+<T><A2/1>Mira, Luke.<W><A2/2> A ver si puedes
+encontrar la ubicaci{'o}n de la
+relojer{'i}a por tu cuenta.
+!******************************!
+[711703000a000000:000a00000002000000000247010000]
+ルーク
+!******************************!
+<T><A2/2>{^!}Por supuesto, profesor!
+!******************************!
+[711703000d000000:00e80300000200000000026c010000]
+ルーク
+!******************************!
+<T><A4/4>Vaya, esto est{'a} resultando m{'a}s
+dif{'i}cil de lo que parec{'i}a.
+!******************************!
+[7117030010000000:00d0070000020000000002bb010000]
+ルーク
+!******************************!
+<T>{^!}D{'e}jeme intentarlo otra vez,
+profesor!
+!******************************!
+[7117030013000000:00b80b0000020000000002eb010000]
+ルーク
+!******************************!
+<T><A3/2>{^!}Ya est{'a}! Seguro que ahora
+encontramos la relojer{'i}a en un
+pisp{'a}s. <W>{^!}Vamos, profesor!
+!******************************!
+[7117030016000000:00c20b0000025a0200000267020000]
+ナレーション
+!******************************!
+<T><A4/2>De acuerdo.<W><A2/2> Pero antes de seguir,
+vamos a refrescar la memoria y
+recordar c{'o}mo movernos.
+!******************************!
+[7117030019000000:00c20b0000025a02000002d5020000]
+ナレーション
+!******************************!
+<T>{^?}Quieres que revisemos esta
+parte juntos, Luke?
+!******************************!
+[711703001c000000:00cc0b0000025a020000020b030000]
+ナレーション
+!******************************!
+<T>Con mucho gusto, profesor. Me lo
+s{'e} de memoria.<W> Para empezar, hay
+que tocar el icono del zapato.
+!******************************!
+[711703001f000000:00d60b0000025a0200000275030000]
+ナレーション
+!******************************!
+<T>Despu{'e}s hay que tocar cualquiera
+de las flechas para moverse en la
+direcci{'o}n indicada.
+!******************************!
+[7117030022000000:00e00b0000027d00000002d5030000]
+レイトン
+!******************************!
+<T><A1/2>Has dado en el clavo.<W> Recuerda,
+cada vez que quieras moverte,
+toca el icono del zapato.
+!******************************!

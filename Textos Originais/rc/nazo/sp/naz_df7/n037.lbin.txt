@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000800000000f203000000f2030000000100000000010000000001000000]
+n037
+!******************************!
+n037a
+!******************************!
+n037b
+!******************************!
+[eb0b01000a000000:0211000000]
+Con estas cerillas alguien ha escrito
+la distancia {''}100 m{''}.
+
+Coge una sola cerilla y ponla en la
+papelera de modo que las cerillas
+formen una distancia que sea 1/1000
+de la original.
+!******************************!
+[ec0b01000b000000:02ce000000]
+{^!}Impresionante!
+
+100 m (100 metros) se han convertido
+en 10 cm (10 cent{'i}metros).
+!******************************!
+[ed0b01000c000000:0225010000]
+{^!}Vaya, qu{'e} l{'a}stima!
+
+Vayamos por partes. Calcula primero
+cu{'a}l ser{'i}a la mil{'e}sima parte de la
+distancia que indican las cerillas.
+!******************************!
+[ee0b01000d000000:02b7010000]
+100 m.
+
+Estamos hablando de una distancia, as{'i}
+que {''}m{''} significa {''}metros{''}.
+!******************************!
+[ef0b01000e000000:0211020000]
+{^?}Ser{'a} {''}00 m{''}? Pues no.
+
+La respuesta es exactamente 1/1000
+de la distancia representada
+inicialmente.
+!******************************!
+[f00b01000f000000:0283020000]
+Si solo modificas el n{'u}mero, nunca vas
+a conseguir 1/1000 de la distancia
+original.
+
+{^?}Por qu{'e} no pruebas a cambiar la
+unidad de medida?
+!******************************!
+[f10b010010000000:0214030000]
+La mil{'e}sima parte de 1 kil{'o}metro
+es 1 metro. Y la mil{'e}sima parte
+de 100 metros es 0,1 metros,
+es decir, 10 cent{'i}metros.
+!******************************!

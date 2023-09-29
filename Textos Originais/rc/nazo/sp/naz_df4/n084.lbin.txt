@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n084
+!******************************!
+n084a
+!******************************!
+n084b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Deja caer esta caja de madera encima
+de los esbirros! Solo tienes que cortar
+la cuerda, pero... est{'a} toda enredada.
+
+Ordena los paneles para desenredar la
+cuerda, y entonces podr{'a}s cortarla.
+{^!}Tienes que usar todos los paneles!
+!******************************!
+[ec0b01000b000000:0201010000]
+{^!}Muy bien!
+
+Ha llegado el momento de cortar la
+cuerda... S{'i}, aunque te den un poquito
+de pena.
+!******************************!
+[ed0b01000c000000:0266010000]
+Qu{'e} l{'a}stima...
+
+No podr{'a}s seguir mientras esos esbirros
+est{'e}n bloqueando el camino.
+!******************************!
+[ee0b01000d000000:02c6010000]
+La caja estar{'a} unida a un {'u}nico trozo
+de cuerda horizontal. Ese ya lo puedes
+poner en su sitio. Y el trozo de cuerda
+que est{'a} m{'a}s cerca de Luke tiene dos
+poleas.
+!******************************!
+[ef0b01000e000000:0274020000]
+Los dos paneles que hay abajo del todo
+solo tienen una polea cada uno.
+Si piensas en la direcci{'o}n en que
+se mueve la cuerda, deber{'i}as poder
+resolver el puzle.
+!******************************!
+[f00b01000f000000:0219030000]
+En el panel de la esquina superior
+derecha hay una sola polea. En ese
+panel la cuerda entra por la izquierda
+y vuelve a salir por la izquierda.
+
+El panel que hay a su izquierda tiene
+una polea, y la cuerda que entra por
+la derecha sale por abajo. Encima
+de esta polea solo hay un trozo
+de cuerda horizontal.
+!******************************!
+[f10b010010000000:024d040000]
+Este es el trayecto que sigue la cuerda,
+comenzando por el panel m{'a}s cercano
+a la caja: derecha, abajo, derecha,
+izquierda, arriba, derecha, derecha,
+izquierda, abajo, derecha, abajo, abajo,
+arriba.
+Ya estamos en el tercer panel contando
+hacia abajo desde la esquina superior
+derecha, y sigue desde all{'i}: izquierda,
+abajo, izquierda, arriba, abajo, abajo,
+derecha, arriba y derecha, hasta el
+panel que est{'a} m{'a}s cerca de Luke.
+!******************************!

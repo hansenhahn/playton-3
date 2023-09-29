@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n089
+!******************************!
+n089a
+!******************************!
+n089b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esta puerta est{'a} bloqueada con una
+extra{-n}a cerradura formada por seis
+discos que se pueden intercambiar
+y girar.
+
+Para abrirla, coloca los discos
+de manera que sus joyas queden en
+contacto, vertical y horizontalmente,
+con otras joyas del mismo color.
+Mant{'e}n el l{'a}piz en el centro de un
+disco para moverlo, y mantenlo en
+el borde de un disco para hacerlo
+girar. {^!}Buena suerte!
+!******************************!
+[ec0b01000b000000:0298010000]
+{^!}Una soluci{'o}n brillante!
+
+{^!}Puedes seguir adelante!
+!******************************!
+[ed0b01000c000000:02d4010000]
+{^!}Qu{'e} pena!
+
+{^?}Seguro que cada joya estaba en
+contacto con otra del mismo color?
+!******************************!
+[ee0b01000d000000:022c020000]
+El disco A tiene que ir en la esquina
+inferior derecha.
+!******************************!
+[ef0b01000e000000:0264020000]
+El disco F tiene que ir en la esquina
+superior izquierda.
+!******************************!
+[f00b01000f000000:029e020000]
+El disco D tiene que ir en la esquina
+inferior izquierda.
+
+De todos modos, {^!}la clave est{'a} en que
+las joyas del centro de la puerta
+deben ser todas amarillas!
+!******************************!
+[f10b010010000000:0242030000]
+El disco E tiene que ir en la esquina
+superior derecha. Si has seguido
+correctamente todas las indicaciones
+anteriores, {^!}lo que queda es muy f{'a}cil!
+!******************************!

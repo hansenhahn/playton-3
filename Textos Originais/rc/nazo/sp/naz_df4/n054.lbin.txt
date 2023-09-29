@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n054
+!******************************!
+n054a
+!******************************!
+n054b
+!******************************!
+[eb0b01000a000000:0211000000]
+En esta tienda solo se venden productos
+que cuestan 1 {po}, 2 {po} o 3 {po}. Si compras
+dos art{'i}culos del mismo tipo, puedes
+comprar otro igual a mitad de precio.
+
+Has comprado al menos uno de cada tipo.
+Si en total has comprado seis art{'i}culos
+y has pagado 9,5 {po}, {^?}cu{'a}ntos has comprado
+de cada tipo (1 {po}, 2 {po} y 3 {po})? Toca los
+huecos de izquierda a derecha para ir
+a{-n}adiendo los art{'i}culos que has comprado. 
+!******************************!
+[ec0b01000b000000:02c6010000]
+{^!}Excelente!
+
+Has comprado tres art{'i}culos de 1 {po},
+dos de 2 {po} y uno de 3 {po}.
+
+Para gastar 0,5 {po} tendr{'i}as que haber
+comprado o bien tres de 1 {po} o bien
+tres de 3 {po}, aunque en este {'u}ltimo
+caso te habr{'i}as pasado de las 9,5 {po}.
+Pero eso ya lo sab{'i}as, {^?}no?
+!******************************!
+[ed0b01000c000000:02e7020000]
+{^!}Qu{'e} l{'a}stima!
+
+La clave est{'a} en c{'o}mo llegar a gastar
+esas 0,5 {po} del total.
+!******************************!
+[ee0b01000d000000:0244030000]
+En la cantidad total que has pagado
+hay una fracci{'o}n.
+
+Inicia tu razonamiento a partir de esta
+premisa.
+!******************************!
+[ef0b01000e000000:02af030000]
+Los art{'i}culos que pueden dar lugar
+a un precio que incluya una fracci{'o}n
+son los productos de 1 {po} y los de 3 {po}.
+Recuerda cu{'a}l era la condici{'o}n para
+conseguir un art{'i}culo a mitad de precio.
+!******************************!
+[f00b01000f000000:0280040000]
+Si compras tres art{'i}culos de 3 {po}
+y los art{'i}culos comprados son seis
+en total, gastar{'a}s m{'a}s de 9,5 {po}.
+El art{'i}culo con el que gastas 0,5 {po}
+es uno de los que vale 1 {po}.
+!******************************!
+[f10b010010000000:0240050000]
+Gastas un total de 9,5 {po}. Para
+alcanzar esa fracci{'o}n de 0,5 {po},
+tendr{'a}s que comprar al menos tres
+art{'i}culos del mismo tipo. Si compras
+tres art{'i}culos de 1 {po}, gastar{'a}s
+en ellos 2,5 {po}. A{'u}n tendr{'a}s que
+comprar art{'i}culos por valor de 7 {po}.
+Pi{'e}nsalo con calma...
+!******************************!

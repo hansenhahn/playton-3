@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n014
+!******************************!
+n014a
+!******************************!
+n014b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esta mujer quiere ir a una estaci{'o}n de
+metro que no aparece en su mapa. Sin
+embargo, en el reverso del mapa hay
+una pista.
+
+{''}Para llegar a la estaci{'o}n de metro
+desde la florister{'i}a, sigue el camino
+que recorren los estudiantes para
+ir de la escuela a la biblioteca.{''}
+
+Dibuja un c{'i}rculo alrededor de la estaci{'o}n.
+!******************************!
+[ec0b01000b000000:025e010000]
+{^!}Qu{'e} buen sentido de la orientaci{'o}n!
+
+Si recorres el camino que siguen los
+estudiantes para llegar a la biblioteca,
+pero partiendo de la florister{'i}a, das con
+el trayecto que se muestra en el mapa.
+
+Hay algunas otras rutas que tambi{'e}n
+llevan al mismo sitio.
+
+!******************************!
+[ed0b01000c000000:026f020000]
+{^!}L{'a}stima!
+
+Intenta usar la funci{'o}n de las notas
+para dibujar el recorrido en el mapa.
+!******************************!
+[ee0b01000d000000:02ce020000]
+Usa la funci{'o}n de las notas para trazar
+el camino que siguen los estudiantes
+para llegar a la biblioteca. Ese es el
+recorrido que tendr{'a}s que imitar.
+!******************************!
+[ef0b01000e000000:026a030000]
+Piensa en c{'o}mo le indicas a otra persona
+el camino para llegar a alg{'u}n sitio.
+{''}Sal por la puerta y gira a la izquierda.
+En el primer cruce, gira a la derecha.{''}
+
+Algo as{'i}, {^?}verdad?
+!******************************!
+[f00b01000f000000:0230040000]
+Estas son las indicaciones para llegar
+a la biblioteca desde la escuela.
+
+{''}Sal de la escuela y ve hacia la
+izquierda. En el segundo cruce gira
+a la izquierda y avanza dos cruces
+m{'a}s. Desde all{'i}, avanza un poco y
+la biblioteca ser{'a} lo primero que
+encuentres a tu izquierda.{''}
+!******************************!
+[f10b010010000000:0251050000]
+Desde la florister{'i}a, sigue estas
+indicaciones:
+{''}Sal de la florister{'i}a y ve hacia la
+izquierda. En el segundo cruce gira
+a la izquierda y avanza dos cruces
+m{'a}s. Desde all{'i}, avanza un poco
+y la estaci{'o}n de metro ser{'a} lo
+primero que encuentres a tu izquierda.{''}
+
+Es el mismo trayecto que lleva de la
+escuela a la biblioteca, pero girado
+90{o} en sentido horario.
+!******************************!

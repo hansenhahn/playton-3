@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000004c040000004c040000000100000000000000000000000000]
+n062
+!******************************!
+n062a
+!******************************!
+n062b
+!******************************!
+[eb0b01000a000000:0211000000]
+Sobre el mostrador hay cinco tazones.
+Algunos contienen solo fideos y otros,
+adem{'a}s, tienen un trozo de carne encima.
+Deja los tazones alineados de forma tal
+que los tazones que solo tienen fideos
+y los que tienen carne queden alternados
+y separados a distancias iguales.
+
+{^?}Cu{'a}l es el m{'i}nimo n{'u}mero de movimientos
+necesarios para completar la tarea? Ten
+en cuenta que intercambiar la posici{'o}n de
+dos tazones cuenta como dos movimientos.
+!******************************!
+[ec0b01000b000000:02d8010000]
+{^!}Eso es pensar con la cabeza!
+
+{^!}Solo hab{'i}a que mover uno de los
+trozos de carne!
+!******************************!
+[ed0b01000c000000:0232020000]
+{^!}Vaya, qu{'e} l{'a}stima!
+
+{^?}La distancia entre todos los tazones
+es la misma?
+!******************************!
+[ee0b01000d000000:0286020000]
+{^?}Este puzle no se parece un poco al
+anterior?
+
+La verdad es que es un poco distinto.
+No temas probar diferentes
+posibilidades.
+!******************************!
+[ef0b01000e000000:0208030000]
+Hay tazones que solo tienen fideos,
+y tazones con fideos y un trozo de
+carne. Piensa en qu{'e} se diferencian
+exactamente estos dos tipos de
+tazones.
+
+Prueba a tocar un poco con el l{'a}piz,
+aqu{'i} y all{'a}, a ver qu{'e} pasa.
+!******************************!
+[f00b01000f000000:02ed030000]
+{^!}Vaya! {^!}Parece que tambi{'e}n se pueden
+mover solo los trozos de carne!
+!******************************!
+[f10b010010000000:023b040000]
+Contando de izquierda a derecha,
+mueve el trozo de carne desde
+el cuarto taz{'o}n al quinto y... {^!}Listo!
+
+Pues bien, {^?}cu{'a}ntos movimientos
+han hecho falta?
+!******************************!

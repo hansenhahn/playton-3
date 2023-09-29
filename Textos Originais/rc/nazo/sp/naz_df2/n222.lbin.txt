@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n222
+!******************************!
+n222a
+!******************************!
+n222b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ordena los nombres del profesor Layton
+y Luke deslizando las baldosas de abajo.
+
+Coloca cada baldosa junto a su letra
+correspondiente, que tiene que estar
+inmediatamente arriba o abajo, seg{'u}n
+sea el nombre de Layton o el de Luke.
+
+Otra cosa: tienes que dejar en blanco
+el hueco tachado en rojo.
+!******************************!
+[ec0b01000b000000:023b010000]
+{^!}Eso es!
+
+La primera letra de cada nombre
+tiene un color distinto al resto,
+{^!}pero no importa!
+
+El puzle no puede resolverse si
+intentas hacer que coincida el
+color de cada L con el resto de
+letras de cada nombre.
+!******************************!
+[ed0b01000c000000:0216020000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:023f020000]
+{^?}Lo has intentado un mont{'o}n de veces
+y ves que es imposible solucionarlo?
+
+Pues es que este puzle tiene truco.
+Nadie ha dicho que los colores tengan
+que coincidir. Si intentas que
+el color de la L inicial coincida
+con el resto de letras del nombre,
+nunca lograr{'a}s resolver el puzle.
+!******************************!
+[ef0b01000e000000:0263030000]
+
+!******************************!
+[f00b01000f000000:0264030000]
+
+!******************************!
+[f10b010010000000:0265030000]
+
+!******************************!

@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000300000000f203000000f2030000000100000000000000000000000000]
+n004
+!******************************!
+n004a
+!******************************!
+n004b
+!******************************!
+[eb0b01000a000000:0211000000]
+Dos hombres llevan cajas de la planta
+baja al segundo piso. El hombre grande
+puede llevar dos cajas a la vez y tarda
+un minuto en ir de la planta baja al
+segundo piso. El hombre peque{-n}o solo
+puede llevar una caja cada vez, pero
+tarda 30 segundos en ir de la planta
+baja al segundo piso. Cada uno tarda
+en bajar a la planta baja lo mismo que
+tarda en subir al segundo piso y no
+pueden pasarse las cajas, que son
+un poco inestables.
+Si hay 7 cajas en total, {^?}cu{'a}ntos minutos
+tardar{'a}n en subirlas al segundo piso?
+!******************************!
+[ec0b01000b000000:021c020000]
+{^!}Correcto!
+
+Se necesitan tres minutos para subir
+todas las cajas al segundo piso.
+Este puzle resulta mucho m{'a}s sencillo
+si haces un diagrama.
+!******************************!
+[ed0b01000c000000:02b0020000]
+{^!}Qu{'e} pena!
+
+Intentar solucionar el puzle mentalmente
+est{'a} bien, pero prueba tambi{'e}n a apuntar
+algunas notas en el dibujo.
+!******************************!
+[ee0b01000d000000:0236030000]
+La respuesta se puede obtener por puro
+c{'a}lculo mental, pero se ve mucho m{'a}s
+f{'a}cilmente si usas la funci{'o}n
+de las notas. Transcurrido un minuto,
+{^?}cu{'a}ntas cajas se han subido?
+{^?}Y d{'o}nde est{'a}n los dos hombres
+en ese momento?
+!******************************!
+[ef0b01000e000000:022e040000]
+Al cabo de un minuto, el hombre grande
+ha subido dos cajas y el peque{-n}o una.
+Sin embargo, en ese momento el hombre
+grande todav{'i}a est{'a} en el piso
+de arriba, mientras que el peque{-n}o
+ya ha vuelto a la planta baja.
+
+As{'i} las cosas, {^?}c{'o}mo ir{'a} la mudanza
+pasados dos minutos?
+!******************************!
+[f00b01000f000000:0254050000]
+Pasados dos minutos, el hombre grande
+ha vuelto a la planta baja y se dispone
+a subir m{'a}s cajas. El peque{-n}o ha subido
+otra caja, con la cual ya hay cuatro en
+el segundo piso.
+Por lo tanto, todav{'i}a quedan tres cajas
+por subir.
+!******************************!
+[f10b010010000000:023f060000]
+Gracias a las pistas anteriores has
+podido saber que al cabo de dos minutos
+se han subido cuatro cajas y los
+dos hombres est{'a}n en la planta baja.
+
+Si el peque{-n}o puede subir una caja
+en 30 segundos y el grande dos cajas
+en un minuto...
+!******************************!

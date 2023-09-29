@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n050
+!******************************!
+n050a
+!******************************!
+n050b
+!******************************!
+[eb0b01000a000000:0211000000]
+En una tienda de antig{:u}edades, un hombre
+adinerado est{'a} buscando jarrones que
+tengan un retrato pintado.
+
+{''}{^!}Vaya! Ese perfil, esa gran barriga...
+{^!}Si se parece a m{'i}! {^!}Me lo llevo!{''}
+
+Sin embargo, en estos tres jarrones solo
+hay pintadas caras... {^?}Cu{'a}l ha elegido?
+!******************************!
+[ec0b01000b000000:0236010000]
+{^!}Correcto!
+
+Era el jarr{'o}n A. Ponlo boca abajo y f{'i}jate
+en el contorno. {^!}Coincide exactamente con
+el perfil y la gran barriga del comprador!
+!******************************!
+[ed0b01000c000000:02ce010000]
+Qu{'e} pena...
+
+Compara los jarrones con el hombre
+y pi{'e}nsalo otra vez.
+!******************************!
+[ee0b01000d000000:0219020000]
+El hombre no est{'a} mirando solamente
+las caras pintadas en los jarrones.
+
+{'E}chale otro vistazo.
+!******************************!
+[ef0b01000e000000:027d020000]
+No te limites a mirar los jarrones.
+Si tambi{'e}n intentas darles la vuelta,
+el jarr{'o}n elegido resaltar{'a} m{'a}s.
+!******************************!
+[f00b01000f000000:02f4020000]
+Uno de los jarrones tiene un contorno
+que encaja exactamente con el perfil
+del hombre.
+!******************************!
+[f10b010010000000:024b030000]
+{^?}No estar{'a}s mirando solo los jarrones
+que son {''}gorditos{''} como el hombre, no?
+
+No te fijes solo en las formas de los
+jarrones, sino tambi{'e}n en las figuras
+que dibujan hacia el exterior.
+
+As{'i} ver{'a}s que hay una silueta que
+concuerda exactamente.
+!******************************!

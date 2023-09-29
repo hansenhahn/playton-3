@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n066
+!******************************!
+n066a
+!******************************!
+n066b
+!******************************!
+[eb0b01000a000000:0211000000]
+Estas dos im{'a}genes circulares muestran
+lo que ve el ojo derecho y lo que ve el
+ojo izquierdo. Al principio eran iguales,
+pero una de las im{'a}genes ha sido invertida
+horizontalmente y girada un n{'u}mero de
+grados indeterminado.
+
+Sin embargo, las figuras que hay dentro
+no han cambiado, salvo una de ellas,
+que ha sufrido una peque{-n}a modificaci{'o}n.
+Se{-n}{'a}lala con un c{'i}rculo.
+!******************************!
+[ec0b01000b000000:0299010000]
+{^!}Impresionante!
+
+La respuesta es G. Puede que las figuras
+invertidas despisten un poco, pero si
+has prestado atenci{'o}n a las diferencias
+respecto de sus ejes de simetr{'i}a,
+habr{'a}s dado con la soluci{'o}n.
+!******************************!
+[ed0b01000c000000:026f020000]
+{^!}L{'a}stima!
+
+F{'i}jate bien, quiz{'a} hayas pasado
+algo por alto.
+!******************************!
+[ee0b01000d000000:02b5020000]
+Compara las figuras una por una. No es
+tan dif{'i}cil, si piensas con cuidado en
+el aspecto que tendr{'a}n al invertirlas.
+!******************************!
+[ef0b01000e000000:0230030000]
+Descarta las figuras que no cambian
+al ser invertidas. As{'i} limitar{'a}s tu
+b{'u}squeda.
+!******************************!
+[f00b01000f000000:028b030000]
+{^?}Podr{'i}a ser que algunas de las figuras
+parezcan estar invertidas solo porque
+toda la imagen est{'a} girada?
+
+No te dejes confundir por la rotaci{'o}n.
+
+!******************************!
+[f10b010010000000:0229040000]
+La figura que buscas es redonda.
+!******************************!

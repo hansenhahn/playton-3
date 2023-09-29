@@ -1,0 +1,53 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<T>Parece que esta puerta lleva a
+la sala central.
+!******************************!
+[7117030004000000:000a000000023c0000000243000000]
+ルーク
+!******************************!
+<T>Espero que encontremos a Dimitri
+ah{'i}.
+!******************************!
+[7117030007000000:000a0000000200000000026f000000]
+レイトン
+!******************************!
+<T>Yo tambi{'e}n. Ya le has o{'i}do hablar
+antes, Luke. Estoy seguro de que le
+podemos hacer razonar.
+!******************************!
+[711703000a000000:000a000000023c00000002d5000000]
+ルーク
+!******************************!
+<T>Bueno, lo primero es lo primero.
+Tenemos que abrir esta puerta y
+tiene una cerradura muy rara.
+!******************************!
+[711703000d000000:000a00000002000000000237010000]
+レイトン
+!******************************!
+<T>Tengo la certeza de que es otro
+puzle. Dimitri quiere poner a prueba
+a todo aquel que pretenda entrar.
+!******************************!
+[7117030010000000:00e8030000020000000002a1010000]
+レイトン
+!******************************!
+<T>Dimitri nos ha puesto un obst{'a}culo
+formidable. Ser{'a} mejor que lo
+intente con la mente fresca.
+!******************************!
+[7117030013000000:00d007000002000000000208020000]
+レイトン
+!******************************!
+<T>Estoy seguro de que esta vez
+conseguir{'e} abrir la puerta.
+!******************************!
+[7117030016000000:00b80b000002000000000247020000]
+レイトン
+!******************************!
+<T>{^!}Ya est{'a}! Parece que la puerta
+se abre.
+!******************************!

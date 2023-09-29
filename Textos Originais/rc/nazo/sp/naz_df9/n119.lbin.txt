@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000100400000010040000000100000000000000000000000000]
+n119
+!******************************!
+n119a
+!******************************!
+n119b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes que llegar a tu destino desde el
+punto de partida, pero ten cuidado con
+las pieles de pl{'a}tano. Cuando pises
+alguna de ellas, {^!}patinar{'a}s sin detenerte
+hasta chocar con una pared!
+
+{^?}Puedes encontrar un camino que te
+permita llegar a tu destino? Toca una
+flecha roja para desplazarte en la
+direcci{'o}n que indique.
+!******************************!
+[ec0b01000b000000:025d010000]
+{^!}Has conseguido llegar!
+
+El t{'i}pico pl{'a}tano de Canarias por s{'i}
+solo es dulce y sabroso, pero la
+mayor parte de los pl{'a}tanos del
+mundo tienen origen tropical, con
+variantes menos dulces que se
+utilizan para cocinar.
+!******************************!
+[ed0b01000c000000:0242020000]
+{^!}Qu{'e} l{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0271020000]
+Si te sales de la pantalla volver{'a}s
+al principio. Es f{'a}cil patinar en
+el pl{'a}tano incorrecto por despiste,
+as{'i} que ve con cuidado.
+!******************************!
+[ef0b01000e000000:02ff020000]
+Al principio tienes que avanzar
+sin cambiar de direcci{'o}n.
+{^!}Patina hasta toparte con
+la pared de la izquierda!
+!******************************!
+[f00b01000f000000:0273030000]
+Tras topar con la pared, retrocede
+un poquito. Gira en la primera
+bifurcaci{'o}n que encuentres. Al
+hacerlo patinar{'a}s hacia abajo,
+pero no pasa nada.
+!******************************!
+[f10b010010000000:020c040000]
+Tras alcanzar la pared no te
+muevas a lo loco. F{'i}jate bien,
+y ver{'a}s que ya puedes llegar
+a tu destino sin pisar ninguna
+otra piel de pl{'a}tano.
+!******************************!

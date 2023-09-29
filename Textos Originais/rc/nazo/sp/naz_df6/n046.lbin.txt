@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000a00000000f203000000f2030000000100000000000000000000000000]
+n046
+!******************************!
+n046a
+!******************************!
+n046b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cava un t{'u}nel que lleve desde la entrada
+hasta la salida y que pase por todos
+los segmentos.
+
+Toca un panel para que el segmento cambie
+de curvo a recto o viceversa. Mant{'e}n el
+l{'a}piz en el borde de un panel y desl{'i}zalo
+con un movimiento circular para girarlo.
+
+Los paneles verdes ya est{'a}n en la posici{'o}n
+correcta, as{'i} que no los puedes alterar.
+{^!}Buena suerte!
+!******************************!
+[ec0b01000b000000:0290010000]
+{^!}Buen trabajo!
+
+{^!}Menos mal que has conseguido
+abrir un camino hacia la salida!
+!******************************!
+[ed0b01000c000000:02e5010000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo otra vez. {^!}Hay que terminar el
+t{'u}nel!
+!******************************!
+[ee0b01000d000000:0230020000]
+El t{'u}nel no tiene intersecciones. Esto
+quiere decir que es como una l{'i}nea
+continua que va desde la entrada
+hasta la salida.
+!******************************!
+[ef0b01000e000000:02b2020000]
+Aparte de la entrada y la salida,
+no hay ninguna otra abertura que
+comunique el t{'u}nel con el exterior.
+Si te fijas, el segmento curvo en la
+esquina inferior izquierda est{'a} fijo.
+En la esquina superior izquierda
+necesitas un segmento curvo
+para conectarlo con el segmento
+fijo que hay a su derecha.
+
+Con estas peque{-n}as pistas podr{'a}s
+ir resolviendo el puzle.
+!******************************!
+[f00b01000f000000:0223040000]
+Con la informaci{'o}n que te ha dado
+la pista 2 tambi{'e}n puedes determinar
+c{'o}mo ser{'a}n el tercer, el cuarto
+y el quinto segmento contando desde
+la entrada.
+
+Enlaza la secuencia con el segmento
+fijo de la esquina inferior izquierda y
+podr{'a}s descubrir la posici{'o}n de los
+dos siguientes.
+!******************************!
+[f10b010010000000:024d050000]
+El segmento que est{'a} debajo de la salida
+es recto y, debajo de {'e}l, el siguiente
+segmento hace una curva hacia
+la izquierda.
+
+El resto deber{'i}as poder
+descubrirlo t{'u}.
+!******************************!

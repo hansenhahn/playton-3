@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000000000000000000000000000000]
+n224
+!******************************!
+n224a
+!******************************!
+n224b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}{^!}Nos volvemos a encontrar, profesor!
+Soy Anthony, su rival en {''}El profesor
+Layton y la caja de Pandora{''}, y estoy
+aqu{'i} para presentarle un cautivador
+puzle.
+
+{^?}Podr{'i}a sacar la joya de esta enrevesada
+caja llev{'a}ndola al punto indicado por las
+flechas? No pienso ofrecerle ninguna de
+esas absurdas pistas. {^!}Quiero que se
+enfrente a un desaf{'i}o en estado puro!{''}
+!******************************!
+[ec0b01000b000000:0297010000]
+{''}{^!}Excelente!
+
+Veo que no ha perdido ese agudo
+ingenio para resolver puzles que
+le permiti{'o} completar {''}El profesor
+Layton y la caja de Pandora{''}.
+Eso me recuerda que deseaba pedirle algo.
+No revelar{'a} a nadie mi identidad,
+{^?}verdad? No espero menos de un
+caballero. {^!}Hasta la pr{'o}xima!{''}
+!******************************!
+[ed0b01000c000000:02cf020000]
+{^!}L{'a}stima!
+!******************************!
+[ee0b01000d000000:02df020000]
+
+!******************************!
+[ef0b01000e000000:02e0020000]
+
+!******************************!
+[f00b01000f000000:02e1020000]
+
+!******************************!
+[f10b010010000000:02e2020000]
+
+!******************************!

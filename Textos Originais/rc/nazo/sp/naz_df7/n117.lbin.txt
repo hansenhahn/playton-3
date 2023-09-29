@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b0000000003000000000000000000f203000000f2030000000100000000000000000000000000]
+n117
+!******************************!
+n117a
+!******************************!
+n117b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esto es un Laytongrama.
+
+Cubre la silueta del patito usando
+las cinco piezas del sombrero de copa
+de Layton sin que se solapen y sin
+dejar ning{'u}n espacio.
+
+Adem{'a}s de girar las piezas puedes
+invertirlas si lo consideras necesario.
+!******************************!
+[ec0b01000b000000:02fd000000]
+{^!}Bien hecho!
+
+Estos patitos todav{'i}a son polluelos.
+{^!}A{'u}n no saben volar!
+!******************************!
+[ed0b01000c000000:0251010000]
+{^!}Qu{'e} pena!
+
+Ah{'i} no veo ning{'u}n pato...
+!******************************!
+[ee0b01000d000000:0283010000]
+La pieza {#4} forma las patas del patito.
+!******************************!
+[ef0b01000e000000:02ad010000]
+La pieza {#3} forma la frente del
+patito al orientarla verticalmente.
+!******************************!
+[f00b01000f000000:02f3010000]
+La pieza {#1} forma la cola.
+
+{^?}Puedes ver c{'o}mo tienes que orientarla?
+!******************************!
+[f10b010010000000:023f020000]
+Una vez invertida, la pieza {#2} forma
+el pecho del patito. Y con eso ya
+tienes suficiente informaci{'o}n para
+completar este puzle.
+!******************************!

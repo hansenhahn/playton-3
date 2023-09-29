@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n022
+!******************************!
+n022a
+!******************************!
+n022b
+!******************************!
+[eb0b01000a000000:0211000000]
+Las tres figuras que se ven aqu{'i} son
+el resultado de girar y reflejar en
+un espejo una letra may{'u}scula.
+
+La letra es siempre la misma, pero {^?}cu{'a}l?
+!******************************!
+[ec0b01000b000000:02b0000000]
+{^!}Bien hecho!
+
+La respuesta es P. Hay que ver cu{'a}ntas
+formas diferentes puede hacer una sola
+letra, {^?}verdad?
+!******************************!
+[ed0b01000c000000:0225010000]
+{^!}Qu{'e} l{'a}stima!
+
+Intenta mirar las figuras desde
+diferentes {'a}ngulos.
+!******************************!
+[ee0b01000d000000:0274010000]
+Recuerda que cada una de las figuras
+proviene de la misma letra may{'u}scula
+reflejada.
+!******************************!
+[ef0b01000e000000:02cc010000]
+Cubre la mitad izquierda o la mitad
+derecha de cada una de las figuras e
+intenta dibujar la parte que le falta
+a la letra. Esto deber{'i}a ayudar.
+!******************************!
+[f00b01000f000000:025f020000]
+Parece que la letra tiene un trazo
+curvo y otro recto.
+!******************************!
+[f10b010010000000:0296020000]
+No es una O y tampoco es una Q.
+{^?}Quiz{'a} algo a medio camino entre
+las dos?
+!******************************!

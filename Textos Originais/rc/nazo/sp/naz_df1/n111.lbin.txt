@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000003000000000000000000f203000000f2030000000100000000010000000000000000]
+n111
+!******************************!
+n111a
+!******************************!
+n111b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tenemos una tableta de chocolate de
+5 x 10 cm a la que le falta un trozo
+de 5 x 1 cm, tal como se muestra en la
+imagen abajo. De lo que ha quedado de
+tableta, {^?}cu{'a}ntos trozos m{'a}s, id{'e}nticos
+a aquel en forma y tama{-n}o, se pueden
+obtener?
+
+Ten en cuenta que en el punto indicado en
+la imagen la tableta tiene un agujero de
+5 mm de di{'a}metro. Cualquier trozo que
+incluya el m{'a}s m{'i}nimo fragmento de este
+agujero no contar{'a} como v{'a}lido.
+!******************************!
+[ec0b01000b000000:02dd010000]
+{^!}Correcto!
+
+La respuesta es 8 trozos.
+
+Tienes que dividir horizontalmente
+la mitad izquierda de la tableta, tal
+como se ve en la imagen.
+Si te aseguras de que el agujero
+quede {'i}ntegramente en un solo trozo
+de chocolate, lo puedes descontar
+y te quedar{'a}n 8 trozos id{'e}nticos.
+!******************************!
+[ed0b01000c000000:02fb020000]
+Qu{'e} pena...
+
+Solo tienes que devanarte un poco los
+sesos.
+!******************************!
+[ee0b01000d000000:0238030000]
+Piensa qu{'e} pasar{'i}a si dividieses la
+tableta en trozos verticales. Si los
+trozos resultantes fuesen exactamente
+iguales al primero, entonces tendr{'i}as
+nueve trozos.
+!******************************!
+[ef0b01000e000000:02e4030000]
+Si dividieses la tableta en nueve trozos
+verticales, como suger{'i}a la pista 1, los
+dos trozos que est{'a}n m{'a}s a la izquierda
+incluir{'i}an una parte del agujero.
+Entonces, tendr{'i}as 9 - 2 = 7 trozos.
+{^?}Pero es esta la respuesta correcta?
+Tienes que romperte la cabeza
+un poquito m{'a}s...
+!******************************!
+[f00b01000f000000:020f050000]
+No tienes por qu{'e} dividir los otros
+trozos del mismo modo en que se cort{'o}
+el primero.
+Intenta dividir horizontalmente la mitad
+izquierda de la tableta de chocolate.
+!******************************!
+[f10b010010000000:02ba050000]
+El agujero entero puede quedar
+contenido en un solo trozo.
+
+Si lo haces as{'i}, {^?}cu{'a}ntos trozos
+m{'a}s quedar{'a}n?
+!******************************!

@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n103
+!******************************!
+n103a
+!******************************!
+n103b
+!******************************!
+[eb0b01000a000000:0211000000]
+El profesor Layton y Luke est{'a}n
+de charla en una tienda de ropa:
+
+{''}{^?}Sabes, Luke? He visto algo que me
+interesa mucho, {^!}quiz{'a} lo pueda comprar!{''}
+
+{^?}Qu{'e} art{'i}culo le ha resultado
+tan atractivo al profesor Layton?
+!******************************!
+[ec0b01000b000000:02fd000000]
+{^!}Qu{'e} capacidad de observaci{'o}n!
+
+La respuesta es C. Como seguramente
+habr{'a}s notado, lo que en realidad
+llam{'o} la atenci{'o}n del profesor Layton
+era la percha, por tener la forma de
+un signo de interrogaci{'o}n.
+
+{''}Luke, siempre que se me presenta
+una inc{'o}gnita, {^!}no me puedo resistir
+a ella!{''}
+
+{''}Pero profesor... Eso no es una inc{'o}gnita,
+{^!}sino una percha!{''}
+!******************************!
+[ed0b01000c000000:0286020000]
+{^!}Qu{'e} pena!
+
+Piensa en qu{'e} cosas fascinan al profesor
+Layton.
+
+{^?}Qu{'e} podr{'a} ser?
+!******************************!
+[ee0b01000d000000:02e6020000]
+Una pista para principiantes... Al
+profesor Layton la moda no le
+interesa demasiado.
+!******************************!
+[ef0b01000e000000:023b030000]
+Algo que le gusta al profesor Layton
+se oculta entre las prendas.
+!******************************!
+[f00b01000f000000:027d030000]
+Todos sabemos c{'o}mo le gustan
+los misterios al profesor Layton.
+F{'i}jate bien. {^!}Quiz{'a} veas algo
+de aspecto misterioso!
+!******************************!
+[f10b010010000000:02fd030000]
+Al profesor Layton le encantan
+los puzles, y aqu{'i} se oculta
+un signo que los representa.
+!******************************!

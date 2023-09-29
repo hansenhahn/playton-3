@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n184
+!******************************!
+n184a
+!******************************!
+n184b
+!******************************!
+[eb0b01000a000000:0211000000]
+Has pedido a un ni{-n}o que encienda 10 velas,
+pero tiene un amigo muy travieso que no
+deja de apagarlas soplando. Al cabo de 4
+minutos, el primer ni{-n}o enciende 4 velas y
+despu{'e}s, tras cada intervalo de 4 minutos,
+enciende 4 m{'a}s. El otro ni{-n}o apaga las 3
+primeras velas pasados 5 minutos, y sigue
+apag{'a}ndolas de a 3 tras cada intervalo
+de 5 minutos. Cuando los dos ni{-n}os act{'u}an
+en el mismo minuto, siempre empieza el
+que apaga velas.
+Si no hay velas encendidas al principio,
+{^?}cu{'a}ntas velas estar{'a}n encendidas al
+transcurrir 25 minutos?
+!******************************!
+[ec0b01000b000000:0247020000]
+{^!}As{'i} es!
+
+7 velas.
+
+Tras 24 minutos, el primer ni{-n}o
+empieza a encender velas de nuevo,
+pero como ya hay 8 velas encendidas,
+solo podr{'a} encender 2 m{'a}s. Un minuto
+despu{'e}s (25 minutos despu{'e}s de empezar)
+el ni{-n}o travieso apagar{'a} 3 velas,
+as{'i} que quedar{'a}n 7 encendidas.
+!******************************!
+[ed0b01000c000000:0272030000]
+{^!}Qu{'e} pena!
+
+Prueba a usar la funci{'o}n de las notas si
+te haces un l{'i}o tratando de resolver
+esto mentalmente.
+!******************************!
+[ee0b01000d000000:02ea030000]
+{^?}Sabes cu{'a}ntas velas estar{'a}n
+encendidas tras 20 minutos?
+
+Tras 16 minutos, 7 velas estar{'a}n
+encendidas. A los 20 minutos exactos,
+el ni{-n}o que enciende velas y el que
+las apaga entrar{'a}n en acci{'o}n a la
+vez, lo que significa que estar{'a}n
+encendidas 8 velas.
+!******************************!
+[ef0b01000e000000:02ff040000]
+
+!******************************!
+[f00b01000f000000:0200050000]
+
+!******************************!
+[f10b010010000000:0201050000]
+
+!******************************!

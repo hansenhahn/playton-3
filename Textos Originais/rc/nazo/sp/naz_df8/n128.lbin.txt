@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n128
+!******************************!
+n128a
+!******************************!
+n128b
+!******************************!
+[eb0b01000a000000:0211000000]
+Imag{'i}nate un dado que tenga las caras del
+esquema de la esquina superior derecha.
+Este dado rodar{'a} apoyando una cara en
+cada cuadrado en blanco y lo marcar{'a}
+con la imagen de la cara que lo toque.
+Seg{'u}n ves en la imagen, la marca en el
+primer cuadrado ser{'a} la de un coraz{'o}n
+boca abajo.
+
+{^?}Qu{'e} imagen marcar{'a} el cuadrado final que
+contiene una interrogaci{'o}n? Desliza una
+de las tres figuras sobre la interrogaci{'o}n
+gir{'a}ndola si es necesario.
+!******************************!
+[ec0b01000b000000:02eb010000]
+{^!}No se te ha dado mal!
+
+Lo complicado es no hacerse un l{'i}o
+con la direcci{'o}n a la que apuntar{'a}
+el coraz{'o}n.
+!******************************!
+[ed0b01000c000000:0264020000]
+{^!}Qu{'e} pena!
+
+{^?}Est{'a}s pensando en tres dimensiones?
+!******************************!
+[ee0b01000d000000:02a1020000]
+Echa un vistazo al esquema del dado en
+la esquina superior derecha. {^?}Te has
+fijado en que hay corazones rojos en
+caras opuestas?
+!******************************!
+[ef0b01000e000000:0225030000]
+El c{'i}rculo verde y el diamante azul
+siempre tendr{'a}n el mismo aspecto aunque
+miren en cualquier direcci{'o}n. Es la
+orientaci{'o}n del coraz{'o}n rojo en la que
+tendr{'a}s que fijarte detenidamente.
+!******************************!
+[f00b01000f000000:02f1030000]
+El segundo cuadrado quedar{'a} marcado
+por un diamante azul, y las caras
+delantera y trasera del dado mostrar{'a}n
+un coraz{'o}n boca abajo cada una. Al ir
+avanzando el dado hacia la derecha, el
+camino quedar{'a} marcado por diamantes y
+c{'i}rculos, y los dos corazones ir{'a}n
+girando 90{o} cada vez.
+
+Imag{'i}nate esto y trata de deducir
+c{'o}mo quedar{'a} el dado al final.
+!******************************!
+[f10b010010000000:026a050000]
+La figura que aparece en el {'u}ltimo
+cuadrado es el coraz{'o}n rojo.
+
+Pero no basta con saber eso. {^?}En qu{'e}
+direcci{'o}n apuntar{'a}? Pi{'e}nsalo, porque
+no va a estar en la posici{'o}n original.
+!******************************!

@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n154
+!******************************!
+n154a
+!******************************!
+n154b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo puedes ver un sombrero de copa
+negro formado por seis bloques. Tu
+tarea consiste en trazar el contorno
+de un sombrero de copa blanco en el
+mismo sitio utilizando todas las piezas.
+
+Puedes mover y girar las piezas con el
+l{'a}piz, pero no puedes invertirlas.
+!******************************!
+[ec0b01000b000000:0219010000]
+{^!}Qu{'e} estilazo!
+
+{^!}Es un sombrero blanco precioso!
+!******************************!
+[ed0b01000c000000:0253010000]
+{^!}No es as{'i}!
+
+Esa no es la forma de un sombrero
+de copa...
+!******************************!
+[ee0b01000d000000:0293010000]
+Este puzle puede parecerte conocido,
+pero no puedes invertir las piezas.
+
+Para empezar, piensa en el aspecto que
+tiene un {''}sombrero de copa blanco{''}.
+!******************************!
+[ef0b01000e000000:022e020000]
+Si mueves todos los bloques al exterior,
+{^!}el hueco que dejan las piezas se
+convierte en un sombrero de copa
+blanco! {^?}Ves c{'o}mo va?
+
+Ahora solo tienes que colocar los
+bloques alrededor del hueco para
+crear la forma.
+!******************************!
+[f00b01000f000000:020d030000]
+Ahora que sabes lo que hacer, {^?}sabes
+c{'o}mo hacerlo? A ver si cre{'i}as que
+iba a ser pan comido...
+
+Una pista: puedes encajar las dos
+piezas que hacen un giro de 180{o}
+en cada lado del ala del sombrero.
+!******************************!
+[f10b010010000000:02de030000]
+La pieza corta que hace un giro
+de 180{o} va alrededor del lado
+izquierdo del ala del sombrero.
+
+La pieza larga que hace un giro de
+180{o} va alrededor del lado
+derecho del ala.
+
+{^!}El resto no te resultar{'a} dif{'i}cil!
+!******************************!

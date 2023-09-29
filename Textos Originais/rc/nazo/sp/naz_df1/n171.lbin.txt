@@ -1,0 +1,46 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n171
+!******************************!
+n171a
+!******************************!
+n171b
+!******************************!
+[eb0b01000a000000:0211000000]
+Los n{'u}meros 1, 2 y 5 que ves aqu{'i}
+tienen el mismo aspecto aunque los
+pongas boca abajo.
+
+Tienes dos tarjetas con un 1, cuatro
+tarjetas con un 2 y una tarjeta con un 5.
+Utiliza las tarjetas para crear una
+operaci{'o}n que siga siendo correcta
+incluso vista boca abajo.
+!******************************!
+[ec0b01000b000000:0223010000]
+{^!}As{'i} es!
+
+21 x 12 = 252
+o
+12 x 21 = 252
+!******************************!
+[ed0b01000c000000:0251010000]
+{^!}L{'a}stima!
+
+{^?}Se te atragantan las matem{'a}ticas?
+!******************************!
+[ee0b01000d000000:028b010000]
+{^?}Te servir{'i}a de ayuda saber la
+respuesta a la operaci{'o}n?
+
+Pues es 252. Ahora, {^!}a calcular, y
+pronto resolver{'a}s el puzle!
+!******************************!
+[ef0b01000e000000:0213020000]
+
+!******************************!
+[f00b01000f000000:0214020000]
+
+!******************************!
+[f10b010010000000:0215020000]
+
+!******************************!

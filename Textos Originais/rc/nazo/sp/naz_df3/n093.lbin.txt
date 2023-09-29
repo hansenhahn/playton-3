@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000c00000000f203000000f2030000000100000000010000000000000000]
+n093
+!******************************!
+n093a
+!******************************!
+n093b
+!******************************!
+[eb0b01000a000000:0211000000]
+Coloca joyas en los espacios vac{'i}os.
+La {'u}nica regla es que ning{'u}n grupo
+de cuatro joyas puede formar las
+esquinas de un cuadrado o un rect{'a}ngulo,
+ya sea horizontal o verticalmente.
+Toca el icono de la esquina superior
+izquierda para ver algunos ejemplos.
+
+Hay un total de diecis{'e}is espacios vac{'i}os.
+{^?}Cu{'a}l es el m{'a}ximo n{'u}mero de joyas
+que puedes colocar respetando la regla?
+Escribe un n{'u}mero como respuesta.
+!******************************!
+[ec0b01000b000000:02ca010000]
+{^!}Impresionante!
+
+Independientemente de c{'o}mo coloques las
+joyas, no podr{'a}s poner m{'a}s de nueve sin
+romper la regla. Arriba puedes ver un
+ejemplo. {^!}Lo m{'a}s complicado es estar
+seguro de que tu respuesta es correcta!
+!******************************!
+[ed0b01000c000000:02b0020000]
+{^!}Qu{'e} pena!
+
+Quiz{'a} sea obvio, pero la soluci{'o}n es un
+n{'u}mero menor que 16.
+!******************************!
+[ee0b01000d000000:0208030000]
+Empieza por colocar joyas respetando
+la regla, hasta que ya no puedas poner
+m{'a}s. Si repites este procedimiento
+varias veces, la soluci{'o}n ir{'a}
+surgiendo poco a poco.
+!******************************!
+[ef0b01000e000000:02b5030000]
+Evidentemente, la respuesta no puede
+ser 16.
+
+{^?}Y 15, o 14?
+
+Tampoco. Estos dos n{'u}meros tambi{'e}n
+los puedes quitar de la lista
+de posibles soluciones.
+!******************************!
+[f00b01000f000000:0253040000]
+La respuesta es un m{'u}ltiplo de tres.
+!******************************!
+[f10b010010000000:027b040000]
+La respuesta no es un n{'u}mero
+de dos d{'i}gitos.
+Ya casi lo tienes, {^!}t{'u} puedes!
+!******************************!

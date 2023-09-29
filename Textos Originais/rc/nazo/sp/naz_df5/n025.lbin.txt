@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n025
+!******************************!
+n025a
+!******************************!
+n025b
+!******************************!
+[eb0b01000a000000:0211000000]
+El camarero se llev{'o} la mano a los ri{-n}ones,
+suspir{'o} profundamente y dijo:
+
+{''}Siempre uso la misma caja para llevar
+vasos, y procuro poner en ella la mayor
+cantidad posible de vasos. Pero hay un
+tipo de vasos que odio transportar.{''}
+
+De los cuatro tipos de vasos dibujados
+aqu{'i}, {^?}a cu{'a}l se refiere el camarero?
+Ten en cuenta que todos pesan lo mismo.
+!******************************!
+[ec0b01000b000000:0285010000]
+{^!}Muy bien!
+
+Los vasos en cuesti{'o}n son del tipo B.
+Estos son los {'u}nicos vasos que se pueden
+colocar unos dentro de otros. Al apilar
+unos cuantos, la carga se hace pesada y
+dif{'i}cil de llevar.
+!******************************!
+[ed0b01000c000000:024f020000]
+{^!}Qu{'e} l{'a}stima!
+
+Imag{'i}nate que tuvieses que llevar de
+verdad la mayor cantidad posible de
+vasos. {^?}C{'o}mo los pondr{'i}as?
+!******************************!
+[ee0b01000d000000:02d7020000]
+El camarero dijo que odiaba llevar la
+caja cuando est{'a} llena de un cierto
+tipo de vasos.
+
+Cuando se vuelve desagradable llevar
+cosas, {^?}a qu{'e} puede deberse?
+!******************************!
+[ef0b01000e000000:027c030000]
+Cuando lleva demasiados vasos
+en la caja, el problema para
+el camarero es lo que pesa.
+!******************************!
+[f00b01000f000000:02d3030000]
+Cuantos m{'a}s vasos haya en una caja,
+m{'a}s pesada ser{'a} la carga. En una caja
+caben muchos m{'a}s vasos de un cierto
+tipo que de otro. Estos vasos hacen
+m{'a}s pesada la caja y por eso no
+le gustan al camarero.
+!******************************!
+[f10b010010000000:02ab040000]
+Si un vaso se puede poner dentro
+de otro, entonces cabr{'a}n m{'a}s en
+la misma caja.
+{^?}Cu{'a}l de estos vasos se puede
+encajar dentro de otro como {'e}l?
+!******************************!

@@ -1,0 +1,49 @@
+[7017010000000000:0007000000]
+[7117030001000000:000a00000002000000000209000000]
+サマリー
+!******************************!
+<T>No me puedo creer que Clive
+haya hecho todo esto. Siempre
+fue un chico muy bueno.
+!******************************!
+[7117030004000000:000a000000025e0000000267000000]
+レイトン
+!******************************!
+<T>Est{'a} claro que Clive hizo todo
+lo posible para ocultarles su
+plan a usted y a su marido.
+!******************************!
+[7117030007000000:000a000000020000000002c6000000]
+サマリー
+!******************************!
+<T>Cr{'e}ame, profesor. En el fondo,
+Clive es buena persona, adem{'a}s de
+un chico muy amable y cari{-n}oso.
+!******************************!
+[711703000a000000:000a00000002000000000233010000]
+サマリー
+!******************************!
+<T>S{'e} lo que parece, pero no es
+un cruel delincuente.
+!******************************!
+[711703000d000000:000a000000025e000000026c010000]
+レイトン
+!******************************!
+<T>Lo s{'e}. Har{'e} todo lo que pueda
+para acabar con esto y traerlo
+de vuelta.
+!******************************!
+[7117030010000000:000a000000020000000002bd010000]
+サマリー
+!******************************!
+<T>Gracias, profesor.<W> Nosotros
+estaremos aqu{'i} ayudando a
+todo el mundo.
+!******************************!
+[7117030013000000:00140000000200000000020b020000]
+サマリー
+!******************************!
+<T>Profesor, no deje que Clive se
+salga con la suya. Det{'e}ngalo
+antes de que vaya m{'a}s lejos.
+!******************************!

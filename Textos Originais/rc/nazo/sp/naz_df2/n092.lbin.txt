@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n092
+!******************************!
+n092a
+!******************************!
+n092b
+!******************************!
+[eb0b01000a000000:0211000000]
+Veamos, {^?}cu{'a}l es el n{'u}mero clave?
+Parece que combinando estas diez
+piezas obtendr{'a}s la soluci{'o}n.
+
+Mueve y gira las piezas para descubrir
+el n{'u}mero y luego toca <CR>Soluci{'o}n</C> para
+escribir tu respuesta.
+!******************************!
+[ec0b01000b000000:02f3000000]
+{^!}Correcto!
+
+La respuesta es 081127. Queda bien
+a la vista cuando colocas todas las
+piezas juntas de la manera apropiada.
+
+{^!}Ahora ya sabes el n{'u}mero clave!
+!******************************!
+[ed0b01000c000000:0297010000]
+Qu{'e} mala suerte...
+
+Intenta colocar bien todas las piezas.
+!******************************!
+[ee0b01000d000000:02d5010000]
+Intenta comenzar colocando las piezas
+que tienen un borde o alguna otra
+caracter{'i}stica especial.
+!******************************!
+[ef0b01000e000000:0239020000]
+Seg{'u}n c{'o}mo las gires, cada pieza puede
+encajar en varios sitios diferentes.
+
+Sin embargo, solo hay una manera
+de encajarlas todas.
+
+Sigue intent{'a}ndolo, {^!}no te rindas!
+!******************************!
+[f00b01000f000000:02ec020000]
+El primer d{'i}gito del n{'u}mero clave es el 0,
+y el {'u}ltimo es el 7.
+
+Tambi{'e}n hay un 1. {^?}Ya sabes d{'o}nde?
+
+!******************************!
+[f10b010010000000:0263030000]
+El n{'u}mero 1 aparece dos veces y junto
+a uno de ellos hay un 2.
+
+Con esta pista ya deber{'i}as saber
+cinco de los seis n{'u}meros.
+
+{^!}Venga, inserta el n{'u}mero clave!
+!******************************!

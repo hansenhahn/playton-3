@@ -1,0 +1,28 @@
+[7017010000000000:0004000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton sorprende a todo el mundo
+cuando desenmascara a Clive, el
+verdadero criminal del caso.
+!******************************!
+[7117030004000000:000a0000000200000000026e000000]
+ナレーション
+!******************************!
+<T>Clive lleva a{-n}os planeando su
+venganza contra el gobierno y
+la comunidad cient{'i}fica.
+!******************************!
+[7117030007000000:0014000000020000000002cc000000]
+ナレーション
+!******************************!
+<T>Clive huye a la fortaleza mec{'a}nica
+que yace oculta bajo el T{'a}mesis.
+!******************************!
+[711703000a000000:001400000002000000000219010000]
+ナレーション
+!******************************!
+<T>Layton, consciente de la amenaza
+que la m{'a}quina representa para
+Londres, se apresura a detenerlo.
+!******************************!

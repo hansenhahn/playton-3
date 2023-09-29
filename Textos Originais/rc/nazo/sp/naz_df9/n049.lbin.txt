@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n049
+!******************************!
+n049a
+!******************************!
+n049b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este alumno ha dibujado cinco formas en
+la pizarra, pero una de ellas no est{'a} del
+todo bien.
+
+Rodea con un c{'i}rculo la figura que no
+concuerda.
+!******************************!
+[ec0b01000b000000:02a6000000]
+{^!}Excelente!
+
+Las dem{'a}s figuras se componen de tres
+{''}3{''}, cuatro {''}4{''}, cinco {''}5{''} y siete {''}7{''}.
+Pero esta figura no consta ni de seis {''}6{''}
+ni de nueve {''}9{''}.
+!******************************!
+[ed0b01000c000000:0266010000]
+{^!}Qu{'e} pena!
+
+Son figuras un poco raras, pero tienen un
+sentido.
+!******************************!
+[ee0b01000d000000:02ab010000]
+Si intentas dibujar algunas de estas
+figuras, quiz{'a} te des cuenta de c{'o}mo
+est{'a}n hechas.
+!******************************!
+[ef0b01000e000000:020c020000]
+{^?}Has notado que todas las figuras
+est{'a}n hechas con n{'u}meros?
+
+Piensa qu{'e} relaci{'o}n guarda cada
+figura y su correspondiente n{'u}mero.
+!******************************!
+[f00b01000f000000:029f020000]
+Una de las figuras est{'a} hecha de tres
+n{'u}meros {''}3{''}, otra consta de cuatro
+n{'u}meros {''}4{''}...
+
+Hay una relaci{'o}n entre el n{'u}mero usado
+en cada figura y cu{'a}ntos n{'u}meros hay
+en ella. Teniendo en cuenta este dato,
+{^?}puedes ver qu{'e} figura no se ajusta
+a la regla?
+!******************************!
+[f10b010010000000:02c2030000]
+Una de las figuras est{'a} hecha con un
+n{'u}mero que se puede ver de dos maneras
+diferentes, seg{'u}n est{'e} hacia arriba
+o hacia abajo.
+
+Comprueba cu{'a}ntas veces se repite este
+n{'u}mero en la figura correspondiente
+y ver{'a}s que no se ajusta a la regla.
+!******************************!

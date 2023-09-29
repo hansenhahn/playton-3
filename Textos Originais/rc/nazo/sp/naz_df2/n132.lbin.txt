@@ -1,0 +1,82 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n132
+!******************************!
+n132a
+!******************************!
+n132b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cuatro agentes de polic{'i}a (A, B, C y D)
+tienen que cruzar este r{'i}o para perseguir
+a un criminal. Sin embargo, en la barca
+solo caben dos personas, as{'i} que no
+pueden pasar todos a la vez. Un agente
+tardar{'a} un minuto en cruzar remando
+el r{'i}o, pero la segunda vez estar{'a} m{'a}s
+cansado y tardar{'a} dos minutos, y la
+tercera vez tardar{'a} tres minutos...
+
+{^?}Cu{'a}l es el n{'u}mero m{'i}nimo de minutos
+que hace falta para que los cuatro
+agentes crucen el r{'i}o?
+!******************************!
+[ec0b01000b000000:02f3010000]
+{^!}Eso es!
+
+6 minutos. A y B pasan la primera
+vez, con A en los remos. B rema en
+el viaje de vuelta. C se sube a la
+barca y lleva remando a B al otro
+lado. Ahora A, B y C est{'a}n en la
+otra orilla.
+Uno de los tres tendr{'a} que hacer
+un viaje m{'a}s, y sea quien sea, ser{'a}
+su segundo viaje, con lo que siempre
+tardar{'a} un minuto m{'a}s. En el {'u}ltimo
+viaje remar{'a} D, que est{'a} descansado.
+!******************************!
+[ed0b01000c000000:0286030000]
+No has acertado.
+
+Quiz{'a}s podr{'i}as dibujar un diagrama
+para ver qui{'e}n hace cada viaje.
+!******************************!
+[ee0b01000d000000:02e4030000]
+Haz que A y B crucen al otro lado
+primero. Uno de ellos remar{'a} en el
+viaje de ida. Da igual cu{'a}l de los dos,
+pero recuerda luego qui{'e}n lo ha hecho.
+!******************************!
+[ef0b01000e000000:0281040000]
+El agente que no haya remado en el
+viaje de ida deber{'i}a ser el que lleve
+la barca de vuelta. Eso significa que
+tanto A como B habr{'a}n remado en la
+barca una sola vez.
+En el punto de partida subir{'a} a
+la barca el tercer agente, que
+estar{'a} descansado y por tanto
+ser{'a} el que tenga que remar.
+!******************************!
+[f00b01000f000000:02b0050000]
+Los tres agentes de polic{'i}a que est{'a}n
+en la otra orilla habr{'a}n remado cada
+uno una vez, as{'i} que cualquiera de
+ellos que haga el viaje de vuelta
+para recoger al agente que falta
+tardar{'a} dos minutos, vaya quien vaya.
+Cualquiera de ellos tendr{'a} que ir
+a buscar a D.
+!******************************!
+[f10b010010000000:02c9060000]
+Si has seguido las tres primeras
+pistas, los viajes deber{'i}an ser as{'i}:
+1 min (ida), 1 min (vuelta),
+1 min (ida), 2 min (vuelta).
+Cuando D se suba a la barca habr{'a}n
+pasado cinco minutos.
+
+Llegados a este punto, es bastante
+obvio qui{'e}n tiene que remar para que
+el {'u}ltimo viaje dure lo menos posible.
+!******************************!

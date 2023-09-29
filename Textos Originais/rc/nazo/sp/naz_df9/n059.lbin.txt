@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n059
+!******************************!
+n059a
+!******************************!
+n059b
+!******************************!
+[eb0b01000a000000:0211000000]
+Un conejo excepcionalmente inteligente
+ha decidido moverse seg{'u}n unas reglas
+bastante peculiares. Puede saltar 70 cm
+hacia adelante, pero despu{'e}s de cada
+salto hacia adelante tiene que saltar
+30 cm en la direcci{'o}n en la que apunta
+su cola.
+
+Si tuviese que desplazarse 10 metros en
+l{'i}nea recta, {^?}cu{'a}l es el menor n{'u}mero de
+saltos posibles que necesitar{'i}a para
+recorrer esa distancia?
+
+!******************************!
+[ec0b01000b000000:02a9010000]
+{^!}Eso es!
+
+La respuesta es 20 saltos.
+
+Despu{'e}s de cada salto de 70 cm hacia
+adelante, el conejo gira 180{o} y salta
+30 cm m{'a}s en la direcci{'o}n en que apunta
+su cola, de manera que recorre un metro
+con dos saltos.
+!******************************!
+[ed0b01000c000000:0288020000]
+{^!}Qu{'e} mala suerte!
+
+El conejo es ciertamente exc{'e}ntrico,
+pero sin duda muy listo.
+!******************************!
+[ee0b01000d000000:02e2020000]
+Un c{'a}lculo r{'a}pido te permite saber que
+si el conejo salta 70 cm hacia adelante
+y luego 30 cm hacia atr{'a}s en la
+direcci{'o}n de su cola, recorrer{'a} 40 cm
+cada dos saltos. {^?}No habr{'a} alguna
+manera de avanzar un poco m{'a}s r{'a}pido?
+!******************************!
+[ef0b01000e000000:02da030000]
+Si despu{'e}s de saltar 70 cm hacia
+adelante realiza cierta acci{'o}n,
+el conejo estar{'a} en condiciones de
+saltar a{'u}n m{'a}s lejos hacia la meta.
+
+Intenta pensar alguna manera para
+no desaprovechar el salto de 30 cm
+en la direcci{'o}n de la cola.
+!******************************!
+[f00b01000f000000:02d6040000]
+La clave de este puzle est{'a} en la
+rotaci{'o}n.
+
+Si gira sobre s{'i} mismo, el conejo puede
+saltar m{'a}s lejos hacia la meta.
+!******************************!
+[f10b010010000000:0257050000]
+Tras el primer salto, el conejo gira
+180{o} y realiza el segundo salto. Al
+tocar tierra gira otra vez y da el
+siguiente salto.
+Repetir esta secuencia es el modo m{'a}s
+efectivo de moverse hacia la meta,
+aunque el pobre conejo quede un poco
+mareado.
+!******************************!

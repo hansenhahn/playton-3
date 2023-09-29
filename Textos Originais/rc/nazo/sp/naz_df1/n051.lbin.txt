@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000004c040000004c040000000100000000000000000000000000]
+n051
+!******************************!
+n051a
+!******************************!
+n051b
+!******************************!
+[eb0b01000a000000:0211000000]
+Sobre el mostrador hay cinco tazones.
+Algunos contienen solo fideos y otros,
+adem{'a}s, tienen un trozo de carne encima.
+Con el m{'i}nimo esfuerzo, alinea los tazones
+de manera que los que solo tienen fideos
+y los que tienen carne queden alternados
+y separados a distancias iguales.
+
+{^?}Cu{'a}l es el m{'i}nimo n{'u}mero de movimientos
+necesarios para completar la tarea? Ten
+en cuenta que intercambiar la posici{'o}n de
+dos tazones cuenta como dos movimientos.
+!******************************!
+[ec0b01000b000000:02e0010000]
+{^!}Muy bien!
+
+No necesitas intercambiar la posici{'o}n
+de dos tazones, sino que basta con mover
+uno solo.
+
+El cocinero del dibujo debe de estar
+enfadado porque su colega se lo pens{'o}
+tanto {^!}que la comida se enfri{'o}!
+!******************************!
+[ed0b01000c000000:02c0020000]
+{^!}Qu{'e} l{'a}stima!
+
+{^?}Qu{'e} querr{'a} decir {''}con el m{'i}nimo
+esfuerzo{''}?
+!******************************!
+[ee0b01000d000000:0216030000]
+Puedes mover los tazones, as{'i} que
+prueba diferentes posibilidades,
+a ver qu{'e} pasa.
+!******************************!
+[ef0b01000e000000:026f030000]
+Este puzle requiere cierta astucia.
+F{'i}jate bien en la hilera de tazones
+completa. Quiz{'a} notes algo.
+!******************************!
+[f00b01000f000000:02d9030000]
+{^?}Has notado que a la derecha
+del quinto taz{'o}n hay espacio
+suficiente para poner otro?
+!******************************!
+[f10b010010000000:0235040000]
+Solo tienes que mover un taz{'o}n
+de un extremo a otro del mostrador
+para que los tazones con y sin carne
+queden alternados.
+
+Int{'e}ntalo.
+!******************************!

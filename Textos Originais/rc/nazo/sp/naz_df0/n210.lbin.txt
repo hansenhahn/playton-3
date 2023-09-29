@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n210
+!******************************!
+n210a
+!******************************!
+n210b
+!******************************!
+[eb0b01000a000000:0211000000]
+Han sacado esta foto de unas cabinas
+telef{'o}nicas en una esquina de Londres.
+Las cabinas son de color rojo brillante,
+pero en la foto los colores aparecen
+un poco apagados. En la foto aparecen
+cuatro cabinas, pero solo se puede llamar
+desde tres de ellas.
+
+{^?}Cu{'a}l es la cabina que no puede utilizarse?
+!******************************!
+[ec0b01000b000000:0246010000]
+{^!}Qu{'e} vista de lince!
+
+Las flechas amarillas muestran la
+direcci{'o}n en la que cae la luz del sol.
+Debido a esto, tendr{'i}a que estar en
+sombra el lado derecho de todas las
+cabinas.
+Como la cabina D tiene el lado izquierdo
+en sombra, es evidente que no es m{'a}s
+que un reflejo de la cabina C.
+!******************************!
+[ed0b01000c000000:0273020000]
+{^!}L{'a}stima!
+
+Una de las cabinas no es como las dem{'a}s...
+!******************************!
+[ee0b01000d000000:02b2020000]
+Si te fijas bien, ver{'a}s que una de las
+cabinas es solo el reflejo de otra
+de ellas.
+!******************************!
+[ef0b01000e000000:0209030000]
+
+!******************************!
+[f00b01000f000000:020a030000]
+
+!******************************!
+[f10b010010000000:020b030000]
+
+!******************************!

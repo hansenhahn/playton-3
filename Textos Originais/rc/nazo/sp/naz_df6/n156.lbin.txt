@@ -1,0 +1,92 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n156
+!******************************!
+n156a
+!******************************!
+n156b
+!******************************!
+[eb0b01000a000000:0211000000]
+Hay 52 cartas en la baraja de abajo:
+26 negras y 26 rojas, sin comodines.
+Al barajar y cortar en dos montones, en
+el mont{'o}n de la izquierda hay 23 cartas.
+
+{^?}Cu{'a}l es la diferencia entre el n{'u}mero de
+cartas rojas del mont{'o}n izquierdo y el
+n{'u}mero de cartas negras del mont{'o}n de
+la derecha?
+!******************************!
+[ec0b01000b000000:0245010000]
+{^!}Has ganado esta mano!
+
+Siempre habr{'a} tres cartas negras
+m{'a}s en el mont{'o}n de la derecha
+que cartas rojas en el mont{'o}n
+de la izquierda.
+
+Puedes usar una ecuaci{'o}n para
+resolver el puzle, pero tambi{'e}n puede
+ser divertido usar unos n{'u}meros al
+azar y deducirlo con ellos. {^!}Te
+sorprender{'a} descubrir que la diferencia
+se mantiene con cualquier n{'u}mero!
+!******************************!
+[ed0b01000c000000:02bf020000]
+{^!}Qu{'e} pena!
+
+Est{'a} claro que este es un problema
+matem{'a}tico, por as{'i} decirlo, pero
+cuesta deducir lo que tienes que
+averiguar.
+
+Prueba con n{'u}meros al azar para ver
+si descubres algo interesante...
+!******************************!
+[ee0b01000d000000:0294030000]
+No te dejes confundir por el hecho de
+que este sea un problema num{'e}rico.
+
+Podr{'a}s deducir la respuesta usando
+operaciones sencillas si sabes
+lo que tienes que buscar.
+!******************************!
+[ef0b01000e000000:0240040000]
+La manera m{'a}s r{'a}pida de empezar
+es con n{'u}meros provisionales.
+
+Hay 23 cartas en el mont{'o}n de
+la izquierda. Al ser una baraja
+normal de 52 cartas, en el otro
+mont{'o}n tendr{'a}s 29 cartas.
+
+Ahora imagina que en el mont{'o}n de la
+izquierda hay 10 cartas rojas y 13
+negras. {^?}Cu{'a}ntas cartas de cada color
+quedar{'a}n en el mont{'o}n de la derecha?
+!******************************!
+[f00b01000f000000:02ac050000]
+Retomamos la pista 2. {^?}Cu{'a}ntas cartas
+rojas y negras hab{'i}a en el mont{'o}n de
+la derecha?
+
+Resta 10 a 26 y tendr{'a}s 16 cartas
+rojas. Quita 13 a 26 y tendr{'a}s 13
+cartas negras. {^!}Ya sabes la diferencia
+entre la cantidad de cartas rojas del
+mont{'o}n izquierdo y la de cartas negras
+en el mont{'o}n derecho! Ahora prueba
+con otro reparto de n{'u}meros y observa
+los resultados.
+!******************************!
+[f10b010010000000:0233070000]
+Vuelve a probar con distintos n{'u}meros.
+Si el mont{'o}n izquierdo tiene cinco
+cartas rojas y 18 negras, el mont{'o}n
+derecho tendr{'a} 21 cartas rojas y
+8 negras.
+
+Ahora compara el resultado con el
+de la pista 3. {^?}Ves? {^!}La diferencia
+es la misma sin importar cu{'a}ntas
+cartas haya de cada color!
+!******************************!

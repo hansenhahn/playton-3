@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n145
+!******************************!
+n145a
+!******************************!
+n145b
+!******************************!
+[eb0b01000a000000:0211000000]
+Las cuatro tarjetas de abajo (cero, uno,
+dos y seis) pueden usarse para mostrar
+distintas horas como la del ejemplo:
+02:16.
+
+{^?}Cu{'a}ntas horas reales diferentes
+se pueden mostrar reordenando las
+tarjetas? Debes usar las cuatro para
+cada hora, y no vale poner una sobre
+otra. Adem{'a}s, ten en cuenta que estamos
+usando un formato de 24 horas.
+!******************************!
+[ec0b01000b000000:026b010000]
+{^!}Eso es!
+
+Se pueden mostrar veinte horas
+distintas con las cuatro tarjetas.
+
+{^?}Te ha costado mucho darte cuenta
+de que el seis se puede usar
+como un nueve?
+
+La otra clave era ver que no hay
+una hora 26 ni un minuto 60.
+!******************************!
+[ed0b01000c000000:024b020000]
+{^!}Qu{'e} pena!
+
+F{'i}jate en las condiciones y empieza
+a eliminar las respuestas imposibles.
+!******************************!
+[ee0b01000d000000:02aa020000]
+Ten en cuenta que a efectos de este
+puzle, en las horas del d{'i}a:
+
+{.} Hay hasta 23 horas.
+{.} Hay hasta 59 minutos.
+!******************************!
+[ef0b01000e000000:0221030000]
+{^!}Hay una tarjeta que puede mostrar
+dos n{'u}meros distintos!
+!******************************!
+[f00b01000f000000:0261030000]
+{^!}Puedes darle la vuelta a la tarjeta
+del seis y usarla como un nueve!
+Tenlo presente al contar las horas.
+!******************************!
+[f10b010010000000:02ce030000]
+La primera hora del d{'i}a que puedes
+representar es 01:26. La {'u}ltima
+es 21:09.
+
+Procura no saltarte ninguna
+combinaci{'o}n. Y ojo con las horas
+que realmente no existen.
+!******************************!

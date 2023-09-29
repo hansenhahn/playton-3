@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n155
+!******************************!
+n155a
+!******************************!
+n155b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Alguien ha arrancado la mitad de este
+mes del calendario! Pero no vamos a
+rendirnos tan pronto... Al sumar los
+cuatro d{'i}as rodeados con un c{'i}rculo,
+el resultado ser{'a} 20. El menor de los
+cuatro n{'u}meros es 1.
+
+Dando por hecho que tuvieras todo el mes,
+y que rodeases un cuadrado de cuatro
+n{'u}meros que sumaran 88, {^?}cu{'a}l ser{'a} el
+menor de los cuatro n{'u}meros?
+!******************************!
+[ec0b01000b000000:0292010000]
+{^!}Premio!
+
+{^!}Es 18! F{'i}jate en el calendario y ver{'a}s
+patrones num{'e}ricos. El n{'u}mero a la
+derecha o izquierda difiere en 1. El de
+arriba o abajo difiere en 7. En un bloque
+de 4 n{'u}meros, la fila de arriba y la de
+abajo tendr{'a}n una diferencia de 14.
+Si sumar los 4 n{'u}meros de este cuadrado
+da 88, la suma de los 2 de arriba deber{'a}
+equivaler a 44 - 7, o 37, y estos n{'u}meros
+deber{'a}n ser diferentes entre s{'i} en 1, as{'i}
+que ser{'a}n 18 y 19. Y la respuesta
+es el n{'u}mero menor de los dos, 18.
+!******************************!
+[ed0b01000c000000:029f030000]
+{^!}L{'a}stima!
+
+No pierdas la cabeza sumando todas
+las combinaciones posibles de cuatro
+n{'u}meros. Trata de ser eficiente.
+!******************************!
+[ee0b01000d000000:021c040000]
+{^?}Est{'a}s tratando de reproducir toda la
+p{'a}gina del calendario en un papel?
+
+As{'i} podr{'a}s encontrar la respuesta, pero
+hay un m{'e}todo m{'a}s f{'a}cil...
+!******************************!
+[ef0b01000e000000:02c1040000]
+Esta es una p{'a}gina del calendario, as{'i}
+que hay un orden espec{'i}fico en la forma
+en que est{'a}n dispuestos los n{'u}meros.
+Si encuentras un patr{'o}n en los n{'u}meros
+contiguos y los de encima y debajo,
+descubrir{'a}s una forma particular de
+resolver el puzle.
+!******************************!
+[f00b01000f000000:02cf050000]
+En un calendario los n{'u}meros a la
+izquierda y a la derecha difieren en uno.
+
+Adem{'a}s, los n{'u}meros de arriba y de
+abajo difieren en siete.
+
+Usando este patr{'o}n, basta con realizar
+un c{'a}lculo relativamente simple para
+resolver este puzle.
+!******************************!
+[f10b010010000000:02c9060000]
+El n{'u}mero de la esquina inferior
+derecha del cuadrado de cuatro
+n{'u}meros que buscas es 26.
+!******************************!

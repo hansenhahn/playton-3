@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n070
+!******************************!
+n070a
+!******************************!
+n070b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo puedes ver un grupo de bloques
+cuidadosamente apilados. Pero no se
+sabe cu{'a}l es la perspectiva correcta,
+es decir, d{'o}nde est{'a} el suelo. La
+gravedad act{'u}a sobre los bloques. As{'i},
+cualquier bloque que no estuviese tocando
+el suelo o alg{'u}n otro bloque debajo de {'e}l
+caer{'i}a.
+
+Para que ninguno de los bloques caiga
+por efecto de la gravedad, {^?}cu{'a}l de los
+lados, A, B, C o D tendr{'a} que ser la
+parte de arriba?
+!******************************!
+[ec0b01000b000000:02cb010000]
+{^!}Eso es!
+
+{^!}D es la parte superior! Si observas
+con cuidado la pila de bloques desde
+cada {'a}ngulo, descubrir{'a}s qu{'e} bloques
+caer{'i}an por efecto de la gravedad.
+La {'u}nica posibilidad de que no caiga
+ning{'u}n bloque es que D sea la parte
+de arriba.
+!******************************!
+[ed0b01000c000000:02d3020000]
+{^!}Qu{'e} l{'a}stima!
+
+F{'i}jate mejor la pr{'o}xima vez.
+!******************************!
+[ee0b01000d000000:020e030000]
+Si observas la pila de bloques desde
+cada {'a}ngulo, {^?}encuentras alg{'u}n
+bloque inestable? F{'i}jate bien.
+!******************************!
+[ef0b01000e000000:027d030000]
+Ve girando el dibujo y observa c{'o}mo
+queda dejando cada vez una letra 
+diferente arriba.
+Presta atenci{'o}n a los espacios vac{'i}os
+entre los bloques.
+!******************************!
+[f00b01000f000000:0217040000]
+Si miras la pila de bloques suponiendo
+que el lado B ocupa la parte superior,
+ver{'a}s que caer{'i}a el peque{-n}o cuadrado
+verde que est{'a} debajo del bloque rojo.
+Por tanto, B no es la respuesta
+correcta.
+
+Sigue analizando la imagen de este modo,
+{^!}y pronto dar{'a}s con la soluci{'o}n!
+!******************************!
+[f10b010010000000:023b050000]
+Si miras la imagen con el lado C hacia
+arriba, caer{'i}an los dos peque{-n}os
+cuadrados verdes de las esquinas,
+de manera que C tampoco puede ser
+la soluci{'o}n.
+
+La respuesta ser{'a} A o D.
+!******************************!

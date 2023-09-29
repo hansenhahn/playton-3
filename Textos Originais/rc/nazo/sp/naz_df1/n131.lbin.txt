@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n131
+!******************************!
+n131a
+!******************************!
+n131b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo hay tres hermanos: A, B y C.
+
+A: {''}Tengo un hermano mayor y tres
+hermanas menores.{''}
+
+B: {''}Tengo dos hermanos mayores y dos
+hermanas menores.{''}
+
+C: {''}Tengo tres hermanos mayores y una
+hermana menor.{''}
+
+Si todos dicen la verdad, {^?}cu{'a}l es
+el n{'u}mero m{'i}nimo total de hermanos
+y hermanas?
+!******************************!
+[ec0b01000b000000:024b010000]
+{^!}Efectivamente!
+
+El m{'i}nimo n{'u}mero posible ser{'a} seis.
+
+A primera vista puede parecer que
+solo son cinco. Pero A dice que tiene
+tres hermanas menores y C dice que
+tiene tres hermanos mayores. Si hay
+tres chicos y tres chicas, ser{'a} que
+hay seis como m{'i}nimo.
+!******************************!
+[ed0b01000c000000:025c020000]
+{^!}Te equivocas!
+
+Recuerda que tienes que dar con el
+n{'u}mero m{'i}nimo de hermanos.
+!******************************!
+[ee0b01000d000000:02b3020000]
+Piensa en A, B y C.
+
+{^?}Qui{'e}n es mayor? {^?}Y qui{'e}n es menor?
+!******************************!
+[ef0b01000e000000:02f8020000]
+A es el mayor de los tres, y despu{'e}s
+le siguen en edad B y C.
+
+A tambi{'e}n tiene un hermano mayor.
+
+C tiene una hermana menor.
+!******************************!
+[f00b01000f000000:027b030000]
+Trata de hacer una tabla con las
+condiciones de la pista 2 y marca
+el sexo de cada hermano conocido.
+Entonces te dar{'a}s cuenta de algo
+importante.
+
+Por si no te hab{'i}a quedado claro,
+A es un chico y B es una chica.
+!******************************!
+[f10b010010000000:0256040000]
+Entre hermanos y hermanas, hay m{'a}s
+de cinco.
+
+Si A tiene tres hermanas menores y
+C tiene tres hermanos mayores,
+entonces est{'a} claro que al menos
+hay tres chicas y tres chicos.
+!******************************!

@@ -1,0 +1,61 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T>Saludos y dem{'a}s. {^?}Qu{'e} trae a unos
+ciudadanos tan distinguidos como
+ustedes por aqu{'i}?
+!******************************!
+[7117030004000000:000a000000026d0000000274000000]
+ルーク
+!******************************!
+<T>Estamos buscando al jefe de la
+Familia. {^!}Tenemos una pista
+fiable de que anda por el T{'a}mesis!
+!******************************!
+[7117030007000000:000a000000020000000002db000000]
+セガール
+!******************************!
+<T><A2/1>{^!}Eh, eh, eh! {^!}Para el carro!
+!******************************!
+[711703000a000000:000a00000002000000000207010000]
+セガール
+!******************************!
+<T>Si sigues metiendo la nariz donde
+no te llaman, te acabar{'a} pasando
+algo. Te lo digo yo.
+!******************************!
+[711703000d000000:00140000000265010000026e010000]
+レイトン
+!******************************!
+<T>Usted parece ser un
+experto en la materia.
+!******************************!
+[7117030010000000:00140000000200000000029c010000]
+セガール
+!******************************!
+<T>Porque lo soy. Tambi{'e}n s{'e} que
+no van a hacer ning{'u}n caso de
+mi advertencia.
+!******************************!
+[7117030013000000:0014000000020000000002f4010000]
+セガール
+!******************************!
+<T><A2/2>Si tan empe{-n}ados est{'a}n en ir
+al r{'i}o, pasen al menos por el
+restaurante que hay all{'i}.
+!******************************!
+[7117030016000000:00140000000200000000025e020000]
+セガール
+!******************************!
+<T>La comida es de otro mundo, y ya
+que van a meterse en l{'i}os, h{'a}ganlo
+con la barriga llena.
+!******************************!
+[7117030019000000:001e000000020000000002c1020000]
+セガール
+!******************************!
+<T><A2/2>Hay un restaurante estupendo a la
+orilla del r{'i}o. Tienen que ir;
+la comida es de otro mundo.
+!******************************!

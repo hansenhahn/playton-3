@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000000000000]
+n039
+!******************************!
+n039a
+!******************************!
+n039b
+!******************************!
+[eb0b01000a000000:0211000000]
+En los {'u}ltimos a{-n}os se ha incrementado
+el n{'u}mero de accidentes y cr{'i}menes en la
+ciudad. Seg{'u}n un estudio, hay un lugar
+donde la media de heridos y muertos es
+especialmente alta a lo largo del a{-n}o.
+
+{^?}Qu{'e} lugar ser{'a}? Rodea su nombre con
+un c{'i}rculo.
+!******************************!
+[ec0b01000b000000:0226010000]
+{^!}Correcto!
+
+Seguramente hay muchos lugares
+peligrosos, pero donde m{'a}s heridos
+y enfermos se pueden encontrar
+es en el hospital.
+!******************************!
+[ed0b01000c000000:02ac010000]
+{^!}Qu{'e} l{'a}stima!
+
+F{'i}jate en c{'o}mo est{'a} formulado el puzle y
+piensa nuevamente.
+!******************************!
+[ee0b01000d000000:0209020000]
+Un detalle importante es la proporci{'o}n
+de afectados en relaci{'o}n al total de
+personas que hay en ese lugar.
+!******************************!
+[ef0b01000e000000:027a020000]
+Que en un lugar haya muchos heridos
+y se produzcan muertes no significa
+que ese sea un sitio peligroso.
+!******************************!
+[f00b01000f000000:02e2020000]
+La descripci{'o}n podr{'i}a valer para un
+sitio donde ocurren muchos cr{'i}menes
+y accidentes. Pero tambi{'e}n ser{'i}a
+correcta si se refiere a un lugar
+donde se env{'i}a a los enfermos
+y a los heridos.
+!******************************!
+[f10b010010000000:02ae030000]
+Solo hay un lugar al que va
+la gente cuando est{'a} enferma
+o herida.
+!******************************!

@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000000000000]
+n048
+!******************************!
+n048a
+!******************************!
+n048b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este exc{'e}ntrico caballero usa los dedos
+para contar en el orden que se muestra
+en el dibujo. Cuando llega a cinco,
+vuelve al pulgar, lo cuenta como seis
+y sigue contando en ese peculiar orden.
+
+Si siguiese contando de esta manera,
+{^?}en qu{'e} dedo caer{'i}a el n{'u}mero 763?
+Rodea con un c{'i}rculo la yema del dedo
+correcto.
+!******************************!
+[ec0b01000b000000:025d010000]
+{^!}Choca esos cinco!
+
+Correcto. El n{'u}mero 763 corresponder{'i}a
+al dedo me{-n}ique. Por grande que sea el
+n{'u}mero, el dedo que corresponde al uno
+siempre ser{'a} el pulgar, y los dem{'a}s
+tampoco cambiar{'a}n.
+
+De esta forma, todos los n{'u}meros que
+acaben en 3 o en 8 corresponder{'a}n
+al me{-n}ique.
+!******************************!
+[ed0b01000c000000:0292020000]
+{^!}Qu{'e} l{'a}stima!
+
+{^!}Presta atenci{'o}n a la regla que usa para
+contar con los dedos!
+!******************************!
+[ee0b01000d000000:02ef020000]
+No estar{'a}s intentando resolverlo de
+cabeza, {^?}no? Prueba a contar con tus
+propios dedos.
+!******************************!
+[ef0b01000e000000:024d030000]
+Por grande que sea el n{'u}mero, la regla
+para contar es siempre la misma.
+
+{^!}No te rompas demasiado la cabeza!
+!******************************!
+[f00b01000f000000:02bf030000]
+Prueba a contar hasta 20, a ver si algo
+te llama la atenci{'o}n. Si no te das
+cuenta, sigue contando hasta 30.
+
+Venga, {^!}t{'u} puedes!
+!******************************!
+[f10b010010000000:0248040000]
+En realidad, lo que cuentas con
+los dedos es siempre la {'u}ltima cifra
+del n{'u}mero (las unidades).
+Entonces, si cuentas hasta 763...
+!******************************!

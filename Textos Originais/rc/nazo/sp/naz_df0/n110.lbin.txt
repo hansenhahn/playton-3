@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n110
+!******************************!
+n110a
+!******************************!
+n110b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Prep{'a}rate para lo que te voy a contar...
+Una vez que iba en un tren me di cuenta
+de una cosa: sab{'i}a exactamente en qu{'e}
+parada se iba a bajar una persona que
+ven{'i}a en mi tren y a la que no conoc{'i}a de
+nada. {^!}Eso demuestra que tengo poderes!{''}
+
+Este hombre no tiene poderes. Es m{'a}s,
+cualquiera podr{'i}a haber hecho esta
+predicci{'o}n.
+
+{^?}En qu{'e} tren viajaba? Rodea con un
+c{'i}rculo tu respuesta (A, B, C o D) y
+luego toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02e5010000]
+{^!}Qu{'e} agudeza!
+
+Viaja en el tren D.
+
+Este es el {'u}nico tren que har{'a} su
+pr{'o}xima parada en una de las dos
+estaciones finales sin pasar por
+ninguna otra, y all{'i} todos los
+pasajeros tendr{'a}n que bajarse.
+!******************************!
+[ed0b01000c000000:02c0020000]
+{^!}Qu{'e} pena!
+
+Este hombre no tiene poderes especiales.
+Lo cierto es que cualquiera que viajara
+en ese tren podr{'i}a hacer la misma
+predicci{'o}n.
+!******************************!
+[ee0b01000d000000:0257030000]
+{^?}No le estar{'a}s dando demasiadas
+vueltas? Si viajases en el mismo
+tren que este hombre, tambi{'e}n
+sabr{'i}as en qu{'e} parada se
+bajar{'a} la otra persona.
+!******************************!
+[ef0b01000e000000:02f9030000]
+Sup{'o}n que el tren solo parase en una
+estaci{'o}n. {^!}Entonces cualquiera podr{'i}a
+predecir d{'o}nde se bajar{'i}a el pasajero
+desconocido!
+!******************************!
+[f00b01000f000000:0289040000]
+{^?}Para cu{'a}l de los cuatro trenes solo
+hay una pr{'o}xima estaci{'o}n en la que
+podr{'a} detenerse?
+!******************************!
+[f10b010010000000:02f1040000]
+Si a un tren solo le queda una estaci{'o}n
+m{'a}s en la que detenerse, entonces es
+evidente que todo el mundo se bajar{'a}
+all{'i}.
+
+Pues s{'i}, {^!}as{'i} de simple!
+!******************************!

@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton y Luke se sorprenden por
+la reacci{'o}n de la gente ante el
+sombrero del profesor.
+!******************************!
+[7117030004000000:000a0000000200000000026a000000]
+ナレーション
+!******************************!
+<T>Mientras deambulan por la ciudad,
+reciben otra carta de Luke del
+futuro.
+!******************************!
+[7117030007000000:0014000000020000000002b6000000]
+ナレーション
+!******************************!
+<T>Siguiendo las instrucciones de la
+carta, se dirigen a un hospital
+ubicado en Auckland Street.
+!******************************!

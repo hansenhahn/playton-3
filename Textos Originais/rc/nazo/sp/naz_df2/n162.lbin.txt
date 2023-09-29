@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n162
+!******************************!
+n162a
+!******************************!
+n162b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ordena los cuatro tipos de frutas girando
+y recolocando los paneles con el l{'a}piz
+para que las frutas que hay en cada uno
+de sus lados est{'e}n conectadas con su
+otra mitad en los paneles adyacentes.
+
+No se puede mover el panel del centro.
+!******************************!
+[ec0b01000b000000:0203010000]
+{^!}Qu{'e} disfrute!
+
+{^?}Has tardado mucho?
+!******************************!
+[ed0b01000c000000:0230010000]
+{^!}Qu{'e} pena!
+
+Algo no est{'a} en el sitio que le
+corresponde.
+!******************************!
+[ee0b01000d000000:0272010000]
+Este puzle parece divertido, pero en
+realidad es dif{'i}cil. {^!}Hasta resulta
+dif{'i}cil dar pistas!
+
+No te agobies si al principio no llegas
+a ninguna parte. Sigue tratando de
+resolverlo.
+!******************************!
+[ef0b01000e000000:0230020000]
+Los paneles son tan similares que
+cuesta decidir un punto de partida.
+Para empezar, trata de colocar
+paneles que concuerden alrededor
+del centro.
+
+Por cierto, en el panel correcto
+que deber{'i}a ir sobre el panel central
+no hay ning{'u}n pl{'a}tano.
+!******************************!
+[f00b01000f000000:022a030000]
+En el panel que deber{'i}a ir a la
+izquierda del panel central
+no hay ninguna naranja.
+
+En el panel que tiene que ir
+a la derecha del panel central
+no hay ning{'u}n mel{'o}n.
+!******************************!
+[f10b010010000000:02d9030000]
+En el panel que tiene que ir bajo
+el panel central deben estar los
+cuatro tipos de fruta. En su parte
+superior, por supuesto, va un pl{'a}tano.
+A la izquierda ir{'a} la mitad inferior de
+un mel{'o}n, a la derecha la mitad superior
+de una naranja, y abajo una manzana.
+!******************************!

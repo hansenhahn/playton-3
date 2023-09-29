@@ -1,0 +1,80 @@
+[ea0b0a0000000000:02000000000205000000020b0000000003000000000d00000000f203000000f2030000000100000000000000000000000000]
+n106
+!******************************!
+n106a
+!******************************!
+n106b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes ocho frascos con cuatro tipos
+de mermelada distintas, representadas
+por colores diferentes. Seg{'u}n su tipo,
+las mermeladas tienen pesos diferentes.
+Se han puesto los frascos en cajas,
+dos en cada una.
+
+Usa la balanza para determinar el peso
+relativo de cada mermelada y clasif{'i}calas
+del 1 al 4: 1 para la mermelada m{'a}s ligera
+y 4 para la m{'a}s pesada.
+!******************************!
+[ec0b01000b000000:0281010000]
+{^!}Muy bien!
+
+Comenzando por la mermelada m{'a}s pesada,
+el orden es: azul, amarilla, verde y roja.
+Si pesas a la vez la caja roja-azul y la
+caja roja-verde, puedes deducir que la
+mermelada azul es m{'a}s pesada que la verde.
+Si comparas la caja roja-azul con la
+azul-verde, sabr{'a}s que la verde pesa
+m{'a}s que la roja.
+Por {'u}ltimo, como la amarilla-amarilla
+pesa lo mismo que la azul-verde,
+el peso de la mermelada amarilla
+estar{'a} entre el de la azul y la verde.
+!******************************!
+[ed0b01000c000000:025a030000]
+Qu{'e} l{'a}stima.
+
+Hay cierto truco para comparar los pesos.
+!******************************!
+[ee0b01000d000000:0298030000]
+Algunas cajas tienen un frasco de
+mermelada en com{'u}n. Si pesamos esas
+cajas juntas, podemos comparar los
+pesos de dos mermeladas que son
+diferentes.
+!******************************!
+[ef0b01000e000000:0230040000]
+Intenta pesar a la vez la caja que
+tiene los frascos rojo y azul y la
+que tiene los frascos rojo y verde.
+As{'i} podr{'a}s deducir qu{'e} mermelada,
+la azul o la verde, pesa m{'a}s.
+!******************************!
+[f00b01000f000000:02e6040000]
+Hecha la comprobaci{'o}n de la pista 2,
+ahora habr{'a} que descubrir el peso
+relativo de la mermelada roja. Para ello
+compara el peso de la caja que tiene
+las mermeladas roja y azul con la caja
+de las mermeladas azul y verde.
+Ver{'a}s que la mermelada roja es m{'a}s
+ligera que la verde, as{'i} que por el
+momento tenemos: azul, verde, roja.
+!******************************!
+[f10b010010000000:023c060000]
+Sup{'o}n que un frasco de mermelada azul
+pesa 300 g, uno de mermelada verde
+pesa 200 g y uno de mermelada roja
+pesa 100 g.
+
+La caja con dos frascos de mermelada
+amarilla y la caja con mermelada azul
+y verde pesan lo mismo, as{'i} que dos
+frascos de mermelada amarilla pesan
+300 g + 200 g = 500 g. Por tanto,
+un frasco de mermelada amarilla
+pesar{'a} 250 g.
+!******************************!

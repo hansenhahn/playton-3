@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n197
+!******************************!
+n197a
+!******************************!
+n197b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo tienes diez sellos verdes con
+valores que van de 10 a 100 peniques,
+en incrementos de 10 peniques.
+De esos diez, tienes que comprar
+cuatro sellos tales que al combinarlos
+puedas alcanzar todos los valores
+posibles en incrementos de 10 peniques
+desde 10 hasta el mayor valor posible.
+
+Aqu{'i} se te presentan cuatro posibles
+combinaciones, pero no la respuesta.
+{^?}Qu{'e} cuatro sellos deber{'i}as comprar?
+!******************************!
+[ec0b01000b000000:02ae010000]
+{^!}Buena elecci{'o}n!
+
+Con los sellos de 10, 20, 40 y
+80 peniques puedes crear cualquier
+combinaci{'o}n en incrementos de
+10 peniques, desde la cantidad
+de 10 peniques hasta 150.
+
+{^!}Comprueba arriba todas las
+combinaciones si no te lo crees!
+!******************************!
+[ed0b01000c000000:02a3020000]
+{^!}Qu{'e} pena!
+
+Cre{'i}as que ten{'i}as la respuesta, {^?}no?
+Despeja tu mente y prueba otra vez.
+!******************************!
+[ee0b01000d000000:0207030000]
+El mayor valor posible que podr{'a}s
+obtener con los cuatro sellos
+correctos es 150.
+
+Eso ser{'a} usando los cuatro sellos
+juntos, as{'i} que... {^?}cu{'a}les ser{'a}n?
+!******************************!
+[ef0b01000e000000:02b0030000]
+
+!******************************!
+[f00b01000f000000:02b1030000]
+
+!******************************!
+[f10b010010000000:02b2030000]
+
+!******************************!

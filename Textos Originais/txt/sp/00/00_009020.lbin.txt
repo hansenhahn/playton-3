@@ -1,0 +1,89 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T><A1/1>Profesor, {^?}c{'o}mo vamos a llevar el
+control de nuestro progreso?
+!******************************!
+[7117030004000000:001400000002550000000262000000]
+ナレーション
+!******************************!
+<T>Buena pregunta.<W><A2/2> Seguro que nos
+viene muy bien recordar un par
+de cosas.
+!******************************!
+[7117030007000000:001e000000025500000002b6000000]
+ナレーション
+!******************************!
+<T>Para empezar, toca el icono del
+ba{'u}l de la esquina superior derecha
+de la pantalla t{'a}ctil.
+!******************************!
+[711703000a000000:00280000000255000000021a010000]
+ナレーション
+!******************************!
+<T>As{'i} podr{'a}s acceder al ba{'u}l, donde
+encontrar{'a}s varios iconos que
+representan diferentes opciones.
+!******************************!
+[711703000d000000:002d0000000255000000028a010000]
+ナレーション
+!******************************!
+<T>Esta es la lista de puzles. Aqu{'i}
+puedes ver los puzles que hemos
+encontrado durante la aventura.
+!******************************!
+[7117030010000000:0032000000025500000002f1010000]
+ナレーション
+!******************************!
+<T>Esta es la opci{'o}n {''}Guardar{''}.
+T{'o}cala cuando quieras guardar
+tu progreso.
+!******************************!
+[7117030013000000:003c0000000255000000028a010000]
+ナレーション
+!******************************!
+<T>Esta es la lista de puzles. Aqu{'i}
+puedes ver los puzles que hemos
+encontrado durante la aventura.
+!******************************!
+[7117030016000000:004600000002550000000248020000]
+ナレーション
+!******************************!
+<T>Los puzles resueltos tienen una
+marca. Los que a{'u}n no se han
+resuelto no la tienen.
+!******************************!
+[7117030019000000:0046000000025500000002a2020000]
+ナレーション
+!******************************!
+<T>Desde este men{'u} podr{'a}s volver a
+plantearte cualquier puzle que ya
+hayas resuelto.
+!******************************!
+[711703001c000000:0046000000025500000002fd020000]
+ナレーション
+!******************************!
+<T>Sin embargo, si quieres resolver un
+puzle que todav{'i}a no has resuelto,
+tendr{'a}s que volver a su ubicaci{'o}n.
+!******************************!
+[711703001f000000:005000000002550000000273030000]
+ナレーション
+!******************************!
+<T>Para acabar tenemos el diario.
+T{'o}calo para repasar los eventos
+de la historia.
+!******************************!
+[7117030022000000:005a000000020000000002c8030000]
+ルーク
+!******************************!
+<T><A3/2>Muy bien explicado, profesor.
+!******************************!
+[7117030025000000:005a00000002ef03000002f8030000]
+レイトン
+!******************************!
+<T>Gracias, Luke. Seguro que el ba{'u}l
+resulta muy {'u}til durante nuestra
+investigaci{'o}n.
+!******************************!

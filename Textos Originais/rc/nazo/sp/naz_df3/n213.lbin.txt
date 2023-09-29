@@ -1,0 +1,42 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n213
+!******************************!
+n213a
+!******************************!
+n213b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Durante una excursi{'o}n por esta cueva
+ha habido un derrumbamiento que
+te impide salir al exterior!
+
+Para escapar, {'a}brete camino entre los
+bloques y alcanza la salida marcada por
+la flecha blanca de la superficie.
+La bola naranja eres t{'u}. {^!}Buena suerte!
+!******************************!
+[ec0b01000b000000:021d010000]
+{^!}Has logrado salir!
+
+Buf, seguro que lo has pasado mal
+all{'i} dentro...
+!******************************!
+[ed0b01000c000000:0269010000]
+{^!}Qu{'e} l{'a}stima!
+!******************************!
+[ee0b01000d000000:0280010000]
+Esos dos bloques cuadrados junto a la
+salida molestan un mont{'o}n, {^?}verdad?
+Si consigues alinearlos en la parte
+de abajo, {^!}pronto volver{'a}s a ver la
+luz del sol!
+!******************************!
+[ef0b01000e000000:022b020000]
+
+!******************************!
+[f00b01000f000000:022c020000]
+
+!******************************!
+[f10b010010000000:022d020000]
+
+!******************************!

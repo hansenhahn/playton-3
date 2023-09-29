@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n008
+!******************************!
+n008a
+!******************************!
+n008b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} tenemos un reloj al que le faltan
+los n{'u}meros. Adem{'a}s, alg{'u}n gracioso lo
+ha girado, pero de todos modos funciona
+normalmente y cada uno de los c{'i}rculos
+de colores representa una hora.
+
+Incluso sin los n{'u}meros se puede saber
+qu{'e} hora est{'a} se{-n}alando, y eso es lo
+que tendr{'a}s que descubrir. No importa
+si es antes o despu{'e}s del mediod{'i}a,
+pero la respuesta tiene que ser una
+hora en punto.
+!******************************!
+[ec0b01000b000000:02bc010000]
+{^!}Impresionante!
+
+S{'i}, la respuesta es las 12 en punto.
+En un reloj de este tipo, esa es la {'u}nica
+hora en punto a la que las dos manecillas
+se superponen. Lo que no hay manera de
+saber es si es el mediod{'i}a o la medianoche.
+!******************************!
+[ed0b01000c000000:02a5020000]
+{^!}Qu{'e} l{'a}stima!
+
+Si dibujas un reloj con n{'u}meros, te
+resultar{'a} m{'a}s f{'a}cil.
+!******************************!
+[ee0b01000d000000:0202030000]
+La manecilla grande y la peque{-n}a est{'a}n
+exactamente una sobre la otra,
+{^?}no es as{'i}?
+!******************************!
+[ef0b01000e000000:0260030000]
+Las manecillas est{'a}n superpuestas
+y se{-n}alan una hora en punto.
+!******************************!
+[f00b01000f000000:02a5030000]
+Las manecillas est{'a}n superpuestas
+y se{-n}alan una hora en punto.
+
+Esto solo puede ocurrir a una hora.
+!******************************!
+[f10b010010000000:020f040000]
+Imagina que las dos manecillas apuntan
+hacia arriba. Esto deber{'i}a servirte
+para dar con la respuesta.
+!******************************!

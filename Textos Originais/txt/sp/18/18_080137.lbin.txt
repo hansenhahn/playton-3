@@ -1,0 +1,100 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000207000000]
+ラルフ
+!******************************!
+<T>{^?}Les ha dado por visitar el casino
+en pleno d{'i}a? Hay gente que no
+sabe controlarse.
+!******************************!
+[7117030004000000:000a0000000264000000026b000000]
+ルーク
+!******************************!
+<T><A3/1>{^?}No le parece una actitud
+algo hip{'o}crita?
+!******************************!
+[7117030007000000:000a000000020000000002a4000000]
+ラルフ
+!******************************!
+<T><A1/3>Vaya pico que tienes, chaval.<W>
+Se{-n}or, deber{'i}a ense{-n}arle modales
+a este ni{-n}o.
+!******************************!
+[711703000a000000:000a00000002080100000211010000]
+レイトン
+!******************************!
+<T><A3/1>Lo lamento. Algunas veces Luke
+se toma las cosas de manera
+personal.
+!******************************!
+[711703000d000000:000a0000000200000000025f010000]
+ラルフ
+!******************************!
+<T><A2/1>Tienes suerte de que hoy estoy de
+buenas, ni{-n}o. Si me resuelves
+este puzle, me olvido del asunto.
+!******************************!
+[7117030010000000:00e8030000020000000002cd010000]
+ラルフ
+!******************************!
+<T><A3/8>Si no tienes cabeza ni para
+resolver este puzle, aqu{'i} te
+van a desplumar.
+!******************************!
+[7117030013000000:00d007000002000000000223020000]
+ラルフ
+!******************************!
+<T><A2/1>Ser{'a} mejor que resuelvas este
+puzle si quieres que te perdone
+la ofensa de antes.
+!******************************!
+[7117030016000000:00b80b000002000000000281020000]
+ラルフ
+!******************************!
+<T><A1/1>Bien hecho, chico. Por lo menos
+he estado entretenido un rato.
+!******************************!
+[7117030019000000:00b80b0000026400000002c9020000]
+ルーク
+!******************************!
+<T><A1/1>Se{-n}or, {^?}est{'a} usted siempre
+en el casino?
+!******************************!
+[711703001c000000:00b80b000002000000000204030000]
+ラルフ
+!******************************!
+<T><A2/1>S{'i}, casi todo el tiempo. No tengo
+nada mejor que hacer. Adem{'a}s,
+{^?}os hab{'e}is dado un paseo por ah{'i}?
+!******************************!
+[711703001f000000:00b80b00000200000000027e030000]
+ラルフ
+!******************************!
+<T>Las calles de Londres est{'a}n
+infestadas de esbirros de la
+Familia. Lo mejor es no salir.
+!******************************!
+[7117030022000000:00b80b0000020000000002dc030000]
+ラルフ
+!******************************!
+<T><A1/4>La Familia controla pr{'a}cticamente
+toda la ciudad con pu{-n}o de hierro.
+!******************************!
+[7117030025000000:00b80b000002000000000230040000]
+ラルフ
+!******************************!
+<T><A1/4>Lo {'u}nico que podemos hacer los
+ciudadanos honrados es evitar
+salir a la calle.
+!******************************!
+[7117030028000000:00b80b00000208010000028b040000]
+レイトン
+!******************************!
+<T>Entiendo.
+!******************************!
+[711703002b000000:00a00f000002000000000298040000]
+ラルフ
+!******************************!
+<T><A2/1>{^!}Si se aventuran a salir a la calle,
+tengan mucho cuidado con los
+esbirros de la Familia!
+!******************************!

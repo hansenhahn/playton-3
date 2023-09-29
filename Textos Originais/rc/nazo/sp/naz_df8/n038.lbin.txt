@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n038
+!******************************!
+n038a
+!******************************!
+n038b
+!******************************!
+[eb0b01000a000000:0211000000]
+Inserta uno de los bloques (A, B, C o D)
+en el espacio marcado como {''}?{''} para
+desvelar un mensaje secreto.
+
+Toca la letra del bloque correcto.
+!******************************!
+[ec0b01000b000000:02a5000000]
+{^!}Eso es!
+
+La respuesta es el bloque B, que tiene
+la forma de una {''}O{''}. Si lo insertas en
+el espacio vac{'i}o y alineas todos los
+bloques, {^!}aparecer{'a} la palabra {''}LAYTON{''}!
+!******************************!
+[ed0b01000c000000:0263010000]
+{^!}Ay, qu{'e} pena!
+
+Tienes que enfocar este puzle desde
+diversos {'a}ngulos.
+!******************************!
+[ee0b01000d000000:02b2010000]
+No es raro que las complejas formas
+de los bloques te confundan.
+
+Aqu{'i} va una pista: cada uno de los
+bloques representa algo.
+!******************************!
+[ef0b01000e000000:0233020000]
+Los bloques son letras.
+Intenta descubrir qu{'e} letra
+representa cada bloque.
+!******************************!
+[f00b01000f000000:0282020000]
+Como es bien sabido, el personaje
+principal de este juego es el
+profesor Layton.
+
+{^?}Eso no te dice algo?...
+!******************************!
+[f10b010010000000:02f0020000]
+La pista 3 se refer{'i}a a que los bloques
+forman el nombre {''}LAYTON{''} a falta de
+una sola letra.
+
+{^?}Cu{'a}l es esa letra?
+!******************************!

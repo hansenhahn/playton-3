@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000700000000420400000042040000000100000000000000000000000000]
+n032
+!******************************!
+n032a
+!******************************!
+n032b
+!******************************!
+[eb0b01000a000000:0211000000]
+Un granate rojo se ha quedado en el
+fondo de una maleta algo revuelta.
+
+{^?}Puedes deslizar los otros objetos
+para sacar el granate por arriba?
+!******************************!
+[ec0b01000b000000:02a1000000]
+{^!}Genial!
+
+{^!}M{'i}ralo qu{'e} bonito, c{'o}mo brilla!
+!******************************!
+[ed0b01000c000000:02db000000]
+{^!}Qu{'e} pena!
+
+{^!}Int{'e}ntalo otra vez!
+!******************************!
+[ee0b01000d000000:0208010000]
+{^?}Tanto revoltijo te confunde? Bueno,
+aqu{'i} va una pista. No puedes mover el
+granate solo hacia arriba. Parece que
+tendr{'a}s que buscar un camino por la
+derecha.
+!******************************!
+[ef0b01000e000000:02af010000]
+Mueve todas estas piezas hacia arriba:
+La pieza de tres cuadrados que
+hay encima del granate, la pieza
+con forma de T que hay arriba
+a la derecha y la que hay debajo
+de esta, con forma de L tumbada.
+
+As{'i} podr{'a}s mover el granate hasta
+la fila central y, desde all{'i},
+hacia la derecha.
+!******************************!
+[f00b01000f000000:02d3020000]
+Cuando hayas hecho lo indicado
+en la pista 2, coloca el granate en
+el hueco de la pieza con forma de U.
+Entonces podr{'a}s mover hacia la
+izquierda las piezas que est{'a}n sobre
+el granate. Ahora mueve el granate
+hasta la esquina superior derecha.
+!******************************!
+[f10b010010000000:02cb030000]
+Si has hecho todo lo indicado en las
+pistas anteriores, el resto deber{'i}a
+ser muy f{'a}cil. El granate deber{'i}a estar
+ahora en la esquina superior derecha.
+Si mueves las tres piezas que est{'a}n
+debajo de la salida, el camino
+quedar{'a} a la vista.
+
+La clave est{'a} en no desplazar m{'a}s
+que las tres piezas que has movido
+al principio.
+!******************************!

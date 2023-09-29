@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n140
+!******************************!
+n140a
+!******************************!
+n140b
+!******************************!
+[eb0b01000a000000:0211000000]
+{.} Un var{'o}n est{'a} delante de un ni{-n}o.
+
+{.} Dos varones est{'a}n detr{'a}s de una mujer.
+
+{.} Un var{'o}n y una mujer est{'a}n detr{'a}s
+de un var{'o}n.
+
+{.} Una mujer est{'a} detr{'a}s de un ni{-n}o.
+
+Has conseguido crear una escena en la que
+se cumplen todas estas condiciones con el
+menor n{'u}mero de personas posible.
+
+{^?}Cu{'a}ntas personas hay en esta escena?
+!******************************!
+[ec0b01000b000000:0289010000]
+{^!}Tres son multitud!
+
+Un hombre, una mujer y un ni{-n}o.
+No hace falta nadie m{'a}s si est{'a}n
+tal como se muestra en la imagen
+de arriba.
+!******************************!
+[ed0b01000c000000:0217020000]
+{^!}Qu{'e} pena!
+
+Se podr{'i}a decir que hay truco en
+la forma en que est{'a}n colocados...
+!******************************!
+[ee0b01000d000000:0273020000]
+Es f{'a}cil de deducir si dibujas un
+esquema de la situaci{'o}n.
+
+Pero hay una cosa que tendr{'a}s
+que tener en cuenta...
+!******************************!
+[ef0b01000e000000:02ed020000]
+El puzle nunca especific{'o} que
+todo el mundo estuviera mirando
+en la misma direcci{'o}n...
+!******************************!
+[f00b01000f000000:024a030000]
+En esta escena solo hay un ni{-n}o.
+
+{^?}Es var{'o}n o hembra?
+!******************************!
+[f10b010010000000:0289030000]
+{^!}El ni{-n}o es var{'o}n! Sabiendo esto, todo
+resulta mucho m{'a}s f{'a}cil.
+
+El ni{-n}o est{'a} detr{'a}s de un var{'o}n
+adulto, y los dos le est{'a}n dando
+la espalda a una mujer adulta.
+
+{^?}Ahora lo ves?
+!******************************!

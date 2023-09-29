@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n175
+!******************************!
+n175a
+!******************************!
+n175b
+!******************************!
+[eb0b01000a000000:0211000000]
+Durante la {'u}ltima semana he comido una
+rebanada de pan en el desayuno, otra
+en el almuerzo y otra en la cena.
+{^?}Puedes deducir de qu{'e} tipo era cada una?
+{.} Com{'i} 4 rebanadas de {#A}, en este orden:
+desayuno, desayuno, desayuno, cena.
+{.} Com{'i} 2 rebanadas de {#B} en total.
+{.} Com{'i} 4 rebanadas de {#C} en total,
+todas a la misma hora del d{'i}a.
+{.} Com{'i} 11 rebanadas de {#E} en total.
+{.} Nunca com{'i} el mismo tipo de pan
+dos veces seguidas.
+Toca los cuadrados de la tabla para
+cambiar el tipo de pan de cada comida.
+!******************************!
+[ec0b01000b000000:022d020000]
+{^!}Correcto!
+
+Al saber que no comes el mismo pan
+dos veces seguidas, pronto es f{'a}cil
+ver cu{'a}ndo te comiste las 11
+rebanadas de {#E}.
+A partir de ah{'i} se puede deducir
+cu{'a}ndo comiste las rebanadas de {#C}
+y de {#A}, y despu{'e}s rellenar{'a}s los
+espacios sobrantes con {#B}.
+!******************************!
+[ed0b01000c000000:024c030000]
+{^!}L{'a}stima!
+
+Hay una cosa que resulta
+evidente de inmediato.
+!******************************!
+[ee0b01000d000000:028d030000]
+Al saber que no te comiste dos veces
+seguidas el mismo tipo de pan, deducir
+cu{'a}ndo te comiste las 11 rebanadas
+de {#E} resulta sencillo.
+!******************************!
+[ef0b01000e000000:0219040000]
+
+!******************************!
+[f00b01000f000000:021a040000]
+
+!******************************!
+[f10b010010000000:021b040000]
+
+!******************************!

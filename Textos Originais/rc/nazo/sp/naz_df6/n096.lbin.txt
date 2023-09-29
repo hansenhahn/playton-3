@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000043040000000100000000000000000000000000]
+n096
+!******************************!
+n096a
+!******************************!
+n096b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir esta cerradura, tendr{'a}s que
+intercambiar las posiciones iniciales
+de los bloques A y B en no m{'a}s de diez
+movimientos.
+
+{^!}Vamos all{'a}!
+!******************************!
+[ec0b01000b000000:02ac000000]
+{^!}Bravo!
+
+{^!}No hay cerradura que se te resista!
+!******************************!
+[ed0b01000c000000:02e0000000]
+{^!}L{'a}stima!
+
+{^!}No te rindas!
+!******************************!
+[ee0b01000d000000:0203010000]
+Lo que hace dif{'i}cil este puzle son los
+cuatro bloques que hay entre A y B.
+
+Para empezar, simplemente intenta
+mover un poco los bloques hasta
+que ya no puedas seguir. Entonces
+piensa cu{'a}ntos movimientos m{'a}s
+hubieses necesitado.
+!******************************!
+[ef0b01000e000000:02f0010000]
+Si mueves demasiado los bloques A y B,
+terminar{'a}s por hacer m{'a}s movimientos
+de los permitidos.
+Deber{'i}a llegar un momento en el que
+puedas intercambiar A y B en dos
+movimientos seguidos.
+!******************************!
+[f00b01000f000000:02b3020000]
+Da igual que empieces con A o con B,
+pero aqu{'i} van algunas instrucciones
+para el bloque A.
+Mueve a la izquierda el segundo bloque
+contando desde arriba y desplaza
+el bloque A hacia abajo hasta ponerlo
+a la derecha del tercer bloque.
+Despu{'e}s mueve el segundo bloque
+totalmente hacia la derecha
+y coloca el tercero a su izquierda.
+!******************************!
+[f10b010010000000:0202040000]
+Siguiendo desde la pista 3, pon
+el bloque B en el extremo izquierdo
+de la fila en la que est{'a} el bloque A.
+Ahora puedes poner el bloque A
+en su posici{'o}n definitiva.
+Solo falta llevar el bloque B hasta
+el extremo superior en no m{'a}s de
+cuatro movimientos.
+
+{^!}Venga, t{'u} puedes!
+!******************************!

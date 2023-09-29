@@ -1,0 +1,43 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n218
+!******************************!
+n218a
+!******************************!
+n218b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Oh, no! Un rub{'i} ha ca{'i}do en el fondo
+de una maleta llena hasta arriba.
+
+{^?}Puedes sacar el rub{'i} por la apertura
+de arriba marcada con una flecha
+apartando las cosas que obstruyen
+el camino?
+!******************************!
+[ec0b01000b000000:02dd000000]
+{^!}Bien hecho!
+
+{^!}Es una joya preciosa!
+!******************************!
+[ed0b01000c000000:0208010000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0231010000]
+No te dejes intimidar por todo lo que
+obstruye el camino. Si sigues abriendo
+espacio libre y evitas repetir una y
+otra vez los mismos movimientos, al
+final conseguir{'a}s sacar el rub{'i} por
+la abertura.
+!******************************!
+[ef0b01000e000000:02fe010000]
+
+!******************************!
+[f00b01000f000000:02ff010000]
+
+!******************************!
+[f10b010010000000:0200020000]
+
+!******************************!

@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n167
+!******************************!
+n167a
+!******************************!
+n167b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes tres brazaletes id{'e}nticos que te
+gustar{'i}a convertir en un solo collar.
+
+Reorganiza las baldosas de abajo para que
+todas las piezas de los brazaletes queden
+conectadas formando un collar grande.
+!******************************!
+[ec0b01000b000000:02e0000000]
+{^!}Qu{'e} h{'a}bil!
+
+{^!}Espero que no sea demasiado largo!
+!******************************!
+[ed0b01000c000000:021d010000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0246010000]
+Antes de empezar a mover piezas a lo
+loco, piensa en qu{'e} tipo de forma puedes
+hacer con las piezas disponibles.
+!******************************!
+[ef0b01000e000000:02b9010000]
+Combina los brazaletes para que tengan
+la forma de un gran signo de suma (+).
+!******************************!
+[f00b01000f000000:0207020000]
+Cuando el collar est{'e} completo, las
+tres baldosas en blanco y el cuadrado
+vac{'i}o ir{'a}n en las cuatro esquinas.
+
+Hasta la soluci{'o}n m{'a}s corta requiere
+bastantes movimientos, {^!}as{'i} que ten
+paciencia y no te rindas!
+!******************************!
+[f10b010010000000:02ed020000]
+Con la funci{'o}n de las notas puedes
+dibujar la posici{'o}n que ocupar{'a} al
+final cada baldosa, y as{'i} ver{'a}s que
+adoptan la forma de un signo
+aritm{'e}tico. Sabiendo esto, no deber{'i}as
+tardar demasiado en colocar cada
+baldosa en su sitio.
+!******************************!

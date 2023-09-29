@@ -1,0 +1,66 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n144
+!******************************!
+n144a
+!******************************!
+n144b
+!******************************!
+[eb0b01000a000000:0211000000]
+Una de las cinco personas de abajo tiene
+un curioso mote: {''}se{-n}or Ocho y Veinte{''}.
+
+Qu{'e} raro, {^?}eh? Pues al parecer todo
+el mundo que ve a esta persona y oye
+su mote parece estar de acuerdo en que
+es muy apropiado.
+
+{^?}Qui{'e}n es el {''}se{-n}or Ocho y Veinte{''}?
+Rodea a esa persona y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:0252010000]
+{^!}Bien visto!
+
+La persona E es el {''}se{-n}or Ocho y Veinte{''}.
+
+Como ves arriba, la posici{'o}n del bigote
+de este caballero es la misma que las
+manecillas de un reloj anal{'o}gico que
+marca las ocho y veinte.
+
+En los dem{'a}s, el mote no tendr{'i}a sentido
+si se vistieran de otra forma, y no
+puedes llamar {''}se{-n}or{''} ni a las mujeres
+ni a los ni{-n}os.
+!******************************!
+[ed0b01000c000000:02c0020000]
+{^!}Te equivocas!
+
+Estas cinco personas son bastante
+pintorescas, pero f{'i}jate bien y te
+quedar{'a} claro de qui{'e}n se trata.
+!******************************!
+[ee0b01000d000000:0242030000]
+El mote de {''}se{-n}or Ocho y Veinte{''} se
+refiere a algo de su apariencia.
+!******************************!
+[ef0b01000e000000:0290030000]
+No te fijes en las vestimentas, porque
+el mote seguir{'a} describiendo a esa
+persona aunque se cambie de ropa.
+!******************************!
+[f00b01000f000000:02ff030000]
+Es tan simple que quiz{'a}s no te hayas
+fijado en ello: si llaman a esta
+persona {''}se{-n}or{''}, pues entonces es
+evidente que se trata de... {^!}un hombre!
+!******************************!
+[f10b010010000000:029e040000]
+F{'i}jate en las caras de todos.
+
+Alguien tiene un aspecto que
+recuerda a las ocho y veinte.
+
+{^?}Sabes la forma que tienen las
+manecillas de un reloj cuando
+son las ocho y veinte?
+!******************************!

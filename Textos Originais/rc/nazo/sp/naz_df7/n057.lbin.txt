@@ -1,0 +1,83 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n057
+!******************************!
+n057a
+!******************************!
+n057b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Creo que mi reloj est{'a} 5 minutos
+atrasado, pero en realidad va 5 minutos
+adelantado. Mi amigo cree que su reloj
+est{'a} 5 minutos adelantado, {^!}pero en
+realidad lo tiene 5 minutos atrasado!
+
+Si intentamos encontrarnos en el lugar
+acordado y solo conocemos la hora que
+marcan nuestros relojes, {^?}cu{'a}ntos
+minutos antes que mi amigo llegar{'e}?
+Si voy a llegar m{'a}s tarde que mi amigo,
+escribe un signo negativo (-) delante de
+tu respuesta. No escribas ning{'u}n signo
+si voy a llegar antes que {'e}l.{''}
+!******************************!
+[ec0b01000b000000:0218020000]
+{^!}Muy astuto!
+
+{''}Llegar{'e} al punto acordado 20 minutos
+antes que mi amigo.
+
+Mi reloj va 5 minutos por delante
+de la hora real, pero yo creo que
+est{'a} 5 minutos atrasado. Entonces,
+seg{'u}n mi reloj, llegar{'e} 5 minutos
+antes de lo acordado, que en realidad
+ser{'a}n 10 minutos antes. Y para mi amigo
+ser{'a} justo al rev{'e}s: llegar{'a} 10 minutos
+m{'a}s tarde y, por tanto, la diferencia
+entre ambos ser{'a} de 20 minutos.{''}
+!******************************!
+[ed0b01000c000000:02ce030000]
+{^!}Qu{'e} l{'a}stima!
+
+A primera vista este puzle puede resultar
+bastante retorcido. Intenta pensar una
+hora de encuentro concreta y calcula a
+partir de ella.
+!******************************!
+[ee0b01000d000000:026e040000]
+Si el planteamiento te confunde, repasa
+las condiciones del puzle con un reloj
+anal{'o}gico a la vista.
+!******************************!
+[ef0b01000e000000:02d6040000]
+{''}{^?}Cu{'a}ntos minutos de diferencia hay
+entre la hora real del encuentro
+y la hora a la que llegar{'e}?
+
+Si puedes responder a esto, pi{'e}nsalo
+justo al rev{'e}s y sabr{'a}s a qu{'e} hora
+llegar{'a} mi amigo.{''}
+!******************************!
+[f00b01000f000000:02b1050000]
+{''}Creo que mi reloj est{'a} 5 minutos
+atrasado, as{'i} que por querer llegar
+a tiempo, estar{'e} all{'i} 5 minutos antes
+de la hora que marca mi reloj.
+
+Pero en realidad mi reloj va 5 minutos
+adelantado, de manera que llegar{'e} 10
+minutos antes.{''}
+!******************************!
+[f10b010010000000:02ae060000]
+{''}Llegar{'e} 10 minutos antes al punto
+de encuentro. Como las condiciones
+para mi amigo son exactamente al rev{'e}s,
+{'e}l llegar{'a} 10 minutos m{'a}s tarde
+de la hora acordada.
+Entonces, {^?}con cu{'a}ntos minutos
+de diferencia llegaremos los dos
+al punto de encuentro?
+
+{^!}Esa es la respuesta!{''}
+!******************************!

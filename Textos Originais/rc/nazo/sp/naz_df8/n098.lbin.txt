@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000000000000000000000]
+n098
+!******************************!
+n098a
+!******************************!
+n098b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo se ve un sistema de engranajes.
+El pi{-n}{'o}n A gira en la direcci{'o}n indicada
+por su flecha roja. En la disposici{'o}n
+actual del mecanismo esto hace que el
+pi{-n}{'o}n B gire en la direcci{'o}n de su
+respectiva flecha roja. El engranaje {''}a{''}
+conecta A con B y se puede desplazar y
+girar con el l{'a}piz. Del mismo modo se
+pueden mover los engranajes {''}b{''} y {''}c{''}.
+
+Util{'i}zalos para hacer que el pi{-n}{'o}n B
+gire en la direcci{'o}n de su flecha verde
+(no es necesario emplear todos los
+conjuntos de engranajes).
+!******************************!
+[ec0b01000b000000:022d020000]
+{^!}Impresionante!
+
+{^!}Has conseguido invertir el flujo de
+energ{'i}a del generador!
+!******************************!
+[ed0b01000c000000:0283020000]
+{^!}Qu{'e} pena!
+
+{^!}Date prisa, que se acaba el tiempo!
+!******************************!
+[ee0b01000d000000:02bd020000]
+Si los pi{-n}ones se superponen, no
+funcionar{'a}n correctamente, as{'i} que
+no los pongas unos encima de otros.
+!******************************!
+[ef0b01000e000000:022e030000]
+Si entre dos ruedas dentadas colocas
+un n{'u}mero impar de pi{-n}ones, las dos
+ruedas girar{'a}n en la misma direcci{'o}n.
+
+A la inversa, si el n{'u}mero de pi{-n}ones
+intermedios es par, las ruedas
+de los extremos girar{'a}n
+en direcciones opuestas.
+
+Hay un mont{'o}n de pi{-n}ones en este puzle.
+{^!}Intenta contarlos bien!
+!******************************!
+[f00b01000f000000:0274040000]
+El grupo de pi{-n}ones {''}a{''} no te har{'a} falta.
+Intenta encajar los grupos {''}b{''} y {''}c{''}
+en el engranaje.
+!******************************!
+[f10b010010000000:02ec040000]
+Coloca el grupo {''}c{''} en la posici{'o}n
+donde originalmente estaba el grupo {''}a{''}.
+Luego gira 180{o} el grupo {''}b{''}
+y ponlo... en alg{'u}n sitio.
+!******************************!

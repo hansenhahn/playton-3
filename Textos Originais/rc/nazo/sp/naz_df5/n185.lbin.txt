@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n185
+!******************************!
+n185a
+!******************************!
+n185b
+!******************************!
+[eb0b01000a000000:0211000000]
+F{'i}jate en el molde de la izquierda.
+Tras llenarlo de gelatina l{'i}quida y
+meterlo en la nevera, se podr{'a} sacar
+una figura s{'o}lida de gelatina.
+
+{^?}Cu{'a}l de las cuatro figuras (A, B, C o D)
+ser{'a} la producida por nuestro molde?
+!******************************!
+[ec0b01000b000000:0202010000]
+{^!}No se te escapa una!
+
+La respuesta es la figura D.
+
+En la figura obtenida con ese molde,
+la derecha y la izquierda quedar{'a}n
+invertidas, al igual que la relaci{'o}n
+entre lo c{'o}ncavo y lo convexo.
+
+El color no depende del molde sino
+de los ingredientes. {^!}Pero eso
+no te ha despistado!
+!******************************!
+[ed0b01000c000000:022a020000]
+{^!}Qu{'e} l{'a}stima!
+
+{^?}Te has fijado bien en los detalles?
+{^?}Se corresponden los rasgos de la
+figura con los del molde?
+!******************************!
+[ee0b01000d000000:02a9020000]
+{^?}Qu{'e} aspecto tendr{'a} la figura al
+sacarla del molde?
+
+F{'i}jate en los detalles de la cara...
+y piensa en el aspecto que tendr{'a}n
+al quedar invertidos.
+!******************************!
+[ef0b01000e000000:024b030000]
+
+!******************************!
+[f00b01000f000000:024c030000]
+
+!******************************!
+[f10b010010000000:024d030000]
+
+!******************************!

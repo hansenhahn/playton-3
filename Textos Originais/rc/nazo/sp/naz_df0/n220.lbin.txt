@@ -1,0 +1,46 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n220
+!******************************!
+n220a
+!******************************!
+n220b
+!******************************!
+[eb0b01000a000000:0211000000]
+Mueve el bloque rojo grande que hay
+abajo a la izquierda al cuadrado
+marcado por la flecha blanca
+en la esquina superior derecha.
+
+Parece imposible, {^!}pero puede hacerse!
+{^!}Int{'e}ntalo!
+!******************************!
+[ec0b01000b000000:02d0000000]
+{^!}As{'i} se hace!
+
+El momento en el que apartas el {'u}ltimo
+bloque y el camino queda libre es
+maravilloso, {^?}verdad?
+!******************************!
+[ed0b01000c000000:024a010000]
+{^!}L{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0272010000]
+Si crees que este puzle es imposible,
+no te rindas. Puedes resolverlo.
+Encuentra la forma de cambiar de sitio
+los bloques rosa y verde que est{'a}n
+a la izquierda. Esto despejar{'a} una
+cantidad sorprendente de sitio, con lo
+que podr{'a}s resolver el puzle f{'a}cilmente.
+!******************************!
+[ef0b01000e000000:0282020000]
+
+!******************************!
+[f00b01000f000000:0283020000]
+
+!******************************!
+[f10b010010000000:0284020000]
+
+!******************************!

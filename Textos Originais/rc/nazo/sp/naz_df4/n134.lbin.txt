@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000b00000000f203000000f2030000000100000000000000000000000000]
+n134
+!******************************!
+n134a
+!******************************!
+n134b
+!******************************!
+[eb0b01000a000000:0211000000]
+El trozo de madera de abajo tiene una
+forma peculiar que impide que sea f{'a}cil
+trabajar en {'e}l. La mejor soluci{'o}n es
+serrarlo en dos piezas que al combinarse
+formen un cuadrado.
+
+Debido a las caracter{'i}sticas de la madera,
+no podr{'a}s invertir ni girar los trozos.
+Dibuja una l{'i}nea que indique por d{'o}nde
+quieres cortar y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:0276010000]
+{^!}Tienes el ingenio afilado como
+un serrucho!
+
+Una colocaci{'o}n ingeniosa, {^?}no?
+!******************************!
+[ed0b01000c000000:02cc010000]
+{^!}As{'i} no es!
+
+C{'e}ntrate y busca una forma de rellenar
+el hueco de tres cuadrados.
+!******************************!
+[ee0b01000d000000:0225020000]
+No tienes que hacer ning{'u}n corte
+en el lado izquierdo de la madera.
+!******************************!
+[ef0b01000e000000:026c020000]
+El hueco tiene tres cuadrados de
+longitud. Para poder rellenarlo, debes
+encontrar un lugar en el que cortar
+una pieza con la forma del hueco.
+
+Adem{'a}s, la forma que cortes debe
+incluir la parte con tres cuadrados
+en forma de L que sobresale del 
+trozo de madera.
+!******************************!
+[f00b01000f000000:0275030000]
+Tienes que hacer dos cortes separados
+para formar la pieza adecuada: una
+l{'i}nea corta que separe un {'u}nico
+cuadrado, y otra larga con una
+longitud total de cuatro cuadrados
+y que cambia de direcci{'o}n dos veces.
+
+Tras hacer esos cortes, solo tienes que
+mover la pieza resultante una fila
+hacia arriba y dos columnas hacia
+la izquierda, {^!}y ah{'i} est{'a} el cuadrado!
+!******************************!
+[f10b010010000000:02ec040000]
+{^?}Ves la L de tres cuadrados que
+sobresale por la derecha? Pues haz
+los cortes necesarios para que
+esa L y los dos cuadrados a la
+izquierda de su cuadrado superior
+queden incluidos en la nueva pieza
+que cortes.
+!******************************!

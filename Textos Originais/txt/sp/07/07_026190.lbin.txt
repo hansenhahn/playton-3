@@ -1,0 +1,80 @@
+[7017010000000000:000c000000]
+[7117030001000000:000a00000002000000000207000000]
+ポルテ
+!******************************!
+<T>{^!}Bienvenidos a Deli Catessen!
+{^?}Qu{'e} quieren tomar?
+!******************************!
+[7117030004000000:000a0000000245000000024e000000]
+レイトン
+!******************************!
+<T>Lo siento, pero no hemos venido
+a disfrutar de su exquisita comida.
+!******************************!
+[7117030007000000:000a00000002450000000295000000]
+レイトン
+!******************************!
+<T>Solo queremos saber si tiene alg{'u}n
+tipo de informaci{'o}n sobre el
+regente de la Pagoda Colosal.
+!******************************!
+[711703000a000000:000a000000020000000002fc000000]
+ポルテ
+!******************************!
+<T><A1/3>{^?}De verdad que no tienen hambre?<W>
+De acuerdo, de acuerdo. {^?}Qu{'e}
+quer{'i}an preguntarme?
+!******************************!
+[711703000d000000:000a00000002450000000267010000]
+レイトン
+!******************************!
+<T>Nos gustar{'i}a ver al hombre que
+gestiona la Pagoda Colosal, pero
+no se encuentra all{'i} ahora mismo.
+!******************************!
+[7117030010000000:000a000000024500000002d2010000]
+レイトン
+!******************************!
+<T>{^?}Por casualidad no habr{'a} pasado
+por su establecimiento?
+!******************************!
+[7117030013000000:000a00000002000000000213020000]
+ポルテ
+!******************************!
+<T><A1/4>No, no creo. En realidad no s{'e}
+ni qu{'e} apariencia tiene.
+!******************************!
+[7117030016000000:000a0000000200000000025a020000]
+ポルテ
+!******************************!
+<T>Lo que s{'i} s{'e} es que sus esbirros
+vienen muy a menudo a vaguear y
+dejan unas propinas penosas.
+!******************************!
+[7117030019000000:000a000000020000000002c1020000]
+ポルテ
+!******************************!
+<T><A3/1>Ahora que lo pienso, estoy casi
+segura de que el hombre que buscan
+no anda por aqu{'i}.
+!******************************!
+[711703001c000000:000a00000002000000000222030000]
+ポルテ
+!******************************!
+<T>{^?}Se escaquear{'i}a usted del trabajo
+en un sitio en el que su jefe pudiera
+entrar en cualquier momento?
+!******************************!
+[711703001f000000:000a00000002450000000290030000]
+レイトン
+!******************************!
+<T><A1/2>Una observaci{'o}n muy acertada.
+Es usted muy perspicaz.
+!******************************!
+[7117030022000000:000a000000020000000002d2030000]
+ポルテ
+!******************************!
+<T><A2/1>Gracias por el cumplido, pero si de
+verdad me quiere hacer feliz, pida
+algo de comer la pr{'o}xima vez.
+!******************************!

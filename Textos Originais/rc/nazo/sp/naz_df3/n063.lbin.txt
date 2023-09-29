@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n063
+!******************************!
+n063a
+!******************************!
+n063b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}{^!}Nadie ha visto jam{'a}s qu{'e} hay al otro
+lado de la puerta inaccesible! Int{'e}ntalo
+si te atreves y, si consigues llegar arriba,
+te dejar{'e} pasar.{''}
+
+{^!}Desliza al profesor Layton y a Luke
+hasta el recuadro superior para resolver
+este puzle!
+
+!******************************!
+[ec0b01000b000000:0214010000]
+{^!}Incre{'i}ble!
+
+{''}Puedes pasar al otro lado.{''}
+!******************************!
+[ed0b01000c000000:024a010000]
+{^!}L{'a}stima!
+
+Vuelve a intentarlo.
+!******************************!
+[ee0b01000d000000:0270010000]
+La pieza verde siempre estar{'a} en medio
+del camino. Tienes que abrir un poco
+de espacio para moverla.
+
+Mueve primero al profesor Layton y a
+Luke hacia la izquierda. Luego mueve
+la pieza roja hacia abajo hasta la
+esquina inferior derecha. Ahora mueve
+la pieza azul hasta el hueco que ha
+quedado junto a la pared derecha.
+Desde aqu{'i} puedes seguir t{'u}.
+!******************************!
+[ef0b01000e000000:02d5020000]
+Siguiendo desde la posici{'o}n indicada
+en la pista 1, mueve la pieza naranja
+hasta que quede junto a la pieza azul
+de forma que encajen.
+Ahora puedes mover la molesta pieza
+verde hacia la izquierda.
+A continuaci{'o}n, mueve la pieza naranja
+hacia arriba y ponla en el hueco que
+ha dejado la pieza verde.
+
+{^!}Ahora puedes seguir desplazando
+la pieza verde!
+!******************************!
+[f00b01000f000000:023b040000]
+Continuando desde la pista 2, mueve
+la pieza verde hasta ponerla justo
+encima de la amarilla, de forma que
+puedas desplazar la pieza naranja
+hasta el recuadro superior. Este
+movimiento es fundamental.
+Ahora desplaza la pieza verde
+hacia arriba...
+!******************************!
+[f10b010010000000:0232050000]
+Continuando desde la pista 3, sube
+la pieza amarilla para poder llevar
+al profesor Layton y a Luke un espacio
+hacia la izquierda y dos hacia arriba.
+Luego pon la pieza roja debajo de ellos
+y junta las piezas azul, amarilla y verde
+en la esquina inferior derecha.
+
+Ahora la {'u}nica pieza que obstruye
+el camino es la naranja...
+!******************************!

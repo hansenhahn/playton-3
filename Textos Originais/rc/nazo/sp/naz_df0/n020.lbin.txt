@@ -1,0 +1,79 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n020
+!******************************!
+n020a
+!******************************!
+n020b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ve desde el punto de partida, que est{'a}
+en la esquina superior izquierda, hasta
+la bandera verde, que est{'a} en la esquina
+inferior derecha, movi{'e}ndote horizontal
+o verticalmente. Debes saber, sin embargo,
+que no puedes moverte en la direcci{'o}n en
+la que apuntan las flechas ni puedes pasar
+dos veces por la misma casilla.
+
+{^?}C{'o}mo har{'a}s para llegar a la bandera
+verde? Ve tocando todas las casillas
+por las que pases en tu recorrido.
+!******************************!
+[ec0b01000b000000:02d3010000]
+{^!}Muy bien!
+
+Si sigues la ruta que se muestra en esta
+imagen, llegar{'a}s a la bandera verde. La
+clave est{'a} en pensar en cada casilla
+individualmente.
+!******************************!
+[ed0b01000c000000:026f020000]
+{^!}Qu{'e} l{'a}stima!
+
+Intenta fijarte bien en cada casilla
+por la que pasas. Acabar{'a}s por dar
+con la soluci{'o}n.
+!******************************!
+[ee0b01000d000000:02e6020000]
+Esta es una de esas ocasiones en las
+que viene muy bien usar la funci{'o}n
+de las notas.
+Dibuja las direcciones en las que te
+puedes mover desde cada casilla.
+As{'i} ver{'a}s m{'a}s claro que las casillas
+con dos o m{'a}s flechas restringen tus
+movimientos, sobre todo porque no
+puedes volver a la casilla anterior.
+!******************************!
+[ef0b01000e000000:0222040000]
+Bien, aqu{'i} van los cinco primeros pasos.
+Desde el punto de partida, primero ve
+abajo, despu{'e}s a la derecha, otra vez
+a la derecha, abajo y abajo.
+!******************************!
+[f00b01000f000000:02ba040000]
+La {'u}nica casilla que conduce a la
+bandera verde es la que se encuentra
+encima de ella. Y, a su vez, para llegar
+a esta solo puedes venir de la izquierda.
+Siguiendo hacia atr{'a}s, a esta casilla
+no puedes llegar ni desde arriba
+ni desde abajo, as{'i} que nuevamente
+tendr{'a}s que venir desde la izquierda.
+
+Cuando se busca una soluci{'o}n,
+a veces hay que cambiar el enfoque.
+!******************************!
+[f10b010010000000:0236060000]
+Veamos c{'o}mo cubrir un buen trecho del
+camino. La pista 2 dec{'i}a que el camino
+a seguir era abajo, derecha, derecha,
+abajo y abajo.
+Desde all{'i}, sigue a la izquierda,
+izquierda, abajo y abajo. Entonces
+deber{'i}as estar en la esquina inferior
+izquierda.
+Lo cierto es que en este laberinto
+no se usa ninguna de las casillas
+del sector superior derecho.
+!******************************!

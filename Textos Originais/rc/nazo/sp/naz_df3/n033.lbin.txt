@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000900000000f203000000f2030000000100000000000000000000000000]
+n033
+!******************************!
+n033a
+!******************************!
+n033b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir la puerta tendr{'a}s que colocar
+cuatro n{'u}meros en los paneles vac{'i}os,
+de manera que se cumplan las condiciones
+expresadas en las igualdades.
+
+Al colocar un n{'u}mero en uno de los paneles
+vac{'i}os, este ser{'a} v{'a}lido tanto para la
+igualdad superior como para la inferior.
+!******************************!
+[ec0b01000b000000:0238010000]
+{^!}Impresionante!
+
+Esta es una posible soluci{'o}n. Los
+dos miembros de cada igualdad son
+intercambiables. Adem{'a}s, puesto que
+cada miembro de la igualdad contiene
+una suma o una multiplicaci{'o}n, se
+puede cambiar el orden de los n{'u}meros
+de cada suma o multiplicaci{'o}n sin
+que esto afecte al resultado final.
+!******************************!
+[ed0b01000c000000:0276020000]
+{^!}L{'a}stima!
+
+No es m{'a}s que una simple combinaci{'o}n de
+n{'u}meros. Sigue intent{'a}ndolo.
+!******************************!
+[ee0b01000d000000:02d8020000]
+Elegir cuatro n{'u}meros correctos es
+complicado. Simplemente ve probando
+diferentes combinaciones.
+!******************************!
+[ef0b01000e000000:023c030000]
+Piensa en dos pares de n{'u}meros
+que den el mismo resultado cuando
+los de un par se suman y los del otro
+par se multiplican, y viceversa.
+!******************************!
+[f00b01000f000000:02c7030000]
+Tanto la multiplicaci{'o}n como la suma
+de dos de estos n{'u}meros deber{'i}an
+dar el mismo resultado, cosa que
+no conseguir{'a}s multiplicando
+n{'u}meros grandes.
+!******************************!
+[f10b010010000000:026b040000]
+Cuando la soluci{'o}n de la igualdad
+de arriba sea seis, la soluci{'o}n
+de la de abajo ser{'a} cinco.
+!******************************!

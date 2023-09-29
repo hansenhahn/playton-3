@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n188
+!******************************!
+n188a
+!******************************!
+n188b
+!******************************!
+[eb0b01000a000000:0211000000]
+Hemos barajado un mazo de 52 cartas
+(sin comodines) y lo hemos dividido
+en tres montones m{'a}s o menos iguales.
+En el mont{'o}n de la izquierda hay 17
+cartas, de las cuales cuatro son rojas.
+El mont{'o}n central tiene 18 cartas,
+y seis de ellas son rojas.
+
+{^?}Cu{'a}ntas cartas del mont{'o}n de la
+derecha ser{'a}n negras?
+!******************************!
+[ec0b01000b000000:0256010000]
+{^!}Excelente!
+
+Habr{'a} una carta negra.
+
+En el mont{'o}n izquierdo de 17 cartas hay
+4 rojas y 13 negras. En el mont{'o}n central
+de 18 cartas hay 6 rojas y 12 negras.
+En el mont{'o}n de la derecha, por tanto,
+tiene que haber 16 cartas rojas, {^!}y solo
+una negra!
+
+Estas cartas estaban barajadas... {^?}no?
+!******************************!
+[ed0b01000c000000:028b020000]
+{^!}Qu{'e} pena!
+
+No le des demasiadas vueltas.
+!******************************!
+[ee0b01000d000000:02bb020000]
+Este puzle se puede resolver
+simplemente sumando y restando.
+
+Recuerda que en una baraja hay el mismo
+n{'u}mero de cartas rojas que de negras.
+!******************************!
+[ef0b01000e000000:024a030000]
+
+!******************************!
+[f00b01000f000000:024b030000]
+
+!******************************!
+[f10b010010000000:024c030000]
+
+!******************************!

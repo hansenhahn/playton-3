@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton, haciendo gala de su ingenio
+habitual, desvela todo el misterio
+del Londres del futuro.
+!******************************!
+[7117030004000000:00140000000200000000026f000000]
+ナレーション
+!******************************!
+<T>Todos los presentes se quedan
+anonadados al escuchar los
+planes de Dimitri.
+!******************************!

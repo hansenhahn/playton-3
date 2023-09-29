@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000001a040000001a040000000100000000000000000000000000]
+n139
+!******************************!
+n139a
+!******************************!
+n139b
+!******************************!
+[eb0b01000a000000:0211000000]
+Seis ranas est{'a}n sobre los postes de
+una ci{'e}naga. Deber{'a}n saltar de un lado a
+otro hasta que cada rana ocupe el poste
+con el lazo de su color, con estas reglas:
+
+1. Podr{'a}n saltar a un tronco vac{'i}o
+que est{'e} a su lado.
+
+2. Podr{'a}n saltar sobre la rana que tengan
+al lado si despu{'e}s hay un tronco vac{'i}o.
+
+3. No podr{'a}n saltar sobre dos ranas.
+
+{^!}Adelante con los saltitos!
+!******************************!
+[ec0b01000b000000:02a1010000]
+{^!}As{'i} se salta!
+
+{^?}Se habr{'a}n ido las ranitas a cantar
+bajo la luna?
+!******************************!
+[ed0b01000c000000:02ef010000]
+{^!}Te ha salido rana!
+
+Prueba otra vez.
+!******************************!
+[ee0b01000d000000:0218020000]
+No le des demasiadas vueltas.
+
+Este puzle no es tan complicado si
+pones a saltar a las ranas de un lado
+a otro. Es entretenido, {^?}no? {^!}Boing,
+boing! Antes de pedir m{'a}s pistas,
+{^!}t{'u} ponlas a saltar sin parar!
+!******************************!
+[ef0b01000e000000:02f5020000]
+Este puzle se puede resolver en solo
+15 movimientos. Aqu{'i} van los cuatro
+primeros:
+
+Roja, amarilla, blanca, roja...
+!******************************!
+[f00b01000f000000:026c030000]
+Retomando donde lo dejamos en la pista
+anterior, ah{'i} van seis movimientos m{'a}s:
+
+Negra, verde, amarilla, blanca, roja,
+negra...
+
+{^!}F{'i}jate! {^!}El lado derecho ya est{'a}
+resuelto!
+!******************************!
+[f10b010010000000:022a040000]
+Retomando desde la pista 3, ah{'i}
+van los siguientes tres movimientos:
+
+Verde, amarilla, azul...
+
+Despu{'e}s solo te faltar{'a}n dos
+movimientos. {^!}Es f{'a}cil!
+!******************************!

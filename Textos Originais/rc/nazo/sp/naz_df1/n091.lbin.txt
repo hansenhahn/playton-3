@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n091
+!******************************!
+n091a
+!******************************!
+n091b
+!******************************!
+[eb0b01000a000000:0211000000]
+Instrucciones para abrir:
+
+Puedes comenzar desde cualquier bot{'o}n
+y pasar a otro siguiendo la direcci{'o}n
+de la flecha. {^!}Descubre cu{'a}l es el bot{'o}n
+a partir del cual puedes pasar por todos
+los dem{'a}s botones!
+
+{^!}Toca el bot{'o}n que te llevar{'a} a todos
+los dem{'a}s!
+!******************************!
+[ec0b01000b000000:022d010000]
+{^!}S{'i}, se{-n}or!
+
+{^?}Has encontrado el bot{'o}n que no apunta
+a ning{'u}n otro y, a partir de ah{'i}, has
+recorrido el camino hacia atr{'a}s?
+
+Otra forma de resolverlo es pensar que
+el bot{'o}n inicial es uno al que no apunta
+ning{'u}n otro.
+!******************************!
+[ed0b01000c000000:0224020000]
+{^!}Qu{'e} l{'a}stima!
+
+Si entiendes bien las condiciones de la
+soluci{'o}n, el puzle no es tan dif{'i}cil.
+{^!}Int{'e}ntalo otra vez!
+!******************************!
+[ee0b01000d000000:02ab020000]
+En lugar de buscar el bot{'o}n inicial,
+intenta localizar el {'u}ltimo bot{'o}n
+y retrocede a partir de {'e}l.
+Recuerda que la flecha del {'u}ltimo
+bot{'o}n no apunta a ning{'u}n otro.
+!******************************!
+[ef0b01000e000000:0264030000]
+El {'u}ltimo bot{'o}n no apunta a ning{'u}n otro.
+Por lo tanto, debe estar en alguno
+de los bordes y apuntar hacia fuera.
+Cuando hayas encontrado el {'u}ltimo
+bot{'o}n, {^!}puedes retroceder desde ah{'i}
+hasta encontrar el bot{'o}n inicial!
+!******************************!
+[f00b01000f000000:0255040000]
+El {'u}ltimo bot{'o}n est{'a} en la esquina
+superior derecha. {^!}Retrocede desde
+all{'i} hasta el bot{'o}n inicial!
+!******************************!
+[f10b010010000000:02ca040000]
+El bot{'o}n inicial es uno
+al que no apunta ning{'u}n otro.
+{^?}Lo ves? {^!}Ah{'i} est{'a} la respuesta!
+!******************************!

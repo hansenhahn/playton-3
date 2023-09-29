@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n079
+!******************************!
+n079a
+!******************************!
+n079b
+!******************************!
+[eb0b01000a000000:0211000000]
+Recientemente has comprado algunos libros
+descatalogados en una librer{'i}a de viejo,
+y has gastado 99 {po} en total. Abajo puedes
+ver la estanter{'i}a de donde cogiste los
+libros y, debajo de cada uno, la etiqueta
+con sus precios.
+
+Se{-n}ala cu{'a}les son los libros que has
+comprado antes de dar tu respuesta.
+!******************************!
+[ec0b01000b000000:0249010000]
+{^!}Eso s{'i} que es aprovechar bien el dinero!
+
+Los cuatro libros que compraste valen
+27 {po}, 33 {po}, 15 {po} y 24 {po}, respectivamente.
+Un procedimiento habitual para resolver
+este tipo de problemas consiste en
+identificar los n{'u}meros que, al sumarse,
+dan otro n{'u}mero cuyo segundo d{'i}gito es
+el 9.
+
+Por cierto, 99 es m{'u}ltiplo de 3. {^?}Has
+notado que si solo escoges libros cuyos
+precios son m{'u}ltiplos de 3 podr{'i}as dar
+con la soluci{'o}n?
+!******************************!
+[ed0b01000c000000:0216030000]
+{^!}Qu{'e} pena!
+
+Repasa un poco las matem{'a}ticas del
+colegio e int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:026f030000]
+El {'u}ltimo d{'i}gito de 99 es el 9. {^?}Qu{'e}
+libros tienen precios que, al sumarlos,
+dar{'a}n como resultado un n{'u}mero que
+termine en 9?
+!******************************!
+[ef0b01000e000000:02ff030000]
+Si ya has encontrado un grupo
+de libros que al sumar sus precios
+dan como resultado un n{'u}mero
+que acaba en 9, intenta ahora
+ver c{'o}mo podr{'i}an sumar un n{'u}mero
+que comience por 9.
+!******************************!
+[f00b01000f000000:02bc040000]
+Para dar con la soluci{'o}n tienes
+que comprar cuatro libros. Si los
+libros que has seleccionado no son
+cuatro, vuelve a hacer las cuentas.
+!******************************!
+[f10b010010000000:0248050000]
+Elige solamente libros cuyos precios
+sean m{'u}ltiplos de 3.
+!******************************!

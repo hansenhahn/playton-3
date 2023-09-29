@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000380400000038040000000100000000000000000000000000]
+n042
+!******************************!
+n042a
+!******************************!
+n042b
+!******************************!
+[eb0b01000a000000:0211000000]
+Te han encargado que hagas un bocadillo
+de una manera muy espec{'i}fica. {^?}Puedes
+hacerlo cumpliendo exactamente estas
+condiciones?
+
+{.} El jam{'o}n est{'a} encima de la ensaladilla.
+{.} El {'u}nico ingrediente entre el jam{'o}n
+y el tomate es la lechuga.
+{.} El queso est{'a} en contacto con el pan.
+{.} Ni el jam{'o}n ni la lechuga est{'a}n justo
+en el medio.
+
+Arrastra los ingredientes para colocarlos
+en sus posiciones y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02d0010000]
+{^!}Qu{'e} buena pinta tiene!
+
+{^!}Es hora de hincarle el diente!
+!******************************!
+[ed0b01000c000000:0212020000]
+{^!}Qu{'e} l{'a}stima!
+
+{^!}Date prisa con el bocadillo!
+!******************************!
+[ee0b01000d000000:024b020000]
+Si pones los ingredientes exactamente
+como se indica en las instrucciones, {^?}te
+quedan siempre el jam{'o}n o la lechuga en
+el medio?
+
+El truco est{'a} en descubrir d{'o}nde ir{'i}a
+el jam{'o}n.
+!******************************!
+[ef0b01000e000000:020f030000]
+El jam{'o}n tiene que ir o bien encima
+de todos los dem{'a}s ingredientes,
+o bien debajo de todos ellos.
+!******************************!
+[f00b01000f000000:0278030000]
+El queso tiene que quedar debajo
+de todos los dem{'a}s ingredientes.
+!******************************!
+[f10b010010000000:02bd030000]
+El queso tiene que ir debajo del todo
+para quedar junto al pan, y el jam{'o}n
+va arriba del todo. Como la lechuga
+tiene que estar entre el jam{'o}n y el
+tomate, el orden de arriba hacia abajo
+ser{'a}: jam{'o}n, lechuga y tomate. Y con
+el queso debajo del todo, el bocadillo
+ya est{'a} pr{'a}cticamente terminado.
+!******************************!

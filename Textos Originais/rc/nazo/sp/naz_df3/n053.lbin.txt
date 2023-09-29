@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n053
+!******************************!
+n053a
+!******************************!
+n053b
+!******************************!
+[eb0b01000a000000:0211000000]
+Hay que poner en una estanter{'i}a todos
+estos libros del mismo grosor, de forma
+que se cumplan las siguientes condiciones:
+
+{.} A la izquierda del marr{'o}n no puede haber
+otros libros. 
+{.} Solo el azul toca al marr{'o}n.
+{.} El libro amarillo est{'a} a la izquierda
+del blanco.
+{.} El azul est{'a} en contacto con el morado.
+{.} El libro blanco est{'a} entre el amarillo
+y el morado, y no toca a ning{'u}n otro.
+{.} Junto al amarillo hay un espacio donde
+cabr{'i}a otro libro.
+!******************************!
+[ec0b01000b000000:02f1010000]
+{^!}Eso es!
+
+Al colocar el libro azul horizontalmente
+encima de los dem{'a}s, se cumplen todas las
+condiciones.
+!******************************!
+[ed0b01000c000000:0261020000]
+{^!}Qu{'e} pena!
+
+Recuerda que el aspecto de los libros
+una vez colocados no tiene por qu{'e} ser
+muy ordenado. Lo importante es que
+se cumplan todas las condiciones.
+!******************************!
+[ee0b01000d000000:0208030000]
+Si a la izquierda del libro marr{'o}n no
+puede haber ning{'u}n otro, es probable
+que el marr{'o}n vaya pegado a la pared
+izquierda de la estanter{'i}a.
+!******************************!
+[ef0b01000e000000:02a0030000]
+Las condiciones tercera y quinta
+revelan c{'o}mo colocar el libro
+amarillo, el blanco y el morado.
+Ponlos en este orden, de izquierda
+a derecha: amarillo, blanco y morado.
+!******************************!
+[f00b01000f000000:024c040000]
+A partir de la segunda y la cuarta
+condici{'o}n deber{'i}as poder deducir
+d{'o}nde hay que colocar el libro azul.
+
+Sin embargo, si intentas poner todos
+los libros en posici{'o}n vertical, ser{'a}
+imposible cumplir todas las condiciones.
+Si tienes esto en cuenta, ver{'a}s que
+el libro azul solo puede ir en un lugar.
+
+!******************************!
+[f10b010010000000:028a050000]
+Si colocas todos los libros en posici{'o}n
+vertical y no encuentras la soluci{'o}n,
+intenta poner alguno en posici{'o}n
+horizontal.
+
+Cuando pones todos los libros excepto
+el azul, {^?}no queda un hueco arriba?
+Ah{'i} es donde va el libro azul.
+!******************************!

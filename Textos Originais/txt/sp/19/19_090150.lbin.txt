@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>El grupo tiene un breve pero
+intenso encuentro con un
+conejo llamado Sujeto 03.
+!******************************!
+[7117030004000000:000a00000002000000000260000000]
+ナレーション
+!******************************!
+<T>Tras una dura negociaci{'o}n, el
+animal deja pasar a nuestros
+amigos.
+!******************************!
+[7117030007000000:0014000000020000000002a9000000]
+ナレーション
+!******************************!
+<T>Nuestros h{'e}roes intentan localizar
+al futuro profesor con las pistas
+obtenidas en Chinatown.
+!******************************!

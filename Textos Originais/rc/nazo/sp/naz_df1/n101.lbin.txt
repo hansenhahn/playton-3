@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n101
+!******************************!
+n101a
+!******************************!
+n101b
+!******************************!
+[eb0b01000a000000:0211000000]
+Doce personas quieren llegar a su destino
+repartidas en dos coches de seis plazas
+cada uno. Desde donde se encuentran,
+el viaje de ida hasta el destino dura
+una hora, pero uno de los coches se ha
+averiado, as{'i} que solo pueden usar el
+otro.
+
+{^?}Cu{'a}nto tiempo necesitar{'a}n las doce
+personas para llegar a su destino,
+yendo y viniendo con el mismo coche?
+El viaje de vuelta dura lo mismo que
+el de ida.
+!******************************!
+[ec0b01000b000000:02aa010000]
+{^!}Bien encaminado!
+
+Tardar{'a}n cinco horas. Para cada trayecto
+siempre har{'a} falta alguien que conduzca
+el coche. As{'i}, ser{'a}n necesarios tres
+viajes de ida y dos de vuelta para que
+las doce personas lleguen a su destino.
+!******************************!
+[ed0b01000c000000:0291020000]
+Qu{'e} l{'a}stima...
+
+{^?}Seguro que no est{'a}s pasando nada por
+alto?
+!******************************!
+[ee0b01000d000000:02d9020000]
+Tienes un coche con seis plazas, as{'i}
+que el primer paso es llevar seis
+personas al destino. All{'i} se bajar{'a}n,
+y habr{'a} que volver al punto de partida
+para buscar a las dem{'a}s.
+{^?}Cu{'a}ntas personas hay ahora en el
+punto de partida? {^?}Y cu{'a}ntas en el
+de destino?
+!******************************!
+[ef0b01000e000000:02f2030000]
+Despu{'e}s de dos horas, el coche
+ha vuelto al punto de partida,
+donde todav{'i}a hay seis personas.
+Acomoda en el coche tantas como
+quepan y ponte otra vez en camino.
+!******************************!
+[f00b01000f000000:029a040000]
+En ese segundo viaje de ida hacia
+el destino, {^?}has supuesto que van
+las seis personas que quedaban
+en el punto de partida?
+
+No olvides que alguien tiene que
+conducir el coche.
+!******************************!
+[f10b010010000000:024d050000]
+Despu{'e}s de dos idas y vueltas con
+el coche lleno, solo falta llevar
+hasta el destino al conductor
+y a una persona.
+
+Sabes que un viaje de ida dura una hora,
+as{'i} que ya deber{'i}as tener la respuesta.
+!******************************!

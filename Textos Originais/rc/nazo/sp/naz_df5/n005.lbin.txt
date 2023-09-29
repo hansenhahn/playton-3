@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000400000000f203000000f2030000000100000000000000000000000000]
+n005
+!******************************!
+n005a
+!******************************!
+n005b
+!******************************!
+[eb0b01000a000000:0211000000]
+Has llegado a la relojer{'i}a, pero parece
+que no hay manera de abrir la puerta.
+Mientras buscas el picaporte, oyes una
+voz desde el interior de la tienda.
+
+{''}Pulsa el panel del reloj.{''}
+
+{^?}Qu{'e} panel pulsar{'a}s? Recuerda que solo
+uno es el correcto.
+!******************************!
+[ec0b01000b000000:0215010000]
+{^!}Eso es!
+
+Si miras atentamente, ver{'a}s que en el
+panel correcto hay un reloj de arena.
+
+{^!}Ya se est{'a} abriendo la puerta!
+!******************************!
+[ed0b01000c000000:0298010000]
+{^!}L{'a}stima!
+
+Recuerda... Hay muchos tipos diferentes
+de relojes.
+!******************************!
+[ee0b01000d000000:02dd010000]
+Tienes que buscar {''}el panel del reloj{''}.
+Pero ten en cuenta que hay muchos
+tipos de relojes.
+
+Las instrucciones dec{'i}an {''}Pulsa el
+panel del reloj{''}, lo cual te indica
+que el reloj en cuesti{'o}n cabe en un
+solo panel.
+!******************************!
+[ef0b01000e000000:02c3020000]
+No est{'a}s buscando un reloj anal{'o}gico
+ni uno digital. Hay otros tipos de
+relojes que no requieren mecanismos
+complejos. Intenta pensar en alg{'u}n
+ejemplo...
+!******************************!
+[f00b01000f000000:0266030000]
+El reloj que est{'a}s buscando no te dir{'a}
+qu{'e} hora es, pero s{'i} permite saber
+cu{'a}nto tiempo ha transcurrido.
+
+Hoy en d{'i}a seguramente usar{'i}as
+un cron{'o}metro, pero lo que
+buscas es un poco m{'a}s antiguo.
+
+!******************************!
+[f10b010010000000:0245040000]
+Lo que est{'a}s buscando es un reloj
+de arena. {^?}No has visto ninguno antes?
+
+Mira a ver si esta vez lo descubres.
+!******************************!

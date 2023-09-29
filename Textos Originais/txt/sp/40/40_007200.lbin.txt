@@ -1,0 +1,165 @@
+[7017010000000000:0018000000]
+[7117030001000000:00e803000002000000000209000000]
+El paseo
+!******************************!
+El secreto de la longevidad es
+dormir mucho y hacer ejercicio,
+{^?}sabes? Hablando de ejercicio,
+te voy a contar la ruta que sigo
+por las tardes.
+!******************************!
+[7117030004000000:00f2030000029b00000002a4000000]
+La huida
+!******************************!
+{^!}Eh, venga, tenemos cosas que
+hacer! Hay que pillar todo el
+dinero y meterlo en la caja
+fuerte. {^!}Son las {'o}rdenes!
+{^?}C{'o}mo lo vamos a llevar todo?
+!******************************!
+[7117030007000000:00fc0300000243010000024f010000]
+La merienda
+!******************************!
+{^!}Luz de mi vida, tu futura esposa
+est{'a} deseando verte! {^!}Te traigo
+pastelillos! {^?}No est{'a}s deseando
+hincarles el diente?
+!******************************!
+[711703000a000000:000604000002d501000002e4010000]
+La traves{'i}a
+!******************************!
+{^!}Oh, niet, me he perdido autre
+fois! {^!}Y en el desierto! Tengo
+que volver a la costa a por
+acqua antes de que me seque
+como una pasa, mais... {^?}c{'o}mo?
+!******************************!
+[711703000d000000:00100400000284020000028e020000]
+El recado
+!******************************!
+{^!}Ese Chip ya la est{'a} liando otra
+vez! Se ha ido corriendo y se le
+han ca{'i}do todos los juguetes por
+el camino. {^!}Y ahora me toca a m{'i}
+recogerlos!
+!******************************!
+[7117030010000000:001a040000022d0300000239030000]
+La patrulla
+!******************************!
+{^!}El inspector quiere que vaya
+urgentemente a la escena de un
+crimen! Me va a caer una buena
+si no llego enseguida. Pero no
+puedo resistirme a esos dulces...
+!******************************!
+[7117030013000000:002404000002d903000002e9030000]
+La isla del oro
+!******************************!
+Este circuito es mi humilde
+regalo para ti. Parece f{'a}cil,
+pero para recoger todas las
+monedas tendr{'a}s que darle a
+esa mollera tuya.
+!******************************!
+[7117030016000000:002e0400000273040000027d040000]
+El huerto
+!******************************!
+Este es mi huerto secreto de
+zanahorias y ya es hora de
+recolectarlas, que tienen
+muy buena pinta. {^!}Para cenar
+toca ensalada de zanahorias!
+!******************************!
+[7117030019000000:0038040000020c0500000215050000]
+La deuda
+!******************************!
+{^!}Qu{'e} problem{'o}n! Ayer me qued{'e}
+demasiado tiempo en el casino y
+perd{'i} todo mi dinero. {^!}Tengo que
+conseguir algo de dinero antes
+de que la Familia me atrape!
+!******************************!
+[711703001c000000:004204000002c205000002ce050000]
+La caminata
+!******************************!
+{^!}Muy bien! {^!}Enhorabuena por haber
+llegado hasta aqu{'i}! Perm{'i}teme que
+te ofrezca este nuevo circuito
+como recompensa. {^!}Deber{'i}a ser
+pan comido para ti!
+!******************************!
+[711703001f000000:00d007000002750600000276060000]
+
+!******************************!
+Pasa por todas las banderas.
+!******************************!
+[7117030022000000:00da07000002930600000294060000]
+
+!******************************!
+Recoge todas las bolsas de dinero.
+!******************************!
+[7117030025000000:00e407000002b706000002b8060000]
+
+!******************************!
+Recoge todos los pasteles.
+!******************************!
+[7117030028000000:00ee07000002d306000002d4060000]
+
+!******************************!
+Sigue las banderas hasta el mar.
+!******************************!
+[711703002b000000:00f807000002f506000002f6060000]
+
+!******************************!
+Recoge todos los juguetes.
+!******************************!
+[711703002e000000:000208000002110700000212070000]
+
+!******************************!
+C{'o}mete todos los pasteles.
+!******************************!
+[7117030031000000:000c08000002300700000231070000]
+
+!******************************!
+Recoge todas las monedas.
+!******************************!
+[7117030034000000:0016080000024b070000024c070000]
+
+!******************************!
+Recolecta todas las zanahorias.
+!******************************!
+[7117030037000000:0020080000026c0700000294060000]
+
+!******************************!
+Recoge todas las bolsas de dinero.
+!******************************!
+[711703003a000000:002a080000026d070000026e070000]
+
+!******************************!
+Recoge todos los sombreros.
+!******************************!
+[711703003d000000:00b80b0000028a070000028b070000]
+
+!******************************!
+{^!}Enhorabuena!
+Has completado
+{''}%s{''}.
+!******************************!
+[7117030040000000:00c20b000002b707000002b8070000]
+
+!******************************!
+Circuito extra conseguido:
+{''}La caminata{''}.
+!******************************!
+[7117030043000000:00cc0b000002e807000002e9070000]
+
+!******************************!
+{^!}Enhorabuena!
+{^!}Has completado todos
+los circuitos!
+!******************************!
+[7117030046000000:00a00f000002220800000223080000]
+
+!******************************!
+{^?}Quieres parar el coche?
+!******************************!

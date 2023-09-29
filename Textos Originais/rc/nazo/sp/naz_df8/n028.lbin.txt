@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n028
+!******************************!
+n028a
+!******************************!
+n028b
+!******************************!
+[eb0b01000a000000:0211000000]
+En la foto aparecen cuatro caballeros
+con sus respectivas lanzas. Una de las
+lanzas se rompi{'o} y hubo que atarla con
+una cuerda justo antes de hacer la foto.
+
+{^?}De qu{'e} caballero es la lanza partida?
+Por supuesto, todas las lanzas eran
+perfectamente rectas al principio.
+!******************************!
+[ec0b01000b000000:0226010000]
+{^!}Muy bien!
+
+Si la recorres con la vista de abajo
+arriba, es f{'a}cil ver la irregularidad
+en la lanza del caballero C.
+!******************************!
+[ed0b01000c000000:02a0010000]
+{^!}L{'a}stima!
+
+Para este puzle te har{'a} falta una gran
+capacidad de observaci{'o}n.
+!******************************!
+[ee0b01000d000000:02f8010000]
+Compara cuidadosamente todas
+las lanzas. Recuerda que una
+de ellas se rompi{'o} y fue reparada.
+!******************************!
+[ef0b01000e000000:0258020000]
+El extremo inferior y la punta
+de la lanza no est{'a}n totalmente
+alineados.
+!******************************!
+[f00b01000f000000:02a5020000]
+Observa la foto desde {'a}ngulos
+diferentes.
+Ahora s{'i} te das cuenta, {^?}verdad?
+!******************************!
+[f10b010010000000:02f9020000]
+Las lanzas de los caballeros A y B
+parece que son totalmente rectas.
+Ahora compara detenidamente las lanzas
+de los caballeros C y D.
+!******************************!

@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n158
+!******************************!
+n158a
+!******************************!
+n158b
+!******************************!
+[eb0b01000a000000:0211000000]
+Se tarda 15 minutos en viajar de la
+estaci{'o}n A, la primera de la l{'i}nea,
+a la estaci{'o}n B.
+Se tarda 5 minutos en viajar de la
+estaci{'o}n B a la estaci{'o}n C.
+Se tarda 10 minutos en viajar de la
+estaci{'o}n C a la {'u}ltima estaci{'o}n,
+la estaci{'o}n D.
+Sin embargo, no se tarda 30 minutos en
+viajar de la estaci{'o}n A a la estaci{'o}n D.
+
+Trat{'a}ndose de una l{'i}nea {'u}nica sin
+ramificaciones, {^?}cu{'a}ntos minutos se tarda
+en viajar de la estaci{'o}n A a la estaci{'o}n D?
+!******************************!
+[ec0b01000b000000:02fc010000]
+{^!}Chucuch{'u}uuu!
+
+{^!}La respuesta es 20 minutos!
+
+Para cumplir las condiciones de
+este puzle, la estaci{'o}n C tiene que
+estar situada entre las estaciones
+A y B.
+!******************************!
+[ed0b01000c000000:02a3020000]
+{^!}L{'a}stima!
+
+Quiz{'a}s aqu{'i} el orden de los factores
+s{'i} que altere el producto...
+!******************************!
+[ee0b01000d000000:02ff020000]
+{^?}Es imposible?
+
+Bueno, las condiciones son todas reales
+y no ocurre nada imposible. Piensa de
+una forma m{'a}s flexible y quiz{'a}s veas
+lo que sucede.
+!******************************!
+[ef0b01000e000000:029a030000]
+{^!}Tienes que pensar en otro orden!
+!******************************!
+[f00b01000f000000:02bf030000]
+Seguro que piensas que justo despu{'e}s
+de la estaci{'o}n A va la estaci{'o}n B, y as{'i}
+sucesivamente, {^?}no? {^?}Y por qu{'e} tiene
+que ser de esa forma? {^!}Ese solo es el
+orden de las letras del alfabeto!
+!******************************!
+[f10b010010000000:0292040000]
+Para cumplir las condiciones de este
+puzle, el orden de las estaciones
+tiene que ser A, C, B, D. Sabiendo
+esto, podr{'a}s calcular el tiempo que
+lleva ir de la estaci{'o}n A a la D.
+!******************************!

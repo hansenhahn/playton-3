@@ -1,0 +1,75 @@
+[7017010000000000:000b000000]
+[7117030001000000:000a00000002000000000209000000]
+デビット
+!******************************!
+<T>Hola, renacuajo. {^?}Te puedo
+ayudar en algo?
+!******************************!
+[7117030004000000:000a000000023a0000000241000000]
+ルーク
+!******************************!
+<T>Pues s{'i}. Me he fijado en que hay
+una parada de autob{'u}s ah{'i} mismo.
+{^?}Sabe si sigue en activo?
+!******************************!
+[7117030007000000:000a000000020000000002ac000000]
+デビット
+!******************************!
+<T>{^!}Por supuesto! Lo que sobra
+en Londres son autobuses.<W>
+{^!}Qu{'e} pregunta tan peculiar!
+!******************************!
+[711703000a000000:000a000000023a000000020d010000]
+ルーク
+!******************************!
+<T><A3/2>{^!}BIEN!<W> {^?}Ha o{'i}do eso, profesor?
+{^!}Aqu{'i} s{'i} que funcionan los
+autobuses!
+!******************************!
+[711703000d000000:000a00000002700100000279010000]
+レイトン
+!******************************!
+<T><A4/2>S{'i}, Luke, lo he o{'i}do.<W> Yo tambi{'e}n
+me alegro, pero puede que est{'e}s
+poniendo nervioso a este se{-n}or.
+!******************************!
+[7117030010000000:000a000000020000000002f5010000]
+デビット
+!******************************!
+<T>Nunca hab{'i}a visto a nadie tan
+entusiasmado por ir en autob{'u}s.
+!******************************!
+[7117030013000000:000a0000000200000000023c020000]
+デビット
+!******************************!
+<T><A3/5>Pues si tanto te gustan los
+autobuses, este puzle te
+va a encantar.
+!******************************!
+[7117030016000000:00e803000002000000000289020000]
+デビット
+!******************************!
+<T>Si te gustan los autobuses, este
+puzle no deber{'i}a suponerte ning{'u}n
+problema.
+!******************************!
+[7117030019000000:00d0070000020000000002df020000]
+デビット
+!******************************!
+<T>{^?}Quieres volver a intentar el
+puzle de los autobuses?
+!******************************!
+[711703001c000000:00b80b00000200000000021b030000]
+デビット
+!******************************!
+<T>Te voy a confesar que a m{'i} tambi{'e}n
+me gustan los autobuses. Mis
+favoritos son los de dos pisos.
+!******************************!
+[711703001f000000:00a00f000002000000000284030000]
+デビット
+!******************************!
+<T>{^?}Has encontrado ya el autob{'u}s?
+Seguro que est{'a}s contando los
+segundos.
+!******************************!

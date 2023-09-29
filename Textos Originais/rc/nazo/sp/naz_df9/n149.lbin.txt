@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n149
+!******************************!
+n149a
+!******************************!
+n149b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} tienes tres extra{-n}os s{'i}mbolos,
+A, B y C. Si A es 63 y B es 89,
+{^?}qu{'e} es C?
+
+Lo que s{'i} podemos decirte es que C es un
+n{'u}mero de 2 d{'i}gitos, pero {^?}cu{'a}l?
+!******************************!
+[ec0b01000b000000:02c9000000]
+{^!}Correcto!
+
+La respuesta es 52.
+Al rotar los s{'i}mbolos 90{o} en el sentido
+de las agujas del reloj y dibujar una
+l{'i}nea que los atraviesa verticalmente,
+aparecen como 63, 89 y 52.
+!******************************!
+[ed0b01000c000000:0284010000]
+{^!}L{'a}stima!
+
+Trata de ver los s{'i}mbolos desde un poco
+m{'a}s lejos.
+!******************************!
+[ee0b01000d000000:02ce010000]
+Piensa en la relaci{'o}n entre los s{'i}mbolos
+y los n{'u}meros.
+
+Prueba a usar la funci{'o}n de las notas
+para escribir estos n{'u}meros, pero hazlo
+con trazos muy angulosos.
+!******************************!
+[ef0b01000e000000:027e020000]
+Inclina la cabeza hacia la izquierda
+(o gira la consola a la derecha)
+y mira de nuevo los s{'i}mbolos.
+{^?}Ves algo en ellos?
+!******************************!
+[f00b01000f000000:02fc020000]
+Usa la funci{'o}n de las notas para
+rellenar de color los huecos en
+cada s{'i}mbolo. Al terminar, usa la
+goma para borrar una l{'i}nea recta
+que cruce los s{'i}mbolos por la mitad
+horizontalmente.
+{^?}Lo ves ya?
+!******************************!
+[f10b010010000000:02d0030000]
+A ver, aqu{'i} viene la pista esencial.
+Tras seguir las instrucciones de la
+pista 3, mira los s{'i}mbolos desde el
+lateral derecho de la consola.
+
+{^?}Ves en ellos n{'u}meros como los de
+un reloj digital?
+!******************************!

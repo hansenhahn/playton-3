@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n036
+!******************************!
+n036a
+!******************************!
+n036b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}{^!}De joven me consideraban muy guapa!
+Esta es una foto de aquellos tiempos,
+en la que aparezco junto con tres
+de mis atractivos pretendientes.
+Unos instantes despu{'e}s de hacerse
+esta foto, uno de ellos me declar{'o}
+su amor regal{'a}ndome un coraz{'o}n.
+
+{^?}Adivinas cu{'a}l de los tres fue?{''}
+!******************************!
+[ec0b01000b000000:0242010000]
+{^!}Una respuesta muy rom{'a}ntica!
+
+{^!}S{'i}, fue {'e}l! Hizo un coraz{'o}n con
+la revista que ten{'i}a en sus manos.
+Un detalle muy creativo, {^?}verdad?
+
+Nada produce tanta inspiraci{'o}n
+como el amor verdadero...
+!******************************!
+[ed0b01000c000000:021c020000]
+{^!}Qu{'e} l{'a}stima!
+
+Presta atenci{'o}n a lo que cada
+caballero sujeta en sus manos.
+!******************************!
+[ee0b01000d000000:0274020000]
+Cada uno de los pretendientes sujeta un
+objeto muy peculiar. F{'i}jate bien...
+!******************************!
+[ef0b01000e000000:02c3020000]
+El coraz{'o}n no est{'a} dibujado
+en ninguno de los objetos que
+sostienen en sus manos.
+Seguramente se trate de algo
+con forma de coraz{'o}n.
+Mmm... {^?}C{'o}mo se puede hacer
+la forma de un coraz{'o}n?
+!******************************!
+[f00b01000f000000:028e030000]
+Uno de los tres caballeros sostiene
+algo que puede adoptar f{'a}cilmente
+la forma de un coraz{'o}n.
+
+Mira otra vez.
+!******************************!
+[f10b010010000000:0202040000]
+No fue un hermoso ramo de flores
+ni una rom{'a}ntica melod{'i}a lo que
+la impresion{'o}.
+
+{^!}Fue un gesto encantador!
+!******************************!

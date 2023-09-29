@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n114
+!******************************!
+n114a
+!******************************!
+n114b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes que pintar una pir{'a}mide formada
+por 21 le{-n}os circulares. Cuentas con
+tres colores: rojo, azul y amarillo.
+Antes de que te lances a una aventura
+art{'i}stica, ten en cuenta una regla muy
+importante: no podr{'a}s pintar dos le{-n}os
+contiguos con el mismo color.
+
+Un le{-n}o ya est{'a} pintado de rojo. Si
+sigues esa regla y pintas as{'i} toda la
+pir{'a}mide, {^?}de qu{'e} color ser{'a} el le{-n}o A?
+Rodea el bote de pintura correcto.
+!******************************!
+[ec0b01000b000000:02d1010000]
+{^!}As{'i} se hace!
+
+La imagen de arriba muestra las dos
+posibles formas de seguir esta regla
+y pintar toda la pir{'a}mide. F{'i}jate en
+que de cualquiera de las dos maneras
+al final A acaba siendo de color rojo.
+
+Curioso, {^?}verdad?
+!******************************!
+[ed0b01000c000000:02bc020000]
+{^!}Qu{'e} pena!
+
+No le des demasiadas vueltas.
+Solo hay una respuesta correcta.
+!******************************!
+[ee0b01000d000000:020d030000]
+Hay m{'a}s de una forma correcta de
+pintar la pir{'a}mide, pero el color
+del le{-n}o A siempre ser{'a} el mismo
+hagas lo que hagas.
+!******************************!
+[ef0b01000e000000:0291030000]
+No te olvides de la superpr{'a}ctica
+funci{'o}n de las notas. {^!}Tiene tres
+colores diferentes que te ayudar{'a}n
+a resolver el puzle!
+!******************************!
+[f00b01000f000000:0219040000]
+Hay dos formas posibles de seguir
+la regla y pintar toda la pir{'a}mide.
+
+Puedes invertir el orden en que
+empieces a aplicar el color azul
+o amarillo.
+!******************************!
+[f10b010010000000:02b0040000]
+En la pista 3 ya has visto que la
+disposici{'o}n del azul y el amarillo
+son intercambiables, lo que significa
+que la posici{'o}n de uno de los colores
+ser{'a} fija...
+!******************************!

@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n087
+!******************************!
+n087a
+!******************************!
+n087b
+!******************************!
+[eb0b01000a000000:0211000000]
+Has recibido una carta que dice:
+{''}En la habitaci{'o}n de la fotograf{'i}a se
+esconde un secreto. Quita una de las
+baldosas del suelo para descubrir el
+tesoro escondido.{''}
+En el mismo sobre de la carta viene la
+foto que se muestra abajo, con una nota
+escrita al dorso:
+{''}Sigue la flecha que apunta al tesoro...{''}
+
+{^?}Qu{'e} baldosa tendr{'a}s que quitar para
+encontrar el tesoro? Rod{'e}ala con un
+c{'i}rculo.
+!******************************!
+[ec0b01000b000000:02b4010000]
+{^!}Excelente!
+
+La nariz y la boca del mono que aparece
+en el cuadro colgado en la pared forman
+una flecha. El tesoro se encuentra en
+la baldosa que hay justo debajo de esta
+flecha.
+!******************************!
+[ed0b01000c000000:026a020000]
+Qu{'e} mala suerte...
+
+{^!}Busca la flecha!
+!******************************!
+[ee0b01000d000000:0296020000]
+En alg{'u}n lugar hay una flecha dibujada,
+y es f{'a}cil de ver. Mira detenidamente.
+!******************************!
+[ef0b01000e000000:02eb020000]
+Si has mirado detenidamente la foto
+y no has encontrado nada, intenta
+por un momento echarle un vistazo
+casual en su conjunto.
+!******************************!
+[f00b01000f000000:026a030000]
+La flecha est{'a} en la zona izquierda
+de la foto y est{'a} como camuflada,
+disimulada bajo la forma de otra cosa.
+!******************************!
+[f10b010010000000:02dd030000]
+F{'i}jate en los cuadros que hay colgados
+en la pared. Cierta parte de uno de ellos
+forma la flecha.
+!******************************!

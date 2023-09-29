@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n182
+!******************************!
+n182a
+!******************************!
+n182b
+!******************************!
+[eb0b01000a000000:0211000000]
+Est{'a}s montando una vidriera de colores.
+{^?}Con cu{'a}l de los siguientes temas est{'a}
+relacionada?
+
+A: Fruta
+B: Una persona
+C: Un insecto
+D: Dulces
+
+{^!}Completa la vidriera con los cristales
+que quedan y elige la respuesta correcta!
+!******************************!
+[ec0b01000b000000:0200010000]
+{^!}Tienes buen ojo!
+
+B: Una persona
+
+Si montas el resto de la vidriera,
+ver{'a}s un nombre, y no el de cualquier
+persona, sino el de... {^!}LAYTON!
+!******************************!
+[ed0b01000c000000:0295010000]
+{^!}Qu{'e} pena!
+
+Prueba a empezar colocando las piezas
+m{'a}s grandes.
+!******************************!
+[ee0b01000d000000:02dd010000]
+La vidriera terminada mostrar{'a} unas
+letras.
+
+{^?}De qu{'e} letras podr{'a} tratarse?
+!******************************!
+[ef0b01000e000000:0235020000]
+
+!******************************!
+[f00b01000f000000:0236020000]
+
+!******************************!
+[f10b010010000000:0237020000]
+
+!******************************!

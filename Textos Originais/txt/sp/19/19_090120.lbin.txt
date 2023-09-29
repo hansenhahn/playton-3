@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Con la ayuda de su peculiar
+loro, nuestros amigos logran
+entrar por fin en Chinatown.
+!******************************!
+[7117030004000000:001400000002000000000266000000]
+ナレーション
+!******************************!
+<T>Una vez dentro, el grupo empieza
+a investigar la zona y a hablar
+con la gente.
+!******************************!
+[7117030007000000:0014000000020000000002b8000000]
+ナレーション
+!******************************!
+<T>La Pagoda Colosal, que es la base
+de Layton del futuro, est{'a} cada
+vez m{'a}s cerca.
+!******************************!

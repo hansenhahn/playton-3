@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n147
+!******************************!
+n147a
+!******************************!
+n147b
+!******************************!
+[eb0b01000a000000:0211000000]
+Quieres poner en tu jard{'i}n uno de estos
+cinco tipos de azulejos. Sin embargo,
+solo uno de ellos podr{'a} cubrir todo el
+suelo del jard{'i}n evitando las macetas
+con forma de estrella colocadas en
+distintos sitios del suelo.
+
+{^?}Qu{'e} tipo de azulejo tendr{'a}s que usar?
+Ten en cuenta que puedes rotar los
+azulejos, pero no invertirlos.
+!******************************!
+[ec0b01000b000000:0267010000]
+{^!}Bien hecho!
+
+E es el azulejo que necesitas, tal como
+ves arriba. Aprovechar el espacio con
+que cuentas es muy {'u}til a la hora de
+ocuparse de un jard{'i}n.
+!******************************!
+[ed0b01000c000000:0208020000]
+{^!}L{'a}stima!
+
+{^!}Ocuparse de un jard{'i}n es m{'a}s complicado
+de lo que parece!
+!******************************!
+[ee0b01000d000000:025d020000]
+Empieza colocando los azulejos por las
+esquinas. Hay tipos que, por mucho que
+los gires, no podr{'a}s colocar en ciertas
+esquinas.
+!******************************!
+[ef0b01000e000000:02e0020000]
+Si intentas encajar azulejos del tipo
+C, solo podr{'a}s poner tres de ellos
+y siempre te quedar{'a} un hueco libre.
+
+Descarta por tanto el tipo C.
+!******************************!
+[f00b01000f000000:0273030000]
+D tiene una forma muy peculiar que
+hace que no puedas encajar m{'a}s de dos
+en el jard{'i}n. Por tanto, D tambi{'e}n
+quedar{'a} descartado.
+!******************************!
+[f10b010010000000:02ff030000]
+La respuesta quedar{'a} limitada a
+A, B o E. Tal como se mencion{'o} en
+la pista 1, si colocas los azulejos
+empezando por las esquinas, ver{'a}s
+cu{'a}les son los que no encajan.
+
+En el jard{'i}n no habr{'a} sitio para
+m{'a}s de cuatro azulejos.
+!******************************!

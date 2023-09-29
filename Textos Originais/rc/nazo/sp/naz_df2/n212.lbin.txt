@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n212
+!******************************!
+n212a
+!******************************!
+n212b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo est{'a}n representadas las cartas
+que van del as al 10 de corazones. Sin
+embargo, las cartas reales son diferentes
+a las que se muestran aqu{'i}.
+
+En una baraja real, {^?}con qu{'e} tres cartas
+puedes sumar exactamente 12 corazones
+contando los corazones que aparecen
+dibujados en ella?
+!******************************!
+[ec0b01000b000000:0236010000]
+{^!}Buena corazonada!
+
+{^!}La respuesta correcta es el as,
+el 2 y el 3!
+
+Es f{'a}cil olvidarse de contar los
+corazoncitos que aparecen en cada
+una de las dos esquinas numeradas...
+!******************************!
+[ed0b01000c000000:02ea010000]
+{^!}Qu{'e} pena!
+
+Seguro que ya est{'a}s pensando en buscar
+una baraja para ponerte a contar
+corazoncitos, pero... {^?}es que no
+recuerdas el aspecto de las
+cartas de la baraja de p{'o}ker?
+!******************************!
+[ee0b01000d000000:02a8020000]
+Visualiza el aspecto de una carta de
+la baraja de p{'o}ker. En ella aparecen
+tantos corazones como tiene el valor
+de la carta. {^!}Pero eso no es todo!
+Tambi{'e}n hay un coraz{'o}n debajo
+del n{'u}mero de la carta en cada una
+de las dos esquinas numeradas.
+
+{^!}Con eso ya puedes
+calcular la respuesta!
+!******************************!
+[ef0b01000e000000:02d7030000]
+
+!******************************!
+[f00b01000f000000:02d8030000]
+
+!******************************!
+[f10b010010000000:02d9030000]
+
+!******************************!

@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000560400000056040000000100000000000000000000000000]
+n076
+!******************************!
+n076a
+!******************************!
+n076b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}En el transcurso de sus investigaciones,
+mi padre descubri{'o} un n{'u}mero muy peculiar
+y se vali{'o} de una hoja de papel para
+recordarlo. Desgraciadamente, alguien
+pens{'o} que esa hoja no serv{'i}a para nada
+y la rompi{'o} en varios trozos. Ahora mi
+padre est{'a} desesperado y mi madre muy
+preocupada...{''}
+
+Averigua el n{'u}mero reconstruyendo la
+nota.
+!******************************!
+[ec0b01000b000000:027d010000]
+{^!}Eso es!
+
+{''}{^!}El n{'u}mero es el 74! Y no se lo digas
+a nadie... pero fui yo quien rompi{'o} el
+papel.{''}
+!******************************!
+[ed0b01000c000000:02ef010000]
+{^!}L{'a}stima!
+
+{^?}Has puesto bien los trozos uno al lado
+del otro? F{'i}jate otra vez.
+!******************************!
+[ee0b01000d000000:0249020000]
+{^?}Has puesto los trozos como es debido?
+Si los has colocado bien, la respuesta
+deber{'i}a quedar a la vista.
+!******************************!
+[ef0b01000e000000:02b8020000]
+El n{'u}mero no est{'a} escrito en el papel.
+{^?}Te has dado cuenta de que no todos
+los bordes encajan perfectamente unos
+con otros?
+!******************************!
+[f00b01000f000000:023d030000]
+Si pones juntos todos los bordes que
+encajan perfectamente, los huecos que
+queden en el medio revelar{'a}n el n{'u}mero.
+!******************************!
+[f10b010010000000:02b6030000]
+{^?}Has visto que los huecos que quedan
+en el medio forman un n{'u}mero? Ah{'i} est{'a}
+la respuesta. Tiene dos d{'i}gitos.
+!******************************!

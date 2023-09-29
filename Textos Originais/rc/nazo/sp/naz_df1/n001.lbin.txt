@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000100000000fc03000000fc030000000100000000010000000000000000]
+n001
+!******************************!
+n001a
+!******************************!
+n001b
+!******************************!
+[eb0b01000a000000:0211000000]
+Anda por ah{'i} un comensal que no estaba
+invitado. Sin embargo, el guarda tiene
+informaci{'o}n que permite identificarlo.
+
+{''}Su mesa est{'a} junto a otra que tiene
+una flor roja. El mantel es de diferente
+color que el de cualquiera de las
+mesas que se encuentran junto a ella.
+Ah, y en la mesa del intruso no hay
+una flor amarilla.{''}
+
+{''}Junto a{''} significa que dos mesas est{'a}n
+conectadas por una l{'i}nea de puntos.
+Lleva al guarda hasta la mesa del intruso.
+!******************************!
+[ec0b01000b000000:02e8010000]
+{^!}Bien hecho!
+
+Has encontrado al intruso. {^!}Ahora deja
+que el guarda haga su trabajo!
+!******************************!
+[ed0b01000c000000:0242020000]
+{^!}Qu{'e} pena!
+
+Piensa otra vez en la informaci{'o}n que
+te ha dado el guarda. Probablemente
+la respuesta sea m{'a}s simple de lo que
+te imaginas.
+!******************************!
+[ee0b01000d000000:02d7020000]
+La informaci{'o}n del guarda hace
+referencia a los colores de las
+flores y de los manteles.
+
+Usa la funci{'o}n de las notas para marcar
+las pistas en el diagrama de las mesas.
+Eso te ayudar{'a} a ver la situaci{'o}n con
+m{'a}s claridad.
+!******************************!
+[ef0b01000e000000:02c4030000]
+El guarda ha dicho que {''}su mesa est{'a}
+junto a otra que tiene una flor roja{''},
+pero eso no significa que la mesa
+que buscas no tenga una flor roja.
+!******************************!
+[f00b01000f000000:025e040000]
+F{'i}jate en los manteles. {^?}Ves alguna
+mesa cuyo mantel sea de un color
+diferente al de las mesas adyacentes?
+!******************************!
+[f10b010010000000:02cf040000]
+Busca una mesa que tenga una flor roja
+y un mantel rojo. Solo hay una mesa
+con estas caracter{'i}sticas.
+!******************************!

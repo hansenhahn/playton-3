@@ -1,0 +1,96 @@
+[7017010000000000:000e000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Coloca las pegatinas para
+reconstruir los elementos
+que faltan de la historia.
+!******************************!
+[7117030004000000:000a0000000200000000025f000000]
+ナレーション
+!******************************!
+<T>Toca <CR>Colocar</C> para que aparezca
+una barra con todas las pegatinas
+que has reunido hasta el momento.
+!******************************!
+[7117030007000000:000a000000020000000002cd000000]
+ナレーション
+!******************************!
+<T>Arrastra la pegatina adonde
+quieras para pegarla en la p{'a}gina.
+!******************************!
+[711703000a000000:000a00000002000000000212010000]
+ナレーション
+!******************************!
+<T>Para quitar una pegatina, vuelve a
+arrastrarla a la barra de la parte
+inferior de la pantalla t{'a}ctil.
+!******************************!
+[711703000d000000:000c0000000200000000027e010000]
+ナレーション
+!******************************!
+<T>Toca <CR>Quitar</C> para quitar todas
+las pegatinas del libro que est{'e}s
+viendo en ese momento.
+!******************************!
+[7117030010000000:000c000000020000000002e3010000]
+ナレーション
+!******************************!
+<T>Toca las flechas de la parte
+izquierda y derecha de la pantalla
+t{'a}ctil para pasar de p{'a}gina.
+!******************************!
+[7117030013000000:000f00000002000000000249020000]
+ナレーション
+!******************************!
+<T>El texto de la pantalla superior
+cambiar{'a} autom{'a}ticamente seg{'u}n
+las pegatinas que hayas colocado.
+!******************************!
+[7117030016000000:000f000000020000000002b7020000]
+ナレーション
+!******************************!
+<T>Coloca las pegatinas en el orden
+correcto para crear una historia
+que tenga sentido.
+!******************************!
+[7117030019000000:000f0000000200000000020f030000]
+ナレーション
+!******************************!
+<T>Conseguir{'a}s m{'a}s pegatinas a
+medida que avances en la
+historia y resuelvas puzles.
+!******************************!
+[711703001c000000:000f0000000200000000026a030000]
+ナレーション
+!******************************!
+<T>Intenta conseguir el m{'a}ximo de
+pegatinas resolviendo todos
+los puzles que puedas.
+!******************************!
+[711703001f000000:0014000000020000000002c2030000]
+ナレーション
+!******************************!
+<T>Hay tres libros de ilustraciones.
+!******************************!
+[7117030022000000:0014000000020000000002e7030000]
+ナレーション
+!******************************!
+<T>Cada libro de ilustraciones tiene
+sus propias pegatinas que no
+se pueden usar en los otros.
+!******************************!
+[7117030025000000:001400000002000000000246040000]
+ナレーション
+!******************************!
+<T>Completa el primer libro para
+desbloquear el segundo y el segundo
+para desbloquear el tercero.
+!******************************!
+[7117030028000000:0014000000020000000002a8040000]
+ナレーション
+!******************************!
+<T>Cuando hayas completado todos
+los libros de ilustraciones, {^!}te
+llevar{'a}s una sorpresa!
+!******************************!

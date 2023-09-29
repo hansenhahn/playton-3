@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n165
+!******************************!
+n165a
+!******************************!
+n165b
+!******************************!
+[eb0b01000a000000:0211000000]
+Crea una igualdad v{'a}lida colocando un
+n{'u}mero distinto en cada caja, de A a G.
+
+En este puzle los dos d{'i}gitos a la
+izquierda de los dos puntos representan
+los minutos y los dos d{'i}gitos a la derecha
+representan los segundos. Ten en cuenta
+que al llegar a 60 segundos, el marcador
+pasar{'i}a a a{-n}adir un minuto y que no se
+pueden sobrepasar los 60 minutos.
+!******************************!
+[ec0b01000b000000:0282010000]
+{^!}Correcto!
+
+18 minutos y 49 segundos por tres
+es igual a 56 minutos y 27 segundos.
+No fue demasiado dif{'i}cil, {^?}verdad?
+
+9 es el {'u}nico n{'u}mero de una cifra que
+produce un 7 al ser multiplicado por
+3, as{'i} que es la {'u}nica elecci{'o}n
+posible para el d{'i}gito D. Adem{'a}s, si
+el n{'u}mero del d{'i}gito A fuera mayor
+que 1, la respuesta superar{'i}a los 60
+minutos, lo que no vale en este puzle.
+El resto se puede calcular paso a paso.
+!******************************!
+[ed0b01000c000000:0247030000]
+{^!}L{'a}stima!
+
+Hacer c{'a}lculos con horas no es tan f{'a}cil
+como parece.
+!******************************!
+[ee0b01000d000000:0294030000]
+Para empezar, {^?}qu{'e} sabes a ciencia
+cierta? Sabes que el tiempo de la
+respuesta acaba en 7 y que el tiempo
+de arriba est{'a} multiplicado por 3, {^!}as{'i}
+que el n{'u}mero que vaya en el d{'i}gito D
+tiene que acabar en 7 tras ser
+multiplicado por 3! Solo puede ser un
+n{'u}mero concreto, y es un n{'u}mero impar.
+!******************************!
+[ef0b01000e000000:02d3040000]
+Multiplicando 9 por 3 puedes conseguir
+un n{'u}mero que acaba en 7. Entonces
+el 9 va en el d{'i}gito D.
+
+2 por 3 es 6. {^?}Qu{'e} te indica eso sobre
+el n{'u}mero que ir{'a} en el d{'i}gito A?
+!******************************!
+[f00b01000f000000:0294050000]
+Si el n{'u}mero del d{'i}gito A es superior a
+1, exceder{'a} los 60 minutos (o una hora)
+al ser multiplicado por 3. Se ha dicho
+bien claro que {''}no se pueden sobrepasar
+los 60 minutos{''} as{'i} que el 1 ir{'a} en el
+d{'i}gito A.
+
+Pi{'e}nsalo bien y ver{'a}s claro el resto.
+Una pista m{'a}s: el 5 va en el d{'i}gito E.
+!******************************!
+[f10b010010000000:02d6060000]
+Ah{'i} va la {'u}ltima pista:
+
+El 1, 4, 8 y 9 pertenecen a la hora
+de arriba.
+
+Con eso podr{'a}s calcular el resto.
+!******************************!

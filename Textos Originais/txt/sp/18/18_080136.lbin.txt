@@ -1,0 +1,105 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T><A2/6>Grrr...<W> No, esa no... {^?}Cu{'a}l ser{'a}?
+!******************************!
+[7117030004000000:000a0000000242000000024b000000]
+レイトン
+!******************************!
+<T><A1/1>Parece estar muy concentrado,
+inspector. {^?}Tiene informaci{'o}n
+nueva sobre el caso?
+!******************************!
+[7117030007000000:000a000000020000000002ab000000]
+チェルミー
+!******************************!
+<T><A1/1>Ah, Layton. Me viene de perlas.
+!******************************!
+[711703000a000000:000a000000020000000002d4000000]
+チェルミー
+!******************************!
+<T>He dado con una pista que me tiene
+desquiciado. Mire, {'e}chele un
+vistazo.
+!******************************!
+[711703000d000000:00e803000002000000000223010000]
+チェルミー
+!******************************!
+<T><A1/5>Estoy casi a punto de resolver el
+caso. Tan cerca y a la vez tan
+lejos...
+!******************************!
+[7117030010000000:00d007000002000000000276010000]
+チェルミー
+!******************************!
+<T><A1/1>No podemos pararnos a charlar,
+Layton. Tenemos que descifrar
+esta pista.
+!******************************!
+[7117030013000000:00b80b0000020000000002c8010000]
+チェルミー
+!******************************!
+<T><A2/5>{^!}Ya est{'a}! Ahora solo necesito
+dar con el criminal.
+!******************************!
+[7117030016000000:00b80b0000020a0200000211020000]
+ルーク
+!******************************!
+<T><A3/1>Inspector, {^?}no estaba buscando al
+primer ministro?
+!******************************!
+[7117030019000000:00b80b000002000000000250020000]
+チェルミー
+!******************************!
+<T><A3/1>Chico, un agente de la ley no
+puede ignorar un caso por
+estar ocupado con otro.
+!******************************!
+[711703001c000000:00b80b0000020000000002a9020000]
+チェルミー
+!******************************!
+<T>Es nuestro deber ayudar a
+todos los ciudadanos.
+!******************************!
+[711703001f000000:00b80b0000020000000002dc020000]
+チェルミー
+!******************************!
+<T>Ese es mi m{'e}todo de trabajo,
+incluso en un lugar tan corrupto
+y degenerado como este.
+!******************************!
+[7117030022000000:00b80b000002000000000238030000]
+チェルミー
+!******************************!
+<T>{^!}Yo me ocupar{'e} de que el esp{'i}ritu de
+Scotland Yard se imponga en este
+p{'u}trido lugar!
+!******************************!
+[7117030025000000:00b80b00000242000000029c030000]
+レイトン
+!******************************!
+<T><A1/2>Estoy seguro de que los ciudadanos
+de este Londres agradecen
+sus esfuerzos, inspector.
+!******************************!
+[7117030028000000:00b80b0000020a02000002fc030000]
+ルーク
+!******************************!
+<T><A4/2>{^!}Eso! Y a lo mejor tambi{'e}n
+encuentra alguna pista relacionada
+con el primer ministro por ah{'i}.
+!******************************!
+[711703002b000000:00a00f00000200000000026c040000]
+チェルミー
+!******************************!
+<T><A1/1>Este caso me ha mantenido alejado
+de mi familia demasiado tiempo.
+!******************************!
+[711703002e000000:00a00f0000020000000002b7040000]
+チェルミー
+!******************************!
+<T><A1/5>Espero poder cerrar el caso
+pronto y volver a casa antes de
+que Amelie empiece a preocuparse.
+!******************************!

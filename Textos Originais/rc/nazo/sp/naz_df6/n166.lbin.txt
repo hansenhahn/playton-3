@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n166
+!******************************!
+n166a
+!******************************!
+n166b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Quiz{'a} la hay{'a}is franqueado ya dos veces,
+{^!}pero esta vez ser{'a} totalmente imposible
+que resolv{'a}is el misterio de la puerta
+inaccesible!{''}
+!******************************!
+[ec0b01000b000000:02ae000000]
+{^!}Incre{'i}ble!
+
+{''}{^!}Desde ahora podr{'e}is cruzar
+esta puerta cuando quer{'a}is!{''}
+!******************************!
+[ed0b01000c000000:020a010000]
+{^!}Qu{'e} l{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0239010000]
+La soluci{'o}n tiene demasiados movimientos
+para enumerarlos todos en las pistas.
+Empieza moviendo los bloques y piensa
+en las posibles opciones. Como en los
+dos puzles similares anteriores, la
+clave est{'a} en la barra alargada de
+tres cuadrados.
+!******************************!
+[ef0b01000e000000:0231020000]
+{^?}Ves la peque{-n}a barra rosa?
+Tienes que encontrar la forma de
+llevar esa pieza hasta abajo del todo,
+al nivel de Layton y Luke.
+
+Por ahora no es necesario que muevas ni
+el bloque azul turquesa ni el naranja.
+!******************************!
+[f00b01000f000000:0206030000]
+En cuanto hayas bajado la pieza rosa
+hasta el fondo, tendr{'a}s m{'a}s espacio
+en la parte de arriba. As{'i} podr{'a}s
+bajar el bloque naranja al centro
+y subir el bloque azul turquesa al
+cuadrado superior. Ahora mueve el
+bloque naranja a su punto de partida.
+!******************************!
+[f10b010010000000:020a040000]
+Ahora que ya has colocado el bloque
+azul turquesa en el cuadrado superior,
+y el bloque naranja tambi{'e}n cerca de
+la parte de arriba, organiza los
+bloques del fondo de una forma que te
+permita bajar el bloque naranja abajo e
+intercambiar su posici{'o}n con el bloque
+de Layton y Luke, permiti{'e}ndoles
+subir a la parte de arriba.
+
+El puzle est{'a} dise{-n}ado para que sea
+complicado, {^!}pero no te rindas!
+!******************************!

@@ -1,0 +1,145 @@
+[7017010000000000:0014000000]
+[7117030001000000:000100000002000000000220000000]
+El discurso del primer ministro
+!******************************!
+El primer ministro, Bill Hawks,
+pronuncia un discurso en la
+presentaci{'o}n de la m{'a}quina del
+tiempo. No sabe lo que le espera...
+!******************************!
+[7117030004000000:000200000002a500000002bc000000]
+El interior del casino
+!******************************!
+Layton y Luke llegan al casino.
+Luke est{'a} muy sorprendido por el
+lujo y la elegancia del lugar.
+!******************************!
+[7117030007000000:0003000000021f0100000229010000]
+Don Paolo
+!******************************!
+Don Paolo, el genio malvado.
+Sin embargo, en esta historia
+ha sido uno de los aliados m{'a}s
+importantes para Layton.
+!******************************!
+[711703000a000000:0004000000029f01000002b6010000]
+Las amenazas de Bostro
+!******************************!
+Bostro, el jefe de los esbirros
+del Layton del futuro, aparta
+a Luke grande con violencia.
+Deber{'i}a haber estado preparado.
+!******************************!
+[711703000d000000:000500000002340200000248020000]
+Bostro gru{-n}{'o}n
+!******************************!
+Aqu{'i} est{'a} Bostro, el esbirro m{'a}s
+leal de Dimitri, con su t{'i}pico
+gesto gru{-n}{'o}n.
+!******************************!
+[7117030010000000:000600000002a802000002ba020000]
+El Layton malvado
+!******************************!
+Una representaci{'o}n art{'i}stica del
+malvado Layton. Este personaje
+no existe, afortunadamente.
+!******************************!
+[7117030013000000:0007000000021c0300000230030000]
+La captura del loro
+!******************************!
+Luke peque{-n}o y Luke grande unen
+sus fuerzas para atrapar al loro.
+{^!}Parecen amigos de toda la vida!
+!******************************!
+[7117030016000000:0008000000029903000002ab030000]
+Gralton y Grelmey
+!******************************!
+Grelmey y Gralton... {^!}Pero si
+hasta sus expresiones ausentes
+son id{'e}nticas!
+!******************************!
+[7117030019000000:000900000002fd0300000208040000]
+La estatua
+!******************************!
+La estatua de un hombre y un ni{-n}o
+en una plazoleta de Londres del
+futuro. Luke se puso melanc{'o}lico
+cuando la vio.
+!******************************!
+[711703001c000000:000a00000002800400000294040000]
+Luke est{'a} triste
+!******************************!
+Luke, cuando estaba triste.
+El profesor Layton supo c{'o}mo
+animarle y la amistad de ambos
+durar{'a} para siempre.
+!******************************!
+[711703001f000000:000b00000002070500000210050000]
+Atrapado
+!******************************!
+Un dulce conejito, rodeado
+de humanos aterradores.
+!******************************!
+[7117030022000000:000c0000000243050000025e050000]
+Los terribles experimentos
+!******************************!
+El conejito fue sometido a
+horribles experimentos que lo
+convirtieron en el individuo
+resentido que es hoy.
+!******************************!
+[7117030025000000:000d00000002ca05000002e3050000]
+Layton se pone las gafas
+!******************************!
+El profesor Layton con el
+dispositivo de Dimitri que
+escanea la memoria. Es un
+accesorio muy favorecedor...
+!******************************!
+[7117030028000000:000e000000024f0600000260060000]
+La revelaci{'o}n
+!******************************!
+{''}{^!}Es usted un impostor!{''}
+Layton descubre al farsante
+que se estaba haciendo pasar
+por el profesor del futuro.
+!******************************!
+[711703002b000000:000f00000002d706000002e5060000]
+{^!}Salvados!
+!******************************!
+El profesor Layton real rescata
+a sus amigos. En esta historia
+hay unos cuantos Laytons...
+!******************************!
+[711703002e000000:00100000000240070000025c070000]
+Los compa{-n}eros noqueados
+!******************************!
+Grelmey y Gralton, derribados
+por una caja.
+!******************************!
+[7117030031000000:00110000000288070000029a070000]
+{^!}Arrinconados!
+!******************************!
+Bostro y sus esbirros acorralan
+a nuestros h{'e}roes en el siniestro
+laboratorio.
+!******************************!
+[7117030034000000:001200000002ec0700000200080000]
+El rescate de Flora
+!******************************!
+{''}{^!}Qu{'e} contenta estoy de veros!{''}
+Luke y Layton rescatan a Flora.
+!******************************!
+[7117030037000000:0013000000024c0800000267080000]
+{^!}Arrinconados de nuevo!
+!******************************!
+Layton, Luke y Flora desesperados
+en la sala de vigilancia de la
+fortaleza.
+!******************************!
+[711703003a000000:001400000002b308000002c9080000]
+Escape subterr{'a}neo
+!******************************!
+La gente del Londres subterr{'a}neo
+es evacuada a la superficie.
+!******************************!

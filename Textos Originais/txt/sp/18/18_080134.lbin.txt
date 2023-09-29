@@ -1,0 +1,56 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000209000000]
+タイラー
+!******************************!
+<T>Vaya, si son mis currantes
+favoritos. Gracias por ayudarme
+con los trozos de madera.
+!******************************!
+[7117030004000000:000a0000000261000000026a000000]
+レイトン
+!******************************!
+<T><A1/2>Solo ha sido cuesti{'o}n de pensar
+un poco y hacer un corte en el
+lugar adecuado.
+!******************************!
+[7117030007000000:000a000000020000000002c5000000]
+タイラー
+!******************************!
+<T><A3/1>Pues si no es mucha molestia,
+{^?}podr{'i}an hacer otro corte en
+estos otros trozos de madera?
+!******************************!
+[711703000a000000:00e80300000200000000022d010000]
+タイラー
+!******************************!
+<T>Es dif{'i}cil, {^?}verdad?<W> Estos trozos
+son a{'u}n m{'a}s tozudos que los
+anteriores.
+!******************************!
+[711703000d000000:00d007000002000000000289010000]
+タイラー
+!******************************!
+<T>{^?}Quieren ayudarme con los trozos
+de madera?<W> {^!}Perfecto! {^!}Voy a por el
+serrucho!
+!******************************!
+[7117030010000000:00b80b0000020000000002e7010000]
+タイラー
+!******************************!
+<T><A2/1>{^!}Vaya! Caballero, lo ha vuelto
+a conseguir.
+!******************************!
+[7117030013000000:00b80b00000200000000021f020000]
+タイラー
+!******************************!
+<T>Gracias a usted, Midland Road est{'a}
+un poco m{'a}s cerca del esplendor
+que se merece.
+!******************************!
+[7117030016000000:00a00f00000200000000027a020000]
+タイラー
+!******************************!
+<T>Aqu{'i} siempre nos falta mano de
+obra, as{'i} que si tiene tiempo,
+no dude en venir a ayudarme.
+!******************************!

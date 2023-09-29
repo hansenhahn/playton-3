@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000300000000f203000000f2030000000100000000000000000000000000]
+n006
+!******************************!
+n006a
+!******************************!
+n006b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Est{'a} tan oscuro en la tienda que no veo
+bien esos hilos tan finos ni las diminutas
+agujas. {^?}Me ayudan con este enredo?{''}
+
+Hay dos hilos, A y B. {^?}Por los ojos de
+cu{'a}ntas agujas pasa el hilo A?
+!******************************!
+[ec0b01000b000000:02e3000000]
+{^!}Efectivamente!
+
+El hilo A pasa por los ojos de 10 agujas.
+
+{^!}No veas lo que cuesta contarlas!
+!******************************!
+[ed0b01000c000000:0247010000]
+{^!}Qu{'e} pena!
+
+Observa mejor el puzle.
+!******************************!
+[ee0b01000d000000:0271010000]
+El secreto para resolver este problema
+es ser paciente y contar con cuidado.
+
+Aqu{'i} te ayudar{'a} m{'a}s un consejo que
+una pista: prueba a usar la funci{'o}n
+de las notas para marcar los ojos de
+las agujas por las que pasa el hilo A.
+As{'i} te resultar{'a} m{'a}s sencillo.
+!******************************!
+[ef0b01000e000000:0286020000]
+Usa la funci{'o}n de las notas para seguir
+el recorrido del hilo A. Despu{'e}s marca
+con otro color los ojos de las agujas
+por los que pasa el hilo. Tambi{'e}n puedes
+se{-n}alar el hilo con un trazo m{'a}s grueso
+para verlo mejor.
+!******************************!
+[f00b01000f000000:026d030000]
+{^?}Todav{'i}a se te resiste?
+
+Bueno, digamos que la soluci{'o}n
+es un n{'u}mero de dos d{'i}gitos.
+!******************************!
+[f10b010010000000:02d1030000]
+La respuesta la obtendr{'a}s sumando
+los n{'u}meros 1, 2, 3 y 4.
+!******************************!

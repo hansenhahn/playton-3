@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n065
+!******************************!
+n065a
+!******************************!
+n065b
+!******************************!
+[eb0b01000a000000:0211000000]
+Estos ojos de drag{'o}n no son esferas,
+sino dodecaedros, es decir, cuerpos
+que constan de 12 pent{'a}gonos. Uno de
+los ojos est{'a} terminado, pero todav{'i}a
+hay que montar el otro.
+
+{^?}Qu{'e} opci{'o}n, A, B o C, formar{'a} un ojo
+igual al otro cuando se junten sus caras?
+!******************************!
+[ec0b01000b000000:0226010000]
+{^!}Has tenido muy buen ojo!
+
+La respuesta es A.
+
+{^!}Los ojos del drag{'o}n brillan y la puerta
+se abre!
+!******************************!
+[ed0b01000c000000:0290010000]
+{^!}Qu{'e} l{'a}stima!
+
+{^?}Qu{'e} caras quedar{'a}n adyacentes tras
+montar el ojo?
+!******************************!
+[ee0b01000d000000:02e4010000]
+Hay tres opciones.
+Mira a ver en qu{'e} se diferencian
+y eso te llevar{'a} a la respuesta.
+!******************************!
+[ef0b01000e000000:023f020000]
+Podr{'i}as hacer tu propio dodecaedro
+con un papel y tijeras... Aunque
+ser{'i}a bastante trabajoso.
+
+Ser{'a} m{'a}s f{'a}cil descubrir d{'o}nde
+coinciden los trazos del dibujo
+al armar la figura.
+!******************************!
+[f00b01000f000000:0203030000]
+Uno de los pent{'a}gonos de cada opci{'o}n
+es la pupila del ojo. Conc{'e}ntrate en
+las zonas que quedar{'a}n a su alrededor
+y usa la funci{'o}n de las notas para
+dibujar l{'i}neas entre dichas {'a}reas.
+!******************************!
+[f10b010010000000:02ce030000]
+En la figura C, si empiezas por
+el pent{'a}gono que contiene la pupila
+del ojo y lo unes con los pent{'a}gonos
+adyacentes, obtendr{'a}s un dodecaedro
+diferente del ojo que ya est{'a} terminado.
+
+Lo notar{'a}s enseguida porque a esos
+pent{'a}gonos adyacentes a la pupila
+les falta algo.
+
+La respuesta tendr{'a} que ser A o B.
+!******************************!

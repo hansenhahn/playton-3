@@ -1,0 +1,82 @@
+[7017010000000000:000c000000]
+[7117030001000000:000a00000002000000000209000000]
+ハロルド
+!******************************!
+<T><A1/3>Hola, se{-n}or. Es usted muy valiente
+viniendo aqu{'i} despu{'e}s de causar
+semejante desaguisado.
+!******************************!
+[7117030004000000:000a0000000275000000027c000000]
+ルーク
+!******************************!
+<T><A1/3>{^!}No la tome con el profesor! {^!}Fue
+el personal del casino el que
+decidi{'o} atacarnos!
+!******************************!
+[7117030007000000:000a000000020000000002e1000000]
+ハロルド
+!******************************!
+<T><A2/1>A lo mejor, pero a m{'i} me han
+degradado por dejaros entrar.
+!******************************!
+[711703000a000000:000a00000002000000000228010000]
+ハロルド
+!******************************!
+<T><A1/3>Lo cierto es que estoy un poco
+molesto por toda esta historia.
+!******************************!
+[711703000d000000:000a00000002000000000270010000]
+ハロルド
+!******************************!
+<T>Pero como soy razonable, os
+perdonar{'e} si me resolv{'e}is
+este puzle.
+!******************************!
+[7117030010000000:00e8030000020000000002bb010000]
+ハロルド
+!******************************!
+<T><A2/2>Qu{'e} pena. Con ese sombrero que
+lleva, estaba seguro de que no le
+costar{'i}a mucho resolverlo.
+!******************************!
+[7117030013000000:00d007000002000000000226020000]
+ハロルド
+!******************************!
+<T><A2/2>{^?}Quer{'e}is disculparos por hacer que
+perdiera mi puesto? Si de verdad lo
+sent{'i}s, resolved este puzle.
+!******************************!
+[7117030016000000:00b80b00000200000000029c020000]
+ハロルド
+!******************************!
+<T><A1/1>Este casino era un lugar de reuni{'o}n
+para damas y caballeros de buen
+gusto... C{'o}mo ha cambiado.
+!******************************!
+[7117030019000000:00b80b0000020a0300000213030000]
+レイトン
+!******************************!
+<T><A1/1>S{'i}, veo que ya no est{'a} de portero.
+{^?}Significa esto que ya no piden
+tarjeta de socio?
+!******************************!
+[711703001c000000:00b80b00000200000000027a030000]
+ハロルド
+!******************************!
+<T><A2/2>Exacto. Por razones econ{'o}micas,
+hemos dejado de ser tan selectos
+con los clientes que aceptamos.
+!******************************!
+[711703001f000000:00b80b0000020000000002e7030000]
+ハロルド
+!******************************!
+<T>Nos conformamos con el dinero
+de cualquiera.
+!******************************!
+[7117030022000000:00a00f000002000000000217040000]
+ハロルド
+!******************************!
+<T><A1/3>Bienvenidos al casino Siete de Oro,
+donde cada apuesta es un premio
+asegurado.
+!******************************!

@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n047
+!******************************!
+n047a
+!******************************!
+n047b
+!******************************!
+[eb0b01000a000000:0211000000]
+Uno de estos estudiantes ha roto la
+ventana, y t{'u} los interrogas para
+saber qui{'e}n lo hizo:
+
+A: {''}Yo no he sido.{''}
+B: {''}A dice la verdad.{''}
+C: {''}D miente.{''}
+D: {''}Yo seguro que no he sido.{''}
+
+Alguien est{'a} diciendo algo incoherente,
+y ese es el culpable. {^?}Puedes se{-n}alar
+qui{'e}n es?
+!******************************!
+[ec0b01000b000000:0249010000]
+{^!}Eso es!
+
+C rompi{'o} la ventana, pues dijo que D
+ment{'i}a aunque D todav{'i}a no hab{'i}a hablado.
+
+{^!}No puede haber nada m{'a}s sospechoso!
+!******************************!
+[ed0b01000c000000:02dd010000]
+L{'a}stima...
+
+Interr{'o}galos otra vez, ordenadamente.
+!******************************!
+[ee0b01000d000000:0215020000]
+Presta atenci{'o}n a sus declaraciones,
+en el orden preciso...
+!******************************!
+[ef0b01000e000000:0254020000]
+F{'i}jate otra vez en las afirmaciones
+de cada uno y en el orden en que
+las dicen. Notar{'a}s que uno de ellos
+dice algo que no es cre{'i}ble.
+!******************************!
+[f00b01000f000000:02e3020000]
+El culpable es alguien que se ha
+precipitado al hablar. Si escuchases
+sus declaraciones en el orden inverso,
+el culpable probablemente no quedar{'i}a
+en evidencia.
+!******************************!
+[f10b010010000000:0287030000]
+El culpable se delat{'o} cuando intent{'o}
+cargarle la culpa a D.
+!******************************!

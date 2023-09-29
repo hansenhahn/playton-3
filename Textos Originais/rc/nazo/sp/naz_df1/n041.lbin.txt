@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n041
+!******************************!
+n041a
+!******************************!
+n041b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tenemos tres cuadr{'i}culas de pl{'a}stico
+semitransparentes (A, B y C), cada
+una con una distribuci{'o}n de casillas
+diferente. Si las colocas una encima
+de otra en el orden correcto, se formar{'a}
+una cuadr{'i}cula como la que se ve abajo
+a la derecha. No puedes girarlas ni
+invertirlas. Lo que importa es el orden
+en que las pongas una encima de otra.
+
+{^?}Qu{'e} cuadr{'i}cula ir{'a} debajo del todo?
+!******************************!
+[ec0b01000b000000:02a6010000]
+{^!}Bien hecho!
+
+B tiene que ir debajo del todo.
+Despu{'e}s, las otras dos cuadr{'i}culas
+van en el orden que se indica en la
+imagen de arriba.
+!******************************!
+[ed0b01000c000000:0236020000]
+{^!}Qu{'e} pena!
+
+Piensa detenidamente en qu{'e} orden hay
+que colocar las cuadr{'i}culas unas
+encima de otras.
+!******************************!
+[ee0b01000d000000:02a6020000]
+No estar{'a}s intentando ordenar todas
+las casillas a la vez en tu cabeza, {^?}no?
+As{'i} solo conseguir{'a}s confundirte.
+
+Empieza por concentrarte en una sola
+parte del tablero.
+!******************************!
+[ef0b01000e000000:025a030000]
+Las cuadr{'i}culas tienen que producir
+un patr{'o}n como el de un tablero de
+ajedrez. Sin embargo, en algunas zonas
+no podr{'a}s ver el patr{'o}n hasta que
+hayas colocado las tres cuadr{'i}culas.
+Ten esto en cuenta e intenta deducir
+qu{'e} cuadr{'i}cula ir{'a} encima del todo.
+!******************************!
+[f00b01000f000000:0270040000]
+Una cuadr{'i}cula que tenga casillas
+adyacentes del mismo color no puede
+ir arriba del todo.
+!******************************!
+[f10b010010000000:02cd040000]
+Las cuadr{'i}culas A y B tienen casillas
+adyacentes del mismo color. Si pones
+cualquiera de estas dos cuadr{'i}culas
+arriba del todo, no resolver{'a}s el puzle.
+O dicho de otro modo, la cuadr{'i}cula C
+va arriba del todo.
+
+Ahora que sabes esto, piensa qu{'e}
+colores ir{'i}an en las casillas vac{'i}as
+de la cuadr{'i}cula C.
+!******************************!

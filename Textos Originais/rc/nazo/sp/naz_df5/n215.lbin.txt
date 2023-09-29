@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n215
+!******************************!
+n215a
+!******************************!
+n215b
+!******************************!
+[eb0b01000a000000:0211000000]
+Has recibido una nota de una persona:
+
+{''}Tras acceder a las instalaciones, entr{'e}
+por la primera puerta a mi derecha y me
+encontr{'e} en una habitaci{'o}n. Luego entr{'e}
+por la puerta a mi izquierda, pas{'e} por
+otra habitaci{'o}n y entr{'e} en la siguiente
+tras atravesar un pasillo. Luego atraves{'e}
+la puerta a mi derecha y acab{'e} en la
+habitaci{'o}n en la que estoy ahora.{''}
+
+Para encontrar a la persona siguiendo
+esas indicaciones, {^?}por qu{'e} puerta
+debes entrar en las instalaciones?
+!******************************!
+[ec0b01000b000000:0209020000]
+{^!}Muy bien!
+
+La entrada E es la {'u}nica que permite
+seguir el recorrido de la persona.
+
+Esta persona est{'a} en la habitaci{'o}n
+que se indica arriba.
+!******************************!
+[ed0b01000c000000:02a3020000]
+{^!}Qu{'e} l{'a}stima!
+
+F{'i}jate bien en la ruta que describe la
+persona en su nota.
+!******************************!
+[ee0b01000d000000:02f9020000]
+Intenta seguir las indicaciones de la
+persona paso a paso viendo tu
+posici{'o}n en el mapa.
+
+Todas las entradas tienen una puerta
+inmediatamente a la derecha, pero
+puedes descartar todas las que no dan
+a una habitaci{'o}n con una puerta a la
+izquierda. Eso limitar{'a} las opciones.
+
+Ten en cuenta la direcci{'o}n a la que
+apunta cada entrada.
+!******************************!
+[ef0b01000e000000:0251040000]
+
+!******************************!
+[f00b01000f000000:0252040000]
+
+!******************************!
+[f10b010010000000:0253040000]
+
+!******************************!

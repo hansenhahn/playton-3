@@ -1,0 +1,89 @@
+[7017010000000000:000d000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T>Hola, amigos. {^?}Encontraron ya
+al tipo que iban buscando?
+!******************************!
+[7117030004000000:000a00000002480000000251000000]
+レイトン
+!******************************!
+<T>Desafortunadamente no. Pero
+estoy convencido de que daremos
+con {'e}l en la Pagoda Colosal.
+!******************************!
+[7117030007000000:000a000000020000000002b0000000]
+セガール
+!******************************!
+<T><A1/2>Huy, as{'i} que se van a meter en
+la boca del lobo, {^?}eh? Pues
+anden con cuidado en Chinatown.
+!******************************!
+[711703000a000000:000a0000000200000000021a010000]
+セガール
+!******************************!
+<T>Si las cosas se ponen feas,
+vengan a verme. Yo intentar{'e}
+ayudarles.
+!******************************!
+[711703000d000000:000a0000000264010000026b010000]
+ルーク
+!******************************!
+<T>Tal y como lo dice, parece
+bastante probable que las
+cosas se vayan a poner feas.
+!******************************!
+[7117030010000000:000a000000020000000002c0010000]
+セガール
+!******************************!
+<T><A2/1>Que no, amiguito... Pero hay que
+esperar lo mejor, y prepararse
+para lo no mejor.
+!******************************!
+[7117030013000000:000a0000000264010000021b020000]
+ルーク
+!******************************!
+<T>{^?}Lo no mejor? {^?}No querr{'i}a decir
+lo peor?
+!******************************!
+[7117030016000000:000a00000002000000000250020000]
+セガール
+!******************************!
+<T>Ah, {^?}s{'i}? No s{'e}.<W> Bueno, hablando
+de prepararse, {^?}han o{'i}do este
+puzle alguna vez?
+!******************************!
+[7117030019000000:00e8030000020000000002b5020000]
+セガール
+!******************************!
+<T>{^?}Se van sin terminar su trabajo?
+No me hab{'i}a preparado para esa
+posibilidad.
+!******************************!
+[711703001c000000:00d00700000200000000020b030000]
+セガール
+!******************************!
+<T>{^?}Han vuelto para probar el
+puzle otra vez?<W> Me alegro.
+Aqu{'i} lo tienen.
+!******************************!
+[711703001f000000:00b80b00000200000000025d030000]
+セガール
+!******************************!
+<T>Y ahora que han finiquitado este
+asunto, supongo que se ir{'a}n
+a la Pagoda Colosal, {^?}no?
+!******************************!
+[7117030022000000:00b80b0000020000000002bd030000]
+セガール
+!******************************!
+<T>Pues vayan con mucho cuidado
+por all{'i}.
+!******************************!
+[7117030025000000:00a00f0000020000000002ea030000]
+セガール
+!******************************!
+<T>Esa pagoda es un lugar
+traicionero. M{'a}s les vale
+andarse con cuidado.
+!******************************!

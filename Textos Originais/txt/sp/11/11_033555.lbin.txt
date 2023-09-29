@@ -1,0 +1,229 @@
+[7017010000000000:0023000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Profesor, he estado pensando.
+!******************************!
+[7117030004000000:000a00000002280000000231000000]
+レイトン
+!******************************!
+<T>{^?}En qu{'e}, Luke?
+!******************************!
+[7117030007000000:000a00000002000000000249000000]
+ルーク
+!******************************!
+<T><A4/1>Usted, Dimitri y Don Paolo est{'a}n
+relacionados personalmente con
+Claire.
+!******************************!
+[711703000a000000:000a0000000200000000029d000000]
+ルーク
+!******************************!
+<T>Y todos parecen cuestionar las
+circunstancias de su muerte,
+igual que Celeste.
+!******************************!
+[711703000d000000:000a000000020000000002ef000000]
+ルーク
+!******************************!
+<T>Tengo la impresi{'o}n de que muchos de
+los misterios recientes est{'a}n
+relacionados con la explosi{'o}n.
+!******************************!
+[7117030010000000:000a0000000228000000025c010000]
+レイトン
+!******************************!
+<T><A4/5>Luke...
+!******************************!
+[7117030013000000:00140000000228000000026d010000]
+レイトン
+!******************************!
+<T><A4/1>La explosi{'o}n en la que pereci{'o}
+Claire no solo afect{'o} al
+laboratorio donde trabajaba.
+!******************************!
+[7117030016000000:001e000000022800000002d4010000]
+レイトン
+!******************************!
+<T>Cuando me enter{'e} del accidente,
+fui corriendo al lugar, pero todo
+estaba en llamas.
+!******************************!
+[7117030019000000:001e0000000228000000022e020000]
+レイトン
+!******************************!
+<T>Hab{'i}a un edificio residencial junto
+al laboratorio que tambi{'e}n result{'o}
+destruido por la explosi{'o}n.
+!******************************!
+[711703001c000000:001e000000022800000002a0020000]
+レイトン
+!******************************!
+<T>Toda la zona qued{'o} devastada.
+!******************************!
+[711703001f000000:001e000000022800000002c4020000]
+レイトン
+!******************************!
+<T><A5/1>En cuanto vi todo aquello, me
+di cuenta de que hab{'i}a perdido
+a Claire para siempre.
+!******************************!
+[7117030022000000:001e00000002280000000224030000]
+レイトン
+!******************************!
+<T><A3/1>Pero yo no fui el {'u}nico que
+sufri{'o} una gran p{'e}rdida. Muchos
+resultaron heridos o fallecieron.
+!******************************!
+[7117030025000000:001e00000002280000000294030000]
+レイトン
+!******************************!
+<T>Todav{'i}a recuerdo a un ni{-n}o que
+lloraba por haber perdido a
+sus padres.
+!******************************!
+[7117030028000000:0028000000022800000002e4030000]
+レイトン
+!******************************!
+<T>Durante un tiempo estuve sumido
+en un profundo dolor.
+!******************************!
+[711703002b000000:00280000000228000000021d040000]
+レイトン
+!******************************!
+<T>Pero cuando consegu{'i}
+recuperarme, me di cuenta de
+un dato realmente curioso.
+!******************************!
+[711703002e000000:002800000002280000000270040000]
+レイトン
+!******************************!
+<T><A1/1>A pesar de la magnitud del suceso,
+los medios de comunicaci{'o}n no
+dieron importancia al caso.
+!******************************!
+[7117030031000000:0028000000022800000002d9040000]
+レイトン
+!******************************!
+<T>Tras el informe inicial, no hubo
+ning{'u}n seguimiento medi{'a}tico.
+!******************************!
+[7117030034000000:003200000002280000000221050000]
+レイトン
+!******************************!
+<T>Sab{'i}a que la {'u}nica manera de
+conseguir respuestas ser{'i}a
+busc{'a}ndolas por mi cuenta.
+!******************************!
+[7117030037000000:003200000002280000000283050000]
+レイトン
+!******************************!
+<T>Me puse de inmediato a investigar
+el laboratorio de Claire y
+a sus compa{-n}eros.
+!******************************!
+[711703003a000000:0032000000022800000002d8050000]
+レイトン
+!******************************!
+<T>Al parecer, ciertas presiones
+pol{'i}ticas hab{'i}an acallado los
+informes medi{'a}ticos.
+!******************************!
+[711703003d000000:003c00000002280000000235060000]
+レイトン
+!******************************!
+<T><A>Fue en ese momento cuando fui
+atacado por asaltantes
+clandestinos.
+!******************************!
+[7117030040000000:003c0000000228000000027e060000]
+レイトン
+!******************************!
+<T>Como consecuencia de aquello,
+estuve en el hospital durante un
+mes. Tuve suerte de salir vivo.
+!******************************!
+[7117030043000000:0046000000022800000002e0060000]
+レイトン
+!******************************!
+<T><A4/1>Cuando volv{'i} a mi despacho,
+todo estaba patas arriba.
+!******************************!
+[7117030046000000:004600000002280000000222070000]
+レイトン
+!******************************!
+<T>Alguien hab{'i}a robado la mayor
+parte de la informaci{'o}n que
+hab{'i}a recopilado sobre el caso.
+!******************************!
+[7117030049000000:004600000002280000000288070000]
+レイトン
+!******************************!
+<T>Aquella explosi{'o}n no fue un simple
+accidente.
+!******************************!
+[711703004c000000:0046000000022800000002bc070000]
+レイトン
+!******************************!
+<T>Est{'a} claro que una de las partes
+implicadas ten{'i}a una tremenda
+influencia pol{'i}tica.
+!******************************!
+[711703004f000000:00460000000228000000021c080000]
+レイトン
+!******************************!
+<T>Y esta persona utiliz{'o} su poder
+para que no saliera ning{'u}n dato
+a la luz.
+!******************************!
+[7117030052000000:00500000000228000000026f080000]
+レイトン
+!******************************!
+<T><A4/5>Intent{'e} volver a investigar
+en diversas ocasiones, pero mis
+esfuerzos fueron en vano.
+!******************************!
+[7117030055000000:0050000000022800000002d1080000]
+レイトン
+!******************************!
+<T>Cada vez que progresaba, recib{'i}a
+amenazas o algo me imped{'i}a seguir.
+!******************************!
+[7117030058000000:00500000000228000000021e090000]
+レイトン
+!******************************!
+<T><A3/1>S{'e} que he perdido a Claire para
+siempre, pero debo saber la verdad
+de lo que ocurri{'o} aquel d{'i}a.
+!******************************!
+[711703005b000000:005000000002280000000290090000]
+レイトン
+!******************************!
+<T>Estoy convencido de que tanto Don
+Paolo como Celeste comparten mi
+opini{'o}n.
+!******************************!
+[711703005e000000:005a000000020000000002e1090000]
+ルーク
+!******************************!
+<T><A4/4>{^?}Entonces cree que Dimitri
+sabe la verdad?
+!******************************!
+[7117030061000000:005a000000022800000002180a0000]
+レイトン
+!******************************!
+<T>S{'i}, pero quiz{'a}s haya tambi{'e}n otra
+persona...
+!******************************!
+[7117030064000000:005a000000020000000002510a0000]
+ルーク
+!******************************!
+<T>{^?}A qui{'e}n se refiere, profesor?
+!******************************!
+[7117030067000000:005a000000022800000002790a0000]
+レイトン
+!******************************!
+<T>Todo quedar{'a} m{'a}s claro cuando
+lleguemos a The Thames Arms.
+Vamos.
+!******************************!

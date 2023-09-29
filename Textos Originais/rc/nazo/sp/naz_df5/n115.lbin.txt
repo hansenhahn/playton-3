@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000900000000f203000000f2030000000100000000000000000000000000]
+n115
+!******************************!
+n115a
+!******************************!
+n115b
+!******************************!
+[eb0b01000a000000:0211000000]
+Te han contratado para adornar una
+pared con azulejos decorativos. Hay
+tres azulejos de cada uno de estos
+colores: rojo, amarillo, verde y
+naranja y, adem{'a}s, hay cuatro azulejos
+azules.
+
+El primer azulejo de cada color ya est{'a}
+colocado. Ahora tienes que decidir d{'o}nde
+colocar el resto. Ah, y otra cosa: no
+puedes poner dos azulejos del mismo color
+en la misma fila, tanto en sentido
+horizontal y vertical como en diagonal.
+!******************************!
+[ec0b01000b000000:02c1010000]
+{^!}Buena colocaci{'o}n!
+
+Esta es la {'u}nica forma correcta
+en que puedes colocar los azulejos.
+!******************************!
+[ed0b01000c000000:0222020000]
+{^!}As{'i} no es!
+
+{^?}Seguro que has seguido bien
+las instrucciones?
+!******************************!
+[ee0b01000d000000:0268020000]
+Solo hay una forma correcta de colocar
+los azulejos.
+
+De hecho, esta forma sigue un patr{'o}n.
+!******************************!
+[ef0b01000e000000:02c7020000]
+El azulejo de la esquina superior
+derecha es verde. El que tiene a su
+izquierda es naranja.
+!******************************!
+[f00b01000f000000:0223030000]
+El azulejo de la esquina inferior
+izquierda es rojo.
+
+El que tiene inmediatamente encima
+es azul.
+!******************************!
+[f10b010010000000:0285030000]
+Uno de los azulejos azules que
+quedan va justo a la derecha del
+azulejo de la esquina superior
+izquierda. El otro azulejo azul va
+inmediatamente a la izquierda del
+de la esquina inferior derecha.
+
+Una vez colocados todos los azulejos
+azules, el resto no deber{'i}a ser
+tan dif{'i}cil.
+!******************************!

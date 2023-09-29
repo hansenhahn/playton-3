@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000006a040000006a040000000100000000000000000000000000]
+n074
+!******************************!
+n074a
+!******************************!
+n074b
+!******************************!
+[eb0b01000a000000:0211000000]
+Mueve los tres bloques de colores hasta
+los lugares que les corresponden. Toca
+los botones con flechas en la parte
+inferior de la pantalla para girar el
+laberinto 90{o}. Si debajo no hay nada
+que se lo impida, los bloques caer{'a}n.
+
+{^!}A ver qu{'e} tal se te da!
+!******************************!
+[ec0b01000b000000:021a010000]
+{^!}Incre{'i}ble!
+
+Aunque aumente el n{'u}mero de bloques,
+el modo en que resuelves el puzle
+no cambia.
+
+Salta a la vista que esto se te da
+muy bien...
+
+{^?}O no?
+!******************************!
+[ed0b01000c000000:02bd010000]
+Vaya...
+
+{^!}Int{'e}ntalo otra vez!
+!******************************!
+[ee0b01000d000000:02e1010000]
+{^!}Esta vez los bloques son tres!
+
+Pero no pierdas los papeles.
+Mant{'e}n la calma... {^!}Igual que antes!
+!******************************!
+[ef0b01000e000000:024d020000]
+{^?}Te parece que el bloque amarillo
+y el rojo deber{'i}an estar el uno en
+el lugar del otro? F{'i}jate bien...
+Los puedes intercambiar f{'a}cilmente.
+!******************************!
+[f00b01000f000000:02e4020000]
+Ah{'i} van los primeros pasos para
+intercambiar el bloque rojo y el
+amarillo.
+
+Gira el laberinto cinco veces con
+el bot{'o}n derecho, una vez con el
+izquierdo y una m{'a}s con el derecho.
+
+De todos modos presta mucha atenci{'o}n
+a los movimientos. El pr{'o}ximo es el
+dif{'i}cil.
+!******************************!
+[f10b010010000000:02fc030000]
+Siguiendo desde la pista 3, gira una
+vez m{'a}s con el bot{'o}n derecho y luego
+con el izquierdo.
+
+Desde aqu{'i} deber{'i}as poder terminar
+el puzle.
+!******************************!

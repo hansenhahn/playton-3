@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n216
+!******************************!
+n216a
+!******************************!
+n216b
+!******************************!
+[eb0b01000a000000:0211000000]
+Desde cada letra de arriba, sigue
+la l{'i}nea vertical hacia abajo hasta
+encontrar una l{'i}nea horizontal. Sigue
+entonces esa l{'i}nea horizontal hasta
+encontrar otra vertical y cambiarte
+a ella, y as{'i} hasta llegar a una letra
+de abajo.
+Este mapa tendr{'i}a que conectar cada
+letra de arriba con la misma letra de
+abajo de acuerdo con esas reglas, pero
+no ser{'a} posible a menos que quites
+dos l{'i}neas horizontales que sobran.
+
+Toca esas l{'i}neas y despu{'e}s toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02f9010000]
+{^!}Perfecto!
+
+Ahora todas las letras est{'a}n
+emparejadas seg{'u}n las reglas.
+!******************************!
+[ed0b01000c000000:0249020000]
+{^!}Qu{'e} pena!
+
+Recuerda que hay que quitar dos l{'i}neas
+horizontales, ni m{'a}s ni menos.
+!******************************!
+[ee0b01000d000000:02a7020000]
+Las dos l{'i}neas horizontales situadas
+entre B y C est{'a}n bien como est{'a}n.
+Tienes que quitar una en la mitad
+izquierda y otra en la mitad derecha.
+!******************************!
+[ef0b01000e000000:0240030000]
+
+!******************************!
+[f00b01000f000000:0241030000]
+
+!******************************!
+[f10b010010000000:0242030000]
+
+!******************************!

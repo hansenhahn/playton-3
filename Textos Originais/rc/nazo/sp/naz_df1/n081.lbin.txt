@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000003000000000000000000f203000000f2030000000100000000000000000000000000]
+n081
+!******************************!
+n081a
+!******************************!
+n081b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Esta nota contiene instrucciones para
+desactivar las trampas de la puerta!
+
+{''}Uno de los cuatro botones, A, B, C o D,
+desactiva las trampas. Llega hasta el
+bot{'o}n correcto yendo de un cuadrado a
+otro con movimientos horizontales o
+verticales, comenzando desde el cuadrado
+central y seg{'u}n el orden rojo, azul,
+amarillo. No puedes pasar dos veces por
+el mismo cuadrado.{''}
+
+Selecciona el bot{'o}n correcto, A, B, C o D.
+!******************************!
+[ec0b01000b000000:02bf010000]
+{^!}Bien hecho!
+
+El bot{'o}n A es el que desactiva
+las trampas.
+
+{^!}Ahora puedes abrir la puerta!
+!******************************!
+[ed0b01000c000000:0222020000]
+L{'a}stima...
+
+{^?}Seguro que has seguido los colores
+en el orden correcto?
+!******************************!
+[ee0b01000d000000:026e020000]
+Rojo, azul, amarillo.
+
+Sigue estrictamente este orden y
+quedar{'a} claro cu{'a}l es el bot{'o}n correcto.
+!******************************!
+[ef0b01000e000000:02d8020000]
+{^?}Est{'a}s seguro de que te ci{-n}es
+al orden rojo, azul, amarillo?
+
+Desde el punto de partida ve
+a la derecha, arriba, izquierda,
+izquierda, arriba, izquierda
+y arriba.
+
+Despu{'e}s f{'i}jate ad{'o}nde puedes ir
+desde cada cuadrado. Compru{'e}balos
+uno por uno.
+!******************************!
+[f00b01000f000000:02e0030000]
+Sigue las instrucciones de la pista 2
+y contin{'u}a hacia la derecha, siguiendo
+el orden rojo, azul, amarillo.
+
+A menos que cometas alg{'u}n error
+siguiendo el orden de los colores,
+ten la seguridad de que llegar{'a}s
+al bot{'o}n que desactiva las trampas.
+!******************************!
+[f10b010010000000:02e1040000]
+El bot{'o}n que est{'a}s buscando no est{'a}
+ni arriba a la derecha ni abajo a la
+derecha.
+{^!}La respuesta correcta es uno de los
+botones del lado izquierdo!
+!******************************!

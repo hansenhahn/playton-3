@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n161
+!******************************!
+n161a
+!******************************!
+n161b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Bueno, bueno... {^?}Podr{'e}is volver a cruzar
+esta puerta? Si os hab{'e}is confiado al
+pensar que ya hab{'e}is resuelto este puzle
+antes, {^!}no os alegr{'e}is tan pronto!{''}
+
+Esta vez ser{'a} mucho m{'a}s dif{'i}cil.
+!******************************!
+[ec0b01000b000000:02f1000000]
+{^!}Impresionante!
+
+{''}Pod{'e}is pasar.{''}
+!******************************!
+[ed0b01000c000000:021e010000]
+{^!}L{'a}stima!
+
+Intentadlo de nuevo.
+!******************************!
+[ee0b01000d000000:0244010000]
+Hay m{'u}ltiples formas de resolver este
+puzle. Esta es una de ellas:
+
+Primero, mueve el bloque amarillo que
+est{'a} sobre la cabeza de Layton arriba y
+a la derecha para ponerlo sobre el
+bloque rojo. Luego mueve a Layton
+y Luke a la pared izquierda.
+
+A partir de aqu{'i}, {^!}a ver si consigues
+acercarte a la salida!
+!******************************!
+[ef0b01000e000000:0282020000]
+Retomando la pista 1, mueve el
+bloque rojo abajo y luego baja tambi{'e}n
+el bloque amarillo que ten{'i}a encima.
+Ahora baja el bloque azul y ll{'e}valo a
+la pared izquierda para que est{'e} sobre
+Layton y Luke.
+!******************************!
+[f00b01000f000000:0255030000]
+Retomando la pista 2, mueve el
+bloque amarillo hacia arriba y luego
+tambi{'e}n el rojo, y coloca a Layton y
+Luke bajo el bloque rojo. Ahora mueve
+el bloque azul hasta abajo del todo y
+a la derecha hasta que est{'e} al lado de
+Layton y Luke.
+!******************************!
+[f10b010010000000:0246040000]
+Siguiendo desde la pista 3, mueve el
+bloque amarillo a la pared izquierda
+y hacia abajo para que est{'e} sobre el
+bloque azul. Despu{'e}s, baja el bloque
+verde todo lo que puedas y sube el
+bloque naranja al cuadrado superior.
+Ahora, devuelve el bloque verde a su
+lugar original.
+
+{^?}Podr{'a}s hacer el resto?
+!******************************!

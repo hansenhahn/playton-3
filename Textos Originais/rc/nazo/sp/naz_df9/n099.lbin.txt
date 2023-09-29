@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000240400000025040000000100000000000000000000000000]
+n099
+!******************************!
+n099a
+!******************************!
+n099b
+!******************************!
+[eb0b01000a000000:0211000000]
+El camino est{'a} cortado... {^!}por bloques
+de chatarra! Por suerte dispones de
+cinco bombas, cada una de las cuales
+puede destruir totalmente el bloque
+donde la coloques. Los bloques restantes
+caer{'a}n en los espacios que hayan dejado
+los bloques destruidos, pero sin cambiar
+de forma.
+
+Coloca las bombas en cinco bloques
+de forma que al desaparecer unos y caer
+otros quede una superficie plana por
+donde puedas pasar con el coche.
+{^!}Luego pulsa el detonador!
+!******************************!
+[ec0b01000b000000:02e2010000]
+{^!}Buuum!
+
+Buen trabajo. Y ahora... {^!}largu{'e}monos!
+!******************************!
+[ed0b01000c000000:021b020000]
+{^!}L{'a}stima!
+
+{^!}Date prisa y vuelve a intentarlo!
+!******************************!
+[ee0b01000d000000:0252020000]
+Tienes que destruir cinco bloques,
+pero no te preocupes si cometes
+errores. Puedes intentarlo tantas
+veces como quieras... {^!}Hacer estallar
+bloques puede incluso ser divertido!
+Antes o despu{'e}s acabar{'a}s
+dando con la soluci{'o}n.
+!******************************!
+[ef0b01000e000000:023e030000]
+Si te fijas bien, ver{'a}s que los bloques
+constan de cuadrados de igual tama{-n}o.
+Adem{'a}s, la fosa tiene cinco cuadrados
+de altura. Comienza tu razonamiento
+con estos datos...
+!******************************!
+[f00b01000f000000:02f2030000]
+En la fila inferior hay tres bloques.
+Tienes que destruir el de la izquierda
+y el de la derecha. El bloque del medio
+no lo toques.
+!******************************!
+[f10b010010000000:0275040000]
+No destruyas el bloque que hay
+en el extremo superior derecho.
+!******************************!

@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n082
+!******************************!
+n082a
+!******************************!
+n082b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este extra{-n}o edificio se encuentra en
+construcci{'o}n. Tienes que inspeccionar
+cada escalera y cada viga, comenzando
+por la flecha y pasando por los puntos
+A, B, C y D, en ese orden. No puedes
+pasar dos veces por el mismo lugar,
+pero puedes pasar tantas veces como
+quieras por los extremos de las escaleras.
+
+{^?}En qu{'e} orden tendr{'a}s que usar las
+escaleras blancas? Pon las escaleras
+con n{'u}meros encima de las escaleras
+blancas para indicar el orden.
+!******************************!
+[ec0b01000b000000:02e0010000]
+{^!}Eso es!
+
+Independientemente del trayecto que
+sigas, las tres escaleras se usan
+en el mismo orden.
+
+Estos trayectos pueden parecer poco
+efectivos, pero en cualquiera de ellos
+la distancia recorrida es la misma, ya
+que no puedes pasar dos veces por el
+mismo lugar.
+!******************************!
+[ed0b01000c000000:02eb020000]
+Qu{'e} pena...
+
+No tengas prisa y pi{'e}nsalo bien.
+!******************************!
+[ee0b01000d000000:021f030000]
+Parece complicado, pero es una l{'i}nea
+continua.
+
+No busques soluciones dif{'i}ciles.
+!******************************!
+[ef0b01000e000000:0276030000]
+Hay m{'a}s de un recorrido v{'a}lido, pero
+el orden en que tendr{'a}s que usar las
+escaleras blancas es siempre el mismo.
+!******************************!
+[f00b01000f000000:02f0030000]
+Baja por la escalera blanca que est{'a}
+debajo del punto de partida para llegar
+al punto A.
+Ah{'i} est{'a} la primera escalera.
+!******************************!
+[f10b010010000000:0270040000]
+Como menciona la pista 3, usa la
+escalera que est{'a} debajo del punto
+de partida para llegar a A. Esa es la
+primera escalera. No uses una escalera
+blanca para llegar a B desde A. Esta
+deber{'i}a ser toda la informaci{'o}n que
+necesitas.
+Ahora solo tienes que determinar
+el orden de las otras dos escaleras.
+!******************************!

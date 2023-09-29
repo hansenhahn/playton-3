@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000100400000010040000000100000000000000000000000000]
+n118
+!******************************!
+n118a
+!******************************!
+n118b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes que llegar a tu destino desde el
+punto de partida, pero ten cuidado con
+las pieles de pl{'a}tano. Cuando pises
+alguna de ellas, {^!}patinar{'a}s sin detenerte
+hasta chocar con una pared!
+
+{^?}Puedes encontrar un camino que te
+permita llegar a tu destino? Toca una
+flecha roja para desplazarte en la
+direcci{'o}n que indique.
+!******************************!
+[ec0b01000b000000:025d010000]
+{^!}Has llegado de una pieza!
+
+En los dibujos animados queda muy
+gracioso cuando un personaje da un
+patinazo con una piel de pl{'a}tano
+y se la pega. Pero si alguna vez has
+sufrido un incidente similar en la
+vida real, {^!}sabr{'a}s que caerse as{'i}
+no es ninguna broma!
+!******************************!
+[ed0b01000c000000:026d020000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0296020000]
+Prueba distintos caminos.
+Para que lo sepas, en la {'u}ltima
+parte tendr{'a}s que caminar un trecho.
+!******************************!
+[ef0b01000e000000:02fb020000]
+En el primer cruce, gira hacia
+abajo. Patinar{'a}s inmediatamente
+hasta la pared del borde de abajo.
+!******************************!
+[f00b01000f000000:0260030000]
+Retomando la pista 2, retrocede
+hasta el espacio que hay justo tras
+la piel de pl{'a}tano que acabas
+de pisar, y ve hacia la izquierda.
+!******************************!
+[f10b010010000000:02e8030000]
+Retomando la pista 3, deber{'i}a resultarte
+f{'a}cil saber qu{'e} camino tomar. Usa la
+siguiente piel de pl{'a}tano que veas para
+resbalar hasta la pared y desde ah{'i}
+camina hasta la meta. Si pisas alguna
+otra piel por accidente, puede que te
+resulte m{'a}s sencillo volver a empezar.
+!******************************!

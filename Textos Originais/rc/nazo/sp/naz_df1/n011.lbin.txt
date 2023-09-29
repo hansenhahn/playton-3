@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000500000000f203000000f2030000000100000000000000000000000000]
+n011
+!******************************!
+n011a
+!******************************!
+n011b
+!******************************!
+[eb0b01000a000000:0211000000]
+F{'i}jate en estas cinco piezas. {^?}Puedes
+encajarlas en el sombrero del profesor?
+
+Puedes invertir y girar las piezas.
+!******************************!
+[ec0b01000b000000:028a000000]
+{^!}Bien hecho!
+
+Este puzle es una variaci{'o}n del
+tradicional tangrama, un juego donde
+las mismas siete piezas se combinan
+para crear diversas figuras.
+{^!}Lo podr{'i}amos llamar Laytongrama!
+!******************************!
+[ed0b01000c000000:024c010000]
+Qu{'e} l{'a}stima...
+
+{^!}Vuelve a intentarlo!
+!******************************!
+[ee0b01000d000000:027b010000]
+Estas pistas te proporcionar{'a}n
+un m{'e}todo para completar el puzle
+invirtiendo el menor n{'u}mero posible
+de piezas. Si lo sigues, la {'u}nica
+pieza que tendr{'a}s que invertir es {#2}.
+
+Evidentemente, tambi{'e}n lo puedes
+resolver al rev{'e}s, es decir, si no
+inviertes la pieza {#2}, entonces
+tendr{'a}s que invertir {#0} y {#1}.
+!******************************!
+[ef0b01000e000000:02cb020000]
+Si inviertes la pieza {#2}, entonces
+no hace falta girar la pieza {#0}.
+Coloca esta {'u}ltima en la esquina
+superior izquierda del sombrero.
+!******************************!
+[f00b01000f000000:0258030000]
+Invierte la pieza {#2} y col{'o}cala
+horizontalmente. Ah{'i} tienes parte
+del ala del sombrero.
+
+Una vez rotada, la pieza {#1}
+tambi{'e}n forma parte del ala.
+!******************************!
+[f10b010010000000:02f7030000]
+Tras hacer que el extremo m{'a}s corto de
+la pieza {#1} forme parte del ala, todo
+lo que te queda por hacer es encajar
+las piezas {#3} y {#4}. Una vez que hayas
+conseguido esto, habr{'a}s resuelto
+el puzle.
+!******************************!

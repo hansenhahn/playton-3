@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n130
+!******************************!
+n130a
+!******************************!
+n130b
+!******************************!
+[eb0b01000a000000:0211000000]
+El profesor Layton y Luke est{'a}n viendo
+la radiograf{'i}a del Dr. Schrader:
+{''}{^!}Mire, profesor, parece que alguien
+se ha dejado las tijeras dentro del
+Dr. Schrader durante la operaci{'o}n!
+{^?}Ve esa sombra? {^!}Es incre{'i}ble!{''}
+
+{''}Luke, las tijeras son el menor de los
+problemas. {^!}Esto s{'i} que es preocupante!{''}.
+Al decir esto, el profesor apunt{'o} a algo
+extra{-n}o de la radiograf{'i}a.
+
+{^?}A qu{'e} se refer{'i}a? Rod{'e}alo con un c{'i}rculo
+y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02fb010000]
+{^!}Buen ojo!
+
+Hay una misteriosa marca blanca en el
+fondo del est{'o}mago del Dr. Schrader.
+{^!}Tal vez se haya tragado una moneda
+sin darse cuenta!
+
+Si los rayos X no pueden atravesar
+algo s{'o}lido, el objeto aparece como
+una sombra blanca. Los objetos oscuros
+deben de ser el resultado de una broma.
+Seguramente alguien haya superpuesto
+las im{'a}genes de los objetos una
+vez hecha la radiograf{'i}a.
+!******************************!
+[ed0b01000c000000:0290030000]
+{^!}Eso no es!
+
+Echa otro vistazo a la radiograf{'i}a.
+{^?}Qu{'e} es eso blanco de ah{'i}?
+!******************************!
+[ee0b01000d000000:02eb030000]
+No solo hay unas tijeras, sino tambi{'e}n
+unas pinzas, una aguja con hilo, {^!}e
+incluso un rat{'o}n! {^!}{^?}Y esa flecha?!
+
+Mmm... No es muy normal tener todo
+eso ah{'i}, pero el profesor Layton
+solo se refer{'i}a a una cosa realmente
+preocupante en la placa.
+!******************************!
+[ef0b01000e000000:02f1040000]
+{^?}De qu{'e} color aparecen los objetos
+s{'o}lidos en una radiograf{'i}a?
+
+Mira otra vez y trata de deducirlo.
+!******************************!
+[f00b01000f000000:0261050000]
+Los huesos que ves son de color blanco.
+Y no hay duda de que son reales,
+as{'i} que...
+!******************************!
+[f10b010010000000:02b8050000]
+Mmm...
+
+Si algo est{'a} realmente en el cuerpo
+del Dr. Schrader, como por ejemplo
+los huesos, aparecer{'a} de color blanco,
+{^!}as{'i} que los objetos oscuros tienen
+que ser una tomadura de pelo!
+
+Pero ah{'i} hay algo blanco que parece
+sospechoso...
+!******************************!

@@ -1,0 +1,87 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n009
+!******************************!
+n009a
+!******************************!
+n009b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} tendr{'a}s que hacer girar las ruedas
+de los extremos superior e inferior en
+el mismo sentido, tal como indican las
+flechas.
+
+{^?}Qu{'e} rueda, A, B o C, hay que insertar
+para ello? Toca la letra que est{'a} en el
+centro de la rueda correcta.
+!******************************!
+[ec0b01000b000000:020c010000]
+{^!}Excelente!
+
+La respuesta es B. Si hay un n{'u}mero
+impar de ruedas entre las ruedas
+superior e inferior, estas girar{'a}n en
+la misma direcci{'o}n. Pero si el n{'u}mero
+de ruedas intermedias fuera par, las
+ruedas de los extremos girar{'i}an en
+direcciones opuestas.
+
+Al insertar B, quedan un total de
+cinco ruedas entre las ruedas superior
+e inferior, de modo que estas girar{'a}n
+en la misma direcci{'o}n.
+!******************************!
+[ed0b01000c000000:02a7020000]
+{^!}Vaya, qu{'e} pena!
+
+Prueba a usar la funci{'o}n de las notas
+para marcar la direcci{'o}n en la que
+se mueve cada rueda.
+!******************************!
+[ee0b01000d000000:0223030000]
+Para saber cu{'a}l ser{'a} la rueda que har{'a}
+girar las ruedas superior e inferior
+en la misma direcci{'o}n, ve pasando
+por todas las ruedas, de un extremo
+al otro, y comprueba en qu{'e} direcci{'o}n
+gira cada una.
+
+Te das cuenta de que dos ruedas
+adyacentes giran siempre en direcciones
+opuestas, {^?}no?
+!******************************!
+[ef0b01000e000000:0257040000]
+Seg{'u}n la pista 1, podr{'i}as dar
+con la respuesta si compruebas
+sistem{'a}ticamente la secuencia
+en que giran A, B y C.
+Pero hay una manera m{'a}s f{'a}cil
+de hallar la respuesta.
+Lee otra vez la pista 1.
+!******************************!
+[f00b01000f000000:0227050000]
+Dos ruedas que est{'a}n en contacto giran
+en sentidos opuestos. Si hubiese
+tres alineadas, la segunda se mover{'i}a
+en sentido opuesto a la primera, pero
+la tercera y la primera girar{'i}an en
+el mismo sentido. Siguiendo este
+razonamiento, si hay un n{'u}mero impar
+de ruedas entre otras dos, estas
+girar{'a}n en el mismo sentido. Y si
+el n{'u}mero de ruedas intermedias es par,
+las ruedas de los extremos girar{'a}n en
+sentidos opuestos.
+!******************************!
+[f10b010010000000:02de060000]
+Si insertas la rueda A, habr{'a} un total de
+cuatro entre las ruedas de los extremos
+superior e inferior.
+
+Si insertas B, habr{'a} cinco entre los
+extremos.
+
+Y si insertas C, tambi{'e}n ser{'a}n cuatro
+las ruedas entre las de los extremos,
+igual que si insertas A.
+!******************************!

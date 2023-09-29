@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000007e040000007e040000000100000000000000000000000000]
+n072
+!******************************!
+n072a
+!******************************!
+n072b
+!******************************!
+[eb0b01000a000000:0211000000]
+En el oscuro laberinto de abajo solo
+podr{'a}s girar cuando te topes con una
+pared. Siguiendo esta regla, tendr{'a}s
+que llegar desde el punto rojo al azul
+sin pasar dos veces por un mismo tramo
+ni acabar en un callej{'o}n sin salida.
+
+{^?}Qu{'e} camino seguir{'a}s? Traza con una
+l{'i}nea tu plan de escape.
+!******************************!
+[ec0b01000b000000:0246010000]
+{^!}Una gran evasi{'o}n!
+
+{^!}Has encontrado la salida!
+!******************************!
+[ed0b01000c000000:027e010000]
+{^!}Vaya, qu{'e} pena!
+
+Recuerda que solo puedes girar cuando
+te topas con una pared.
+!******************************!
+[ee0b01000d000000:02d4010000]
+Desde el punto inicial puedes seguir
+tres caminos. Pru{'e}balos todos y
+comprueba ad{'o}nde te llevan.
+
+{^!}Cuidado con los callejones sin salida!
+!******************************!
+[ef0b01000e000000:0267020000]
+Al principio parece complicado porque
+hay muchas intersecciones, pero si
+descartas todos los caminos que acaban
+en callejones sin salida, pronto
+encontrar{'a}s la soluci{'o}n.
+!******************************!
+[f00b01000f000000:0217030000]
+Desde el punto de partida, la ruta
+correcta no es la que va hacia arriba.
+!******************************!
+[f10b010010000000:0261030000]
+Desde el punto de partida, el camino
+correcto tampoco comienza yendo hacia
+la derecha. {^!}Para escapar tendr{'a}s
+que ir hacia abajo!
+!******************************!

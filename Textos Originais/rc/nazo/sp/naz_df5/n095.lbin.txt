@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n095
+!******************************!
+n095a
+!******************************!
+n095b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este es el mapa de la planta donde se halla
+el cuarto del generador. La flecha roja y
+la verde indican el recorrido que siguen
+dos robots equipados con c{'a}maras. Para
+evitar que el profesor Layton lo detecte,
+Clive ha dispuesto que los robots no pasen
+junto al cuarto del generador. Los robots
+siempre girar{'a}n en las esquinas marcadas
+con flechas amarillas.
+
+Toca la habitaci{'o}n junto a la que no
+pasa ning{'u}n robot. {^!}Ese es el cuarto
+del generador!
+!******************************!
+[ec0b01000b000000:02df010000]
+{^!}Ah{'i} est{'a}!
+
+{^!}Ni siquiera Clive puede enga{-n}ar
+a Layton y compa{-n}{'i}a!
+!******************************!
+[ed0b01000c000000:0236020000]
+{^!}Qu{'e} pena!
+
+F{'i}jate mejor y vuelve a intentarlo.
+!******************************!
+[ee0b01000d000000:026f020000]
+En una intersecci{'o}n con dos pares de
+flechas, los robots siempre girar{'a}n
+en la primera esquina que encuentren.
+!******************************!
+[ef0b01000e000000:02e4020000]
+Solo hay dos robots, pero juntos
+son capaces de pasar por casi todas
+las habitaciones. Es posible que sus
+recorridos se crucen, pero si se
+superponen, es que est{'a}s haciendo
+algo mal.
+!******************************!
+[f00b01000f000000:029e030000]
+En sus respectivos recorridos, cada
+robot completa un circuito por el que
+pasar{'a} repetidamente. Cuando hayas
+identificado ambos recorridos, solo
+tendr{'a}s que dar con la habitaci{'o}n
+junto a la cual nunca pasa ninguno
+de los dos.
+!******************************!
+[f10b010010000000:0289040000]
+Si divides el mapa en cuatro cuadrantes,
+la sala del generador est{'a} en el sector
+inferior derecho.
+!******************************!

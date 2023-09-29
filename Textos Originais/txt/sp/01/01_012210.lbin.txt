@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Creo que el hospital que sale
+en este cartel es el que vamos
+buscando.
+!******************************!
+[7117030004000000:000a0000000251000000025a000000]
+レイトン
+!******************************!
+<T>Ah, estupendo. Seg{'u}n el mapa del
+cartel, el hospital debe de estar
+cerca de la estaci{'o}n.
+!******************************!

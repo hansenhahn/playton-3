@@ -1,0 +1,61 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T><A1/1>{^?}Qu{'e} hac{'e}is aqu{'i}? {^?}No os hab{'i}a
+dicho que este sitio no era seguro
+para dos pipiolos como vosotros?
+!******************************!
+[7117030004000000:000a00000002870000000290000000]
+レイトン
+!******************************!
+<T><A3/2>Le agradecemos el consejo, pero
+no tiene de qu{'e} preocuparse.
+Siempre vamos ojo avizor.
+!******************************!
+[7117030007000000:000a000000020000000002f3000000]
+セガール
+!******************************!
+<T><A2/1>Bueno, por lo menos est{'a}is
+intentando ser cautos.
+!******************************!
+[711703000a000000:000a00000002000000000231010000]
+セガール
+!******************************!
+<T>Siento mucho haberme puesto como
+un energ{'u}meno. {^?}Sab{'e}is qu{'e}? Os
+pedir{'e} disculpas con este puzle.
+!******************************!
+[711703000d000000:00e8030000020000000002a4010000]
+セガール
+!******************************!
+<T><A1/1>No os pong{'a}is tan nerviosos. La
+gente de por aqu{'i} lo interpreta
+como un signo de debilidad.
+!******************************!
+[7117030010000000:00d00700000200000000020f020000]
+セガール
+!******************************!
+<T><A2/1>{^?}Quer{'e}is volver a o{'i}r el puzle
+de los collares?
+!******************************!
+[7117030013000000:00b80b000002000000000251020000]
+セガール
+!******************************!
+<T><A2/2>Ahora que lo pienso, a lo mejor
+s{'i} que sois lo bastante avispados
+como para desenvolveros por aqu{'i}.
+!******************************!
+[7117030016000000:00a00f0000020000000002c4020000]
+セガール
+!******************************!
+<T><A1/6>Tengo familia en Southern
+Street, pero las cosas no marchan
+bien entre nosotros.
+!******************************!
+[7117030019000000:00a00f00000200000000021e030000]
+セガール
+!******************************!
+<T>Por eso suelo andar siempre por
+esta zona.
+!******************************!

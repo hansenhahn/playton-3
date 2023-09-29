@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000001000000]
+n086
+!******************************!
+n086a
+!******************************!
+n086b
+!******************************!
+[eb0b01000a000000:0211000000]
+En cada una de las casillas de este mapa
+hay escrito un punto cardinal. Pero debes
+saber que la parte de arriba del mapa no
+apunta necesariamente al norte. Cuando el
+lado correcto apunta al norte, si partes
+de cierta casilla y sigues la direcci{'o}n
+que se{-n}ala cada una de ellas, puedes pasar
+por todas las dem{'a}s.
+
+{^?}Cu{'a}l es el lado, A, B, C o D, que realmente
+apunta al norte?
+!******************************!
+[ec0b01000b000000:0296010000]
+{^!}Correcto!
+
+El lado C es el que apunta al norte.
+Si pones el lado C mirando hacia arriba
+y comienzas por la casilla del centro,
+puedes pasar por todas las dem{'a}s.
+!******************************!
+[ed0b01000c000000:023e020000]
+{^!}Qu{'e} pena!
+
+Intenta olvidar esa idea preconcebida
+de que arriba y norte son lo mismo.
+!******************************!
+[ee0b01000d000000:029a020000]
+Un mapa muy simple, pero que se vuelve
+complicado cuando comienzas a cambiar
+su orientaci{'o}n. Intenta pensar en {'e}l
+desde diferentes puntos de vista.
+!******************************!
+[ef0b01000e000000:0234030000]
+No importa hacia d{'o}nde est{'e} el norte,
+las posiciones relativas de los puntos
+cardinales son siempre las mismas:
+el norte en la direcci{'o}n opuesta al sur,
+y el este en la direcci{'o}n opuesta
+al oeste.
+Tienes que pensar hipot{'e}ticamente
+y olvidar la convenci{'o}n de que
+el norte est{'a} arriba, el sur abajo,
+el este a la derecha y el oeste
+a la izquierda.
+!******************************!
+[f00b01000f000000:02a3040000]
+Hay tres {''}estes{''} seguidos en l{'i}nea.
+Esto implica que tendr{'a}s que terminar
+tu recorrido por el mapa en alguno
+de los extremos de esta l{'i}nea.
+
+Esto deber{'i}a bastarte para encontrar
+la soluci{'o}n.
+!******************************!
+[f10b010010000000:0277050000]
+Para pasar por todas las casillas,
+en alg{'u}n momento tendr{'a}s que pasar
+por los tres {''}estes{''} que est{'a}n
+en l{'i}nea, ya sea hacia la izquierda
+o hacia la derecha.
+
+Esto significa que el este est{'a} o bien
+a la derecha o bien a la izquierda y,
+en consecuencia, que el norte y el sur
+estar{'a}n arriba o abajo.
+{^!}As{'i} que solo tienes que elegir entre
+dos opciones!
+!******************************!

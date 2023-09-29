@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000007e040000007e040000000100000000000000000000000000]
+n214
+!******************************!
+n214a
+!******************************!
+n214b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cuatro orgullosos entusiastas de los
+sombreros de copa han fundado juntos
+el {''}club de los sombreros de copa{''}.
+Abajo puedes ver el cartel que cuelga
+en el exterior de su sede.
+Esta semana un quinto miembro se ha
+unido al club, as{'i} que planean alterar
+el cartel para mostrar cinco sombreros
+de copa.
+
+Para conseguirlo basta con cortar el
+cartel en tres partes y recolocarlas.
+Indica con dos l{'i}neas d{'o}nde hacer los
+dos cortes necesarios.
+!******************************!
+[ec0b01000b000000:02d3010000]
+{^!}Para quitarse el sombrero!
+
+Al cortar el cartel como se muestra
+en el dibujo e intercambiar los dos
+trozos de arriba, {^!}tienes cinco
+sombreros de copa en vez de cuatro!
+
+Es cierto que los sombreros son m{'a}s
+peque{-n}os, {^!}pero esto es m{'a}s barato
+que tener que comprar otro cartel!
+!******************************!
+[ed0b01000c000000:02f9020000]
+{^!}No es as{'i}!
+
+Si intentas convertir cuatro sombreros
+de copa en cinco, probablemente van a
+ser m{'a}s peque{-n}os.
+!******************************!
+[ee0b01000d000000:0271030000]
+En el primer corte, divide el cartel
+por la mitad de izquierda a derecha.
+
+Ahora solo te falta cortar en dos
+partes distintas la mitad superior.
+Piensa en ello y sabr{'a}s c{'o}mo hacerlo...
+!******************************!
+[ef0b01000e000000:0230040000]
+
+!******************************!
+[f00b01000f000000:0231040000]
+
+!******************************!
+[f10b010010000000:0232040000]
+
+!******************************!

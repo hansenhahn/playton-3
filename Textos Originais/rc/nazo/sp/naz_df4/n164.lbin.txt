@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n164
+!******************************!
+n164a
+!******************************!
+n164b
+!******************************!
+[eb0b01000a000000:0211000000]
+Desliza el bloque A al hueco A.
+Desliza el bloque B al hueco B.
+Desliza el bloque C al hueco C.
+Desliza el bloque D al hueco D.
+
+{^!}Y no hay m{'a}s! Bueno, salvo por
+un peque{-n}o detalle... {^!}Solo tienes
+13 movimientos para conseguirlo!
+!******************************!
+[ec0b01000b000000:0202010000]
+{^!}Bien jugado!
+
+{^?}Lo has logrado al primer intento?
+!******************************!
+[ed0b01000c000000:023a010000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0263010000]
+La figura por la que est{'a}s moviendo
+las letras es regular, y solo hay dos
+bloques obstruyendo el camino, as{'i}
+que tienes que poder resolver el
+puzle con una serie de movimientos
+sistem{'a}ticos.
+
+Puedes volver a empezar el puzle las
+veces que quieras, as{'i} que piensa en el
+modo m{'a}s eficiente de mover las letras
+a su lugar y comprueba si funciona.
+!******************************!
+[ef0b01000e000000:02ca020000]
+Se te acabar{'a}n los movimientos si
+intentas llevar las letras a su sitio
+una a una. Piensa en alg{'u}n modo de
+mover todas las piezas a medida que
+realizas los movimientos.
+!******************************!
+[f00b01000f000000:0279030000]
+Esta es parte de la soluci{'o}n:
+
+Mueve el bloque violeta de abajo hacia
+arriba y desliza la B a la derecha del
+todo. Ahora coloca el bloque violeta
+de la izquierda en el hueco D y desliza
+la C hasta abajo del todo...
+
+{^?}Ves ya lo que tienes que hacer con
+el resto?
+!******************************!
+[f10b010010000000:0285040000]
+Retomando la pista 3, pon el bloque
+violeta de la derecha en el hueco A y
+mueve la D hasta la izquierda del todo.
+Ahora puedes poner la B en su sitio.
+Desliza la A hacia arriba del todo y
+podr{'a}s colocar la C en su sitio.
+
+{^!}Ya tienes resuelta la mitad del
+puzle! El resto parece bastante
+sencillo, {^?}verdad?
+!******************************!

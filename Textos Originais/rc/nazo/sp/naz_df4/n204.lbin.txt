@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n204
+!******************************!
+n204a
+!******************************!
+n204b
+!******************************!
+[eb0b01000a000000:0211000000]
+Adem{'a}s de por s{'i} mismo, el n{'u}mero 28
+es divisible entre 1, 2, 4, 7 y 14.
+
+Al sumar estos cinco n{'u}meros, obtienes
+1 + 2 + 4 + 7 + 14 = 28. Curioso, {^?}eh?
+El resultado es el n{'u}mero original.
+
+Esto ocurre con otros n{'u}meros, y en eso
+se basa este puzle. {^?}Cu{'a}l es el menor
+n{'u}mero en el que la suma de sus divisores
+(sin incluir el propio n{'u}mero) es igual
+al n{'u}mero original?
+!******************************!
+[ec0b01000b000000:02a6010000]
+{^!}Bien hecho!
+
+La respuesta es 6.
+
+El n{'u}mero 6 es divisible
+entre 1, 2, 3 y 6. Por eso,
+si no incluyes el 6 en la suma,
+{^!}obtendr{'a}s 1 + 2 + 3 = 6!
+!******************************!
+[ed0b01000c000000:0243020000]
+{^!}Qu{'e} pena!
+
+No te dejes intimidar por el hecho de
+que este sea un problema de c{'a}lculo.
+Piensa un rato en {'e}l.
+
+{^!}Es m{'a}s f{'a}cil de lo que parece!
+!******************************!
+[ee0b01000d000000:02e6020000]
+La respuesta es un n{'u}mero de una cifra.
+!******************************!
+[ef0b01000e000000:0211030000]
+
+!******************************!
+[f00b01000f000000:0212030000]
+
+!******************************!
+[f10b010010000000:0213030000]
+
+!******************************!

@@ -1,0 +1,42 @@
+[7017010000000000:0006000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Profesor, {^?}sabe qu{'e} tenemos que
+hacer ahora con las coordenadas
+de la sala del generador?
+!******************************!
+[7117030004000000:000a000000026a0000000273000000]
+レイトン
+!******************************!
+<T><K>Mmm.</K><W> Supongo que las podemos
+introducir en uno de estos
+artefactos.
+!******************************!
+[7117030007000000:000a000000020000000002c4000000]
+ルーク
+!******************************!
+<T>{^?}Y si probamos con ese que est{'a}
+pegado a la pared? Tiene n{'u}meros
+y cosas.
+!******************************!
+[711703000a000000:000a000000026a000000021a010000]
+レイトン
+!******************************!
+<T>Ah, {^?}te refieres al que tiene
+un monitor verde? S{'i}, vamos a
+intentarlo.
+!******************************!
+[711703000d000000:0014000000026a000000026b010000]
+レイトン
+!******************************!
+<T>Estoy seguro de que la pantalla
+verde de ah{'i} es el artefacto que
+buscamos.
+!******************************!
+[7117030010000000:0014000000020000000002bc010000]
+ルーク
+!******************************!
+<T>De acuerdo, profesor. Voy a
+echarle un vistazo.
+!******************************!

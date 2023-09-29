@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n172
+!******************************!
+n172a
+!******************************!
+n172b
+!******************************!
+[eb0b01000a000000:0211000000]
+A un amigo tuyo le encantan las tiritas
+hasta un extremo patol{'o}gico. {^!}Hasta se
+casar{'i}a con ellas! Las lleva todo el d{'i}a,
+con motivo o sin {'e}l, y dice que ya se
+acabar{'a}n poniendo de moda...
+
+Como de costumbre, lleva en la cara unas
+cuantas. {^!}Pero esta vez se las ha puesto
+de modo que formen un puzle para ti!
+
+{''}{^?}Cu{'a}l me he pegado primero?{''}
+
+Toca la respuesta correcta para marcarla
+con una X y despu{'e}s toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02da010000]
+{^!}Buena vista!
+
+La tirita que se ha pegado primero
+tiene que estar bajo todas las dem{'a}s.
+Al fijarte bien es evidente que solo
+hay una tirita que no est{'a} por encima
+de ninguna otra.
+!******************************!
+[ed0b01000c000000:0297020000]
+{^!}Qu{'e} l{'a}stima!
+
+F{'i}jate bien en todas las tiritas antes
+de responder.
+!******************************!
+[ee0b01000d000000:02e7020000]
+La primera tirita que se peg{'o} tiene que
+estar debajo de todas las dem{'a}s.
+!******************************!
+[ef0b01000e000000:0236030000]
+
+!******************************!
+[f00b01000f000000:0237030000]
+
+!******************************!
+[f10b010010000000:0238030000]
+
+!******************************!

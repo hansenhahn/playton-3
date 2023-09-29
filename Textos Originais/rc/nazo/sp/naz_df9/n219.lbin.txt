@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n219
+!******************************!
+n219a
+!******************************!
+n219b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Oh, no! {^!}Est{'a}s bajo tierra y no puedes
+salir! Para escapar, {'a}brete paso moviendo
+los bloques y alcanza la salida marcada
+en la superficie con una flecha blanca.
+
+T{'u} eres la bola naranja. {^!}Buena suerte!
+!******************************!
+[ec0b01000b000000:02ee000000]
+{^!}Eres libre!
+
+Este tipo de puzles suele resultar
+dif{'i}cil de resolver, {^!}aunque tengas
+pr{'a}ctica!
+!******************************!
+[ed0b01000c000000:0259010000]
+{^!}Qu{'e} l{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0288010000]
+Este puzle es dif{'i}cil, pero puede
+resolverse en solo 10 movimientos.
+Encuentra una forma de deslizar la
+pieza gris al hueco en forma de
+cuadrado que est{'a} a la derecha, y
+luego encaja la pieza amarilla con
+la pieza gris. Luego encaja la
+pieza naranja en forma de {''}C{''}
+con la pieza amarilla.
+Tambi{'e}n tendr{'a}s que mover un poco
+la bola naranja, claro est{'a}.
+!******************************!
+[ef0b01000e000000:02fd020000]
+
+!******************************!
+[f00b01000f000000:02fe020000]
+
+!******************************!
+[f10b010010000000:02ff020000]
+
+!******************************!

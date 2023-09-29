@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n112
+!******************************!
+n112a
+!******************************!
+n112b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este curioso reloj anal{'o}gico tiene una
+peque{-n}a ventana donde muestra el d{'i}a
+del mes. A veces el reloj puede mostrar
+durante algunos instantes n{'u}meros
+que en realidad nunca se dar{'i}an
+en un mes, como los que se pueden
+ver en los ejemplos de abajo.
+
+De estos tres n{'u}meros, A, B y C,
+{^?}cu{'a}l no se ver{'i}a nunca en este reloj?
+!******************************!
+[ec0b01000b000000:026b010000]
+{^!}Genial!
+
+No hay ning{'u}n par de d{'i}as tales que,
+en la medianoche que va de uno a otro,
+se pueda mostrar el n{'u}mero del ejemplo C.
+
+El n{'u}mero del ejemplo A se podr{'i}a ver
+en la medianoche del 23 al 24,
+y el del ejemplo B en la del 29 al 30.
+!******************************!
+[ed0b01000c000000:026a020000]
+{^!}Qu{'e} l{'a}stima!
+
+Recuerda que este es un reloj anal{'o}gico.
+Piensa qu{'e} tipo de mecanismo se usa
+en estos relojes para mostrar todos
+los n{'u}meros de los d{'i}as de un mes.
+!******************************!
+[ee0b01000d000000:0222030000]
+Todos los d{'i}as del mes, uno detr{'a}s
+de otro, est{'a}n dibujados en un disco
+colocado dentro del reloj.
+
+Sin embargo, cuando el disco pasa
+de un d{'i}a a otro, a veces puede
+mostrar durante unos segundos
+alg{'u}n d{'i}a que no existe...
+!******************************!
+[ef0b01000e000000:0213040000]
+Dos de los tres ejemplos muestran
+lo que se ver{'i}a en el paso de un d{'i}a
+a otro.
+
+Si piensas en qu{'e} casos podr{'i}an
+verse dos de esos n{'u}meros,
+descubrir{'a}s por qu{'e} el otro
+no podr{'i}a aparecer nunca.
+!******************************!
+[f00b01000f000000:02ec040000]
+Ten en cuenta que todos los n{'u}meros
+est{'a}n escritos uno detr{'a}s de otro
+en un disco que va girando dentro
+del reloj.
+
+As{'i}, en la medianoche del 19 al 20,
+durante unos instantes ver{'i}as
+el n{'u}mero 92.
+!******************************!
+[f10b010010000000:02c2050000]
+El n{'u}mero 93 del ejemplo B se ver{'i}a
+en la medianoche del d{'i}a 29 al 30.
+
+Por cierto, ning{'u}n d{'i}a del mes
+comienza con un 4...
+!******************************!

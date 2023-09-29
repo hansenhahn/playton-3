@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n183
+!******************************!
+n183a
+!******************************!
+n183b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tres libros estaban colocados en una
+mesa. Alguien los mir{'o} desde cierta
+direcci{'o}n y coment{'o}:
+
+{''}Me hacen pensar en el profesor Layton.{''}
+
+{^?}Desde qu{'e} direcci{'o}n estaba mirando
+los libros esta persona? Elige una
+direcci{'o}n (A, B, C o D).
+!******************************!
+[ec0b01000b000000:0215010000]
+{^!}Bien visto!
+
+La respuesta es D.
+
+Desde esa direcci{'o}n, {^!}los libros
+parecen el sombrero de copa
+de Layton!
+!******************************!
+[ed0b01000c000000:0288010000]
+{^!}L{'a}stima!
+
+Mirando desde el lado adecuado, podr{'a}s
+ver una forma que sin duda reconocer{'a}s...
+!******************************!
+[ee0b01000d000000:02f0010000]
+Cuando esa persona dijo que los libros
+le hac{'i}an pensar en el profesor Layton,
+{^?}a qu{'e} se estar{'i}a refiriendo?
+
+El profesor Layton es un caballero
+ingl{'e}s. Al pensar en un caballero
+ingl{'e}s, {^?}qu{'e} te viene a la cabeza?
+!******************************!
+[ef0b01000e000000:02de020000]
+
+!******************************!
+[f00b01000f000000:02df020000]
+
+!******************************!
+[f10b010010000000:02e0020000]
+
+!******************************!

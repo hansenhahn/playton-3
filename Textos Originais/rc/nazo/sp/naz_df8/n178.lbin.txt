@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n178
+!******************************!
+n178a
+!******************************!
+n178b
+!******************************!
+[eb0b01000a000000:0211000000]
+La corona del rey contiene una cantidad
+de joyas de los siguientes tipos:
+diamante, esmeralda y zafiro.
+Hay m{'a}s del doble de diamantes que de
+esmeraldas, y hay menos de la mitad de
+zafiros que de esmeraldas.
+
+{^?}Cu{'a}l es el n{'u}mero m{'i}nimo de joyas que
+habr{'a} en la corona del rey?
+!******************************!
+[ec0b01000b000000:0237010000]
+{^!}Deslumbrante!
+
+La respuesta es 11 joyas.
+Si hubiera solo una o dos esmeraldas,
+entonces el n{'u}mero de zafiros no
+cumplir{'i}a las condiciones del puzle.
+El n{'u}mero m{'i}nimo de esmeraldas ser{'a}
+por tanto de 3, con lo que solo habr{'a}
+un zafiro. En cuanto eso te quede claro,
+te dar{'a}s cuenta de que el n{'u}mero m{'i}nimo
+de diamantes es de 7.
+!******************************!
+[ed0b01000c000000:029c020000]
+C{'o}rcholis...
+
+Me pregunto cu{'a}nto costar{'a} una corona
+como esta. Ojal{'a} pudiera comprarme una...
+!******************************!
+[ee0b01000d000000:0206030000]
+La cantidad de zafiros es menos de la
+mitad que la de esmeraldas. {^?}Qu{'e} puedes
+deducir de esta informaci{'o}n?
+
+Recuerda que hay al menos una joya
+de cada tipo.
+!******************************!
+[ef0b01000e000000:02ac030000]
+
+!******************************!
+[f00b01000f000000:02ad030000]
+
+!******************************!
+[f10b010010000000:02ae030000]
+
+!******************************!

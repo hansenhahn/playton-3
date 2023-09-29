@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n142
+!******************************!
+n142a
+!******************************!
+n142b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}{^!}Alguien se ha comido mi trozo de tarta!
+{^!}Y me lo estaba guardando para despu{'e}s!{''}
+
+A: {''}{^!}Yo no me lo he comido!{''}
+
+B: {''}No se lo han comido ni A ni D.{''}
+
+C: {''}{^!}Yo tampoco me lo he comido!{''}
+
+D: {''}C dice la verdad.{''}
+
+Aqu{'i} alguien miente, y es quien se ha
+comido la tarta. {^?}De qui{'e}n se trata?
+Rodea al culpable y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:028c010000]
+{^!}Has acertado!
+
+{''}{^!}Yo me com{'i} el trozo de tarta! {^!}No es
+cierto que lo estuviera guardando para
+despu{'e}s!{''}
+
+Si piensas con l{'o}gica, al darte cuenta
+de que A, B, C y D est{'a}n diciendo
+todos la verdad, {^!}la {'u}nica persona
+que est{'a} mintiendo tiene que ser
+la que se quej{'o} en un principio!
+!******************************!
+[ed0b01000c000000:02ca020000]
+{^!}Qu{'e} l{'a}stima!
+
+Procura no pasar por alto ninguna
+de las posibilidades.
+!******************************!
+[ee0b01000d000000:021a030000]
+F{'i}jate atentamente en lo que dicen
+todos. {^?}Te has fijado en que si A
+mintiese, entonces B tambi{'e}n estar{'i}a
+mintiendo?
+!******************************!
+[ef0b01000e000000:029b030000]
+Si D miente, entonces C tambi{'e}n miente.
+
+Si C miente, entonces D tambi{'e}n miente.
+
+Adem{'a}s, si B miente, eso significa que
+la tarta la ha probado m{'a}s de uno, y
+entonces hay m{'a}s de un mentiroso.
+
+{^?}Est{'a}n mintiendo todos? No. Solo una
+de las personas presentes miente.
+!******************************!
+[f00b01000f000000:02b8040000]
+Quiz{'a}s A, B, C y D est{'a}n diciendo
+todos la verdad.
+
+{^!}Pero alguien se ha comido la tarta!
+!******************************!
+[f10b010010000000:021a050000]
+Que quede claro: A, B, C y D est{'a}n
+diciendo la verdad.
+
+Pero alguien miente. {^?}Qui{'e}n nos queda?
+!******************************!

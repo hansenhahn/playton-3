@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n181
+!******************************!
+n181a
+!******************************!
+n181b
+!******************************!
+[eb0b01000a000000:0211000000]
+Hace tres a{-n}os se fund{'o} una exclusiva
+universidad que ha admitido solo a 100
+nuevos estudiantes cada a{-n}o, y la primera
+promoci{'o}n acaba de obtener su t{'i}tulo.
+El claustro ha decidido que desde el
+4.{0} a{-n}o acad{'e}mico se admitir{'a} cada curso
+a 10 alumnos m{'a}s que el curso anterior.
+
+{^?}En qu{'e} a{-n}o desde su fundaci{'o}n tendr{'a}
+la universidad m{'a}s de 400 estudiantes?
+Ten en cuenta que aqu{'i} nadie suspende
+ni deja los estudios sin acabar la carrera.
+!******************************!
+[ec0b01000b000000:02f6010000]
+{^!}Matr{'i}cula de honor!
+
+El n{'u}mero de estudiantes superar{'a}
+los 400 en el octavo a{-n}o acad{'e}mico.
+
+En el cuarto a{-n}o, el n{'u}mero de
+estudiantes ser{'a} de 10 m{'a}s, pero
+los estudiantes que empezaron la
+carrera hace 3 a{-n}os se ir{'a}n tras
+haberse graduado. En los a{-n}os 4.{0},
+5.{0} y 6.{0} el n{'u}mero de estudiantes
+aumentar{'a} en 10, 20 y 30. Los a{-n}os
+siguientes, el aumento ser{'a} siempre
+de 30 estudiantes.
+!******************************!
+[ed0b01000c000000:02ae030000]
+{^!}Qu{'e} l{'a}stima!
+
+Pi{'e}nsatelo bien y vuelve a probar.
+!******************************!
+[ee0b01000d000000:02ec030000]
+Al calcular el total de estudiantes,
+no olvides que cada uno pasar{'a} 3 a{-n}os
+estudiando en la universidad.
+
+En el 4.{0} a{-n}o la promoci{'o}n nueva tendr{'a}
+10 estudiantes m{'a}s que el a{-n}o anterior
+(eso s{'i}, la promoci{'o}n m{'a}s antigua se
+marchar{'a}). El 5.{0} a{-n}o, la nueva promoci{'o}n
+tendr{'a} 20 m{'a}s, y el 6.{0} a{-n}o otros 30 m{'a}s.
+
+En los a{-n}os siguientes, el aumento ser{'a}
+de solo 30 estudiantes al a{-n}o.
+!******************************!
+[ef0b01000e000000:02a8050000]
+
+!******************************!
+[f00b01000f000000:02a9050000]
+
+!******************************!
+[f10b010010000000:02aa050000]
+
+!******************************!

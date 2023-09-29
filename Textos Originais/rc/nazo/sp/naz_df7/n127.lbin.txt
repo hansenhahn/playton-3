@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n127
+!******************************!
+n127a
+!******************************!
+n127b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cuatro hermanos han heredado una gran
+propiedad. Cada uno se ha construido una
+casa en su lugar favorito sin recordar
+que deben dividir el resto de la finca.
+Han decidido que lo m{'a}s justo es dividir
+el terreno en cuatro parcelas de seis
+cuadrados que deben incluir la casa de
+cada uno y tener la misma forma. Adem{'a}s
+cada parcela deber{'a} tocar, pero no
+incluir, el pozo del cuadrado central.
+
+{^?}Cu{'a}l de los hermanos recibir{'a} la estrella?
+Rodea la casa A, B, C o D y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:0206020000]
+{^!}Eres una estrella de los puzles!
+
+La estrella estar{'a} en la propiedad de la
+hermana A.
+
+La finca se dividir{'a} seg{'u}n el diagrama que
+puedes ver arriba.
+!******************************!
+[ed0b01000c000000:02a8020000]
+{^!}No, esa no era!
+
+Si se hubieran esperado un poco
+antes de construirse sus casitas...
+!******************************!
+[ee0b01000d000000:0201030000]
+Con la funci{'o}n de las notas prueba
+distintas formas de dividir la finca
+para cumplir las normas acordadas por
+los hermanos.
+
+Recuerda que las cuatro porciones
+deben tener la misma forma y seis
+cuadrados de superficie.
+!******************************!
+[ef0b01000e000000:02de030000]
+Aunque las cuatro parcelas deben
+tener la misma forma, las casas
+pueden estar en cualquier parte
+de la propiedad de cada hermano.
+!******************************!
+[f00b01000f000000:0260040000]
+Todas las parcelas presentan una forma
+m{'a}s o menos similar a la letra T.
+!******************************!
+[f10b010010000000:02ac040000]
+La estrella no est{'a} en la finca
+del hermano B ni en la del C.
+
+Solo te quedan dos opciones.
+{^?}Cu{'a}l ser{'a} la correcta?
+!******************************!

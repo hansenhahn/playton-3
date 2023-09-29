@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000620400000062040000000100000000010000000000000000]
+n068
+!******************************!
+n068a
+!******************************!
+n068b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo tienes diecis{'e}is habitaciones
+circulares. De A, B, C y D parten rayos
+de luz que van en l{'i}nea recta y salen
+por donde marcan las flechas amarillas.
+En cuatro de las habitaciones hay espejos
+de dos caras que reflejan los haces de
+luz. Adem{'a}s, cada rayo pasa por un n{'u}mero
+determinado de habitaciones, que se indica
+al lado de cada letra.
+
+Descubre cu{'a}les son las habitaciones
+en las que hay un espejo y c{'o}mo est{'a}
+orientado. Toca las habitaciones para
+a{-n}adir, girar y quitar espejos.
+!******************************!
+[ec0b01000b000000:0211020000]
+{^!}Perfecto!
+
+Sigamos adelante, pues.
+!******************************!
+[ed0b01000c000000:0238020000]
+{^!}Qu{'e} pena!
+
+Recuerda, solo cuatro habitaciones
+contienen un espejo. No estar{'a}s
+poniendo m{'a}s de cuatro espejos, {^?}no?
+!******************************!
+[ee0b01000d000000:02bb020000]
+Se pueden hacer pasar los rayos por
+el n{'u}mero correcto de habitaciones
+usando cinco espejos, pero recuerda
+que buscas una soluci{'o}n con solo
+cuatro espejos.
+
+Por cierto, no olvides que los espejos
+tienen dos caras.
+!******************************!
+[ef0b01000e000000:0297030000]
+El rayo C llega a su salida sin
+toparse con ning{'u}n espejo.
+!******************************!
+[f00b01000f000000:02d5030000]
+El rayo A solo se refleja en un espejo.
+!******************************!
+[f10b010010000000:02fd030000]
+El rayo B solo se refleja una vez.
+El rayo D se refleja tres veces
+y sale por la flecha de la esquina
+superior derecha.
+
+{^!}Ahora deber{'i}as verlo claro!
+!******************************!

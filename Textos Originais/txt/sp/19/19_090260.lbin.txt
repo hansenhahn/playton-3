@@ -1,0 +1,36 @@
+[7017010000000000:0005000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>La benefactora de Layton resulta
+ser una mujer llamada Celeste que
+tambi{'e}n investiga a Dimitri.
+!******************************!
+[7117030004000000:001400000002000000000273000000]
+ナレーション
+!******************************!
+<T>Cuando Layton intenta conseguir
+m{'a}s informaci{'o}n, los esbirros
+aparecen de nuevo.
+!******************************!
+[7117030007000000:001e000000020000000002cd000000]
+ナレーション
+!******************************!
+<T>Celeste y Don Paolo se separan del
+grupo y se adelantan para
+despistar a los esbirros.
+!******************************!
+[711703000a000000:001e00000002000000000227010000]
+ナレーション
+!******************************!
+<T>Antes de irse, Celeste le da una
+cr{'i}ptica pista a Layton para
+concretar un lugar de encuentro.
+!******************************!
+[711703000d000000:001e0000000200000000028c010000]
+ナレーション
+!******************************!
+<T>Tras resolver el acertijo, se
+dirigen al restaurante del r{'i}o,
+The Thames Arms.
+!******************************!

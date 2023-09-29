@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n061
+!******************************!
+n061a
+!******************************!
+n061b
+!******************************!
+[eb0b01000a000000:0211000000]
+En previsi{'o}n de una posible escasez,
+has decidido moler grano y guardar
+la harina en una caja.
+
+Dispones de tres cajas diferentes,
+y tendr{'a}s que elegir la que tenga
+mayor capacidad.
+!******************************!
+[ec0b01000b000000:02cd000000]
+{^!}Excelente!
+
+La mejor caja es A. Si le das la vuelta,
+{^!}es la que m{'a}s harina puede almacenar!
+!******************************!
+[ed0b01000c000000:0233010000]
+{^!}Qu{'e} l{'a}stima!
+
+Medita detenidamente todas las
+posibilidades.
+!******************************!
+[ee0b01000d000000:0279010000]
+Lo que vas a almacenar es harina, que
+b{'a}sicamente es grano muy fino, de
+manera que necesitar{'a}s una caja
+grande y profunda.
+
+{^?}Cu{'a}l es la que mejor se ajusta a esta
+descripci{'o}n?
+!******************************!
+[ef0b01000e000000:0238020000]
+Si comparas las cajas A y C, puedes
+ver que tienen casi el mismo tama{-n}o.
+Sin embargo, sus tapas son muy
+diferentes.
+
+Por otra parte, la caja B parece
+tan peque{-n}a que no vale la pena
+ni tenerla en cuenta.
+!******************************!
+[f00b01000f000000:020a030000]
+Si dos de las cajas tienen el mismo
+tama{-n}o, parece que la que tenga
+una tapa m{'a}s grande ser{'a} menos {'u}til,
+{^?}verdad?
+
+A menos que lo consideres desde otro
+punto de vista...
+!******************************!
+[f10b010010000000:02c3030000]
+Imagina las cajas puestas al rev{'e}s.
+{^?}Cu{'a}l tiene m{'a}s capacidad ahora?
+!******************************!

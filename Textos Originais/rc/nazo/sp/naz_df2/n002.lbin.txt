@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000200000000f203000000f2030000000100000000000000000000000000]
+n002
+!******************************!
+n002a
+!******************************!
+n002b
+!******************************!
+[eb0b01000a000000:0211000000]
+Abajo puedes ver el mapa de la relojer{'i}a
+que ven{'i}a en la carta de Luke del futuro.
+{^?}Puedes encontrar la relojer{'i}a con ayuda
+de las horas que se muestran en el mapa?
+La flecha amarilla indica el punto de salida.
+
+Marca con un c{'i}rculo la letra del edificio
+correcto y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:023e010000]
+{^!}Enhorabuena!
+
+La respuesta es H. Las horas indican
+la direcci{'o}n que debes seguir en cada
+intersecci{'o}n as{'i} como el orden en
+el que debes seguir las indicaciones.
+En un reloj anal{'o}gico, la posici{'o}n
+de la manecilla peque{-n}a en cada una
+de las horas se{-n}alar{'i}a el camino.
+!******************************!
+[ed0b01000c000000:0264020000]
+{^!}Qu{'e} l{'a}stima!
+
+Las horas son pistas para llegar a la
+relojer{'i}a. Med{'i}talo una vez m{'a}s.
+!******************************!
+[ee0b01000d000000:02cc020000]
+Para dar con la ruta correcta,
+tendr{'a}s que saber d{'o}nde y en qu{'e}
+direcci{'o}n girar, {^?}verdad?
+!******************************!
+[ef0b01000e000000:0235030000]
+{^?}C{'o}mo se representar{'i}an estas horas
+en un reloj anal{'o}gico? La manecilla
+grande est{'a} siempre en posici{'o}n
+vertical, pero la manecilla peque{-n}a
+apunta en cada caso en direcciones
+diferentes.
+!******************************!
+[f00b01000f000000:0205040000]
+Si tienes problemas, quiz{'a} sea porque
+te est{'a}s imaginando dentro del mapa
+y consideras las direcciones desde
+esa perspectiva.
+
+Intenta ver el mapa como si fuese un
+reloj de pared, y dibuja la direcci{'o}n
+a la que apuntar{'i}a la manecilla peque{-n}a
+a cada una de las horas indicadas.
+!******************************!
+[f10b010010000000:0229050000]
+Para cada una de las horas indicadas,
+ve en la direcci{'o}n a la que apuntar{'i}a
+la manecilla peque{-n}a en un reloj
+anal{'o}gico.
+
+En la primera intersecci{'o}n la hora
+es 12:00, as{'i} que debes seguir hacia
+el norte. La siguiente hora es 03:00,
+de modo que en ese cruce tienes
+que ir hacia el este.
+El resto te lo puedes imaginar...
+!******************************!

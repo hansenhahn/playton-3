@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n013
+!******************************!
+n013a
+!******************************!
+n013b
+!******************************!
+[eb0b01000a000000:0211000000]
+Solo se puede usar una de estas plumas.
+Para descubrir cu{'a}l es, ten en cuenta
+estas indicaciones:
+
+{.} Tal como est{'a}n ahora, las cuatro tienen
+la tapa del color equivocado.
+{.} Cuando todas tengan su tapa correcta,
+cada una tendr{'a} solo una parte blanca.
+{.} La pluma que se puede usar est{'a} a la
+izquierda de la que deber{'i}a tener la tapa
+verde.
+
+Toca la letra de la pluma que se puede
+usar.
+!******************************!
+[ec0b01000b000000:02a6010000]
+{^!}Muy bien!
+
+La pluma que puedes usar es la C.
+Pero si las coges todas, es f{'a}cil volver
+a olvidar cu{'a}l era la que buscabas.
+!******************************!
+[ed0b01000c000000:022a020000]
+L{'a}stima...
+
+Repasa una a una las condiciones.
+!******************************!
+[ee0b01000d000000:025b020000]
+Recuerda que {''}la pluma que se puede
+usar est{'a} a la izquierda de la que
+deber{'i}a tener la tapa verde{''}. Partiendo
+de este dato, puedes suponer que hay
+tres maneras posibles de ordenar las
+plumas: ?V??, ??V? y ???V (V es la
+pluma que tiene la tapa de color verde).
+!******************************!
+[ef0b01000e000000:026c030000]
+Ahora recuerda que {''}cuando todas
+tengan su tapa correcta, cada una
+tendr{'a} solo una parte blanca{''}.
+La {'u}nica pluma que ahora no tiene
+ninguna parte blanca es {''}C{''},
+de manera que a ella le pertenece
+la tapa blanca.
+!******************************!
+[f00b01000f000000:0251040000]
+Gracias a las pistas 1 y 2 sabes que
+el orden de las tapas tiene que ser
+AVBA o AABV (A = Azul, V = Verde,
+B = Blanco).
+Llegados a este punto, la condici{'o}n
+restante te mostrar{'a} cu{'a}l es el orden
+correcto.
+!******************************!
+[f10b010010000000:0226050000]
+El orden AVBA no cumple la primera
+condici{'o}n porque entonces la
+pluma D tendr{'i}a la tapa del mismo
+color que ten{'i}a al principio.
+Por tanto, el orden correcto tiene que
+ser AABV. Ahora ya sabes la respuesta.
+!******************************!

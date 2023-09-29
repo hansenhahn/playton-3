@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n026
+!******************************!
+n026a
+!******************************!
+n026b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tres personas han jugado una partida
+a un juego de formar parejas de cartas,
+en el que hay que agrupar de memoria
+20 im{'a}genes en 10 pares.
+
+La persona A dice: {''}Consegu{'i} 10 pares
+seguidos desde el inicio del juego{''}.
+La persona B dice: {''}Consegu{'i} 9 pares
+seguidos desde el inicio del juego{''}.
+La persona C dice: {''}Consegu{'i} 8 pares
+seguidos desde el inicio del juego{''}.
+
+Una de estas personas est{'a} mintiendo.
+{^?}Cu{'a}l es?
+!******************************!
+[ec0b01000b000000:02d4010000]
+{^!}Muy inteligente!
+
+La afirmaci{'o}n de B es falsa. Si consigue
+9 pares seguidos desde el inicio del
+juego, autom{'a}ticamente deber{'i}a haber
+conseguido tambi{'e}n el {'u}ltimo par.
+!******************************!
+[ed0b01000c000000:028e020000]
+{^!}Qu{'e} pena!
+
+Reflexiona bien sobre el puzle...
+!******************************!
+[ee0b01000d000000:02c2020000]
+Solo un mentiroso puede afirmar
+algo que es imposible.
+!******************************!
+[ef0b01000e000000:02f9020000]
+Alguno de los tres afirma haber hecho
+algo que no podr{'i}a ocurrir nunca
+en este juego.
+!******************************!
+[f00b01000f000000:0252030000]
+Si de un total de 20 cartas 18 ya
+est{'a}n emparejadas y a la vista,
+{^?}cu{'a}ntas cartas quedan por ver?
+!******************************!
+[f10b010010000000:02bd030000]
+Si de un total de 10 pares se han
+conseguido 9, tambi{'e}n se deber{'i}a
+poder obtener el {'u}ltimo par, {^?}no?
+!******************************!

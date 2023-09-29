@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n203
+!******************************!
+n203a
+!******************************!
+n203b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}La semana pasada fui a esquiar y vi a
+toda una preciosidad... {^!}No pude evitar
+hacerle un retrato!{''}, dijo un hombre a
+su amigo. {''}{^!}Mira! {^?}Has visto qu{'e} cosa
+m{'a}s delicada?{''}
+
+El amigo se{-n}al{'o} al retrato y respondi{'o}:
+{''}Esto... Bueno, yo dir{'i}a que esa nariz
+no tiene nada de delicado. {^!}Pero es un
+dibujo muy bonito, desde luego!{''}
+
+{^?}A qu{'e} se refiere su amigo? Rod{'e}alo
+en el retrato y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02d6010000]
+{^!}Tiene narices la cosa!
+
+Seg{'u}n c{'o}mo lo interpretes, {^!}en el retrato
+se ve a una chica preciosa o a un se{-n}or
+bigotudo!
+
+Lo que para el amigo era una enorme nariz
+es realmente el flequillo de la chica.
+!******************************!
+[ed0b01000c000000:02ac020000]
+{^!}Qu{'e} l{'a}stima!
+
+El amigo est{'a} viendo en el retrato
+algo que no era lo que el dibujante
+pretend{'i}a reflejar.
+
+Cambia tu forma de mirar las cosas
+y trata de averiguar de qu{'e} est{'a}
+hablando.
+!******************************!
+[ee0b01000d000000:027a030000]
+Si el retrato estuviera coloreado no
+habr{'i}a confusi{'o}n posible.
+
+Busca en el retrato a un tipo de
+mediana edad con bigote. {^?}Lo ves?
+{^?}Y d{'o}nde tiene la nariz?
+!******************************!
+[ef0b01000e000000:0225040000]
+
+!******************************!
+[f00b01000f000000:0226040000]
+
+!******************************!
+[f10b010010000000:0227040000]
+
+!******************************!

@@ -1,0 +1,53 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a0000000200000000020b000000]
+ワルートン
+!******************************!
+<T>{^!}Brrr! Esto es como una nevera.<A1/5>
+No s{'e} para qu{'e} tenemos que montar
+guardia aqu{'i}.
+!******************************!
+[7117030004000000:000a00000002000000000270000000]
+ワルートン
+!******************************!
+<T>Lo {'u}nico que vamos a pillar va a
+ser un resfriado.
+!******************************!
+[7117030007000000:000a00000002a900000002b2000000]
+ワルミー
+!******************************!
+<T><A3/5>Pues estamos aqu{'i} porque la
+pifiamos bien.
+!******************************!
+[711703000a000000:000a00000002a900000002e9000000]
+ワルミー
+!******************************!
+<T>Este es nuestro castigo... Y la
+verdad es que hemos tenido suerte.
+!******************************!
+[711703000d000000:000a00000002a9000000022f010000]
+ワルミー
+!******************************!
+<T>Si Bostro te oye quej{'a}ndote, te
+va a hacer papilla.
+!******************************!
+[7117030010000000:000a00000002000000000269010000]
+ワルートン
+!******************************!
+<T><A4/0>Ya sab{'i}a yo que ten{'i}a que haber
+seguido estudiando. De este tipo de
+curro no puede salir nada bueno.
+!******************************!
+[7117030013000000:000a00000002a900000002dd010000]
+ワルミー
+!******************************!
+<T><A2/5>{^!}Silencio, pazguato!<W> Nos quedan
+diez horas por delante, as{'i} que
+vamos a pasarlas como podamos.
+!******************************!
+[7117030016000000:000a00000002a9000000024e020000]
+ワルミー
+!******************************!
+<T>Si de verdad quieres que no nos
+aburramos, deja de quejarte y
+cu{'e}ntame un chiste o algo.
+!******************************!

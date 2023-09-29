@@ -1,0 +1,74 @@
+[7017010000000000:000b000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T><A5/0>{^!}Layton!<W> {^?}Qu{'e}... es todo esto?
+{^?}Qu{'e} le ha pasado a Londres?
+!******************************!
+[7117030004000000:000a0000000262000000026b000000]
+レイトン
+!******************************!
+<T>A{'u}n estamos en Londres, inspector,
+solo que hemos viajado diez a{-n}os
+en el futuro.
+!******************************!
+[7117030007000000:000a000000020000000002c6000000]
+チェルミー
+!******************************!
+<T><A2/5>{^!}Pero si eso es imposible!<W> <A2/6>{^?}No?<W>
+<A2/1>O... {^?}acaso es posible, Layton?
+!******************************!
+[711703000a000000:000a0000000262000000022a010000]
+レイトン
+!******************************!
+<T><A4/2>Una cosa es segura. Ya no estamos
+en el Londres que conocemos.
+!******************************!
+[711703000d000000:000a00000002000000000272010000]
+チェルミー
+!******************************!
+<T><A3/2>Mmm. Bueno, ya habr{'a} tiempo de
+discutir cuando haya concluido
+mi investigaci{'o}n.
+!******************************!
+[7117030010000000:000a000000020000000002d1010000]
+チェルミー
+!******************************!
+<T><A3/1>Creo que usted dijo algo de que
+el primer ministro estaba atrapado
+en el futuro, {^?}no?
+!******************************!
+[7117030013000000:000a00000002620000000233020000]
+レイトン
+!******************************!
+<T>S{'i}.<W> No estoy del todo seguro, pero
+es una posibilidad.
+!******************************!
+[7117030016000000:000a00000002000000000273020000]
+チェルミー
+!******************************!
+<T>Muy bien, {^?}a qu{'e} esperamos
+entonces? <A5/0>{^!}En marcha, Barton!
+<A1/1>{^!}Vamos a buscar al primer ministro!
+!******************************!
+[7117030019000000:000a000000026200000002eb020000]
+レイトン
+!******************************!
+<T><A1/2>Si trabajamos juntos en este
+caso, quiz{'a}s tengamos m{'a}s
+probabilidades de encontrarlo.
+!******************************!
+[711703001c000000:000a00000002000000000250030000]
+チェルミー
+!******************************!
+<T>Creo que ya basta, Layton.
+Usted es solo un ciudadano m{'a}s.
+{^!}Deje trabajar a la polic{'i}a!
+!******************************!
+[711703001f000000:0014000000020000000002b4030000]
+チェルミー
+!******************************!
+<T>{^!}Este caso lo lleva el mejor agente
+de Scotland Yard! Su ayuda ya no
+es necesaria.
+!******************************!

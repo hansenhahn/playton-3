@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n027
+!******************************!
+n027a
+!******************************!
+n027b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} hay cuatro sellos numerados que
+debes usar para imprimir n{'u}meros en
+los recuadros que hay arriba de manera
+que completen la operaci{'o}n. En cada
+recuadro vac{'i}o solo puede ir un d{'i}gito,
+y hay que completar la operaci{'o}n con
+el menor n{'u}mero de sellos posible.
+
+Selecciona los sellos que necesitas
+y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:0265010000]
+{^!}Eso es!
+
+Los sellos que hay que usar son el 3
+y el 5.
+
+Con 1 + 7 = 8 la operaci{'o}n se cumple,
+pero si la resuelves como 3 + 5 = 8
+solo necesitas dos sellos.
+!******************************!
+[ed0b01000c000000:0208020000]
+L{'a}stima...
+
+Si tu operaci{'o}n no es correcta, intenta
+enfocarla desde otro {'a}ngulo.
+!******************************!
+[ee0b01000d000000:0262020000]
+Piensa en todas las maneras de
+sumar los cuatro n{'u}meros para que
+el resultado tenga un solo d{'i}gito.
+
+Las combinaciones no son tantas,
+as{'i} que no deber{'i}as tardar mucho
+en dar con la respuesta.
+!******************************!
+[ef0b01000e000000:022e030000]
+No hay ninguna combinaci{'o}n de n{'u}meros
+que, sumados, den como resultado 1, 3,
+5 o 7.
+
+En situaciones como esta hay que probar
+enfoques diferentes. F{'i}jate en la forma
+que tienen los n{'u}meros de los sellos.
+!******************************!
+[f00b01000f000000:0205040000]
+Recuerda que est{'a}s usando sellos.
+Ah{'i} est{'a} la clave.
+
+Hay un sello que puedes imprimir en una
+de las casillas vac{'i}as y luego lo puedes
+girar y volver a imprimir en la misma
+casilla. As{'i} obtendr{'a}s un n{'u}mero nuevo.
+!******************************!
+[f10b010010000000:02ef040000]
+Puedes crear un nuevo n{'u}mero si usas
+dos veces el sello 3. Pon este nuevo
+n{'u}mero en el lado derecho de la
+igualdad y no olvides usar el menor
+n{'u}mero de sellos posible para
+resolverla.
+!******************************!

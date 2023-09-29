@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n083
+!******************************!
+n083a
+!******************************!
+n083b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ve desde la salida hasta la meta
+movi{'e}ndote a una casilla adyacente
+cada vez. {^?}Y d{'o}nde est{'a} la dificultad?
+
+Solo podr{'a}s pasar a una casilla cuyo
+n{'u}mero sea una unidad mayor o menor
+que el n{'u}mero de la casilla en la
+que te encuentras. Si llegas a la
+meta siguiendo esta regla, se abrir{'a}
+la puerta. Cada n{'u}mero que toques se
+iluminar{'a}. Antes de dar tu respuesta,
+aseg{'u}rate de que todas las casillas
+que llevan a la meta est{'e}n iluminadas.
+!******************************!
+[ec0b01000b000000:02e9010000]
+{^!}Perfecto!
+
+{^!}Has encontrado el camino correcto!
+!******************************!
+[ed0b01000c000000:021f020000]
+{^!}Qu{'e} pena!
+
+Recuerda, solo puedes moverte a un
+n{'u}mero que difiera en una unidad del
+n{'u}mero en el que te encuentras.
+
+Ten en cuenta esta sencilla regla y
+vuelve a intentarlo.
+!******************************!
+[ee0b01000d000000:02d9020000]
+Al principio se presentan varios
+recorridos posibles, pero solo uno
+es correcto. Calcula bien tus pasos.
+!******************************!
+[ef0b01000e000000:0242030000]
+No sigas caminos que te lleven a n{'u}meros
+demasiado grandes. Si llegas a 7, es que
+has cometido alg{'u}n error. Si llegas a 6,
+tu pr{'o}ximo movimiento deber{'i}a llevarte
+a un 5.
+
+{^?}Puedes encontrar ahora el camino?
+
+!******************************!
+[f00b01000f000000:0220040000]
+Si no sabes c{'o}mo seguir, intenta ir
+desde la casilla roja de meta hasta
+la casilla verde de salida.
+En ese sentido inverso solo hay
+una casilla por donde empezar.
+!******************************!
+[f10b010010000000:02c6040000]
+El camino correcto es el siguiente:
+
+1, 2, 3, 4, 3, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1.
+!******************************!

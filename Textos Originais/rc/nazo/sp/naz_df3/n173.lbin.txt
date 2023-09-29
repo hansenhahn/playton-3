@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n173
+!******************************!
+n173a
+!******************************!
+n173b
+!******************************!
+[eb0b01000a000000:0211000000]
+Un granjero ha exigido al posible
+comprador de su granja que le compre
+tambi{'e}n todas las vacas y gallinas que
+viven en ella. Si no, {^!}no habr{'a} trato!
+
+{''}Hay 30 animales en mi rancho.{''}
+
+{''}Pero {^?}cu{'a}ntos hay de cada especie?{''}
+
+{''}Hay 100 patas en total. Menuda ganga,
+{^?}a que s{'i}? {^?}Trato hecho?{''}
+
+Todos los animales est{'a}n sanos y no les
+falta ninguna pata. {^?}Cu{'a}ntas vacas hay?
+!******************************!
+[ec0b01000b000000:02b3010000]
+{^!}Justamente!
+
+En la granja hay 20 vacas.
+
+Las 20 vacas, con cuatro patas cada
+una, suman 80 patas. Luego hay 10
+gallinas con 2 patas cada una, que
+suman 20 patas. En total, {^!}son 30
+animales con 100 patas!
+!******************************!
+[ed0b01000c000000:0286020000]
+{^!}L{'a}stima!
+
+{^!}No te hagas un l{'i}o o el granjero
+no cobrar{'a} lo que le corresponde!
+!******************************!
+[ee0b01000d000000:02e4020000]
+Sabes que hay 100 patas en total, as{'i}
+que parte de esa cifra. Intenta probar
+distintas combinaciones de n{'u}meros para
+ver qu{'e} resultados obtienes.
+
+Digamos que hay 15 vacas y 15 gallinas.
+Las vacas sumar{'i}an 15 x 4 patas y las
+gallinas sumar{'i}an 15 x 2 patas. As{'i}
+tendr{'i}as 30 animales y 90 patas. Cerca,
+pero no lo suficiente. Desde ah{'i}, {^?}crees
+que podr{'a}s encontrar la respuesta?
+!******************************!
+[ef0b01000e000000:027b040000]
+
+!******************************!
+[f00b01000f000000:027c040000]
+
+!******************************!
+[f10b010010000000:027d040000]
+
+!******************************!

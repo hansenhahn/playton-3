@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n186
+!******************************!
+n186a
+!******************************!
+n186b
+!******************************!
+[eb0b01000a000000:0211000000]
+Observa los seis huecos del dibujo. Bajo
+el hueco situado m{'a}s a la izquierda hay
+un tesoro escondido.
+
+Coloca los seis paneles que representan
+caras de dados en los huecos de manera
+que todo el mundo pueda ver la ubicaci{'o}n
+del tesoro.
+!******************************!
+[ec0b01000b000000:0202010000]
+{^!}Enhorabuena, pirata!
+
+Al girar y colocar los paneles
+correctamente, estos forman una
+flecha que se{-n}ala a un punto rojo
+situado sobre el tesoro. {^!}Es una
+indicaci{'o}n inequ{'i}voca para buscar ah{'i}!
+
+{^?}Y en qu{'e} consistir{'a} el tesoro?
+!******************************!
+[ed0b01000c000000:02fe010000]
+{^!}Qu{'e} l{'a}stima!
+
+Piensa de qu{'e} forma se podr{'i}a indicar
+d{'o}nde est{'a} el tesoro...
+!******************************!
+[ee0b01000d000000:0260020000]
+Coloca el panel m{'a}s vistoso sobre la
+posici{'o}n del tesoro, que est{'a} bajo
+el hueco situado m{'a}s a la izquierda.
+Luego crea una flecha con las caras
+restantes.
+
+
+!******************************!
+[ef0b01000e000000:020a030000]
+
+!******************************!
+[f00b01000f000000:020b030000]
+
+!******************************!
+[f10b010010000000:020c030000]
+
+!******************************!

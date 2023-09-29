@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n113
+!******************************!
+n113a
+!******************************!
+n113b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esta vieja tapia de ladrillos ha sido
+decorada con un dise{-n}o muy inusual.
+Como ves abajo, sobre un fondo blanco
+han pintado cinco formas distintas.
+Con solo ver la imagen tendr{'i}as que
+saber cu{'a}l es el color de pintura que
+m{'a}s se ha usado a la hora de decorar
+la tapia.
+
+Toca el bote de pintura correcto.
+!******************************!
+[ec0b01000b000000:024d010000]
+{^!}Efectivamente!
+
+El color blanco es el m{'a}s usado.
+
+Es evidente que para pintar ese
+fondo blanco se ha usado m{'a}s
+pintura que para las cinco formas.
+!******************************!
+[ed0b01000c000000:02e9010000]
+{^!}Qu{'e} l{'a}stima!
+
+Imagina que fueras a pintar t{'u} la tapia.
+Ponte en situaci{'o}n, a ver si deduces la
+respuesta.
+!******************************!
+[ee0b01000d000000:0263020000]
+Podr{'i}as ponerte a contar los ladrillos
+que ocupa cada forma, pero... {^?}para
+qu{'e} molestarse? Hay una forma m{'a}s
+sencilla de ver la respuesta.
+!******************************!
+[ef0b01000e000000:02fa020000]
+{^!}No pierdas el tiempo contando
+ladrillos!
+
+Aunque lo hagas, puede que se
+te haya escapado un detalle
+muy importante para obtener
+la respuesta. Est{'a} ah{'i} a la vista...
+!******************************!
+[f00b01000f000000:02a9030000]
+Los colores usados en la tapia son:
+rojo, amarillo, verde, negro y azul.
+
+{^?}O falta alguno?
+!******************************!
+[f10b010010000000:0207040000]
+Si han pintado sobre un fondo
+totalmente cubierto de un color,
+da igual lo grandes que sean
+las formas: nunca ocupar{'a}n m{'a}s
+que el fondo.
+!******************************!

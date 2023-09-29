@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n064
+!******************************!
+n064a
+!******************************!
+n064b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esta foto de llegada de una carrera
+muestra en qu{'e} orden han llegado los
+corredores. El problema es que la han
+cortado en varias tiras que, adem{'a}s,
+han sido mezcladas.
+
+{^?}Qu{'e} corredor ha llegado en tercer lugar?
+Rodea con un c{'i}rculo tu respuesta.
+!******************************!
+[ec0b01000b000000:0216010000]
+{^!}Bien visto!
+
+El corredor F ha llegado en tercer lugar.
+Por una nariz de ventaja...
+!******************************!
+[ed0b01000c000000:026d010000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:0296010000]
+Si te fijas bien y descubres c{'o}mo
+encajan las tiras, ya casi lo tendr{'a}s.
+Para orientarte mejor, presta atenci{'o}n
+a detalles que sean f{'a}ciles de
+identificar, tales como los p{'a}jaros
+o alguna persona de aspecto peculiar.
+!******************************!
+[ef0b01000e000000:027e020000]
+Por ejemplo, la cabeza del p{'a}jaro blanco
+cerca de J tiene que ir con el cuello
+del p{'a}jaro, as{'i} que esta tira va delante
+(es decir, a la izquierda) de la tira que
+contiene a D.
+!******************************!
+[f00b01000f000000:0237030000]
+La cara de A aparece encima de D.
+Dicho de otro modo, la tira donde est{'a} A
+va a la derecha de la tira donde est{'a} D.
+
+F{'i}jate en el cuerpo del p{'a}jaro blanco
+que est{'a} cerca del corredor I.
+{^?}Puedes encontrar su cabeza?
+!******************************!
+[f10b010010000000:0220040000]
+La cabeza del p{'a}jaro blanco mencionado
+en la pista 3 no aparece en ning{'u}n lugar
+de la foto.
+
+De izquierda a derecha, las tiras van
+en este orden: la tira que contiene
+a H, la que contiene a F, la de J,
+la de D y la de A.
+
+Busca ahora al corredor que lleg{'o}
+en tercer lugar.
+!******************************!

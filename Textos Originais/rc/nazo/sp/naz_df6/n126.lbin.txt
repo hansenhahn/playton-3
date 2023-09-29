@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000880400000088040000000100000000010000000000000000]
+n126
+!******************************!
+n126a
+!******************************!
+n126b
+!******************************!
+[eb0b01000a000000:0211000000]
+En este solar hay colocadas unas
+estacas que forman una cuadr{'i}cula.
+Tu tarea consiste en extender unas
+cuerdas entre las estacas para dividir
+todo el solar de modo que una familia
+de cuatro personas pueda tener cuatro
+habitaciones de id{'e}ntica forma.
+
+Usa una sola cuerda para formar una
+l{'i}nea recta que atraviese varias
+estacas. Debes completar el puzle
+con cinco cuerdas o menos.
+!******************************!
+[ec0b01000b000000:0297010000]
+{^!}Bien hecho!
+
+Ya ves que las cuatro tienen la misma
+forma. {^?}Has tardado mucho en darte
+cuenta de que las habitaciones no
+ten{'i}an que ser del mismo tama{-n}o?
+!******************************!
+[ed0b01000c000000:023d020000]
+{^!}No es as{'i}!
+
+Si has dibujado habitaciones con la misma
+forma, quiz{'a} sean las proporciones o los
+{'a}ngulos lo que no est{'a} del todo bien...
+!******************************!
+[ee0b01000d000000:02d4020000]
+El solar tiene la forma de un cuadrado
+con dos esquinas recortadas. Ten en
+cuenta esto y piensa qu{'e} tipo de formas
+resultar{'a}n al dividirlo en cuatro.
+!******************************!
+[ef0b01000e000000:0270030000]
+Resolver{'a}s el puzle con cuatro
+habitaciones que tengan la misma
+forma. {^!}Pero no necesariamente
+el mismo tama{-n}o!
+
+{^?}Quiz{'a}s has hecho cuatro trapezoides
+y te preguntas por qu{'e} no sirven?
+Recuerda que para poder decir que
+tienen la misma forma, la proporci{'o}n
+de todas las habitaciones debe ser
+equivalente.
+!******************************!
+[f00b01000f000000:02b4040000]
+La respuesta correcta requiere dos
+habitaciones grandes del mismo tama{-n}o
+y dos habitaciones peque{-n}as del mismo
+tama{-n}o. Son formas equivalentes en
+t{'e}rminos de proporci{'o}n.
+!******************************!
+[f10b010010000000:026d050000]
+Imag{'i}nate la silueta de un diamante.
+Todas las habitaciones tienen esa forma.
+
+Imagina que la esquina superior derecha
+no estuviera recortada y que en ella
+hubiera una estaca. Desde esa estaca
+imaginaria, mu{'e}vete dos estacas a la
+izquierda y extiende una cuerda dos
+estacas hacia abajo. Desde ese punto,
+extiende otra cuerda hacia la derecha
+cerrando lo que ser{'i}a un cuadrado de
+2x2 si no faltase la esquina. {^?}Lo ves?
+!******************************!

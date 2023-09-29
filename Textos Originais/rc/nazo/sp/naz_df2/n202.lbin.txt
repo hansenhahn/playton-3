@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n202
+!******************************!
+n202a
+!******************************!
+n202b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes ocho joyas de cuatro tipos
+distintos. Est{'a}n colocadas de dos en dos
+en cajas. Te gustar{'i}a averiguar cu{'a}l de
+estos dos tipos de joya pesa m{'a}s: {#D} o {#A}.
+
+{^?}Cu{'a}l es el menor n{'u}mero de veces que
+tendr{'a}s que usar la balanza? Para pesar
+las cajas, arr{'a}stralas a la balanza y
+toca el bot{'o}n del centro. Cuando sepas
+cu{'a}l es la respuesta, toca <CR>Soluci{'o}n</C>
+para escribirla.
+!******************************!
+[ec0b01000b000000:02b0010000]
+{^!}En efecto!
+
+Solo una vez.
+Compara los dos emparejamientos {#B}{#A} + {#A}{#C}
+con {#D}{#D} + {#C}{#B}.
+Dado que ambos lados tienen {#C} y {#B}
+en com{'u}n, se cancelan entre s{'i}, as{'i}
+que es lo mismo que comparar los dos
+pares de {#D} y {#A}.
+!******************************!
+[ed0b01000c000000:02ab020000]
+{^!}L{'a}stima!
+
+No des demasiadas cosas por sentadas...
+!******************************!
+[ee0b01000d000000:02e4020000]
+Mira atentamente el contenido de cada
+par de joyas. {^?}Ves algo en com{'u}n?
+Cuando te des cuenta, sabr{'a}s lo
+que debes comparar.
+
+Puedes colocar al mismo tiempo hasta dos
+cajas en cada lado de la balanza.
+!******************************!
+[ef0b01000e000000:02b5030000]
+
+!******************************!
+[f00b01000f000000:02b6030000]
+
+!******************************!
+[f10b010010000000:02b7030000]
+
+!******************************!

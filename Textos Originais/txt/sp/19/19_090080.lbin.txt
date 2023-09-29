@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton y Luke vuelven a su
+{'e}poca para adquirir una mejor
+perspectiva del caso.
+!******************************!
+[7117030004000000:000a00000002000000000262000000]
+ナレーション
+!******************************!
+<T>Deciden buscar a Chelmey, que
+tambi{'e}n asisti{'o} a la demostraci{'o}n
+de la m{'a}quina del tiempo.
+!******************************!
+[7117030007000000:0014000000020000000002cb000000]
+ナレーション
+!******************************!
+<T>As{'i}, se dirigen a Scotland Yard con
+la esperanza de que el inspector
+pueda ayudarles con el misterio.
+!******************************!

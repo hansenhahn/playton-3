@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Profesor, {^?}no quiere pasar un
+momento por el restaurante que
+nos ha recomendado Becky?
+!******************************!
+[7117030004000000:000a0000000264000000026d000000]
+レイトン
+!******************************!
+<T>Ah, s{'i}, lo hab{'i}a olvidado por
+completo. Vayamos a tomar algo
+antes de ir a la estaci{'o}n.
+!******************************!

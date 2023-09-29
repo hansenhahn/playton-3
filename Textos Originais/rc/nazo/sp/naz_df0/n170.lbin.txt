@@ -1,0 +1,44 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n170
+!******************************!
+n170a
+!******************************!
+n170b
+!******************************!
+[eb0b01000a000000:0211000000]
+Observa el dibujo de abajo. En un reloj
+anal{'o}gico, {^?}a qu{'e} hora, A, B o C, formar{'a}n
+las manecillas el mayor {'a}ngulo?
+!******************************!
+[ec0b01000b000000:0293000000]
+{^!}En efecto!
+
+La respuesta correcta es 2:20.
+
+El {'a}ngulo exterior formado por las
+manecillas es mayor que el {'a}ngulo interior
+en cada una de las tres horas. Tal
+como se muestra arriba, la hora con
+el mayor {'a}ngulo exterior es las 2:20.
+!******************************!
+[ed0b01000c000000:0287010000]
+{^!}Qu{'e} pena!
+
+La respuesta tiene truco, y no es tan
+sencilla como puede parecer a primera
+vista.
+!******************************!
+[ee0b01000d000000:02ec010000]
+{^?}Te has dado cuenta de que cada hora
+forma dos {'a}ngulos distintos? Hay uno
+interior y otro exterior.
+!******************************!
+[ef0b01000e000000:0256020000]
+
+!******************************!
+[f00b01000f000000:0257020000]
+
+!******************************!
+[f10b010010000000:0258020000]
+
+!******************************!

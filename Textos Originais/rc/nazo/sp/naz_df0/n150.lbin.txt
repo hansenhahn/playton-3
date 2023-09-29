@@ -1,0 +1,84 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n150
+!******************************!
+n150a
+!******************************!
+n150b
+!******************************!
+[eb0b01000a000000:0211000000]
+Una charla entre hermanas:
+
+{''}Hace un a{-n}o, mi edad era exactamente
+la mitad que la tuya{''}, dice la hermana
+menor. La hermana mayor a{-n}ade:
+{''}Pues dentro de un a{-n}o tu edad tambi{'e}n
+ser{'a} la mitad que la m{'i}a... F{'i}jate, si
+dividimos los n{'u}meros en dos partes,
+arriba y abajo, cada una nos da la edad
+que tendr{'a}s el a{-n}o que viene{''}.
+{''}{^!}Caramba, es verdad!{''}
+
+{^?}Cu{'a}ntos a{-n}os tiene la hermana menor
+en este momento?
+!******************************!
+[ec0b01000b000000:02dd010000]
+{^!}As{'i} es!
+
+La hermana menor tiene 9 a{-n}os y
+la hermana mayor tiene 17.
+Hace un a{-n}o la hermana mayor ten{'i}a
+16 a{-n}os y la menor ten{'i}a 8, la mitad
+de edad que su hermana. Dentro de un
+a{-n}o la hermana mayor tendr{'a} 18 a{-n}os
+y la hermana menor tendr{'a} diez. Si
+partimos 18 con una l{'i}nea horizontal
+tendremos el n{'u}mero 10 dos veces.
+!******************************!
+[ed0b01000c000000:0244030000]
+{^!}Qu{'e} l{'a}stima!
+
+No le des demasiadas vueltas. Intenta
+enfocarlo desde otro punto de vista.
+!******************************!
+[ee0b01000d000000:02a7030000]
+No te preocupes de la edad que ten{'i}an
+las hermanas hace un a{-n}o. Lo importante
+es saber la edad que tendr{'a}n dentro
+de un a{-n}o. {^?}Qu{'e} quiere decir lo de
+{''}dividimos los n{'u}meros en dos partes{''}?
+!******************************!
+[ef0b01000e000000:027e040000]
+{^?}Sabes ya lo que significa {''}dividimos
+los n{'u}meros en dos partes, arriba y
+abajo{''}? Porque es algo bastante
+literal. Piensa en los n{'u}meros del
+0 al 9. De ellos, los {'u}nicos que
+conservan un sentido num{'e}rico al
+partirlos en dos con una l{'i}nea
+son 1 y 8.
+!******************************!
+[f00b01000f000000:028f050000]
+Si la hermana mayor tuviera 1 a{-n}o
+el a{-n}o que viene, la hermana menor
+tambi{'e}n tendr{'i}a 1 a{-n}o, as{'i} que eso
+claramente no es correcto.
+Si la hermana mayor tuviera 8 a{-n}os
+el a{-n}o que viene, la hermana menor
+tendr{'i}a 0 a{-n}os, y eso tampoco es
+correcto. Si te fijas, tampoco ser{'a}
+correcto que la hermana mayor tenga
+81 a{-n}os, ni 88.
+!******************************!
+[f10b010010000000:02f5060000]
+Tras descartar todas las opciones
+presentadas en la pista 3, vemos
+que la hermana mayor tendr{'a} 11 o 18
+a{-n}os el a{-n}o que viene. Si dividimos
+11 en dos partes, arriba y abajo,
+tendremos una repetici{'o}n de 11, lo
+cual no cumple las condiciones. La
+{'u}nica posibilidad que queda es que
+la hermana mayor tenga 18 a{-n}os el a{-n}o
+que viene. Solo te queda calcular las
+edades actuales de ambas hermanas.
+!******************************!

@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n157
+!******************************!
+n157a
+!******************************!
+n157b
+!******************************!
+[eb0b01000a000000:0211000000]
+Has encontrado un peque{-n}o c{'i}rculo de
+tierra que te gustar{'i}a dividir en tantas
+eras como te sea posible.
+
+Tienes cinco cuerdas. Debes tender cada
+cuerda en l{'i}nea recta cruzando el c{'i}rculo,
+aunque las cuerdas pueden cruzarse
+tantas veces como quieras.
+
+Con solo esas cinco cuerdas, {^?}cu{'a}l es el
+n{'u}mero m{'a}ximo de secciones en que puedes
+dividir el c{'i}rculo de tierra?
+!******************************!
+[ec0b01000b000000:029a010000]
+{^!}Excelente!
+
+{^!}Puedes dividir el c{'i}rculo de tierra
+en 16 secciones distintas!
+
+La primera cuerda dividir{'a} el c{'i}rculo
+en dos secciones. La segunda lo
+har{'a} en cuatro. La tercera cruza las
+dos primeras y divide el huerto en
+siete secciones. Tras usar las cinco
+cuerdas as{'i}, {^!}tendr{'a}s 16 secciones!
+
+Como puedes ver arriba, se forma una
+estrella.
+!******************************!
+[ed0b01000c000000:020a030000]
+{^!}As{'i} no es!
+
+Las secciones pueden ser de tama{-n}os
+diferentes. Lo importante es dividir
+el terreno en el m{'a}ximo n{'u}mero de
+espacios.
+!******************************!
+[ee0b01000d000000:029b030000]
+Si no pudieras cruzarlas, las cinco
+cuerdas crear{'i}an solo seis secciones.
+
+Pero como puedes cruzar las cuerdas,
+puedes crear muchas m{'a}s secciones.
+!******************************!
+[ef0b01000e000000:0234040000]
+Si extiendes dos cuerdas de manera que
+se crucen en el centro del terreno,
+dividir{'a}s la huerta en cuatro secciones
+distintas. {^!}Y eso solo con dos
+de las cinco cuerdas!
+!******************************!
+[f00b01000f000000:02e2040000]
+Con las cinco cuerdas puedes dividir
+el terreno en m{'a}s de 10 secciones
+distintas.
+!******************************!
+[f10b010010000000:0237050000]
+Usa la funci{'o}n de las notas para
+dibujar una estrella en el centro del
+c{'i}rculo usando cinco l{'i}neas rectas.
+Comprueba que las puntas de la
+estrella est{'e}n dentro del c{'i}rculo y
+extiende las l{'i}neas hasta el exterior
+para crear m{'a}s sectores dentro del
+c{'i}rculo.
+
+Ahora cuenta las secciones. {^?}Cu{'a}ntas
+te salen?
+!******************************!

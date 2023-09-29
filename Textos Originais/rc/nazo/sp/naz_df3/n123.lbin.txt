@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n123
+!******************************!
+n123a
+!******************************!
+n123b
+!******************************!
+[eb0b01000a000000:0211000000]
+Por suerte apresaron a los ladrones del
+banco antes de que pudieran ejecutar
+el plan de su jefe para ocultar el bot{'i}n:
+
+{''}Los diez lingotes de oro encajar{'a}n
+perfectamente en el hueco de esa pared.
+Escondedlos ah{'i} hasta que la polic{'i}a deje
+de buscar. Ah, y otra cosa: no pong{'a}is
+ning{'u}n lingote sobre otro que sea m{'a}s
+peque{-n}o. {^?}Entendido? Pues arreando...{''}
+
+{^!}Rellena el hueco de la pared con
+los lingotes siguiendo estas {'o}rdenes
+para ver si el plan habr{'i}a funcionado!
+!******************************!
+[ec0b01000b000000:020c020000]
+{^!}Vales tu peso en oro!
+
+{^!}Qu{'e} forma tan brillante de ocultar
+el bot{'i}n! Ese jefe es un tipo listo.
+!******************************!
+[ed0b01000c000000:0279020000]
+{^!}As{'i} no es!
+
+{^?}Seguro que no hay alg{'u}n lingote
+apilado sobre otro m{'a}s peque{-n}o?
+!******************************!
+[ee0b01000d000000:02d9020000]
+Puedes colocar lingotes del mismo
+tama{-n}o uno sobre otro sin problemas.
+!******************************!
+[ef0b01000e000000:0223030000]
+El lingote de oro m{'a}s grande va debajo
+del todo y tocando la pared derecha.
+!******************************!
+[f00b01000f000000:0272030000]
+Tres de los lingotes m{'a}s peque{-n}os van
+juntos uno al lado del otro en la
+fila superior.
+!******************************!
+[f10b010010000000:02cf030000]
+{^?}Ves los ladrillos que forman la base
+del hueco de la esquina superior
+izquierda? Coloca encima una sola
+barra de oro que tenga la misma
+longitud que esos dos ladrillos.
+
+El resto ya est{'a} pr{'a}cticamente hecho.
+!******************************!

@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n151
+!******************************!
+n151a
+!******************************!
+n151b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} tienes dos marcadores formados por
+peque{-n}os paneles. Cada vez que tocas un
+panel, este cambia de color. Ambos
+marcadores muestran en este momento
+{''}58{''}, pero con solo tocar un panel en
+cada uno, Layton y Luke pueden crear
+dos nuevos n{'u}meros cuya diferencia sea
+de 39.
+
+Intenta averiguar qu{'e} paneles tienen que
+tocar y qu{'e} n{'u}meros obtendr{'a}n. Da como
+respuesta dos n{'u}meros de dos d{'i}gitos.
+!******************************!
+[ec0b01000b000000:02b9010000]
+{^!}Bien hecho!
+
+Un marcador mostrar{'a} 98 y el otro 59.
+!******************************!
+[ed0b01000c000000:02f3010000]
+{^!}Mala suerte!
+
+{^?}Qu{'e} n{'u}meros puedes obtener tocando los
+paneles?
+!******************************!
+[ee0b01000d000000:023f020000]
+Utilizando los n{'u}meros originales, {^?}qu{'e}
+paneles puedes invertir para crear
+nuevos n{'u}meros?
+
+Piensa en lo que puedes hacer
+individualmente con el 5 y el 8.
+!******************************!
+[ef0b01000e000000:02e6020000]
+El 5 puede convertirse en un 6
+o en un 9.
+!******************************!
+[f00b01000f000000:0210030000]
+El 8 puede convertirse en un 0, un 6
+o un 9. Lo que debes hacer entonces
+es restar todos los posibles n{'u}meros
+de un marcador con los posibles
+n{'u}meros del otro.
+!******************************!
+[f10b010010000000:02b6030000]
+Uno de los marcadores deber{'i}a
+mostrar 50, 56 o 59.
+
+Ahora solo es cuesti{'o}n de hacer
+un simple c{'a}lculo.
+!******************************!

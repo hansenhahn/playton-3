@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000600000000f203000000f2030000000100000000010000000001000000]
+n018
+!******************************!
+n018a
+!******************************!
+n018b
+!******************************!
+[eb0b01000a000000:0211000000]
+El Dr. Schrader tiene que beber a diario
+1/5 del contenido total de esta botella.
+Como la botella no tiene marcas para medir
+las dosis, no se puede saber exactamente
+hasta d{'o}nde tiene que beber cada d{'i}a.
+Hoy le toca su segunda dosis. En el
+dibujo se ve la forma de la botella
+y su contenido.
+
+{^?}Hasta d{'o}nde tendr{'i}a que beber hoy?
+Traza una l{'i}nea en la botella para
+se{-n}alar d{'o}nde debe dejar de beber.
+!******************************!
+[ec0b01000b000000:02b8010000]
+{^!}Correcto!
+
+La soluci{'o}n es v{'a}lida tanto si giras la
+botella hacia la izquierda como hacia la
+derecha. En el dibujo puedes ver que la
+l{'i}nea diagonal divide en dos el rect{'a}ngulo
+formado por dos cuadrados. Como este
+rect{'a}ngulo representa 2/5 del total,
+{^!}al dividirlo entre dos obtenemos
+la dosis justa para un d{'i}a!
+!******************************!
+[ed0b01000c000000:0208030000]
+{^!}Qu{'e} l{'a}stima!
+
+Observa otra vez la forma de la botella
+y calcula cu{'a}l ser{'a} la dosis correcta
+para el Dr. Schrader.
+!******************************!
+[ee0b01000d000000:028a030000]
+Como puedes ver, la imagen del fondo
+de la botella facilita la obtenci{'o}n de
+cinco dosis iguales. Si cada cuadrado
+es una dosis, el primer d{'i}a habr{'a} que
+beber un cuadrado y el segundo d{'i}a
+un cuadrado m{'a}s.
+!******************************!
+[ef0b01000e000000:0265040000]
+Independientemente de c{'o}mo inclines
+la botella, no podr{'a}s conseguir una
+dosis que {''}coincida{''} justo con un
+cuadrado; piensa en otro modo de
+dividir el contenido. Por ejemplo,
+observa como dos cuadrados juntos
+forman un rect{'a}ngulo. Si dibujas
+una l{'i}nea diagonal que atraviese
+el rect{'a}ngulo por la mitad, los
+tri{'a}ngulos resultantes contendr{'a}n
+una dosis equivalente a la de uno
+de los cuadrados originales.
+!******************************!
+[f00b01000f000000:0213060000]
+Intenta ver los posibles rect{'a}ngulos
+mencionados en la pista 2.
+Partiendo del cuadrado central,
+podr{'i}as formar dos rect{'a}ngulos, seg{'u}n
+le agregues el cuadrado de la izquierda
+o el de la derecha.
+!******************************!
+[f10b010010000000:02e1060000]
+Tienes que trazar una l{'i}nea que divida
+alguno de los dos rect{'a}ngulos
+mencionados en la pista 3.
+
+Piensa en el {'a}ngulo de esta l{'i}nea.
+!******************************!

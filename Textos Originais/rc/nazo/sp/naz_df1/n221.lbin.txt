@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n221
+!******************************!
+n221a
+!******************************!
+n221b
+!******************************!
+[eb0b01000a000000:0211000000]
+Lleva la bola naranja hasta el cuadrado
+marcado por la flecha roja en la parte
+de arriba.
+
+Parece complicad{'i}simo, {^!}pero puede
+hacerse! {^!}Int{'e}ntalo!
+!******************************!
+[ec0b01000b000000:02b0000000]
+{^!}Incre{'i}ble!
+
+Encontrar el {'u}ltimo movimiento que
+permite llevar la bola naranja al
+cuadrado de arriba te deja muy buen
+sabor de boca, {^?}a que s{'i}?
+!******************************!
+[ed0b01000c000000:024f010000]
+{^!}Qu{'e} l{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:027e010000]
+Los bloques dejan muy poco espacio
+para maniobrar, pero utiliza los
+huecos con que cuentas y ver{'a}s
+que es posible abrirse paso.
+
+Intenta subir la bola naranja por
+los peque{-n}os huecos que hay en
+la parte derecha.
+!******************************!
+[ef0b01000e000000:0258020000]
+
+!******************************!
+[f00b01000f000000:0259020000]
+
+!******************************!
+[f10b010010000000:025a020000]
+
+!******************************!

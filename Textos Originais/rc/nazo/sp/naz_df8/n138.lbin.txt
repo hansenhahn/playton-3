@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n138
+!******************************!
+n138a
+!******************************!
+n138b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este tabl{'o}n se puede cortar de una
+determinada forma para obtener dos
+piezas id{'e}nticas con forma de n{'u}mero
+utilizando todo el tabl{'o}n.
+
+{^?}Por d{'o}nde habr{'a} que cortar el tabl{'o}n
+para conseguirlo? Solo puedes cortar
+por las l{'i}neas de puntos.
+!******************************!
+[ec0b01000b000000:0218010000]
+{^!}As{'i}, no te cortes!
+
+Puedes crear dos piezas con forma de 4.
+Una manera de conseguir esto es cortar
+el tabl{'o}n como se ve en la imagen.
+!******************************!
+[ed0b01000c000000:02a8010000]
+{^!}Qu{'e} pena!
+
+De este tabl{'o}n se podr{'i}an sacar un
+mont{'o}n de formas, pero lo {'u}nico que
+te interesa es un n{'u}mero repetido.
+!******************************!
+[ee0b01000d000000:0233020000]
+Si no fuera por esos dos salientes,
+podr{'i}as conseguir un 1 bien gordo
+dos veces... pero esa no es la
+respuesta.
+!******************************!
+[ef0b01000e000000:02a6020000]
+El n{'u}mero que buscas no es un 2
+ni tampoco un 5.
+
+El problema es deducir qu{'e} parte
+del n{'u}mero representan esos dos
+salientes.
+!******************************!
+[f00b01000f000000:022d030000]
+El n{'u}mero tampoco es un 6 ni un 9.
+Necesitar{'i}as muchos m{'a}s cuadraditos
+para cortar esos n{'u}meros dos veces,
+debido a que tienen un agujero.
+!******************************!
+[f10b010010000000:02c4030000]
+Uno de los dos n{'u}meros repetidos
+estar{'a} boca abajo y encajado en el
+otro. Pi{'e}nsalo un instante y ver{'a}s
+como tambi{'e}n puedes descartar el 3.
+!******************************!

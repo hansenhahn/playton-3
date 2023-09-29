@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Una carta del futuro Luke indica
+a Layton y a Luke que vayan a la
+relojer{'i}a de Midland Road.
+!******************************!
+[7117030004000000:001400000002000000000270000000]
+ナレーション
+!******************************!
+<T>Por el camino hablan de la
+demostraci{'o}n de la m{'a}quina del
+tiempo de la semana anterior.
+!******************************!

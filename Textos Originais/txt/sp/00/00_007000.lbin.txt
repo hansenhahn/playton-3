@@ -1,0 +1,59 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a0000000200000000020b000000]
+OPルーク３
+!******************************!
+<V0010><T>Entonces, cree que lo que ocurri{'o}
+la semana pasada tiene algo que
+ver con esta carta.</V>
+!******************************!
+[7117030004000000:000a00000002000000000272000000]
+OPルーク３
+!******************************!
+<V0020><T>Ah, pues si la m{'a}quina del tiempo
+era real, {^!}quiz{'a}s esta carta
+tambi{'e}n lo sea!</V>
+!******************************!
+[7117030007000000:000f00000002db00000002e8000000]
+OPレイトン３
+!******************************!
+<V0030><T>No s{'e}, no s{'e}, pero eso no es lo
+{'u}nico que me desconcierta.</V>
+!******************************!
+[711703000a000000:000f00000002db000000023a010000]
+OPレイトン３
+!******************************!
+<T><V0031>Luke, {^?}has o{'i}do algo acerca de
+las desapariciones que han tenido
+lugar en Londres {'u}ltimamente?</V>
+!******************************!
+[711703000d000000:0014000000020000000002b0010000]
+OPルーク３
+!******************************!
+<V0040><T>Ah, s{'i}, lo vi en el peri{'o}dico.</V>
+!******************************!
+[7117030010000000:0014000000020000000002e3010000]
+OPルーク３
+!******************************!
+<T><V0041>Algunos de los cient{'i}ficos m{'a}s
+prestigiosos de Londres han
+desaparecido misteriosamente.</V>
+!******************************!
+[7117030013000000:001400000002db0000000250020000]
+OPレイトン３
+!******************************!
+<V0050><T>Eso es, y algo me dice que esas
+desapariciones est{'a}n relacionadas
+con este asunto.</V>
+!******************************!
+[7117030016000000:001e00000002db00000002b4020000]
+OPレイトン３
+!******************************!
+<V0060><T>En cualquier caso, nuestro
+primer paso es dirigirnos hacia
+el lugar que indica la carta.</V>
+!******************************!
+[7117030019000000:001e0000000200000000021b030000]
+OPルーク３
+!******************************!
+<V0070><T>{^!}Buena idea, profesor!</V>
+!******************************!

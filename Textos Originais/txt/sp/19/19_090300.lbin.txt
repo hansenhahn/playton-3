@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Una vez que Flora est{'a} a salvo,
+nuestros amigos se proponen
+detener la fortaleza mec{'a}nica.
+!******************************!
+[7117030004000000:001400000002000000000271000000]
+ナレーション
+!******************************!
+<T>{^?}Podr{'a} el profesor encontrar la
+forma de parar a Clive antes de
+que arrase todo Londres?
+!******************************!

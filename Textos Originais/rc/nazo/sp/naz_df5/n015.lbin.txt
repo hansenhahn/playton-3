@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n015
+!******************************!
+n015a
+!******************************!
+n015b
+!******************************!
+[eb0b01000a000000:0211000000]
+Siete d{'i}as despu{'e}s de hace 70 d{'i}as fue
+domingo. Entonces, {^?}qu{'e} d{'i}a ser{'a} siete
+d{'i}as antes de dentro de 70 d{'i}as?
+
+Elige un d{'i}a de la semana y luego toca
+<CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:02d5000000]
+{^!}Correcto!
+
+La respuesta es domingo. Una semana
+tiene siete d{'i}as. Si te preguntan qu{'e}
+d{'i}a fue hace X d{'i}as o qu{'e} d{'i}a ser{'a}
+dentro de X d{'i}as, y X es un n{'u}mero
+divisible entre siete, entonces sabr{'a}s
+que se trata del mismo d{'i}a que es hoy.
+!******************************!
+[ed0b01000c000000:02e3010000]
+Qu{'e} pena...
+
+No dejes que los n{'u}meros te confundan.
+!******************************!
+[ee0b01000d000000:021d020000]
+Si piensas en n{'u}meros grandes, acabar{'a}s
+por confundirte, as{'i} que mejor usa
+n{'u}meros peque{-n}os.
+Por ejemplo, si siete d{'i}as despu{'e}s de
+hace 14 d{'i}as era mi{'e}rcoles, {^?}qu{'e} d{'i}a
+es hoy?
+!******************************!
+[ef0b01000e000000:02f1020000]
+Siete d{'i}as despu{'e}s de hace 70 d{'i}as
+fue, en otras palabras, nueve semanas
+atr{'a}s.
+Si aquel d{'i}a fue domingo,
+{^?}hoy qu{'e} d{'i}a es?
+!******************************!
+[f00b01000f000000:0284030000]
+El razonamiento es igualmente aplicable
+al caso de que contemos 70 d{'i}as a partir
+de ahora y queramos saber qu{'e} d{'i}a ser{'a}
+7 d{'i}as antes de esa fecha.
+Hoy es domingo, y la cuesti{'o}n es saber
+qu{'e} d{'i}a ser{'a} exactamente dentro de
+nueve semanas.
+
+Ahora s{'i} que lo ves, {^?}verdad?
+!******************************!
+[f10b010010000000:02b0040000]
+Si sabes qu{'e} d{'i}a de la semana es,
+entonces sabr{'a}s qu{'e} d{'i}a fue {''}hace X
+semanas{''} o qu{'e} d{'i}a ser{'a} {''}dentro de X
+semanas{''}.
+
+Se trata del mismo d{'i}a que es hoy.
+!******************************!

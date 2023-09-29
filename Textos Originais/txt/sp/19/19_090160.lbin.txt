@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton y compa{-n}{'i}a van a
+un restaurante llamado
+{''}The Thames Arms{''}.
+!******************************!
+[7117030004000000:000a0000000200000000025e000000]
+ナレーション
+!******************************!
+<T>El encargado del local les dice
+que Layton del futuro ha pasado
+por all{'i}, pero ya se ha ido.
+!******************************!
+[7117030007000000:0014000000020000000002c1000000]
+ナレーション
+!******************************!
+<T>El grupo, que se propone evitar la
+construcci{'o}n de la m{'a}quina del
+tiempo, vuelve a Chinatown.
+!******************************!

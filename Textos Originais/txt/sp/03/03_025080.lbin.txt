@@ -1,0 +1,100 @@
+[7017010000000000:000f000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T>Pssst. Eh, vosotros dos. Parec{'e}is
+algo perdidos. {^?}Sab{'e}is d{'o}nde
+est{'a}is?
+!******************************!
+[7117030004000000:000a0000000262000000026b000000]
+レイトン
+!******************************!
+<T>Debo confesar que no. Es la
+primera vez que pasamos por aqu{'i}.
+!******************************!
+[7117030007000000:000a000000020000000002af000000]
+セガール
+!******************************!
+<T>A lo mejor me equivoco, pero
+parec{'e}is gente de bien.
+!******************************!
+[711703000a000000:000a000000020000000002ea000000]
+セガール
+!******************************!
+<T>Como no tengo malicia, os
+dir{'e} que os encontr{'a}is en
+el mercado negro.
+!******************************!
+[711703000d000000:000a00000002390100000240010000]
+ルーク
+!******************************!
+<T>{^?}En el mercado negro?<W> <A1/6>{^!}Vaya!
+!******************************!
+[7117030010000000:000a0000000200000000026f010000]
+セガール
+!******************************!
+<T>Y tanto que vaya, chaval. Aqu{'i}
+vendemos un mont{'o}n de cosas y a
+nadie le importa de d{'o}nde salen.
+!******************************!
+[7117030013000000:000a000000020000000002db010000]
+セガール
+!******************************!
+<T>Si estuviera en vuestro pellejo,
+agachar{'i}a la cabeza y me largar{'i}a
+discretamente.
+!******************************!
+[7117030016000000:000a00000002620000000236020000]
+レイトン
+!******************************!
+<T><A4/1>Le agradecemos el prudente
+consejo, caballero.
+!******************************!
+[7117030019000000:000a0000000239010000026e020000]
+ルーク
+!******************************!
+<T><A1/1>Antes de irnos, {^?}puedo preguntarle
+por qu{'e} la gente viene hasta aqu{'i} a
+hacer compras?
+!******************************!
+[711703001c000000:000a000000020000000002d6020000]
+セガール
+!******************************!
+<T><A1/2>A ver, chaval, las cosas que
+vendemos aqu{'i} no se ven en el
+s{'u}per de la esquina. {^?}Me explico?
+!******************************!
+[711703001f000000:000a00000002000000000245030000]
+セガール
+!******************************!
+<T>El mercado negro es un sitio lleno
+de tesoros inesperados.
+!******************************!
+[7117030022000000:000a00000002390100000283030000]
+ルーク
+!******************************!
+<T><A2/1>{^!}Ah! {^?}As{'i} que se dedica usted a la
+compraventa de antig{:u}edades
+y f{'o}siles prehist{'o}ricos?
+!******************************!
+[7117030025000000:000a000000026200000002f6030000]
+レイトン
+!******************************!
+<T>Creo que ya le hemos hecho
+suficientes preguntas a este buen
+hombre. {^?}Por qu{'e} no nos vamos?
+!******************************!
+[7117030028000000:000a0000000200000000025b040000]
+セガール
+!******************************!
+<T>{^!}Andaos con ojo! Ah, y si alguna
+vez busc{'a}is algo... especial,
+pasad por aqu{'i}.
+!******************************!
+[711703002b000000:0014000000020000000002b6040000]
+セガール
+!******************************!
+<T>{^?}Pero todav{'i}a est{'a}is aqu{'i}? Si
+sab{'e}is lo que os conviene, os
+pondr{'e}is en marcha ya mismo.
+!******************************!

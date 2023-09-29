@@ -1,0 +1,80 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000001000000]
+n055
+!******************************!
+n055a
+!******************************!
+n055b
+!******************************!
+[eb0b01000a000000:0211000000]
+Un d{'i}a el rey Arturo invit{'o} a cenar a
+un grupo de honorables hu{'e}spedes. Les
+pidi{'o} que se sentaran a su c{'e}lebre Mesa
+Redonda, pero dejando siempre el mismo
+espacio entre cada uno.
+Ya todos acomodados, dos de las invitadas,
+las encantadoras Ginebra y Nimue, se
+dieron cuenta de que ninguna de ellas
+ten{'i}a a una mujer sentada a su derecha,
+a su izquierda o justo enfrente.
+
+{^?}Cu{'a}l ser{'i}a el m{'i}nimo n{'u}mero de personas
+que estaban sentadas a la Mesa Redonda?
+!******************************!
+[ec0b01000b000000:02f6010000]
+{^!}Una regia respuesta!
+
+Correcto, cinco personas.
+
+En la imagen de arriba puedes ver c{'o}mo
+se habr{'i}an sentado a la mesa.
+Lo m{'a}s complicado es darse cuenta de
+que nadie tiene a otra persona justo
+enfrente, al otro lado de la mesa.
+
+Si sientes curiosidad por los personajes
+que se mencionan en este puzle, {^!}no dejes
+de leer la leyenda del rey Arturo!
+!******************************!
+[ed0b01000c000000:0260030000]
+{^!}Qu{'e} pena!
+
+{^?}Has probado a usar la funci{'o}n de las
+notas para dibujar la mesa y las
+personas?
+
+Si lo has hecho, quiz{'a} hayas pasado por
+alto alg{'u}n detalle.
+!******************************!
+[ee0b01000d000000:020c040000]
+Este puzle no resulta muy dif{'i}cil si usas
+la funci{'o}n de las notas para hacer un
+dibujo de la mesa y las personas.
+!******************************!
+[ef0b01000e000000:0284040000]
+Ni Ginebra ni Nimue tienen a otra
+mujer sentada a su izquierda,
+a su derecha o justo enfrente.
+No es raro que esta condici{'o}n
+despiste un poco...
+!******************************!
+[f00b01000f000000:0218050000]
+Dibuja con la funci{'o}n de las notas un
+hombre sentado frente a una mujer. Hay
+al menos dos mujeres, as{'i} que imag{'i}nate
+a otro hombre y otra mujer sentados
+frente a frente. Ya son cuatro. Pon
+otro hombre entre las dos mujeres y a
+alguien m{'a}s frente a {'e}l. Aseg{'u}rate de
+que tienen el mismo espacio entre s{'i}
+y se cumplir{'a}n las condiciones del puzle.
+Pero... {^?}es la soluci{'o}n con el menor
+n{'u}mero de invitados? Deber{'i}a haber
+alguna otra respuesta.
+!******************************!
+[f10b010010000000:02f3060000]
+En realidad, ninguna de las personas
+tiene por qu{'e} tener a alguien sentado
+justo enfrente.
+
+La respuesta es un n{'u}mero impar.
+!******************************!

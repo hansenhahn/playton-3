@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n168
+!******************************!
+n168a
+!******************************!
+n168b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Este es el mecanismo que permite poner
+en marcha la m{'a}quina del tiempo!
+El problema es que tiene un complejo
+mecanismo de seguridad para evitar
+accidentes.
+
+Para poner en marcha la m{'a}quina del
+tiempo, ordena los bloques para que
+formen un cuadrado en el que la esfera
+roja est{'e} situada justo en el centro,
+en la posici{'o}n inicial.
+!******************************!
+[ec0b01000b000000:026b010000]
+{^!}Qu{'e} maravilla!
+
+{^!}La m{'a}quina del tiempo ya est{'a} lista!
+!******************************!
+[ed0b01000c000000:02b1010000]
+{^!}L{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:02d9010000]
+Piensa en c{'o}mo deben encajar las
+piezas para hacer un cuadrado antes
+de empezar a moverlas. No llegar{'a}s
+muy lejos si no planificas lo que
+vas a hacer.
+!******************************!
+[ef0b01000e000000:0276020000]
+Usa la funci{'o}n de las notas para
+encontrar la colocaci{'o}n correcta
+de cada bloque. Hay cuatro bloques
+peque{-n}os en forma de L. Tres de ellos
+forman las esquinas del cuadrado.
+!******************************!
+[f00b01000f000000:022c030000]
+El bloque con forma de T es parte
+del lado derecho del cuadrado y
+va entre dos de los bloques
+peque{-n}os con forma de L.
+El bloque con forma de rayo va en el
+centro, apoyado sobre la esfera roja.
+!******************************!
+[f10b010010000000:02f1030000]
+El bloque peque{-n}o con forma de L
+que est{'a} abajo a la izquierda
+ir{'a} un cuadrado por encima de su
+posici{'o}n original.
+
+El bloque grande con forma de L ir{'a}
+directamente debajo, formando la
+esquina inferior izquierda del cuadrado.
+!******************************!

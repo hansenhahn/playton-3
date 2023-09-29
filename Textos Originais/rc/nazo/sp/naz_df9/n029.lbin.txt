@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n029
+!******************************!
+n029a
+!******************************!
+n029b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} se han excavado unos t{'u}neles, pero
+de manera tan desordenada que parecen
+el interior de un hormiguero. Tienes que
+conectar A con A', B con B' y C con C',
+pero sin pasar m{'a}s de una vez por el
+mismo sitio. La {'u}nica forma de cumplir
+esta condici{'o}n es hacer que uno de los
+recorridos salga a la superficie.
+
+{^?}De d{'o}nde parte ese camino que sale a la
+superficie: de A, de B o de C?
+!******************************!
+[ec0b01000b000000:02a3010000]
+{^!}Excelente!
+
+Si desv{'i}as C por encima de la superficie,
+puedes establecer las tres conexiones
+sin pasar por el mismo lugar.
+!******************************!
+[ed0b01000c000000:0224020000]
+{^!}Qu{'e} pena!
+
+Int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:024d020000]
+Partiendo de A, en la primera
+intersecci{'o}n que encuentres
+toma el camino a la derecha.
+
+Partiendo de B, en la primera
+intersecci{'o}n que encuentres
+toma el camino de la izquierda.
+!******************************!
+[ef0b01000e000000:0205030000]
+Partiendo de C, en la primera
+intersecci{'o}n que encuentres
+toma el camino de la izquierda.
+
+Partiendo de A', en la primera
+intersecci{'o}n que encuentres
+toma el camino de la derecha.
+!******************************!
+[f00b01000f000000:02bf030000]
+Partiendo de B', en la primera
+intersecci{'o}n que encuentres
+sigue el camino hacia arriba.
+
+Partiendo de C', en la primera
+intersecci{'o}n que encuentres
+gira a la izquierda.
+!******************************!
+[f10b010010000000:026f040000]
+A partir de las tres primeras pistas
+puedes deducir que el camino que
+conecta A con A' no pasar{'a} por
+encima de la superficie.
+Ahora deber{'i}as poder completar
+el camino A, y ya solo te quedar{'i}an
+los otros dos.
+!******************************!

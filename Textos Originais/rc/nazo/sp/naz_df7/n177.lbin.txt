@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n177
+!******************************!
+n177a
+!******************************!
+n177b
+!******************************!
+[eb0b01000a000000:0211000000]
+Alguien ha colocado varias alfombras
+cuadradas del mismo tama{-n}o, una sobre
+otra. Ninguna est{'a} totalmente oculta
+ni doblada de ninguna forma.
+
+{^?}Qu{'e} alfombra est{'a} por debajo de las
+dem{'a}s? Toca esa alfombra y despu{'e}s toca
+<CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:0210010000]
+{^!}Tienes un ingenio m{'a}gico!
+
+Es la alfombra de la esquina superior
+derecha. La mejor forma de hallar
+la respuesta es empezar desde
+la {'u}nica alfombra completamente
+visible, y a partir de ella
+comprobar qu{'e} otras alfombras
+est{'a} tapando.
+!******************************!
+[ed0b01000c000000:0209020000]
+{^!}Qu{'e} l{'a}stima!
+
+{^?}No te estar{'a}n confundiendo esos dise{-n}os
+tan bonitos?
+!******************************!
+[ee0b01000d000000:0260020000]
+No hay que saber mucho de alfombras
+para ver que la de la esquina inferior
+izquierda est{'a} sobre todas las dem{'a}s.
+
+A partir de ah{'i}, sigue el orden del resto.
+La siguiente es la de color naranja, y
+la que tiene debajo es la de las rayas
+anchas. {^?}Cu{'a}l ser{'a} la siguiente?
+!******************************!
+[ef0b01000e000000:027e030000]
+
+!******************************!
+[f00b01000f000000:027f030000]
+
+!******************************!
+[f10b010010000000:0280030000]
+
+!******************************!

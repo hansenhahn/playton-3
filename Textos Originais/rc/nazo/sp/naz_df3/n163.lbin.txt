@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000006a040000006a040000000100000000000000000000000000]
+n163
+!******************************!
+n163a
+!******************************!
+n163b
+!******************************!
+[eb0b01000a000000:0211000000]
+Lleva los tres bloques de colores
+hasta los lugares que les corresponden.
+Los tres tienen que ocupar su sitio a
+la vez para completar el puzle.
+
+Para mover los bloques, gira el
+laberinto 90{o} a un lado o al otro
+tocando los botones con flechas
+que ves abajo.
+!******************************!
+[ec0b01000b000000:0215010000]
+{^!}Albricias!
+
+{^?}No te has mareado con tanto
+giro del laberinto?
+!******************************!
+[ed0b01000c000000:0259010000]
+{^!}Qu{'e} l{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:0288010000]
+Si giras y giras el laberinto, al final
+acabar{'a}s por resolverlo, {^?}no?
+
+Pues no. Si no te lo piensas un poco,
+puedes acabar en una situaci{'o}n en la
+que no habr{'a} soluci{'o}n al puzle. Pero
+si lo planeas de antemano, {^!}es m{'a}s
+f{'a}cil de lo que parece!
+!******************************!
+[ef0b01000e000000:0292020000]
+Si te descuidas, un bloque puede
+quedar atrapado en alguna parte y
+hacer que el puzle no se pueda
+resolver. Si crees que ya no hay
+forma de arreglar la situaci{'o}n,
+vuelve a empezar.
+!******************************!
+[f00b01000f000000:024a030000]
+La trampa que tienes que evitar es el
+espacio que hay junto al sitio que
+debe ocupar el bloque rojo. Si un
+bloque acaba all{'i}, tendr{'a}s que anular
+el puzle e intentarlo de nuevo.
+!******************************!
+[f10b010010000000:0201040000]
+{^?}Est{'a}s intentando mover todos los
+bloques a la vez desde la esquina
+inicial? Ser{'i}a mejor que los movieras
+al otro lado del laberinto uno a uno.
+En cuanto te des cuenta de esto, lo
+dem{'a}s no ser{'a} muy dif{'i}cil.
+!******************************!

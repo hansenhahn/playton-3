@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000060400000006040000000100000000000000000000000000]
+n152
+!******************************!
+n152a
+!******************************!
+n152b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tres productos en conserva distintos
+est{'a}n apilados desordenadamente. Tienes
+que recolocarlos en tres pilas que tengan
+un solo tipo de producto cada una.
+
+Eso s{'i}, si mueves una lata, tambi{'e}n
+tendr{'a}s que mover con ella todas las
+latas que tenga encima. Ah, y no puedes
+apilar m{'a}s de seis latas a la vez.
+
+{^?}Te parece f{'a}cil? Pues tendr{'a}s que
+hacerlo en seis movimientos o menos.
+!******************************!
+[ec0b01000b000000:02a1010000]
+{^!}Bien hecho!
+
+Este problema no te ha dado mucho la lata,
+{^?}verdad?
+!******************************!
+[ed0b01000c000000:02e9010000]
+{^!}No lo has conseguido!
+
+Int{'e}ntalo otra vez...
+!******************************!
+[ee0b01000d000000:021d020000]
+Si planeas tus movimientos con cuidado,
+no deber{'i}a ser tan dif{'i}cil.
+
+Esta es tu primera pista: en el primer
+movimiento deber{'a}s mover dos latas a
+la vez.
+!******************************!
+[ef0b01000e000000:02bf020000]
+Por ejemplo, coge la lata amarilla de
+melocotones que hay en medio de la pila
+central y mu{'e}vela a la izquierda.
+
+Ahora en el centro tiene que haber una
+lata de pescado solitaria. Mmm...
+{^?}Qu{'e} tal si movemos la lata de pescado
+de la pila de la derecha a esa pila
+central?
+!******************************!
+[f00b01000f000000:02d6030000]
+Siguiendo por donde lo dejamos en
+la pista 2, si coges la lata de
+pescado de la pila de la izquierda y
+la mueves sobre las dos del centro,
+{^!}ya has juntado todo el pescado! {^!}Bien!
+
+Y ahora, {^?}qu{'e} queda?
+!******************************!
+[f10b010010000000:02ab040000]
+Siguiendo donde lo dejamos en la
+pista 3, mueve la lata de
+cerezas de la pila de la derecha
+a la pila de la izquierda. Ahora,
+mueve las cerezas del centro
+tambi{'e}n a la izquierda.
+
+Ya no queda nada. {^!}Adelante!
+!******************************!

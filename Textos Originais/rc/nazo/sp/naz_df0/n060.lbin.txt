@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n060
+!******************************!
+n060a
+!******************************!
+n060b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes un par de dados especiales con los
+que se pueden mostrar todos los n{'u}meros
+de los d{'i}as de un mes (por ejemplo, los
+dados en la parte superior de la imagen
+representan el d{'i}a 12).
+Para cada d{'i}a hay que usar siempre los
+dos dados. Si alg{'u}n d{'i}a tiene un solo
+d{'i}gito, el primer dado mostrar{'a} un cero
+(los dos primeros d{'i}as del mes ser{'i}an
+{''}01{''} y {''}02{''}).
+El dise{-n}o de los dados que se muestra
+abajo no sirve para todos los d{'i}as.
+Dibuja un c{'i}rculo alrededor del n{'u}mero
+que habr{'i}a que cambiar.
+!******************************!
+[ec0b01000b000000:0236020000]
+{^!}Muy bien!
+
+Hay que cambiar el 6.
+
+El dise{-n}o de estos dados no permit{'i}a
+representar los n{'u}meros {''}07{''} y {''}08{''}.
+Pero si cambias el 6 por un 0, puedes
+poner el 9 al rev{'e}s para usarlo como un 6.
+{^!}As{'i} se pueden mostrar todas las fechas!
+!******************************!
+[ed0b01000c000000:023e030000]
+{^!}Qu{'e} pena!
+
+Mira atentamente todos los n{'u}meros y
+hallar{'a}s la respuesta.
+!******************************!
+[ee0b01000d000000:0292030000]
+Piensa c{'o}mo har{'i}as para representar
+cada uno de los d{'i}as, comenzando
+por el d{'i}a uno del mes.
+!******************************!
+[ef0b01000e000000:02fb030000]
+Tal como est{'a}n los dados ahora, no
+sirven para representar los d{'i}as 7
+y 8 del mes.
+
+Por ejemplo, no se puede mostrar
+el {''}07{''} porque no hay manera de poner
+el 0 en un dado y el 7 en el otro.
+!******************************!
+[f00b01000f000000:02c5040000]
+{^?}Has pensado en la posibilidad de poner
+alguno de los n{'u}meros al rev{'e}s?
+Quiz{'a} as{'i} podr{'i}as representar
+todos los d{'i}as.
+!******************************!
+[f10b010010000000:0250050000]
+Para mostrar {''}07{''} tendr{'a}s que cambiar
+por un 0 alguno de los n{'u}meros del dado
+de la derecha. Casi todos los n{'u}meros
+son necesarios, pero hay uno del que
+puedes prescindir, si le das la vuelta
+al 9 del dado de la izquierda.
+!******************************!

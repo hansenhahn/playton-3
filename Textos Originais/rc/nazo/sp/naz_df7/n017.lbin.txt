@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n017
+!******************************!
+n017a
+!******************************!
+n017b
+!******************************!
+[eb0b01000a000000:0211000000]
+En sus rondas por el hospital, esta
+doctora pasa siempre por las mismas
+nueve habitaciones. Abajo puedes ver
+una lista con los n{'u}meros de estas
+habitaciones. Un d{'i}a se dio cuenta de
+que pod{'i}a recorrerlas todas usando una
+curiosa regla: pasar a una habitaci{'o}n que
+tenga al menos un d{'i}gito en com{'u}n con el
+n{'u}mero de la habitaci{'o}n anterior.
+
+Si sigue este m{'e}todo, {^?}cu{'a}l ser{'a} la quinta
+habitaci{'o}n por la que pasar{'a}? Rodea con
+un c{'i}rculo el n{'u}mero de esa habitaci{'o}n.
+!******************************!
+[ec0b01000b000000:0212020000]
+{^!}Excelente!
+
+Es la habitaci{'o}n 63. Los d{'i}gitos 2 y 7
+solo se usan una vez, mientras que los
+dem{'a}s se usan al menos dos veces.
+Por tanto, el recorrido por las nueve
+habitaciones es el que se muestra en
+el dibujo de arriba.
+Puede empezar por la habitaci{'o}n 29
+o por la 71. En cualquiera de los dos
+casos, la quinta habitaci{'o}n por la que
+pase ser{'a} siempre la 63.
+!******************************!
+[ed0b01000c000000:028d030000]
+{^!}Ay, qu{'e} pena!
+
+F{'i}jate bien en los n{'u}meros.
+!******************************!
+[ee0b01000d000000:02c5030000]
+Mira todos los d{'i}gitos que aparecen
+en los n{'u}meros de cada habitaci{'o}n.
+{^?}Cu{'a}ntas veces se usa cada d{'i}gito?
+!******************************!
+[ef0b01000e000000:0241040000]
+Algunos d{'i}gitos se usan solo una vez.
+Dicho de otro modo, si est{'a}s en una
+habitaci{'o}n cuyo n{'u}mero tiene uno
+de estos d{'i}gitos, solo podr{'a}s pasar
+a una habitaci{'o}n cuyo n{'u}mero tenga
+el otro d{'i}gito de la habitaci{'o}n en
+la que est{'a}s.
+!******************************!
+[f00b01000f000000:0245050000]
+De los nueve d{'i}gitos que aparecen en
+los n{'u}meros de las habitaciones, el 2
+y el 7 solo se usan una vez. Y las
+habitaciones que los tienen son la 29
+y la 71. La doctora tendr{'a} que
+empezar o terminar su ronda en alguna
+de estas dos habitaciones.
+!******************************!
+[f10b010010000000:0242060000]
+Si comienza por la habitaci{'o}n 29, el
+orden es 29-49-54. Si comienza por
+la habitaci{'o}n 71, el orden es 71-18-38.
+Y si la 29 y la 71 son la primera
+y la {'u}ltima habitaci{'o}n de la ronda...
+!******************************!

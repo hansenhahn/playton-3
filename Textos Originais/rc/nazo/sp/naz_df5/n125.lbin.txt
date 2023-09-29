@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000001a040000001a040000000100000000000000000000000000]
+n125
+!******************************!
+n125a
+!******************************!
+n125b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cuatro ranas est{'a}n sobre los postes de
+una ci{'e}naga. Deber{'a}n saltar de un lado a
+otro hasta que cada rana ocupe el poste
+con el lazo de su color, con estas reglas:
+
+1. Podr{'a}n saltar a un tronco vac{'i}o
+que est{'e} a su lado.
+
+2. Podr{'a}n saltar sobre la rana que tengan
+al lado si despu{'e}s hay un tronco vac{'i}o.
+
+3. No podr{'a}n saltar sobre dos ranas.
+
+Ahora, {^!}toca esas ranas y a dar saltitos!
+!******************************!
+[ec0b01000b000000:02b1010000]
+{^!}As{'i} se salta!
+
+{^?}Has conseguido hacerlo en solo
+ocho movimientos?
+!******************************!
+[ed0b01000c000000:02fc010000]
+{^!}Te ha salido rana!
+
+Prueba otra vez.
+!******************************!
+[ee0b01000d000000:0225020000]
+T{'u} pon las ranas a saltar de un lado a
+otro y acabar{'a}s encontrando la forma
+de conseguirlo.
+!******************************!
+[ef0b01000e000000:0287020000]
+Se puede lograr en tan solo ocho
+movimientos desde la posici{'o}n inicial.
+{^!}No es tan dif{'i}cil!
+!******************************!
+[f00b01000f000000:02ec020000]
+Una pista de las ranas que tienes que
+tocar para hacerlo en ocho movimientos:
+
+Roja, verde, azul, roja...
+!******************************!
+[f10b010010000000:0256030000]
+Retomando desde la pista 3:
+
+Amarilla, verde, azul...
+
+{^!}Ahora ponlo en pr{'a}ctica!
+!******************************!

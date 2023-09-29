@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Cuando nuestros amigos pasan
+por el campanario, se dan
+cuenta de que falta Layton.
+!******************************!
+[7117030004000000:001400000002000000000263000000]
+ナレーション
+!******************************!
+<T>El grupo decide seguir las {'o}rdenes
+de Layton y continuar avanzando,
+aunque con cierta inquietud.
+!******************************!

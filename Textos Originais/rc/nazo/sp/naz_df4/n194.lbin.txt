@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n194
+!******************************!
+n194a
+!******************************!
+n194b
+!******************************!
+[eb0b01000a000000:0211000000]
+Hay una rana subida en un palo muy largo.
+Esta rana solo se puede mover dando
+saltos de 70 cm o de 30 cm. Si quiere
+avanzar 10 cm dando el menor n{'u}mero de
+saltos, tiene que dar primero un salto
+de 70 cm hacia delante y despu{'e}s dos
+saltos de 30 cm hacia atr{'a}s.
+
+Con este m{'e}todo, {^?}cu{'a}l de las distancias
+que puedes ver marcadas en el palo, de
+20 cm a 100 cm, requerir{'a} m{'a}s saltos?
+Toca <CR>Soluci{'o}n</C> y escribe un n{'u}mero.
+!******************************!
+[ec0b01000b000000:02d5010000]
+{^!}Muy bien hecho!
+
+La respuesta es 50 cm.
+La rana tendr{'a} que dar cinco saltos para
+llegar a ese punto en concreto.
+!******************************!
+[ed0b01000c000000:024d020000]
+{^!}Qu{'e} pena!
+
+Intenta calcular cu{'a}ntos saltos tendr{'i}a
+que dar la rana para llegar a los otros
+nueve puntos marcados en el palo.
+!******************************!
+[ee0b01000d000000:02d7020000]
+Este puzle no tiene ning{'u}n truco;
+tendr{'a}s que calcular uno por uno los
+saltos que tiene que dar la rana para
+llegar a cada punto.
+
+Sin embargo, a veces es m{'a}s f{'a}cil
+de lo que parece alcanzar un punto,
+as{'i} que no pierdas la calma y sigue
+probando.
+!******************************!
+[ef0b01000e000000:02dd030000]
+
+!******************************!
+[f00b01000f000000:02de030000]
+
+!******************************!
+[f10b010010000000:02df030000]
+
+!******************************!

@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n088
+!******************************!
+n088a
+!******************************!
+n088b
+!******************************!
+[eb0b01000a000000:0211000000]
+Solo uno de los seis tornillos que se
+ven abajo, A, B, C, D, E o F, se puede
+atornillar en el orificio. Todos los
+tornillos tienen el mismo di{'a}metro,
+as{'i} que no te preocupes por el tama{-n}o.
+La {'u}nica herramienta de que dispones
+es un destornillador plano.
+
+{^!}Date prisa! {^!}No queda mucho tiempo!
+Dibuja un c{'i}rculo alrededor del tornillo
+correcto y toca <CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:0292010000]
+{^!}Eso es!
+
+{^!}Ahora pon en marcha el coche!
+!******************************!
+[ed0b01000c000000:02c1010000]
+{^!}Qu{'e} l{'a}stima!
+
+F{'i}jate bien y prueba otra vez.
+!******************************!
+[ee0b01000d000000:02fb010000]
+Presta atenci{'o}n a la direcci{'o}n de la
+rosca de los tornillos y la del agujero.
+!******************************!
+[ef0b01000e000000:024f020000]
+Con el tornillo C no har{'a}s nada,
+{^!}por mucho que lo atornilles
+en cualquier direcci{'o}n!
+Ya lo puedes quitar de la lista
+de posibles respuestas.
+!******************************!
+[f00b01000f000000:02e6020000]
+El tornillo F no se puede atornillar 
+con un destornillador plano y el
+tornillo B con ninguno en absoluto. 
+Estos dos tambi{'e}n los puedes descartar.
+!******************************!
+[f10b010010000000:027d030000]
+La rosca del tornillo A va en sentido
+opuesto a la rosca del orificio, as{'i}
+que tampoco puede ser la respuesta
+correcta. Con esto solo quedan dos
+tornillos. Obs{'e}rvalos una vez m{'a}s
+para saber cu{'a}l es el correcto.
+!******************************!

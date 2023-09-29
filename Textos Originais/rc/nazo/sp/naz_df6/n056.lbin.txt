@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n056
+!******************************!
+n056a
+!******************************!
+n056b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Compr{'e} una pluma en una tienda donde la
+ten{'i}an de oferta con un 10% de descuento
+respecto a su precio original, que era de
+30 {po}. Se la ense{-n}{'e} a una amiga m{'i}a, que
+en cuanto la vio me la quiso comprar. Me
+ofreci{'o} un 10% m{'a}s de lo que me cost{'o},
+as{'i} que acept{'e}. {^?}Cu{'a}nto perd{'i} o gan{'e} en
+total?{''}
+
+Introduce la respuesta en peniques.
+Si la cantidad es una p{'e}rdida, no
+olvides escribir el signo negativo (-)
+delante de tu respuesta.
+!******************************!
+[ec0b01000b000000:02f2010000]
+{^!}Correcto!
+
+{''}Gan{'e} 2,70 {po}.
+
+El 10% de descuento original no afecta
+a la soluci{'o}n. Lo {'u}nico que cuenta es que
+compr{'e} la pluma por 27 {po} y la vend{'i} por
+29,70 {po}, lo que da un beneficio de 2,70 {po}
+o 270 peniques.{''}
+!******************************!
+[ed0b01000c000000:02e5020000]
+L{'a}stima...
+
+Pi{'e}nsalo con calma.
+!******************************!
+[ee0b01000d000000:020b030000]
+Los puzles que usan mucho texto para
+describir un problema sencillo son un
+poco tramposos.
+
+{^?}No te da la impresi{'o}n de que
+este puede ser uno de esos?
+
+Todos los datos son correctos, pero
+cierta parte del enunciado est{'a}
+pensada para confundirte.
+!******************************!
+[ef0b01000e000000:0209040000]
+{''}Comienza por calcular cu{'a}nto pagu{'e} por
+la pluma. Despu{'e}s, el resto deber{'i}a
+resultar sencillo.{''}
+!******************************!
+[f00b01000f000000:027b040000]
+{''}Cuando compr{'e} la pluma, en la tienda
+me hicieron un 10% de descuento.
+
+Si luego mi amiga me la compra por
+un 10% m{'a}s de lo que me cost{'o}, no
+hay duda de que voy a sacar un
+beneficio de la venta.{''}
+!******************************!
+[f10b010010000000:024e050000]
+{''}Compr{'e} la pluma por 27 {po} y se
+la vend{'i} a mi amiga por 29,70 {po}.
+
+Esa es toda la informaci{'o}n que
+necesitas.{''}
+!******************************!

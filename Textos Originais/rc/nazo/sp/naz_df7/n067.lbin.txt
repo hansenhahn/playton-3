@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n067
+!******************************!
+n067a
+!******************************!
+n067b
+!******************************!
+[eb0b01000a000000:0211000000]
+Dos malhechores quieren usar esta tabla
+para tapar la cueva donde guardan sus
+mercanc{'i}as. Si cortan la tabla en dos
+partes de igual tama{-n}o y forma, podr{'a}n
+tapar completamente la entrada a la
+cueva.
+
+Dibuja l{'i}neas en la tabla para indicar
+por d{'o}nde tendr{'i}an que cortarla.
+!******************************!
+[ec0b01000b000000:0232010000]
+{^!}Buen trabajo!
+
+Hay que cortar la tabla como se muestra
+arriba.
+
+Como puedes ver, estos delincuentes han
+invertido una de las partes, bloqueando
+as{'i} la entrada a la cueva completamente.
+!******************************!
+[ed0b01000c000000:02f2010000]
+Mala suerte...
+
+El corte que buscas no es especialmente
+complicado.
+!******************************!
+[ee0b01000d000000:0236020000]
+Cuenta cu{'a}ntos cuadrados componen
+la tabla.
+
+Como las dos partes que necesitas
+deben ser del mismo tama{-n}o, tendr{'a}n
+que tener el mismo n{'u}mero de cuadrados.
+!******************************!
+[ef0b01000e000000:02dd020000]
+Hay que cortar la tabla en dos partes
+de siete cuadrados cada una. Necesitas
+dos partes id{'e}nticas, as{'i} que no puedes
+cortar dos piezas cualesquiera de siete
+cuadrados.
+
+Intenta visualizar la forma que tendr{'a}n
+las dos partes una vez cortadas.
+!******************************!
+[f00b01000f000000:02d8030000]
+Primero piensa c{'o}mo obtener dos
+rect{'a}ngulos de seis cuadrados cada uno.
+
+Solo hay dos maneras de cortar
+dos rect{'a}ngulos separados de seis
+cuadrados cada uno.
+Lo importante es ver c{'o}mo se pueden
+utilizar los dos cuadrados restantes.
+!******************************!
+[f10b010010000000:02cc040000]
+Separa con un corte horizontal los dos
+cuadrados que hay en la zona inferior
+derecha de la tabla, y estar{'a}s muy
+cerca de la soluci{'o}n.
+
+{^?}Eres capaz de ver dos partes
+con forma de bota?
+!******************************!

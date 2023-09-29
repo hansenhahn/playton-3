@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n016
+!******************************!
+n016a
+!******************************!
+n016b
+!******************************!
+[eb0b01000a000000:0211000000]
+Parece que para abrir la puerta hay
+que introducir un n{'u}mero, y la {'u}nica
+pista disponible la garabate{'o} una
+mujer que no destaca precisamente
+por su buena letra.
+
+{^?}Cu{'a}l es el n{'u}mero que necesitas?
+!******************************!
+[ec0b01000b000000:02e7000000]
+{^!}Exacto!
+
+Tienes que introducir el n{'u}mero 8.
+Si observas bien, lo que hay escrito
+en la nota es {''}121 - 113 ={''}.
+Y esa resta, por supuesto, da 8.
+!******************************!
+[ed0b01000c000000:0283010000]
+{^!}Ay, qu{'e} pena!
+
+Si pudieras descubrir algunos n{'u}meros
+en la nota...
+!******************************!
+[ee0b01000d000000:02d0010000]
+{^?}Te parece que pone RHB?
+
+Pues no, no van por ah{'i} los tiros.
+Intenta verlo de otra manera.
+!******************************!
+[ef0b01000e000000:0231020000]
+La respuesta es un n{'u}mero. Ahora bien,
+{^?}c{'o}mo pueden estos trazos indicar
+un n{'u}mero?
+
+{^?}Las {'u}ltimas dos marcas no recuerdan
+un poco al signo {''}={''}?
+!******************************!
+[f00b01000f000000:02d9020000]
+En la nota hay escritos dos n{'u}meros
+de tres d{'i}gitos cada uno, y forman
+una operaci{'o}n.
+
+{^!}F{'i}jate bien!
+!******************************!
+[f10b010010000000:024d030000]
+Lo que hay escrito en el papel es
+{''}121 - 113 ={''}. Si calculas el resultado
+de esta operaci{'o}n, tendr{'a}s la soluci{'o}n
+del puzle.
+!******************************!

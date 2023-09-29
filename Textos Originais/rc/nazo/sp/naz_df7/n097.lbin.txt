@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000000000000000000000]
+n097
+!******************************!
+n097a
+!******************************!
+n097b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}Dos largos cables conectan el coraz{'o}n
+del primer ministro a un sensor!
+
+{^?}Puedes cambiar en un solo movimiento
+los cables de manera que conecten
+el sensor al reloj de bolsillo que hay
+abajo a la derecha, y no al coraz{'o}n?
+Intercambia dos bloques para que los
+cables conecten el sensor de la parte
+superior de la pantalla con el reloj
+situado en la parte inferior.
+
+{^!}Confiamos en ti!
+!******************************!
+[ec0b01000b000000:029e010000]
+{^!}Incre{'i}ble!
+
+{^!}La operaci{'o}n ha sido un {'e}xito!
+!******************************!
+[ed0b01000c000000:02da010000]
+{^!}Qu{'e} l{'a}stima!
+
+Recuerda, solo necesitas intercambiar
+la posici{'o}n de dos bloques.
+
+{^?}Seguro que no has movido m{'a}s?
+!******************************!
+[ee0b01000d000000:025d020000]
+Tienes que intercambiar dos bloques en
+un solo movimiento. Observa primero c{'o}mo
+est{'a}n conectados todos los cables.
+Encuentra los cables que conectan el
+sensor (arriba a la derecha) con el
+coraz{'o}n del primer ministro (abajo a
+la izquierda).
+!******************************!
+[ef0b01000e000000:0256030000]
+Conviene observar que los dos cables
+que salen del reloj son en realidad
+un mismo cable. Presta atenci{'o}n
+a su recorrido.
+!******************************!
+[f00b01000f000000:02d2030000]
+{^?}Has notado que solo algunos bloques
+se pueden intercambiar sin que
+se pierdan las conexiones entre cables?
+Busca los bloques cuyos cables entran
+y salen por puntos similares.
+
+!******************************!
+[f10b010010000000:0286040000]
+Los dos bloques est{'a}n en la tercera
+fila. F{'i}jate bien.
+!******************************!

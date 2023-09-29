@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n179
+!******************************!
+n179a
+!******************************!
+n179b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esta desvergonzada urraca ha estado
+robando una joya al d{'i}a durante un
+periodo de 10 d{'i}as, llev{'a}ndolas a su nido.
+En el nido hay joyas de cuatro colores:
+blanco, negro, rojo y azul.
+El n{'u}mero de joyas blancas es la mitad
+del n{'u}mero de joyas negras. El n{'u}mero
+de joyas negras es la mitad del n{'u}mero
+de joyas rojas.
+
+{^?}Cu{'a}ntas joyas hay de cada color?
+!******************************!
+[ec0b01000b000000:0289010000]
+{^!}Eso es!
+
+Una joya blanca.
+Dos joyas negras.
+Cuatro joyas rojas.
+Tres joyas azules.
+
+{^!}Has hecho un buen c{'a}lculo!
+!******************************!
+[ed0b01000c000000:0203020000]
+{^!}L{'a}stima!
+
+{^?}Preferir{'a}n las urracas unos colores
+a otros?
+!******************************!
+[ee0b01000d000000:0248020000]
+En total hay diez joyas, y eso no va
+a cambiar. Entre ellas, hay al menos
+una joya de cada color. La cuesti{'o}n es
+el color de las otras seis joyas.
+
+Ya sabes que hay m{'a}s joyas rojas que
+negras, y m{'a}s joyas negras que blancas
+(rojas > negras > blancas). Piensa en
+los datos que tienes y encontrar{'a}s
+la respuesta f{'a}cilmente.
+!******************************!
+[ef0b01000e000000:0299030000]
+
+!******************************!
+[f00b01000f000000:029a030000]
+
+!******************************!
+[f10b010010000000:029b030000]
+
+!******************************!

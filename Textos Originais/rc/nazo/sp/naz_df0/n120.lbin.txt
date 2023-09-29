@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000100400000010040000000100000000000000000000000000]
+n120
+!******************************!
+n120a
+!******************************!
+n120b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tienes que llegar a tu destino desde el
+punto de partida, pero ten cuidado con
+las pieles de pl{'a}tano. Cuando pises
+alguna de ellas, {^!}patinar{'a}s sin detenerte
+hasta chocar con una pared!
+
+{^?}Puedes encontrar un camino que te
+permita llegar a tu destino? Toca una
+flecha roja para desplazarte en la
+direcci{'o}n que indique.
+!******************************!
+[ec0b01000b000000:025d010000]
+{^!}Frut{'a}stico!
+
+Quiz{'a} te interese esta curiosidad
+acerca de los pl{'a}tanos: son frutas
+que siguen madurando despu{'e}s de
+haber sido arrancadas del {'a}rbol.
+En el momento de la recogida todav{'i}a
+est{'a}n verdes, as{'i} que es mejor esperar
+un poco hasta comerlos. {^!}Los pl{'a}tanos
+verdes no saben nada bien!
+!******************************!
+[ed0b01000c000000:029f020000]
+{^!}L{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:02c7020000]
+Puede parecer obvio, pero no sigas
+hacia delante en el primer cruce.
+!******************************!
+[ef0b01000e000000:020c030000]
+En el primer cruce ve hacia abajo, y
+en el siguiente gira a la izquierda.
+A continuaci{'o}n, {^!}a patinar!
+!******************************!
+[f00b01000f000000:0278030000]
+A partir de donde lo dejamos en la
+pista 2, en cuanto hayas chocado
+con la pared de la izquierda, ve hacia
+abajo y patina hasta la pared de abajo.
+Luego ve a la derecha y camina hasta
+patinar de nuevo.
+!******************************!
+[f10b010010000000:0242040000]
+Siguiendo donde lo dejamos en la
+pista 3, en la esquina inferior
+derecha, retrocede caminando hacia
+la izquierda hasta encontrarte con
+una piel. All{'i}, sube y patina
+hasta la pared de arriba.
+
+Ya no tendr{'a}s que resbalarte otra
+vez. {^!}Solo tienes que andar un poco
+m{'a}s hasta tu destino!
+!******************************!

@@ -1,0 +1,121 @@
+[7017010000000000:0012000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<V0000><T>Estimado profesor: Espero que
+est{'e} bien.<W> Yo, sin embargo, podr{'i}a
+decirse que estoy en un aprieto.</V>
+!******************************!
+[7117030004000000:000a00000002000000000286000000]
+ナレーション
+!******************************!
+<V0010><T>Aunque parezca incre{'i}ble, nuestro
+querido Londres est{'a} sumido
+en el caos.</V>
+!******************************!
+[7117030007000000:000a000000020000000002e4000000]
+ナレーション
+!******************************!
+<V0020><T>Y a{'u}n hay otra complicaci{'o}n.
+El problema del que le hablo no
+ocurre en su {'e}poca, profesor.</V>
+!******************************!
+[711703000a000000:000a00000002000000000256010000]
+ナレーション
+!******************************!
+<V0030><T>Le resultar{'a} dif{'i}cil de creer,<W> pero
+le escribo diez a{-n}os despu{'e}s de que
+reciba esta carta.</V>
+!******************************!
+[711703000d000000:000a000000020000000002ce010000]
+ナレーション
+!******************************!
+<V0040><T>No se alarme. S{'e} que todo esto
+resulta incre{'i}ble, pero se lo
+explicar{'e} pronto.</V>
+!******************************!
+[7117030010000000:000a00000002000000000234020000]
+ナレーション
+!******************************!
+<V0050><T>Por el momento, dir{'i}jase a la
+relojer{'i}a de Midland Road que
+est{'a} en Baldwin.</V>
+!******************************!
+[7117030013000000:000a00000002000000000298020000]
+ナレーション
+!******************************!
+<V0060><T>Estoy deseando verle de nuevo.
+<W>Reciba un abrazo de su aprendiz,
+Luke Triton.</V>
+!******************************!
+[7117030016000000:001400000002f60200000201030000]
+OPレイトン
+!******************************!
+<V0070><T>Aunque parezca imposible, el
+remitente de esta carta es
+tu futuro t{'u}, Luke.</V>
+!******************************!
+[7117030019000000:0014000000025e0300000267030000]
+OPルーク
+!******************************!
+<V0080><T>{^?}Mi futuro yo?</T> <T><W>{^?}Eh? Pero
+{^?}eso puede ser?</V>
+!******************************!
+[711703001c000000:001400000002f602000002b1030000]
+OPレイトン
+!******************************!
+<V0090><T>No lo s{'e}, muchacho, pero esta
+carta nos plantea otra duda: si es
+aut{'e}ntica, {^?}c{'o}mo ha llegado aqu{'i}?</V>
+!******************************!
+[711703001f000000:0014000000025e0300000231040000]
+OPルーク
+!******************************!
+<V0100><T>Pues...<W> {^?}con un cartero del
+tiempo?</T><W><A2/2><T> {^!}Lo digo en broma, claro!</V>
+!******************************!
+[7117030022000000:0014000000025e0300000296040000]
+OPルーク
+!******************************!
+<T><V0101>De todas formas, {^!}menudo misterio
+tenemos entre manos!</V>
+!******************************!
+[7117030025000000:001400000002f602000002de040000]
+OPレイトン
+!******************************!
+<V0110><T><A1/2>S{'i}, y parece que incluso en el
+futuro necesitar{'a}s mi ayuda
+para resolverlo.</V>
+!******************************!
+[7117030028000000:001400000002f60200000244050000]
+OPレイトン
+!******************************!
+<T><V0111>En estos tiempos que corren, es
+muy reconfortante saber que no
+cambiar{'a}s, muchacho.</V>
+!******************************!
+[711703002b000000:0014000000025e03000002a9050000]
+OPルーク
+!******************************!
+<V0120><T><A2/1>Eeeh...<W></T><T> Gracias, creo.<W> Pero
+volviendo a la cuesti{'o}n principal:
+{^?}c{'o}mo sabemos si la carta es real?</V>
+!******************************!
+[711703002e000000:001400000002f60200000235060000]
+OPレイトン
+!******************************!
+<V0130><T><A1/1><K>Mmm...</K> Lo cierto es que a{'u}n no
+disponemos de suficientes datos.</T></V>
+!******************************!
+[7117030031000000:001400000002f60200000297060000]
+OPレイトン
+!******************************!
+<T><V0135><T>Sin embargo, creo que esto puede
+estar relacionado con el terrible
+suceso de la semana pasada.</V>
+!******************************!
+[7117030034000000:0014000000025e0300000207070000]
+OPルーク
+!******************************!
+<V0140><T><A1/1>Oh...</V>
+!******************************!

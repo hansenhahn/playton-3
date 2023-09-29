@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000002e040000002f040000000100000000000000000000000000]
+n024
+!******************************!
+n024a
+!******************************!
+n024b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ayuda a nuestros h{'e}roes a contraatacar
+construyendo una ametralladora de
+monedas con las partes de esta m{'a}quina
+tragaperras.
+
+Gira las piezas y enc{'a}jalas en el tablero
+que ves abajo. Tienes que usar todas las
+piezas y no pueden superponerse. {^!}Date
+prisa!
+!******************************!
+[ec0b01000b000000:021c010000]
+{^!}Premio!
+
+Ahora, {^!}a contraatacar!
+!******************************!
+[ed0b01000c000000:0244010000]
+{^!}L{'a}stima!
+
+Int{'e}ntalo otra vez... {^!}y date prisa!
+!******************************!
+[ee0b01000d000000:0280010000]
+Es una forma complicada, pero
+encontrar{'a}s la soluci{'o}n si te fijas
+en c{'o}mo se conectan las piezas unas
+con otras.
+
+La parte por donde salen disparadas
+las monedas est{'a} a la izquierda.
+{^!}Manos a la obra!
+!******************************!
+[ef0b01000e000000:0258020000]
+La pieza con aspecto de tuber{'i}a
+es el ca{-n}{'o}n, y apunta a la izquierda
+con la parte roja hacia el exterior.
+
+El extremo con forma de embudo
+de la pieza grande y roja tiene
+que mirar hacia arriba.
+!******************************!
+[f00b01000f000000:0223030000]
+La pieza alargada con forma de palanca
+encaja en el borde derecho.
+
+La pieza que tiene un engranaje
+va junto al ca{-n}{'o}n, con el pi{-n}{'o}n
+hacia arriba.
+!******************************!
+[f10b010010000000:02c1030000]
+Si has seguido correctamente las
+instrucciones de las pistas 2 y 3,
+el resto es f{'a}cil. Ya deber{'i}as tener
+colocada la pieza grande y roja a la
+izquierda de la palanca con la parte
+con forma de embudo hacia arriba.
+
+La pieza que tiene un tornillo con forma
+de coraz{'o}n encaja abajo a la derecha
+con la parte dorada hacia arriba.
+
+Solo falta una pieza, {^!}date prisa!
+!******************************!

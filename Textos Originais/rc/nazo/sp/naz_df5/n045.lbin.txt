@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000006a040000006a040000000100000000000000000000000000]
+n045
+!******************************!
+n045a
+!******************************!
+n045b
+!******************************!
+[eb0b01000a000000:0211000000]
+Mueve el bloque rojo y el azul hasta
+el lugar que les corresponde. Toca
+los botones con flechas en la parte
+inferior de la pantalla para girar el
+laberinto 90{o}. Si debajo no hay nada
+que se lo impida, los bloques caer{'a}n.
+
+{^!}A ver qu{'e} tal se te da!
+!******************************!
+[ec0b01000b000000:0213010000]
+{^!}Sobresaliente!
+
+{^?}En cu{'a}ntos movimientos lo has hecho?
+{^?}Conseguiste resolverlo en cinco?
+!******************************!
+[ed0b01000c000000:0278010000]
+{^!}Qu{'e} l{'a}stima!
+
+Prueba otra vez.
+!******************************!
+[ee0b01000d000000:02a1010000]
+Si haces rotar el laberinto el n{'u}mero
+suficiente de veces, {^!}seguro que
+lo consigues!
+!******************************!
+[ef0b01000e000000:02fc010000]
+En primer lugar, piensa c{'o}mo habr{'i}a
+que mover el bloque azul. Entonces
+ver{'a}s como todo cae por su peso.
+!******************************!
+[f00b01000f000000:026d020000]
+Si el puzle se te resiste, quiz{'a} sientas
+el impulso de volver a comenzar...
+
+{^!}Pero no cedas a la tentaci{'o}n
+y sigue girando el laberinto!
+!******************************!
+[f10b010010000000:02ff020000]
+Gira el laberinto cinco veces
+seguidas en una cierta direcci{'o}n.
+!******************************!

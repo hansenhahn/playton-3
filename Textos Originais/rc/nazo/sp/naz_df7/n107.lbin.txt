@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000600400000060040000000100000000000000000000000000]
+n107
+!******************************!
+n107a
+!******************************!
+n107b
+!******************************!
+[eb0b01000a000000:0211000000]
+Unas mujeres pudieron observar a tres
+sujetos sospechosos. Cada uno llevaba
+una prenda roja, una blanca y una verde,
+pero en diferentes combinaciones. Estas
+son las declaraciones de las mujeres:
+{''}Los hombres llevaban chaquetas
+del mismo color.{''}
+{''}Dos llevaban pantalones blancos.{''}
+{''}El hombre m{'a}s alto ten{'i}a
+un sombrero blanco.{''}
+{''}La chaqueta de la mujer era verde.{''}
+Toca las prendas de los tres individuos
+para cambiar sus colores hasta que
+coincidan con lo que vieron las mujeres.
+!******************************!
+[ec0b01000b000000:020f020000]
+{^!}Eso es!
+
+Con semejante combinaci{'o}n de colores
+no es raro que llamasen la atenci{'o}n...
+!******************************!
+[ed0b01000c000000:026e020000]
+{^!}Qu{'e} pena!
+
+Si empiezas por lo que sabes con
+seguridad, el resto no ser{'a} dif{'i}cil.
+!******************************!
+[ee0b01000d000000:02cc020000]
+Sabes con seguridad que el hombre m{'a}s
+alto tiene un sombrero blanco y que
+la mujer lleva una chaqueta verde.
+Empieza por ah{'i}.
+
+Tambi{'e}n sabes que las chaquetas de
+los dos hombres son del mismo color.
+{^?}Cu{'a}l ser{'a}?
+!******************************!
+[ef0b01000e000000:02b1030000]
+El hombre m{'a}s alto lleva un sombrero
+blanco. Esto significa que las chaquetas
+de los hombres no pueden ser blancas.
+
+Dos de los tres sujetos visten
+pantalones blancos, y sabes que el
+hombre alto no es uno de ellos.
+
+Ahora que sabes qui{'e}nes tienen
+pantalones blancos, intenta descubrir
+el resto por tu cuenta.
+!******************************!
+[f00b01000f000000:02ec040000]
+La chaqueta de la mujer es verde y sus
+pantalones son blancos. Por lo tanto,
+su sombrero tiene que ser rojo.
+
+Recuerda que los tres visten los mismos
+colores, pero siempre en combinaciones
+diferentes. Ten en cuenta este dato
+y todo ir{'a} bien.
+!******************************!
+[f10b010010000000:02e1050000]
+Sabes que el hombre del medio lleva
+pantalones blancos. Como no puede
+vestir la misma combinaci{'o}n que
+la mujer, su sombrero tiene que
+ser verde y su chaqueta roja.
+
+{^!}Ponles estos colores y tendr{'a}s
+el puzle casi resuelto!
+!******************************!

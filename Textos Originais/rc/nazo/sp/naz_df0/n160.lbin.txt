@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n160
+!******************************!
+n160a
+!******************************!
+n160b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqu{'i} tienes tres piezas con forma de
+sello. Esta puerta tan rara solo se
+abrir{'a} si puedes encajar las tres a
+la vez en cada uno de los huecos que
+se puedan rellenar con todas ellas a
+la vez.
+
+Ten en cuenta que las piezas que aparecen
+en la imagen podr{'i}an tener un tama{-n}o
+diferente al real.
+
+Marca los huecos en los que encajen las
+tres piezas a la vez.
+!******************************!
+[ec0b01000b000000:027e010000]
+{^!}Buen ojo!
+
+{^!}A, B, D, F y G son los huecos correctos!
+C y E no valen.
+
+Casi siempre hay que rotar las piezas
+para que encajen. E parece que podr{'i}a
+funcionar, pero la pieza 2 est{'a}
+del rev{'e}s.
+!******************************!
+[ed0b01000c000000:024b020000]
+{^!}Qu{'e} l{'a}stima!
+
+Recuerda que se trata de piezas que
+puedes girar a un lado y a otro, pero
+solo hay una forma de introducirlas.
+!******************************!
+[ee0b01000d000000:02d2020000]
+{^!}Recuerda que cuentas con la funci{'o}n de
+las notas! Util{'i}zala para rellenar
+los huecos dibujando las piezas.
+!******************************!
+[ef0b01000e000000:0247030000]
+La clave est{'a} en c{'o}mo uses la pieza 2.
+!******************************!
+[f00b01000f000000:0274030000]
+Seguro que a simple vista ya sabes que
+C no va a funcionar. {^!}Lo curioso es
+que B s{'i} sirve!
+
+Recuerda que puedes rotar las piezas
+a izquierda o derecha, pero como tienen
+una empu{-n}adura, no les puedes dar la
+vuelta. Para colocarlas tendr{'i}as que
+sujetarlas por la empu{-n}adura, por lo
+que las piezas que se ven en la
+pantalla t{'a}ctil estar{'i}an al rev{'e}s
+cuando las colocaras.
+!******************************!
+[f10b010010000000:02fc040000]
+C no sirve.
+
+A, B y G sirven, todos ellos.
+
+De los tres huecos que quedan,
+D, E y F, uno no sirve. {^?}Cu{'a}l ser{'a}?
+
+Esa forma de Z es bastante
+sospechosa...
+!******************************!

@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n035
+!******************************!
+n035a
+!******************************!
+n035b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Iba en un autob{'u}s de dos pisos y
+el revisor me dijo que, cont{'a}ndome a m{'i},
+hab{'i}a 25 pasajeros en el piso de abajo,
+mientras que en el piso de arriba el
+n{'u}mero de pasajeros era el 40% del piso
+de abajo.{''}
+
+{^?}Cu{'a}ntas personas en total viajaban en
+el autob{'u}s?
+!******************************!
+[ec0b01000b000000:022e010000]
+{^!}Buen c{'a}lculo!
+
+Son 37 las personas que viajan en el
+autob{'u}s. En el piso de abajo hay 25
+pasajeros. Por otra parte, el 40% de
+25 es 10. Esto hace un total de 35
+pasajeros. Y si sumamos al revisor
+y al conductor, ya tenemos los 37.
+!******************************!
+[ed0b01000c000000:021e020000]
+{^!}Vaya, qu{'e} pena!
+
+El 40% de algo es lo mismo que dos
+quintos. Incluso si esto lo has
+calculado bien, deber{'i}as tener en
+cuenta otro peque{-n}o detalle.
+!******************************!
+[ee0b01000d000000:02be020000]
+Si crees que con un c{'a}lculo r{'a}pido has
+dado con la soluci{'o}n, piensa que se te
+puede haber escapado alg{'u}n detalle.
+!******************************!
+[ef0b01000e000000:023c030000]
+No olvides que fue el revisor
+quien te dio la informaci{'o}n.
+!******************************!
+[f00b01000f000000:027a030000]
+El n{'u}mero de pasajeros en el piso
+de arriba es el 40% del n{'u}mero
+de pasajeros que hay en el piso
+de abajo. Es decir, dos quintos
+de 25 son 10 pasajeros m{'a}s,
+que hacen un total de 35.
+{^?}Pero no viaja nadie m{'a}s en el autob{'u}s?
+!******************************!
+[f10b010010000000:026b040000]
+La pista 2 te record{'o} que, adem{'a}s
+de los pasajeros, en el autob{'u}s
+viaja un revisor.
+Por otra parte, {^!}un autob{'u}s
+no se conduce solo!
+!******************************!

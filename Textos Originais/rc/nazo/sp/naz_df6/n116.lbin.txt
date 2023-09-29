@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n116
+!******************************!
+n116a
+!******************************!
+n116b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esto es un Laytongrama.
+
+Tendr{'a}s que encajar las cinco piezas
+que forman el sombrero dentro de la
+forma de la llave. {^?}Ser{'a}s capaz de
+conseguirlo sin que se solapen y
+sin dejar ning{'u}n espacio?
+
+Adem{'a}s de girar las piezas puedes
+invertirlas si lo consideras necesario.
+!******************************!
+[ec0b01000b000000:022b010000]
+{^!}Bien hecho!
+
+Ahora que tienes la llave, solo tienes que
+encontrar el cerrojo.
+!******************************!
+[ed0b01000c000000:027d010000]
+{^!}Qu{'e} l{'a}stima!
+
+Int{'e}ntalo de nuevo.
+!******************************!
+[ee0b01000d000000:02ac010000]
+Orienta {#3} verticalmente y col{'o}cala
+justo en la punta de la llave.
+!******************************!
+[ef0b01000e000000:02f4010000]
+Tendr{'a}s que colocar {#2} en posici{'o}n
+horizontal en la secci{'o}n de los
+{''}dientes{''} de la llave.
+
+Puedes completar la llave invirtiendo {#0}
+o no, pero en cada uno de esos casos
+su posici{'o}n ser{'a} distinta.
+!******************************!
+[f00b01000f000000:02d1020000]
+{#1} no est{'a} invertida.
+
+{^?}Puedes completar ya el puzle?
+!******************************!
+[f10b010010000000:020f030000]
+{#1} es la base de la parte alargada
+de la llave.
+
+Haz que {#0} y {#4} encajen y
+el resto est{'a} hecho.
+!******************************!

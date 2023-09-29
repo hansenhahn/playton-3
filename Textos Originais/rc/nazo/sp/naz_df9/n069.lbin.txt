@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n069
+!******************************!
+n069a
+!******************************!
+n069b
+!******************************!
+[eb0b01000a000000:0211000000]
+{^!}No se puede cruzar este puente!
+Pero de alg{'u}n modo hay que pasar
+al otro lado de esta habitaci{'o}n
+para continuar la investigaci{'o}n.
+
+{^?}Podr{'a}s poner en su sitio las cuatro
+partes y recomponer el puente? Ten en
+cuenta que la bola tambi{'e}n se puede mover.
+!******************************!
+[ec0b01000b000000:0220010000]
+{^!}Lo has conseguido!
+
+{^!}Cruza el puente para encontrar a
+Layton del futuro!
+!******************************!
+[ed0b01000c000000:0270010000]
+{^!}L{'a}stima!
+
+Int{'e}ntalo otra vez.
+!******************************!
+[ee0b01000d000000:0298010000]
+La cabeza del drag{'o}n va arriba, y la
+cola abajo.
+
+Antes de empezar a mover las piezas
+intenta imaginar qu{'e} aspecto tendr{'a}
+el puente cuando est{'e} terminado.
+!******************************!
+[ef0b01000e000000:023f020000]
+Tendr{'a}s que mover la bola con pinchos
+a la izquierda, y despu{'e}s desplazarla
+hacia la pared derecha.
+Para abrir camino, mueve hacia la
+derecha la pieza con forma de T
+y despu{'e}s desliza hacia abajo
+la pieza con forma de S.
+Ahora puedes mover la bola abajo y
+a la izquierda, y si mueves la cola
+del drag{'o}n a la izquierda y arriba,
+podr{'a}s llevar la bola hasta la pared
+derecha.
+!******************************!
+[f00b01000f000000:02c4030000]
+Pon la pieza con forma de T encima de
+la pieza con forma de S. Mueve la cabeza
+del drag{'o}n y la bola abajo y al centro,
+de modo que puedas situar la cola del
+drag{'o}n abajo a la derecha.
+
+Coloca ahora la bola junto a la pared
+derecha y pon la pieza con forma de T
+arriba en el centro. Ahora mueve la
+pieza con forma de S para que quede
+en contacto con la T, debajo y a la
+izquierda de ella.
+!******************************!
+[f10b010010000000:024e050000]
+Lleva la cabeza del drag{'o}n hasta
+la esquina inferior izquierda para
+abrir un espacio en el centro.
+All{'i}, abajo del todo, pon la cola
+del drag{'o}n y, encima de ella,
+la pieza con forma de S.
+
+{^!}Ya casi lo tienes! Descubre los
+movimientos que faltan, {^!}y el puente
+tomar{'a} forma ante tus ojos!
+!******************************!

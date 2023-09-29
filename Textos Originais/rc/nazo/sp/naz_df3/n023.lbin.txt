@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n023
+!******************************!
+n023a
+!******************************!
+n023b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este cuadro representa a dos jugadores
+inmersos en una re{-n}ida partida de cartas.
+A primera vista, nada llama la atenci{'o}n
+especialmente. Sin embargo, al ver este
+cuadro algunas personas comentan:
+
+{''}Vaya, parece que uno de los jugadores
+no tiene ni idea de lo que hace.{''}
+
+{^?}Qu{'e} detalle ser{'a} el que les llama la
+atenci{'o}n? Rod{'e}alo con un c{'i}rculo y toca
+<CR>Listo</C>.
+!******************************!
+[ec0b01000b000000:029a010000]
+{^!}Correcto!
+
+En una baraja normal, los n{'u}meros
+de las cartas suelen estar dibujados
+en las esquinas superior izquierda e
+inferior derecha.
+
+Por muy en serio que se tome la partida,
+lo cierto es que si el jugador sentado
+al otro lado de la mesa sujeta las cartas
+de esa manera, lo tendr{'a} un poco
+complicado para saber qu{'e} valor tienen.
+!******************************!
+[ed0b01000c000000:02f4020000]
+{^!}Qu{'e} pena!
+
+Intenta considerar la situaci{'o}n desde
+otra perspectiva.
+!******************************!
+[ee0b01000d000000:0241030000]
+Imag{'i}nate que estuvieras ah{'i}, jugando
+a las cartas en esa mesa.
+
+{^?}Notas algo fuera de lo normal?
+!******************************!
+[ef0b01000e000000:02ab030000]
+F{'i}jate bien en los dos jugadores.
+Si la gente piensa que uno de ellos
+no tiene ni idea, ser{'a} porque est{'a}
+haciendo algo raro.
+
+
+!******************************!
+[f00b01000f000000:0233040000]
+{^?}Se te ha ocurrido pensar en c{'o}mo
+son las cartas de una baraja?
+
+Observa atentamente las cartas que
+tiene en la mano el jugador del
+primer plano.
+
+{^?}En qu{'e} parte de las cartas est{'a}n
+dibujados los n{'u}meros?
+!******************************!
+[f10b010010000000:0211050000]
+{^?}En qu{'e} parte de una carta est{'a}n
+dibujados los n{'u}meros?
+Seguro que ni en la esquina superior
+derecha ni en la inferior izquierda.
+
+Si tienes esto en cuenta y te fijas
+en lo que hacen los jugadores, notar{'a}s
+que uno de ellos est{'a} haciendo algo
+que probablemente no har{'i}a nadie que
+estuviera jugando a las cartas.
+!******************************!

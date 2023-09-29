@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n052
+!******************************!
+n052a
+!******************************!
+n052b
+!******************************!
+[eb0b01000a000000:0211000000]
+Observa los dos trozos de papel de abajo,
+A y B. En el orden que indican las flechas
+negras, cada trozo se dobla por la mitad,
+y despu{'e}s otra vez por la mitad de la
+figura resultante. En la {'u}ltima imagen
+del trozo A, se cortar{'a} el papel siguiendo
+las l{'i}neas de puntos rojos.
+Tu tarea consiste en cortar el trozo B,
+de manera que cuando lo despliegues
+la figura recortada en {'e}l sea igual
+al agujero recortado en el trozo A.
+En la {'u}ltima imagen del trozo B, dibuja
+el corte que har{'i}as para que las figuras
+resultantes coincidan en ambos trozos.
+!******************************!
+[ec0b01000b000000:0245020000]
+{^!}Estupendo!
+
+Como puedes ver en el dibujo, cuando
+se despliegan, los dos trozos de papel
+tienen recortada la misma figura en el
+medio.
+
+{^?}Por qu{'e} no lo intentas con dos trozos
+de papel que tengas a mano? {^!}Puede ser
+divertido!
+!******************************!
+[ed0b01000c000000:0232030000]
+{^!}Qu{'e} corte!
+
+Para dar con la soluci{'o}n, quiz{'a} te ayude
+coger algunos trozos de papel y hacer
+algunos cortes en ellos.
+
+Si tienes la sensaci{'o}n de que tu respuesta
+era realmente correcta, quiz{'a} sea el
+tama{-n}o lo que falla.
+!******************************!
+[ee0b01000d000000:0222040000]
+Piensa en qu{'e} aspecto tendr{'a} el trozo
+A despu{'e}s de haberlo recortado y
+desplegado. Busca la soluci{'o}n a
+partir de ese punto.
+!******************************!
+[ef0b01000e000000:02aa040000]
+Cuando lo despliegues, el trozo A
+tendr{'a} recortado en su centro un
+cuadrado rotado 45{o} respecto del
+cuadrado que forman los bordes
+del papel.
+
+Al buscar esta figura, ten
+en cuenta tambi{'e}n el tama{-n}o.
+!******************************!
+[f00b01000f000000:027c050000]
+Lo puedes hacer con
+una sola l{'i}nea recta.
+!******************************!
+[f10b010010000000:02a9050000]
+Corta diagonalmente la esquina
+adecuada del trozo B y obtendr{'a}s
+la misma forma que hay recortada
+en el trozo A. La clave est{'a} en
+no cortar ni demasiado ni muy
+poco.
+!******************************!

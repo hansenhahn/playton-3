@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n129
+!******************************!
+n129a
+!******************************!
+n129b
+!******************************!
+[eb0b01000a000000:0211000000]
+Hay que llenar de agua la piscina para
+que los ni{-n}os puedan jugar en ella, pero
+todas las llaves de paso de la manguera
+que une la piscina al tanque de agua
+est{'a}n cerradas.
+
+Conecta el tanque de agua con la piscina
+abriendo solo tres llaves de paso.
+!******************************!
+[ec0b01000b000000:0211010000]
+{^!}As{'i} es!
+
+Esas son las tres llaves de paso
+que tienes que abrir. {^!}Ahora los
+chiquillos podr{'a}n darse un chapuz{'o}n!
+!******************************!
+[ed0b01000c000000:0291010000]
+{^!}Qu{'e} l{'a}stima!
+
+Recuerda que solo puedes abrir tres
+llaves de paso.
+
+Puedes partir del tanque y seguir la ruta
+por la manguera. O puedes partir de la
+piscina...
+!******************************!
+[ee0b01000d000000:023a020000]
+Partiendo del tanque, de las tres
+llaves por donde puede pasar
+el agua tras la primera divisi{'o}n
+de la manguera, la que tendr{'a}s que
+abrir es la central o la de abajo.
+!******************************!
+[ef0b01000e000000:02e6020000]
+En la primera bifurcaci{'o}n que
+encuentres tras abrir la llave que
+menciona la pista 1, escoge la ruta
+que pase por la llave de abajo. 
+!******************************!
+[f00b01000f000000:026f030000]
+Tras abrir las dos llaves de paso
+indicadas en las pistas anteriores,
+el resto es sencillo.
+Mira el final de la manguera.
+Desde all{'i}, busca una ruta que
+no contenga muchas llaves de paso
+y todo ir{'a} bien.
+!******************************!
+[f10b010010000000:0241040000]
+Tras seguir la ruta descrita en las
+pistas 1 y 2, la {'u}ltima llave de paso
+que tienes que abrir es la de la
+esquina inferior izquierda. Al
+abrirla, el agua llenar{'a} la piscina.
+Con solo tres llaves de paso, {^!}has
+completado el puzle!
+!******************************!
