@@ -554,7 +554,7 @@ def packSprite( src, tmp, dst ):
                                         buffer[width*(y0+hi*8) + x0*8 + wi] = l
                                         
                         # desmontamos o background e geramos um novo tilemap
-                        full_tileset = ["\x00"*32*2**colormap_bpp)]
+                        full_tileset = ["\x00"*32*2**colormap_bpp]
                         if colormap_bpp == 0:
                             lenght = len(buffer) / 32
                             for x in range(lenght):
@@ -578,7 +578,8 @@ def packSprite( src, tmp, dst ):
                             if tile == "\x00"*32*2**colormap_bpp:
                                 index = 0xffff
                             else:
-                                index = tiles.index(tile) + 1
+                                index = tiles.index(tile) #+ 1
+
                             new_tilemap.extend(struct.pack("<H", index))
 
                         while len(content) % 2 != 0:
@@ -631,7 +632,7 @@ def packSprite( src, tmp, dst ):
                             # w.write(output, buffer, 8, 'BMP')
                         
                         # output.close()
-                else:
+                #else:
                     
                     #return
                 record.append(content)
