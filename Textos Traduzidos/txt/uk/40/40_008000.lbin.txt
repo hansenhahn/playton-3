@@ -1,0 +1,188 @@
+[7017010000000000:0019000000]
+[7117030001000000:000a00000002000000000201000000]
+
+!******************************!
+Your Nintendo Wi-Fi Connection
+User Information may have been
+erased. Check your connection
+settings with the Nintendo Wi-Fi
+Connection setup.
+!******************************!
+[7117030004000000:000b00000002900000000291000000]
+
+!******************************!
+Connect to Nintendo Wi-Fi
+Connection?
+!******************************!
+[7117030007000000:000c00000002b700000002b8000000]
+
+!******************************!
+Connecting to Nintendo
+Wi-Fi Connection...
+Please wait a moment...
+!******************************!
+[711703000a000000:000d00000002fb00000002fc000000]
+
+!******************************!
+Disconnecting from Nintendo Wi-Fi
+Connection.
+!******************************!
+[711703000d000000:000e000000022a010000022b010000]
+
+!******************************!
+You have been disconnected from 
+Nintendo Wi-Fi Connection.
+!******************************!
+[7117030010000000:001400000002670100000268010000]
+
+!******************************!
+Unable to connect to Nintendo Wi-Fi
+Connection. For help, check the
+software Instruction Booklet, or
+visit support.nintendo.com.
+!******************************!
+[7117030013000000:001500000002e901000002ea010000]
+
+!******************************!
+Either Nintendo Wi-Fi Connection
+is experiencing high traffic volumes
+or the service is down.
+Please try again later. For help,
+visit support.nintendo.com.
+!******************************!
+[7117030016000000:001600000002860200000287020000]
+
+!******************************!
+This Nintendo Wi-Fi Connection ID
+was removed because it was inactive
+for a long time. For help, visit
+support.nintendo.com.
+!******************************!
+[7117030019000000:001700000002040300000205030000]
+
+!******************************!
+Nintendo Wi-Fi Connection service
+for this software has been
+discontinued. Visit
+support.nintendo.com for a list of
+current Nintendo Wi-Fi
+Connection-compatible software.
+!******************************!
+[711703001c000000:001800000002b003000002b1030000]
+
+!******************************!
+The access point is busy. Unable to
+connect. Please try again later.
+For help, visit
+support.nintendo.com.
+!******************************!
+[711703001f000000:0019000000021c040000021d040000]
+
+!******************************!
+No access point in range.
+Please try again when closer
+to an access point. For help,
+visit support.nintendo.com.
+!******************************!
+[7117030022000000:001a000000028e040000028f040000]
+
+!******************************!
+No compatible access point in
+range. Check your connection
+settings and try again. For help,
+visit support.nintendo.com.
+!******************************!
+[7117030025000000:001b00000002080500000209050000]
+
+!******************************!
+Unable to connect to the Nintendo
+Wi-Fi Connector. Confirm
+connection settings in the Nintendo
+Wi-Fi Connection setup. For help,
+visit support.nintendo.com.
+!******************************!
+[7117030028000000:001c00000002a605000002a7050000]
+
+!******************************!
+Unable to connect to Nintendo Wi-Fi
+Connection. Check your connection
+settings and try again. For help,
+visit support.nintendo.com.
+!******************************!
+[711703002b000000:001d000000022b060000022c060000]
+
+!******************************!
+You have been disconnected from 
+Nintendo Wi-Fi Connection because
+of a communication error.
+!******************************!
+[711703002e000000:001e0000000289060000028a060000]
+
+!******************************!
+Communication error. For help,
+visit support.nintendo.com.
+!******************************!
+[7117030031000000:001f00000002c506000002c6060000]
+
+!******************************!
+Download failed. For help, visit
+support.nintendo.com.
+!******************************!
+[7117030034000000:002000000002fd06000002fe060000]
+
+!******************************!
+Nintendo Wi-Fi Connection cannot be
+used because an error has
+occurred. Turn off the power and
+try again.
+!******************************!
+[7117030037000000:002800000002680700000269070000]
+
+!******************************!
+Error Code: %d
+!******************************!
+[711703003a000000:006400000002780700000279070000]
+
+!******************************!
+Downloading...
+Please wait a moment.
+!******************************!
+[711703003d000000:0065000000029e070000029f070000]
+
+!******************************!
+Download complete.
+
+Your Weekly Puzzle list has
+been updated.
+!******************************!
+[7117030040000000:006600000002dd07000002de070000]
+
+!******************************!
+Download complete.
+
+Your Weekly Puzzle list
+is already up to date.
+!******************************!
+[7117030043000000:006700000002210800000222080000]
+
+!******************************!
+Download complete.
+
+Number of new puzzles
+downloaded: %d
+!******************************!
+[7117030046000000:0068000000025b080000025c080000]
+
+!******************************!
+Saving downloaded data.
+
+Do not turn off your DS system.
+!******************************!
+[7117030049000000:006900000002950800000296080000]
+
+!******************************!
+The Weekly Puzzle download
+service has not started yet.
+
+Please check back later.
+!******************************!
