@@ -2,26 +2,27 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<V0010><T>I have to say, I feel a bit out of
-place here, Professor.</V>
+<V0010><T>Sabe, Professor, tô me sentindo
+um pouco deslocado aqui.</V>
 !******************************!
 [7117030004000000:000a000000024f0000000258000000]
 レイトン
 !******************************!
-<V0020><T>That's quite understandable, Luke.</V>
+<V0020><T>É perfeitamente compreensível,
+Luke.</V>
 !******************************!
 [7117030007000000:000a000000024f0000000289000000]
 レイトン
 !******************************!
-<T><V0021>I'm sure most people would feel the
-same way in the presence of the
-prime minister.</V>
+<T><V0021>Tenho certeza de que a maioria das
+pessoas também se sentiriam assim na
+presença do primeiro ministro.</V>
 !******************************!
 [711703000a000000:000a000000020000000002eb000000]
 ルーク
 !******************************!
-<V0030><T><A1/6>Hey look! I think I see Inspector
-Chelmey over there!</V>
+<V0030><T><A1/6>Ei, olhe! Acho que vi o Inspetor
+Chelmey ali!</V>
 !******************************!
 [711703000d000000:000a000000024f0000000235010000]
 レイトン
@@ -31,80 +32,80 @@ Chelmey over there!</V>
 [7117030010000000:000a00000002000000000253010000]
 ルーク
 !******************************!
-<V0050><T><A2/1>So, Professor, what do you think
-about this whole event?</V>
+<V0050><T><A2/1>Então, Professor, o quê está
+achando de tudo isto aqui?</V>
 !******************************!
 [7117030013000000:000a000000020000000002a0010000]
 ルーク
 !******************************!
-<T><V0051>Do you think that someone has
-really built a working time machine?</V>
+<T><V0051>Acha mesmo que alguém conseguiu
+realmente construir uma máquina do
+tempo?</V>
 !******************************!
 [7117030016000000:000a000000024f00000002f1010000]
 レイトン
 !******************************!
-<V0060><T><A1/1>I'm not entirely sure.</V>
+<V0060><T><A1/1>Não tenho tanta certeza.</V>
 !******************************!
 [7117030019000000:000a000000024f000000021c020000]
 レイトン
 !******************************!
-<T><V0061>Still, if it proves to be true, can
-you imagine the stir it will cause in
-the scientific community?</V>
+<T><V0061>Mas caso se prove real, consegue
+imaginar o impacto que isso irá
+causar na comunidade científica?</V>
 !******************************!
 [711703001c000000:000a0000000200000000028e020000]
 ルーク
 !******************************!
-<V0070><T><A4/2>Well, I think it's really exciting!<W>
-Though you don't sound entirely
-convinced, Professor.</V>
+<V0070><T><A4/2>Bem, eu estou muito empolgado!
+Apesar de que você não parece
+muito convencido, Professor.</V>
 !******************************!
 [711703001f000000:000a000000024f00000002ff020000]
 レイトン
 !******************************!
-<V0080><T><A1/2>Anything's possible, Luke.<W> But I
-won't be convinced until I've seen
-the contraption work for myself.</V>
+<V0080><T><A1/2>Tudo é possível, Luke.<W> Mas não estarei
+convencido até ver a máquina funcionar
+com meus próprios olhos.</V>
 !******************************!
 [7117030022000000:000a000000024f000000027b030000]
 レイトン
 !******************************!
-<V0090><T><A3/1>And I must confess, something
-about this entire presentation
-seems a bit...off.</V>
+<V0090><T><A3/1>E confesso que tem algo em relação
+a esta apresentação que não parece
+estar... cheirando bem.</V>
 !******************************!
 [7117030025000000:000a000000020000000002df030000]
 ルーク
 !******************************!
-<V0100><T><A1/1>Why do you say that?</V>
+<V0100><T><A1/1>Por que acha isso?</V>
 !******************************!
 [7117030028000000:000a00000002000000000208040000]
 ルーク
 !******************************!
-<T><V0101><A2/2>Ah, of course.<W><W> That must be your
-famous intuition talking, eh?</V>
+<T><V0101><A2/2>Ah, é claro!<W><W> É a sua famosa intuição
+falando, né?</V>
 !******************************!
 [711703002b000000:000a000000024f0000000261040000]
 レイトン
 !******************************!
-<V0110><T>That's one way of putting it.<W> <A1/2>But
-enough speculation. <W>Look over
-there, Luke.</V>
+<V0110><T>Podemos dizer que sim.<W> <A1/2>Mas
+chega de especulações. <W>Olhe ali, Luke.</V>
 !******************************!
 [711703002e000000:000a000000020000000002c8040000]
 ルーク
 !******************************!
-<V0120><T><A4/1>That guard? What about him?</V>
+<V0120><T><A4/1>Aquele guarda? O quê tem ele?</V>
 !******************************!
 [7117030031000000:0014000000024f00000002f8040000]
 レイトン
 !******************************!
-<V0130><T><A2/2>He seems to be looking for a man
-who snuck into the event uninvited.</V>
+<V0130><T><A2/2>Parece que ele está procurando
+por alguém que entrou no evento
+sem ter sido convidado.</V>
 !******************************!
 [7117030034000000:001400000002000000000251050000]
 ルーク
 !******************************!
-<V0140><T><A3/1>Ooh! So we have an intruder in our
-midst!</V>
+<V0140><T><A3/1>Ooh! Temos um penetra entre nós!</V>
 !******************************!

@@ -9,21 +9,22 @@ né, Inspetor?! Nhac...</V>
 バートン（食）
 !******************************!
 <V0020><T>O que será que fizemos pra
-merecer um convite para este
-banquete?</V>
+receber um convite pra um
+banquete como este?</V>
 !******************************!
 [7117030007000000:000a00000002c100000002d2000000]
 チェルミー（食）
 !******************************!
-<V0030><T><A1/5>É óbvio, Barton!<W> Eu sou uma pessoa
-muito influente no mundo da forças
+<V0030><T><A1/5>É óbvio, Barton!<W> Eu sou muito
+influente no mundo das forças
 policiais.</V>
 !******************************!
 [711703000a000000:000a00000002c10000000237010000]
 チェルミー（食）
 !******************************!
 <T><V0031>É natural que eu seja convidado
-para um evento importante como este.</V>
+para um evento tão importante
+como este.</V>
 !******************************!
 [711703000d000000:000a0000000200000000028a010000]
 バートン（食）

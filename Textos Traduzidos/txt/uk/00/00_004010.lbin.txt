@@ -2,31 +2,30 @@
 [7117030001000000:000a00000002000000000211000000]
 カレリナ首相夫人
 !******************************!
-<V0010><T>Oh, this food is simply dreadful,
-Bill. <W>Do get this over with quickly so
-we can leave.</V>
+<V0010><T>Ah, está comida é simplesmente
+intragável, Bill. <W> Termine logo isso
+para irmos embora.</V>
 !******************************!
 [7117030004000000:000a00000002790000000286000000]
 ビル・ホーク
 !******************************!
-<V0020><T>Yes, dear...</V>
+<V0020><T>Sim, querida...</V>
 !******************************!
 [7117030007000000:0014000000020000000002a1000000]
 カレリナ首相夫人
 !******************************!
-<T><A1/5>This event is a complete charade! 
-<A1/2>Don't you agree, Bill?
+<T><A1/5>Este evento é um completo
+mistério! <A1/2>Não concorda, Bill?
 !******************************!
 [711703000a000000:0014000000027900000002ea000000]
 ビル・ホーク
 !******************************!
-<T>Hmmm? What's that? Oh yes, a
-complete charade.
+<T>Hmmm? Como é? Ah sim, um completo
+mistério.
 !******************************!
 [711703000d000000:00140000000200000000021c010000]
 カレリナ首相夫人
 !******************************!
-<T><A1/1>Well, I hope the presentation is
-brief. We do have places to be,
-you know.
+<T><A1/1>Espero que essa apresentação comece
+logo. Nossa agenda está apertada.
 !******************************!
