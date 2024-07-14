@@ -14,18 +14,19 @@ para irmos embora.</V>
 [7117030007000000:0014000000020000000002a1000000]
 カレリナ首相夫人
 !******************************!
-<T><A1/5>Este evento é um completo
-mistério! <A1/2>Não concorda, Bill?
+<T><A1/5>Este evento é uma perda
+de tempo! <A1/2>Não concorda, Bill?
 !******************************!
 [711703000a000000:0014000000027900000002ea000000]
 ビル・ホーク
 !******************************!
-<T>Hmmm? Como é? Ah sim, um completo
-mistério.
+<T>Hmmm? Como é? Ah sim, uma completa
+perda de tempo.
 !******************************!
 [711703000d000000:00140000000200000000021c010000]
 カレリナ首相夫人
 !******************************!
 <T><A1/1>Espero que essa apresentação comece
-logo. Nossa agenda está apertada.
+logo. Temos muitas outras coisas
+para fazer.
 !******************************!
