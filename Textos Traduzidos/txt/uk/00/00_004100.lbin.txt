@@ -2,57 +2,55 @@
 [7117030001000000:000a00000002000000000207000000]
 スミス
 !******************************!
-<T><A4/4>Oh crumbs, I've really blown it this
-time...
+<T><A4/4>Ah, puxa... Dessa vez eu me dei mal...
 !******************************!
 [7117030004000000:0014000000023d0000000246000000]
 レイトン
 !******************************!
-<T><A1/2>You look troubled, sir. Might we be
-of assistance?
+<T><A1/2>O senhor parece preocupado.
+Podemos ajudar em algo?
 !******************************!
 [7117030007000000:001400000002000000000282000000]
 スミス
 !******************************!
-<T><A3/5>Assistance? Oh yes, please! See,
-I've just received a report of
-some untoward behaviour...
+<T><A3/5>Ajuda? Ah, sim, por favor! Veja bem,acabei
+de receber um relatório sobre um comportamento
+inapropriado...
 !******************************!
 [711703000a000000:00e8030000020000000002e6000000]
 スミス
 !******************************!
-<T><A4/4>I'll never find this scoundrel on my
-own. I'm done for!
+<T><A4/4>Eu nunca vou encontrar esse pilantra sozinho.
+Estou acabado!
 !******************************!
 [711703000d000000:00d007000002000000000227010000]
 スミス
 !******************************!
-<T><A2/2>You'll help me find that uninvited
-guest, won't you?
+<T><A2/2>Vocês vão me ajudar a encontrar esse intruso,
+não vão?
 !******************************!
 [7117030010000000:00b80b0000023d0000000265010000]
 レイトン
 !******************************!
-<T><A4/2>Splendid work, my boy!
+<T><A4/2>Excelente trabalho, meu garoto!
 !******************************!
 [7117030013000000:00bd0b000002000000000285010000]
 スミス
 !******************************!
-<T><A2/2>Phew! Thanks so much for your help.
-There'll be no more scrounging on
-my watch!
+<T><A2/2>Ufa! Muito obrigado pela ajuda.
+Enquanto eu estiver de olho, ninguém mais
+vai se aproveitar das coisas por aqui!
 !******************************!
 [7117030016000000:00c20b000002de01000002e5010000]
 ルーク
 !******************************!
-<T>Did you see that, Professor? I just
-assisted in the apprehension of a
-suspect!
+<T>Viu isso, Professor? Eu acabei de ajudar
+a capturar um suspeito!
 !******************************!
 [7117030019000000:00c20b000002de0100000237020000]
 ルーク
 !******************************!
-<T>Oh! Looks like the presentation is
-about to begin!<W> Let's get back to
-our seats.
+<T>Ah! Parece que a apresentação
+está prestes a começar!<W> Vamos voltar
+pros nossos assentos.
 !******************************!
