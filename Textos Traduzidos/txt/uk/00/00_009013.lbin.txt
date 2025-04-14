@@ -2,14 +2,14 @@
 [7117030001000000:000a0000000200000000020b000000]
 フローレス
 !******************************!
-<T><A2/0>Hey, you two! Don't go rushing off!
-I've got things to tell you!<W>
-Important things!
+<T><A2/0>Ei, vocês dois! Nada de sair correndo!
+Tenho coisas pra contar!<W>
+Coisas importantes!
 !******************************!
 [7117030004000000:00140000000200000000026a000000]
 フローレス
 !******************************!
-<T><A1/3>Hmph!<W> Didn't anyone ever teach you
-any manners?<W> You can't just walk
-off when I'm mid-lecture!
+<T><A1/3>Hmph!<W> Ninguém nunca ensinou boas
+maneiras pra vocês?<W> Não se sai andando
+assim no meio da minha explicação!
 !******************************!

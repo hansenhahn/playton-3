@@ -2,50 +2,46 @@
 [7117030001000000:000a0000000200000000020b000000]
 フローレス
 !******************************!
-<T>Well hello there, you strapping
-young things!
+<T>Ora, ora, vejam só quem chegou!
+Dois jovenzinhos cheios de energia!
 !******************************!
 [7117030004000000:000a0000000200000000023c000000]
 フローレス
 !******************************!
-<T><A2/0>I can tell from the looks on your
-faces that you're just dying to
-hear something useful!
+<T><A2/0>Essas carinhas me dizem tudo! Aposto que
+estão loucos pra ouvir uma dica útil, não é?
 !******************************!
 [7117030007000000:000a0000000200000000029e000000]
 フローレス
 !******************************!
-<T><A1/1>All right, here's my pearl of wisdom.
-Go and touch that car parked over
-there.
+<T><A1/1>Muito bem, aqui vai uma dica de ouro: toque
+naquele carro estacionado ali.
 !******************************!
 [711703000a000000:0014000000020000000002f6000000]
 フローレス
 !******************************!
-<T><A1/1>Oi! Get your hands off me! Touch
-that car parked over there, I said!
+<T><A1/1>Ei! Tira essas mãos de mim!
+Eu falei pra tocar no carro estacionado ali!
 !******************************!
 [711703000d000000:001e0000000244010000024b010000]
 ルーク
 !******************************!
-<T><A4/4>But...what about the car?
+<T><A4/4>Mas... e o carro?
 !******************************!
 [7117030010000000:001e0000000200000000026e010000]
 フローレス
 !******************************!
-<T>Dear me, you've made quite a mess,
-haven't you? Now why did you go
-and do a thing like that?
+<T>Ai, ai, ai... Mas que bagunça você fez!
+E por que foi fazer uma coisa dessas, hein?
 !******************************!
 [7117030013000000:001e000000024401000002ce010000]
 ルーク
 !******************************!
-<T><A1/5>It wasn't m-my fault! You were the
-one who told me to touch it!
+<T><A1/5>Eu-eu não tive culpa!
+Foi você quem mandou eu tocar!
 !******************************!
 [7117030016000000:001e00000002000000000217020000]
 フローレス
 !******************************!
-<T>Oh, did I now?<W> I certainly don't
-recall saying anything of the sort.
+<T>Ah é?<W> Não lembro de ter dito nada disso, não...
 !******************************!
