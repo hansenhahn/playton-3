@@ -2,59 +2,58 @@
 [7117030001000000:000a0000000200000000020b000000]
 OPルーク３
 !******************************!
-<V0010><T>So, you think that what happened
-last week is somehow connected to
-this letter...</V>
+<V0010><T>Então você acha que o que aconteceu
+semana passada está de alguma forma
+ligado a esta carta...</V>
 !******************************!
 [7117030004000000:000a0000000200000000026b000000]
 OPルーク３
 !******************************!
-<V0020><T>Wait! Maybe if the time machine was
-real, this letter is real, too!</V>
+<V0020><T>Espere! Se a máquina do tempo era
+real, talvez esta carta seja real também!</V>
 !******************************!
 [7117030007000000:000f00000002bd00000002ca000000]
 OPレイトン３
 !******************************!
-<V0030><T>I don't know about that, but these
-two elements aren't the only puzzling
-issues.</V>
+<V0030><T>Não sei quanto a isso, mas esses
+dois elementos não são os únicos
+mistérios.</V>
 !******************************!
 [711703000a000000:000f00000002bd0000000229010000]
 OPレイトン３
 !******************************!
-<T><V0031>Tell me, Luke, have you heard about
-the recent disappearances
-occurring here in London?</V>
+<T><V0031>Diga-me, Luke, você ouviu falar
+dos desaparecimentos recentes
+aqui em Londres?</V>
 !******************************!
 [711703000d000000:00140000000200000000028f010000]
 OPルーク３
 !******************************!
-<V0040><T>Oh yes, I read about it in the
-paper.</V>
+<V0040><T>Ah, sim. Li sobre isso no jornal.</V>
 !******************************!
 [7117030010000000:0014000000020000000002c3010000]
 OPルーク３
 !******************************!
-<T><V0041>Some of London's greatest
-scientists have been mysteriously
-vanishing.</V>
+<T><V0041>Alguns dos maiores cientistas de
+Londres têm desaparecido
+misteriosamente.</V>
 !******************************!
 [7117030013000000:001400000002bd0000000218020000]
 OPレイトン３
 !******************************!
-<V0050><T>Yes, and I can't shake the feeling
-that those disappearances are
-linked to this whole affair.</V>
+<V0050><T>Sim, e não consigo tirar da cabeça
+que esses desaparecimentos estão
+ligados a todo esse caso.</V>
 !******************************!
 [7117030016000000:001e00000002bd0000000284020000]
 OPレイトン３
 !******************************!
-<V0060><T>In any case, it seems our best
-course of action is to head to the
-location mentioned in the letter.</V>
+<V0060><T>De qualquer forma, parece que o
+melhor a fazer é irmos até o
+local mencionado na carta.</V>
 !******************************!
 [7117030019000000:001e000000020000000002f6020000]
 OPルーク３
 !******************************!
-<V0070><T>Good idea!</V>
+<V0070><T>Boa ideia!</V>
 !******************************!
