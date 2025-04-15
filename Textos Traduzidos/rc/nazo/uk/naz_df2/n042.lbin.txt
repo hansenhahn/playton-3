@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000380400000038040000000100000000000000000000000000]
+n042
+!******************************!
+n042a
+!******************************!
+n042b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você consegue fazer um sanduíche
+com essas especificações?
+
+{.} Presunto acima da salada de batata.
+{.} O único ingrediente entre presunto
+e tomate é alface.
+{.} O queijo toca o pão.
+{.} O ingrediente central não é
+presunto e nem alface.
+
+Arraste os ingredientes para suas
+posições corretas e toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:024b010000]
+Que delícia!
+
+Hora de comer!
+!******************************!
+[ed0b01000c000000:026d010000]
+Errado!
+
+Se apresse e faça esse sanduíche logo!
+
+!******************************!
+[ee0b01000d000000:0295010000]
+Enquanto você tenta colocar os
+ingredientes de acordo com as regras,
+está achando que sempre parece que o
+presunto ou a alface ficam no meio?
+
+O truque é descobrir onde colocar
+o presunto.
+!******************************!
+[ef0b01000e000000:0257020000]
+O presunto deverá estar ou no
+topo ou no fundo.
+!******************************!
+[f00b01000f000000:028b020000]
+O queijo deve ficar no fundo.
+!******************************!
+[f10b010010000000:02af020000]
+O queijo fica no fundo, para ficar
+próximo do pão, então o presunto
+deve ficar no topo.
+
+Já que a alface tem que ficar entre o
+presunto e o tomate, a ordem de cima
+para baixo é presunto, alface e tomate.
+
+Com o queijo no fundo, o
+sanduíche estará pronto.
+!******************************!

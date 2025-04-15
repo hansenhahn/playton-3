@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n083
+!******************************!
+n083a
+!******************************!
+n083b
+!******************************!
+[eb0b01000a000000:0211000000]
+Caminhe do quadrado verde ao quadrado
+vermelho, um passo de cada vez.
+
+Porém, siga essa regra: você só pode
+andar em números que são um número maior
+ou menor que o número que você está.
+
+Chegue no quadrado vermelho seguindo
+essa regra e a porta se abrirá. Cada número
+tocado se acenderá. Faça com que todos
+os quadrados do seu caminho estejam
+acesos antes de enviar sua resposta.
+!******************************!
+[ec0b01000b000000:0287010000]
+Sucesso!
+
+Você encontrou o caminho correto!
+!******************************!
+[ed0b01000c000000:02ad010000]
+Errado!
+
+Lembre-se, ande apenas em números que
+diferem por 1 do seu número, tanto
+somado quanto subtraído.
+
+Mantenha essa regra em mente e tente
+mais uma vez.
+!******************************!
+[ee0b01000d000000:0243020000]
+Talvez pareça haver vários cruzamentos,
+mas escolha cuidadosamente o seu
+caminho e você ficará bem.
+
+!******************************!
+[ef0b01000e000000:02a7020000]
+Não faça os números somarem tanto.
+Se você chegou em um 7, já cometeu um
+erro. Quando chegar em um 6, você
+precisa andar para um 5.
+
+Acha que consegue resolver agora?
+!******************************!
+[f00b01000f000000:0250030000]
+Se estiver preso, tente fazer o caminho
+inverso: do quadrado vermelho para o
+verde. Só há um caminho para começar
+se você ir por essa direção.
+!******************************!
+[f10b010010000000:02df030000]
+O caminho correto é:
+
+1, 2, 3, 4, 3, 2, 3, 4, 5, 6, 5, 4, 3, 2, 1
+!******************************!

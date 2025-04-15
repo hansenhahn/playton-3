@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000200000000f203000000f2030000000100000000000000000000000000]
+n002
+!******************************!
+n002a
+!******************************!
+n002b
+!******************************!
+[eb0b01000a000000:0211000000]
+Aqui está o mapa para a relojoaria
+anexada à carta do Luke do futuro.
+Começando da seta amarela, você
+sabe como achar a relojoaria usando
+as horas listadas no mapa?
+
+Circule a letra do prédio correto
+e toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:020d010000]
+Na hora certa!
+
+A resposta é H. Os tempos indicam a
+direção a se seguir em cada cruzamento,
+escritas em ordem.
+
+A cada cruzamento, você precisa checar
+a hora listada e seguir na direção que
+o ponteiro das horas estaria apontando.
+!******************************!
+[ed0b01000c000000:02f4010000]
+Azar!
+
+As horas listadas são dicas de como
+chegar na relojoaria.
+
+Pense um pouco mais nelas.
+!******************************!
+[ee0b01000d000000:0253020000]
+Para descobrir o caminho para a loja,
+você precisa pensar em onde virar
+e em qual direção...
+!******************************!
+[ef0b01000e000000:02b0020000]
+Pense nas horas listadas sendo mostradas 
+em um relógio analógico. O ponteiro dos
+minutos sempre apontará para cima, mas o
+das horas estará em várias direções...
+!******************************!
+[f00b01000f000000:0252030000]
+Se estiver com problemas, você deve
+estar tentando se imaginar no mapa e
+tentando descobrir as direções por
+ali mesmo.
+
+Olhe o mapa como se você fosse um
+relógio na parede, então use a
+Função Notas para desenhar a direção
+do ponteiro nas horas no mapa.
+!******************************!
+[f10b010010000000:025f040000]
+Para cada hora listada, ande na direção
+que o ponteiro das horas apontaria
+em um relógio analógico.
+
+A primeira hora listada é 12:00, então
+siga em frente no primeiro cruzamento
+que passar. A próxima é 03:00, então
+olhe para o lado e vire à direita no
+segundo cruzamento. O resto é com
+você.
+!******************************!

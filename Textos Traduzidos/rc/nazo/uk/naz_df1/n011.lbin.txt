@@ -6,54 +6,52 @@ n011a
 n011b
 !******************************!
 [eb0b01000a000000:0211000000]
-Can you fit these five pieces together in
-the shape of Professor Layton's top hat
-without overlapping the pieces or leaving
-any empty space?
+Você consegue encaixar estas cinco
+peças juntas no formato da cartola do
+Professor Layton sem sobrepor elas ou
+deixar qualquer espaço vazio?
 
-You can flip and rotate the pieces in
-order to do it.
+É possível virar e girar as peças
+para fazer isso.
 !******************************!
 [ec0b01000b000000:02d5000000]
-Fanhatstic!
+Fancartolástico!
 
-This puzzle is a variation on a traditional
-tangram. In tangram puzzles, the same
-seven pieces are combined to create
-various shapes.
+Esse enigma é uma variação de um
+tangram tradicional. Em tangrams, as
+sete peças são usadas para combinações
+de diferentes formas.
 
-Maybe we should call this five-piece
-version a Laytangram!
+Talvez devêssemos chamar essa versão
+de cinco peças de Laytangram!
 !******************************!
 [ed0b01000c000000:02a4010000]
 
 !******************************!
 [ee0b01000d000000:02a5010000]
-These hints will give you a method of
-completing the puzzle by flipping as
-few pieces as possible. Following this
-method, the only piece that should be
-flipped is {#2}.
+Essas dicas ensinarão um método para
+completar o enigma virando o mínimo
+de peças possíveis. Usando esse método,
+apenas a peça {#2} precisa ser virada.
 
-Of course, you could also complete the
-puzzle the other way round, which would
-mean flipping {#0} and {#1}.
+Claro que você também pode fazer o
+enigma pelo caminho contrário, ou
+seja, virando as peças {#0} e {#1}.
 !******************************!
 [ef0b01000e000000:02bb020000]
-If you flip {#2}, then {#0} doesn't need to be
-rotated. Place it in the top-left corner
-of the hat.
+Virar a peça {#2} implica que a peça {#0}
+não precisa ser girada. Coloque-a no
+topo superior esquerdo do chapéu.
 !******************************!
 [f00b01000f000000:021f030000]
-Flip {#2} and position it horizontally.
-This is part of the hat's brim.
-The other part of the hat's brim is
-formed by {#1} when it is rotated.
-
+Vire a peça {#2} e posicione-a
+horizontalmente. Ela é parte da aba
+do chapéu. A outra parte da aba é
+formada pela peça {#1} ao ser girada.
 !******************************!
 [f10b010010000000:02af030000]
-Make the shortest arm of {#1} a part
-of the brim. All you have to do now
-is slot in {#3} and {#4}, and the puzzle is
-complete.
+Faça o braço mais curto da peça {#1}
+ser parte da aba. Depois, encaixe as
+peças {#3} e {#4} para completar o
+enigma.
 !******************************!

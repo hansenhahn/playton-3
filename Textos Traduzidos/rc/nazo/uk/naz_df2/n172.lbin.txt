@@ -1,0 +1,48 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n172
+!******************************!
+n172a
+!******************************!
+n172b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um amigo seu ama band-aids. Nem pergunte
+o porquê, ele só AMA! Ele os usa a
+qualquer hora, mesmo sem machucados.
+
+Como sempre, ele tem um monte deles
+colados no rosto. Mas hoje, ele fez um
+enigma sobre eles só para você!
+
+{''}Qual deles eu botei primeiro?{''}
+
+Toque no band-aid correto para marcá-lo
+com um X, e depois aperte em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:026c010000]
+Mandou bem!
+
+O band-aid que ele colocou primeiro tem
+que estar embaixo do resto. Se ver bem,
+só tem um band-aid no rosto dele que não
+está em cima de nenhum dos outros.
+!******************************!
+[ed0b01000c000000:021c020000]
+Que pena!
+
+Olhe cuidadosamente todos os band-aids
+antes de responder.
+!******************************!
+[ee0b01000d000000:0266020000]
+O primeiro band-aid que ele colocou
+deve estar embaixo de todos os outros.
+!******************************!
+[ef0b01000e000000:02a9020000]
+
+!******************************!
+[f00b01000f000000:02aa020000]
+
+!******************************!
+[f10b010010000000:02ab020000]
+
+!******************************!

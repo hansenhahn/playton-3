@@ -1,0 +1,43 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n213
+!******************************!
+n213a
+!******************************!
+n213b
+!******************************!
+[eb0b01000a000000:0211000000]
+Houve um desmoronamento na caverna
+onde você está fazendo sua expedição,
+e agora você está preso debaixo da
+terra!
+
+Para escapar, passe por todos esses
+blocos e chegue na saída, marcada pela
+seta branca na superfície.
+
+Você é a bola laranja. Boa sorte!
+!******************************!
+[ec0b01000b000000:0206010000]
+Você conseguiu!
+
+Ufa! Essa foi por pouco.
+!******************************!
+[ed0b01000c000000:0230010000]
+Que azar!
+!******************************!
+[ee0b01000d000000:0239010000]
+Os dois blocos perto da saída
+são um grande incômodo, não é?
+
+Alinhe esses dois, jogando-os para
+baixo, e você sairá rapidamente!
+!******************************!
+[ef0b01000e000000:02c1010000]
+
+!******************************!
+[f00b01000f000000:02c2010000]
+
+!******************************!
+[f10b010010000000:02c3010000]
+
+!******************************!

@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n014
+!******************************!
+n014a
+!******************************!
+n014b
+!******************************!
+[eb0b01000a000000:0211000000]
+Uma mulher está procurando uma estação
+de trem, mas não parece que ela está no
+mapa. Entretanto, há uma dica na parte
+de trás para ajudá-la.
+
+{''}Para ir da floricultura até a
+estação, siga o caminho que os alunos
+da escola fazem até a biblioteca.{''}
+
+Circule a localização da estação e
+aperte em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:0245010000]
+Bom senso de direção!
+
+Se você usar a rota que os alunos usam
+para ir à biblioteca e começar a partir
+da floricultura, você terá o mapa
+acima para se guiar.
+
+Há outros caminhos que podem ser usados,
+mas todos os caminhos levam ao mesmo
+destino.
+!******************************!
+[ed0b01000c000000:0236020000]
+Que pena!
+
+Tente usar a Função Notas para traçar
+o caminho no mapa.
+!******************************!
+[ee0b01000d000000:027a020000]
+Use a Função Notas para traçar o
+caminho dos alunos até a biblioteca.
+Você quer imitar esse caminho.
+!******************************!
+[ef0b01000e000000:02dc020000]
+Pense sobre como você diria a alguém
+para tomar direções: {''}Saia pela
+porta e vire à esquerda. No primeiro
+cruzamento, vire à direita.{''}
+
+Algo do tipo, certo?
+!******************************!
+[f00b01000f000000:0285030000]
+Aqui estão as direções da escola
+até a biblioteca:
+
+{''}Saia da escola e vire à esquerda. No
+segundo cruzamento, vire à esquerda de
+novo e passe por dois cruzamentos após
+isso. A biblioteca estará à sua esquerda.{''}
+!******************************!
+[f10b010010000000:0253040000]
+Da floricultura, siga essas
+direções:
+
+{''}Saia da floricultura e vire à
+esquerda. No segundo cruzamento, vire à
+esquerda de novo e passe por dois
+cruzamentos. A estação estará á sua
+esquerda.{''}
+
+É o mesmo caminho que os alunos fazem
+da escola até a biblioteca, mas girado
+em 90 graus em sentido horário.
+!******************************!

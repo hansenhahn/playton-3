@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n064
+!******************************!
+n064a
+!******************************!
+n064b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esta foto, tirada na linha de chegada
+de uma corrida, foi cortada e misturada
+em tiras.
+Antes de ser cortada, ela mostrava os
+corredores na ordem de chegada.
+
+Qual corredor chegou em terceiro? 
+Circule a letra que corresponde
+à sua resposta.
+!******************************!
+[ec0b01000b000000:0218010000]
+Bom olho!
+
+O F chegou em terceiro por um nariz.
+!******************************!
+[ed0b01000c000000:023b010000]
+Resposta errada!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:025a010000]
+Olhe bem como as tiras se encaixam
+e logo logo você vai conseguir.
+Baseie suas observações nas coisas mais
+fáceis de se ver, como pássaros ou os
+olhares diferentes de alguém.
+!******************************!
+[ef0b01000e000000:0209020000]
+Exemplo: a cabeça do pássaro branco
+perto do J se encaixa com o pescoço do
+pássaro, implicando que ela vem antes
+(lê-se "á esquerda) da tira que tem
+o corredor D.
+!******************************!
+[f00b01000f000000:02a7020000]
+O rosto de A está acima de D. Em outras
+palavras, a tira com o corredor A vem
+depois da tira com o corredor D.
+
+E a cabeça do pássaro branco na frente
+do corredor I? Consegue achar?
+!******************************!
+[f10b010010000000:024d030000]
+A cabeça do pássaro mencionado pela Dica
+3 não aparece na foto.
+
+A ordem das tiras da foto, da esquerda
+para a direita, é a seguinte:
+A tira com o H, a tira com o F,
+a tira com o J, a tira com o D
+e a tira com o A.
+
+Agora, ache o terceiro lugar.
+!******************************!

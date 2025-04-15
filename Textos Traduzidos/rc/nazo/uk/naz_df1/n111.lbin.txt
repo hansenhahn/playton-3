@@ -6,69 +6,67 @@ n111a
 n111b
 !******************************!
 [eb0b01000a000000:0211000000]
-A 5 cm x 10 cm bar of chocolate has a
-5 cm x 1 cm piece broken off from it, as
-shown in the image below. The chocolate
-bar has also had a 5 mm diameter hole
-drilled into it at the location shown in
-the image.
+Uma barra de chocolate tamanho 5 x 10 cm
+tem um pedaço de 5 x 1 cm quebrado, como
+mostrado na imagem abaixo. A barra
+também tem um buraco de 5 milímetros de
+diâmetro na área destacada na imagem.
 
-How many more pieces can you break off
-from the remaining chocolate bar that
-are the exact same size and shape as this
-one?
+Em quantos pedaços você consegue quebrar
+a barra de chocolate no mesmo tamanho e
+forma que o pedaço quebrado?
 
-Any piece that contains even a small part
-of the hole can't be included in the count.
+Qualquer pedaço que tenha uma mísera
+parte do buraco não pode ser contada.
 !******************************!
 [ec0b01000b000000:02b6010000]
-Cocoa-rrect!
+Corretíssimo!
 
-Eight pieces.
+Oito pedaços.
 
-You should break up the left side of the
-chocolate bar horizontally, as shown in
-the image.
+Você deve quebrar o lado esquerdo da
+barra de forma horizontal, como mostrado
+na imagem.
 
-If you make sure the entire hole fits
-within one piece of chocolate and exclude
-that piece from the count, you're left
-with eight pieces.
+Se você conseguir fazer o buraco estar
+inteiro em um pedaço da barra e excluir
+esse pedaço da contagem, você irá ficar
+com oito pedaços.
 !******************************!
 [ed0b01000c000000:02ba020000]
-Too bad.
+Que pena.
 
-You need to bend your brain just
-a little.
+Precisa se esforçar um pouco
+mais.
 !******************************!
 [ee0b01000d000000:02ef020000]
-First try simply cutting the chocolate
-bar in vertical strips. If you break off
-pieces that are exactly the same as the
-first piece, you'll have nine pieces.
+Primeiro tente quebrar a barra em
+pedaços verticais. Quebrando-as em
+pedaços exatamente iguais ao primeiro
+pedaço, você irá ter nove pedaços.
 
 
 !******************************!
 [ef0b01000e000000:028f030000]
-If you cut the chocolate evenly into
-nine pieces, as described in Hint 1,
-the two pieces on the left edge will
-have a hole in them. 
+Se você cortar igualmente o chocolate
+em nove pedaços, assim como a Dica 1
+disse, os dois pedaços da ponta
+esquerda terão um buraco nele.
 
-So, 9 - 2 = 7. Is that really the
-answer?
+9 - 2 = 7, simples. Mas será mesmo que
+essa é a resposta?
 
-Bend your brain just a little harder.
+Pense um pouco mais sobre.
 !******************************!
 [f00b01000f000000:0266040000]
-You don't have to break off the other
-pieces in the same way as the first one.
-Try cutting the left 5 cm of the
-chocolate bar horizontally.
+Você não precisa quebrar os outros
+pedaços do mesmo jeito que o primeiro.
+Tente cortar os 5 centímetros do lado
+esquerdo da barra horizontalmente.
 !******************************!
 [f10b010010000000:02f2040000]
-The hole can be contained in only one
-piece.
+O buraco pode ser deixado em um
+pedaço.
 
-How many pieces are left if you do that?
+Quantos pedaços sobram ao fazer isso?
 !******************************!

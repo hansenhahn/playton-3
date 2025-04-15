@@ -6,66 +6,67 @@ n081a
 n081b
 !******************************!
 [eb0b01000a000000:0211000000]
-This note contains instructions for
-disarming the traps in the door!
+Essa nota tem instruções de como
+desarmar as armadilhas da porta!
 
-{''}One of the four buttons, A, B, C or D,
-disarms the traps. To find out which one
-it is, trace a path from the centre
-square, going horizontally or vertically
-from square to square in the order red,
-blue, yellow until you reach the correct
-button. You cannot pass through the same
-square twice.{''}
+{''}Um dos quatro botões, A, B, C ou D,
+desarma as armadilhas. Para descobrir
+qual, trace um caminho do quadrado
+central, indo horizontalmente ou
+verticalmente na ordem: vermelho,
+azul e amarelo, até chegar no botão
+correto. Não dá para passar duas
+vezes pelo mesmo quadrado.{''}
 
-Touch the correct button, A to D.
+Toque o botão correto, de A a D.
 !******************************!
 [ec0b01000b000000:02a7010000]
-Well done!
+Muito bem!
 
-Button A on the top-left is the one that
-disarms the traps.
+O botão A no canto superior esquerdo
+é o que desarma as armadilhas.
 
-Now you can open the door!
+Agora você pode abrir a porta!
 
 !******************************!
 [ed0b01000c000000:020c020000]
-Too bad.
+Que pena.
 
-Are you sure you followed the colour
-order correctly?
+Tem certeza que seguiu a ordem
+de cores corretamente?
 !******************************!
 [ee0b01000d000000:024c020000]
-Red, blue, yellow. 
+Vermelho, azul, amarelo. 
 
-Follow this order carefully and the
-location of the correct button will
-soon become apparent.
+Siga essa ordem cuidadosamente e
+a localização do botão correto irá
+ficar mais clara.
 !******************************!
 [ef0b01000e000000:02bf020000]
-Are you sure you're sticking to the
-red, blue, yellow order?
+Tem certeza que está seguindo a
+ordem vermelho, azul e amarelo?
 
-From the start, go right, up, left, left,
-up, left, up.
+Do começo, siga pela direita, cima,
+esquerda, esquerda, cima, esquerda e
+direita.
 
-After that, check where you can go
-from each square, one by one.
+Depois, veja para onde você pode ir
+de cada quadrado, um por um.
 !******************************!
 [f00b01000f000000:0277030000]
-Follow the directions given in Hint 2,
-then continue around to the right,
-following the red, blue, yellow order.
+Siga as direções da Dica 2, e continue
+pela direita, seguindo a ordem de
+vermelho, azul e amarelo.
 
-Unless you make a mistake with the
-colour order along the way, you're sure
-to eventually find the correct button
-for disarming the traps.
+A menos que você erre na ordem das
+cores enquanto segue o caminho, você
+eventualmente achará o botão correto
+para desarmar as armadilhas.
 !******************************!
 [f10b010010000000:0273040000]
-The button you're after isn't the one
-in the top-right or the bottom-right.
-The correct answer is one of the
-buttons on the left side!
+O botão pelo qual você procura não
+está em nenhum dos cantos do lado
+direito. Sim, é um dos botões do
+lado esquerdo!
 
 !******************************!

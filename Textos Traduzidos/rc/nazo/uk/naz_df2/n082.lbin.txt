@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n082
+!******************************!
+n082a
+!******************************!
+n082b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa é uma estranha área de construção.
+Você deve inspecionar toda escada e viga
+começando da seta e passando pelos
+pontos A, B, C e D em ordem.
+
+Você não pode passar duas vezes pelo
+mesmo caminho a não ser para passar por
+cima ou por baixo de uma escada. Em qual
+ordem você usará as escadas brancas?
+
+Arraste as escadas numeradas até as
+escadas brancas para ordená-las.
+
+!******************************!
+[ec0b01000b000000:0272010000]
+Na mosca!
+
+Não importa o caminho tomado, as três
+escadas são usadas na mesma ordem.
+
+Esses caminhos podem ser inúteis, mas
+não importa qual, já que você não pode
+passar duas vezes pelo mesmo caminho,
+a distância percorrida será a mesma. 
+!******************************!
+[ed0b01000c000000:0261020000]
+Errado.
+
+Pense um pouco mais, no seu tempo.
+!******************************!
+[ee0b01000d000000:0294020000]
+Parece complicado, mas é só
+uma linha contínua.
+
+Continue pensando no básico.
+!******************************!
+[ef0b01000e000000:02ee020000]
+Há mais de um caminho para ser tomado,
+mas a ordem de uso das escadas brancas
+será sempre a mesma.
+!******************************!
+[f00b01000f000000:025e030000]
+Desça pela escada branca abaixo do
+ponto de partida para chegar em A.
+Essa é a primeira escada.
+!******************************!
+[f10b010010000000:02c3030000]
+Como dito na Dica 3, use a escada abaixo
+do ponto inicial para chegar em A.
+Essa é a primeira escada. Não use uma
+escada branca para ir de A até B. É só
+isso que você precisa saber.
+
+Agora você só precisa decidir a ordem
+das outras duas escadas.
+!******************************!

@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n013
+!******************************!
+n013a
+!******************************!
+n013b
+!******************************!
+[eb0b01000a000000:0211000000]
+Só uma destas quatro canetas funciona.
+Use as seguintes dicas para encontrá-la:
+
+{.} Todas as quatro canetas estão com
+a tampa errada no momento.
+{.} Arrumando as tampas, todas elas
+terão uma parte branca.
+{.} A caneta que funciona está à
+esquerda da que deveria ter a tampa
+verde.
+
+Toque na letra da caneta que funciona. 
+!******************************!
+[ec0b01000b000000:0265010000]
+Incrível!
+
+Você pode usar a caneta C.
+
+Mas assim que você pegar todas, será
+fácil de esquecer qual funciona.
+!******************************!
+[ed0b01000c000000:02d4010000]
+Que pena. 
+
+Confira as condições uma de cada vez.
+!******************************!
+[ee0b01000d000000:0203020000]
+Primeiro, lembre-se da condição: {''}A
+caneta que funciona está à esquerda da
+que deveria ter a tampa verde.{''}
+
+A partir disso, você sabe que só há
+três possibilidades para alinhar
+corretamente as tampas: ?-verde-?-?,
+?-?-verde-? e ?-?-?-verde.
+!******************************!
+[ef0b01000e000000:02f4020000]
+Agora, lembre-se que {''}todas elas
+terão uma parte branca{''}. Já que a
+única sem uma parte branca é a C, essa
+caneta precisa ter a tampa branca.
+!******************************!
+[f00b01000f000000:028f030000]
+Das Dicas 1 e 2, você já sabe que a
+ordem das tampas deve ser azul-verde-
+-branco-azul ou azul-azul-branco-verde.
+
+Use a condição que falta para descobrir
+qual é a ordem correta.
+
+!******************************!
+[f10b010010000000:0253040000]
+A ordem azul-verde-branco-azul
+não corresponde à primeira condição,
+pois a caneta D ficaria com a mesma
+tampa do começo do enigma. A ordem
+correta das tampas tem que ser
+azul-azul-branco-verde.
+
+Agora você sabe a resposta!
+!******************************!

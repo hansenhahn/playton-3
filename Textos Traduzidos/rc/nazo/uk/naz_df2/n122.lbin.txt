@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n122
+!******************************!
+n122a
+!******************************!
+n122b
+!******************************!
+[eb0b01000a000000:0211000000]
+As quatro crianças abaixo estavam
+brincando no parque quando perceberam
+que deveriam voltar para casa. Mas, na
+pressa, elas trocaram de casacos!
+A: {''}Deixei meu casaco no parque...{''}
+
+B: {''}Ei, o nome do A tá nesse casaco!{''}
+
+C: {''}Ai, não! Eu não trouxe um casaco,
+mas agora tô usando o de alguém.{''}
+
+D: {''}Este casaco não é meu.{''}
+
+Quem está usando o casaco de D?
+!******************************!
+[ec0b01000b000000:029b010000]
+Certa resposta!
+
+A resposta é o C.
+A, B e D trouxeram casacos.
+B está usando o casaco de A.
+Sobra os casacos de B e D, mas já que
+D não está usando o seu, ele deve
+estar usando o de B.
+Com isso, você descobre que C está
+usando o casaco de D.
+!******************************!
+[ed0b01000c000000:0281020000]
+Errado.
+
+D não está usando o seu casaco.
+Com isso, só sobram três crianças
+que podem estar usando-o.
+Considerando que você pode descartar
+a criança que você escolheu, não
+sobram muitas opções, não é?
+!******************************!
+[ee0b01000d000000:023c030000]
+Se você pensar calmamente sobre qual
+cada criança está usando, você vai
+descobrir logo logo.
+Por exemplo, B está com o casaco de
+A, certo?
+!******************************!
+[ef0b01000e000000:02c1030000]
+A está sem casaco.
+B está usando o casaco de A.
+C está usando um casaco apesar de
+não ter trazido um, mas não o de A.
+
+É um pouco confuso, mas você
+está quase lá.
+!******************************!
+[f00b01000f000000:0268040000]
+C não trouxe casaco, então só há
+três casacos: o de A, o de B e o de D.
+B está usando o de A, e D não está
+usando o seu.
+
+Entendeu agora?
+
+!******************************!
+[f10b010010000000:02fa040000]
+Os únicos casacos sobrando são o de B
+e D.
+Leia as dicas de novo.
+!******************************!

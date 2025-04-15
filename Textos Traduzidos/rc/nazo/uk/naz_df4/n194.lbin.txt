@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n194
+!******************************!
+n194a
+!******************************!
+n194b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há um sapo sentado em um toco bem longo.
+Este sapo só pode se mover pulando 70
+ou 30 centímetros de uma vez. Para descer
+10 centímetros do toco no menor número
+possível de pulos, ele deve pular 70
+centímetros para frente e pular 30
+centímetros duas vezes para trás.
+
+Usando esse método, qual das distâncias
+marcadas no toco, de 20 a 100 centímetros,
+exigirá mais pulos para se chegar?
+
+Toque em <CR>Enviar Resposta</C>, e
+insira um número como resposta.
+!******************************!
+[ec0b01000b000000:02c9010000]
+Pulo certeiro!
+
+A resposta é 50 centímetros.
+
+O sapo terá que pular cinco vezes para
+chegar nesse ponto no toco.
+!******************************!
+[ed0b01000c000000:0238020000]
+Que pena!
+
+Tente descobrir quantos pulos são
+necessários para o sapo chegar em cada
+uma das nove distâncias restantes.
+!******************************!
+[ee0b01000d000000:02ad020000]
+Não tem truque especial para resolver
+esse enigma, você só precisa pensar
+um pouco mais em cada uma das distâncias
+isoladamente.
+
+Só tenha em mente que talvez tenha um
+jeito mais efetivo de alcançar uma
+distância do que você acha.
+!******************************!
+[ef0b01000e000000:02a6030000]
+
+!******************************!
+[f00b01000f000000:02a7030000]
+
+!******************************!
+[f10b010010000000:02a8030000]
+
+!******************************!

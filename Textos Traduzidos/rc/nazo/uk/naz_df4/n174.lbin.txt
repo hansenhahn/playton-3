@@ -1,0 +1,43 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n174
+!******************************!
+n174a
+!******************************!
+n174b
+!******************************!
+[eb0b01000a000000:0211000000]
+Crie uma equação válida colocando as cinco
+peças vermelhas em linha com as peças
+verdes.
+!******************************!
+[ec0b01000b000000:0270000000]
+Excelente!
+
+Você faz o sinal de soma ser um sinal de
+multiplicar girando a 45 graus, o 6 em um
+9 girando 180 graus, e o 1 em um sinal de
+subtração girando a 90 graus.
+Genial!
+!******************************!
+[ed0b01000c000000:0231010000]
+Que pena!
+
+Percebeu que você pode girar
+as peças vermelhas?
+!******************************!
+[ee0b01000d000000:026f010000]
+Você pode girar as peças vermelhas!
+
+O número um (1) pode virar um sinal de
+subtração (-) e o sinal de soma (+) pode
+virar um sinal de multiplicação (x).
+!******************************!
+[ef0b01000e000000:02f8010000]
+
+!******************************!
+[f00b01000f000000:02f9010000]
+
+!******************************!
+[f10b010010000000:02fa010000]
+
+!******************************!

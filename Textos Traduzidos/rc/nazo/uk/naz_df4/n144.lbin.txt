@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n144
+!******************************!
+n144a
+!******************************!
+n144b
+!******************************!
+[eb0b01000a000000:0211000000]
+Uma das cinco pessoas abaixo possui
+um apelido deveras único: {''}Senhor 8:20{''}.
+
+É, é um apelido bem estranho, creio que
+você também concordo, apesar de que todo
+mundo que vê essa pessoa simplesmente
+acha que é um apelido perfeito!
+
+Dito isso, quem é o {''}Senhor 8:20{''}?
+
+Circule a pessoa e toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:022c010000]
+Muito bem!
+
+A pessoa E é o {''}Senhor 8:20{''}.
+
+Como ilustrado abaixo, o formato do
+bigode desse cavalheiro se assemelha aos
+ponteiros de um relógio indicando 8:20.
+
+Os outros certamente têm os seus
+trejeitos únicos, mas o apelido não
+se aplicaria a nenhum deles porque
+não estariam vestindo a mesma roupa
+sempre. E mulheres e crianças, claro
+não se chamariam {''}senhor{''}.
+!******************************!
+[ed0b01000c000000:02b1020000]
+Errado!
+
+Todos os cinco parecem bem excêntricos,
+mas olhe cuidadosamente e você
+descobrirá quem é.
+!******************************!
+[ee0b01000d000000:021a030000]
+O nome {''}Senhor 8:20{''} se refere
+a algo na aparência da pessoa.
+!******************************!
+[ef0b01000e000000:0266030000]
+Não pense no que as pessoas estão
+vestindo, porque elas nunca usam as
+mesmas roupas sempre. O que importa é que
+quando você ver essa pessoa, será 8:20...
+!******************************!
+[f00b01000f000000:02f7030000]
+É tão simples que talvez você não tenha
+entendido: se o apelido da pessoa é
+{''}senhor{''}, então a pessoa é...
+
+Um homem!
+!******************************!
+[f10b010010000000:026a040000]
+Preste bastante atenção nos rostos.
+
+Alguém parece um 8:20. 
+
+Quer dizer, 8:20 em um relógio...
+!******************************!

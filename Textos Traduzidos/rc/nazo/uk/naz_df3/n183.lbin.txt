@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n183
+!******************************!
+n183a
+!******************************!
+n183b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há três livros na mesa. Alguém olhando
+os livros de uma certa direção fez o
+seguinte comentário:
+{''}Isso me lembra o Professor Layton.{''}
+
+De qual direção essa pessoa estava
+olhando os livros?
+
+Toque uma letra, de A a D, para
+escolher uma direção.
+!******************************!
+[ec0b01000b000000:0214010000]
+É isso!
+
+A direção D.
+
+Por essa direção, os livros parecem
+formar a cartola do Layton!
+!******************************!
+[ed0b01000c000000:026b010000]
+Errou.
+
+Não tem alguma forma familiar que possa
+ser vista de algum lugar dessa mesa?
+!******************************!
+[ee0b01000d000000:02b6010000]
+Quando a pessoa disse ter lembrado
+do Professor Layton, o que ela quis
+dizer com isso?
+
+O Professor Layton é um cavalheiro
+inglês. Qual a primeira coisa que vem
+à mente quando se pensa nos cavalheiros
+ingleses?
+!******************************!
+[ef0b01000e000000:027f020000]
+
+!******************************!
+[f00b01000f000000:0280020000]
+
+!******************************!
+[f10b010010000000:0281020000]
+
+!******************************!

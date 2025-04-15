@@ -6,70 +6,70 @@ n131a
 n131b
 !******************************!
 [eb0b01000a000000:0211000000]
-There are three siblings: A, B and C.
+Três irmãos: A, B e C. Eles dizem:
 
-A: {''}I have one older brother and three
-younger sisters.{''}
+A: {''}Tenho um irmão mais velho e três
+irmãs mais novas.{''}
 
-B: {''}I have two older brothers and two
-younger sisters.{''}
+B: {''}Tenho dois irmãos mais velhos e
+duas irmãs mais novas.{''}
 
-C: {''}I have three older brothers and one
-younger sister.{''}
+C: {''}Tenho três irmãos mais velhos e
+uma irmã mais nova.{''}
 
-Given that all their statements are true,
-what is the lowest possible number of
-siblings in this family?
+Sabendo que essas falas são verdade,
+qual o menor número possível de irmãos
+nessa família?
 !******************************!
 [ec0b01000b000000:0260010000]
-Bang on!
+Na mosca!
 
-The lowest possible number of siblings is
-six.
+O menor número possível de irmãos
+é seis.
 
-At first glance, it might seem like there
-are only five. But the fact that A says
-that he has three younger sisters means
-there must be at least three female
-siblings. Likewise, the fact that C says
-that she has three older brothers means
-there must also be at least three male
-siblings, so five siblings isn't quite
-enough.
+À primeira vista, talvez pareça que
+sejam só cinco. Mas o fato de A dizer
+ter três irmãs mais novas implica que
+deve haver no mínimo três irmãs.
+Da mesma forma, o fato de C dizer que
+tem três irmãos mais velhos implica que
+deve haver no mínimo três irmãos, por
+isso cinco irmãos não é o bastante.
+
 !******************************!
 [ed0b01000c000000:02df020000]
-Too bad!
+Que pena!
 
-Remember that you want to find the
-minimum number of siblings.
+Lembre-se que você quer achar o
+número mínimo de irmãos.
 !******************************!
 [ee0b01000d000000:0228030000]
-Think about A, B and C.
+Pense em A, B, e C.
 
-Who's the oldest? Who's the youngest?
+Quem é o mais velho? Quem é o mais novo?
 !******************************!
 [ef0b01000e000000:0267030000]
-You know that A is the oldest, followed
-by B and then C.
+Você sabe que A é o mais velho, seguido
+de B e em seguida, C.
 
-A also has an older brother.
+A também tem um irmão mais velho.
 
-C also has a younger sister.
+C também tem uma irmã mais nova.
 !******************************!
 [f00b01000f000000:02dc030000]
-Try making a diagram based on the
-conditions mentioned in Hint 2, and note
-the genders of each known sibling.
-You should realise something important.
+Faça um diagrama com base no que a
+Dica 2 menciona, e anote os gêneros
+de cada irmão que se sabe até então.
+Você deve perceber algo importante.
 
-Also, just so you're clear, A is male
-and B is female.
+Ah, e só para deixar claro, A é um
+homem e B é uma mulher.
 !******************************!
 [f10b010010000000:02aa040000]
-There are more than five siblings.
+Há mais de cinco irmãos.
 
-If A has three younger sisters and
-C has three older brothers, then
-there must be at least three female
-siblings and three male siblings.
+Se A tem três irmãs mais novas e
+C tem três irmãos mais velhos, então
+deve haver no mínimo três irmãs e
+três irmãos.
 !******************************!

@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000b00000000f203000000f2030000000100000000000000000000000000]
+n133
+!******************************!
+n133a
+!******************************!
+n133b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa tábua de madeira tem um formato
+estranho, sendo difícil de trabalhar com
+ela.
+
+A melhor solução seria cortá-la em dois
+pedaços que formem um quadrado quando
+combinados.
+
+Mas, com a textura da madeira, é
+implicado que os dois pedaços não podem
+ser virados ou girados após o corte.
+
+Desenhe linhas onde a tábua deve ser
+cortada, depois toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:025f010000]
+Resposta afiada!
+
+Não foi tão difícil, foi?
+!******************************!
+[ed0b01000c000000:028c010000]
+Que azar!
+
+A resposta, na verdade, é bem simples.
+Dê outra olhada e tente novamente.
+!******************************!
+[ee0b01000d000000:02dd010000]
+Compare o formato estranho da sua tábua
+com o quadrado em cima à direita.
+Mantenha o número de quadradinhos em
+cada lado na mente. Isso deve ser um
+bom ponto inicial para começar.
+!******************************!
+[ef0b01000e000000:029a020000]
+Cada lado do quadrado que você está
+tentando fazer equivale a cinco
+quadradinhos. Tendo isso em mente,
+você descobrirá onde fazer o corte.
+!******************************!
+[f00b01000f000000:0227030000]
+Talvez você tenha percebido que é só
+cortar em linha reta duas fileiras
+do lado direito e, em seguida, virar e
+girar esse pedaço para torná-la
+adequada. Porém, é contra as regras
+porque iria estragar a textura.
+
+O corte necessário precisa de
+alguns passos...
+!******************************!
+[f10b010010000000:0233040000]
+Da ponta direita do quadrado vazio no
+canto inferior direito, corte um
+quadrado, depois mais um para a esquerda
+e mais um para cima. É só isso!
+!******************************!

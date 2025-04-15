@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n053
+!******************************!
+n053a
+!******************************!
+n053b
+!******************************!
+[eb0b01000a000000:0211000000]
+Arrume estes livros de espessura igual
+na estante de acordo com essas regras:
+{.} Não pode haver livros à esquerda
+do livro marrom. 
+{.} Apenas o livro azul pode encostar
+no livro marrom.
+{.} O livro amarelo ficará à esquerda
+do livro branco.
+{.} O livro azul deve encostar no roxo.
+{.} O livro branco deve ficar entre o
+amarelo e o roxo, mas não deve encostar
+em outro.
+{.} Deve haver um espaço vazio para um
+livro próximo ao amarelo.
+!******************************!
+[ec0b01000b000000:02c2010000]
+Certinho!
+
+Colocar o livro azul em cima e deitado
+em cima dos outros deixa tudo fácil.
+!******************************!
+[ed0b01000c000000:0218020000]
+Errado!
+
+Lembre-se, não importa o quão ordenados
+os livros fiquem, contanto que você
+atenda todas as condições.
+!******************************!
+[ee0b01000d000000:0288020000]
+Se não pode ter livros à esquerda do
+marrom, quer dizer que esse livro vai
+ficar no canto esquerdo da estante.
+!******************************!
+[ef0b01000e000000:02f2020000]
+A terceira e quinta dicas te dizem como
+alinhar os livros amarelo, branco e
+roxo. Da esquerda para a direita,
+coloque-os nessa ordem: amarelo, branco,
+e então roxo.
+
+!******************************!
+[f00b01000f000000:0298030000]
+Com a segunda e quarta dicas, você
+deve conseguir deduzir onde que o livro
+azul fica.
+
+Mas se você estiver tentando colocar
+os livros em pé, será impossível atender
+todas as condições. Não se restrinja
+a isso e verá que só existe um lugar
+possível para colocar o livro azul...
+!******************************!
+[f10b010010000000:02b4040000]
+Se colocar todos os livros de pé não
+funciona, tente colocar um deles de
+lado.
+
+Colocando todos exceto o azul em pé,
+consegue ver um espaço em cima? É ali
+onde o livro azul deve ficar.
+!******************************!

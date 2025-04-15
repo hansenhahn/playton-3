@@ -1,0 +1,46 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n022
+!******************************!
+n022a
+!******************************!
+n022b
+!******************************!
+[eb0b01000a000000:0211000000]
+Estas três formas foram criadas ao
+mover e girar uma letra maiúscula
+na frente de um espelho.
+
+Consegue descobrir qual é a letra?
+!******************************!
+[ec0b01000b000000:028f000000]
+Bom trabalho!
+
+A resposta é a letra P. Difícil
+acreditar que uma letra consegue criar
+formas tão diferentes, não é mesmo?
+!******************************!
+[ed0b01000c000000:02ff000000]
+Não é essa!
+
+Tente olhar as formas por
+direções diferentes.
+!******************************!
+[ee0b01000d000000:023e010000]
+Lembre-se que cada forma consiste
+da mesma letra maiúscula e do
+seu reflexo.
+!******************************!
+[ef0b01000e000000:028f010000]
+Tente cobrir um dos dois lados de cada
+forma e desenhar a outra parte dessa
+letra. Talvez isso te dê alguma
+luz.
+!******************************!
+[f00b01000f000000:021e020000]
+A letra parece ter uma curva
+e uma linha...
+!******************************!
+[f10b010010000000:0265020000]
+Não é nem O, e nem Q.
+Talvez alguma letra entre as duas?
+!******************************!

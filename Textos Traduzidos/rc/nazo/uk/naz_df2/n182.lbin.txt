@@ -1,0 +1,48 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n182
+!******************************!
+n182a
+!******************************!
+n182b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você está fazendo uma arte com azulejos.
+Qual dos seguintes temas inspirou
+essa arte?
+
+A: Fruta
+B: Uma pessoa
+C: Um inseto
+D: Doces
+
+Use os vidros restantes para terminar
+essa arte, depois escolha a resposta!
+!******************************!
+[ec0b01000b000000:02ef000000]
+Exato!
+
+B: Uma pessoa
+
+As divisas dos vidros formam um nome,
+e não é qualquer nome: forma LAYTON!
+!******************************!
+[ed0b01000c000000:0252010000]
+Errado.
+
+Tente começar pelos vidros maiores.
+!******************************!
+[ee0b01000d000000:0281010000]
+A arte final deve mostrar
+algumas letras.
+
+Mas quais letras?
+!******************************!
+[ef0b01000e000000:02dc010000]
+
+!******************************!
+[f00b01000f000000:02dd010000]
+
+!******************************!
+[f10b010010000000:02de010000]
+
+!******************************!

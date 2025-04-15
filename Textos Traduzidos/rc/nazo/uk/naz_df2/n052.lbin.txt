@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n052
+!******************************!
+n052a
+!******************************!
+n052b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há dois quadrados de papel, A e B,
+abaixo. Cada papel foi dobrado e
+redobrado ao meio, assim como está
+mostrado na imagem. A linha vermelha
+pontilhada na imagem mais à direita de A
+mostra onde que o papel será cortado.
+
+Sua tarefa é cortar o papel B de modo
+que ao desdobrá-lo, a forma cortada no
+meio seja igual ao buraco no meio do
+papel A ao ser desdobrado.
+
+Desenhe o corte que precisa ser feito na
+imagem mais à direita do papel B.
+!******************************!
+[ec0b01000b000000:02d3010000]
+Corte rápido e preciso!
+
+Como mostrado na imagem acima, ambos os
+papéis terão a mesma forma cortada no
+meio quando desdobrados.
+
+Por que você não pega alguns papéis
+e tenta por si só? É bem divertido!
+!******************************!
+[ed0b01000c000000:029c020000]
+Azar!
+
+Talvez seja mais fácil pegar algumas
+folhas de papel e tentar sozinho, mas
+tente resolver em sua cabeça primeiro.
+
+Se tem certeza que sua solução funciona,
+talvez você esteja fazendo cortes muito
+grandes ou muito pequenos.
+!******************************!
+[ee0b01000d000000:0284030000]
+Tente imaginar como o papel A vai ficar
+depois de cortado e desdobrado. Tente
+descobrir isso primeiro.
+!******************************!
+[ef0b01000e000000:02f1030000]
+Quando desdobrado, o papel A terá um
+corte quadrado a partir do centro virado
+em 45 graus do contorno quadrado do
+papel.
+
+Ao tentar replicar o corte, tenha
+cuidado em replicar o tamanho.
+!******************************!
+[f00b01000f000000:02c0040000]
+Você consegue fazer isso com
+apenas uma linha reta.
+!******************************!
+[f10b010010000000:02eb040000]
+Faça um corte diagonal no canto certo
+do papel B e então você terá a mesma
+forma do corte do papel A. O segredo
+é não cortar nem muito e nem pouco
+do papel.
+!******************************!
