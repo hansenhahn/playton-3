@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n020
+!******************************!
+n020a
+!******************************!
+n020b
+!******************************!
+[eb0b01000a000000:0211000000]
+Vá do ponto inicial no canto superior
+esquerdo até a bandeira verde no canto
+inferior direito, horizontalmente e
+verticalmente.
+Mas siga essa regra: você não pode ir
+na direção que as setas apontam e você
+não pode passar duas vezes no mesmo
+quadrado.
+
+Consegue chegar na bandeira verde?
+Toque cada quadrado que você passa no
+caminho, e então envie sua resposta.
+!******************************!
+[ec0b01000b000000:025f010000]
+Certa resposta!
+
+Dá para chegar na bandeira verde indo
+pelo caminho mostrado na imagem.
+Considerar cada quadrado isoladamente
+é a chave para chegar no final.
+!******************************!
+[ed0b01000c000000:02fe010000]
+Errado!
+
+Cheque todo quadrado por onde você
+passa. Eventualmente você acha o
+caminho para a bandeira verde!
+!******************************!
+[ee0b01000d000000:0274020000]
+São nessas horas que a Função Notas
+se torna útil. Tente anotar em cada
+quadrado as direções em que você pode
+se mover.
+
+Anotando-os, talvez você perceba que
+quadrados com duas ou mais setas
+restringem muito suas opções de
+movimento, até porque você não pode
+voltar para seu quadrado original.
+!******************************!
+[ef0b01000e000000:02af030000]
+Tá bom, primeiros cinco passos:
+do começo, ande para baixo, depois ande
+duas para a direita e duas para baixo.
+!******************************!
+[f00b01000f000000:021e040000]
+O único quadrado que leva à bandeira
+verde é o que está acima dele. O
+quadrado que leva a esse acima é o
+que está à esquerda. E já que não dá 
+para ir até esse quadrado por cima ou
+por baixo, você deve chegar nele pelo
+quadrado à esquerda dele.
+
+Tem vezes que você precisa enxergar de
+outra forma para achar a solução.
+!******************************!
+[f10b010010000000:023b050000]
+Aqui vai a sequência para passar
+da metade. A Dica 2 disse para você
+seguir baixo, direita, direita, baixo
+e baixo.
+A partir daqui, siga esquerda, esquerda,
+baixo e baixo. Você deve estar agora
+no quadrado em baixo à esquerda.
+
+A verdade é que esse labirinto mal
+usa os quadrados em cima à direita.
+!******************************!

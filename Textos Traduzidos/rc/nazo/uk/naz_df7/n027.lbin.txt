@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n027
+!******************************!
+n027a
+!******************************!
+n027b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você tem quatro carimbos numerados. 
+Carimbe-os nos espaços vazios e
+complete a conta. Você só pode carimbar
+um número em um espaço vazio, além de
+ter que usar o menor número possível
+de carimbos.
+
+Escolha os carimbos a se usar, e então
+aperte em <CR>Enviar</C>.
+
+!******************************!
+[ec0b01000b000000:021d010000]
+É isso mesmo!
+
+É só usar os carimbos de 3 e 5.
+
+A conta funciona se você colocar
+1 + 7 = 8, mas se você colocar
+3 + 5 = 8, você usa só dois carimbos.
+!******************************!
+[ed0b01000c000000:02b9010000]
+Que pena. 
+
+Se a conta não está funcionando, pense
+de um ângulo diferente.
+!******************************!
+[ee0b01000d000000:0215020000]
+Pense em todas as combinações dos quatro
+números que possam se somar para ter uma
+resposta de um dígito.
+
+Não tem muitas combinações, no caso,
+então logo logo você deve achar
+a resposta.
+!******************************!
+[ef0b01000e000000:02d9020000]
+Não tem combinação alguma de números
+que ao somar, te dá os resultados 1,
+3, 5 ou 7.
+
+Momentos assim pedem ideias novas.
+Preste muita atenção no formato
+de cada carimbo.
+!******************************!
+[f00b01000f000000:02a1030000]
+A chave desse enigma é o fato de você
+estar usando carimbos.
+
+Um dos carimbos pode ser carimbado em
+um espaço vazio, girado e carimbado
+de novo no mesmo espaço para fazer
+um número novo.
+!******************************!
+[f10b010010000000:0262040000]
+Você pode criar um número novo usando
+o carimbo 3 duas vezes. Coloque esse
+número novo no lado direito da conta.
+
+Não esqueça: você precisa do menor
+número possível de carimbos para
+completar a conta.
+
+!******************************!

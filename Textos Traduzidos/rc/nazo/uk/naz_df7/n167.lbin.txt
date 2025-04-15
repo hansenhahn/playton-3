@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n167
+!******************************!
+n167a
+!******************************!
+n167b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você possui três braceletes idênticos e
+gostaria de juntá-los para formar um
+grande bracelete.
+
+Reorganize as peças abaixo para conectar
+todas as peças dos braceletes em um
+laço contínuo.
+!******************************!
+[ec0b01000b000000:02b9000000]
+Que talento!
+
+Esperamos que não seja muito grande!
+!******************************!
+[ed0b01000c000000:02ef000000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:0204010000]
+Antes de começar a mover as peças
+para tudo quanto é lado, pense no tipo
+de laço grande que você pode fazer com
+as peças disponíveis.
+!******************************!
+[ef0b01000e000000:0289010000]
+Combine os braceletes na forma de um
+grande símbolo de mais (+).
+!******************************!
+[f00b01000f000000:02c8010000]
+As três peças vazias e o quadrado
+vazio ficam nos quatro cantos assim
+que o colar estiver completo.
+
+Até mesmo a solução mais curta precisa
+de alguns movimentos, então continue
+e não desista!
+!******************************!
+[f10b010010000000:027f020000]
+Tente usar a Função Notas para esboçar
+onde cada peça irá ficar quando o
+colar estiver feito. Assim que você
+fazer isso, não deve demorar tanto
+para você colocar as peças em seus
+devidos lugares.
+!******************************!

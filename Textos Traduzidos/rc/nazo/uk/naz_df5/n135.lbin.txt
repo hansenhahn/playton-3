@@ -1,0 +1,88 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n135
+!******************************!
+n135a
+!******************************!
+n135b
+!******************************!
+[eb0b01000a000000:0211000000]
+Duas pessoas, A e B, conversam sobre
+o número de caixas de fósforos na mesa.
+A descreve as caixas vistas de cima,
+enquanto B as descreve vendo-as de lado,
+mas sem informação de qual lado ele está
+(frente, trás, esquerda ou direita).
+
+Qual o maior número possível de caixas
+de fósforos na mesa?
+!******************************!
+[ec0b01000b000000:0235010000]
+Perspicaz!
+
+21 caixas.
+O esquema acima te permite ter o maior
+número possível de caixas de fósforos.
+
+
+!******************************!
+[ed0b01000c000000:02a5010000]
+Resposta errada.
+
+Tente imaginar ver as caixas por todas
+as direções: frente, trás, esquerda e
+direita.
+!******************************!
+[ee0b01000d000000:020b020000]
+Tome como exemplo o esquema descrito por
+A de cima e imagine B olhando pelo lado
+direito. Da esquerda para a direita pela
+descrição de B, cada fileira de
+caixinhas teria o máximo de:
+2 pilhas x 2 camadas
+3 pilhas x 3 camadas
+3 pilhas x 1 camada
+2 pilhas x 2 camadas
+Então o maior número possível por
+esse ângulo seria 20.
+
+!******************************!
+[ef0b01000e000000:0269030000]
+Agora imagine que B está olhando
+o esquema descrito por A por
+baixo.
+Da esquerda para a direita pela
+descrição de B, cada fileira
+teria o máximo de:
+3 pilhas x 2 camadas
+1 pilha x 3 camadas
+2 pilhas x 1 camada
+4 pilhas x 2 camadas
+Por esse ângulo, o maior número
+possível seria 19.
+!******************************!
+[f00b01000f000000:02c1040000]
+Agora imagine que B está olhando
+pelo lado esquerdo.
+Da esquerda para a direita pela
+descrição de B, cada fileira teria
+o máximo de:
+2 pilhas x 2 camadas
+3 pilhas x 3 camadas
+3 pilhas x 1 camada
+2 pilhas x 2 camadas
+Por esse ângulo, o maior número
+possível seria 20.
+!******************************!
+[f10b010010000000:0201060000]
+E finalmente, imagine que B está
+olhando o esquema descrito por A
+por cima.
+
+Some o número de caixinhas mostrados
+pelas dicas 1, 2 e 3. Se o número for
+maior que 20, essa é a sua resposta
+final.
+
+Agora você só precisa contar
+as caixinhas.
+!******************************!

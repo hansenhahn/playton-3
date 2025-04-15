@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n110
+!******************************!
+n110a
+!******************************!
+n110b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Se prepare para se surpreender!
+Enquanto viajava em um trem, percebi
+que eu sabia exatamente em qual estação
+esse completo estranho iria descer.
+Mais uma grande prova do meu
+dom psíquico!{''}
+
+Na verdade, esse cara não tem nada de
+psíquico. E claramente qualquer pessoa
+poderia presumir isso. Em que trem
+ele está viajando?
+
+Circule entre A, B, C ou D e
+toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:02b6010000]
+Todos a bordo, a todo vapor!
+
+O trem D é a resposta correta.
+
+É o único trem que se chega no fim
+da linha sem passar por outra estação,
+assim fica claro que todos os 
+passageiros terão que descer nessa
+próxima parada.
+!******************************!
+[ed0b01000c000000:0286020000]
+Errou!
+
+Lembre-se, esse cara não tem poderes
+psíquicos, e qualquer um poderia
+ter essa mesma presunção.
+!******************************!
+[ee0b01000d000000:02fe020000]
+Não tá pensando demais, né? Se você
+estivesse no mesmo trem desse cara,
+você saberia em qual estação esse
+estranho iria descer.
+!******************************!
+[ef0b01000e000000:0293030000]
+Imagine que o trem só parou em uma
+estação. Qualquer pessoa poderia
+prever onde esse sujeito iria descer!
+!******************************!
+[f00b01000f000000:02ff030000]
+De todos os quatro trens, qual deles
+iria parar em só uma estação?
+!******************************!
+[f10b010010000000:0241040000]
+Se um trem está chegando na última
+estação de sua linha, é óbvio que
+todos os passageiros irão descer
+na próxima parada.
+
+Sério, é tão simples assim!
+!******************************!

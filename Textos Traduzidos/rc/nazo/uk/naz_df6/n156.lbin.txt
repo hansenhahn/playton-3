@@ -1,0 +1,92 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n156
+!******************************!
+n156a
+!******************************!
+n156b
+!******************************!
+[eb0b01000a000000:0211000000]
+52 cartas no baralho abaixo, sendo
+26 pretas e 26 vermelhas. Sem coringas.
+
+Após embaralhar o baralho e cortá-lo
+pela metade, você conta 23 cartas
+no baralho da esquerda.
+
+Qual a diferença do número de cartas
+vermelhas do baralho da esquerda e o
+número de cartas pretas do baralho da
+direita?
+!******************************!
+[ec0b01000b000000:023e010000]
+Arrasou!
+
+Sempre haverá três cartas pretas a mais
+no baralho da direita do que cartas
+vermelhas no baralho da esquerda.
+
+É possível resolver esse enigma com uma
+equação, mas também é divertido só
+chutar números aleatórios e descobrir
+assim. Assim que você percebe uma
+diferença consistente não importa os
+números escolhidos, é bem empolgante!
+
+!******************************!
+[ed0b01000c000000:02b6020000]
+Que azar!
+
+Tá bem claro que esse é tipo um problema
+de matemática, mas é difícil não saber
+o que você tem que calcular.
+
+Experimente usar alguns números e talvez
+você perceba algo...
+!******************************!
+[ee0b01000d000000:026f030000]
+Não se confunda com o fato de que esse
+é um problema envolvendo números.
+
+Você talvez consiga achar a resposta
+usando aritmética simples se souber
+o que está procurando.
+!******************************!
+[ef0b01000e000000:020e040000]
+A maneira mais rápida é testando
+números.
+
+Há 23 cartas no baralho da esquerda.
+Já que o baralho inteiro tem 52 cartas,
+significa que há 29 cartas no outro.
+
+Agora imagine que o baralho da esquerda
+consiste em 10 cartas vermelhas e 13
+cartas pretas. Quantas cartas de cada
+cor têm no baralho da direita?
+
+!******************************!
+[f00b01000f000000:024c050000]
+Seguindo a Dica 2, você consegue saber
+sobre as cartas do baralho da direita
+baseado no número de cartas vermelhas e
+pretas do baralho da esquerda.
+Subtraia 10 de 26 e você tem 16 cartas
+vermelhas. Subtraia 13 de 26 e você tem
+13 cartas pretas.
+Agora você sabe a diferença do número de
+cartas vermelhas no baralho da esquerda
+e o de cartas pretas no da direita!
+Agora tente outros dois números para
+ver no que dá.
+!******************************!
+[f10b010010000000:02e6060000]
+Continue tentando números diferentes.
+Se o baralho da esquerda tem cinco
+vermelhas e 18 pretas, o da direita terá
+21 vermelhas e oito pretas.
+
+Agora compare esse resultado com o da
+Dica 3. E olha só! A diferença é a
+mesma não importa quantas de cada
+cor têm!
+!******************************!

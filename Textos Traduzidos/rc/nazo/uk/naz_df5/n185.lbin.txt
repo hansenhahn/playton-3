@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n185
+!******************************!
+n185a
+!******************************!
+n185b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse é um molde de gelatina.
+
+Depois de colocar o líquido e deixar
+o molde na geladeira, ao virá-lo você
+tem uma gelatina sólida.
+
+Qual formato de gelatina, de A a D, é
+o formato criado pela gelatina?
+!******************************!
+[ec0b01000b000000:02f1000000]
+É isso aí!
+
+A resposta é o formato D.
+Quando a gelatina sai do molde, os
+lados esquerdo e direito se invertem,
+assim como seu entalhe.
+
+Já que a cor da gelatina depende dos
+ingredientes, ela é irrelevante para
+o enigma.
+!******************************!
+[ed0b01000c000000:02d7010000]
+Que pena.
+
+Pense no que você está olhando.
+!******************************!
+[ee0b01000d000000:0205020000]
+Como a gelatina vai ficar ao ser
+tirada do molde?
+
+Olhe os detalhes das formas de gelatina
+e tente inverter o seu modo de pensar.
+
+!******************************!
+[ef0b01000e000000:0297020000]
+
+!******************************!
+[f00b01000f000000:0298020000]
+
+!******************************!
+[f10b010010000000:0299020000]
+
+!******************************!

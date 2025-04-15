@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n145
+!******************************!
+n145a
+!******************************!
+n145b
+!******************************!
+[eb0b01000a000000:0211000000]
+As quatro cartas, 0, 1, 2 e 6, podem ser
+usadas para mostrar diferentes horas do
+dia, como visto no exemplo 02:16.
+
+No formato de 24 horas, quantas horas
+diferentes podem ser mostradas apenas
+reorganizando as cartas?
+
+Você deve usar todas as cartas para cada
+hora, além de não poder sobrepô-las.
+!******************************!
+[ec0b01000b000000:0239010000]
+É isso mesmo!
+
+São 20 horas diferentes usando
+essas quatro cartas.
+
+Demorou para perceber que o 6
+poderia ser usado como um 9?
+
+E claro, 26 horas e 60 minutos não
+existem.
+!******************************!
+[ed0b01000c000000:0219020000]
+Não era uma boa hora para errar...
+
+Cheque todas as condições do enigma,
+e depois comece a descartar as
+opções impossíveis.
+!******************************!
+[ee0b01000d000000:027d020000]
+Já que você está tentando mostrar horas
+do dia, vamos deixar claro:
+
+{.} As horas vão até 23.
+{.} Os minutos vão até 59.
+!******************************!
+[ef0b01000e000000:02f0020000]
+Você pode usar uma carta como dois
+números diferentes!
+!******************************!
+[f00b01000f000000:0234030000]
+Você pode virar o 6 e usá-lo como 9!
+Melhor contar de novo essas horas...
+!******************************!
+[f10b010010000000:027c030000]
+A hora mais cedo possível de se mostrar
+é 01:26. E a mais tarde é 21:09.
+
+Tome cuidado para não esquecer qualquer
+combinação, e fique atento às horas
+que não existem.
+!******************************!

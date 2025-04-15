@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n077
+!******************************!
+n077a
+!******************************!
+n077b
+!******************************!
+[eb0b01000a000000:0211000000]
+Três jovens estão olhando com admiração
+um carrinho de brinquedo à venda por {po}12.
+Jeff: {''}Se juntarmos toda a nossa
+mesada, Pete e eu poderemos comprar esse
+carro juntos em duas semanas!{''}
+Sam: {''}Bem, Pete e eu poderíamos
+comprar em três semanas...{''}
+Pete: {''}Nada mal, porque iria demorar
+seis semanas para vocês dois juntarem o
+suficiente juntos.{''}
+
+Todos recebem mesada por semana.
+Quanto Sam recebe de mesada,
+em libras?
+!******************************!
+[ec0b01000b000000:02ae010000]
+Isso! Muito bem!
+
+{po}0 está correto. Sam não recebe
+mesada. Para constar, Jeff recebe {po}2
+por semana e Pete recebe {po}4.
+!******************************!
+[ed0b01000c000000:0235020000]
+Errado!
+
+Pelo menos sua resposta fez o Sam rir!
+!******************************!
+[ee0b01000d000000:0264020000]
+Não pense muito. Tente usar
+variáveis diferentes e veja
+o que consegue fazer.
+!******************************!
+[ef0b01000e000000:02c0020000]
+Jeff recebe {po}2 de mesada por semana.
+!******************************!
+[f00b01000f000000:02e5020000]
+Pete recebe {po}4 de mesada por semana.
+!******************************!
+[f10b010010000000:020a030000]
+Jeff recebe {po}2 por semana e Pete
+recebe {po}4. Somados, são {po}6 por
+semana. Eles terão o suficiente para o
+carrinho em duas semanas. Quanto ele
+custava mesmo? E se vai demorar seis
+semanas para o Jeff e o Sam, hmm...
+!******************************!

@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000a00000000f203000000f2030000000100000000000000000000000000]
+n046
+!******************************!
+n046a
+!******************************!
+n046b
+!******************************!
+[eb0b01000a000000:0211000000]
+Crie um túnel que te leve da entrada
+até a saída, passando por todos os
+segmentos no caminho.
+
+Toque uma peça para trocar entre um
+segmento reto ou curvado. Toque a ponta
+de uma peça e faça um círculo para
+girá-la.
+
+As peças verdes já estão posicionadas
+corretamente, então você não precisa
+mudá-las. 
+
+Boa sorte!
+!******************************!
+[ec0b01000b000000:0254010000]
+Bom trabalho!
+
+Rapaz, que projetinho difícil!
+!******************************!
+[ed0b01000c000000:0287010000]
+Que pena!
+
+Continue tentando, esse túnel
+não vai se criar sozinho!
+!******************************!
+[ee0b01000d000000:02bf010000]
+Esse túnel não tem intersecções, ou
+seja, é uma linha contínua da
+entrada até a saída.
+!******************************!
+[ef0b01000e000000:0227020000]
+Não tem nenhum outro caminho para sair
+do túnel a não ser a entrada e a saída.
+Como pode ver, o segmento do canto
+inferior direito tem que ser curvado e
+está bem claro para qual lado. O
+segmento do canto superior esquerdo
+também tem que ser curvado para se
+conectar na peça fixa à direita.
+
+Essas são as pequenas dicas para você
+usar para descobrir o enigma, de
+pouquinho a pouquinho.
+!******************************!
+[f00b01000f000000:02a9030000]
+Use o que a Dica 2 te disse para
+determinar o terceiro, o quarto e
+o quinto segmento da entrada.
+
+Integre as peças fixas próximas no
+caminho e ficará bem claro quais
+são os próximos dois.
+!******************************!
+[f10b010010000000:027a040000]
+O segmento abaixo da saída é reto,
+e a peça abaixo desse segmento se
+conecta na peça fixa que está à
+esquerda.
+
+O resto é com você.
+!******************************!

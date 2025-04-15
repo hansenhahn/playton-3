@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000001a040000001a040000000100000000000000000000000000]
+n125
+!******************************!
+n125a
+!******************************!
+n125b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há quatro sapos pulando em troncos.
+Faça-os saltar de modo que cada sapo
+esteja no tronco com a faixa respectiva
+de sua cor.
+Para isso, siga essas três regras:
+
+1. Os sapos podem pular para qualquer
+tronco adjacente vazio.
+2. Os sapos podem pular por cima de um
+sapo adjacente para ir a um tronco vago.
+3. Os sapos não podem pular por cima de
+dois sapos de uma vez.
+
+Agora manda ver!
+!******************************!
+[ec0b01000b000000:0277010000]
+Pula, pula sem parar!
+
+Conseguiu fazer em oito movimentos?
+!******************************!
+[ed0b01000c000000:02b6010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:02cb010000]
+Continue fazendo esses sapos pularem
+e logo vai conseguir resolver.
+!******************************!
+[ef0b01000e000000:020e020000]
+Dá para resolver em oito movimentos.
+É só tentar!
+!******************************!
+[f00b01000f000000:0246020000]
+Uma dica para resolver esse enigma
+com menos movimentos possíveis:
+
+Vermelho, verde, azul, vermelho...
+!******************************!
+[f10b010010000000:02a2020000]
+Seguindo a Dica 3:
+
+Amarelo, verde, azul...
+
+Agora só pular pro final!
+!******************************!

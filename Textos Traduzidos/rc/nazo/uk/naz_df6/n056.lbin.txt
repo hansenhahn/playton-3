@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n056
+!******************************!
+n056a
+!******************************!
+n056b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Comprei uma caneta numa loja com 10%
+de desconto do preço original: {po}30.00.
+Assim que a minha amiga viu a caneta,
+ela decidiu comprá-la de mim. Ela me
+ofereceu 10% a mais do preço que eu
+comprei, então aceitei a oferta e
+vendi para ela.
+
+No geral, quanto eu lucrei ou perdi?{''}
+
+Insira a resposta em pence. Se houver
+prejuízo, certifique-se de colocar o
+sinal de menos (-) na frente.
+!******************************!
+[ec0b01000b000000:0298010000]
+Correto!
+
+{''}Foi um lucro de {po}2.70.
+O desconto inicial de 10% da loja é o
+que determina o preço que paguei pela
+caneta ({po}30.00 - {po}3.00 = {po}27.00),
+mas não afeta o lucro de 10% que tive
+quando vendi ela para minha amiga.
+
+Comprei a caneta por {po}27.00 e a vendi
+por 10% a mais ({po}27.00 + {po}2.70 = {po}29.70),
+lucrando {po}2.70, ou 270 pence.{''}
+!******************************!
+[ed0b01000c000000:0217030000]
+Errado.
+
+Pense cuidadosamente.
+!******************************!
+[ee0b01000d000000:023b030000]
+Ás vezes tem algumas pegadinhas em
+enigmas que usam muito texto para
+descrever os problemas.
+
+Você não sente a mesma coisa com
+esse enigma?
+
+Não tem nenhuma informação errada, mas
+alguma parte desse texto só está aí
+para tentar te confundir.
+!******************************!
+[ef0b01000e000000:0225040000]
+{''}Comece calculando quanto eu paguei
+pela caneta. Depois, deve ficar fácil
+para descobrir o resto.{''}
+!******************************!
+[f00b01000f000000:029a040000]
+{''}O preço pelo qual eu comprei a
+caneta já tem o desconto de 10%.
+
+Se minha amiga comprou ela de mim por
+10% a mais do que eu paguei, com certeza
+eu tive lucro.{''}
+!******************************!
+[f10b010010000000:0251050000]
+{''}Eu comprei a caneta por {po}27.00 e
+vendi ela por {po}29.70.
+
+É só isso que você precisa saber.{''}
+!******************************!

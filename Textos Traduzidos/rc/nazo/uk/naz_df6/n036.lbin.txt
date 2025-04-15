@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n036
+!******************************!
+n036a
+!******************************!
+n036b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Sabe, quando eu era mais nova, eu
+era a preferida de muitos! Essa é uma
+foto antiga minha, junto dos meus três
+lindos pretendentes. Segundos depois
+da foto ser tirada, um deles pensou
+na melhor forma de me presentear:
+me dando um coração.{''}
+
+Qual desses cavalheiros, de A a C, é
+o pretendente que ela menciona?
+!******************************!
+[ec0b01000b000000:0253010000]
+Ah, que resposta adorável!
+Foi ele, sem dúvidas!
+
+Ele pegou a revista que segurava e a
+dobrou em forma de coração. Criativo,
+não acha?
+
+O verdadeiro amor é fascinante...
+!******************************!
+[ed0b01000c000000:02f6010000]
+Que pena!
+
+Preste muita atenção no que cada
+cavalheiro segura.
+!******************************!
+[ee0b01000d000000:0237020000]
+Cada cavalheiro segura uma coisa
+diferente. Foque nessas coisas.
+!******************************!
+[ef0b01000e000000:0282020000]
+O coração que ela menciona não está
+desenhado em nada que os cavalheiros
+seguram. Talvez ela esteja se referindo
+a algo com um formato de coração. Hmm...
+Como fazer um formato de coração?
+!******************************!
+[f00b01000f000000:0237030000]
+Um dos três cavalheiros segura algo
+que dá para formar um coração.
+
+Dê uma outra olhada.
+
+!******************************!
+[f10b010010000000:02ab030000]
+Não foi um belo buquê e nem uma
+melodia encantadora que atraiu ela.
+
+Foi um gesto de amor!
+!******************************!

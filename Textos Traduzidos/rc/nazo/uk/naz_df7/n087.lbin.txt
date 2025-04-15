@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n087
+!******************************!
+n087a
+!******************************!
+n087b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você recebeu uma carta dizendo:
+{''}A sala nessa fotografia esconde um
+segredo. Retire um dos pisos do chão
+para revelar o tesouro escondido.{''}
+
+No mesmo envelope da carta, há a
+foto mostrada abaixo, com o seguinte
+aviso atrás:
+{''}Siga a seta que aponta o
+local do tesouro...{''}
+
+Qual piso precisa ser removido para
+encontrar o tesouro? Circule sua
+resposta.
+!******************************!
+[ec0b01000b000000:0296010000]
+Exato!
+
+O nariz e boca do macaco do quadro
+na parede se combinam para formar
+uma seta. O tesouro pode ser achado
+embaixo do piso no chão logo abaixo
+dessa seta.
+!******************************!
+[ed0b01000c000000:024d020000]
+Que azar!
+
+Procure a seta!
+!******************************!
+[ee0b01000d000000:026c020000]
+Uma seta foi desenhada em algum lugar,
+e é fácil de achar. Olhe atentamente.
+!******************************!
+[ef0b01000e000000:02b6020000]
+Se ainda não encontrou nada analisando
+fixamente a foto, tente dar uma
+olhada mais casual na foto
+inteira por um tempo.
+!******************************!
+[f00b01000f000000:0234030000]
+A seta está do lado esquerdo da foto.
+Na verdade ela está meio que disfarçada
+como alguma outra coisa.
+!******************************!
+[f10b010010000000:0295030000]
+Analisar os quadros na parede
+pode te apontar para a direção certa.
+
+!******************************!

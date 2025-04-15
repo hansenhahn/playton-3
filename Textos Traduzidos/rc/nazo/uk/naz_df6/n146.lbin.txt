@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n146
+!******************************!
+n146a
+!******************************!
+n146b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Por Deus! Estou tentando fazer esses
+pássaros saírem do fio. Toda vez que bato
+palmas, metade deles voa, mas aí um
+volta! E isso continua e continua
+acontecendo toda vez. Mesmo se eu ficasse
+aqui todo dia batendo palma, o número de
+pássaros ia continuar sendo o mesmo do
+começo!{''}
+
+Havia quantos pássaros no fio no começo?
+
+!******************************!
+[ec0b01000b000000:026e010000]
+Piu piu!
+
+Sim, dois pássaros!
+
+Metade de dois é um, um pássaro voa e
+volta logo depois. O número de pássaros
+sempre vai continuar sendo dois.
+
+Nesse enigma, usar {''}metade{''} para
+se referir a um pássaro é um tanto
+equivocado. Escolha bem suas palavras na
+próxima vez, mesmo se for algo simples.
+!******************************!
+[ed0b01000c000000:02b5020000]
+Que pena!
+
+Não seja um frangote agora!
+!******************************!
+[ee0b01000d000000:02d8020000]
+Esse enigma é bem simples, na verdade.
+!******************************!
+[ef0b01000e000000:02fe020000]
+Essa mulher está explicando algo simples
+de um jeito bem complicado...
+!******************************!
+[f00b01000f000000:0247030000]
+Metade dos pássaros voa e um retorna.
+Daí metade dos pássaros voa de novo
+e um retorna de novo, e etcetera e tal,
+e pipipi popopó.
+
+O número de pássaros sempre vai ser o
+mesmo do início. A resposta é tão fácil
+que você nem precisa calcular nada.
+
+!******************************!
+[f10b010010000000:023f040000]
+A frase {''}metade deles voa{''} é o
+problema. Nesse enigma, {''}metade{''}
+se refere a um pássaro!
+
+Entendeu agora?
+!******************************!

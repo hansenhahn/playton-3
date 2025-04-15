@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000003000000000d00000000f203000000f2030000000100000000000000000000000000]
+n106
+!******************************!
+n106a
+!******************************!
+n106b
+!******************************!
+[eb0b01000a000000:0211000000]
+Oito potes com quatro tipos diferentes
+de geleia, sendo diferenciados por suas
+cores específicas. As geleias também
+têm pesos variados e foram colocadas
+em pares dentro de caixas.
+
+Use a balança para descobrir o peso de
+cada tipo de geleia e classifique-as de
+1 a 4, com 1 sendo a mais leve e 4
+a mais pesada.
+!******************************!
+[ec0b01000b000000:0248010000]
+Muito bem!
+
+Começando do mais pesado, a ordem é:
+azul - amarelo - verde - vermelho.
+
+Pesando o par vermelho-azul com o par
+vermelho-verde, dá para descobrir que a
+geleia azul é mais pesada que a verde.
+Pesando o par vermelho-azul com o par
+azul-verde mostra que a geleia verde é
+mais pesada que a vermelha. E ao ver que
+o par de amarelos tem o mesmo peso de
+azul-verde, você descobre que o amarelo
+fica entre a geleia azul e a verde.
+!******************************!
+[ed0b01000c000000:0204030000]
+Errado.
+
+Tem um certo jeito de descobrir quais
+caixas pesar juntas.
+!******************************!
+[ee0b01000d000000:0250030000]
+Algumas caixas possuem um tipo de geleia
+em comum. Pesando essas caixas juntas
+te ajuda a comparar os pesos das duas
+geleias diferentes.
+
+!******************************!
+[ef0b01000e000000:02ec030000]
+Tente pesar a caixa vermelha-azul com
+a caixa vermelha-verde.
+
+Desse jeito você descobre qual é mais
+pesada, a geleia azul ou a verde.
+!******************************!
+[f00b01000f000000:026e040000]
+Seguindo a Dica 2, agora é preciso ver
+qual é o peso da geleia vermelha e onde
+colocá-la na lista.
+
+Para isso, pese a caixa vermelha-azul
+com a caixa azul-verde. Assim você vê
+que a geleia vermelha é mais leve que
+a verde, o que te dá a ordem parcial de:
+azul, verde, vermelho.
+!******************************!
+[f10b010010000000:0288050000]
+Imagine que um pote azul pesa 300
+gramas, o verde pesa 200 gramas e
+o vermelho pesa 100.
+
+A caixa dos amarelos e a azul-verde
+têm o mesmo peso, então dois potes de
+eleia amarela pesam 300 + 200 = 500.
+
+Portanto, um pote de geleia amarela
+pesa 250 gramas.
+!******************************!

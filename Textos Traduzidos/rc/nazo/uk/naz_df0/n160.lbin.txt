@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n160
+!******************************!
+n160a
+!******************************!
+n160b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir esta estranha porta, você
+precisa combinar as três peças-chave
+de forma que elas se encaixem em
+todas as fechaduras possíveis.
+
+Você pode girá-las, mas não pode
+virá-las. E também, o tamanho delas é
+o que está mostrado na imagem.
+
+Marque as fechaduras que são possíveis
+fazer esse processo.
+!******************************!
+[ec0b01000b000000:0218010000]
+Boa visão!
+
+As fechaduras certas são A, B, D, F e G.
+C e E não funcionam.
+
+Você frequentemente tem que girar as
+peças para encaixá-las. A fechadura E
+parece que funciona, mas a peça 2 na
+verdade está invertida.
+!******************************!
+[ed0b01000c000000:02e5010000]
+Errado!
+
+Lembre-se, são chaves, dá para girá-las
+livremente, mas só é possível encaixar
+elas de apenas uma maneira.
+!******************************!
+[ee0b01000d000000:0250020000]
+Não esqueça da Função Notas!
+Use-a e desenhe as formas.
+!******************************!
+[ef0b01000e000000:029c020000]
+A coisa mais importante a se saber
+é como usar a peça número 2.
+!******************************!
+[f00b01000f000000:02d1020000]
+Só de olhar, você pode dizer que a
+fechadura C não vai funcionar. Mas a B,
+por outro lado, incrivelmente funciona!
+
+Note que você pode girar as peças-chave
+para a esquerda e para a direita, mas
+elas possuem um cabo nas costas, fazendo
+elas se encaixarem de um só jeito. Você
+precisa empurrá-las segurando o cabo,
+o que significa que as formas mostradas
+na Tela de Toque estarão viradas ao
+serem encaixadas.
+!******************************!
+[f10b010010000000:025a040000]
+C não funciona.
+
+A, B e G funcionam perfeitamente.
+
+Das três restantes, D, E e F,
+só uma não funciona. Qual delas?
+
+Sabe, essa forma em Z parece
+um pouco suspeita...
+!******************************!

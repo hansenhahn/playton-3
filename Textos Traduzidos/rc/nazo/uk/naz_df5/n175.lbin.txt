@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n175
+!******************************!
+n175a
+!******************************!
+n175b
+!******************************!
+[eb0b01000a000000:0211000000]
+Na semana passada, comi uma fatia de pão
+em cada refeição de cada dia.
+Eu tinha quatro tipos diferentes de pão.
+Descubra qual tipo eu comi e quando!
+{.} Comi quatro fatias de {#A} nessa
+ordem: café, café, café, janta.
+{.} Comi duas fatias de {#B} no total.
+{.} Comi quatro fatias de {#C} no total,
+todas na mesma hora de cada dia.
+{.} Comi 11 fatias de {#E} no total.
+{.} Nunca comi o mesmo tipo de fatia
+duas vezes seguidas.
+Toque os quadrados do cronograma para
+trocar o tipo de pão em cada refeição.
+!******************************!
+[ec0b01000b000000:021e020000]
+Correto!
+
+Sabendo que eu não comi o {#E} duas vezes
+seguidas, é fácil descobrir quando que eu
+comi as 11 fatias.
+
+A partir daí, é possível deduzir quando
+que comi o {#C} e o {#A}, com os espaços
+restantes sendo preenchidos por {#B}.
+!******************************!
+[ed0b01000c000000:0207030000]
+Errado.
+
+Tem uma coisa que deve ficar
+aparente de imediato.
+!******************************!
+[ee0b01000d000000:024c030000]
+Já que você sabe que eu não comi o mesmo
+tipo de pão duas vezes seguidas, é fácil
+descobrir quando que eu comi as 11
+fatias de {#E}.
+!******************************!
+[ef0b01000e000000:02ce030000]
+
+!******************************!
+[f00b01000f000000:02cf030000]
+
+!******************************!
+[f10b010010000000:02d0030000]
+
+!******************************!

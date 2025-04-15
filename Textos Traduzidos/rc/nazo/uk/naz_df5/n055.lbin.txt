@@ -1,0 +1,80 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000001000000]
+n055
+!******************************!
+n055a
+!******************************!
+n055b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um dia, o Rei Arthur convidou um número
+de pessoas honráveis para jantar na
+Távola Redonda. A pedido seu, todos se
+sentaram se intercalando igualmente ao
+redor da mesa.
+Após se sentarem, duas lindas damas,
+Guinevere e Nimue, acharam engraçado que
+nenhuma delas estava sentada diretamente
+de forma adjacente ou oposta para outra
+dama.
+
+Qual o número mínimo de pessoas que
+estavam sentadas na Távola Redonda?
+!******************************!
+[ec0b01000b000000:029b010000]
+Uma resposta nobre!
+
+A resposta correta é cinco pessoas.
+
+A imagem acima mostra como eles
+estariam sentados na Távola Redonda.
+
+A parte difícil é entender que os
+convidados não estavam sentados de
+forma oposta aos outros.
+
+Se estiver interessado nas personagens
+mencionadas neste enigma, procure
+ler a lenda do Rei Arthur!
+!******************************!
+[ed0b01000c000000:02e2020000]
+Que pena!
+
+Tentou usar a Função Notas para
+desenhar um diagrama da mesa e as
+pessoas em volta dela?
+
+Se usou, talvez você tenha
+esquecido algo importante.
+!******************************!
+[ee0b01000d000000:0281030000]
+Esse enigma não é difícil se você usar
+a Função Notas para desenhar a mesa
+e as pessoas sentando ao redor dela.
+!******************************!
+[ef0b01000e000000:02fa030000]
+Foi dito que nenhuma mulher estava
+sentada diretamente de forma adjacente
+ou oposta a Guinevere e Nimue. É fácil
+ser enganado por essa informação...
+!******************************!
+[f00b01000f000000:0293040000]
+Primeiro, imagine um homem sentado
+de frente a uma mulher. Há no mínimo
+duas mulheres, então imagine outro homem
+e uma mulher se sentando de forma oposta.
+Já são quatro pessoas. Agora coloque um
+homem no meio das mulheres e outro homem
+do lado oposto dele. Intercale-os e esse
+esquema satisfaz todas as condições!
+Desenhe isso na Função Notas e verá por
+si só. Mas calma! Esse é o número mínimo
+mesmo? Será que dá para fazer com menos
+pessoas?
+!******************************!
+[f10b010010000000:0263060000]
+Não tem motivo algum para precisar de
+pessoas sentando de forma oposta para
+outras pessoas.
+
+A resposta é um número ímpar.
+!******************************!

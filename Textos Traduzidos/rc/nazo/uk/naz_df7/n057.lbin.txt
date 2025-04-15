@@ -1,0 +1,80 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n057
+!******************************!
+n057a
+!******************************!
+n057b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Creio que meu relógio está atrasado em
+cinco minutos, mas na verdade ele está
+adiantado. O do meu amigo está atrasado
+em cinco minutos, mas ele pensa que está
+adiantado!
+
+Se tentarmos chegar no nosso ponto de
+encontro ao mesmo tempo só olhando 
+nossos relógios, chegarei quantos
+minutos mais cedo que ele?
+
+Coloque um sinal de menos (-) na frente
+da resposta se eu chegar mais tarde.
+Caso o contrário, não é necessário.{''}
+!******************************!
+[ec0b01000b000000:02e6010000]
+Esperto demais!
+
+{''}Eu chegarei no ponto de encontro
+20 minutos antes do meu amigo.
+
+Meu relógio está adiantado em cinco
+minutos. Mas por eu achar que ele está
+atrasado, eu chegarei cinco minutos
+antes do horário de nosso encontro, ou
+no caso 10 minutos mais cedo. Comigo
+estando adiantado e ele atrasado, terei
+que esperá-lo por 20 minutos!{''}
+!******************************!
+[ed0b01000c000000:024d030000]
+Errado!
+
+Esse enigma pode ser uma dorzinha de
+cabeça a princípio. Tente definir um
+horário para o encontro deles e pense
+a partir disso.
+!******************************!
+[ee0b01000d000000:02da030000]
+Se estiver confuso, procure por um
+relógio analógico enquanto pensa
+nesse enigma.
+!******************************!
+[ef0b01000e000000:0231040000]
+{''}Qual a diferença entre o horário do
+nosso encontro e o horário que eu vou
+chegar? 
+
+Se conseguir descobrir isso, vai saber
+quando meu amigo chegará se pensar
+da maneira oposta para ele.{''}
+!******************************!
+[f00b01000f000000:02ff040000]
+{''}Eu acho que estou atrasado em cinco
+minutos, então se eu quiser chegar a
+tempo, chegarei cinco minutos antes do
+tempo mostrado no relógio. 
+
+Mas o meu relógio está adiantado, então
+na verdade eu vou acabar chegando 10
+minutos mais cedo.{''}
+
+!******************************!
+[f10b010010000000:02f6050000]
+{''}Chegarei no ponto de encontro 10
+minutos mais cedo. Já que as condições
+do meu amigo são o oposto das minhas,
+ele chegará 10 minutos mais tarde.
+Então qual a diferença dos nossos
+horários de chegada?
+
+Essa é a sua resposta!{''}
+!******************************!

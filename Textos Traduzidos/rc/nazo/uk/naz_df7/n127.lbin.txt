@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n127
+!******************************!
+n127a
+!******************************!
+n127b
+!******************************!
+[eb0b01000a000000:0211000000]
+Quatro irmãos herdaram um grande lote.
+Cada um construiu uma casa em seu lugar
+favorito sem pensar em como dividir
+o resto do espaço da melhor maneira.
+
+Assim, decidiram que o mais justo é
+dividir o lote em quatro partes de
+formato igual com seis quadrados, com
+cada um tendo uma casa. Cada parte deve
+tocar, mas não possuir, o poço no centro.
+
+Qual propriedade irá ter a estrela?
+Circule a casa A, B, C ou D e toque em
+<CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:02eb010000]
+Mereceu uma estrela mesmo!
+
+A propriedade A irá conter a estrela.
+
+O lote será dividido conforme
+o diagrama.
+!******************************!
+[ed0b01000c000000:0268020000]
+Que azar!
+
+Se eles pelo menos tivessem pensado
+antes de construir as casas...
+!******************************!
+[ee0b01000d000000:02b4020000]
+Use a Função Notas para pensar em
+maneiras diferentes de dividir o lote
+para atender os requisitos de cada
+irmão.
+
+Lembre-se, as quatro partes precisam ter
+o mesmo formato com seis quadrados.
+!******************************!
+[ef0b01000e000000:026a030000]
+Apesar das quatro partes precisarem ser
+de mesmo formato, as casas podem estar
+localizadas em qualquer lugar dentro
+da propriedade de cada irmão.
+!******************************!
+[f00b01000f000000:02ea030000]
+A forma de cada parte parece um pouco
+com a letra T.
+!******************************!
+[f10b010010000000:022a040000]
+Não será a casa do irmão B, nem C.
+
+Só duas opções agora - qual deles?
+!******************************!

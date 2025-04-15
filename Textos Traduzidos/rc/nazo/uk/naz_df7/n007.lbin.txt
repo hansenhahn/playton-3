@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n007
+!******************************!
+n007a
+!******************************!
+n007b
+!******************************!
+[eb0b01000a000000:0211000000]
+Assim que esse relógio caiu no chão, os
+números também acabaram caindo e o
+relógio parou de funcionar.
+
+Mas mesmo sem os números, ainda é
+possível saber em que horas o relógio
+parou.
+
+Que horas o relógio mostra agora?
+
+
+!******************************!
+[ec0b01000b000000:021f010000]
+É isso mesmo!
+
+Fica fácil assim que você percebe que
+o ponteiro das horas está em linha reta
+para uma das linhas do relógio.
+!******************************!
+[ed0b01000c000000:0292010000]
+Que pena.
+
+Tente olhar um relógio analógico.
+!******************************!
+[ee0b01000d000000:02bf010000]
+Preste atenção na direção apontada
+pelos ponteiros.
+
+Se tiver um relógio analógico em mãos,
+tente mover os ponteiros e então
+encontrará a resposta.
+!******************************!
+[ef0b01000e000000:0263020000]
+Percebeu que ambos os ponteiros estão
+apontando exatamente em duas linhas
+do relógio? E olha só, eles também estão
+em linha reta.
+
+Que hora isso indica?
+!******************************!
+[f00b01000f000000:0209030000]
+Com os ponteiros apontando exatamente
+nas linhas do relógio, a hora tem que
+ser ??:00, exatamente na hora.
+
+Considerando que ambos os ponteiros
+estão em linha reta, que horas são?
+!******************************!
+[f10b010010000000:02cb030000]
+Mesmo sem um relógio de verdade, você
+consegue achar a resposta apenas vendo
+um. Primeiro, pense nos ponteiros
+estando apontados na mesma direção
+de 12:00. Agora, ao mover o ponteiro
+pelas horas, uma por uma...
+
+Existe uma hora em que os ponteiros
+apontam em linha reta.
+!******************************!

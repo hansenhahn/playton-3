@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n176
+!******************************!
+n176a
+!******************************!
+n176b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa é uma foto de quatro alienígenas.
+O alien chamado Panporo está mais à
+direita do Pinporo e o Punporo está mais
+à esquerda do Panporo. Já o Penporo 
+está mais à direita do Pinporo.
+
+Se o segundo alien à direita do
+Punporo não é o Penporo, ele é o
+Panporo (A) ou o Pinporo (B)?
+
+!******************************!
+[ec0b01000b000000:025a010000]
+Você não é desse planeta!
+
+É o A, Panporo.
+Há duas formações possíveis que atendem
+às condições do enigma, mas em ambas
+o segundo alien à direita do
+Punporo é o Panporo.
+!******************************!
+[ed0b01000c000000:021d020000]
+Que azar.
+
+Está achando o nome dos aliens
+um pouco confuso?
+!******************************!
+[ee0b01000d000000:0255020000]
+Tente diversas possibilidades para
+o segundo alien à direita do
+Punporo.
+
+Seguindo as condições do enigma,
+eventualmente você descarta um
+dos aliens e consegue a resposta.
+!******************************!
+[ef0b01000e000000:0210030000]
+
+!******************************!
+[f00b01000f000000:0211030000]
+
+!******************************!
+[f10b010010000000:0212030000]
+
+!******************************!

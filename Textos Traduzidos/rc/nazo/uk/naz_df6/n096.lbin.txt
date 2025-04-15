@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000043040000000100000000000000000000000000]
+n096
+!******************************!
+n096a
+!******************************!
+n096b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir essa fechadura, você precisa
+trocar A e B de lugar em 10 movimentos
+ou menos.
+
+Ao trabalho!
+!******************************!
+[ec0b01000b000000:026f000000]
+Bravo!
+
+Você abriu a fechadura!
+!******************************!
+[ed0b01000c000000:028d000000]
+Errado!
+
+Tente mais uma vez!
+!******************************!
+[ee0b01000d000000:02b6000000]
+As quatro barras entre A e B são
+o grande desafio desse enigma.
+
+Comece movendo as coisas para tudo quanto
+é lado até travar. Então pense quantos
+passos a mais serão necessários.
+!******************************!
+[ef0b01000e000000:026a010000]
+Você com certeza vai ficar sem
+movimentos enquanto move A e B.
+Em algum momento, você vai ter que
+trocar A e B em uma tacada só.
+
+!******************************!
+[f00b01000f000000:02fd010000]
+Não importa começar com A ou
+com B, mas aqui estão as instruções
+para mover A:
+
+Deslize a segunda barra de cima para a
+esquerda e mova A para baixo até ficar
+à direita da terceira barra. Mova a
+segunda barra para a direita e deslize a
+terceira barra para cima e para esquerda.
+!******************************!
+[f10b010010000000:021a030000]
+Seguindo a Dica 3, mova B para o lado
+esquerdo da linha onde A está. Agora
+você pode mover A para o ponto final.
+Agora só resta usar os últimos quatro
+movimentos para levar B ao ponto final.
+
+Você consegue!
+!******************************!

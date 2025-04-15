@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000400000000f203000000f2030000000100000000000000000000000000]
+n005
+!******************************!
+n005a
+!******************************!
+n005b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você chegou na relojoaria, mas parece
+que não há nenhuma maneira de abrir
+a porta.
+
+Você percebe o estranho desenho abaixo
+no centro da porta, e uma voz sai
+de dentro da loja:
+
+{''}Toque o painel com o relógio nele.{''}
+
+Qual painel você deve tocar? Lembre-se,
+você só precisa tocar em um.
+!******************************!
+[ec0b01000b000000:024d010000]
+Exatamente!
+
+Há uma ampulheta que pode ser
+vista em um dos painéis.
+
+Ei, olhe, a porta está abrindo!
+!******************************!
+[ed0b01000c000000:02ae010000]
+Azar!
+
+Há vários tipos diferentes de
+relógio. Lembre-se disso.
+!******************************!
+[ee0b01000d000000:02f0010000]
+Você está procurando um relógio. Mas
+tenha em mente que existem vários
+tipos de relógios diferentes.
+
+Já que a voz lhe disse para {''}tocar o
+painel com o relógio nele{''}, você sabe
+que o relógio inteiro deve estar
+presente em um painel só...
+!******************************!
+[ef0b01000e000000:02e2020000]
+Você não deve procurar por um relógio
+normal, seja analógico ou digital. Há
+outros tipos de relógio que não
+possuem partes móveis.
+Pense em alguns exemplos disso.
+!******************************!
+[f00b01000f000000:0285030000]
+O relógio que você procura não vai
+te ajudar a dizer que horas são.
+
+Em vez disso, esse relógio te mostra
+quanto tempo já se passou.
+
+Talvez você usaria um cronômetro para
+isso hoje em dia, mas o que você está
+procurando se parece com um tipo
+de relógio mais clássico.
+!******************************!
+[f10b010010000000:028a040000]
+Você está procurando por uma ampulheta.
+Já viu uma antes, certo?
+
+Então vá em frente, tente achá-la!
+!******************************!
