@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n109
+!******************************!
+n109a
+!******************************!
+n109b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você tem 15 biscoitos para compartilhar
+com um grupo grande. A primeira pessoa
+come um e passa duas porções iguais
+do que sobrou para outras duas pessoas.
+Essas duas comem um biscoito cada e
+passam duas porções iguais dos restos de
+seus biscoitos para duas pessoas cada,
+e assim vai até os biscoitos acabarem.
+
+Demora um minuto para comer um biscoito.
+Ignorando o tempo para passar os
+biscoitos, qual o menor tempo, em
+minutos, que levaria para comer
+todos os biscoitos?
+!******************************!
+[ec0b01000b000000:02ff010000]
+Que rapidez!
+
+Os biscoitos acabarão em quatro minutos.
+
+O diagrama acima mostra como visualizar
+o enigma para te ajudar a resolvê-lo.
+Esse parece o tipo de coisa que seria
+útil na vida real, mas não é todo dia
+que se tem uma situação assim, não é?
+
+!******************************!
+[ed0b01000c000000:0200030000]
+Que pena!
+
+Limpe sua mente e pense de novo.
+!******************************!
+[ee0b01000d000000:0234030000]
+Fazer um diagrama é o jeito mais rápido
+de resolver esse enigma.
+!******************************!
+[ef0b01000e000000:0273030000]
+Tente dividir esse problema em números.
+Se um dos 15 biscoitos for comida,
+sobrarão 14. Divida esses 14 igualmente
+entre duas pessoas, e assim cada uma
+recebe sete. Já se passou um minuto.
+
+Pense de maneira matemática nesse
+problema e você conseguirá resolvê-lo
+rapidinho.
+
+!******************************!
+[f00b01000f000000:02aa040000]
+As duas pessoas que receberam sete
+biscoitos comem um cada, levando um
+minuto. Ambos ficam com seis sobrando
+e então os dividem para outras duas
+pessoas cada, dando a elas três
+biscoitos cada. Já se passou dois
+minutos.
+!******************************!
+[f10b010010000000:028f050000]
+Todos que receberam três biscoitos comem
+um de cada, sobrando dois. Nesse ponto,
+já se passou três minutos.
+
+Ao dividir estes dois biscoitos para as
+próximas pessoas da fila, dando um para
+cada, quantos minutos restarão ainda
+para acabar os biscoitos?
+
+!******************************!

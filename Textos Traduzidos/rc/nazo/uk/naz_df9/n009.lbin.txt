@@ -1,0 +1,88 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n009
+!******************************!
+n009a
+!******************************!
+n009b
+!******************************!
+[eb0b01000a000000:0211000000]
+Seu trabalho é fazer as engrenagens de
+cima e de baixo girarem na mesma
+direção, como mostrado pelas setas no
+diagrama.
+
+Para fazer isso, qual engrenagem
+adicional deve ser colocada: A, B ou C?
+
+Toque a letra no meio da engrenagem
+correta para enviar sua resposta.
+!******************************!
+[ec0b01000b000000:0210010000]
+Excelente!
+
+A resposta é B. Se há um número ímpar de
+engrenagens entre a de cima e a de
+baixo, então essas duas engrenagens se
+moverão na mesma direção. Mas com um
+número par, elas se moveriam na direção
+oposta.
+ 
+Usando a B, haverá cinco engrenagens
+entre as duas principais, então o
+sentido de suas rotações será o mesmo.
+
+!******************************!
+[ed0b01000c000000:0271020000]
+Resposta errada!
+
+Tente usar a Função Notas para marcar a
+direção em que cada engrenagem se move.
+!******************************!
+[ee0b01000d000000:02c6020000]
+Para descobrir como fazer ambas as
+engrenagens girarem na mesma direção,
+tente seguir as outras de uma ponta a
+outra, analisando a direção que cada
+uma gira.
+
+Já percebeu que duas engrenagens
+adjacentes sempre giram na direção
+oposta, não é?
+!******************************!
+[ef0b01000e000000:02c3030000]
+Com o método explicado na Dica 1,
+você pode checar sistematicamente a
+sequência de rotação das engrenagens
+quando A, B e C são inseridas.
+
+Mas existe um jeito mais rápido de saber
+qual usar. Leia a Dica 1 novamente.
+
+!******************************!
+[f00b01000f000000:029e040000]
+Como dito pela Dica 1, engrenagens
+vizinhas se movem na direção oposta. Se
+três engrenagens estivessem alinhadas, a
+segunda giraria na direção oposta da
+primeira, ao contrário da terceira que
+giraria na mesma direção da primeira.
+Pensando nisso, duas engrenagens que
+possuem um número ímpar de engrenagens
+entre elas sempre girarão na mesma
+direção. Já duas engrenagens com um
+número par de engrenagens entre elas
+girarão em direções opostas.
+!******************************!
+[f10b010010000000:0259060000]
+Ao colocar a engrenagem A, haverá
+quatro engrenagens entre a de cima e
+a de baixo.
+
+Colocando a B, haverá cinco
+engrenagens entre as duas principais.
+
+Finalmente, colocando a C, também
+haverá quatro engrenagens entre
+as duas principais, mesma coisa
+com a engrenagem A.
+!******************************!

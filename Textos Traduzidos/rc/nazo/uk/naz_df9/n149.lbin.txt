@@ -1,0 +1,66 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n149
+!******************************!
+n149a
+!******************************!
+n149b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esses são três símbolos estranhos: A, B
+e C.
+
+Se A é 63 e B é 89, o que diabos pode
+ser C?
+
+Tenha como certeza de que C também é
+um número de dois dígitos.
+!******************************!
+[ec0b01000b000000:02b8000000]
+Correto!
+
+A resposta é 52.
+
+Ao girar os símbolos em 90 graus no
+sentido horário e desenhar uma linha
+no meio, eles mostram 63, 89 e 52.
+!******************************!
+[ed0b01000c000000:024a010000]
+Que azar.
+
+Tente olhar os símbolos um pouco
+mais de longe.
+!******************************!
+[ee0b01000d000000:0289010000]
+Pense na relação entre os símbolos
+e os números.
+
+Tente usar a Função Notas para escrever
+os números. Você precisará escrevê-los
+de uma maneira um tanto angular.
+
+!******************************!
+[ef0b01000e000000:0237020000]
+Tente virar sua cabeça um pouco para a
+esquerda e olhar os símbolos de novo.
+
+Consegue ver alguma coisa?
+!******************************!
+[f00b01000f000000:0298020000]
+Use a Função Notas para pintar os
+espaços vazios dos símbolos. Assim que
+terminar, use a borracha e faça uma
+linha reta horizontal no meio dos
+símbolos.
+
+Está vendo agora?
+!******************************!
+[f10b010010000000:0268030000]
+Tá bom, lá vai a super dica:
+
+Depois de seguir as instruções da
+Dica 3, tente olhar os símbolos pelo
+lado direito da tela.
+
+Consegue ver alguns números no estilo
+de um relógio digital?
+!******************************!

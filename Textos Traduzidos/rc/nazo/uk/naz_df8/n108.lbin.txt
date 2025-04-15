@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000610400000061040000000100000000000000000000000000]
+n108
+!******************************!
+n108a
+!******************************!
+n108b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um amigo mandou uma carta a você, te
+convidando para a casa dele. Mas o
+conteúdo da carta é um pouco estranho...
+
+{''}Primeiro, bata em uma porta específica.
+Depois bata na porta abaixo e na porta
+mais abaixo. Agora bata na porta à
+direita dessa. E finalmente, bata na
+próxima porta à direita. Chegou na
+minha casa!{''}
+
+Toque a porta do seu amigo para abri-la.
+Cuidado para não deixar outras portas
+abertas ao enviar sua resposta.
+!******************************!
+[ec0b01000b000000:02be010000]
+Na mosca!
+
+Apesar de você não saber qual é a
+{''}porta específica{''} que seu amigo
+se referiu, a única onde você pode
+se mover duas para baixo e duas para
+direita é a do canto superior esquerdo.
+Portanto, a única localização possível
+da casa do seu amigo é a do canto
+inferior direito!
+!******************************!
+[ed0b01000c000000:02d0020000]
+Errado!
+
+Não deixe seu amigo esperando!
+!******************************!
+[ee0b01000d000000:02fa020000]
+Tente descobrir qual é a {''}porta
+específica{''} que seu amigo mencionou
+e comece a partir disso.
+
+!******************************!
+[ef0b01000e000000:0257030000]
+Se você descobrir qual porta bater
+primeiro, você não terá problemas
+em encontrar a casa do seu amigo.
+
+Afinal de contas, só tem uma porta que
+atende exatamente às instruções que seu
+amigo te passou...
+!******************************!
+[f00b01000f000000:0218040000]
+A casa do seu amigo fica a duas portas
+para baixo e duas portas para a direita
+da primeira porta que você deve bater.
+
+Já que há apenas três portas em cada
+fileira, tanto na horizontal quanto na
+vertical...
+!******************************!
+[f10b010010000000:02db040000]
+Comece da porta no canto superior
+esquerdo e siga as instruções de seu
+amigo para achar seu destino.
+
+Lembre-se de não deixar nenhuma porta
+aberta além da porta do seu amigo
+antes de enviar sua resposta.
+!******************************!

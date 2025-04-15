@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n179
+!******************************!
+n179a
+!******************************!
+n179b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa pequena gralha esteve trazendo para
+seu ninho uma pedra por dia, durante um
+período de 10 dias.
+
+Há pedras de quatro cores diferentes no
+ninho: branca, preta, vermelha e azul.
+
+O número de pedras brancas é metade do
+número de pedras pretas. O número de
+pedras pretas é metade das pedras
+vermelhas.
+
+Quantas pedras há de cada cor?
+!******************************!
+[ec0b01000b000000:0276010000]
+Exato!
+
+Uma branca.
+Duas pretas.
+Quatro vermelhas.
+Três azuis.
+
+Uma coleção incrível!
+!******************************!
+[ed0b01000c000000:02c2010000]
+Que pena.
+
+Acha que a gralha se importa com
+a cor das pedras?
+!******************************!
+[ee0b01000d000000:020a020000]
+Fato indiscutível: no total, são
+10 pedras. Além disso, há pelo menos
+uma pedra de cada cor. A questão é
+saber a cor de cada uma das outras
+seis.
+
+O enigma já mencionou que há mais pedras
+vermelhas do que pretas, e mais pedras
+pretas do que brancas (vermelha, preta,
+branca). Pense nessas informações e
+a resposta vai surgir logo, logo.
+
+!******************************!
+[ef0b01000e000000:0286030000]
+
+!******************************!
+[f00b01000f000000:0287030000]
+
+!******************************!
+[f10b010010000000:0288030000]
+
+!******************************!

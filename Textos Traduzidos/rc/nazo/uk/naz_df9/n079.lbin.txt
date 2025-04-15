@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n079
+!******************************!
+n079a
+!******************************!
+n079b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você recentemente comprou alguns livros
+raros em uma livraria de segunda mão.
+Você pagou, no total, {po}99.
+
+A imagem abaixo mostra a estante de onde
+você pegou seus livros. Embaixo de cada
+livro há uma etiqueta com seus preços.
+Quais livros você comprou?
+
+Marque todos os livros que você comprou
+e aperte em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:0237010000]
+Certíssimo!
+
+Você comprou quatro livros, os de {po}27,
+{po}33, {po}15 e {po}24. Identificar os
+números que se somam e que fazem o
+segundo dígito ser 9 é o jeito mais
+comum de resolver esse enigma.
+
+Aliás, 99 é um múltiplo de 3. Percebeu
+que o preço de cada livro que você
+escolheu também é um múltiplo de 3?
+
+!******************************!
+[ed0b01000c000000:028f020000]
+Que pena!
+
+Cheque novamente seus cálculos
+e tente outra vez.
+!******************************!
+[ee0b01000d000000:02c7020000]
+O último dígito de 99 é 9, então pense
+em quais combinações de livros que a
+soma dá em um número que termina com 9.
+!******************************!
+[ef0b01000e000000:022c030000]
+Assim que você achar os livros que a
+soma dá um número que termina com 9,
+calcule se o primeiro número também
+daria um 9.
+!******************************!
+[f00b01000f000000:02b9030000]
+Você comprou quatro livros. Se sua
+resposta tem mais ou menos que quatro
+livros, cheque seus cálculos e tente de
+novo.
+!******************************!
+[f10b010010000000:0230040000]
+Escolha apenas os livros cujo os
+preços são múltiplos de três e
+assim terá a resposta.
+!******************************!

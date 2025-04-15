@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000240400000025040000000100000000000000000000000000]
+n099
+!******************************!
+n099a
+!******************************!
+n099b
+!******************************!
+[eb0b01000a000000:0211000000]
+Sua rota de fuga está bloqueada...
+por blocos!
+
+Com sorte, você tem cinco bombas em
+mãos. Cada bomba destruirá por completo
+o bloco que for designado.
+O restante cairá em qualquer espaço
+vazio criado por blocos destruídos
+abaixo deles, mas não mudará de forma.
+
+Posicione as cinco bombas nos blocos que
+você crê que, quando destruídos, farão
+uma superfície plana pela qual você
+poderá passar. Então aperte o detonador!
+!******************************!
+[ec0b01000b000000:02b1010000]
+Bum!
+
+Bom trabalho. Agora fuja daí!
+!******************************!
+[ed0b01000c000000:02d8010000]
+Errado!
+
+Apresse-se e tente de novo!
+!******************************!
+[ee0b01000d000000:02fe010000]
+Há cinco blocos específicos que devem
+ser destruídos. Fique tranquilo, errar
+faz parte. Você pode tentar quantas
+vezes quiser, então se divirta
+explodindo tudo! Uma hora você
+irá resolver esse problema.
+!******************************!
+[ef0b01000e000000:02d6020000]
+Se olhar de perto, perceberá que os
+blocos são feitos de quadrados de
+tamanho uniforme. Aliás, o fosso tem
+cinco quadrados de profundidade. Comece
+a partir daí.
+!******************************!
+[f00b01000f000000:0271030000]
+Há três blocos na linha de baixo.
+Você precisa destruir o da esquerda
+e o da direita. Deixe o do meio
+intacto.
+!******************************!
+[f10b010010000000:02fc030000]
+Não destrua o bloco quadrado no
+topo superior direito da pilha.
+!******************************!

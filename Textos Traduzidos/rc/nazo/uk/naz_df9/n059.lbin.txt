@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n059
+!******************************!
+n059a
+!******************************!
+n059b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um coelho estranhamente esperto impôs
+certas regras estranhas acerca de seus
+movimentos. Ele pode pular 70 cm para
+frente, mas após cada pulo para frente,
+ele deve pular 30 cm na direção de seu
+rabo.
+
+Se ele precisar pular 10 metros em uma
+linha reta, qual é o número mínimo de
+pulos para conseguir fazer isso?
+
+!******************************!
+[ec0b01000b000000:0256010000]
+É isso aí!
+
+A resposta é 20 pulos.
+Após cada pulo de 70 cm para frente, o
+coelho vira em 180 graus e pula mais
+30 cm na direção do seu rabo, assim
+pulando um metro em dois pulos.
+
+!******************************!
+[ed0b01000c000000:021d020000]
+Que azar!
+
+Esse coelho é bem estranho, mas
+não há dúvidas de sua inteligência.
+!******************************!
+[ee0b01000d000000:026f020000]
+Um cálculo rápido te mostra que se o
+coelho pula 70 cm para frente e 30 cm
+para trás na direção de seu rabo, ele
+irá pular 40 cm em dois pulos.
+Será que não existe alguma maneira mais
+rápida de fazer progresso com esses
+pulos?
+!******************************!
+[ef0b01000e000000:025b030000]
+Fazendo uma certa ação após pular 70 cm
+para frente permitirá o coelho a pular
+mais longe ainda até seu objetivo.
+
+Pense em um jeito de não desperdiçar o
+pulo de 30 cm na direção do rabo dele.
+
+
+!******************************!
+[f00b01000f000000:022a040000]
+A chave para esse enigma é a rotação.
+
+Girando no mesmo lugar, o coelho
+consegue pular mais longe em
+direção ao seu objetivo.
+!******************************!
+[f10b010010000000:02a1040000]
+Após o primeiro pulo, o coelho vira em
+180 graus e pula pela segunda vez.
+Assim que estiver no chão, ele vira
+novamente e faz seu próximo pulo.
+Repetir esse padrão é o jeito mais
+eficiente de andar até o seu objetivo,
+mesmo se isso fazer nosso pobre
+coelhinho ficar tonto...
+!******************************!

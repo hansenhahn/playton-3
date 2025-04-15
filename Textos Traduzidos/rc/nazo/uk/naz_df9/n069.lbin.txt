@@ -1,0 +1,77 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n069
+!******************************!
+n069a
+!******************************!
+n069b
+!******************************!
+[eb0b01000a000000:0211000000]
+Só há um jeito de atravessar esta sala.
+Para prosseguir, você deve descobrir
+como juntar novamente as quatro peças
+do Caminho do Dragão!
+
+Você pode mover livremente a bola de
+espinhos também.
+!******************************!
+[ec0b01000b000000:02d6000000]
+Você conseguiu!
+
+O Layton do futuro aguarda do outro
+lado do Caminho do Dragão!
+
+!******************************!
+[ed0b01000c000000:0222010000]
+Que azar!
+
+Melhor tentar outra vez.
+!******************************!
+[ee0b01000d000000:0249010000]
+A cabeça do dragão fica no topo, e a
+cauda embaixo.
+
+Tente visualizar o Caminho do Dragão
+pronto antes de começar a mexer
+nas peças.
+!******************************!
+[ef0b01000e000000:02d4010000]
+Você precisa lidar com a bola de
+espinhos movendo-a para a esquerda e
+deslizando ela pela parede da direita.
+Para limpar o caminho, mova a peça
+T deitada para a direita, depois mova
+a peça S para baixo à esquerda da peça
+T. Agora você pode mover a bola para
+baixo à esquerda e se você mover a cauda
+do dragão para esquerda em cima, poderá
+também mover a bola até a parede da
+direita.
+
+!******************************!
+[f00b01000f000000:0275030000]
+Mova a peça T para cima da peça S
+rente à parede esquerda, como se
+encaixasse as duas peças. Mova a cabeça
+do dragão e a bola de espinhos para
+baixo no meio. Agora você pode mover
+a cauda até o canto inferior direito.
+Mova a bola de volta para a parede
+da direita, depois mova a peça T
+para cima no meio e também a peça S
+embaixo à esquerda da peça T,
+encaixando as duas novamente.
+!******************************!
+[f10b010010000000:02e2040000]
+Mova a cabeça do dragão para o canto
+inferior esquerdo para deixar o meio
+aberto. Mova a cauda para o meio embaixo
+e então mova a peça S para baixo,
+encaixando ela com a cauda.
+
+Você está quase lá! Descubra os últimos
+movimentos e o Caminho do Dragão se
+tornará realidade diante de seus olhos!
+
+
+
+!******************************!

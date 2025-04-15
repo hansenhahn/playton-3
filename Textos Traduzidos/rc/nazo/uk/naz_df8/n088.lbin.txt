@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n088
+!******************************!
+n088a
+!******************************!
+n088b
+!******************************!
+[eb0b01000a000000:0211000000]
+Só um dos parafusos, de A a F, irá se
+encaixar no furo rosqueado. A largura
+do buraco corresponde à espessura dos
+parafusos, então não se preocupe sobre
+isso.
+Você só tem uma chave de fenda em mãos.
+Rápido! Não temos tempo a perder.
+
+Circule o parafuso correto e aperte em
+<CR>Enviar</C>.
+
+!******************************!
+[ec0b01000b000000:023d010000]
+É isso!
+
+Rápido, faça esse carro funcionar!
+!******************************!
+[ed0b01000c000000:026e010000]
+Que pena!
+
+Dê outra olhada e tente de novo.
+!******************************!
+[ee0b01000d000000:0299010000]
+Preste atenção na direção da rosca
+de cada parafuso e do buraco.
+
+
+!******************************!
+[ef0b01000e000000:02ee010000]
+O parafuso C, não importa o quanto você
+o gire, não funcionará! Pode descartá-lo
+da sua listinha.
+
+!******************************!
+[f00b01000f000000:0262020000]
+O parafuso B não pode ser girado por
+nenhuma ferramenta, e o F não pode ser
+girado por uma chave de fenda. Pode
+riscar essas duas opções também.
+!******************************!
+[f10b010010000000:02f8020000]
+A rosca do parafuso A está na direção
+oposta da rosca do buraco, então não
+é a resposta. Só sobra duas opções
+possíveis. Dê uma última olhada e
+você conseguirá resolver rapidamente.
+!******************************!
