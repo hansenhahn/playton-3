@@ -2,55 +2,56 @@
 [7117030001000000:000a0000000200000000020b000000]
 OPルーク３
 !******************************!
-<V0010><T>Então você acha que o que aconteceu
-semana passada está de alguma forma
-ligado a esta carta...</V>
+<V0010><T>Então, você acha que o que
+houve semana passada, de alguma forma,
+tem relação com esta carta...</V>
 !******************************!
 [7117030004000000:000a0000000200000000026b000000]
 OPルーク３
 !******************************!
-<V0020><T>Espere! Se a máquina do tempo era
-real, talvez esta carta seja real também!</V>
+<V0020><T>Espere! Talvez se a máquina do tempo
+for real, esta carta também é!</V>
 !******************************!
 [7117030007000000:000f00000002bd00000002ca000000]
 OPレイトン３
 !******************************!
-<V0030><T>Não sei quanto a isso, mas esses
+<V0030><T>Não tenho certeza, mas estes
 dois elementos não são os únicos
-mistérios.</V>
+problemas enigmáticos que temos.</V>
 !******************************!
 [711703000a000000:000f00000002bd0000000229010000]
 OPレイトン３
 !******************************!
-<T><V0031>Diga-me, Luke, você ouviu falar
-dos desaparecimentos recentes
-aqui em Londres?</V>
+<T><V0031>Diga-me, Luke, você soube
+dos recentes desaparecimentos
+que ocorreram aqui em Londres?</V>
 !******************************!
 [711703000d000000:00140000000200000000028f010000]
 OPルーク３
 !******************************!
-<V0040><T>Ah, sim. Li sobre isso no jornal.</V>
+<V0040><T>Ah, sim, li sobre eles
+neste jornal.</V>
 !******************************!
 [7117030010000000:0014000000020000000002c3010000]
 OPルーク３
 !******************************!
-<T><V0041>Alguns dos maiores cientistas de
-Londres têm desaparecido
+<T><V0041>Alguns dos maiores cientistas
+de Londres estiveram desaparecendo
 misteriosamente.</V>
 !******************************!
 [7117030013000000:001400000002bd0000000218020000]
 OPレイトン３
 !******************************!
-<V0050><T>Sim, e não consigo tirar da cabeça
-que esses desaparecimentos estão
-ligados a todo esse caso.</V>
+<V0050><T>Sim, e não consigo deixar de
+sentir que estes desaparecimentos estão
+conectados a todo esse caso.</V>
 !******************************!
 [7117030016000000:001e00000002bd0000000284020000]
 OPレイトン３
 !******************************!
-<V0060><T>De qualquer forma, parece que o
-melhor a fazer é irmos até o
-local mencionado na carta.</V>
+<V0060><T>De qualquer forma, parece que
+nossa melhor pista é ir ao local que
+a carta menciona.</V>
 !******************************!
 [7117030019000000:001e000000020000000002f6020000]
 OPルーク３

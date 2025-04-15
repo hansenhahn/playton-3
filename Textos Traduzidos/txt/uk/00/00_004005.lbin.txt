@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000211000000]
 チェルミー（食）
 !******************************!
-<T>Hrm.<W> Para um evento deste tamanho,
+<T>Hmph.<W> Para um evento deste tamanho,
 esta comida não tem nada de mais.
 !******************************!
 [7117030004000000:000a00000002590000000268000000]
@@ -42,7 +42,7 @@ Este bife está tão, hm, suculento!
 [7117030013000000:001400000002000000000220020000]
 チェルミー（食）
 !******************************!
-<T>Hrm! Ao que parece, eles não têm
+<T>Hmph! Ao que parece, eles não têm
 pressa para começar o evento.
 !******************************!
 [7117030016000000:001400000002590000000265020000]

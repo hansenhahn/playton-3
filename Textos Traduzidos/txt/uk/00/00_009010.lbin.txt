@@ -2,26 +2,28 @@
 [7117030001000000:000a0000000200000000020b000000]
 フローレス
 !******************************!
-<T>Ora, ora, vejam só quem chegou!
-Dois jovenzinhos cheios de energia!
+<T>Oras, olá, meus jovenzinhos
+bonitinhos!
 !******************************!
 [7117030004000000:000a0000000200000000023c000000]
 フローレス
 !******************************!
-<T><A2/0>Essas carinhas me dizem tudo! Aposto que
-estão loucos pra ouvir uma dica útil, não é?
+<T><A2/0>Olhando a cara de vocês,
+tenho certeza que querem muito
+ouvir algo extremamente útil!
 !******************************!
 [7117030007000000:000a0000000200000000029e000000]
 フローレス
 !******************************!
-<T><A1/1>Muito bem, aqui vai uma dica de ouro: toque
-naquele carro estacionado ali.
+<T><A1/1>Tudo bem, aqui vai meu conselho.
+Vão tocar aquele carro estacionado
+bem ali.
 !******************************!
 [711703000a000000:0014000000020000000002f6000000]
 フローレス
 !******************************!
-<T><A1/1>Ei! Tira essas mãos de mim!
-Eu falei pra tocar no carro estacionado ali!
+<T><A1/1>Aí! Tirem suas mãos de mim! Eu
+disse pra tocar o carro ali, não eu!
 !******************************!
 [711703000d000000:001e0000000244010000024b010000]
 ルーク
@@ -31,17 +33,19 @@ Eu falei pra tocar no carro estacionado ali!
 [7117030010000000:001e0000000200000000026e010000]
 フローレス
 !******************************!
-<T>Ai, ai, ai... Mas que bagunça você fez!
-E por que foi fazer uma coisa dessas, hein?
+<T>Oh, querido, você já fez bagunça o
+suficiente, viu? Por que que você
+foi fazer uma coisa dessas?
 !******************************!
 [7117030013000000:001e000000024401000002ce010000]
 ルーク
 !******************************!
-<T><A1/5>Eu-eu não tive culpa!
-Foi você quem mandou eu tocar!
+<T><A1/5>M-mas a culpa não foi minha! Você
+que nos disse para tocá-lo!
 !******************************!
 [7117030016000000:001e00000002000000000217020000]
 フローレス
 !******************************!
-<T>Ah é?<W> Não lembro de ter dito nada disso, não...
+<T>Eu disse?<W> Eu realmente não
+me lembro de falar nada do tipo.
 !******************************!

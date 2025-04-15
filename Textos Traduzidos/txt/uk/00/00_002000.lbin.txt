@@ -98,7 +98,7 @@ estranhos como este, meu garoto.</V>
 OPルーク
 !******************************!
 <V0120><T><A2/1>Er...<W></T><T> Obrigado, eu acho.<W>
-Mas de volta à carta - como vamos
+Mas de volta à carta... como vamos
 saber se ela é real?</V>
 !******************************!
 [711703002e000000:0014000000029402000002c7050000]

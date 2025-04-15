@@ -2,21 +2,21 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/1>Pronto, chegamos.<W><A3/2> A relojoaria
-que a carta mencionava deve esta por
-aqui em algum lugar. Mas onde?
+<T><A3/1>Bom, aqui estamos.<W><A3/2> A relojoaria
+que a carta mencionou deve estar por aqui
+em algum lugar. Mas onde?
 !******************************!
 [7117030004000000:000a0000000281000000028a000000]
 レイトン
 !******************************!
-<T>Este parece ser o momento ideal para
-consultarmos o mapa que veio junto com a carta.
+<T>Parece uma boa hora de consultar
+o mapa que estava junto da carta.
 !******************************!
 [7117030007000000:000a000000028100000002d6000000]
 レイトン
 !******************************!
-<T><A2/1>Aqui está, Luke.<W><A2/2> Veja se consegue
-encontrar o local da loja por conta própria.
+<T><A2/1>Aqui, Luke.<W><A2/2> Veja se consegue encontrar
+a localização da relojoaria sozinho.
 !******************************!
 [711703000a000000:000a00000002000000000229010000]
 ルーク
@@ -26,48 +26,52 @@ encontrar o local da loja por conta própria.
 [711703000d000000:00e80300000200000000024a010000]
 ルーク
 !******************************!
-<T><A4/4>Hmm... Isso é mais complicado
-do que eu pensava.
+<T><A4/4>Hmm. Isso é mais difícil
+do que eu esperava.
 !******************************!
 [7117030010000000:00d007000002000000000280010000]
 ルーク
 !******************************!
-<T>Deixa eu tentar de novo esse enigma!
+<T>Deixa eu tentar mais uma
+vez!
 !******************************!
 [7117030013000000:00b80b0000020000000002a9010000]
 ルーク
 !******************************!
-<T><A3/2>Boa! Agora vai ser moleza chegar até
-a relojoaria. Vamos nessa, Professor!
+<T><A3/2>Certo! Chegar na relojoaria
+deve ser fácil agora. Vamos lá,
+Professor!
 !******************************!
 [7117030016000000:00c20b00000201020000020e020000]
 ナレーション
 !******************************!
-<T><A4/2>Muito bem.<W><A2/2> Mas antes de irmos, vamos
-revisar rapidinho como se locomover.
+<T><A4/2>Certo.<W><A2/2> Mas antes de irmos,
+vamos rapidamente lembrar de como
+nos movermos.
 !******************************!
 [7117030019000000:00c20b00000201020000026c020000]
 ナレーション
 !******************************!
-<T>Você me ajuda com isso, Luke?
+<T>Se importa em me ajudar, Luke?
 !******************************!
 [711703001c000000:00cc0b000002010200000288020000]
 ナレーション
 !******************************!
-<T>Deixa comigo, Professor. Pode deixar que
-eu explico.<W> Vamos ver... Pra começar, toque
-no ícone do sapato.
+<T>Já sei o que fazer, Professor. Eu
+assumo a partir daqui.<W> Vejamos... Para
+começar, deve-se tocar no ícone do sapato.
 !******************************!
 [711703001f000000:00d60b0000020102000002f0020000]
 ナレーション
 !******************************!
-<T>Quando tocar no sapato, irão aparecer umas setas.
-É só tocar numa delas pra seguir nessa direção.
+<T>Depois de tocar no sapato,
+setas irão aparecer. Então, é só
+tocar em uma delas para ir naquela direção.
 !******************************!
 [7117030022000000:00e00b00000281000000024f030000]
 レイトン
 !******************************!
-<T><A1/2>Perfeito.<W> Portanto, sempre que quiser
-se mover, lembre-se de começar tocando
-no ícone do sapato.
+<T><A1/2>Exatamente.<W> Então lembre-se,
+sempre que quiser se mover,
+comece tocando no sapato.
 !******************************!

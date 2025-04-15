@@ -2,57 +2,56 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/2>I've never seen so many clocks in
-one place!
+<T><A3/2>Nunca vi tantos relógios
+em um só lugar!
 !******************************!
 [7117030004000000:000a000000023d0000000246000000]
 レイトン
 !******************************!
-<T><A4/2>Yes, and they're all extremely well
-made. Whoever built them must be
-very talented.
+<T><A4/2>Sim, e são todos de extremo refinamento.
+Quem os construiu deve ter bastante talento.
 !******************************!
 [7117030007000000:000a000000020000000002a3000000]
 ルーク
 !******************************!
-<T><A1/1>Really? How can you tell that just
-by looking at them?
+<T><A1/1>Sério? Como você sabe só
+de olhar para eles?
 !******************************!
 [711703000a000000:000a000000023d00000002e3000000]
 レイトン
 !******************************!
-<T>Ho ho! One gains an eye for these
-things with age, my boy.
+<T>Ho ho! Um olho para estes detalhes
+vem com a idade, meu garoto.
 !******************************!
 [711703000d000000:000a000000023d0000000221010000]
 レイトン
 !******************************!
-<T><A2/2>You know, this might be the ideal
-time for this clock puzzle of mine.
+<T><A2/2>E falando nisso, essa é uma boa
+hora para este meu enigma com um relógio.
 !******************************!
 [7117030010000000:000a000000023d0000000270010000]
 レイトン
 !******************************!
-<T>Care to try it?
+<T>Se importa em tentar?
 !******************************!
 [7117030013000000:000a00000002000000000283010000]
 ルーク
 !******************************!
-<T><A3/2>You bet I would, Professor!
+<T><A3/2>Pode apostar que sim, Professor!
 !******************************!
 [7117030016000000:00e8030000023d00000002a8010000]
 レイトン
 !******************************!
-<T>Giving up, are you?<W> Very well.
+<T>Já está desistindo?<W> Muito bem.
 !******************************!
 [7117030019000000:00d0070000023d00000002cd010000]
 レイトン
 !******************************!
-<T><A1/2>Let's revisit that puzzle about
-the clock, shall we?
+<T><A1/2>Revisitemos este enigma sobre
+o relógio, certo?
 !******************************!
 [711703001c000000:00b80b0000023d000000020b020000]
 レイトン
 !******************************!
-<T><A1/2>Spot on, Luke. Good work.
+<T><A1/2>Perfeito, Luke. Bom trabalho.
 !******************************!

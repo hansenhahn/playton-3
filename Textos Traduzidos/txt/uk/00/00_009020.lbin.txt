@@ -2,73 +2,76 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/1>Professor, como vamos acompanhar
-o nosso progresso?
+<T><A1/1>Ei, Professor, como nós vamos
+poder acompanhar nosso progresso?
 !******************************!
 [7117030004000000:00140000000250000000025d000000]
 ナレーション
 !******************************!
-<T>Ah, sim.<W><A2/2> Acho que ambos precisamos
-de uma atualização sobre isso.
+<T>Ah, sim.<W><A2/2> Acho que podemos
+dar uma revisada nesse assunto.
 !******************************!
 [7117030007000000:001e000000025000000002aa000000]
 ナレーション
 !******************************!
-<T>Para começar, toque no ícone da mala
-localizado no canto superior direito
-da tela de toque.
+<T>Primeiro, toque o ícone da mala
+no canto superior direito da Tela
+de Toque.
 !******************************!
 [711703000a000000:002800000002500000000201010000]
 ナレーション
 !******************************!
-<T>Isso abrirá a mala, onde você pode acessar
-várias opções úteis tocando nos ícones.
+<T>Isso abrirá a mala, onde você
+pode acessar diversas opções úteis
+ao tocar seus ícones.
 !******************************!
 [711703000d000000:002d00000002500000000263010000]
 ナレーション
 !******************************!
-<T>Este é o Índice de Enigmas. Essa opção permite
-que você reveja os enigmas que encontrou
-durante a aventura.
+<T>Esse é o Índice de Enigmas. Essa
+opção deixa você revisitar enigmas
+encontrados durante sua aventura.
 !******************************!
 [7117030010000000:0032000000025000000002cc010000]
 ナレーション
 !******************************!
-<T>Esta é a opção de Salvar. Toque nela para
-salvar o seu progresso ao longo da aventura.
+<T>Essa é a opção de Salvar. Toque-a
+para salvar seu progresso durante
+sua aventura.
 !******************************!
 [7117030013000000:003c00000002500000000263010000]
 ナレーション
 !******************************!
-<T>Este é o Índice de Enigmas. Essa opção permite
-que você reveja os enigmas que encontrou
-durante a aventura.
+<T>Esse é o Índice de Enigmas. Essa
+opção deixa você revisitar enigmas
+encontrados durante sua aventura.
 !******************************!
 [7117030016000000:00460000000250000000022a020000]
 ナレーション
 !******************************!
-<T>Os enigmas resolvidos estão marcados com
-um sinal de verificação. Aqueles que você
-ainda não resolveu estão em branco.
+<T>Enigmas resolvidos ficam marcados.
+Os que não foram ficam com um espaço
+em branco.
 !******************************!
 [7117030019000000:004600000002500000000279020000]
 ナレーション
 !******************************!
-<T>Qualquer enigma já resolvido pode ser
-jogado novamente a partir deste menu.
+<T>Qualquer enigma resolvido antes
+pode ser refeito neste menu.
 !******************************!
 [711703001c000000:0046000000025000000002b9020000]
 ナレーション
 !******************************!
-<T>Para tentar novamente um enigma não
-resolvido, no entanto, você precisará
-voltar ao local onde ele foi encontrado.
+<T>Mas para tentar resolver um
+enigma não resolvido, você precisa
+voltar ao local onde ele estava.
 !******************************!
 [711703001f000000:00500000000250000000021f030000]
 ナレーション
 !******************************!
-<T>Por fim, este é o Diário. Toque no
-Diário para revisar os eventos da história.
+<T>E finalmente, este é o Diário. Toque-o
+para rever e analisar os eventos
+da história.
 !******************************!
 [7117030022000000:005a00000002000000000275030000]
 ルーク
@@ -78,7 +81,7 @@ Diário para revisar os eventos da história.
 [7117030025000000:005a0000000291030000029a030000]
 レイトン
 !******************************!
-<T>Que bom ouvir isso, Luke. Imagino que
-faremos um bom uso da mala durante
-nossa investigação.
+<T>Que bom, Luke. E creio que
+faremos bom uso desta mala
+durante nossa investigação.
 !******************************!

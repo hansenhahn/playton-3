@@ -2,50 +2,50 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/1>Wow, can you believe this clock?
+<T><A1/1>Uau, consegue acreditar que este
+relógio existe?
 !******************************!
 [7117030004000000:000a0000000231000000023a000000]
 レイトン
 !******************************!
-<T><A4/1>It certainly is impressive.
-Unfortunately, it doesn't appear
-to work.
+<T><A4/1>De fato, é impressionante.
+Infelizmente, ele não me parece
+funcional no momento.
 !******************************!
 [7117030007000000:000a00000002000000000289000000]
 ルーク
 !******************************!
-<T><A4/1>Then it's a good job there's so
-many other ways of telling the time
-here.
+<T><A4/1>Ainda bem que há outras
+maneiras de dizer a hora por aqui.
 !******************************!
 [711703000a000000:000a000000023100000002dc000000]
 レイトン
 !******************************!
-<T><A2/2>Oh, you've just reminded me of a
-splendid puzzle, Luke.
+<T><A2/2>Ah, você acabou de me lembrar
+de um enigma incrível, Luke.
 !******************************!
 [711703000d000000:00e80300000231000000021d010000]
 レイトン
 !******************************!
-<T><A4/1>I suppose we can finish this puzzle
-later.
+<T><A4/1>Creio que possamos resolver
+ele mais tarde.
 !******************************!
 [7117030010000000:00d007000002310000000251010000]
 レイトン
 !******************************!
-<T><A4/2>You know, Luke, you have yet to
-solve the clock puzzle I mentioned
-earlier.
+<T><A4/2>Sabe, Luke, você ainda deve
+resolver o enigma do relógio que
+mencionei mais cedo.
 !******************************!
 [7117030013000000:00b80b0000020000000002a6010000]
 ルーク
 !******************************!
-<T><A4/1>You know, I've never seen a clock
-this big up close.<W> <A4/4>It's a real shame
-that it's not in working order.
+<T><A4/1>Sabe, nunca vi um relógio tão
+grande assim de perto.<W> <A4/4>É uma pena
+que ele não esteja funcionando agora.
 !******************************!
 [7117030016000000:00a00f00000200000000021f020000]
 ルーク
 !******************************!
-<T><A1/1>This clock is just fantastic.
+<T><A1/1>Este relógio é fantástico mesmo.
 !******************************!

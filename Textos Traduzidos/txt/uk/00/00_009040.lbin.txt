@@ -2,12 +2,13 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A4/1>Nenhuma das lojas por aqui parece estar aberta.
+<T><A4/1>Nenhuma das lojas aqui parece
+estar aberta.
 !******************************!
 [7117030004000000:000a000000023f0000000248000000]
 レイトン
 !******************************!
-<T><A4/2>Realmente, não parecem, não é?
-Mas muitas delas dão a impressão de
-só abrirem à noite.
+<T><A4/2>Realmente parece, não é? Mas
+muitas delas parecem que só
+abrem à noite.
 !******************************!

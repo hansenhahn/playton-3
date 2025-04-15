@@ -1,165 +1,165 @@
 [7017010000000000:0018000000]
 [7117030001000000:00e80300000200000000020f000000]
-Afternoon Walk
+Caminhada da Tarde
 !******************************!
-The secret to a long life is plenty
-of sleep and exercise, don't you
-know. Speaking of exercise, let me
-tell you about the route I take on
-my afternoon walks!
+O segredo para viver mais é muito
+sono e exercício, sabe.
+Falando em exercício, deixe-me
+contar sobre o caminho que faço nas
+minhas caminhadas da tarde!
 !******************************!
 [7117030004000000:00f203000002ae00000002b8000000]
-Big Score
+Grande Bolada
 !******************************!
-Oi lads, we've got work to do!
-We've gotta grab all this cash
-and bang it into the safe, boss's
-orders! Make sure you get the lot!
+Aí, galera, trabalho a fazer!
+Temos que pegar todo esse dinheiro
+e botar dentro do cofre, ordens do
+chefe! E peguem o lote também!
 !******************************!
 [7117030007000000:00fc030000023b0100000245010000]
-Cake Hunt
+Caça ao Bolo
 !******************************!
-Hey Fluuuke! Your bride-to-be
-can't wait to see you again,
-sweetie! And I'm bringing cakes!
-Aren't you just dying to taste
-them?
+Ei, Fluuuke! Sua noiva mal
+pode esperar te ver de novo,
+docinho! E eu tô trazendo bolos!
+Você não tá morrendo de vontade
+de provar eles?
 !******************************!
 [711703000a000000:000604000002c601000002d2010000]
-Desert Trek
+Trilha no Deserto
 !******************************!
-Oh nyet! I'm lost again, and this
-time in the desert! I've got to
-get to the coast for some agua
-before I dry up like a prune... But
-how? Oh bitte, amigo! Help me!
+Ah, nyet! Me perdi de novo, e
+dessa vez no deserto! Tenho que
+chegar à costa para tomar um pouco
+d'àgua antes de minha boca secar...
+Mas como? Ah bitte, amigo! Ajude-me!
 !******************************!
 [711703000d000000:001004000002760200000286020000]
-Street Cleaning
+Limpeza nas Ruas
 !******************************!
-That Max! He rushed off ahead to
-the hotel and dropped all his toys
-along the way. Now I have to
-follow the trail of toys and pick
-them all up!
+Aquele Max! Ele foi correndo até
+o hotel e derrubou todos os seus
+brinquedos no caminho. Agora tenho
+que seguir a trilha deles e
+pegá-los todos!
 !******************************!
 [7117030010000000:001a04000002160300000223030000]
-Patrol Route
+Rota de Patrulha
 !******************************!
-Oh dear! The inspector has called
-me out to an emergency! I'll be
-in for it if I don't get to the
-crime scene soon! I just can't
-resist all those cakes, though...
+Ah, meu deus! O inspetor me
+chamou pra uma emergência! Tô
+acabado se eu não chegar na cena
+do crime logo! Mas não dá pra
+resistir ver todos esses bolos...
 !******************************!
 [7117030013000000:002404000002c603000002d6030000]
-Treasure Island
+A Ilha do Tesouro
 !******************************!
-This course is my humble gift to
-you. Looks easy, but what about
-the gold coins you have to
-plunder? You're going to have to
-be creative to get all those!
+Esse percurso é meu humilde
+presente a ti. Parece fácil, mas
+e as moedas douradas que você
+precisa saquear? Tens que ser bem
+criativo para pegar todas!
 !******************************!
 [7117030016000000:002e0400000271040000027e040000]
-Carrot Patch
+Horta de Cenouras
 !******************************!
-This is my secret carrot patch
-and it's about time to dig the
-little beauties up. They look so
-juicy and tasty! It'll be fresh
-carrot salad for dinner!
+Esta é minha horta secreta de
+cenouras e já tá na hora de arrancar
+essas belezinhas. Parecem tão
+gostosas e suculentas! Vai ter
+salada de cenoura fresca pra janta!
 !******************************!
 [7117030019000000:003804000002160500000224050000]
-Cash Round-Up
+Liquidação de Dinheiro
 !******************************!
-I'm in big trouble! I spent a little
-too long in the casino last night
-and lost all my money. I need to
-get my hands on some cash before
-the Family come after me!
+Ai, que problemão! Fiquei até
+demais no cassino noite passado
+e perdi todo meu dinheiro. Preciso
+pegar algum dinheirinho antes da
+Família vir atrás de mim!
 !******************************!
 [711703001c000000:004204000002c705000002d8050000]
-Riverside Stroll
+Passeio à Beira do Rio
 !******************************!
-Well, well! Congratulations on
-getting this far! Allow me to
-reward you with this last course.
-It should be a piece of cake for
-an expert such as yourself!
+Ora, ora! Parabéns em chegar
+tão longe! Permita-me recompensá-lo
+com esse último percurso. Isso deve
+ser bem fácil para um especialista
+que nem você!
 !******************************!
 [711703001f000000:00d007000002740600000275060000]
 
 !******************************!
-Pass over all the flags!
+Passe por todas as bandeiras!
 !******************************!
 [7117030022000000:00da070000028e060000028f060000]
 
 !******************************!
-Pick up all the money bags!
+Pegue todos os sacos de dinheiro!
 !******************************!
 [7117030025000000:00e407000002ab06000002ac060000]
 
 !******************************!
-Pick up all the cakes for Luke!
+Pegue todos os bolos para o Luke!
 !******************************!
 [7117030028000000:00ee07000002cc06000002cd060000]
 
 !******************************!
-Follow all the flags to the seaside!
+Siga as bandeiras até a costa!
 !******************************!
 [711703002b000000:00f807000002f206000002f3060000]
 
 !******************************!
-Pick up all Max's toys!
+Pegue todos os brinquedos de Max!
 !******************************!
 [711703002e000000:0002080000020b070000020c070000]
 
 !******************************!
-Eat all the cakes on the course!
+Coma todos os bolos no percurso!
 !******************************!
 [7117030031000000:000c080000022d070000022e070000]
 
 !******************************!
-Pick up all the treasure!
+Pegue todos os tesouros!
 !******************************!
 [7117030034000000:001608000002480700000249070000]
 
 !******************************!
-Dig up all the carrots!
+Tire todas as cenouras da terra!
 !******************************!
 [7117030037000000:00200800000261070000028f060000]
 
 !******************************!
-Pick up all the money bags!
+Pegue todos os sacos de dinheiro!
 !******************************!
 [711703003a000000:002a08000002620700000263070000]
 
 !******************************!
-Pick up all the top hats!
+Pegue todas as cartolas!
 !******************************!
 [711703003d000000:00b80b0000027d070000027e070000]
 
 !******************************!
-Congratulations!
-You have completed
+Parabéns!
+Você completou
 {''}%s{''}.
 !******************************!
 [7117030040000000:00c20b000002ae07000002af070000]
 
 !******************************!
-Bonus course added:
-{''}Riverside Stroll{''}.
+Percurso bônus adicionado:
+{''}Passeio á Beira do Rio{''}.
 !******************************!
 [7117030043000000:00cc0b000002dd07000002de070000]
 
 !******************************!
-Congratulations!
-You have completed all the
-courses!
+Parabéns!
+Você completou todos os
+percursos!
 !******************************!
 [7117030046000000:00a00f000002130800000214080000]
 
 !******************************!
-Stop the car?
+Parar o carro?
 !******************************!
