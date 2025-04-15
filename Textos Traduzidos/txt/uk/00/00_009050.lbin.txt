@@ -2,70 +2,70 @@
 [7117030001000000:000a0000000200000000020d000000]
 ヒゲマフラー
 !******************************!
-<T><A3/0>Keh heh heh!<W><A2/1> Don't think I've seen
-you two whippersnappers before.
+<T><A3/0>Keh heh heh!<W><A2/1> Não acho que já tenha visto
+vocês dois por aqui, seus pimpolhos.
 !******************************!
 [7117030004000000:000a00000002620000000269000000]
 ルーク
 !******************************!
-<T><A3/1>Are you sure about that? I've got
-a feeling we've met somewhere...
+<T><A3/1>Tem certeza disso? Tenho a sensação de
+que já nos encontramos em algum lugar...
 !******************************!
 [7117030007000000:000a000000020000000002b5000000]
 ヒゲマフラー
 !******************************!
-<T><A3/0>Keh heh heh!<W><A2/1> Oh no, no, no, you
-must be thinking of someone else.
+<T><A3/0>Keh heh heh!<W><A2/1> Ah não, não, não... Deve
+estar me confundindo com outra pessoa.
 !******************************!
 [711703000a000000:000a00000002000000000209010000]
 ヒゲマフラー
 !******************************!
-<T><A1/1>But anyhoo, I've got some juicy
-information that you two might
-want to hear.
+<T><A1/1>Mas enfim, tenho uma informação
+suculenta que talvez interesse
+a vocês dois.
 !******************************!
 [711703000d000000:0014000000025f0100000268010000]
 レイトン
 !******************************!
-<T>Ah, if you're going to tell us about
-hint coins, then I should stop you
-now.
+<T>Ah, se for sobre as moedas de dica,
+então é melhor parar por aqui mesmo.
 !******************************!
 [7117030010000000:0014000000025f01000002b8010000]
 レイトン
 !******************************!
-<T>A kind lady by the bus stop already
-gave us a comprehensive
-explanation.
+<T>Uma senhora muito gentil, lá no ponto
+de ônibus, já nos deu uma explicação
+completa.
 !******************************!
 [7117030013000000:001400000002000000000204020000]
 ヒゲマフラー
 !******************************!
-<T><A2/3>What?!<W><A2/5> But...explaining hint coins
-is just about the only time we ever
-get to chat.
+<T><A2/3>O quê?!<W><A2/5> Mas... Explicar as moedas de dica
+é praticamente a única chance que
+tenho de conversar!
 !******************************!
 [7117030016000000:00140000000200000000026a020000]
 ヒゲマフラー
 !******************************!
-<T>How could you let someone else give
-my speech?
+<T>Como puderam deixar outra pessoa
+dar o meu discurso?
 !******************************!
 [7117030019000000:001e0000000262000000029c020000]
 ルーク
 !******************************!
-<T><A2/1>You mean you've given us that talk
-before?<W> So we HAVE already met! 
+<T><A2/1>Então quer dizer que você já nos deu
+essa explicação?<W> Então a gente JÁ
+se encontrou!
 !******************************!
 [711703001c000000:001e000000020000000002ec020000]
 ヒゲマフラー
 !******************************!
-<T><A3/0>Erm... Ahem.
+<T><A3/0>Erm... Cof cof.
 !******************************!
 [711703001f000000:001e00000002000000000202030000]
 ヒゲマフラー
 !******************************!
-<T><A2/5>I'm suddenly not feeling too
-chipper. I'd better head home. I'll
-be seeing you 'round!
+<T><A2/5>De repente não estou me sentindo
+muito bem. Melhor eu ir pra casa.
+Até mais, hein!
 !******************************!

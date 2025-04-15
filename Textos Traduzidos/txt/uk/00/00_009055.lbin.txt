@@ -2,50 +2,50 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/1>Where do you suppose these stairs
-go to, Professor?
+<T><A3/1>Pra onde o senhor acha que
+essas escadas levam, Professor?
 !******************************!
 [7117030004000000:000a0000000244000000024d000000]
 レイトン
 !******************************!
-<T>I'd say they probably lead up to
-that row of charming Victorian
-houses.
+<T>Eu diria que provavelmente levam
+até aquela fileira encantadora de
+casas vitorianas.
 !******************************!
 [7117030007000000:000a00000002440000000298000000]
 レイトン
 !******************************!
-<T><A1/2>Say, Luke, all this talk of stairs
-has reminded me of a puzzle. Care
-to hear it?
+<T><A1/2>Aliás, Luke, toda essa conversa
+sobre escadas me fez lembrar de um enigma.
+Gostaria de ouvi-lo?
 !******************************!
 [711703000a000000:000a000000020000000002f2000000]
 ルーク
 !******************************!
-<T><A3/2>Would I ever!
+<T><A3/2>Mas é claro!
 !******************************!
 [711703000d000000:00e803000002000000000209010000]
 ルーク
 !******************************!
-<T><A4/4>I suppose I'm not in the mood for
-a puzzle after all.
+<T><A4/4>Quer saber? Acho que não tô
+no clima pra um enigma agora.
 !******************************!
 [7117030010000000:00d007000002440000000248010000]
 レイトン
 !******************************!
-<T>Let's give that stairs puzzle
-another go.
+<T>Vamos tentar resolver aquele enigma
+das escadas mais uma vez.
 !******************************!
 [7117030013000000:00b80b000002440000000275010000]
 レイトン
 !******************************!
-<T>Exemplary thinking, Luke. Now let's
-get back on track.
+<T>Pensamento exemplar, Luke.
+Agora vamos retomar nosso caminho.
 !******************************!
 [7117030016000000:00a00f0000024400000002af010000]
 レイトン
 !******************************!
-<T>There probably aren't any clock
-shops in a quiet residential area
-like that.
+<T>Provavelmente não há relojoarias
+numa área residencial tranquila
+como essa.
 !******************************!

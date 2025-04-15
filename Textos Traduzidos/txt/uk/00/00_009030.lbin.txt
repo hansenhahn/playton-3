@@ -2,108 +2,100 @@
 [7117030001000000:000a00000002000000000209000000]
 デビット
 !******************************!
-<T>You're looking for a clock shop,
-you say?<W><A3/5> Hmm. Nah, can't say I
-know of one around here. 
+<T>Está procurando por uma relojoaria, é? <W><A3/5>
+Hmm... Não, não me lembro de nenhuma por aqui.
 !******************************!
 [7117030004000000:000a000000026f0000000276000000]
 ルーク
 !******************************!
-<T>All right. Well, thanks anyway.
+<T>Tá bom. Bem, obrigado de qualquer forma.
 !******************************!
 [7117030007000000:000a00000002000000000299000000]
 デビット
 !******************************!
-<T><A1/1>Oh, wait a minute! <W>On second
-thoughts, I think I passed a clock
-shop just the other day.
+<T><A1/1>Ah, espere um minuto! <W>Pensando melhor, 
+acho que passei por uma relojoaria outro dia.
 !******************************!
 [711703000a000000:000a000000026f00000002fe000000]
 ルーク
 !******************************!
-<T><A3/1>Terrific! Do you remember where
-it was?
+<T><A3/1>Ótimo! Você lembra onde fica?
 !******************************!
 [711703000d000000:000a0000000200000000022f010000]
 デビット
 !******************************!
-<T><A3/5>Hmm... That I'm not sure of.
+<T><A3/5>Hmm... Isso eu não tenho certeza.
 !******************************!
 [7117030010000000:000a00000002000000000255010000]
 デビット
 !******************************!
-<T>I have trouble remembering stuff
-when I have other things on my
-mind...
+<T>Eu tenho dificuldades para lembrar as coisas
+quando estou com outras coisas na cabeça...
 !******************************!
 [7117030013000000:000a000000020000000002a0010000]
 デビット
 !******************************!
-<T>Help me with this puzzle that's been
-bothering me and I might be able to
-remember where I saw that shop.
+<T>Me ajude com esse enigma que está me
+incomodando e talvez eu consiga lembrar
+onde vi essa loja.
 !******************************!
 [7117030016000000:000a000000026f000000020c020000]
 ルーク
 !******************************!
-<T><A3/2>You're in luck, sir! I happen to be
-a bit of a whizz when it comes to
-puzzles!
+<T><A3/2>Você está com sorte, senhor! Eu sou
+um verdadeiro craque quando se trata de enigmas!
 !******************************!
 [7117030019000000:00e803000002000000000264020000]
 デビット
 !******************************!
-<T><A4/6>Yeah, until that puzzle gets solved,
-I don't think I'll be able to
-remember a thing.
+<T><A4/6>É, até esse enigma ser resolvido, não
+acho que vou conseguir lembrar de nada.
 !******************************!
 [711703001c000000:00d0070000020000000002c2020000]
 デビット
 !******************************!
-<T><A2/2>This puzzle's demanding all my
-attention. Solve it for me so I can
-remember where that clock shop is.
+<T><A2/2>Esse enigma está exigindo toda a minha atenção.
+Resolva-o para mim e talvez eu consiga lembrar
+onde fica a relojoaria.
 !******************************!
 [711703001f000000:00b80b000002000000000231030000]
 デビット
 !******************************!
-<T><A4/6>Hey, nice going, kiddo.
+<T><A4/6>Ei, muito bem, garoto.
 !******************************!
 [7117030022000000:00b80b0000026f0000000252030000]
 ルーク
 !******************************!
-<T>Thanks. So, about that clock
-shop...
+<T>Obrigado. Então, sobre a relojoaria...
 !******************************!
 [7117030025000000:00b80b00000200000000027a030000]
 デビット
 !******************************!
-<T><A2/2>Right, the clock shop. It's
-somewhere on this road...I think.
-<W><A1/1>Well, got to dash! See you later!
+<T><A2/2>Certo, a relojoaria. Fica em algum lugar
+dessa rua... Eu acho. <W><A1/1>Bem, preciso correr! Até mais!
 !******************************!
 [7117030028000000:00c20b0000026f00000002ec030000]
 ルーク
 !******************************!
-<T><A4/4>Wait!<W> Oh. He ran off.
+<T><A4/4>Espere! <W>Ah. Ele correu.
 !******************************!
 [711703002b000000:00cc0b0000020e0400000217040000]
 レイトン
 !******************************!
-<T>Ha ha ha! Something tells me he was
-more interested in getting us to
-solve his puzzle than in helping us.
+<T>Ha ha ha! Algo me diz que ele estava mais
+interessado em nos fazer resolver seu
+enigma do que realmente ajudar.
 !******************************!
 [711703002e000000:00cc0b0000020e0400000284040000]
 レイトン
 !******************************!
-<T><A3/2>Not to worry, though. I'm sure
-we'll be able to find the clock shop
-on our own.
+<T><A3/2>Mas não se preocupe. Tenho certeza de que
+conseguiremos encontrar a relojoaria
+por conta própria.
 !******************************!
 [7117030031000000:00cc0b0000020e04000002dd040000]
 レイトン
 !******************************!
-<T>It's probably just a bit further
-down this road.
+<T>Provavelmente fica um pouco mais
+à frente, nesta rua.
 !******************************!

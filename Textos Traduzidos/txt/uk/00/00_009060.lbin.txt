@@ -2,62 +2,63 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/2>This must be the place, Professor!
+<T><A3/2>Professor, deve ser aqui!
 !******************************!
 [7117030004000000:000a0000000233000000023c000000]
 レイトン
 !******************************!
-<T>Yes, finally.
+<T>Sim, finalmente.
 !******************************!
 [7117030007000000:000a0000000200000000024d000000]
 ルーク
 !******************************!
-<T>Let's go inside!
+<T>Vamos entrar!
 !******************************!
 [711703000a000000:001400000002000000000261000000]
 ルーク
 !******************************!
-<T><A4/1>Huh?
+<T><A4/1>Hã?
 !******************************!
 [711703000d000000:00140000000233000000026f000000]
 レイトン
 !******************************!
-<T>What seems to be the matter, Luke?
+<T>O que foi, Luke?
 !******************************!
 [7117030010000000:001400000002000000000295000000]
 ルーク
 !******************************!
-<T><A4/4>The door's locked. How are we
-supposed to get in?
+<T><A4/4>A porta está trancada.
+Como é que a gente vai entrar?
 !******************************!
 [7117030013000000:0014000000023300000002d0000000]
 レイトン
 !******************************!
-<T><A4/1>Let me have a look.<W><A2/1> Ah, it seems it's
-time for a puzzle. We have to solve
-this one to open the door.
+<T><A4/1>Deixe-me ver.<W><A2/1> Ah, parece que é
+hora de um enigma. Precisamos resolvê-lo
+para abrir a porta.
 !******************************!
 [7117030016000000:00e803000002000000000247010000]
 ルーク
 !******************************!
-<T><A4/4>There's nothing wrong with taking
-a break, but we won't be able to
-enter until we solve that puzzle.
+<T><A4/4>Não tem nada de errado em fazer
+uma pausa, mas só vamos conseguir
+entrar se resolvermos esse enigma.
 !******************************!
 [7117030019000000:00d0070000023300000002b5010000]
 レイトン
 !******************************!
-<T>The door is fitted with a puzzle.
-We'll need to solve it to gain entry.
+<T>A porta está equipada com um enigma.
+Teremos que resolvê-lo para podermos
+entrar.
 !******************************!
 [711703001c000000:00b80b000002000000000200020000]
 ルーク
 !******************************!
-<T><A3/2>That did the trick!
+<T><A3/2>Funcionou!
 !******************************!
 [711703001f000000:00c20b00000233000000021d020000]
 レイトン
 !******************************!
-<T><A1/2>There's no sense dawdling outside.
-Come now, in we go.
+<T><A1/2>Não faz sentido ficarmos parados
+aqui fora. Vamos em frente.
 !******************************!
