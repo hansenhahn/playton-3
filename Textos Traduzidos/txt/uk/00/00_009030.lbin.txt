@@ -2,100 +2,107 @@
 [7117030001000000:000a00000002000000000209000000]
 デビット
 !******************************!
-<T>Está procurando por uma relojoaria, é? <W><A3/5>
-Hmm... Não, não me lembro de nenhuma por aqui.
+<T>Está procurando por uma relojoaria,
+não é?<W><A3/5> Hmm. Nhé, não vou
+tá sabendo de nenhuma por aqui. 
 !******************************!
 [7117030004000000:000a000000026f0000000276000000]
 ルーク
 !******************************!
-<T>Tá bom. Bem, obrigado de qualquer forma.
+<T>Tudo bem. Obrigado, de qualquer forma.
 !******************************!
 [7117030007000000:000a00000002000000000299000000]
 デビット
 !******************************!
-<T><A1/1>Ah, espere um minuto! <W>Pensando melhor, 
-acho que passei por uma relojoaria outro dia.
+<T><A1/1>Ah, espera aí! <W>Na verdade,
+acho que eu passei por uma relojoaria
+um dia desses.
 !******************************!
 [711703000a000000:000a000000026f00000002fe000000]
 ルーク
 !******************************!
-<T><A3/1>Ótimo! Você lembra onde fica?
+<T><A3/1>Ótimo! Você se lembra onde
+que foi?
 !******************************!
 [711703000d000000:000a0000000200000000022f010000]
 デビット
 !******************************!
-<T><A3/5>Hmm... Isso eu não tenho certeza.
+<T><A3/5>Hmm... Não tenho certeza.
 !******************************!
 [7117030010000000:000a00000002000000000255010000]
 デビット
 !******************************!
-<T>Eu tenho dificuldades para lembrar as coisas
-quando estou com outras coisas na cabeça...
+<T>Eu tenho um probleminha de memória
+quando fico pensando em outras
+coisas...
 !******************************!
 [7117030013000000:000a000000020000000002a0010000]
 デビット
 !******************************!
-<T>Me ajude com esse enigma que está me
-incomodando e talvez eu consiga lembrar
-onde vi essa loja.
+<T>Olha, se me ajudarem com esse enigma
+que tá me incomodando, talvez eu lembre
+onde eu vi essa loja.
 !******************************!
 [7117030016000000:000a000000026f000000020c020000]
 ルーク
 !******************************!
-<T><A3/2>Você está com sorte, senhor! Eu sou
-um verdadeiro craque quando se trata de enigmas!
+<T><A3/2>Hoje é seu dia de sorte então!
+Quando o assunto é enigmas, eu sou
+a pessoa certa para isso!
 !******************************!
 [7117030019000000:00e803000002000000000264020000]
 デビット
 !******************************!
-<T><A4/6>É, até esse enigma ser resolvido, não
-acho que vou conseguir lembrar de nada.
+<T><A4/6>É, até o enigma ser resolvido,
+não acho que vou conseguir lembrar
+alguma coisa.
 !******************************!
 [711703001c000000:00d0070000020000000002c2020000]
 デビット
 !******************************!
-<T><A2/2>Esse enigma está exigindo toda a minha atenção.
-Resolva-o para mim e talvez eu consiga lembrar
-onde fica a relojoaria.
+<T><A2/2>Esse enigma tá tomando todo
+meu foco. Resolva-o pra mim e então
+eu vou lembrar onde fica essa relojoaria.
 !******************************!
 [711703001f000000:00b80b000002000000000231030000]
 デビット
 !******************************!
-<T><A4/6>Ei, muito bem, garoto.
+<T><A4/6>Aí, garoto, mandou bem.
 !******************************!
 [7117030022000000:00b80b0000026f0000000252030000]
 ルーク
 !******************************!
-<T>Obrigado. Então, sobre a relojoaria...
+<T>Obrigado. Então, sobre a
+relojoaria...
 !******************************!
 [7117030025000000:00b80b00000200000000027a030000]
 デビット
 !******************************!
-<T><A2/2>Certo, a relojoaria. Fica em algum lugar
-dessa rua... Eu acho. <W><A1/1>Bem, preciso correr! Até mais!
+<T><A2/2>Sim, a relojoaria. Ela
+fica em algum lugar nessa rua... Eu acho.
+<W><A1/1>Eita, tenho que ir! Até mais tarde!
 !******************************!
 [7117030028000000:00c20b0000026f00000002ec030000]
 ルーク
 !******************************!
-<T><A4/4>Espere! <W>Ah. Ele correu.
+<T><A4/4>Espere!<W> Ah. Ele já foi.
 !******************************!
 [711703002b000000:00cc0b0000020e0400000217040000]
 レイトン
 !******************************!
-<T>Ha ha ha! Algo me diz que ele estava mais
-interessado em nos fazer resolver seu
-enigma do que realmente ajudar.
+<T>Ha ha ha! Algo me diz que ele tinha
+mais interesse em nós resolvendo o
+enigma dele do que em nos ajudar.
 !******************************!
 [711703002e000000:00cc0b0000020e0400000284040000]
 レイトン
 !******************************!
-<T><A3/2>Mas não se preocupe. Tenho certeza de que
-conseguiremos encontrar a relojoaria
-por conta própria.
+<T><A3/2>Mas não se preocupe. Estou certo
+de que iremos achar essa relojoaria.
 !******************************!
 [7117030031000000:00cc0b0000020e04000002dd040000]
 レイトン
 !******************************!
-<T>Provavelmente fica um pouco mais
-à frente, nesta rua.
+<T>Provavelmente ela estará mais
+no final dessa rua.
 !******************************!

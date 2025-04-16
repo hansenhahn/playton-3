@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000007e040000007e040000000100000000000000000000000000]
+n078
+!******************************!
+n078a
+!******************************!
+n078b
+!******************************!
+[eb0b01000a000000:0211000000]
+Quatro casais tímidos estão marcados
+no mapa por símbolos vermelhos e azuis.
+
+Todos gostariam de se encontrar com seus
+respectivos parceiros para um encontro,
+mas sem trombar com outra pessoa no
+caminho.
+
+Faça linhas entre os casais A-a, B-b,
+C-c e D-d, de forma que nenhum caminho
+se cruze.
+!******************************!
+[ec0b01000b000000:0218010000]
+Você conseguiu!
+
+Agora todos os casais podem sair
+para seus encontros em paz.
+!******************************!
+[ed0b01000c000000:0266010000]
+Errado!
+
+Nesse ritmo, os casais nunca conseguirão
+se encontrar...
+!******************************!
+[ee0b01000d000000:02a7010000]
+Pense bem nos desvios que os casais
+precisam passar para evitar cruzar
+caminhos. Não dá para simplesmente
+cada um pegar o caminho mais curto.
+!******************************!
+[ef0b01000e000000:0237020000]
+O caminho a ser tomado pelo casal
+D-d possui apenas uma curva.
+!******************************!
+[f00b01000f000000:026b020000]
+Os caminhos dos casais B-b e C-c
+possuem quatro curvas. O caminho do
+casal A-a possui três curvas.
+!******************************!
+[f10b010010000000:02c9020000]
+O caminho do casal D-d é uma linha
+direta da ponta direita acima até a
+ponta de baixo à esquerda. A anda reto
+para baixo até antes de d, e vira à
+esquerda. Ambos B e C começam andando
+um passo para a esquerda do mapa. O
+caminho do casal B-b dá a volta por
+baixo do caminho do casal C-c. O
+caminho do casal A-a fica embaixo de B.
+
+Com tudo isso em mente,
+tente mais uma vez!
+!******************************!

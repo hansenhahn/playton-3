@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n090
+!******************************!
+n090a
+!******************************!
+n090b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir a porta, você precisa apertar
+os botões numéricos de acordo com estas
+instruções enigmáticas:
+
+{''}Abra com 2, mas deixe 4.{''}
+
+Apertar apenas o botão {''}2{''} e não
+apertar o botão {''}4{''} não funciona.
+Como exatamente você deve abrir esta
+porta então?
+!******************************!
+[ec0b01000b000000:0231010000]
+Bingo!
+
+O truque é apertar os botões no
+formato do número 2.
+
+{''}Deixe 4{''} era uma dica para
+deixar quatro botões sem serem
+apertados.
+!******************************!
+[ed0b01000c000000:02dd010000]
+Errado!
+
+Pense de um ângulo diferente.
+
+!******************************!
+[ee0b01000d000000:0215020000]
+A porta só se abre se você interpretar
+corretamente as instruções. Não tem
+nenhuma pegadinha suja aqui, é só que
+você precisa entender de outra forma.
+!******************************!
+[ef0b01000e000000:02b6020000]
+Pense um pouco mais na frase
+{''}abra com 2{''}. Não se prenda
+aos números apenas como botões
+isolados.
+!******************************!
+[f00b01000f000000:022d030000]
+{''}Abra com 2{''} se refere a apertar
+os botões de maneira que você forme
+o número 2 quando acesos.
+!******************************!
+[f10b010010000000:0299030000]
+Aperte em ordem: 1, 2, 3, 6, 9, 8, 7...
+Talvez a forma de um certo número
+esteja sendo criada.
+
+Exato! O truque é apertar os botões
+que formam juntos a forma do número
+2 quando acesos. Bem legal, não é?
+
+Aliás, viu como tem apenas quatro
+botões apagados? A outra parte das
+instruções se refere a isso.
+!******************************!

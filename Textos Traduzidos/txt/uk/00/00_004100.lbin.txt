@@ -2,55 +2,56 @@
 [7117030001000000:000a00000002000000000207000000]
 スミス
 !******************************!
-<T><A4/4>Ah, puxa... Dessa vez eu me dei mal...
+<T><A4/4>Ah, droga, parece que estou
+numa enrascada...
 !******************************!
 [7117030004000000:0014000000023d0000000246000000]
 レイトン
 !******************************!
-<T><A1/2>O senhor parece preocupado.
+<T><A1/2>Parece estar com problema, senhor.
 Podemos ajudar em algo?
 !******************************!
 [7117030007000000:001400000002000000000282000000]
 スミス
 !******************************!
-<T><A3/5>Ajuda? Ah, sim, por favor! Veja bem,acabei
-de receber um relatório sobre um comportamento
-inapropriado...
+<T><A3/5>Ajudar? Ah, sim, por favor! Bem,
+acabei de receber um aviso de alguém com
+um comportamento inapropriado...
 !******************************!
 [711703000a000000:00e8030000020000000002e6000000]
 スミス
 !******************************!
-<T><A4/4>Eu nunca vou encontrar esse pilantra sozinho.
-Estou acabado!
+<T><A4/4>Nunca vou achar esse penetra
+sozinho. Estou feito já!
 !******************************!
 [711703000d000000:00d007000002000000000227010000]
 スミス
 !******************************!
-<T><A2/2>Vocês vão me ajudar a encontrar esse intruso,
-não vão?
+<T><A2/2>Vocês podem me ajudar a encontrar
+esse convidado indesejado?
 !******************************!
 [7117030010000000:00b80b0000023d0000000265010000]
 レイトン
 !******************************!
-<T><A4/2>Excelente trabalho, meu garoto!
+<T><A4/2>Esplêndido, meu garoto!
 !******************************!
 [7117030013000000:00bd0b000002000000000285010000]
 スミス
 !******************************!
 <T><A2/2>Ufa! Muito obrigado pela ajuda.
-Enquanto eu estiver de olho, ninguém mais
-vai se aproveitar das coisas por aqui!
+Não vai ter mais nenhum intruso
+enquanto eu tiver vigiando!
 !******************************!
 [7117030016000000:00c20b000002de01000002e5010000]
 ルーク
 !******************************!
-<T>Viu isso, Professor? Eu acabei de ajudar
-a capturar um suspeito!
+<T>Você viu, Professor? Consegui
+ajudar na apreensão de um suspeito!
 !******************************!
 [7117030019000000:00c20b000002de0100000237020000]
 ルーク
 !******************************!
 <T>Ah! Parece que a apresentação
-está prestes a começar!<W> Vamos voltar
-pros nossos assentos.
+irá começar!<W> Vamos voltar aos
+nossos lugares.
 !******************************!

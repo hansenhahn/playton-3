@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000007e040000007e040000000100000000000000000000000000]
+n072
+!******************************!
+n072a
+!******************************!
+n072b
+!******************************!
+[eb0b01000a000000:0211000000]
+Nesse labirinto escuro de túneis, você
+não pode virar até chegar em uma parede.
+Começando do ponto vermelho com essa
+regra, chegue até a saída sem passar
+duas vezes pelo mesmo caminho e sem
+chegar em becos sem saída.
+
+Qual caminho você deve fazer? Faça uma
+linha para planejar sua fuga!
+!******************************!
+[ec0b01000b000000:0222010000]
+A fuga não é impossível!
+
+Você encontrou a saída!
+!******************************!
+[ed0b01000c000000:0248010000]
+Está errado!
+
+Lembre-se, você só pode virar
+quando chegar em uma parede.
+!******************************!
+[ee0b01000d000000:0283010000]
+Há três direções que você pode
+seguir saindo do ponto vermelho.
+Tente cada uma delas.
+
+Cuidado com becos sem saída!
+!******************************!
+[ef0b01000e000000:0209020000]
+À primeira vista, pode parecer confuso
+pelo tanto de cruzamentos, mas se você
+descartar todos os caminhos com becos
+sem saída, eventualmente você vai
+achar a resposta.
+!******************************!
+[f00b01000f000000:02ac020000]
+O caminho correto não é o que você
+sai do ponto vermelho para cima.
+!******************************!
+[f10b010010000000:02f0020000]
+O caminho que você sai do ponto vermelho
+para a direita também não é o caminho
+correto. Vá para baixo para fugir!
+!******************************!

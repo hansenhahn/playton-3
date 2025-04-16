@@ -1,235 +1,245 @@
 [7017010000000000:0017000000]
 [7117030001000000:00010000000200000000021b000000]
-The Letter from the Future
+A Carta do Futuro
 !******************************!
-Professor Layton has received a
-mysterious letter. The sender
-claims to be Luke from 10 years
-in the future, but how can this be
-possible?
+O Professor Layton recebeu uma
+carta misteriosa. O remetente
+diz ser Luke de 10 anos no
+futuro, mas como isso é
+possível?
 !******************************!
 [7117030004000000:000100000002a600000002a7000000]
 
 !******************************!
-A grown-up Luke used a time
-machine to send the letter back
-to the present, requesting the
-help of his former teacher,
-Professor Layton, in rescuing the
-chaotic future city of London.
+Um jovem adulto Luke usou uma
+máquina do tempo para mandar a
+carta ao presente, pedindo por
+ajuda de seu antigo professor,
+Layton, para salvar a caótica
+cidade de Londres no futuro.
 !******************************!
 [7117030007000000:0002000000025f010000027a010000]
-The Missing Prime Minister
+O Desaparecido Primeiro Ministro
 !******************************!
-Prime Minister Bill Hawks
-mysteriously disappeared in the
-accident at the time machine
-presentation. What could
-possibly have happened to him?
+O primeiro ministro Bill Hawks
+desapareceu misteriosamente no
+acidente da demonstração da
+máquina do tempo. O que pode
+ter acontecido com ele?
 !******************************!
 [711703000a000000:00020000000209020000020a020000]
 
 !******************************!
-Prime Minister Bill Hawks, who
-was unaccounted for after the
-accident at the time machine
-presentation, was discovered by
-Professor Layton in the future
-London. He was abducted by Dimitri
-and is now being held prisoner. Will
-the heroes be able to rescue him?
+O primeiro ministro Bill Hawks,
+dado como desaparecido após o
+acidente da demonstração da
+máquina do tempo, foi encontrado
+pelo Professor Layton na futura
+Londres. Ele foi sequestrado
+por Dimitri e mantido refém.
+Será que nossos heróis poderão
+salvá-lo?
 !******************************!
 [711703000d000000:0003000000020d030000021b030000]
-Warped London
+Londres Distorcida
 !******************************!
-When Professor Layton and Luke
-emerged from the clock shop,
-the streets of London suddenly
-looked quite different. What
-could have happened?
+Quando o Professor Layton e
+Luke saíram da relojoaria, as
+ruas de Londres pareciam muito
+diferentes de uma hora para
+outra. O que aconteceu?
 !******************************!
 [7117030010000000:000300000002a803000002a9030000]
 
 !******************************!
-The strange, unfamiliar streets
-belong to a future London from
-10 years after Professor Layton
-and Luke's time.
+As ruas estranhas e obscuras
+são de uma futura Londres de
+10 anos depois da época do
+Professor Layton e Luke.
 !******************************!
 [7117030013000000:00030000000219040000021a040000]
 
 !******************************!
-Future London turned out to be
-a fake city built in an underground
-cavern beneath the real London.
-Dimitri led his team of scientists
-to believe that they were trapped
-in the future so that they would
-put every effort into completing a
-functioning time machine.
+A futura Londres é na verdade
+uma cidade falsa construída em
+uma caverna embaixo da Londres
+de verdade. Dimitri fez seus
+cientistas acreditarem que
+estavam no futuro para que
+pudessem se esforçar em criar
+uma máquina do tempo funcional.
 !******************************!
 [7117030016000000:000400000002200500000235050000]
-Frightened Londoners
+Londrinos Assustados
 !******************************!
-Many people in this part of London
-seem to be afraid of Professor
-Layton. Why would ordinary people
-who've never met him fear the mild
-and gentlemanly Layton?
+Muitas pessoas nesta área de
+Londres parecem ter medo do
+Professor Layton. Por que essas
+pessoas que nunca o viram têm
+medo do gentil e cavalheiro
+Layton?
 
-It seems to be something to do
-with his hat...
+Parece ter alguma coisa a ver
+com sua cartola...
 !******************************!
 [7117030019000000:000400000002040600000205060000]
 
 !******************************!
-In the future, the city of London
-is in the thrall of an evil Layton.
-The sight of the professor, who
-looks just the same as his future
-self, is enough to spark fear
-among the local people.
+No futuro, a cidade de Londres
+está à mercê de um Layton do
+mal. A aparência do professor,
+que se parece exatamente como
+seu eu do futuro, é o bastante
+para causar medo nos moradores.
 !******************************!
 [711703001c000000:000500000002c306000002d3060000]
-The Future Luke
+O Luke do Futuro
 !******************************!
-This young man sent Professor
-Layton a letter, claiming to be
-Luke from the future. But how is
-that even possible?
+Esse jovem mandou uma carta
+para o Professor Layton, se
+intitulando o Luke do futuro.
+Mas como isso é possível?
 !******************************!
 [711703001f000000:000500000002460700000247070000]
 
 !******************************!
-The young man signing himself {''}Luke
-Triton{''} turned out to be an older
-Luke from 10 years in the future.
-He wrote to his old trusted
-teacher to request his aid.
+O jovem que assinou como {''}Luke
+Triton{''} realmente é um Luke
+mais velho, de 10 anos do
+futuro. Ele escreveu a seu
+confiável e antigo professor
+pedindo por sua ajuda.
 !******************************!
 [7117030022000000:000500000002ed07000002ee070000]
 
 !******************************!
-Future Luke is really a young man
-named Clive who lost his parents in
-the time machine accident 10 years
-ago. He has been planning his
-revenge on those responsible
-ever since. He called upon Layton
-hoping that the professor could
-save him from his own madness.
+O Luke do futuro na verdade é
+um jovem chamado Clive que ficou
+órfão no acidente da máquina do
+tempo há 10 anos. Ele planejou
+sua vingança contra os
+responsáveis do acidente desde
+então. Ele chamou Layton com
+esperança de que o professor o
+salvasse de sua própria loucura.
 !******************************!
 [7117030025000000:000600000002f3080000020a090000]
-Suspicious Individuals
+Indivíduos Suspeitos
 !******************************!
-A selection of shady characters,
-all dressed identically in grey,
-seem to lurk on every street
-corner in the future London.
-What are they up to?
+Um grupo de figuras sombrias,
+todos vestidos de cor cinza,
+parecem esgueirar a cada
+esquina na Londres do futuro.
+O que eles estão tramando?
 !******************************!
 [7117030028000000:0006000000029b090000029c090000]
 
 !******************************!
-The shady characters dressed
-in grey are members of a gang
-under the control of the future
-Layton, the boss of the London
-underworld.
+As figuras sombrias vestidas
+em cinza são membros de uma
+gangue liderada pelo Layton do
+futuro, o chefe do submundo da
+Londres do futuro.
 !******************************!
 [711703002b000000:000700000002220a000002320a0000]
-The Evil Layton
+O Layton do Mal
 !******************************!
-The future Hershel Layton is a
-crime lord who terrorises London
-with his gang of thugs. Known and
-feared by Londoners as {''}the
-devil in the top hat{''}, how
-could this model English gentleman
-have turned into such a monster?
+O futuro Hershel Layton é um
+senhor do crime que aterroriza
+Londres com sua gangue. Temido
+e conhecido pelos londrinos
+como {''}o Demônio da Cartola{''},
+como esse cavalheiro inglês
+pôde se tornar um monstro
+desses?
 !******************************!
 [711703002e000000:000700000002150b000002160b0000]
 
 !******************************!
-The future Layton turned out to
-be Dimitri Allen, the famous
-scientist renowned for his
-research into time travel.
-But what was Dimitri's reason
-for posing as a future Professor
-Layton?
+O Layton do futuro na verdade
+era Dimitri Allen, o famoso
+renomado cientista responsável
+pela pesquisa em viagem no
+tempo. Mas qual era o motivo
+de Dimitri em fingir ser um
+Professor Layton do futuro?
 !******************************!
 [7117030031000000:000800000002d00b000002dc0b0000]
-Dr Stahngun
+Dr. Stahngun
 !******************************!
-Dr Stahngun is the scientist who
-unveiled the time machine at the
-presentation, but no records
-exist of a scientist with that
-name. He must be somebody else,
-using an alias to cover up his
-true identity. Who is he really?
+O Dr. Stahngun é o cientista
+que revelou a máquina do tempo
+em sua apresentação, mas não
+consta registros de alguém com
+esse nome. Deve ser outra
+pessoa, usando um pseudônimo
+para esconder sua verdadeira
+identidade. Quem é ele?
 !******************************!
 [7117030034000000:000800000002ba0c000002bb0c0000]
 
 !******************************!
-Dr Stahngun is really Dimitri Allen,
-one of the scientists involved in
-the time machine accident 10 years
-ago.
+O Dr. Stahngun na verdade é
+Dimitri Allen, um dos cientistas
+envolvidos no acidente da
+máquina do tempo 10 anos atrás.
 !******************************!
 [7117030037000000:0009000000022a0d0000023f0d0000]
-The Mysterious Woman
+A Mulher Misteriosa
 !******************************!
-A woman who looks uncannily like
-Professor Layton's old
-sweetheart, Claire, is wandering
-around town. Who could she be?
+Uma mulher que, misteriosamente,
+se assemelha à antiga namorada
+de Layton, Claire, está andando
+por aí na cidade. Quem poderia
+ser ela?
 !******************************!
 [711703003a000000:000900000002b70d000002b80d0000]
 
 !******************************!
-The enigmatic woman is none other
-than Claire's younger sister,
-Celeste. She came to the future
-London in search of clues as to
-the circumstances of her sister's
-death, and is following Professor
-Layton in the belief that he will
-uncover the truth.
+A mulher enigmática é na
+verdade a irmã mais nova de
+Claire, Celeste. Ela veio para
+a Londres do futuro procurando
+pistas sobre as circunstâncias
+da morte de sua irmã, e está
+seguindo o Professor Layton
+acreditando que ele irá
+descobrir a verdade.
 !******************************!
 [711703003d000000:000900000002b10e000002b20e0000]
 
 !******************************!
-Celeste turns out to be Claire
-herself, sent into the present
-from the day of her accident 10
-years ago. Accepting her fate, she
-bids farewell to Professor Layton
-and travels back to her own time,
-to the day of her tragic accident.
+Celeste, na verdade, é a
+própria Claire, mandada para o
+presente 10 anos atrás desde o
+dia de seu acidente. Aceitando
+seu destino, ela dá adeus ao
+Professor Layton e viaja de
+volta à sua época, para o dia
+de seu trágico acidente.
 !******************************!
 [7117030040000000:000a000000029a0f000002af0f0000]
-The Men in Lab Coats
+Os Homens em Jalecos
 !******************************!
-Men in white laboratory coats
-seem to be all over this part
-of town, but the odd thing is that
-their trouser bottoms and shoes
-are always soaking wet. What 
-reason could they have for
-walking around London with wet
-feet?
+Há homens em jalecos de
+laboratório por todo lugar
+nesta cidade, mas o estranho é
+que suas calças e sapatos estão
+sempre molhadas. Por qual motivo
+eles estão andando por Londres
+com seus pés molhados?
+
 !******************************!
 [7117030043000000:000a000000028c100000028d100000]
 
 !******************************!
-The white-clad men walking around
-with wet feet are in fact
-scientists put to work by Dimitri
-in his research laboratory. They
-walk through a partially flooded
-tunnel under the River Thames to
-get into town when they want a bit
-of a break from the labs.
+Os homens de branco andando
+com seus pés molhados são
+cientistas que Dimitri colocou
+para trabalhar em seu
+laboratório. Eles andam por um
+túnel parcialmente inundado
+sob o Rio Tâmisa para chegar
+na cidade quando precisam de
+um intervalo.
 !******************************!

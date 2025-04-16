@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n155
+!******************************!
+n155a
+!******************************!
+n155b
+!******************************!
+[eb0b01000a000000:0211000000]
+Alguém rasgou essa página do calendário
+ao meio! Que deselegante! Mesmo assim,
+o enigma tem que continuar.
+
+Os quatro dias circulados somam 20.
+O menor número é 1. 
+
+Imaginando que a página do calendário
+estivesse intacta e que você circulasse
+um quadrante de quatro números que somem
+88, qual seria o menor entre os quatro?
+!******************************!
+[ec0b01000b000000:0268010000]
+Ding ding, certa resposta!
+
+Isso mesmo, 18! Se olharmos bem para um
+calendário, é possível perceber padrões
+numéricos. Números à esquerda ou direita
+de outros diferem por 1. Números acima
+ou abaixo diferem por 7. Em um quadrante
+de quatro números, o total da linha de
+baixo e da linha de cima devem ter uma
+diferença de 14 entre elas. Se a soma
+de quatro números em um quadrante é 88,
+os dois de cima devem equivaler a
+44 - 7, ou 37. E esses dois devem diferir
+por 1, ou seja: 19 e a resposta, 18!
+!******************************!
+[ed0b01000c000000:024b030000]
+Que azar!
+
+Não fique maluco tentando somar qualquer
+combinação possível de números que seja
+igual a 88. Em vez disso, seja eficiente
+na sua linha de raciocínio.
+!******************************!
+[ee0b01000d000000:02ea030000]
+Está tentando redesenhar a página
+do calendário em algum papel?
+
+Olha, tem como achar a resposta assim,
+mas talvez tenha um método mais fácil...
+!******************************!
+[ef0b01000e000000:0280040000]
+É uma página de calendário, então existe
+uma ordem específica de organizar os
+números. Se conseguir achar um padrão
+entre os números próximos de cada lado,
+acima e abaixo do outro, você talvez
+descobrirá uma maneira bem interessante
+de resolver esse enigma.
+!******************************!
+[f00b01000f000000:027b050000]
+Em um calendário, os números à esquerda
+e à direita dos outros diferem por 1.
+Os números acima e abaixo de cada
+diferem por 7.
+
+Usando esse padrão, existe um cálculo
+relativamente simples que você pode usar
+para resolver esse enigma.
+!******************************!
+[f10b010010000000:0258060000]
+O quadrante de números que você procura
+tem o número 26 embaixo à direita.
+!******************************!

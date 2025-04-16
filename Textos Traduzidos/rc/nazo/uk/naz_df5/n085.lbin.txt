@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000007e040000007e040000000100000000000000000000000000]
+n085
+!******************************!
+n085a
+!******************************!
+n085b
+!******************************!
+[eb0b01000a000000:0211000000]
+O sinal de mais do canto superior
+esquerdo está escondido em algum
+lugar desse desenho. Consegue achá-lo?
+
+É exatamente do mesmo formato e tamanho.
+Faça uma linha ao redor dele.
+!******************************!
+[ec0b01000b000000:02ad000000]
+É isso mesmo!
+
+É para ser fácil, mas parece que as
+pessoas tem dificuldades para achá-lo.
+
+O olho humano, às vezes, pode
+te enganar inesperadamente.
+!******************************!
+[ed0b01000c000000:0234010000]
+Errado.
+
+Dê uma outra olhada nesse desenho.
+!******************************!
+[ee0b01000d000000:0268010000]
+A forma está visível desde o começo,
+mas é difícil do olho conseguir
+perceber. Mantenha o foco.
+!******************************!
+[ef0b01000e000000:02d5010000]
+Você pode se distrair com todas as
+linhas e ter problemas para encontrar
+o contorno da forma. Tente desenhar
+alguns sinais de mais usando a Função
+Notas e veja se isso te ajuda.
+!******************************!
+[f00b01000f000000:0275020000]
+Você precisa focar na parte de cima.
+Deve haver um espaço em que se pode
+desenhar um sinal de mais.
+!******************************!
+[f10b010010000000:02d7020000]
+Olhe para a parte de cima à direita.
+É ali onde o sinal de mais está.
+!******************************!

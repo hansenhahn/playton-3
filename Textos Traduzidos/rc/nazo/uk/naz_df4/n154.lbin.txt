@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n154
+!******************************!
+n154a
+!******************************!
+n154b
+!******************************!
+[eb0b01000a000000:0211000000]
+A cartola preta abaixo é feita com seis
+peças. Usando as mesmas peças, faça uma
+cartola branca no mesmo lugar!
+
+As peças devem ser movidas e giradas,
+mas não podem ser viradas.
+!******************************!
+[ec0b01000b000000:02c5000000]
+Muito bom!
+
+Que cartola elegante!
+!******************************!
+[ed0b01000c000000:02ed000000]
+Errou!
+
+Esse não é o formato de uma cartola...
+!******************************!
+[ee0b01000d000000:0223010000]
+Esse enigma talvez seja familiar, mas
+tem o porém de você não poder virar as
+peças.
+
+Comece pensando em como uma
+{''}cartola branca{''} se parece.
+!******************************!
+[ef0b01000e000000:02ac010000]
+Se você tirar todas as peças da moldura,
+ela mesma se torna uma cartola branca!
+Viu como funciona?
+
+Agora tudo que você precisa fazer é botar
+as peças em volta para emoldurá-la.
+!******************************!
+[f00b01000f000000:0262020000]
+Você sabe o que fazer, mas não sabe
+como fazer? Relaxe, não se preocupe.
+Aqui tem uma dica:
+
+Você pode encaixar as duas peças com
+duas curvas ao redor de qualquer ponta
+para formar a aba da cartola.
+!******************************!
+[f10b010010000000:0217030000]
+A peça menor com duas curvas vai
+ao redor do lado esquerdo da aba.
+
+A peça maior com duas curvas, vai,
+obviamente, no lado direito.
+
+O resto deve ser fácil agora!
+!******************************!

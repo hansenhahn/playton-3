@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n100
+!******************************!
+n100a
+!******************************!
+n100b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Ei, Professor! Tudo sobre a nossa
+próxima aventura está neste envelope
+selado! Aliás, gostou do meu selo?
+É que nem o que o senhor usa, mas
+tem o formato do meu chapéu e o L é de
+Luke! E é até da cor do meu chapéu!
+Aliás, o selo me fez pensar em um
+enigma: destes quatro selos, A, B, C e
+D, qual deles é do carimbo que eu uso?
+Você tem que resolver esse enigma antes
+de tirar o selo da carta!{''}
+
+Circule a resposta e toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:02e3010000]
+Esplêndido!
+ 
+O desafio é perceber as diferenças
+entre as várias formas do chapéu e
+perceber que o L do carimbo tem que
+estar ao contrário.
+ 
+E legal de perceber que o L pode servir
+tanto para Luke quanto para Layton!
+ 
+{''}Se apresse, Professor! Tire o selo
+e veja o que há no envelope!{''}
+!******************************!
+[ed0b01000c000000:0202030000]
+Que pena!
+
+{''}Vamos lá, Professor! Você tem que
+ler o documento que está dentro!{''}
+!******************************!
+[ee0b01000d000000:025a030000]
+Lembre-se que um carimbo irá mostrar uma
+imagem espelhada do desenho.
+!******************************!
+[ef0b01000e000000:02a4030000]
+Todos os carimbos são circulares, então
+preste atenção no centro deles: o
+desenho de um chapéu e um L.
+
+Primeiro, dê uma olhada para onde
+o L está direcionado...
+!******************************!
+[f00b01000f000000:024c040000]
+O carimbo B não tem um L invertido
+corretamente, então pode descartar
+essa opção.
+
+Agora olhe mais de perto nas formas
+do chapéu de A, C, e D.
+!******************************!
+[f10b010010000000:02d7040000]
+O topo do chapéu do carimbo A está
+tocando o círculo, então esse é mais
+um que pode ser descartado.
+
+Tá entre os carimbos C e D agora!
+!******************************!

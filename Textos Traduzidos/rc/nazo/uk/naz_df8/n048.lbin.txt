@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000000000000]
+n048
+!******************************!
+n048a
+!******************************!
+n048b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ao contar seus dedos, este homem
+exótico conta usando a ordem mostrada
+na imagem abaixo. Depois que ele conta
+de um a cinco, ele volta ao dedão e
+começa a contar na mesma ordem,
+começando pelo seis.
+
+Se ele continuar contando desse jeito,
+em qual dedo ele irá parar assim que
+chegar no número 763?
+
+Circule a ponta do dedo correto.
+!******************************!
+[ec0b01000b000000:0265010000]
+Isso mesmo, toca aqui!
+
+Exato, ele irá parar no seu
+dedo mindinho.
+
+Não importa o quão alto seja o número
+contado, qualquer número na casa da
+unidade sempre estará no mesmo dedo.
+
+Quando a casa das unidades tem um 3 ou
+um 8, ele sempre parará no mindinho.
+
+!******************************!
+[ed0b01000c000000:0260020000]
+Que azar!
+
+Preste atenção nas regras dele de
+como contar os dedos!
+!******************************!
+[ee0b01000d000000:02a2020000]
+Talvez você esteja pensando demais.
+Tente contar seus próprios dedos.
+!******************************!
+[ef0b01000e000000:02ef020000]
+Não importa o quão maior seja o número,
+as regras para contar são as mesmas.
+
+Não pense muito além!
+!******************************!
+[f00b01000f000000:0253030000]
+Conte até 20 nos seus dedos e veja
+o que há de interessante. Se ainda
+não entendeu, tente contar até 30.
+
+Você consegue!
+!******************************!
+[f10b010010000000:02cb030000]
+Você só está usando seus dedos para
+contar o último dígito (o da casa das
+unidades). Então, ao contar 763...
+!******************************!

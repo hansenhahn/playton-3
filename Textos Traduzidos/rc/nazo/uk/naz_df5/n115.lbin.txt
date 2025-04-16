@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000900000000f203000000f2030000000100000000000000000000000000]
+n115
+!******************************!
+n115a
+!******************************!
+n115b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você foi contratado para decorar uma
+parede com azulejos coloridos. Há três
+azulejos das cores vermelho, amarelo,
+verde e laranja, e quatro azuis.
+O primeiro azulejo de cada cor já foi
+colocado para você. Agora, decida onde
+colocar o resto.
+
+Ah, mais uma coisinha: você não pode
+colocar dois azulejos da mesma cor na
+mesma linha horizontal, vertical ou
+diagonal.
+
+Não é difícil, né? Boa sorte!
+!******************************!
+[ec0b01000b000000:02be010000]
+Bom trabalho!
+
+Esse é o único padrão que funciona.
+!******************************!
+[ed0b01000c000000:02f5010000]
+Errado!
+
+Tem certeza que seguiu a regra?
+!******************************!
+[ee0b01000d000000:0228020000]
+Só tem uma maneira que funciona,
+e ela tem um certo padrão.
+
+!******************************!
+[ef0b01000e000000:027a020000]
+O azulejo em cima à direita é verde.
+
+À esquerda dele, fica o azulejo laranja.
+!******************************!
+[f00b01000f000000:02bd020000]
+O azulejo embaixo à esquerda é vermelho.
+
+Acima dele, fica o azulejo azul.
+!******************************!
+[f10b010010000000:02f5020000]
+Um dos azulejos azuis que restam fica
+no segundo quadrado da esquerda da
+linha de cima. O outro fica no terceiro
+quadrado da esquerda da linha de baixo.
+
+Com todos os azulejos azuis no lugar,
+o resto não deve ser tão difícil.
+!******************************!

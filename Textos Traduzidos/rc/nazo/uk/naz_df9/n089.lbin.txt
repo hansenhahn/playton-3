@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n089
+!******************************!
+n089a
+!******************************!
+n089b
+!******************************!
+[eb0b01000a000000:0211000000]
+A porta abaixo está trancada com uma
+tranca misteriosa que possui seis
+discos que podem ser trocados e girados.
+Para abrir a porta, organize os discos
+de forma que as joias de mesma cor
+fiquem adjacentes verticalmente e
+horizontalmente.
+
+Toque e deslize no centro dos discos 
+para movê-los, e toque e deslize suas
+pontas para girá-los em qualquer 
+direção.
+
+Boa sorte!
+!******************************!
+[ec0b01000b000000:027a010000]
+Uma solução brilhante!
+
+Agora você pode continuar!
+!******************************!
+[ed0b01000c000000:02a5010000]
+Que pena!
+
+Se certificou de todas as joias
+adjacentes serem da mesma cor?
+!******************************!
+[ee0b01000d000000:02ee010000]
+Disco A: canto inferior direito.
+!******************************!
+[ef0b01000e000000:0214020000]
+Disco F: canto superior esquerdo.
+!******************************!
+[f00b01000f000000:0236020000]
+Disco D: canto inferior esquerdo.
+
+A chave para este enigma é que todas as
+joias de dentro - uma na ponta direita
+da coluna da esquerda e outra na ponta
+esquerda da coluna da direita - são
+amarelas!
+!******************************!
+[f10b010010000000:02f6020000]
+Disco E: canto superior direito. Se
+seguiu todas as dicas corretamente
+até agora, o resto é fichinha!
+!******************************!

@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n202
+!******************************!
+n202a
+!******************************!
+n202b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você possui oito joias divididas em
+quatro tipos. Elas foram colocadas em
+pares dentro de caixas. Você quer saber
+qual joia é mais pesada, {#D} ou {#A}.
+
+Você pode pesar as joias arrastando as
+caixas para as balanças e apertando o
+botão do meio.
+
+Qual o número mínimo de vezes que você
+precisará usar as balanças para saber
+se {#D} ou {#A} é mais pesado? Toque em
+<CR>Enviar Resposta</C> e escreva.
+!******************************!
+[ec0b01000b000000:02bc010000]
+Isso mesmo!
+
+Só uma vez.
+Compare os dois pares:  {#B}{#A} e {#A}{#C}
+com os dois pares: {#D}{#D} e {#C}{#B}.
+
+Já que ambos os lados tem {#C} e {#B} em
+comum, eles se cancelam, o se dá o mesmo
+comparando as duas {#D} com as duas {#A}.
+!******************************!
+[ed0b01000c000000:02b0020000]
+Não é isso.
+
+Não suponha tanto...
+!******************************!
+[ee0b01000d000000:02d3020000]
+Veja cuidadosamente os conteúdos de
+cada par. Assim que entender o que cada
+par contém, você vai saber como
+compará-los.
+
+Você pode botar mais de um par em
+cada lado das balanças ao mesmo tempo.
+
+!******************************!
+[ef0b01000e000000:029a030000]
+
+!******************************!
+[f00b01000f000000:029b030000]
+
+!******************************!
+[f10b010010000000:029c030000]
+
+!******************************!

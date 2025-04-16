@@ -2,45 +2,46 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/5>Ah, não! Ele se desfez todinho!
+<T><A1/5>Ai, não! Ele quebrou!
 !******************************!
 [7117030004000000:000a000000022b0000000236000000]
 フローレス
 !******************************!
-<T>Não se preocupe com isso! Você viu
-a moedinha que saiu voando?<W>
-É uma moeda de dica, e agora é sua!
+<T>Não importa! Viram a moedinha que
+saiu de dentro?<W> Essa é uma moeda
+de dica, e vocês podem ficar com ela.
 !******************************!
 [7117030007000000:000a000000022b00000002a4000000]
 フローレス
 !******************************!
-<T>Sempre que você ficar empacado num enigma,
-é só gastar uma dessas moedinhas lindas pra
-receber uma dica.
+<T>Se estiverem presos em algum
+enigma, vocês podem gastar uma dessas
+lindas moedas em troca de uma dica.
 !******************************!
 [711703000a000000:000a000000022b000000020b010000]
 フローレス
 !******************************!
-<T>Mas lembre-se de que o número de moedas
-de dica que você pode achar é limitado.
+<T>Mas lembrem-se que há um limite
+para o número de moedas de dica que
+vocês podem achar.
 !******************************!
 [711703000d000000:000a000000022b000000025b010000]
 フローレス
 !******************************!
-<T>Se sair usando à toa, pode acabar
-em apuros depois, hein?
+<T>Se usarem elas à toa, vocês ficarão
+numa situação bem difícil mais tarde.
 !******************************!
 [7117030010000000:000a000000022b00000002a4010000]
 フローレス
 !******************************!
-<T>As moedas de dica estão escondidas por todo
-canto, então toque em qualquer coisa que
-parecer suspeita. Vai que tem uma moeda lá!
+<T>Essas moedas estão espalhadas em
+todo lugar, então toquem em qualquer
+coisa suspeita. Talvez achem uma moeda!
 !******************************!
 [7117030013000000:000a000000022b0000000211020000]
 フローレス
 !******************************!
-<T>Bom, era isso que eu tinha pra dizer.<W>
-Boa sorte com o que quer que vocês
-estejam aprontando por aqui.<W> Tchauzinho!
+<T>Bom, fim do meu discurso.
+<W>Boa sorte com seja lá o que vocês
+estão fazendo por aí.<W> Tchauzinho!
 !******************************!

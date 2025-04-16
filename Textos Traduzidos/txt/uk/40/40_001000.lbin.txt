@@ -1,1129 +1,1131 @@
 [7017010000000000:004f000000]
 [7117030001000000:000100000002000000000219000000]
-A Letter from the Future
+Uma Carta do Futuro
 !******************************!
-A letter arrived for me today.
-Curiously, the postmark is dated
-10 years from now, and it was sent
-by someone who claims to be Luke,
-living in the London of the future.
-This puzzling letter has naturally
-piqued my curiosity, and I have
-decided to head for the clock shop
-it mentions, on Midland Road.
+Uma carta chegou em minhas mãos.
+Curiosamente, ela é datada daqui
+a 10 anos, e enviada por alguém
+que diz ser o Luke, vivendo na
+futura Londres. Esta carta enigmática
+despertou meu interesse, e por
+isso decidi ir até a relojoaria
+mencionada, na Midland Road.
 !******************************!
 [7117030004000000:000200000002460100000264010000]
-The Time Machine Presentation
+Apresentação da Máquina do Tempo
 !******************************!
-Casting my mind back to the
-accident that occurred during
-the time machine presentation,
-I can't help but think that there
-must be some connection between
-those events and this letter. I
-hope we can find some clues at
-the clock shop that will help us
-make sense of all this.
+Lembrando do acidente que ocorreu
+durante a apresentação da máquina
+do tempo, não consigo evitar de
+pensar que talvez tenha alguma
+relação entre aqueles eventos e
+esta carta. Espero que possamos
+encontrar algumas pistas na
+relojoaria que nos ajude a
+entender tudo isso.
 !******************************!
 [7117030007000000:000300000002770200000294020000]
-Down the End of Midland Road
+No Final da Midland Road
 !******************************!
-The clock shop was hidden away at
-the unfashionable end of Midland
-Road, and awaiting us there was a
-simply monstrous timepiece.
-The old lady in the shop doesn't
-seem to know anything about the
-letter we received, so I suppose
-all we can do is wait for her
-husband to return.
+A relojoaria estava escondida no
+final da Midland Road, e nos
+esperando lá, estava um enorme
+relógio. A velha senhora da loja
+não parece saber de algo sobre a
+carta que recebemos, então
+suponho que tudo que possamos
+fazer é esperar por seu marido
+para voltar.
 !******************************!
 [711703000a000000:000400000002a803000002c7030000]
-The Enormous Clock in the Shop
+O Enorme Relógio da Loja
 !******************************!
-After talking to Cogg, the owner
-of the clock shop, it seems the
-letter writer wanted us to see the
-big clock in action. It certainly
-is an impressive piece of
-machinery, and probably a vintage
-model. I was even asked to help
-repair it - quite the challenge
-for an amateur such as myself!
+Após falar com Cogg, o dono da
+relojoaria, parece que o escritor
+da carta queria que nós víssemos
+o grande relógio funcionando. É
+de fato um maquinário incrível,
+provavelmente um modelo vintage.
+Fui até requisitado a auxiliar
+nos reparos - um grande desafio
+para um amador como eu!
 !******************************!
 [711703000d000000:000500000002e804000002fd040000]
-The City Transformed
+A Cidade Transformada
 !******************************!
-Just as Cogg got the big clock
-working again, the entire building
-started shaking. When Luke and I
-rushed outside to investigate, it
-was as though we had come out in
-a completely different city. The
-door to the clock shop has been
-locked, however, so there is no
-way of going back inside to find
-out what has really happened.
+Assim que Cogg fez o grande
+relógio funcionar de novo, o
+prédio inteiro começou a tremer.
+Quando Luke e eu saímos para
+investigar, parecia que tínhamos
+acabado de chegar em uma cidade
+completamente diferente. Mas a
+porta da relojoaria foi trancada,
+então não há outra maneira de
+voltar para dentro e descobrir o
+que, de fato, aconteceu.
 !******************************!
 [7117030010000000:000600000002430600000263060000]
-Is Something Wrong with my Hat?
+Algo Errado com Minha Cartola?
 !******************************!
-There's no doubt we're still in
-London, but things have been very
-strange ever since we stepped out
-of the clock shop. Not only does
-gloomy old Midland Road look like a
-whole new place, it would also
-seem that my hat is causing people
-some consternation. I feel as if
-we're wrapped up in some kind of
-illusion. What on earth is going
-on here?
+Não há dúvidas que ainda estamos
+em Londres, mas as coisas estão
+muito estranhas desde que saímos
+da relojoaria. Não só a obscura e
+antiga Midland Road parece
+completamente renovada, mas
+parece que a minha cartola causa
+um certo pavor às pessoas. Sinto
+que estamos presos em algum tipo
+de ilusão. Mas o que está
+acontecendo aqui, afinal?
+
 !******************************!
 [7117030013000000:000700000002ba07000002d0070000]
-The Derelict Bus Stop
+O Ponto de Ônibus Abandonado
 !******************************!
-After talking to a few people
-around town, we made our way
-back to the bus stop, only to
-find that it has completely
-changed since we alighted here
-a short while ago. This seems
-to be somewhere quite different
-from the London we know. Could
-it be possible that we have
-travelled through time?
+Após falar com algumas pessoas na
+cidade, voltamos àquele ponto de
+ônibus, só para descobrir que ele
+foi completamente mudado desde
+que descemos aqui há pouco tempo.
+Aqui parece ser um lugar bem
+diferente da Londres que
+conhecemos. Será mesmo possível
+que nós conseguimos viajar no
+tempo?
+
 !******************************!
 [7117030016000000:000800000002f50800000207090000]
-The Second Letter
+A Segunda Carta
 !******************************!
-I can scarcely believe it, but it
-really does seem that we have
-somehow ended up in a London
-10 years in the future. Just as
-I was asking myself how such a
-thing could be possible, we
-received a second letter from
-Future Luke, as though he were
-one step ahead of us. It says
-that our next clue awaits us in
-Green Hospital, Auckland Lane.
+Mal consigo acreditar, mas parece
+mesmo que de alguma forma,
+estamos em uma Londres de 10 anos
+no futuro. Enquanto me perguntava
+como que isso poderia ser
+possível, recebemos uma segunda
+carta do Luke do futuro, como se
+ele estivesse a um passo à nossa
+frente. Ela diz que nossa próxima
+pista nos aguardava no Hospital
+Green, em Auckland Lane.
+
 !******************************!
 [7117030019000000:000900000002590a0000026b0a0000]
-To Green Hospital
+Para o Hospital Green
 !******************************!
-It seems that the train is the only
-way to get to Green Hospital. At
-the invitation of a resourceful
-young lady named Becky, we have
-taken a room in the hotel on
-Southern Street as our base of
-operations. Flatstone Street
-station is just a short walk from
-there, so we can easily take the
-train to the hospital.
+Parece que o trem é o único jeito
+de chegar no Hospital Green. A
+convite de uma prestativa jovem
+chamada Becky, nos reservamos em
+um hotel na Southern Street,
+usando o quarto como nossa base
+de operações. A estação Flatstone
+Street é a poucos minutos andando
+daqui, então poderemos pegar o
+trem para o hospital facilmente.
 
 !******************************!
 [711703001c000000:000a00000002a40b000002be0b0000]
-Meeting Dr Schrader Again
+Encontrando o Dr. Schrader Novamente
 !******************************!
-The clue the letter said awaited
-us in the hospital turned out to
-be my mentor, Dr Schrader, albeit
-significantly aged. He seemed to
-be in fine fettle when I last
-saw him a few days ago, so what
-could possibly have happened?
-Is this really the future?
+A pista que a carta disse estar
+nos esperando no hospital era na
+verdade meu mentor, Dr. Schrader,
+apesar de estar envelhecido. Ele
+parecia estar em boa forma da
+última vez que o vi alguns dias
+atrás, então o que pode ter
+acontecido? Esse é realmente o
+futuro?
 !******************************!
 [711703001f000000:000b00000002ba0c000002d10c0000]
-To the Gilded 7 Casino
+Para o Cassino 7 Dourado
 !******************************!
-The letter that Future Luke left in
-the Laytonmobile told us to head
-for a place called the Gilded 7
-Casino, but we don't yet know its
-location.
-We have decided to head back to
-Flatstone Street and ask for
-directions - as soon as I have
-got over the shock of seeing the
-Laytonmobile in such a condition,
-that is.
+A carta que o Luke do futuro
+deixou no Laytonmóvel nos disse
+para ir a um lugar chamado
+Cassino 7 Dourado, mas ainda nem
+sabemos onde que esse lugar fica.
+Decidimos voltar para a Flatstone
+Street e perguntar por direções...
+assim que eu me acalmar do choque
+de ter visto o Laytonmóvel nas
+condições que ele está, no caso.
+
 !******************************!
 [7117030022000000:000c000000020a0e000002220e0000]
-The Puzzling Young Lady
+A Pequena Jovem Enigmática
 !******************************!
-What is happening here? That girl
-who just walked past, was it...?
-No, there's simply no way she could
-be here, not after the accident 10
-years ago...
-Anyway, there isn't time to think
-of such things now. We must make
-haste to the casino.
+Mas o que está acontecendo? A
+garota que acabou de passar, não
+era...? Não, não tem como ela
+estar aqui, não depois daquele
+acidente há 10 anos...
+Enfim, não há tempo para pensar
+nisso agora. Temos que nos
+apressar para ir até o cassino.
 !******************************!
 [7117030025000000:000d00000002110f0000022d0f0000]
-To Where Future Luke Awaits
+Onde o Luke do Futuro nos Espera
 !******************************!
-After asking in the hotel, we
-learned that the casino is located
-at the far end of Flatstone
-Street. It is a new building,
-unsuitably large for central
-London. It does seem to be the
-place we're supposed to go, but
-will we really meet Future Luke
-there? There's only one way to
-find out...
+Depois de perguntar no hotel,
+descobrimos que o cassino fica no
+fim da Flatstone Street. É um
+prédio novo, e impropriamente
+grande para o centro de Londres.
+Parece ser o lugar que precisamos
+ir, mas será que encontraremos o
+Luke do futuro por lá? Só existe
+uma maneira de descobrir...
+
 !******************************!
 [7117030028000000:000e000000024f100000025d100000]
-Future London
+Londres do Futuro
 !******************************!
-According to Future Luke, this
-London is under the command of my
-future self. It seems I've become
-obsessed with developing a time
-machine, and have been kidnapping
-scientists from the past - that is,
-our present. If these allegations
-are true, then stopping my future
-self is my duty as an English
-gentleman.
+De acordo com o Luke do futuro,
+Londres está sob o comando do meu
+eu do futuro. Parece que fiquei
+obcecado em criar uma máquina do
+tempo e raptei cientistas do
+passado - no caso, o nosso
+presente. Se tudo que ele diz for
+verdade, então meu dever como um
+cavalheiro inglês é parar o meu
+eu do futuro.
 !******************************!
 [711703002b000000:000f000000029311000002b3110000]
-To the Restaurant in the Arcade
+Para o Restaurante no Fliperama
 !******************************!
-We ran into a spot of trouble
-as we were leaving the casino, and
-were attacked by the Family. One
-of the gangsters mistook me for
-his boss and then took offence at
-my appearance. I suppose my
-future self, even 10 years older,
-is still me, so it is not unthinkable
-that someone might confuse us.
-Following Future Luke's lead, we
-have now decided to head for the
-restaurant in the arcade.
+Nos envolvemos em um problema
+tentando sair do cassino, e então
+fomos atacados pela Família. Um
+dos criminosos me confundiu com
+seu chefe e se sentiu ofendido
+com minha aparência. Creio que meu
+eu do futuro, mesmo sendo 10 anos
+mais velho, continua sendo eu,
+então não é impossível alguém nos
+confundir. Seguindo o Luke do
+futuro, decidimos ir ao
+restaurante no fliperama.
 !******************************!
 [711703002e000000:001000000002361300000256130000]
-The Base in the Towering Pagoda
+A Base no Pagode Imponente
 !******************************!
-It appears that my future self has
-set up his base in the Towering
-Pagoda, located in an area called
-Chinatown. This may well be where
-the prime minister is being kept,
-along with the scientists who were
-kidnapped. We'll need a plan before
-approaching the enemy base.
+Parece que meu futuro eu fez uma
+base no Pagode Imponente, que
+fica em uma área chamada de
+Chinatown. Talvez o primeiro
+ministro esteja lá também, junto
+dos cientistas que foram raptados.
+Precisaremos de um plano antes de
+infiltrarmos a base inimiga.
 !******************************!
 [7117030031000000:001100000002621400000276140000]
-First, to Chinatown
+Primeiro, para Chinatown
 !******************************!
-Future Luke has gone off on his
-own, but Shipley told us how to
-get to the Chinatown area. It
-seems we need to ascend some
-steps somewhere on Flatstone
-Street, halfway to the casino.
-We must be careful and make sure
-we aren't spotted by the Family.
+O Luke do futuro foi embora por
+conta própria, mas Shipley nos
+disse como chegar em Chinatown.
+Parece que precisamos subir uns
+degraus em algum lugar da Flatstone
+Street, no caminho até o cassino.
+Temos que ser cuidadosos para não
+sermos vistos pela Família.
 
 !******************************!
 [7117030034000000:001200000002701500000284150000]
-The Hat and the Vow
+A Cartola e a Promessa
 !******************************!
-That woman... Who could she be?
-She's like a ghost that's been
-haunting me ever since we came
-to this London. Has my future self
-really forgotten the vow I made 
-the day she gave me this hat? I've
-striven to be the gentleman she
-believed me to be, but what about
-him? Perhaps it is as Future Luke
-said - I became obsessed with
-turning back time, back to the
-time of that experiment...
+Aquela mulher... Quem é ela?
+Parece um fantasma que me assombra
+desde que viemos até esta Londres.
+Será que meu futuro eu deixou para
+trás a promessa que fiz no dia que
+ela me deu a cartola? Lutei tanto
+para ser o  cavalheiro que ela
+queria que eu fosse, mas e ele?
+Talvez seja como o Luke do futuro
+disse - me tornei obcecado em
+voltar no tempo, na época daquele
+experimento...
 !******************************!
 [7117030037000000:001300000002051700000223170000]
-The Statue and the Lighthouse
+A Estátua e o Farol
 !******************************!
-London appears to have changed
-significantly over the last 10
-years. None of its sights are
-familiar to me any more... Has
-the statue of the gentleman and
-the young boy always been there?
-One thing is certain, though - the
-big lighthouse overlooking the
-Thames is a recent addition.
+Londres parece ter mudado muito
+nos últimos 10 anos. Nenhuma
+vista incrível parece familiar
+para mim... A estátua daquele
+cavalheiro e garoto estava sempre
+ali?
+Pelo menos uma coisa é certa:
+o grande farol com vista ao
+Tâmisa é algo novo.
 
 !******************************!
 [711703003a000000:0014000000023f1800000258180000]
-White Coats and Wet Feet
+Jalecos Brancos e Pés Molhados
 !******************************!
-We encountered a man in a white
-lab coat standing on the iron
-bridge. When we asked him for
-directions, however, he promptly
-ran away, apparently mistaking me
-for the boss of the Family. That's
-the second man we've seen in a lab
-coat and, oddly, both had wet
-shoes and trousers. What possible
-reason could there be for going
-about in damp clothing?
+Encontramos um homem de jaleco
+sentado na ponte de ferro
+Mas quando pedimos por direções,
+ele fugiu rapidamente, como se
+tivesse me confundido com o chefe
+da Família. Esse é o segundo homem
+de jaleco que vimos, e o estranho
+é que ambos estavam com calças e
+sapatos molhados. Que motivo
+teria para eles estarem com
+roupas úmidas?
 !******************************!
 [711703003d000000:001500000002b519000002d2190000]
-Guards at the Chinatown Gate
+Guardas no Portão de Chinatown
 !******************************!
-The two chaps guarding the gate
-bore a striking resemblance to
-Inspector Chelmey and Constable
-Barton, which reminded me that
-they had also been at the time
-machine presentation. I do wonder
-why they were invited to such a
-gathering of luminaries. I think
-we should return to our own time
-and have a word with the
-inspector.
+Os dois homens de guarda no portão
+possuem certa semelhança com o
+Inspetor Chelmey e o Policial
+Barton, o que me lembrou que eles
+também estavam na apresentação da
+máquina do tempo. E fico pensando
+por que eles foram convidados para
+um evento tão importante. Acho que
+precisaremos voltar à nossa época
+e ter uma palavrinha com o
+inspetor.
 !******************************!
 [7117030040000000:001600000002171b000002221b0000]
-The Parrot
+O Papagaio
 !******************************!
-On the way back to the clock shop
-we encountered a fellow named
-Graham, who was rather upset
-because his cufflinks had been
-stolen by a mischievous parrot.
-Naturally, no English gentleman
-could leave someone in such a
-pickle. Thanks to the efforts
-of both Lukes, we were able to
-befriend the parrot and recover
-the cufflinks.
-!******************************!
-[7117030043000000:001700000002681c000002791c0000]
-Back to Our Time
-!******************************!
-It seems the purpose of the big
-clock in Cogg's shop is to activate
-a wormhole. It's no wonder he and
-Spring are resentful towards my
-future self, given the way his band
-of thugs burst into their shop.
-Anyway, Cogg says he can help us
-return to our own time.
+Voltando para a relojoaria,
+encontramos alguém chamado
+Graham, que estava enfurecido
+por ter seus botões da manga
+por um papagaio travesso.
+Claro que um cavalheiro inglês
+não pode deixar alguém em apuros.
+Graças à ajuda de ambos os Lukes,
+conseguimos fazer amizade com o
+papagaio e recuperar os botões.
 
 !******************************!
-[7117030046000000:0018000000027d1d000002971d0000]
-Our First Stop: My Office
+[7117030043000000:001700000002681c000002791c0000]
+De Volta à Nossa Época
 !******************************!
-The London that greeted us when
-we exited the clock shop is the
-familiar old London that we
-originally left. Now is not the time
-for nostalgia, however. I have to
-drop by my office before going to
-meet Inspector Chelmey.
+Parece que o propósito do grande
+relógio na relojoaria é ativar um
+tipo de portal. Não é à toa que
+ele e Spring tenham ressentimentos
+com meu futuro eu, dada a maneira
+que os criminosos entraram na
+loja. Mas Cogg disse que ele pode
+nos ajudar a voltar para nossa
+época.
+!******************************!
+[7117030046000000:0018000000027d1d000002971d0000]
+Primeira Parada: Meu Escritório
+!******************************!
+A London que nos recepcionou
+quando saímos da relojoaria era
+a velha e costumeira Londres de
+quando saímos antes. Mas agora
+não é a hora de sentir nostalgia.
+Preciso ir ao meu escritório antes
+de ver o Inspetor Chelmey.
 !******************************!
 [7117030049000000:001900000002741e000002891e0000]
-The Leather Notebook
+O Caderno de Couro
 !******************************!
-Flora was waiting for us in my
-office. She seemed terribly upset
-that we had gone off without her
-and has asked us not to leave her
-alone again. Nevertheless, with
-the Family waiting for us in future
-London, it's far too dangerous
-for her to accompany us.
-Fortunately, she appears to have
-left the room for a while, giving
-us the chance to find the notebook
-and leave before she returns.
+Flora estava nos esperando em meu
+escritório. Ela parecia estar com
+raiva por termos deixado ela de
+fora de nossa aventura e pediu
+para que não a deixássemos
+sozinha. Porém, com a Família nos
+esperando na futura Londres, é
+muito perigoso para ela.
+Com sorte, ela parece ter saído
+há um bom tempo, o que nos dá a
+chance de encontrar o caderno e
+sair antes dela retornar.
 !******************************!
 [711703004c000000:001a000000020d200000021e200000]
-To Scotland Yard
+Para Scotland Yard
 !******************************!
-I feel guilty for leaving Flora,
-but I simply cannot embroil her
-in such a dangerous situation.
-I'm sure she will understand...
-eventually.
-Our next stop is Scotland Yard,
-where we hope to meet Inspector
-Chelmey. I would very much like to
-hear his opinion on the events
-that occurred at the time machine
-presentation.
+Me sinto culpado de deixar a
+Flora, mas não posso envolvê-la
+em algo tão perigoso assim.
+Espero que ela entenda...
+alguma hora.
+Nossa próxima parada é Scotland
+Yard, onde espero encontrar o
+Inspetor Chelmey. Gostaria de
+ouvir a opinião dele sobre os
+eventos da apresentação da
+máquina do tempo.
 !******************************!
 [711703004f000000:001b000000025c2100000279210000]
-The Documents at the Station
+Os Documentos na Delegacia
 !******************************!
-Inspector Chelmey kindly allowed
-me to view the case files for the
-lab accident that occurred 10
-years ago. The police records
-were extremely detailed and I was
-reminded of things I had completely
-forgotten about.
-If my instincts are correct, then
-that dark, future London hides
-some secrets that even Future
-Luke has yet to uncover.
+O Inspetor Chelmey permitiu que
+eu visse os arquivos do caso do
+acidente laboratorial 10 anos
+atrás. Os registros continham
+muitos detalhes e me lembrei de
+coisas que esqueci completamente.
+Se meus instintos estiverem
+certos, então aquela Londres
+obscura do futuro esconde
+segredos que o Luke do futuro
+ainda precisa desvendar.
 !******************************!
 [7117030052000000:001c00000002c722000002db220000]
-No Place for a Lady
+Aqui Não é Lugar para Uma Dama
 !******************************!
-Events have taken an unexpected
-turn. We've been followed into
-the future, not only by Inspector
-Chelmey and Constable Barton, but
-also by Flora.
-Chelmey and Barton are fired up
-with investigative zeal and should
-be able to look after themselves,
-but these streets are simply too
-dangerous for Flora. How can I
-make her understand this?
+Tivemos uma reviravolta de
+eventos. Não só o Inspetor e o
+Policial nos seguiram ao futuro,
+mas Flora também veio conosco.
+Chelmey e Barton estão animados
+em investigar algo e têm plena
+noção de cuidar um do outro, mas
+estas ruas são perigosas demais
+para a Flora. Como fazer ela
+entender isso?
 !******************************!
 [7117030055000000:001d000000022c2400000244240000]
-The Future Dean Delmona
+Dean Delmona do Futuro
 !******************************!
-We decided to go and find Shipley
-at the restaurant, in order to
-make contact with Future Luke.
-On the way, we stopped at the
-hotel so that I could explain our
-situation to Flora, but she still 
-seems blissfully unaware of the 
-danger we're in. I do hope she'll 
-be all right. On our way out, we 
-met Dean Delmona, whose hair is
-now white as snow!
+Decidimos encontrar Shipley no
+restaurante, para podermos
+contatar o Luke do futuro. No
+caminho, paramos no hotel para
+explicarmos a situação para Flora,
+mas ela ainda parece não ter noção
+do perigo que nos metemos. Espero
+que ela fique bem. Quando saímos,
+nos encontramos com Dean Delmona,
+com um cabelo que parece mais
+branco do que a própria neve!
 !******************************!
 [7117030058000000:001e00000002a025000002b6250000]
-Rejoining Future Luke
+Reencontrando o Luke do futuro
 !******************************!
-According to Shipley, Future Luke
-is waiting for us in the park 
-observatory north of the 
-restaurant. He told us to make 
-sure we're not followed, but I 
-suspect it's too late for that. 
-I am certain that someone has 
-already been watching us make 
-our way around town. That
-doesn't matter for now, though. 
-We have to meet up with Future 
-Luke and decide our next step.
+De acordo com Shipley, o Luke do
+futuro nos espera no observatório
+do parque, ao norte do
+restaurante. Ele disse para
+termos certeza de não estarmos
+sendo seguidos, mas creio que já
+seja tarde para isso. Creio que
+alguém já nos observa há um bom
+tempo pela cidade. Mas não importa
+agora. Temos que encontrar o Luke 
+do futuro e decidir nosso próximo
+passo.
 !******************************!
 [711703005b000000:001f000000022a2700000249270000]
-A Chat in the Park Observatory
+Conversa no Observatório
 !******************************!
-We have finally managed to reunite
-with Future Luke. It seems that if
-we are to enter Chinatown, we
-shall first have to deal with the
-guards at the gate. Future Luke
-claims that the guards would leave
-their posts immediately if ordered
-to do so by Bostro, my future
-self's loyal lieutenant. We plan to
-return to the casino and attempt
-to capture Bostro's voice with the
-help of our talented parrot mimic.
+Finalmente nos reunimos com o
+Luke do futuro. Parece que para
+entrarmos em Chinatown, teremos
+que lidar com os guardas do
+portão. O Luke do futuro diz que
+os guardas deixarão seus postos
+imediatamente se Bostro, o aliado
+mais leal do meu futuro eu, pedir.
+Estamos planejando voltar ao
+cassino e tentar captar a voz de
+Bostro com a ajuda do nosso
+talentoso papagaio mímico.
 !******************************!
 [711703005e000000:002000000002de28000002f8280000]
-Getting Rid of the Guards
+Se Livrando dos Guardas
 !******************************!
-We located Bostro outside the
-casino and successfully managed
-to get our feathered friend to
-memorise his voice. The parrot's
-impersonation is uncanny - I dare
-say Bostro's own mother would
-struggle to tell the difference.
-The guards are certain to be
-fooled. Time to head to Chinatown!
+Localizamos Bostro fora do cassino
+e conseguimos com que nosso amigo
+plumado memorizasse sua voz. A
+imitação do papagaio é incrível -
+ousaria dizer que a mãe de Bostro
+teria dificuldades para
+reconhecer seu filho. Bem, com
+certeza os guardas cairão nessa.
+Hora de voltar à Chinatown!
 !******************************!
 [7117030061000000:002100000002172a000002282a0000]
-Inside Chinatown
+Dentro de Chinatown
 !******************************!
-Our plan to get rid of the guards
-went like clockwork and we
-successfully entered Chinatown.
-This part of town is quite unlike
-the rest, perhaps due to being
-newly built at the time the
-Family's base was established.
-Our destination lies ahead, deep
-in the heart of the area.
+Nosso plano para se livrar dos
+guardas funcionou com devia e
+conseguimos entrar em Chinatown.
+Esta parte da cidade é diferente
+do resto, talvez por ter sido
+recentemente construída assim que
+a base da Família foi terminada.
+Nosso destino está à nossa frente,
+no centro da área.
 !******************************!
 [7117030064000000:0022000000023c2b000002462b0000]
 Chinatown
 !******************************!
-Chinatown seems to be home to all
-sorts of people. It is an area
-unlike any that exists in our
-London, and it feels like tangible
-proof that we've really arrived in
-the future.
-The Towering Pagoda can be seen
-looming at the far end of the main
-street. Let's keep our eyes and
-ears open for new information as
-we push onwards.
+Chinatown parece ser a casa de
+todo tipo de pessoa. É uma área
+diferente de tudo que há em nossa
+Londres, e parece uma prova
+irrefutável de que estamos no
+futuro.
+O Pagode Imponente pode ser visto
+no fim da rua principal. Teremos
+que ficar com olhos e ouvidos
+abertos para informações novas
+enquanto continuamos andando.
 !******************************!
 [7117030067000000:0023000000028c2c000002a72c0000]
-Is the Future Me Not Home?
+Meu Futuro Eu Não Está em Casa?
 !******************************!
-We've finally arrived at the
-Towering Pagoda, my future self's
-base of operations, but I don't
-seem to be at home. Where could
-I...he have gone? Perhaps some of
-the locals know something. Let's
-ask around.
+Chegamos no Pagode Imponente, a
+base de operações do meu eu do
+futuro, mas parece que eu não
+estou aqui. Onde que eu... ele
+pode ter ido? Talvez algum morador
+possa saber algo. Vamos perguntar.
+
 !******************************!
 [711703006a000000:002400000002752d000002942d0000]
-Where has my Future Self Gone?
+Onde Meu Eu do Futuro Foi?
 !******************************!
-Pepper, the owner of the noodle
-shop, says that she hasn't seen
-the future Layton. Where could he
-have gone?
-I suppose there's nothing for it
-but to ask around a little more.
+Pepper, a dona da loja de 
+macarrão, disse não ter visto o
+Layton do futuro. Onde ele pode
+ter ido?
+Creio que não há nada a se fazer
+além de perguntar mais por aí.
 !******************************!
 [711703006d000000:002500000002432e000002552e0000]
-Rudolph's Request
+O Pedido de Rudolph
 !******************************!
-A streetwise chap by the name of
-Rudolph seems to have an inkling
-of where my future self may be.
-However, he won't tell us unless
-we first fulfil his request.
-He's asked us to take a message
-to his wife, Myrtle, so we must
-now head to the pet shop where
-she works.
+Um homem das ruas, chamado
+Rudolph parece saber onde meu
+eu do futuro possa estar.
+Porém, ele não irá falar até que
+atendamos o seu pedido. Ele pediu
+para levarmos uma mensagem a sua
+esposa, Myrtle, então devemos ir
+ao pet shop onde ela trabalha.
 
 !******************************!
 [7117030070000000:002600000002602f000002722f0000]
-Rudolph's Message
+A Mensagem de Rudolph
 !******************************!
-Myrtle did not react well to
-receiving Rudolph's message, and
-indeed became rather agitated,
-forcing us to beat a hasty
-retreat. Though a gentleman is
-always reluctant to anger a lady,
-there is no time to concern
-ourselves with that now. We must
-go and tell Rudolph that we
-have delivered his message.
+Myrtle não reagiu bem recebendo
+a mensagem de Rudolph, e ficou
+bem irritada, nos forçando a
+sair às pressas. Apesar de um
+cavalheiro sempre ficar relutante
+de deixar uma dama em fúria,
+não há tempo para se preocupar
+com isso agora. Temos que ir até
+Rudolph e falar que entregamos
+sua mensagem.
 
 !******************************!
 [7117030073000000:002700000002a130000002bc300000]
-Looking for my Future Self
+Procurando Meu Eu do Futuro
 !******************************!
-Rudolph informed us that there is
-a strong possibility that my
-future self is to be found
-somewhere on the riverside. He
-must mean the area visible from
-the raised road on the way to
-Chinatown.
-Rudolph also showed us a flyer for
-a restaurant down by the river.
-Perhaps we'll be able to ask in
-there for more information.
+Rudolph nos disse que há uma
+grande possibilidade de meu
+eu do futuro estar em algum lugar
+nas margens do rio. Ele deve
+estar falando da área vista da
+estrada elevada no caminho para
+Chinatown. Rudolph também nos
+mostrou um panfleto de um
+restaurante à beira do rio.
+Talvez possamos pedir informações
+por lá.
 !******************************!
 [7117030076000000:002800000002fd3100000214320000]
-Terrifying Experiments
+Experimentos Terríveis
 !******************************!
-We encountered a rabbit blocking
-our path. According to his tale of
-woe, there is a research facility
-where all sorts of terrifying
-experiments are conducted.
-I wonder if these experiments are
-connected to the time machine
-development that is taking place
-here in the future London.
-In any case, it is essential that I
-find my future self and put an end
-to his evil designs.
+Encontramos um coelho no meio do
+nosso caminho. De acordo com sua
+triste história, há um centro de
+pesquisa onde todo tipo de
+experimento terrível é feito.
+Talvez esses experimentos tenham
+relação com a criação da máquina
+do tempo aqui na Londres do
+futuro. De qualquer forma, é
+essencial que eu encontre meu eu
+do futuro para pôr um fim em seus
+planos malignos.
 !******************************!
 [7117030079000000:0029000000028b33000002a0330000]
-Riverside Restaurant
+O Restaurante à Beira-Rio
 !******************************!
-The Thames Arms is a quaint little
-restaurant on the riverside. The
-bartender informed me that a
-regular customer who is fond of
-disguises has just passed through.
-It simply must be my future self. It
-seems he's one step ahead of us,
-however, and has returned to the
-Towering Pagoda. I also can't
-shake the feeling that I've met
-the bartender before...
+O Thames Arms é um restaurante bem
+pequeno à beira do rio. O
+barman nos disse que um cliente
+assíduo que gosta de disfarces
+acabou de passar por ali. Talvez
+seja meu eu do futuro. Parece que
+ele está um passo à nossa frente
+e já fez seu caminho de volta ao
+Pagode Imponente. E não posso
+evitar de sentir que já vi esse
+barman antes...
 !******************************!
 [711703007c000000:002a0000000201350000021d350000]
-Back to the Towering Pagoda
+De Volta ao Pagode Imponente
 !******************************!
-We returned to Belltower Gate
-and, after solving a puzzle, headed
-on towards the Towering Pagoda.
-Though my future self is sure to
-be waiting up ahead, I have decided
-to quickly go and check something
-I've been curious about. Future
-Luke is here, so I don't think it
-will be a problem if I go off for
-a little while, as long as I leave
-a note first...
+Voltamos ao Portão da Torre do
+Sino, e após resolver um enigma,
+fomos ao Pagode Imponente. Apesar
+de meu eu do futuro estar nos
+esperando lá em cima, decidi
+voltar rapidamente e ver algo que
+estive curioso sobre. O Luke do
+futuro está aqui, então não creio
+que será problema se eu sair por
+um curto tempo, desde que eu
+deixe um bilhete...
 !******************************!
 [711703007f000000:002b000000027d3600000294360000]
-Into the Pagoda We Go!
+Para o Pagode Nós Vamos!
 !******************************!
-After finishing my little personal
-investigation, I was able to catch
-up with Luke and the others before
-they entered the Towering Pagoda.
-My future self - the Professor
-Layton of this time - is waiting
-at the top of this tower. Letting
-us pass just by solving puzzles
-is just his style... As an English
-gentleman, it is my duty to stop
-him.
+Após terminar minha pequena
+investigação pessoal, consegui
+alcançar Luke e os outros antes
+deles entrarem no Pagode. Meu eu
+do futuro - o Professor Layton
+dessa época - nos espera no topo
+desta torre. Nos deixar passar
+por resolver alguns enigmas é a
+cara dele... Como um bom
+cavalheiro, é meu dever pará-lo.
+
 !******************************!
 [7117030082000000:002c00000002ea3700000200380000]
-Taking Things Further
+Indo Mais Além
 !******************************!
-The Towering Pagoda has a very
-complex internal structure. One
-would think this would hinder the
-Family's day-to-day operations,
-but they don't seem to mind.
-Luke and the others are doing a
-sterling job of solving the puzzles,
-and I am sure we shall reach the
-top of the pagoda in no time.
+Este pagode possui uma estrutura
+interna muito complexa. Muitos
+pensariam que isso dificultasse
+as operações diárias da Família,
+mas eles parecem não se importar.
+Luke e os outros estão fazendo um
+ótimo trabalho resolvendo os
+enigmas, e tenho certeza que
+chegaremos ao topo rapidamente.
 !******************************!
 [7117030085000000:002d0000000222390000023d390000]
-The Other Side of the Door
+O Outro Lado da Porta
 !******************************!
-After defeating complex machine
-puzzles, assembling a walkway and
-overcoming all sorts of obstacles,
-we've finally arrived at the room
-where my future self is supposed
-to be. Is he really behind this
-door? Whatever happens, we must
-stop him and put an end to
-people's suffering.
-
+Após passar por enigmas com
+maquinários complexos, criando um
+caminho e passando por todos os
+obstáculos, finalmente chegamos à
+sala onde é para meu futuro eu
+estar. Será que ele realmente
+está atrás dessa porta? Seja como
+for, temos que pará-lo e botar um
+ponto final no sofrimento das
+pessoas.
 
 !******************************!
 [7117030088000000:002e00000002563a000002733a0000]
-Showdown with Future Layton!
+Embate com o Layton do Futuro!
 !******************************!
-The suspicious man in black we
-confronted is dressed like me, but
-he hasn't noticed that the current
-me is not the real me.
-If he were really my future self,
-he'd be able to remember what his
-past self was doing at this moment
-10 years ago. His mask has
-slipped...
+O homem de preto suspeito que
+confrontamos se veste como eu,
+mas ele não percebeu que o eu
+de agora não é eu de verdade.
+Se ele realmente fosse meu eu do
+futuro, ele se lembraria o que
+seu eu do passado estava fazendo
+10 anos atrás. A máscara dele
+acabou de cair...
 !******************************!
 [711703008b000000:002f000000027c3b000002983b0000]
-Dimitri is the Man in Black
+Dimitri é o Homem de Preto
 !******************************!
-The true identity of the man who
-claimed to be my future self is none
-other than Dimitri Allen, head of
-the time machine development team.
-Disguised as Dr Alain Stahngun, he
-took advantage of the explosion
-at the time machine presentation
-to kidnap the prime minister and
-the scientists. With Bill Hawks as
-his hostage, there's nothing I can
-do right now, however...
+A identidade do homem que disse
+ser meu eu do futuro é nada mais,
+nada menos que Dimitri Allen, o
+chefe da criação da máquina do
+tempo. Disfarçado de Dr. Alain
+Stahngun, se aproveitou da
+explosão naquela apresentação
+para raptar o primeiro ministro e
+os cientistas. Com Bill Hawks de
+refém, não posso fazer nada
+agora, mas...
 !******************************!
 [711703008e000000:003000000002073d0000021f3d0000]
-Dimitri's Grand Designs
+Os Grandes Planos de Dimitri
 !******************************!
-I thought that rescuing Luke and
-the others from the cage would
-turn the tables in our favour, but
-Dimitri has escaped and taken Bill
-Hawks with him.
-Even worse, he scanned my...no,
-Don Paolo's memory as he climbed
-the tower, and will try to save
-Claire based on this data.
+Achei que resgatar Luke e os
+outros da gaiola viraria o jogo
+a nosso favor, mas Dimitri pôde
+escapar e levar Bill Hawks
+consigo.
+E o pior é que ele escaneou a
+minha... não, a memória do Don
+Paolo quando ele subiu na torre,
+para tentar salvar Claire
+se baseando nesses dados.
 
 !******************************!
 [7117030091000000:003100000002323e0000024f3e0000]
-Escaping the Towering Pagoda
+Fugindo do Pagode Imponente
 !******************************!
-Surrounded by Dimitri's henchmen,
-we split into two groups and
-somehow managed to escape. The
-desire to bring back Claire must
-be eating away at Dimitri, and I
-fully understand... But causing
-other people to suffer for the
-sake of his own wishes is
-unacceptable. I must do whatever
-it takes to stop him.
+Cercados pelos capangas de
+Dimitri, nos dividimos em dois
+grupos e conseguimos escapar de
+algum jeito. O desejo de trazer
+Claire de volta deve estar
+consumindo Dimitri, e eu entendo
+perfeitamente... Mas causar dor
+a outras pessoas para satisfazer
+seus desejos é inaceitável. Tenho
+que fazer o que for preciso para
+pará-lo.
 
 !******************************!
 [7117030094000000:003200000002803f000002903f0000]
-Paul's Memories
+As Memórias de Paul
 !******************************!
-It seems that Paul has been
-keeping my journal up to date in
-my absence, and my little personal
-investigation yielded some
-interesting results that are sure
-to prove useful for this case.
-Now, though, it's time to sort
-through what I've learned. I owe
-Paul a real debt of gratitude for
-his assistance. To think that
-Dimitri is connected to that
-terrible event...
+Parece que Paul manteve meu
+diário atualizado enquanto estive
+fora, e minha pequena investigação
+rendeu resultados interessantes
+que podem se provar úteis para
+esse caso. Mas agora é hora de
+ver tudo que descobri. Ficarei
+devendo muito a Paul por sua
+ajuda. E pensar que Dimitri
+tem relação com aquele terrível
+evento...
+
 !******************************!
 [7117030097000000:003300000002fb4000000213410000]
-Researching Past Events
+Pesquisando o Passado
 !******************************!
-Dimitri is interested in the
-explosion at the Institute of
-Polydimensional Research as well...
-There must be some larger
-conspiracy here. With Paul as my
-ally, I am gaining a different
-perspective on this case. I am
-beginning to find the answers that
-escaped me at the time. In any
-case, our first step now is to go
-and meet Flora and Future Luke.
+Dimitri tem interesse na explosão
+do Instituto de Pesquisa Poli-
+-dimensional também... Sinto que
+há alguma conspiração maior aqui.
+Tendo Paul como meu aliado, agora
+possuo uma perspectiva diferente
+desse caso. Estou começando a
+achar as respostas que escaparam
+de mim naquela época. De qualquer
+forma, nosso primeiro passo agora
+é se encontrar com Flora e o Luke
+do futuro.
 !******************************!
 [711703009a000000:0034000000026f4200000286420000]
-Time Machine Research?
+Pesquisa em Máquina do Tempo?
 !******************************!
-It would appear that the Towering
-Pagoda is not Dimitri's main base
-of operations after all. There
-were no signs of any scientists in
-there, but they were certainly
-brought here to the future.
-A time machine research facility
-appears to have been specially set
-up, so we'll enquire as to its
-location at the hotel.
+Parece que o Pagode não é a base
+principal de Dimitri. Não havia
+sinal algum de cientistas por lá,
+mas eles com certeza foram
+trazidos para cá no futuro.
+Um centro de pesquisa de máquina
+parece ter sido construída aqui,
+então precisaremos perguntar por
+sua localização no hotel.
 !******************************!
 [711703009d000000:003500000002c143000002db430000]
-Where's Future Luke Gone?
+Onde o Luke do Futuro Foi?
 !******************************!
-Flora was waiting for us at the
-hotel. She and Future Luke escaped
-together, but it seems he has now
-gone off somewhere with Shipley.
-He knows much more about this
-future world than we do and he
-must have some kind of plan, but
-is that sufficient to justify his
-sudden departure?
-We've no choice but to continue
-our investigation by ourselves.
+Flora nos esperava no hotel. Ela
+e o Luke do futuro escaparam
+juntos, mas parece que ele foi
+para algum lugar com Shipley.
+Ele sabe muito mais desse mundo
+do futuro do que nós e deve ter
+algum plano em mente, mas isso
+é o suficiente para justificar
+ele ter saído de repente?
+Não temos escolha a não ser
+investigar por nós mesmos.
 !******************************!
 [71170300a0000000:003600000002334500000252450000]
-The Girl Who Looks Like Claire
+A Mulher Parecida com Claire
 !******************************!
-It seems that Inspector Chelmey
-has also seen a girl who looks like
-Claire. However, it simply cannot
-be her. She has already left us.
-Claire never mentioned a sister,
-but there is a strong possibility
-that this girl is a relative of
-hers. Inspector Chelmey has said
-he will look into this for me.
+Parece que o Inspetor Chelmey
+também viu uma mulher parecida
+com Claire. Mas não é possível
+que seja ela. Ela nos deixou.
+Claire nunca disse que tinha uma
+irmã, mas há uma grande chance
+dessa mulher ser parente dela.
+O inspetor disse que vai estar
+investigando isso para mim.
 !******************************!
 [71170300a3000000:0037000000027c4600000291460000]
-Luke's Disappearance
+O Sumiço de Luke
 !******************************!
-While I was busy enquiring as to
-how to cross the Thames, Luke
-seems to have run off somewhere
-on his own. Luke has always stuck
-by my side and I don't recall him
-ever doing anything like this
-before.
-Something must be troubling him.
-Finding Luke is now our first
-priority.
+Enquanto estive ocupado pedindo
+informações de como cruzar o
+Tâmisa, Luke parece ter ido a
+algum lugar sozinho. Luke sempre
+ficou do meu lado e não lembro
+dele fazer algo do tipo antes.
+Algo parece preocupá-lo. Achá-lo
+é a nossa prioridade agora.
+
 !******************************!
 [71170300a6000000:003800000002a347000002b9470000]
-An Eternal Friendship
+Uma Amizade Eterna
 !******************************!
-We found Luke crying in front of
-the statue in the square. It would
-appear that his father is being
-transferred and that Luke will
-have to move overseas. He has
-been bottling up his worries and
-keeping them to himself. But he
-needn't worry. Our friendship will
-endure, even when we are apart,
-just like the gentleman and the
-boy in the statue.
+Encontramos Luke chorando em
+frente à estátua da praça. Parece
+que seu pai será transferido e
+Luke terá que cruzar o oceano
+para se mudar. Ele esteve
+guardando para si os seus
+problemas. Mas não há o que se
+preocupar. Nossa amizade irá
+continuar, mesmo que fiquemos
+separados, assim como o cavalheiro
+e o garoto da estátua.
 !******************************!
 [71170300a9000000:003900000002114900000225490000]
-Crossing the Thames
+Cruzando o Rio Tâmisa
 !******************************!
-Now that Luke is feeling better,
-his powers of reasoning are back
-on top form. The scientists that
-we've seen with wet shoes and
-trousers must have come from a
-research facility on the other
-side of the river, which means
-that there is definitely a useable
-tunnel somewhere.
-The first thing we need to do now
-is find Grafton, who should be able
-to tell us how to get into it.
+Agora que Luke está melhor,
+seu raciocínio sem igual está
+de volta. Os cientistas que
+vimos com calças e sapatos
+molhados devem vir de um centro
+de pesquisa do outro lado do rio,
+o que significa que há um jeito
+de cruzá-lo, talvez com um túnel
+em algum lugar.
+A primeira coisa a se fazer é
+encontrar Grafton, que deve nos
+dizer como chegar lá.
 !******************************!
 [71170300ac000000:003a000000029d4a000002af4a0000]
-Inside the Tunnel
+Dentro do Túnel
 !******************************!
-Just as Grafton told us, the
-passage under the Thames is no
-longer in use. It looks full of
-leaks, so crossing it will involve
-getting my hat wet, but at least
-we won't be spotted down here.
-Right, it's time to cross the river.
+Como Grafton nos disse, a passagem
+sob o Tâmisa não está mais em
+uso. Parece cheia de vazamentos,
+então cruzar por lá irá molhar
+minha cartola, mas pelo menos não
+seremos vistos aqui.
+Certo, hora de cruzar o rio.
 !******************************!
 [71170300af000000:003b00000002934b000002b14b0000]
-Outside the Research Facility
+O Lado de Fora do Centro
 !******************************!
-A closed-off research facility has
-been constructed at the other
-end of the passage. An industrial
-complex like this in the middle of
-London is unheard of. This has to
-be where they are conducting the
-time machine research.
-I expect that we shall find the
-kidnapped scientists there, as well
-as Dimitri himself. There has to be
-an entrance here somewhere...
+Um centro de pesquisa isolado foi
+construído no fim dessa passagem.
+Um complexo industrial como esse
+no meio de Londres é algo sem
+precedentes. Deve ser aqui onde
+estão fazendo a pesquisa da
+máquina do tempo.
+Espero que possamos achar os
+cientistas raptados lá, assim
+como Dimitri. Tem que ter uma
+entrada aqui em algum lugar...
 !******************************!
 [71170300b2000000:003c00000002174d000002364d0000]
-The Research Facility's Secret
+O Segredo do Centro de Pesquisa
 !******************************!
-The research facility contains
-things more terrifying than we'd
-dared to imagine. Does Dimitri
-know that such things are being
-developed behind the scenes?
-I regret having to take such
-drastic measures, but we have no
-choice but to leave those two
-guards unconscious so that we can
-move on unimpeded.
+O centro de pesquisa contém coisas
+piores do que poderíamos imaginar.
+Será que Dimitri sabe que essas
+coisas estão sendo feitas por
+debaixo dos panos?
+Me arrependo de ter que tomar
+medidas drásticas, mas teremos
+que deixar esses dois guardas
+no chão para que possamos
+continuar.
 !******************************!
 [71170300b5000000:003d00000002634e0000027c4e0000]
-Claire's Sister, Celeste
+A Irmã de Claire, Celeste
 !******************************!
-In escaping from Bostro and his
-thugs, we were aided by the girl
-who looks just like Claire. Her
-name is Celeste and she is Claire's
-younger sister.
-It appears she had unanswered
-questions regarding Claire's death
-but was unable to uncover the
-truth. I had a great deal I wished
-to ask her, but we were separated
-again before I had a chance to do
-so.
+Enquanto fugíamos de Bostro e seus
+capangas, tivemos a ajuda da
+mulher que se parece com Claire.
+Seu nome é Celeste e ela é a irmã
+mais nova da Claire.
+Parece que ela procura respostas
+acerca da morte de Claire, mas
+não conseguiu descobrir a
+verdade. Eu gostaria muito de
+perguntar algo a ela, mas nos
+separamos de novo antes que eu
+tivesse chance.
 !******************************!
 [71170300b8000000:003e00000002db4f000002f84f0000]
-A Meeting at the Thames Arms
+Encontro no Thames Arms
 !******************************!
-The {''}old father's embrace{''} that
-Celeste was talking about is in
-fact the Thames Arms restaurant.
-The truth of our situation is
-becoming ever clearer to me.
-Celeste mentioned a big secret and
-I believe I know what she meant...
-Everything will become clear at
-the Thames Arms. Let's hurry.
+O {''}abraço de pai{''} que
+Celeste falou, na verdade, era o
+restaurante Thames Arms. A verdade
+sobre nosso caso está se tornando
+mais clara para mim.
+Celeste falou sobre um grande
+segredo que creio já saber o que
+é... Tudo ficará claro no Thames
+Arms. Precisamos se apressar.
 !******************************!
 [71170300bb000000:003f000000021e510000022b510000]
-The Cover-up
+O Encobrimento
 !******************************!
-I have been thinking about the
-accident that happened all those
-years ago. The facts may have
-been covered up, but I will never
-forget. I'll never forget losing
-Claire, and I'll never forget the
-face of the boy crying for his
-parents. I fear the mistakes of
-that time are being repeated.
-I must stop that from happening,
-whatever it takes.
+Estive pensando no acidente que
+aconteceu em todos esses anos.
+O que aconteceu pode ter sido
+acobertado, mas nunca irei
+esquecer. Nunca esquecerei de
+perder Claire e nem o rosto do
+garoto chorando por seus pais.
+Temo que os erros daquele momento
+estão se repetindo.
+Preciso impedir isso, custe
+o que custar.
 !******************************!
 [71170300be000000:0040000000027f5200000297520000]
-The Facts of the Matter
+Os Fatos
 !******************************!
-We have reached the meeting point
-and enjoyed a stroke of luck in
-bumping into Inspector Chelmey
-and Future Luke. It would appear
-that all the people connected to
-this case are gathered in the
-restaurant. Now is the time to
-reveal the details of this terrible
-mystery. I must put an end to the
-destructive wills at work here.
+Chegamos no ponto de encontro e
+tive a grande sorte de encontrar
+o Inspetor Chelmey e o Luke do
+futuro. Parece que todas as
+pessoas relacionadas àquele caso
+estão aqui no restaurante. Agora
+é a hora de revelar os detalhes
+deste terrível mistério. Preciso
+pôr um fim nesses pensamentos
+destrutivos agora.
 !******************************!
 [71170300c1000000:004100000002dd53000002fc530000]
-Blueprints for a Future London
+Plantas da Londres do Futuro
 !******************************!
-I don't think I've ever seen
-planning on such a grand scale
-before. A working time machine...
-That was Dimitri's ambition. It was
-the reason he built this London
-and continued his research for so
-many years, leaving the kidnapped
-scientists and inhabitants of this
-town in the dark as to its true
-nature and location.
+Acho que nunca vi um planejamento
+em grande escala desse jeito
+antes. Uma máquina do tempo
+funcional... Esse era o desejo de
+Dimitri. Por isso ele construiu
+essa Londres e continuou sua
+pesquisa por tantos anos, deixando
+os cientistas e moradores raptados
+desta cidade no escuro sobre a
+localização e natureza do local.
 !******************************!
 [71170300c4000000:0042000000023a5500000251550000]
-The Real Puppet Master
+O Verdadeiro Vilão
 !******************************!
-Dimitri, whom we found posing as
-the bartender in the restaurant,
-told us about the accident at the
-Institute of Polydimensional
-Research. Being betrayed by
-Bill, his friend, must have been
-terrible, not to mention losing
-Claire.
-Someone else has been pulling the
-strings, however, using Dimitri's
-desire for revenge for their own
-gain...
+Dimitri, que descobrimos ser o
+barman do restaurante, nos falou
+sobre o acidente no Instituto de
+Pesquisa Polidimensional. Ser
+traído por Bill, seu amigo, deve
+ter sido terrível para ele, sem
+mencionar a perda da Claire.
+Porém, alguém estava por trás
+disso, usando o desejo de
+vingança de Dimitri para
+benefício próprio...
 !******************************!
 [71170300c7000000:004300000002a456000002c0560000]
-Future Luke's Real Identity
+A Identidade do Luke do Futuro
 !******************************!
-I don't know why the grown-up
-Luke...Clive, that is, invited
-me here, but my reading of the
-situation appears to have been
-correct. Ever since he learned
-the truth about the accident, he
-has been waiting to put this plan
-into action.
-He has now escaped from the
-restaurant and taken Flora with
-him. We must hurry and catch up
-with them.
+Não sei porque o Luke mais
+velho... Clive, no caso, me
+convidou para cá, mas minha
+leitura da situação parece
+correta. Desde que ele descobriu
+a verdade sobre o acidente, Clive
+esperou para pôr seu plano em
+ação. Ele acabou de escapar do
+restaurante levando Flora consigo.
+Temos que nos apressar para
+alcançá-los.
+
 !******************************!
 [71170300ca000000:004400000002115800000224580000]
-A Fortress Emerges
+Uma Fortaleza Surge
 !******************************!
-We followed Clive to see where he
-had taken Flora, only to be
-greeted by the sight of an
-enormous mobile fortress rising
-from the bottom of the river. I
-wonder if the kidnapped scientists
-realised they were creating such
-a thing?
-I dread to think what might happen
-to London if we don't stop that
-fortress soon...
+Seguimos Clive para saber onde
+ele levou Flora, só para sermos
+recepcionados pela vista de uma
+enorme fortaleza móvel surgindo
+do fundo do rio. Será que os
+cientistas raptados perceberam
+que estavam criando isso?
+Tenho medo do que pode acontecer
+com Londres se não pararmos essa
+fortaleza logo...
+
 !******************************!
 [71170300cd000000:0045000000025e5900000277590000]
-Into the Mobile Fortress
+Dentro da Fortaleza Móvel
 !******************************!
-The mobile fortress threatens to
-destroy everything around it. It is
-imperative that we get Flora out
-of there and put an end to Clive's
-rampage as soon as possible, but
-ordinary methods simply won't
-work here.
-I should be able to get into the
-fortress using the Laytonmobile,
-which Paul has kindly provided for
-me and left on the hill. I just hope
-this goes to plan...
+A fortaleza móvel ameaça destruir
+tudo ao redor. Precisamos tirar
+a Flora de lá urgentemente e pôr
+um fim na fúria de Clive o mais
+rápido possível, mas métodos
+comuns não vão funcionar aqui.
+Talvez eu consiga entrar na
+fortaleza com o Laytonmóvel, o
+qual Paul me disponibilizou e
+deixou na colina. Espero que
+isso funcione...
+
 !******************************!
 [71170300d0000000:004600000002e95a000002fb5a0000]
-Looking for Flora
+Procurando Flora
 !******************************!
-It is little wonder that the
-fortress is such a technological
-marvel considering it has been
-built by some of London's leading
-scientists. Using this transport
-pod, it is possible to move between
-different parts of the fortress.
-Flora seems to be in the
-ventilation room, so that's where
-we need to head first. We must
-hurry!
+Não é surpresa que essa fortaleza
+seja uma maravilha tecnológica,
+considerando que foi construída
+pelos mesmos cientistas de
+Londres. Usando essa cápsula de
+transporte, podemos nos mover por
+partes diferentes da fortaleza.
+Flora parece estar na sala de
+ventilação, então é para lá que
+precisamos ir primeiro. Temos
+que nos apressar!
 !******************************!
 [71170300d3000000:004700000002415c0000024f5c0000]
-Trapped Flora
+Flora Presa
 !******************************!
-We found Flora in a pitiful state,
-trapped inside a glass cage in the
-ventilation room. We managed to
-rescue her, but there is still much
-to be done.
-It seems that neither Luke nor
-Flora have any intention of
-returning to the ground, despite
-the danger in staying up here.
-I've no time to reason with them
-now. We've got to stop Clive!
+Encontramos Flora em um estado
+deplorável, presa dentro de um
+cubículo de vidro na sala de
+ventilação. Conseguimos resgatá-
+-la, mas ainda há muito a se
+fazer. Parece que nem Luke e
+Flora têm intenção de voltar para
+baixo, apesar do perigo de ficar
+aqui em cima.
+Não tenho tempo para discutir
+agora. Temos que parar o Clive!
 !******************************!
 [71170300d6000000:0048000000029f5d000002be5d0000]
-Clive in the Surveillance Room
+Clive na Sala de Segurança
 !******************************!
-Having established that Clive is in
-the surveillance room, we headed
-over there in the transport pod.
-The fact that the guard allowed us
-through unchallenged is no doubt a
-sign of Clive's overconfidence.
-The surveillance room is just up
-these stairs. We must get to Clive
-as soon as possible.
+Imaginando que Clive está na sala
+de segurança, fomos para a
+cápsula de transporte.
+O fato do guarda nos deixar
+passar sem problema é um sinal
+da autoconfiança de Clive.
+A sala de segurança é depois
+dessas escadarias. Temos que
+chegar no Clive logo.
 !******************************!
 [71170300d9000000:004900000002e35e000002f95e0000]
-The Fortress Surfaces
+A Fortaleza Sobrevoa
 !******************************!
-Having confronted Clive, it has
-become apparent that the powers
-of reasoning he displayed while
-disguised as Future Luke have long
-deserted him. It is a bitter irony
-that he who was once a victim has
-become a criminal in the name of
-revenge. It is pointless to try to
-talk him out of this now that the
-fortress has surfaced.
+Ao confrontar Clive, fica
+aparente que o raciocínio que
+ele demonstrou enquanto disfarçado
+de Luke do futuro o abandonou.
+É até irônico ver que ele, antes
+uma vítima, se tornou um criminoso
+por vingança. É inútil tentar
+conversar com ele sobre, ainda
+mais agora que a fortaleza está
+sobrevoando Londres.
 !******************************!
 [71170300dc000000:004a000000023e600000025b600000]
-To the Fortress's Generator!
+Para o Gerador da Fortaleza!
 !******************************!
-The fortress continues to wreak
-destruction upon London. The city
-will be nothing but ruins if this
-goes on. As Celeste pointed out,
-if we could just cut the power to
-the fortress...
-If we take the coordinates from
-the surveillance room, we should
-be able to find the generator.
+A fortaleza continua espalhando
+destruição sobre Londres. A
+cidade ficará em ruínas se isso
+continuar. Como Celeste apontou,
+se pudéssemos cortar a energia
+da fortaleza...
+Se pegarmos as coordenadas na
+sala de segurança, poderemos
+encontrar o gerador.
 
 !******************************!
 [71170300df000000:004b0000000273610000028b610000]
-The Winner Takes it All
+Quem Vencer Leva Tudo
 !******************************!
-We arrived in the generator room
-to find Bill Hawks in a terrible
-state, his heart rate being
-monitored by a device connected
-to the detonator for an enormous
-bomb.
-We successfully wired up a broken
-watch to replace the prime
-minister's heartbeat, but it will
-only work for 10 minutes, after
-which the fortress will explode.
-We must prepare for the worst...
+Chegamos na sala do gerador e
+encontramos Bill Hawks em um
+estado péssimo, sua frequência
+cardíaca monitorada por algo
+conectado ao detonador de uma
+enorme bomba. Conseguimos ligar
+um relógio quebrado para
+substituir os batimentos do
+ministro, mas só funcionará por
+10 minutos, e depois disso a
+fortaleza explodirá. Temos que
+nos preparar para o pior...
 !******************************!
 [71170300e2000000:004c00000002f162000002ff620000]
-Saving London
+Salvando Londres
 !******************************!
-With Celeste's help, we managed to
-save the prime minister, but the
-exploding fortress is going to
-destroy London unless we do
-something to stop it.
-The only way to save the city is
-to reverse the fortress's power.
-Celeste appears to be well versed
-in physics, so with her help I
-should be able to do it.
+Com a ajuda de Celeste, salvamos
+o primeiro ministro, mas a
+fortaleza irá explodir e destruir
+Londres a menos que façamos algo
+para pará-la. O único jeito de
+salvar a cidade é revertendo a
+energia da fortaleza.
+Celeste parece saber bastante
+sobre física, e com a ajuda dela,
+talvez possamos fazer isso.
 !******************************!
 [71170300e5000000:004d00000002306400000247640000]
-10 Minutes of Upheaval
+10 Minutos de Turbulência
 !******************************!
-The fortress started to destroy
-itself as it returned the way it
-had come. Fortunately, Paul had
-installed a flying device on the
-Laytonmobile, so we just about
-managed to escape.
-The fortress disappeared
-underground and London was
-saved, albeit heavily damaged.
-That was a very long 10 minutes...
+A fortaleza começou a se destruir
+enquanto voltava pelo mesmo jeito
+que surgiu. Com sorte, Paul
+instalou um dispositivo de voo no
+Laytonmóvel, e por causa disso
+conseguimos escapar.
+A fortaleza sumiu embaixo da
+terra e Londres foi salva, apesar
+de ter sido muito danificada.
+Foram longos 10 minutos...
 !******************************!
 [71170300e8000000:004e00000002716500000283650000]
-Cracking the Case
+Resolvendo o Caso
 !******************************!
-I finally understand why Clive
-asked me to come here. He is the
-boy I saved from that explosion
-10 years ago.
-He may have committed a terrible
-crime, but I do believe he is a kind
-person at heart. If nothing else,
-he behaved like a gentleman during
-my investigation, and I, for one,
-believe his promises to atone for
-his sins.
+Finalmente entendi porque Clive
+me chamou para cá. Ele é o garoto
+que salvei daquela explosão há
+10 anos.
+Ele pode ter cometido um crime
+terrível, mas eu acredito que seu
+coração é gentil. Pelo menos, ele
+se mostrou um cavalheiro durante
+minha investigação, e eu, como
+tal, creio em suas promessas para
+pagar por seus pecados.
 !******************************!
 [71170300eb000000:004f00000002ca66000002d7660000]
-Winding Down
+O Fim de Tudo
 !******************************!
-The truths that Celeste and
-Dimitri shared with me were hard
-to accept. Celeste is not just
-someone who looks like Claire.
-She's... That is, she really is...
-There is no time. There is no
-other way. Claire is going back to
-that day, leaving only a little of
-her warmth behind...
+As verdades que Celeste e Dimitri
+me disseram foram bem difíceis de
+engolir. Celeste não é só alguém
+que parece a Claire. Ela...
+Digo, ela é realmente...
+Não há mais tempo. Não há outro
+jeito. Claire vai voltar para
+aquele dia, deixando apenas um
+pouco de seu carinho para trás...
 !******************************!

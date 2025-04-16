@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000060400000006040000000100000000000000000000000000]
+n152
+!******************************!
+n152a
+!******************************!
+n152b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há três latas de comida enlatada
+diferentes empilhadas aleatoriamente.
+Você precisa organizá-las de modo que
+haja três pilhas da mesma comida.
+
+Porém, se houver latas em cima da lata
+que você queira mover, você deve mover
+todas de uma vez. E também, você não
+pode ter mais de seis latas numa pilha.
+
+Parece fácil, não é? Ah... outra coisa:
+em seis movimentos ou menos. Boa sorte.
+!******************************!
+[ec0b01000b000000:0272010000]
+Espetacular!
+
+Agora está tudo em ordem! Beleza!
+!******************************!
+[ed0b01000c000000:02a3010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:02b8010000]
+Se planejar bem seus movimentos,
+não deve ser tão difícil.
+
+Aqui vai uma dica para você começar:
+
+Seu primeiro movimento envolve mover
+duas latas ao mesmo tempo.
+!******************************!
+[ef0b01000e000000:0253020000]
+Por exemplo, pegue a lata de pêssego
+da pilha do meio e mova ela para a
+pilha da esquerda.
+
+Agora só tem uma latinha de peixe no
+meio agora. Hmm... Bem, que tal mover a
+latinha de peixe da pilha da direita
+para a pilha do meio?
+!******************************!
+[f00b01000f000000:023d030000]
+Seguindo a Dica 2, se você mover a
+latinha de peixe da pilha da esquerda
+e colocá-la em cima das que você colocou
+no meio, então você terá todas as três
+latinhas de peixe empilhadas! Boa!
+
+E agora, qual é o próximo passo?
+!******************************!
+[f10b010010000000:0218040000]
+Seguindo a Dica 3, mova a latinha das
+cerejas da pilha da direita para a da
+esquerda. Agora mova as cerejas da
+pilha do meio para a da esquerda.
+
+Quase lá, hein. Você consegue!
+!******************************!

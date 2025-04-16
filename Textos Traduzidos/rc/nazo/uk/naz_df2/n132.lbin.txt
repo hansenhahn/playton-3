@@ -1,0 +1,83 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n132
+!******************************!
+n132a
+!******************************!
+n132b
+!******************************!
+[eb0b01000a000000:0211000000]
+Quatro policiais, A, B, C e D, estão
+perseguindo um criminoso por um rio. Mas
+o barco deles só suporta duas pessoas
+por travessia.
+
+Demora um minuto para um policial
+atravessar o rio, mas depois da primeira
+travessia ele se cansa, então a segunda
+demora dois minutos, a terceira demora
+três minutos, e assim sucessivamente.
+
+Qual o menor tempo em minutos que
+levaria para os quatro policiais poderem
+atravessar o rio?
+!******************************!
+[ec0b01000b000000:02ca010000]
+Na mosca!
+
+Seis minutos. A e B fazem a primeira
+travessia, com A remando. B rema o barco
+de volta. C se junta a B no barco e C
+rema para o outro lado. A, B e C estão
+do lado oposto agora.
+Um deles precisa remar de volta, mas
+todos já remaram pelo menos uma vez,
+então não faz diferença quem volta.
+Assim que um deles voltar, D entra no
+barco e rema para o outro lado.
+Portanto, demora seis minutos para
+todos atravessarem o rio.
+!******************************!
+[ed0b01000c000000:0281030000]
+Que azar.
+
+Talvez desenhar uma tabela ajude.
+!******************************!
+[ee0b01000d000000:02b6030000]
+Imagine que A e B atravessam para o
+outro lado primeiro. Um deles terá que
+remar o barco. Não importa quem, mas
+certifique-se de anotar quem que
+remou.
+!******************************!
+[ef0b01000e000000:025d040000]
+O policial que não remou na primeira
+travessia deve remar de volta. Quer
+dizer que depois disso, os dois que
+remaram na primeira vez vão ter remado
+o barco pelo menos uma vez.
+De volta ao começo, coloque outro
+policial no barco e faça-o remar
+para o outro lado.
+!******************************!
+[f00b01000f000000:0259050000]
+Os três policiais do outro lado devem
+ter remado o barco pelo menos uma vez.
+Se qualquer um deles remar de volta,
+vai demorar dois minutos, então não
+importa quem você escolher. Faça um
+deles remar de volta para o outro lado
+para buscar D.
+!******************************!
+[f10b010010000000:0248060000]
+Se você seguiu as três dicas, então
+suas marcações de remada são:
+1 minuto (ida), 1 minuto (volta),
+1 minuto (ida), 2 minutos (volta).
+Cinco minutos devem ter se passado
+até a hora que D entrar no barco.
+
+Se você já entendeu como que funciona,
+é óbvio quem precisa remar agora para
+que a última travessia seja a mais
+rápida possível.
+!******************************!

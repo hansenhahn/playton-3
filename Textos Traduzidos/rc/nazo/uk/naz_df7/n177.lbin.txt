@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n177
+!******************************!
+n177a
+!******************************!
+n177b
+!******************************!
+[eb0b01000a000000:0211000000]
+Vários tapetes quadrados de mesmo
+tamanhos foram postos um em cima do
+outro. Nenhum tapete está escondido por
+completo nem dobrado.
+
+Qual tapete está no fundo desta filha?
+
+Toque o tapete correto e aperte em
+<CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:02fe000000]
+Magistral!
+
+É o tapete em cima à direita.
+
+O melhor jeito de descobrir isso é
+fazendo engenharia reversa com o tapete
+completamente visível e checando as
+sobreposições atentamente.
+!******************************!
+[ed0b01000c000000:02b9010000]
+Perdeu o fio da meada?
+
+Não se distraia com essas
+estampas bonitas!
+!******************************!
+[ee0b01000d000000:02f8010000]
+Não é necessário saber trabalhar com
+tapetes para saber que o tapete do
+canto inferior esquerdo está no topo.
+
+Comece por ele e vá ordenando cada um.
+O próximo tapete embaixo é o laranja,
+e depois o tapete com faixas bem largas.
+Qual é o próximo?
+!******************************!
+[ef0b01000e000000:02ff020000]
+
+!******************************!
+[f00b01000f000000:0200030000]
+
+!******************************!
+[f10b010010000000:0201030000]
+
+!******************************!

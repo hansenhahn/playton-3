@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n015
+!******************************!
+n015a
+!******************************!
+n015b
+!******************************!
+[eb0b01000a000000:0211000000]
+Se sete dias depois de 70 dias atrás
+foi Domingo, que dia é sete dias
+antes de 70 dias de agora?
+
+Marque sua resposta e toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:029f000000]
+É isso mesmo!
+
+Domingo.
+Uma semana é sete dias. Se te perguntarem
+{''}Que dia foi X dias atrás?{''} ou {''}Que
+dia será daqui X dias de hoje?{''} e X
+for divisível por sete, então você
+saberá que será o mesmo dia de hoje.
+!******************************!
+[ed0b01000c000000:0288010000]
+Errado.
+
+Não deixe os números te confundir.
+!******************************!
+[ee0b01000d000000:02b5010000]
+Se você pensar nos números maiores,
+vai acabar se confundindo, então tente
+pensar nos números menores.
+
+Por exemplo, se sete dias depois de 14
+dias atrás é Quarta, que dia é hoje?
+!******************************!
+[ef0b01000e000000:026c020000]
+Sete dias depois de 70 dias atrás é
+nove semanas atrás. Se esse dia foi
+Domingo, que dia seria hoje?
+!******************************!
+[f00b01000f000000:02d6020000]
+A lógica é a mesma para sete dias antes
+de 70 dias de agora. Hoje é Domingo,
+e a pergunta pede pelo dia que será
+daqui nove semanas de hoje.
+
+Agora você entendeu, certo?
+!******************************!
+[f10b010010000000:0289030000]
+Se você sabe que dia da semana é,
+então você sabe que dia é {''}X semanas
+antes{''} ou {''}X semanas depois{''}.
+
+É o mesmo dia de hoje. 
+!******************************!

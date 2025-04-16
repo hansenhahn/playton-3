@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n044
+!******************************!
+n044a
+!******************************!
+n044b
+!******************************!
+[eb0b01000a000000:0211000000]
+No meio da parede, está a última página
+de um calendário de 12 meses. Os 11
+meses anteriores estavam colados na mesma
+parede, como pode ser visto nos restos das
+folhas rasgadas ainda coladas.
+Alguém claramente rasgou as outras páginas
+e colocou as novas em cima sem se importar
+em alinhar as pontas de cada página. Um
+trabalho bem porco, não é?
+
+Mas a dúvida é: de que mês é a página
+apontada pela seta em baixo à direita?
+Responda com um número, por exemplo:
+Janeiro = 1, Fevereiro = 2.
+!******************************!
+[ec0b01000b000000:02fc010000]
+Mandou bem!
+
+A resposta certa é Janeiro, o primeiro
+mês do ano.
+
+Olhe bem e poderá ver que há 10 páginas
+entre a folha apontada pela seta e a
+folha de Dezembro colada em cima. Uma
+ordem possível das folhas pode ser a que
+a imagem acima mostra. Note que não
+importa em que ordem as páginas estão,
+a que a seta estava apontando sempre
+é a de Janeiro.
+!******************************!
+[ed0b01000c000000:0261030000]
+Que azar!
+
+Olhe cuidadosamente e tente de novo.
+!******************************!
+[ee0b01000d000000:028e030000]
+Você descobrirá a resposta se olhar
+atentamente em como os restos se sobrepõem
+uns aos outros. Quanto mais no começo for
+o mês, mais próximo do fundo a sua página
+estará colada.
+!******************************!
+[ef0b01000e000000:022f040000]
+A página colada em cima, inteira, é
+obviamente de Dezembro, o mês 12 do
+ano. Tente descobrir onde a página
+apontada pela seta foi colada nessa
+pilha de páginas. Parece até que foi
+a um bom tempo atrás...
+!******************************!
+[f00b01000f000000:020b050000]
+Anote como as páginas em cima da que
+está apontada pela seta se sobrepõem.
+
+Faça isso cuidadosamente e você
+encontrará uma resposta que seja
+bem confiável.
+
+!******************************!
+[f10b010010000000:02c2050000]
+A resposta é o mês mais longe de
+Dezembro se estiver olhando em um
+calendário, mas o mais próximo se
+você pensar de outro jeito.
+!******************************!

@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n060
+!******************************!
+n060a
+!******************************!
+n060b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você decidiu fazer um par especial de
+dados em sua mesa para mostrar cada data
+do mês numericamente, como mostrado pelo
+12 no topo da tela abaixo.
+
+Cada data deve usar ambos os dados,
+implicando que datas com dígitos únicos,
+como o primeiro e segundo dia do mês,
+serão mostrados como 01 e 02.
+
+Você pensou ter completado o design,
+mas os formatos abaixo não conseguem
+mostrar todas as datas. Circule o número
+a ser trocado para conseguir mostrar.
+!******************************!
+[ec0b01000b000000:02e9010000]
+Boa!
+
+O número 6 precisa ser trocado.
+
+O design atual não permite o dado
+mostrar as datas de 07 ou 08. Mas se
+você mudar o 6 por um 0, você pode virar
+o 9 ao contrário e usá-lo como um 6 para
+poder mostrar todas as datas
+!******************************!
+[ed0b01000c000000:02ca020000]
+Uma pena!
+
+Olhe todos os números cuidadosamente
+e você encontrará a resposta.
+!******************************!
+[ee0b01000d000000:021b030000]
+Pense em como você pode mostrar cada
+data, começando com o primeiro dia
+do mês.
+!******************************!
+[ef0b01000e000000:026c030000]
+Do jeito que as coisas estão, os dias
+7 e 8 de cada mês não podem ser
+mostrados. 
+
+Por exemplo, não dá para
+fazer o 07 para o sétimo dia porque não
+tem um 0 para fazer par com o 7.
+
+!******************************!
+[f00b01000f000000:0238040000]
+Já considerou virar algum número de
+ponta-cabeça para te ajudar a mostrar
+todas as datas?
+!******************************!
+[f10b010010000000:0296040000]
+Para mostrar o 07, você precisa mudar um
+dos números do dado da direita por um 0.
+Você precisa da maioria desses números,
+mas há um que não tem problema não usar
+porque você pode virar o 9 do dado da
+esquerda de ponta-cabeça.
+
+!******************************!

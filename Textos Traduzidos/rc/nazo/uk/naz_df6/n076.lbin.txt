@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000560400000056040000000100000000000000000000000000]
+n076
+!******************************!
+n076a
+!******************************!
+n076b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Durante sua pesquisa, meu Papai
+descobriu um número muito importante
+e marcou ele num pedaço de papel.
+
+Mas aí alguém confundiu o papel com
+um pedaço de lixo e rasgou ele em
+pedacinhos! Agora o Papai tá uma
+fera e a Mamãe tá descontrolada...
+
+Será que você consegue descobrir o
+número juntando os pedaços de novo?{''}
+!******************************!
+[ec0b01000b000000:0265010000]
+É isso!
+
+{''}O número é 74!
+
+Ah, e não conta pra ninguém, mas...
+sabe... fui eu quem rasguei o papel...{''}
+!******************************!
+[ed0b01000c000000:02d6010000]
+Errado!
+
+Alinhou todos os pedaços corretamente?
+Dê mais uma olhada.
+!******************************!
+[ee0b01000d000000:021d020000]
+Juntou todos os pedaços cuidadosamente?
+Se juntou e de forma correta, a
+resposta vai se revelar na sua frente.
+!******************************!
+[ef0b01000e000000:0286020000]
+O número não foi escrito. Percebeu que
+tem algumas pontinhas que se encaixam
+perfeitamente e algumas que não?
+
+!******************************!
+[f00b01000f000000:02fa020000]
+Se você alinhar todas as pontinhas
+que se encaixam perfeitamente, os
+espaços no meio vão revelar o número.
+!******************************!
+[f10b010010000000:0261030000]
+Percebeu o número formado pelos
+espaços entre os pedaços?
+Essa é sua resposta. Dois dígitos.
+!******************************!

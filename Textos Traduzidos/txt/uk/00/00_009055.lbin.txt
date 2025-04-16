@@ -2,50 +2,50 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/1>Pra onde o senhor acha que
-essas escadas levam, Professor?
+<T><A3/1>Para onde você acha que essas
+escadas levam, Professor?
 !******************************!
 [7117030004000000:000a0000000244000000024d000000]
 レイトン
 !******************************!
-<T>Eu diria que provavelmente levam
-até aquela fileira encantadora de
-casas vitorianas.
+<T>Eu diria que levam para aquela
+fileira de casas vitorianas
+charmosas.
 !******************************!
 [7117030007000000:000a00000002440000000298000000]
 レイトン
 !******************************!
-<T><A1/2>Aliás, Luke, toda essa conversa
-sobre escadas me fez lembrar de um enigma.
-Gostaria de ouvi-lo?
+<T><A1/2>Ah, Luke, todo esse papo de escadas
+me fez lembrar de um enigma. Gostaria
+de ouvir?
 !******************************!
 [711703000a000000:000a000000020000000002f2000000]
 ルーク
 !******************************!
-<T><A3/2>Mas é claro!
+<T><A3/2>Claro!
 !******************************!
 [711703000d000000:00e803000002000000000209010000]
 ルーク
 !******************************!
-<T><A4/4>Quer saber? Acho que não tô
-no clima pra um enigma agora.
+<T><A4/4>Acho que não estou tão disposto
+para um enigma agora.
 !******************************!
 [7117030010000000:00d007000002440000000248010000]
 レイトン
 !******************************!
-<T>Vamos tentar resolver aquele enigma
-das escadas mais uma vez.
+<T>Vamos tentar de novo esse
+enigma das escadas.
 !******************************!
 [7117030013000000:00b80b000002440000000275010000]
 レイトン
 !******************************!
-<T>Pensamento exemplar, Luke.
-Agora vamos retomar nosso caminho.
+<T>Habilidade exemplar, Luke. Agora
+vamos voltar ao nosso caminho.
 !******************************!
 [7117030016000000:00a00f0000024400000002af010000]
 レイトン
 !******************************!
-<T>Provavelmente não há relojoarias
-numa área residencial tranquila
-como essa.
+<T>Provavelmente não há uma
+relojoaria em uma área residencial
+tão quieta assim.
 !******************************!

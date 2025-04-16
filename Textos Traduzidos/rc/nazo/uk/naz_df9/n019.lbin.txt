@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n019
+!******************************!
+n019a
+!******************************!
+n019b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você recebeu duas chaves para o
+Laytonmóvel, mas não há fechadura para
+colocá-las. Em vez disso, a porta pode
+ser aberta inserindo um certo número.
+
+Em algum lugar nas chaves, esse número
+está escondido. Mas qual é esse número?
+
+!******************************!
+[ec0b01000b000000:02e9000000]
+Isso mesmo!
+
+O número escondido é 47. Você consegue
+vê-lo ao juntar as pontas das chaves!
+
+!******************************!
+[ed0b01000c000000:0255010000]
+Errado!
+
+Tentou mexer as chaves para o lado?
+Dá para girá-las também.
+
+Tente de novo!
+!******************************!
+[ee0b01000d000000:02b6010000]
+O número está escondido em algum
+lugar destas duas chaves.
+
+Você não vai achá-lo só olhando para
+elas. Tente mexê-las para qualquer lado!
+!******************************!
+[ef0b01000e000000:0232020000]
+Você não vai achar o número só com uma
+das chaves. Mexa um pouco com as duas
+chaves e pense mais um pouquinho.
+!******************************!
+[f00b01000f000000:029e020000]
+Alinhar as chaves fará com que
+o número secreto apareça.
+!******************************!
+[f10b010010000000:02df020000]
+Mantenha a chave azul em cima e gire
+a amarela em 180 graus. Alinhe
+a ponta das chaves e então...
+!******************************!

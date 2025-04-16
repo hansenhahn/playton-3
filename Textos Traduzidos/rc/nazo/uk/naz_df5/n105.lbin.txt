@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000001000000]
+n105
+!******************************!
+n105a
+!******************************!
+n105b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ao voltar para seu apartamento, você
+notou um estranho pedaço de papel perto
+da calculadora.
+
+Seu colega de apartamento deve ter
+tentado dizer algo antes de ir embora.
+
+A anotação diz {''}101 x 5{''}.
+
+Que palavra seu colega estava tentando
+falar para você com essa anotação?
+!******************************!
+[ec0b01000b000000:022a010000]
+Você descobriu!
+
+A mensagem era {''}SOS{''}.
+Quando você coloca 101 x 5 em uma
+calculadora, a resposta, 505, pode ser
+lida como SOS.
+
+Seu colega estava pedindo ajuda!
+!******************************!
+[ed0b01000c000000:02cd010000]
+Ah, que azar!
+
+O papel está próximo da calculadora...
+!******************************!
+[ee0b01000d000000:02fd010000]
+Lembre-se, essa nota foi deixada
+perto da calculadora...
+!******************************!
+[ef0b01000e000000:0239020000]
+Um cálculo matemático próximo a
+uma calculadora.
+
+Você sabe o que precisa fazer...
+!******************************!
+[f00b01000f000000:028d020000]
+101 x 5 = 505
+
+A maneira como os números aparecem na
+tela da calculadora é um tanto única,
+não acha?
+!******************************!
+[f10b010010000000:02ed020000]
+A resposta da equação é 505.
+
+Em uma calculadora, o cinco parece
+um S e o zero parece um O...
+!******************************!

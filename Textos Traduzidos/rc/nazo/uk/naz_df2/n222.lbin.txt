@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n222
+!******************************!
+n222a
+!******************************!
+n222b
+!******************************!
+[eb0b01000a000000:0211000000]
+Desembaralhe os nomes do Professor
+Layton e do Luke movendo as peças.
+
+Alinhe cada peça para combinar com as
+letras acima e abaixo do lado de fora.
+
+Ah, e certifique-se de deixar o espaço
+com a risca vermelha sem nada.
+!******************************!
+[ec0b01000b000000:02e7000000]
+É isso!
+
+A primeira letra de cada nome é da
+cor diferente do resto, mas isso não
+é um problema!
+
+Não dá para resolver o enigma se você
+tentar combinar as cores de cada L com o
+resto das cores das letras de cada nome.
+!******************************!
+[ed0b01000c000000:02c8010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:02dd010000]
+Não consegue resolver, não importa
+quantas vezes você tente?
+
+Esse é sacana. Perceba que o enigma
+nunca disse que você precisa combinar
+as cores. Se tentar combinar as cores
+de cada L com as cores do resto das
+letras dos nomes, nunca vai resolver.
+!******************************!
+[ef0b01000e000000:02ce020000]
+
+!******************************!
+[f00b01000f000000:02cf020000]
+
+!******************************!
+[f10b010010000000:02d0020000]
+
+!******************************!

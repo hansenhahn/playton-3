@@ -1,0 +1,48 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n216
+!******************************!
+n216a
+!******************************!
+n216b
+!******************************!
+[eb0b01000a000000:0211000000]
+De cada letra de cima, desça a linha
+vertical, e vire em cada linha horizontal
+que você passar. E continue descendo,
+virando 90 graus a cada intersecção
+que você encontrar.
+
+Esse mapa foi feito para conectar cada
+letra à sua correspondente embaixo
+seguindo o que está descrito acima. Mas
+ele possui dois erros. E para funcionar,
+é preciso tirar duas linhas horizontais.
+Toque as duas linhas para marcá-las com
+um X e depois, toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:02dc010000]
+Perfeito!
+
+Agora o mapa funciona como devia.
+!******************************!
+[ed0b01000c000000:020a020000]
+Errado!
+
+Lembre-se, só duas linhas horizontais
+devem ser tiradas para o mapa funcionar.
+!******************************!
+[ee0b01000d000000:0260020000]
+As duas linhas horizontais entre as
+letras B e C funcionam normalmente.
+
+Isso deixa as coisas mais fáceis!
+!******************************!
+[ef0b01000e000000:02ce020000]
+
+!******************************!
+[f00b01000f000000:02cf020000]
+
+!******************************!
+[f10b010010000000:02d0020000]
+
+!******************************!

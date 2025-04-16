@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n166
+!******************************!
+n166a
+!******************************!
+n166b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Pode ter passado duas vezes, mas
+agora você nunca passará pelo Portão
+Intransponível!{''}
+!******************************!
+[ec0b01000b000000:0276000000]
+Inacreditável!
+
+Você pode passar pelo portão
+quando quiser agora!
+!******************************!
+[ed0b01000c000000:02ba000000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:02cf000000]
+A solução envolve tantos movimentos
+que nem deve caber tudo nas dicas.
+
+De início, só fique mexendo os blocos
+por um tempo enquanto pensa nas suas
+opções. Como nos outros dois enigmas de
+portão, a chave é a barra horizontal
+de três quadrados.
+
+!******************************!
+[ef0b01000e000000:02c2010000]
+Tá vendo o bloco rosa? Você precisa
+achar um jeito de mover ele até o
+nível onde Layton e Luke estão.
+
+Nada de mexer os blocos turquesa
+e vermelho por agora.
+!******************************!
+[f00b01000f000000:0267020000]
+Assim que o bloco rosa estiver na parte
+de baixo, haverá um espaço mais aberto
+no topo.
+
+Agora você pode mover o bloco vermelho
+para o meio e o bloco turquesa para
+cima, no quadrado do topo.
+
+Agora mova o bloco vermelho de volta
+ao seu ponto inicial.
+!******************************!
+[f10b010010000000:0268030000]
+O bloco turquesa deve estar no quadrado
+do topo agora. E o bloco vermelho deve
+estar em cima, próximo ao topo. Agora
+organize os blocos de baixo de forma que
+eles permitam você mover o bloco vermelho
+para baixo, trocando-o com Layton e Luke
+e permitindo que você os mova para o
+topo.
+
+Esse enigma foi feito para ser bem
+desafiador. Não desista!
+!******************************!

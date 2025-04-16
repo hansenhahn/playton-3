@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/2>Professor, deve ser aqui!
+<T><A3/2>Deve ser aqui, Professor!
 !******************************!
 [7117030004000000:000a0000000233000000023c000000]
 レイトン
@@ -22,43 +22,42 @@
 [711703000d000000:00140000000233000000026f000000]
 レイトン
 !******************************!
-<T>O que foi, Luke?
+<T>Qual é o problema, Luke?
 !******************************!
 [7117030010000000:001400000002000000000295000000]
 ルーク
 !******************************!
-<T><A4/4>A porta está trancada.
-Como é que a gente vai entrar?
+<T><A4/4>A porta está trancada. Como
+a gente vai entrar?
 !******************************!
 [7117030013000000:0014000000023300000002d0000000]
 レイトン
 !******************************!
-<T><A4/1>Deixe-me ver.<W><A2/1> Ah, parece que é
-hora de um enigma. Precisamos resolvê-lo
-para abrir a porta.
+<T><A4/1>Deixe-me dar uma olhada.<W><A2/1> Ah, parece
+que é hora de mais um enigma. Temos que resolvê-lo
+para poder abrir esta porta.
 !******************************!
 [7117030016000000:00e803000002000000000247010000]
 ルーク
 !******************************!
-<T><A4/4>Não tem nada de errado em fazer
-uma pausa, mas só vamos conseguir
-entrar se resolvermos esse enigma.
+<T><A4/4>Não é errado tirar um tempo
+para descansar, mas não conseguiremos
+entrar até resolvermos esse enigma.
 !******************************!
 [7117030019000000:00d0070000023300000002b5010000]
 レイトン
 !******************************!
-<T>A porta está equipada com um enigma.
-Teremos que resolvê-lo para podermos
-entrar.
+<T>A porta possui um quebra-cabeça.
+Precisaremos resolvê-lo para poder abri-la.
 !******************************!
 [711703001c000000:00b80b000002000000000200020000]
 ルーク
 !******************************!
-<T><A3/2>Funcionou!
+<T><A3/2>Deu certo!
 !******************************!
 [711703001f000000:00c20b00000233000000021d020000]
 レイトン
 !******************************!
-<T><A1/2>Não faz sentido ficarmos parados
-aqui fora. Vamos em frente.
+<T><A1/2>Bem, não tem sentido ficar aqui fora.
+Vamos lá, vamos entrar.
 !******************************!

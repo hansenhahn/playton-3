@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000001a040000001a040000000100000000000000000000000000]
+n139
+!******************************!
+n139a
+!******************************!
+n139b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há seis sapos sentados em troncos.
+Faça-os saltar de modo que cada sapo
+esteja no tronco com a faixa respectiva
+de sua cor.
+Para isso, siga essas três regras:
+
+1. Os sapos podem pular para qualquer
+tronco adjacente vazio.
+2. Os sapos podem pular por cima de um
+sapo adjacente para ir a um tronco vago.
+3. Os sapos não podem pular por cima de
+dois sapo de uma vez.
+
+Agora manda ver!
+!******************************!
+[ec0b01000b000000:0276010000]
+Pula, pula sem- ué?!
+
+Pra onde eles foram?
+
+Será que eles foram se preparar
+para um ato musical acapella?
+!******************************!
+[ed0b01000c000000:02cc010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:02e1010000]
+Não pense muito além.
+
+Esse enigma não será confuso se você se
+acalmar e continuar fazendo os sapos
+pularem. É até divertido, né? Boing
+boing!
+
+Nem se preocupe tanto com as outras
+dicas. Só continue pulando!
+!******************************!
+[ef0b01000e000000:02a7020000]
+Esse enigma pode ser resolvido com
+15 movimentos. Eis os primeiros quatro:
+
+Vermelho, amarelo, branco, vermelho...
+!******************************!
+[f00b01000f000000:020d030000]
+Seguindo a Dica 2, eis os próximos
+seis movimentos:
+
+Preto, verde, amarelo, branco, vermelho,
+preto...
+
+Olha só! O lado direito está pronto!
+!******************************!
+[f10b010010000000:0299030000]
+Seguindo a Dica 3, eis os próximos
+três movimentos:
+
+Verde, amarelo, azul...
+
+Só mais dois movimentos. Você consegue!
+!******************************!

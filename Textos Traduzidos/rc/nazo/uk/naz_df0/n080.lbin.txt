@@ -1,0 +1,80 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n080
+!******************************!
+n080a
+!******************************!
+n080b
+!******************************!
+[eb0b01000a000000:0211000000]
+Cinco pessoas estão discutindo sobre
+suas habilidades de natação:
+{''}O segundo nadador mais rápido está
+próximo do maior nadador.{''}
+{''}Sou o maior de todos, mas não o mais
+rápido.{''}
+{''}Minha roupa é a mais bonita, mas eu
+não sou páreo contra o gigante do B.{''}
+{''}Sou o mais baixinho e vou terminar
+em quarto!{''}
+{''}Vou passar quem tá do meu lado
+pra ganhar!{''} 
+
+Quem é o nadador mais rápido?
+!******************************!
+[ec0b01000b000000:02a5010000]
+Certíssimo!
+
+O nadador D é o mais rápido.
+
+Natação é bem divertido, mas é bom
+se aquecer antes para não ter problemas.
+!******************************!
+[ed0b01000c000000:0214020000]
+Que azar!
+
+Preste atenção em cada frase que irá
+conseguir resolver essa problemática.
+
+!******************************!
+[ee0b01000d000000:0271020000]
+Vamos deixar claro algumas coisas: o
+mais baixo diz: {''}Vou terminar em
+quarto{''}. Olhe para os nadadores. O
+nadador A é o mais baixo, então ele irá
+terminar em quarto lugar.
+!******************************!
+[ef0b01000e000000:0222030000]
+{''}O segundo nadador mais rápido está
+próximo do maior nadador.{''}
+
+Bom, o B é claramente o maior, então
+essa frase pode falar sobre A ou C.
+Mas já que sabemos que o A terminará em
+quarto, então a nadadora C é a segunda.
+!******************************!
+[f00b01000f000000:0211040000]
+{''}Posso ser o maior de todos, mas de
+jeito algum sou o mais rápido.{''}
+
+Essa deve ser a frase do B. Já que
+descobrimos o segundo e quarto lugares,
+só nos resta o primeiro, terceiro e
+quinto. B claramente diz que não é o
+mais rápido, então ele deve ser o
+terceiro ou quinto. Só nos restam dois
+lugares para resolver!
+!******************************!
+[f10b010010000000:0257050000]
+{''}Minha roupa é a mais bonita, mas eu
+não sou páreo contra o gigante do B.{''}
+
+É questão de opinião, claro, mas
+o único vestindo uma roupa até que
+bonita ou estranha é o E.
+
+Você sabe que o B deve terminar em
+terceiro ou quinto. Com a frase do E,
+sabemos que B é o terceiro e E o quinto.
+
+Só sobrou um nadador, mas quem é ele?
+!******************************!

@@ -1,144 +1,144 @@
 [7017010000000000:0014000000]
 [7117030001000000:00010000000200000000021c000000]
-The Prime Minister's Speech
+O Discurso do Primeiro Ministro
 !******************************!
-Prime Minister Bill Hawks
-addresses the crowd at the
-time machine presentation,
-unsuspecting of what will follow...
+O primeiro ministro Bill Hawks
+fala com o público na apresentação
+da máquina do tempo, sem saber
+o que ia acontecer depois...
 !******************************!
 [7117030004000000:0002000000029000000002a2000000]
-Inside the Casino
+Dentro do Cassino
 !******************************!
-Layton and Luke arrive at the
-casino. Luke is amazed by the
-richness and glamour of his
-surroundings.
+Layton e Luke chegam no cassino.
+Luke se encanta com a riqueza
+e glamour presentes em seus
+arredores.
 !******************************!
 [7117030007000000:000300000002080100000212010000]
 Don Paolo
 !******************************!
-Don Paolo, the evil genius.
-In this story, however, he proved
-an invaluable ally to Layton,
-repeatedly rescuing our heroes.
+Don Paolo, o gênio do mal.
+Porém, nesta história, ele se prova
+um aliado valioso para Layton,
+resgatando nossos heróis várias vezes.
 !******************************!
 [711703000a000000:0004000000028e010000029f010000]
-Bostro's Threats
+As Ameaças de Bostro
 !******************************!
-Bostro, Future Layton's
-henchman, knocks Future Luke out
-of the way. He should have come
-prepared...
+Bostro, braço-direito do Layton
+do futuro, tira o Luke do
+futuro do caminho. Ele deveria
+vir preparado...
 !******************************!
 [711703000d000000:000500000002040200000211020000]
-Angry Bostro
+Bostro Enfurecido
 !******************************!
-Here's Bostro, Dimitri's most
-loyal henchman, looking
-characteristically grumpy.
+Eis Bostro, o capanga mais leal
+de Dimitri, parecendo com
+cara de poucos amigos.
 !******************************!
 [7117030010000000:00060000000262020000026e020000]
-Evil Layton
+Layton do Mal
 !******************************!
-An artist's impression of the evil
-Layton. No such character exists,
-fortunately!
+A impressão de um artista sobre o
+Layton do mal. Felizmente, essa
+personagem não existe!
 !******************************!
 [7117030013000000:000700000002c002000002d4020000]
-Catching the Parrot
+Pegando o Papagaio
 !******************************!
-Little Luke and Big Luke join
-forces to catch the parrot. They
-look like lifelong friends!
+O pequeno Luke e o grande Luke
+se juntam para pegar o papagaio.
+Parecem até amigos de longa data!
 !******************************!
 [7117030016000000:0008000000022f0300000242030000]
-Chelton and Barmey
+Chelton e Barmey
 !******************************!
-Chelton and Barmey... Even their
-vacant expressions are just the
-same!
+Chelton e Barmey... Até suas
+expressões parecem a mesma!
+
 
 !******************************!
 [7117030019000000:0009000000028a0300000295030000]
-The Statue
+A Estátua
 !******************************!
-A statue of a gentleman and a boy
-in a square in future London. It
-made Luke rather sentimental.
+A estátua de um cavalheiro e um garoto
+em uma praça da Londres do futuro.
+Fez o Luke se emocionar um pouco.
 !******************************!
 [711703001c000000:000a00000002f603000002ff030000]
-Sad Luke
+Luke Triste
 !******************************!
-Luke, feeling a little lonely.
-Professor Layton knew how to
-cheer him up, though, and their
-friendship will endure.
+Luke se sentindo sozinho.
+O Professor Layton sabia como
+animá-lo, e por isso a amizade
+dos dois permanece forte.
 !******************************!
 [711703001f000000:000b0000000273040000027b040000]
-Trapped
+Preso
 !******************************!
-A sweet baby rabbit, surrounded
-by frightening humans.
+Um doce bebê coelho, rodeado
+de humanos assustadores.
 !******************************!
 [7117030022000000:000c00000002b204000002c7040000]
-Horrific Experiments
+Experimentos Terríveis
 !******************************!
-The young rabbit being subjected
-to terrifying experiments, turning
-him into the bitter individual he
-is today.
+O pequeno coelhinho sendo submetido
+a experimentos terríveis, fazendo-o
+se tornar o indivíduo amargurado
+de hoje em dia.
 !******************************!
 [7117030025000000:000d00000002370500000249050000]
-Layton in Goggles
+Layton com Óculos
 !******************************!
-Professor Layton wearing
-Dimitri's memory scanner.
-Very fetching...
+Professor Layton usando o
+scanner de memória de Dimitri.
+Atraente até demais...
 !******************************!
 [7117030028000000:000e000000028d0500000298050000]
-Revelation
+Revelação
 !******************************!
-{''}You, sir, are a fraud!{''}
-Layton exposes the impostor
-who's posing as his future self.
+{''}Você, senhor, é uma fraude!{''}
+Layton expõe o impostor se
+passando por seu eu do futuro.
 !******************************!
 [711703002b000000:000f00000002f405000002fb050000]
-Saved!
+Salvo!
 !******************************!
-The real Professor Layton coming
-to his friends' rescue. This story
-has quite a few Laytons...
+O verdadeiro Professor Layton indo
+ao resgate de seus amigos. Esta
+história tem vários Laytons...
 !******************************!
 [711703002e000000:0010000000025a0600000264060000]
-Out Cold!
+Nocauteados!
 !******************************!
-Chelton and his {''}bruvver{''} Barmey,
-knocked out by a heavy crate.
+Chelton e seu {''}parceiro{''} Barmey,
+nocauteados por uma caixa pesada.
 !******************************!
 [7117030031000000:001100000002aa06000002b4060000]
-Cornered!
+Encurralados!
 !******************************!
-Bostro and his thugs corner our
-heroes in the sinister labs.
+Bostro e seus capangas encurralam
+nossos heróis nos laboratórios.
 !******************************!
 [7117030034000000:001200000002f10600000200070000]
-Flora's Rescue
+O Resgate de Flora
 !******************************!
-{''}I'm so glad to see you!{''}
-Layton and Luke rescue Flora.
+{''}Estou tão feliz em vê-los!{''}
+Layton e Luke resgatam Flora.
 !******************************!
 [7117030037000000:0013000000023e070000024d070000]
-Cornered Again
+Encurralados De Novo!
 !******************************!
-Layton, Luke and Flora in dire
-straits in the fortress
-surveillance room.
+Layton, Luke e Flora em maus
+lençóis na sala de segurança
+da fortaleza.
 !******************************!
 [711703003a000000:0014000000029707000002af070000]
-Flight From Underground
+Viagem do Centro da Terra
 !******************************!
-The people of the underground
-London being evacuated to the
-surface.
+As pessoas da Londres subterrânea
+sendo evacuadas para a superfície.
+
 !******************************!

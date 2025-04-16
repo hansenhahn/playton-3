@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000000000000000000000]
+n097
+!******************************!
+n097a
+!******************************!
+n097b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há dois longos fios que conectam o
+sensor cardíaco do primeiro ministro
+a um dispositivo de monitoramento!
+
+Em um único movimento, você consegue
+trocar os fios para conectar o relógio
+de bolso ao dispositivo?
+
+Troque duas peças para conectar os fios
+do dispositivo no topo da tela com o
+relógio de bolso no canto inferior
+direito.
+
+Dê o seu melhor!
+!******************************!
+[ec0b01000b000000:025b010000]
+Maravilhoso!
+
+Você conseguiu trocar os dispositivos!
+!******************************!
+[ed0b01000c000000:028b010000]
+Que pena!
+
+Lembre-se, você só pode trocar
+duas peças.
+
+Tem certeza que não mudou mais
+de duas peças?
+!******************************!
+[ee0b01000d000000:02f9010000]
+Você precisa trocar duas peças de lugar
+em um movimento só. Primeiro dê uma
+olhada em como os fios estão conectados.
+
+Encontre os fios que conectam o monitor
+(superior direito) ao sensor cardíaco do
+primeiro ministro (inferior esquerdo).
+!******************************!
+[ef0b01000e000000:02cc020000]
+Perceba que os dois fios saindo do
+relógio no canto inferior direito
+se conectam no meio. Preste bastante 
+atenção no caminho deles.
+!******************************!
+[f00b01000f000000:025f030000]
+Percebeu que só peças específicas podem
+ser trocadas com outras e ainda assim
+se conectarem? Fique de olho em peças
+que possuem ligações de fios e pontos
+de saída semelhantes.
+
+!******************************!
+[f10b010010000000:0206040000]
+Os dois blocos estão na terceira
+fileira. Preste bastante atenção.
+!******************************!

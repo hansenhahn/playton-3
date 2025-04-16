@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n168
+!******************************!
+n168a
+!******************************!
+n168b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este é o mecanismo de ignição da máquina
+do tempo! Para prevenir acidentes, foi
+incorporado um procedimento de segurança
+bem complicado.
+
+Para fazer a máquina funcionar, monte os
+blocos como se fosse um quadrado.
+Certifique-se de deixar o orbe vermelho
+no centro, na mesma posição abaixo.
+!******************************!
+[ec0b01000b000000:021d010000]
+Brilhante!
+
+A máquina está pronta para funcionar!
+!******************************!
+[ed0b01000c000000:0248010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:025d010000]
+Pense em como encaixar os blocos para
+fazer um quadrado antes de você começar
+a mexer neles. Se você não se planejar
+antes, não vai conseguir ir tão longe.
+!******************************!
+[ef0b01000e000000:02f0010000]
+Use a Função Notas para descobrir a
+posição correta de cada bloco. Existem
+quatro blocos pequenos em formato de L.
+Três deles são os cantos do quadrados.
+!******************************!
+[f00b01000f000000:0287020000]
+O bloco em formato de T fica no lado
+direito do quadrado, no meio de dois
+blocos pequenos em formato de L.
+
+O bloco em formato de S fica no meio,
+como se estivesse sentando no orbe.
+!******************************!
+[f10b010010000000:0228030000]
+O bloco em L do canto inferior esquerdo
+ficará um quadrado acima da sua posição
+original. O bloco em L maior vai logo
+abaixo dele, formando o canto inferior
+esquerdo do quadrado.
+!******************************!

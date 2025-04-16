@@ -1,0 +1,80 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000600000000f203000000f2030000000100000000010000000001000000]
+n018
+!******************************!
+n018a
+!******************************!
+n018b
+!******************************!
+[eb0b01000a000000:0211000000]
+O Dr. Schrader precisa tomar um quinto
+de seu remédio por dia em um período
+de cinco dias. Infelizmente, o frasco
+do remédio não possui a marcação de
+dosagem.
+
+O doutor já tomou a primeira dose e a
+quantia atual do remédio no frasco é
+mostrada acima no diagrama. Agora é
+hora da segunda dose.
+
+Até onde ele deve parar de tomar? Faça
+uma linha no frasco para marcar o ponto
+onde ele deve parar de tomar o remédio.
+!******************************!
+[ec0b01000b000000:02c3010000]
+É isso!
+
+Independentemente de que lado girar o
+frasco, você terá o mesmo resultado. Só
+certifique-se que o remédio pare na
+linha marcada.
+
+Olhando o diagrama, é possível ver que
+uma linha diagonal assim divide esse
+retângulo em dois. Já que o retângulo
+compõe dois quintos do remédio, dividi-
+-lo pela metade te dá a quantia certa!
+!******************************!
+[ed0b01000c000000:021c030000]
+Errado!
+
+Atente-se ao formato do frasco e
+descubra como achar a dosagem certa
+para o Dr. Schrader.
+!******************************!
+[ee0b01000d000000:0285030000]
+É fácil dividir o remédio em cinco doses
+vendo o frasco por baixo. Se cada
+quadrado contém uma dose, no primeiro
+dia você tomaria um quadrado, e no
+segundo tomaria mais um.
+
+!******************************!
+[ef0b01000e000000:0264040000]
+Não importa como você vira o frasco,
+não tem como deixar o remédio de modo
+que ele fique igual entre as linhas dos
+quadrados. Portanto, você precisa achar
+a dosagem certa dividindo-os de outro
+jeito. Por exemplo, você pode tentar
+combinar dois quadrados adjacentes e
+formar um retângulo, e então desenhar
+uma linha diagonal no meio. O triângulo
+resultante disso terá a mesma quantia
+do remédio como se fosse um quadrado.
+
+!******************************!
+[f00b01000f000000:020b060000]
+Tente criar os retângulos ditos na
+Dica 2. Você pode criar dois retângulos
+horizontal usando o quadrado central e
+os quadrados ao lado, tanto à esquerda
+quanto à direita.
+!******************************!
+[f10b010010000000:02ac060000]
+Você deve fazer uma linha no meio dos
+dois retângulos ditos na Dica 3.
+
+Pense no ângulo dessa linha.
+
+!******************************!

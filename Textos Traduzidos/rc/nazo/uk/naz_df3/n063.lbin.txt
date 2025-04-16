@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n063
+!******************************!
+n063a
+!******************************!
+n063b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Ninguém nunca conseguiu passar pelo
+Portão Intransponível! Tente se você se
+atreve. Chegue ao topo e então, deixarei
+você passar.{''}
+
+Deslize o Professor Layton e Luke até
+o quadrado de cima para resolver este
+enigma!
+!******************************!
+[ec0b01000b000000:02de000000]
+Incrível!
+
+{''}Você pode passar pelo portão.{''}
+!******************************!
+[ed0b01000c000000:0216010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:022b010000]
+Aquela peça verde sempre vai ficar no
+seu caminho. Você precisa achar um jeito
+de mover ela.
+
+Primeiro, mova o professor e Luke até a
+esquerda, depois mova a peça vermelha
+para baixo no canto direito. Agora mova
+a peça azul para o espaço aberto contra
+a parede da direita. E agora, o que
+fazer depois?
+!******************************!
+[ef0b01000e000000:0259020000]
+Seguindo a Dica 1, mova a peça laranja
+para baixo contra a peça azul para que
+elas se encaixem perfeitamente. Agora
+você pode mover aquela pecinha verde
+para a esquerda. Depois, mova a peça
+laranja para o espaço onde a peça verde
+estava. A peça verde agora está livre!
+
+!******************************!
+[f00b01000f000000:0265030000]
+Seguindo a Dica 2, mova a peça verde
+para baixo, deixando-a em cima da peça
+amarela. Agora mova a peça laranja para
+o quadrado de cima. Esse é o movimento-
+-chave. Agora mova a peça verde para
+cima...
+!******************************!
+[f10b010010000000:0232040000]
+Seguindo a Dica 3, mova a peça amarela
+acima do professor e Luke para que você
+possa movê-los para a esquerda e para
+cima. Depois mova a peça vermelha para
+baixo do professor e Luke e coloque
+as peças azul, amarela e verde no
+canto inferior direito.
+
+A única peça no caminho agora é a
+laranja no topo...
+
+!******************************!

@@ -1,0 +1,79 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n165
+!******************************!
+n165a
+!******************************!
+n165b
+!******************************!
+[eb0b01000a000000:0211000000]
+Crie uma equação válida colocando os
+números abaixo nos espaços de A a G.
+
+Nesse enigma, os dois dígitos à esquerda
+de cada sinal de dois pontos são minutos
+e os da direita são segundos.
+60 segundos contam como um minuto, mas
+você não pode passar de 60 minutos.
+!******************************!
+[ec0b01000b000000:0220010000]
+Correto!
+
+Multiplicando 18 minutos e 49 segundos
+por três dá 56 minutos e 27 segundos.
+Não foi tão difícil, não é?
+
+Nove é o único número que, quando
+multiplicado por três, resulta em um
+número que termina com sete, então é a
+única opção possível para o espaço D. Se
+o número no espaço A for maior que um, a
+resposta passará de 60 minutos, o que é
+uma restrição do enigma. O resto pode
+ser calculado passo a passo.
+!******************************!
+[ed0b01000c000000:02cd020000]
+Azar!
+
+Calcular o tempo não é tão
+fácil quanto parece.
+!******************************!
+[ee0b01000d000000:0217030000]
+Para início de conversa, o que
+você tem como fato até agora?
+
+Bem, você sabe que a minutagem de baixo
+termina em sete e a de cima multiplica
+por três, então o número que vai no
+espaço D quando multiplicado por três
+tem que terminar em sete! Só tem um
+número assim e ele é impar.
+!******************************!
+[ef0b01000e000000:0222040000]
+Nove vezes três = vinte e "sete".
+O nove fica no espaço D.
+
+Dois vezes três = seis. O que isso
+te indica sobre qual número colocar
+no espaço A?
+!******************************!
+[f00b01000f000000:02c3040000]
+Se o número do espaço A for maior que
+um, o tempo excederá 60 minutos (uma
+hora) quando multiplicado por três.
+O enigma indicou que 60 minutos
+não podem virar 1 hora, então o
+número um deve ficar no espaço A.
+
+Pense cuidadosamente sobre o resto e
+então conseguirá resolver. Ah, mais
+uma dica: o cinco fica no espaço E.
+
+!******************************!
+[f10b010010000000:020f060000]
+Última dica:
+
+Os números de cima são: um, quatro,
+oito e nove.
+
+O resto é cálculo a partir disso.
+!******************************!

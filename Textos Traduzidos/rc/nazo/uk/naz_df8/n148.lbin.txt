@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n148
+!******************************!
+n148a
+!******************************!
+n148b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa é uma conta escrita com palitos de
+fósforo. Em números romanos, é possível
+lê-la como: 1 + 11 = 10.
+
+Qual o número mínimo de fósforos a se
+mover para validar essa conta?
+!******************************!
+[ec0b01000b000000:02ca000000]
+Mandou muito bem!
+
+Isso mesmo, nenhum fósforo.
+
+Ao olhar a conta de ponta-cabeça, ela
+forma 10 = 9 + 1 em números romanos.
+
+A parte {''}número mínimo{''} talvez tenha
+te confundido em pensar em mover {''}pelo
+menos um fósforo{''}, mas {''}número mínimo{''}
+pode significar mover nenhum fósforo!
+!******************************!
+[ed0b01000c000000:02e9010000]
+Que pena!
+
+Mas na verdade, tem uma pegadinha aí...
+!******************************!
+[ee0b01000d000000:0215020000]
+Um lembrete sobre números romanos:
+
+I = 1, II = 2 e III = 3.
+
+IIII, contudo, não vale 4.
+
+IV = 4 e V = 5, então o I na frente
+do V significa cinco menos um.
+
+VI = 6, VII = 7 e VIII = 8.
+
+IX = 9, X = 10 e XI = 11.
+!******************************!
+[ef0b01000e000000:02f9020000]
+Você deve descobrir a resposta se
+entender bem a Dica 1 e se estiver
+disposto a olhar as coisas por
+outros pontos de vista.
+
+
+!******************************!
+[f00b01000f000000:0276030000]
+A Dica 2 só serve para te indicar
+a olhar as coisas por outras
+direções...
+!******************************!
+[f10b010010000000:02cd030000]
+Vire a conta de ponta-cabeça.
+
+Oras, que surpresa! Você não precisa
+mexer em nenhum palitinho. A conta
+se validou sozinha do jeito que está!
+!******************************!

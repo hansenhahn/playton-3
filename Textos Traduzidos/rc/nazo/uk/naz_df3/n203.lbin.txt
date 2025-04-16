@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n203
+!******************************!
+n203a
+!******************************!
+n203b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Fui esquiar semana passada e vi uma
+garota tão bonita, que tive que fazer um
+desenho dela{''}, disse um artista para
+seu amigo. {''}Olhe! Linda, não acha?{''}
+
+O amigo apontou ao desenho e respondeu:
+{''}Err... Olha, eu não diria que esse
+nariz seja lindo, mas... desenho bonito, 
+de qualquer forma.{''}
+
+Do que o amigo está falando? Circule o
+lugar no desenho e aperte em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:02ab010000]
+Bem no local certo!
+
+Dependendo de como você olha, o
+desenho pode parecer uma linda e jovem
+mulher ou um homem de meia-idade!
+
+O amigo pensou ter visto um nariz
+gigante no lugar do cabelo da mulher.
+!******************************!
+[ed0b01000c000000:0277020000]
+Azar!
+
+O amigo está olhando o desenho de um
+jeito diferente que o artista.
+
+Mude sua perspectiva para ver se
+descobre do que ele está falando.
+!******************************!
+[ee0b01000d000000:0217030000]
+Se o desenho fosse colorido, não teria
+como confundir a mulher.
+
+Procure algo que remeta um homem com um
+bigode no desenho. Depois procure por
+seu nariz...
+!******************************!
+[ef0b01000e000000:02b5030000]
+
+!******************************!
+[f00b01000f000000:02b6030000]
+
+!******************************!
+[f10b010010000000:02b7030000]
+
+!******************************!

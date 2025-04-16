@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n124
+!******************************!
+n124a
+!******************************!
+n124b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa foto mostra a superfície de um lago
+alguns segundos depois de alguém jogar
+algumas pedrinhas.
+
+Supondo que nenhuma pedrinha foi jogada
+no mesmo lugar, quantas pedrinhas foram
+jogadas? Todas as ondinhas da foto
+surgiram das pedrinhas.
+!******************************!
+[ec0b01000b000000:0209010000]
+Uma onda de aplausos a você!
+
+Seis pedrinhas foram jogadas no lago.
+!******************************!
+[ed0b01000c000000:0247010000]
+Errado!
+
+Tente usar a Função Notas para te ajudar
+a descobrir de onde as ondas estão
+surgindo.
+!******************************!
+[ee0b01000d000000:02a9010000]
+Ondas com o mesmo centro surgiram
+da mesma pedrinha, não importa de
+que tamanho as ondas são.
+!******************************!
+[ef0b01000e000000:020f020000]
+Aqui vai outro jeito de pensar na
+Dica 1: o número de pedrinhas jogadas
+no lago equivale ao mesmo número de
+pontos centrais.
+!******************************!
+[f00b01000f000000:0287020000]
+Se você acha que só quatro pedrinhas
+foram jogadas, olhe mais de perto.
+
+Já percebeu a ondinha maior,
+por exemplo?
+!******************************!
+[f10b010010000000:02ff020000]
+A onda maior vai de cima para baixo
+no meio da foto. É bem fácil de confundir
+ela com uma onda vinda da pedra que
+caiu no canto inferior esquerdo, mas
+na verdade ela tem um ponto central
+diferente.
+
+Agora, tem mais alguma além dessa?
+!******************************!

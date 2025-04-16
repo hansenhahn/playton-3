@@ -2,36 +2,36 @@
 [7117030001000000:006400000002000000000201000000]
 
 !******************************!
-This stop lies at the bottom of
-the quaint, winding Midland Road.
+Esse ponto de ônibus fica na
+charmosa e sinuosa Midland Road.
 !******************************!
 [7117030004000000:006500000002430000000244000000]
 
 !******************************!
-This is the stop all the students
-use when they go to the university.
+Esse ponto de ônibus é o que os
+alunos usam para ir à universidade.
 !******************************!
 [7117030007000000:0066000000028a000000028b000000]
 
 !******************************!
-This is the stop for Scotland Yard,
-headquarters of the London police.
+Esse é o ponto de ônibus para Scotland
+Yard, o QG da polícia de Londres.
 !******************************!
 [711703000a000000:00c800000002d200000002d3000000]
 
 !******************************!
-This station is often used by
-patrons of the Gilded 7 Casino.
+Esta estação é geralmente usada
+pelos patronos do Cassino 7 Dourado.
 !******************************!
 [711703000d000000:00c900000002110100000212010000]
 
 !******************************!
-This stop is conveniently located
-right in front of Green Hospital.
+Este ponto convenientemente fica
+bem na frente do Hospital Green.
 !******************************!
 [7117030010000000:00ca00000002560100000257010000]
 
 !******************************!
-This station is situated in the
-heart of exotic Chinatown.
+Esta estação fica no coração da
+exótica Chinatown.
 !******************************!

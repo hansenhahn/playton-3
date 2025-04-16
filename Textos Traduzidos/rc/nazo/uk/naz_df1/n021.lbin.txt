@@ -6,66 +6,66 @@ n021a
 n021b
 !******************************!
 [eb0b01000a000000:0211000000]
-Here are five numbered stamps. 
-Stamp the numbers into the blank spaces
-to complete the equation. Only one digit
-can fit into each blank space, and you
-must use the lowest possible number of
-stamps.
+Use os cinco carimbos de números nos
+espaços vazios e complete a equação.
+Só um dígito pode caber em cada espaço
+vazio, e você deve usar o menor número
+possível de carimbos.
 
-Select the stamps that you need to use,
-then touch <CR>Submit</C>.
+Escolha os carimbos que devem ser
+usados, e então toque em <CR>Enviar</C>.
 
 !******************************!
 [ec0b01000b000000:021d010000]
-That's right!
+Certa resposta!
 
-The stamps you need to use are 3 and 6.
+Só os carimbos 3 e 6 são necessários.
 
-If you rotate the 6 stamp, you can use it
-as a 9. You can then use the 3 stamp
-three times, so you can complete this
-equation using only two stamps.
+Se você girar o 6, você pode usá-lo
+como um 9. Então, é só usar o 3 três
+vezes, para completar a equação usando
+apenas dois carimbos.
 !******************************!
 [ed0b01000c000000:02ea010000]
-Too bad.
+Que pena.
 
-Take a close look at all five stamps.
+Dê uma boa olhada nos cinco carimbos.
 !******************************!
 [ee0b01000d000000:021a020000]
-You need to add up three single-digit
-numbers to get another single-digit
-number.
+Você precisa somar três números de um
+dígito para ter outro número de um
+dígito.
 
-Think of all the ways you could do this
-using the five numbers on the stamps.
+Pense em todas as formas possíveis de
+se fazer isso usando os números dos
+carimbos.
 !******************************!
 [ef0b01000e000000:02bb020000]
-Remember that you need to use the
-lowest possible number of stamps to
-complete the equation. Using the same
-stamp more than once reduces the total
-number of stamps that you use.
+Lembre-se: você precisa usar o menor
+número possível de carimbos para
+completar a equação. Usar o mesmo
+carimbo mais de uma vez reduz o número
+de carimbos que você usa.
 !******************************!
 [f00b01000f000000:026d030000]
-You can't make the equation work out
-using only the five numbers:
-3, 4, 5, 6, 7
+Não dá para resolver a equação usando
+apenas os cinco números:
+3, 4, 5, 6, 7.
 
-Be aware that you're using stamps,
-not writing the numbers.
-See if you can use the stamps in
-different ways to produce different
-numbers.
+Atente-se ao fato de que você está
+carimbando os números, não escrevendo.
+Veja se é possível usar os carimbos
+de maneira diferente para poder usar
+números diferentes.
 !******************************!
 [f10b010010000000:0248040000]
-These stamps don't have a defined top,
-bottom, right or left.
+Não há uma posição definida para estes
+carimbos.
 
-One of the five stamps can be rotated
-180 degrees to produce a different
-number. If you put that number on the
-right side of the equation, then
-you'll have no trouble working out
-what goes on the left.
+Um dos carimbos pode ser girado em
+180 graus para formar um número
+diferente. Colocando esse número no
+lado direito da equação te ajuda a
+pensar no que precisa ser colocado
+no lado esquerdo.
 !******************************!

@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n066
+!******************************!
+n066a
+!******************************!
+n066b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você está vendo agora duas imagens
+circulares, uma em cada olho.
+Originalmente, cada imagem se manteve
+a mesma, mas uma delas foi invertida,
+espelhada e girada diversas vezes.
+Todas as formas presentes estão
+inalteradas e continuam a mesma que
+nem na imagem original, com a exceção
+de uma que foi levemente alterada.
+
+Circule a forma alterada.
+!******************************!
+[ec0b01000b000000:0273010000]
+Incrível!
+
+A resposta é a forma G. Fácil ser
+enganado pela inversão, mas se prestar
+atenção na relação das formas e seus
+eixos, a resposta fica bem fácil de
+se achar.
+!******************************!
+[ed0b01000c000000:022d020000]
+Errado!
+
+Preste bastante atenção. Talvez você
+tenha deixado algo passar.
+!******************************!
+[ee0b01000d000000:0268020000]
+Compare cada forma isoladamente.
+
+Se você pensar cuidadosamente em como
+elas se parecem invertidas, não deve
+ser tão difícil.
+!******************************!
+[ef0b01000e000000:02df020000]
+Algumas formas se mantém do mesmo
+jeito quando invertidas. Você pode
+descartar elas para facilitar.
+!******************************!
+[f00b01000f000000:024a030000]
+Será que algumas formas parecem ser
+invertidas só porque toda a imagem
+foi girada?
+
+Não seja enganado pela rotação.
+!******************************!
+[f10b010010000000:02cd030000]
+É uma forma circular.
+!******************************!

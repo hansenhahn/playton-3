@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000b00000000f203000000f2030000000100000000000000000000000000]
+n134
+!******************************!
+n134a
+!******************************!
+n134b
+!******************************!
+[eb0b01000a000000:0211000000]
+Mais uma vez você tem uma tábua de
+madeira com formato estranho.
+
+Como sabe, a melhor solução seria cortar
+a tábua em dois pedaços e formar um
+quadrado com os pedaços combinados.
+
+Também, por causa da textura da madeira,
+as duas peças não podem ser viradas ou
+giradas depois de serem cortadas.
+
+Desenhe as linhas onde a tábua deve ser
+cortada, e toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:025f010000]
+Solução afiada!
+
+Um rearranjo bem interessante, não é?
+!******************************!
+[ed0b01000c000000:0298010000]
+Que pena!
+
+Se concentre em como irá preencher
+esse vão de três quadrados.
+!******************************!
+[ee0b01000d000000:02db010000]
+Você não precisa cortar nada
+no lado esquerdo da tábua.
+!******************************!
+[ef0b01000e000000:021a020000]
+O vão mede três quadrados. Para
+preenchê-lo, você precisa achar uma
+parte onde você possa cortar um pedaço
+da mesma forma do vão.
+
+Ache uma forma que tenha a protuberância
+da direita que você possa cortar para
+preencher o vão de três quadrados.
+!******************************!
+[f00b01000f000000:0202030000]
+Você precisa fazer dois cortes separados
+para ter a peça certa: uma linha curta
+de um quadrado e uma linha longa de
+quatro quadrados que dê duas curvas.
+
+Assim que fizer os cortes, coloque a peça
+um quadrado acima e dois quadrados à
+esquerda e ela irá encaixar de forma a
+criar o quadrado!
+!******************************!
+[f10b010010000000:021e040000]
+O quadrado de cima da protuberância em
+forma de L será incluída na peça que você
+cortou. Inclua os dois quadrados à
+esquerda na parte que você está cortando
+também. Agora combine esses três
+quadrados com os outros dois da forma em
+L, e você terá um pedaço com cinco
+quadrados!
+Termine de cortar essa forma e você
+terá a sua resposta!
+!******************************!

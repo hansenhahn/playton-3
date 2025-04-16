@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000006a040000006a040000000100000000000000000000000000]
+n045
+!******************************!
+n045a
+!******************************!
+n045b
+!******************************!
+[eb0b01000a000000:0211000000]
+Mova os blocos vermelho e azul para
+os espaços de mesma cor. Toque os
+botões abaixo para girar o quadro
+em 90 graus para cada direção indicada.
+Os blocos caem para baixo se não há
+nada abaixo deles.
+
+Boa sorte!
+!******************************!
+[ec0b01000b000000:02df000000]
+Excelente!
+
+Você fez em quantos movimentos?
+Consegue fazer em cinco?
+!******************************!
+[ed0b01000c000000:0221010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:0240010000]
+Gire a placa um tanto de vezes e
+você com certeza conseguirá uma hora!
+!******************************!
+[ef0b01000e000000:0287010000]
+Pense em mover primeiro o bloco
+azul. Tudo irá começar a fazer
+sentido para você após isso.
+!******************************!
+[f00b01000f000000:02e6010000]
+Se estiver tendo problemas, talvez
+você fique com vontade de reiniciar
+o enigma, mas não se entregue a essa
+vontade e continue girando a placa!
+!******************************!
+[f10b010010000000:026e020000]
+Gire a placa cinco vezes para uma
+certa direção...
+!******************************!

@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n114
+!******************************!
+n114a
+!******************************!
+n114b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você precisa pintar uma pirâmide feita de
+21 peças circulares de madeira. Você tem
+três cores para usar: vermelho, azul e
+amarelo.
+Antes de você fazer qualquer coisa, há
+uma regra importante a se seguir: não se
+pode pintar duas peças de madeira que
+estejam próximas com a mesma cor.
+
+Uma peça já foi pintada de vermelho. Se
+você seguir essa regra e terminar de
+pintar a pirâmide, qual será a cor da
+peça A? Circule a lata de tinta da cor
+que você julga ser a correta.
+!******************************!
+[ec0b01000b000000:02f2010000]
+Na mosca!
+
+A imagem acima mostra dois jeitos de
+pintar a pirâmide inteira seguindo essa
+regra. Perceba que qualquer um resulta
+na peça A sendo vermelha. Legal, né?
+!******************************!
+[ed0b01000c000000:029f020000]
+Azar!
+
+Não pense muito. Só há uma
+resposta correta.
+!******************************!
+[ee0b01000d000000:02dc020000]
+Há mais de um jeito de pintar a pirâmide,
+mas a peça A será pintada da mesma cor
+não importa o que você fizer.
+!******************************!
+[ef0b01000e000000:0253030000]
+Não esqueça da incrível Função Notas.
+Você pode usar três cores diferentes
+para te ajudar a resolver.
+!******************************!
+[f00b01000f000000:02bd030000]
+Há dois jeitos possíveis de pintar a
+pirâmide seguindo essa regra. A ordem
+de azul e amarelo ao redor da peça
+vermelha original pode ser trocada.
+
+!******************************!
+[f10b010010000000:025d040000]
+Você aprendeu na Dica 3 que a ordem
+das peças azuis e amarelas pode ser
+trocada, o que quer dizer que a posição
+de uma cor ficará fixa...
+!******************************!

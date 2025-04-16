@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000004c040000004c040000000100000000000000000000000000]
+n062
+!******************************!
+n062a
+!******************************!
+n062b
+!******************************!
+[eb0b01000a000000:0211000000]
+Tigelas de macarrão e macarrão de porco,
+mais uma vez, estão alinhados no balcão.
+
+Alinhe-os de forma que as tigelas se
+alternem entre o normal e o de porco,
+mas mantenha-os igualmente espaçados.
+
+Qual o número mínimo de movimentos a
+fazer para cumprir essa tarefa?
+
+Novamente, trocar duas tigelas de
+lugar conta como dois movimentos!
+
+!******************************!
+[ec0b01000b000000:027e010000]
+Isso é que é usar a cabeça!
+
+É só mover um macarrão de porco de
+uma tigela para a outra!
+!******************************!
+[ed0b01000c000000:02c6010000]
+Que azar.
+
+As tigelas estão espaçadas igualmente?
+!******************************!
+[ee0b01000d000000:02ed010000]
+Não é a mesma coisa da última vez?
+
+Para falar a verdade, não. É um pouco
+diferente. Não tenha medo em tentar
+coisas diferentes.
+!******************************!
+[ef0b01000e000000:0267020000]
+Uma tigela de macarrão. Uma tigela de
+macarrão de porco. Qual é a diferença
+entre os dois pratos?
+
+Mexa um pouco com a sua stylus e
+veja o que você descobre...
+!******************************!
+[f00b01000f000000:0210030000]
+Eita! Dá para mover o porco?!
+!******************************!
+[f10b010010000000:0233030000]
+Contando da esquerda para a direita,
+mova o porco da quarta tigela para a
+quinta. E... é isso!
+
+Agora, isso levou quantos movimentos?
+!******************************!

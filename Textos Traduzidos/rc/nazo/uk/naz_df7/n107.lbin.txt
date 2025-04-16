@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000600400000060040000000100000000000000000000000000]
+n107
+!******************************!
+n107a
+!******************************!
+n107b
+!******************************!
+[eb0b01000a000000:0211000000]
+Testemunhas te falaram sobre um trio
+deveras misterioso. Eles usavam roupas
+vermelhas, brancas e verdes, mas não
+iguais. Aqui está o que as testemunhas
+disseram:
+{''}Os homens usavam jaquetas da mesma cor.{''}
+{''}Dois deles usavam calças brancas.{''}
+{''}O homem mais alto usava um chapéu
+branco.{''}
+{''}A jaqueta da mulher era verde.{''}
+
+Toque as roupas do trio para mudar suas
+cores para combinar com o que as
+testemunhas disseram.
+!******************************!
+[ec0b01000b000000:02cb010000]
+Impressionante!
+
+Para um trio misterioso, as roupas deles
+são bem chamativas.
+!******************************!
+[ed0b01000c000000:0216020000]
+Errado!
+
+Comece com o que você já sabe e o resto
+não deve ser tão difícil.
+!******************************!
+[ee0b01000d000000:026b020000]
+Você já sabe que o homem mais alto usava
+um chapéu branco e a mulher usava uma
+jaqueta verde. Você começa a partir
+daí.
+
+Você também sabe que ambos os homens
+vestem jaquetas da mesma cor. Qual
+deve ser a cor deles?
+!******************************!
+[ef0b01000e000000:023e030000]
+O mais alto usa um chapéu branco. Então
+as jaquetas dos homens não podem ser
+brancas.
+
+Dois dos meliantes usam calças brancas,
+e você já sabe que o mais alto não é
+um deles.
+
+Agora que você sabe quais dos dois usam
+calça branca, tente descobrir o resto.
+
+!******************************!
+[f00b01000f000000:024a040000]
+A jaqueta da mulher é verde e a calça
+dela é branca. Portanto, o chapéu dela
+deve ser vermelho.
+
+Lembre-se, todos estão usando as mesmas
+cores, mas nenhum deles usa a mesma
+combinação de roupas. Tenha isso em
+mente e você ficará tranquilo!
+!******************************!
+[f10b010010000000:022e050000]
+Você sabe que o homem do meio usa calças
+brancas. Portanto, para evitar usar a
+mesma combinação da mulher, o chapéu
+dele precisa ser verde e a jaqueta
+precisa ser vermelha.
+
+Preencha todas essas cores e você
+resolverá esse enigma rapidamente!
+!******************************!

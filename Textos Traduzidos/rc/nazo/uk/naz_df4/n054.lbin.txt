@@ -1,0 +1,66 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n054
+!******************************!
+n054a
+!******************************!
+n054b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse mercado vende apenas produtos por
+{po}1, {po}2 ou {po}3. Se você comprar
+dois produtos iguais, você compra um
+terceiro pela metade do preço.
+
+Você comprou seis produtos e pagou
+{po}9.50. Quantos produtos de {po}1,
+{po}2 e {po}3 você comprou? Tenha em mente
+que você comprou pelo menos um de cada.
+
+Alinhe os produtos da esquerda para a
+direita para mostrar quantos de cada você
+comprou.
+!******************************!
+[ec0b01000b000000:0261010000]
+Esplêndido!
+
+Você comprou três produtos de {po}1, dois
+de {po}2 e um de {po}3. Para conseguir os
+50 pence restantes, você teria que comprar
+ou os produtos de {po}1 ou os de {po}3 -
+apesar de que a última opção faria você
+passar do limite. Mas você já sabia
+disso, não é?
+!******************************!
+[ed0b01000c000000:026f020000]
+Errado!
+
+O ponto-chave é considerar os 0.50
+no total pago.
+!******************************!
+[ee0b01000d000000:02ba020000]
+O valor total pago possui uma fração.
+É por aí que você tem que começar a
+pensar.
+!******************************!
+[ef0b01000e000000:0219030000]
+Os produtos que geram uma fração pela
+metade do preço são os de {po}1 e {po}3.
+Lembre-se das condições para ter
+o desconto da metade do preço.
+!******************************!
+[f00b01000f000000:02a8030000]
+Se você comprar três produtos de {po}3,
+você vai passar de {po}9.50. Você deve
+comprar o produto de {po}1 se quiser
+os 50 pences.
+!******************************!
+[f10b010010000000:023f040000]
+Suas compras custam {po}9.50 no total.
+Se você não comprar no mínimo três do
+mesmo produto, você não terá os 50 pence.
+Se você comprar três do produto de {po}1,
+você terá um total de {po}2.50.
+
+Você ainda precisará comprar produtos que
+valem {po}7, então pense bem.
+!******************************!

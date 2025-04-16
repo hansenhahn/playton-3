@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000010000000000000000]
+n094
+!******************************!
+n094a
+!******************************!
+n094b
+!******************************!
+[eb0b01000a000000:0211000000]
+O chão abaixo é feito por 24 pisos. Ele
+foi feito especialmente para que os pisos
+caiam pelo caminho, um a um, até todos
+terem caído.
+
+Assim que o primeiro piso cai, um que
+seja adjacente cai, depois outro próximo,
+e assim vai, seguindo esses naipes: Copas,
+Espadas, Ouros e Paus. Porém, o primeiro
+piso a cair não necessariamente é Copas.
+
+Se você encontrar o último piso a cair,
+você irá impedir esse chão de desaparecer!
+Toque no último piso e aperte <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:0200020000]
+Bingo!
+
+Ótimo trabalho!
+!******************************!
+[ed0b01000c000000:021e020000]
+Errado!
+
+Se você não achar esse piso,
+o chão vai desaparecer para sempre!
+
+Melhor tentar de novo.
+!******************************!
+[ee0b01000d000000:028a020000]
+Tente pegar um piso qualquer para
+começar e veja até onde você consegue ir.
+Você deve encontrar um caminho que faça
+todos os pisos caírem.
+!******************************!
+[ef0b01000e000000:0218030000]
+Se chegar em um beco sem saída sem
+passar por todos os pisos, vai precisar
+ou começar de um piso diferente ou tentar
+ir para outra direção..
+!******************************!
+[f00b01000f000000:02ad030000]
+O primeiro piso a cair é de Ouros.
+
+O último piso é de Espadas.
+!******************************!
+[f10b010010000000:02fb030000]
+Um dos pisos de Espadas da segunda coluna
+da esquerda é o último piso a cair.
+
+!******************************!

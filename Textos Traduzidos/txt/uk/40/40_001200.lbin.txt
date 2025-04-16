@@ -2,1394 +2,1393 @@
 [7117030001000000:000100000002000000000211000000]
 Professor Layton
 !******************************!
-Though his main passions
-are solving puzzles and
-enjoying a nice cup of
-tea, Hershel Layton is
-also a highly regarded
-archaeology professor.
-His most prized
-possession is the top
-hat that was given to
-him by his sweetheart,
-Claire.
+Apesar de sua paixão ser
+resolver enigmas e
+degustar xícaras de chá,
+Hershel Layton também é
+um renomado professor de
+arqueologia.
+Sua posse mais preciosa
+é a cartola dada para ele
+por sua amada, Claire.
 !******************************!
 [7117030004000000:000200000002f900000002fe000000]
 Luke
 !******************************!
-The professor's self-
-proclaimed apprentice,
-Luke is a very bright
-boy with puzzle-solving
-skills that rival an
-adult's. His ability to
-talk to animals has been
-the saviour of more
-than one investigation
-and his appetite is
-legendary.
+Auto-proclamado aprendiz
+do professor, Luke é um
+garoto brilhante com
+habilidades invejáveis
+de resolver enigmas.
+Sua habilidade de falar
+com animais já salvou
+mais de uma investigação
+e seu apetite é uma
+das coisas mais
+fascinantes já vistas.
 !******************************!
 [7117030007000000:000300000002e901000002ef010000]
 Flora
 !******************************!
-Layton's prot{'e}g{'e}e and
-devoted follower, Flora
-refuses to be left
-behind on the professor
-and Luke's expeditions.
-Her cooking has been
-known to turn stomachs,
-but it seems to have
-improved a bit recently.
+Pupila e seguidora devota
+de Layton, Flora se
+recusa a ser deixada para
+trás nas expedições do
+professor e Luke. Sua 
+habilidade na cozinha não
+parece muito agradável a
+todos, mas parece que ela
+melhorou recentemente.
 !******************************!
 [711703000a000000:000400000002c102000002cb020000]
 Don Paolo
 !******************************!
-A brilliant scientist who
-believes himself to be
-Layton's arch-nemesis.
-Don Paolo's appearance
-changed forever when
-he found out that the
-girl he loved, Claire, was
-seeing Hershel Layton.
-His skill as an inventor
-is matched only by his
-mastery of disguise.
+Um cientista brilhante
+que acredita ser um
+arqui-inimigo de Layton.
+A aparência de Paolo
+mudou quando descobriu
+que a garota que amava,
+Claire, estava saindo
+com Hershel Layton.
+Suas habilidades de
+invenção se equiparam
+apenas a seus disfarces.
 !******************************!
 [711703000d000000:000500000002cc03000002de030000]
-Inspector Chelmey
+Inspetor Chelmey
 !******************************!
-The mere mention of
-Inspector Chelmey has
-the London underworld
-quaking in its boots.
-His strong sense of
-justice means he will do
-whatever it takes to
-put criminals behind
-bars, but at home with
-his wife he is the model
-of a loving husband.
+Uma simples menção do
+Inspetor Chelmey faz
+o submundo de Londres
+tremer como vara verde.
+Seu forte senso de
+justiça faz com que ele
+tente tudo que possa para
+prender criminosos, mas
+em casa com sua esposa,
+ele é um marido bastante
+amoroso.
 !******************************!
 [7117030010000000:000600000002d004000002d7040000]
 Barton
 !******************************!
-A placid bon vivant,
-Constable Barton is
-the perfect foil for
-Inspector Chelmey.
-His love of the chase is
-dampened only by his
-recurring hunger pangs,
-which he satisfies by
-frequent visits to the
-canteen for a snack.
+Um bon-vivant calmo,
+o policial Barton é
+o contraste perfeito
+do Inspetor Chelmey.
+Seu amor por perseguições
+é atenuado por suas dores
+recorrentes de fome,
+as quais ele satisfaz com
+visitas frequentes à
+cantina para um petisco.
 !******************************!
 [7117030013000000:000700000002b005000002bc050000]
-Future Luke
+Luke do Futuro
 !******************************!
-An older version of
-Luke from 10 years in
-the future. Future Luke
-requests Layton's help
-in eradicating the evil
-rampant in his London.
-Though more grown-up
-than Luke, he retains a
-genuine love of puzzles.
-He is later revealed to
-be Clive in disguise.
+Uma versão mais velha
+de Luke de 10 anos no
+futuro. Ele pede a 
+ajuda de Layton para
+erradicar o mal que
+prevalece em sua Londres.
+Mais crescido que
+Luke, ainda mantém um
+amor genuíno por enigmas.
+Mais tarde, é revelado
+que ele se chama Clive.
 !******************************!
 [7117030016000000:000800000002b806000002c0060000]
 Celeste
 !******************************!
-A young woman who
-claims to be Claire's
-sister, Celeste has
-taken it upon herself
-to solve the mystery
-of her sister's death,
-scouring the future
-London in search of
-clues. It is finally
-revealed that she is
-in fact Claire herself.
+Uma jovem que se diz
+ser a irmã de Claire,
+Celeste se dispôs a
+resolver o mistério
+da morte de sua irmã,
+explorando a Londres
+do futuro em busca de
+pistas. No fim, ela
+se revela como, na
+verdade, a própria
+Claire.
 !******************************!
 [7117030019000000:000900000002a807000002b6070000]
 Dimitri Allen
 !******************************!
-A researcher in the
-field of time travel,
-Dimitri's love for Claire
-was all-consuming,
-driving him to abduct
-scientists in order to
-develop a time machine.
-His genius is undisputed
-but, blinded by a desire
-for revenge, he became
-a pawn in Clive's plans.
+Um pesquisador na
+área de viagem no tempo,
+seu amor por Claire
+era avassalador,
+levando-o a raptar
+cientistas para que
+criassem uma máquina do
+tempo. Seu gênio é
+indiscutível, mas cegado
+pelo desejo de vingança,
+ele acabou se tornando um
+peão nos planos de Clive.
 !******************************!
 [711703001c000000:000a00000002b408000002bf080000]
 Bill Hawks
 !******************************!
-The prime minister of
-the United Kingdom, Bill
-once worked with Dimitri
-on the development of a
-time machine, but
-betrayed his colleague,
-allowing him to rise
-to his current position.
-Even after being
-abducted by Dimitri, Bill
-remains unremorseful.
+Primeiro Ministro do
+Reino Unido, Bill uma
+vez trabalhou com Dimitri
+na criação de uma máquina
+do tempo, mas traiu seu
+colega, o que fez ele
+subir ao cargo que
+ocupa atualmente.
+Mesmo após ser raptado
+por Dimitri, Bill se
+mantém impenitente.
 !******************************!
 [711703001f000000:000b00000002b809000002bf090000]
 Spring
 !******************************!
-When she's not working
-in the clock shop,
-Spring is a shameless
-celebrity follower who
-knows all about
-everyone who's anyone.
-She's a dab hand at
-embroidery, but is often
-rudely interrupted by
-Cogg turning the lights
-off for his own work.
+Quando não está a
+trabalho na relojoaria,
+Spring é uma seguidora
+descarada de estrelas,
+que sabe tudo sobre
+sobre os famosos.
+Ela é incrível com
+bordados, mas muitas
+vezes Cogg a interrompe
+desligando as luzes
+para seu trabalho.
 !******************************!
 [7117030022000000:000c00000002ae0a000002b30a0000]
 Cogg
 !******************************!
-Cogg the clock shop
-owner was once a
-lackey at the Dove
-household. Clive's
-plan led him to develop
-a genuine passion for
-clocks, to the extent
-that all the clocks in
-the shop are Cogg's
-handiwork - except the
-giant one, of course.
+Cogg, dono da relojoaria,
+foi servente na casa
+da família Dove. O
+plano de Clive fez ele
+criar uma paixão
+por relógios, que se
+mostra em todos os
+relógios presentes na
+relojoaria, feitos a
+mão por Cogg - exceto
+o maior, claro.
 !******************************!
 [7117030025000000:000d000000029a0b000002aa0b0000]
-Future Schrader
+Schrader do Futuro
 !******************************!
-An impersonation of
-Dr Schrader by Don
-Paolo, his former
-student. The likeness
-was perfect, but the
-Don was unable to
-resist taking a sly dig
-at his great rival and
-Dr Schrader's favourite
-student, Hershel Layton.
+Uma imitação do Dr.
+Schrader feita por
+Don Paolo, seu antigo
+aluno. A aparência era
+impecável, mas Don não
+pôde resistir de provocar
+seu grande rival e aluno
+favorito do Dr. Schrader,
+Hershel Layton.
 
 !******************************!
 [7117030028000000:000e00000002810c000002900c0000]
-Future Delmona
+Delmona do Futuro
 !******************************!
-A fake future Dean
-Delmona staying at
-the hotel, he is really
-Don Paolo in disguise.
-He gave himself white
-hair to indicate that
-Delmona had aged 10
-years, but this subtle
-touch was what gave him
-away.
+Um falso Dean Delmona
+do futuro no hotel,
+que na verdade, é Don
+Paolo disfarçado. Ele
+colocou cabelos brancos
+para indicar que Delmona
+envelheceu 10 anos,
+mas foi esse detalhe
+que acabou entregando
+seu disfarce.
 !******************************!
 [711703002b000000:000f000000025a0d000002620d0000]
 Shipley
 !******************************!
-Shipley is the postman
-who delivered the letter
-from the future to
-Layton. He was once
-quite slender but his
-love of the fine cuisine
-at the restaurant has
-left him somewhat the
-plumper. He started out
-as a gardener at the
-Dove household.
+Shipley é o carteiro
+que entregou a carta
+do futuro para Layton.
+Layton. Ele já foi um
+cara bem esbelto, mas
+seu amor pela cozinha
+dos restaurantes fez
+ele engordar mais.
+Ele começou a trabalhar
+de jardineiro na casa
+da família Dove.
 !******************************!
 [711703002e000000:001000000002510e000002620e0000]
-Granny Riddleton
+Vovó Riddleton
 !******************************!
-Puzzle savante Granny
-Riddleton used to store
-puzzles that Luke and
-Layton missed on their
-adventures, but she has
-passed on these duties
-to her granddaughter
-Puzzlette and gone off
-on holiday. The elusive
-lady now pops up in the
-most unexpected places.
+A sábia Vovó Riddleton
+costumava guardar os
+enigmas perdidos por
+Luke e Layton em suas
+aventuras, mas ela
+passou o bastão para
+sua netinha, Puzzlette
+e saiu de férias. Esta
+senhora fugaz agora surge
+nos lugares mais malucos.
 !******************************!
 [7117030031000000:001100000002600f0000026a0f0000]
 Puzzlette
 !******************************!
-Puzzlette is Granny
-Riddleton's
-granddaughter and
-her successor as the
-guardian of missed
-puzzles. She is an
-innocent girl with a kind
-of na{:i}ve ruthlessness.
-She sounds a bit dozy,
-but there could be more
-than meets the eye...
+Puzzlette é a neta
+da Vovó Riddleton
+e a sua sucessora
+como guardiã dos
+enigmas perdidos.
+Ela é uma garota
+inocente com uma
+crueldade ingênua.
+Talvez ela pareça
+sonolenta, mas pode
+ser que ela seja
+mais do que aparenta...
 !******************************!
 [7117030034000000:001200000002501000000257100000]
 Beasly
 !******************************!
-A bee with a taste for
-sweet puzzle nectar,
-there is likely a long
-story behind his taking
-the role of puzzle
-guardian, but due to
-Puzzlette's dislike of
-insects, the tale is lost
-forever. Beasly is a
-talkative chap with a
-spirit of chivalry.
+Uma abelha que gosta do
+doce néctar de enigmas,
+talvez haja uma longa
+história sobre ele ser
+indicado ao posto de
+guardião dos enigmas, mas
+graças ao desgosto de
+Puzzlette por insetos, essa
+história se perdeu. Beasly
+é bem tagarela, mas possui
+espírito de cavalheirismo.
 !******************************!
 [7117030037000000:0013000000024a1100000251110000]
-Parrot
+Papagaio
 !******************************!
-This clever parrot has
-a knack for learning
-words and using them
-at just the right time.
-From humble beginnings
-in Dimitri's test labs, he
-became adept not only
-at talking and imitating
-voices, but also at
-delivering items across
-treacherous terrain.
+Esse papagaio esperto tem
+um dom de aprender palavras
+e usá-las na hora certa.
+De origem humilde como
+cobaia no laboratório de
+Dimitri, adquiriu a
+habilidade de não só
+falar e imitar vozes, como
+também em entregar itens
+através de terras
+perigosas.
 !******************************!
 [711703003a000000:0014000000024c1200000256120000]
-Subject 3
+Cobaia 3
 !******************************!
-A rabbit with attitude,
-Subject 3 developed a
-profound mistrust of
-humans after being
-subjected to
-experiments by Dimitri's
-team. Once an ordinary
-wild rabbit, he has
-acquired the ability to
-walk on two legs.
+Um coelho com atitude, a
+Cobaia 3 desenvolveu uma
+desconfiança profunda com
+os humanos após ser
+submetida a experimentos
+pela equipe de Dimitri.
+Uma vez um coelho normal
+selvagem, ele desenvolveu
+a habilidade de andar
+em duas pernas.
 !******************************!
 [711703003d000000:00150000000227130000022e130000]
 Bostro
 !******************************!
-As Dimitri's head
-henchman, Bostro has
-never doubted that his
-boss is the true head
-of the Family and is
-loyal to a fault. This
-blind devotion has made
-him a useful tool for
-Clive, but he remains
-blissfully ignorant.
+Como braço-direito de
+Dimitri, Bostro nunca
+duvidou que seu chefe
+fosse o verdadeiro líder
+da Família e é leal ao
+extremo. Essa devoção
+cega fez ele se tornar
+um peão útil para Clive,
+mas isso não fez Bostro
+abandonar sua ignorância.
 !******************************!
 [7117030040000000:001600000002071400000213140000]
-Family Thug
+Capangas da Família
 !******************************!
-These ubiquitous gang
-thugs like to hang
-around street corners.
-Though they all look the
-same to outsiders, each
-one apparently has a
-distinct personality.
-Their manners are
-atrocious, but they
-have shown a certain
-fondness for puzzles.
+Esses capangas da
+família gostam de andar
+pelas esquinas das ruas.
+Apesar de parecerem iguais
+para os forasteiros, cada
+um possui uma personalidade
+diferente. Eles não têm
+noção de boas maneiras,
+mas demonstram ter um
+certo gosto e apreço
+por enigmas.
 !******************************!
 [7117030043000000:001700000002001500000208150000]
 Lockjaw
 !******************************!
-Posing as Bostro's
-underling, in truth
-Lockjaw answers only
-to Clive. However,
-his unfortunate habit
-of letting important
-information slip makes
-him something of a
-liability for his boss.
+Posando como um capanga
+de Bostro, na verdade
+Lockjaw serve apenas
+a Clive. Porém, seu
+hábito azarento de
+deixar informações
+importantes escaparem
+faz ele ser uma
+responsabilidade de
+seu chefe.
 !******************************!
 [7117030046000000:001800000002c415000002ce150000]
 Splinters
 !******************************!
-Splinters is a brutish,
-bloodthirsty man who
-works for Bostro.
-Surprisingly, his hobby
-is collecting old clocks,
-and he often makes
-secret visits to the
-clock shop. Though still
-only a young man of 28,
-he's already concerned
-by his receding hairline.
+Splinters é um homem
+sanguinário e brutal
+que trabalha para Bostro.
+Curiosamente, seu hobby
+é colecionar relógios
+antigos, fazendo até
+visitas secretas para a
+relojoaria. Ainda que
+tenha apenas 28 anos,
+ele já se preocupa com
+o início de sua calvície.
 !******************************!
 [7117030049000000:001900000002c916000002d1160000]
 Marzano
 !******************************!
-Marzano is a mid-ranking
-gang member who is
-wrapped up in his own
-little world, convinced
-that he has psychic
-powers and the ability
-to predict the future.
-Though he frequently
-laments his tragic life,
-he doesn't actually
-consider it all that bad.
+Marzano é um membro de
+nível médio da gangue,
+que vive no seu mundinho
+da fantasia, achando
+que possui poderes
+psíquicos e a habilidade
+de prever o futuro.
+Apesar de muitas vezes
+lamentar a vida trágica,
+ele não considera que
+tudo esteja tão ruim.
 !******************************!
 [711703004c000000:001a00000002c917000002d0170000]
 Layman
 !******************************!
-Layman is a gangster
-with romantic ideals.
-Though not very tall,
-his unmatched dexterity
-makes him a promising
-recruit. He works for
-Bostro but, being
-literally below his
-boss's notice, he leads
-an unrewarding life
-in the back streets.
+Layman é um membro da
+gangue com ideais
+utópicos. Mesmo baixinho,
+sua destreza sem igual
+o faz ser um recruta
+promissor. Trabalha para
+Bostro, mas já que não
+fica na área de visão
+do seu chefe, vive
+uma vida ingrata nas
+vielas.
 !******************************!
 [711703004f000000:001b00000002bc18000002c4180000]
 Fisheye
 !******************************!
-Fisheye is a gangster
-who answers directly
-to Clive. He is a
-heartless and
-cold-blooded man,
-but scrupulously
-obedient to his boss.
-He boasts considerable
-skill with knives, not
-least when it comes to
-juggling them.
+Fisheye é um criminoso
+que serve diretamente
+a Clive. Ele é um
+homem frio e sem
+coração, mas que
+obedece de forma
+escrupulosa seu chefe.
+Possui uma habilidade
+considerável com facas,
+especialmente quando se
+trata de malabarismo.
 !******************************!
 [7117030052000000:001c000000029c19000002a2190000]
 Silky
 !******************************!
-Silky is a gangster
-known for his unique
-laugh and unusual
-hairiness. He hates
-violence and would never
-harm civilians, but his
-bushy hair alone causes
-many to fear him.
-He takes pride in his
-beard and is never
-without his trimmer.
+Silky é um criminoso
+conhecido por sua risada
+característica e estranha
+complexidade capilar. Ele
+odeia violência e nunca
+machucaria civis, mas o
+seu cabelo volumoso faz
+muitos ficarem com medo.
+Se orgulha muito de sua
+barba e nunca sai sem
+estar com seu aparador.
 !******************************!
 [7117030055000000:001d000000028a1a000002921a0000]
 Chelton
 !******************************!
-Chelton is a rough
-gangster who works for
-Bostro. His close
-relationship with Barmey
-has led many to think
-they are brothers, but
-they are just close
-friends. He often incurs
-his boss's wrath and
-can frequently be heard
-grumbling about him.
+Chelton é um criminoso
+bruto que trabalha para
+Bostro. Sua relação
+próxima com Barmey já
+fez muitos pensarem que
+eles são irmãos, mas
+só são amigos próximos.
+Geralmente ele é o
+responsável pela ira de
+seu chefe, muitas vezes
+reclamando sobre isso.
 !******************************!
 [7117030058000000:001e00000002831b0000028a1b0000]
 Barmey
 !******************************!
-Barmey is an underling
-of Bostro's who looks
-remarkably like
-Constable Barton - and
-eats like him too.
-He is so useless without
-Chelton that he might
-as well be his baby
-brother. He is a regular
-customer at Pepper's
-Noodle Palace.
+Barmey é um capanga de
+Bostro que se parece
+muito com o Policial
+Barton - além de comer
+igual ele também.
+De tão inútil que é
+sem Chelton por perto,
+há quem diga que ele é o
+irmão mais novo da dupla.
+Também é cliente assíduo
+no Pepper's Noodle Palace.
 !******************************!
 [711703005b000000:001f00000002711c000002761c0000]
 Ward
 !******************************!
-Ward guards the way
-to various Family
-establishments, such
-as the casino and the
-pagoda. It is unclear
-whether his posing
-is conscious or not.
-His lax attitude to
-guard duty makes him
-an unwitting favourite
-among the scientists.
+Ward é o guarda de
+vários lugares tomados
+pela Família, como o
+cassino e o pagode.
+Não é óbvio se ele
+possui consciência
+da sua postura ou não.
+Sua atitude relaxada
+para vigiar faz dele
+um dos favoritos entre
+os cientistas.
 !******************************!
 [711703005e000000:0020000000025b1d000002611d0000]
 Smith
 !******************************!
-Smith was once a guard
-at the exhibition site,
-but lost his job after
-an incident with an
-intruder, despite having
-caught the offender.
-He now works at
-Gressenheller
-University, watching out
-for student high jinks.
+Smith antes era um guarda
+no local de apresentação,
+mas foi demitido após um
+incidente com um intruso,
+mesmo ele tendo pego
+o penetra. Ele agora
+trabalha na Universidade
+Gressenheller, vigiando
+as peripécias e piadas
+dos alunos de lá.
 !******************************!
 [7117030061000000:002100000002381e000002411e0000]
 Florence
 !******************************!
-Florence is an eccentric
-old lady who teaches
-you all about hint coins.
-Though she is married,
-she's only had eyes for
-Professor Layton ever
-since she met him.
-Her unique hairdo is
-the fruit of several
-hours' work every day.
+Florence é uma velha
+senhora excêntrica que
+te ensina tudo sobre as
+moedas de dica. Apesar de
+casada, ela só tem olhos
+para o Professor Layton
+desde que o encontrou.
+Seu penteado único é
+fruto de um trabalho
+de várias horas por dia.
 
 !******************************!
 [7117030064000000:002200000002231f000002281f0000]
 Vito
 !******************************!
-Vito is a mean-spirited
-little man who hangs
-around Midland Road.
-He has become well
-known in the area for
-giving visitors unhelpful
-directions. His loose
-trousers seem to be his
-latest cause for
-grumpiness.
+Vito é um pequeno homem
+travesso que anda por
+aí na Midland Road.
+Se tornou conhecido na
+área por dar direções
+erradas aos visitantes.
+Sua maior preocupação
+são suas calças largas
+caindo, o que o deixa
+irritado.
 
 !******************************!
 [7117030067000000:002300000002f91f000002fd1f0000]
 Art
 !******************************!
-Art is a builder who's
-working single-handedly
-to reclaim the future
-Midland Road.
-Thanks to his efforts,
-the street has become
-a sunnier and more
-pleasant place to be.
-He is a real pro who'll
-turn his hand to
-anything.
+Art é um arquiteto que
+trabalha sozinho para
+consertar a Midland
+Road do futuro. Graças
+aos seus esforços, a
+rua se tornou um local
+mais agradável e
+ensolarado de se andar.
+Ele é um verdadeiro
+profissional que dá
+tudo de si para tudo.
 !******************************!
 [711703006a000000:002400000002d920000002e1200000]
 Niklaus
 !******************************!
-Niklaus is a boorish
-fellow who inhabits
-Midland Road. He hates
-responsibility and
-avoids trouble at all
-costs, but somehow
-always manages to end
-up the worse for it.
-He has a lot of respect
-for Art, who is cleaning
-up Midland Road.
+Niklaus é um caipira
+que vive na Midland
+Road. Odeia ter
+responsabilidade e
+evita problema a
+qualquer custo, mas
+sempre consegue se
+meter em uma enrascada.
+Ele tem muito respeito
+por Art, que está
+reparando a Midland Road.
 !******************************!
 [711703006d000000:002500000002ca21000002d0210000]
 Anita
 !******************************!
-Anita is the owner of
-the caf{'e} on Midland
-Road. She's a tough
-lady and manages the
-caf{'e} on her own, though
-she rarely has any
-customers apart
-from her regular, Alfie,
-who's been spreading
-the word about her
-luscious ham sandwiches.
+Anita é a dona do
+café na Midland Road.
+É uma mulher forte que
+consegue administrar o
+café sozinha, apesar
+de ela não ter novos
+clientes além do
+assíduo Alfie, que
+espalha a palavra sobre
+seu delicioso sanduíche
+de presunto.
 !******************************!
 [7117030070000000:002600000002be22000002c4220000]
 Alfie
 !******************************!
-Alfie is a regular
-customer at Anita's
-caf{'e}. It is even
-rumoured that his visits
-account for half of her
-total sales. He loves
-talking to young people,
-but his enthusiasm is
-rarely reciprocated.
+Alfie é um cliente
+assíduo no café de
+Anita. Até existem boatos
+de que suas visitas
+são metade das vendas
+do café. Ele ama falar
+com jovens, mas seu
+entusiasmo não é
+retribuído.
 !******************************!
 [7117030073000000:0027000000028a2300000290230000]
 Edgar
 !******************************!
-Edgar is a faint-hearted
-youth who gets scared
-and runs away at the
-slightest provocation.
-He spends his days
-dreaming of finding
-a sweetheart for
-himself. He is Rudolph
-and Myrtle's grandson.
+Edgar é um jovem de
+coração fraco que se
+assusta e foge na mais
+leve provocação. Ele
+passa os dias sonhando
+em encontrar uma
+namorada para si mesmo.
+É o neto de Rudolph e
+Myrtle.
 
 !******************************!
 [7117030076000000:00280000000252240000025a240000]
 Adeline
 !******************************!
-Adeline is a fiery
-Welsh dragon with the
-pride of a queen. Born
-in Cardiff, she came to
-London a few years ago,
-and has lost most of her
-accent. She drinks a
-revolting thick brew to
-preserve her looks, but
-the results are hardly
-worth the sacrifice.
+Adeline é uma mulher
+autoritária com orgulho
+de uma rainha. Nascida
+em Cardiff, veio para
+London anos atrás, e
+já perdeu bastante do
+sotaque. Bebe algo de
+sabor asqueroso para se
+preservar, mas os
+resultados ao seu visual
+não valem o sacrifício.
 !******************************!
 [7117030079000000:002900000002542500000258250000]
 Max
 !******************************!
-Max is a strange boy
-whose conversation
-consists mainly of game
-show sound effects. His
-usual hangout near the
-restaurant allows him to
-overhear lots of useful
-nuggets of information.
-He hates it when Becky
-patronises him.
+Max é um garoto estranho
+com uma fala que consiste
+em efeitos de som de
+programas de TV. O lugar
+onde ele brinca próximo
+ao restaurante permite
+ouvir secretamente
+informações úteis.
+Odeia quando Becky
+o trata como um bebê.
 !******************************!
 [711703007c000000:002a0000000237260000023d260000]
 Becky
 !******************************!
-Becky is the lively maid
-at the Hotel Duke.
-When her grandma is
-listening, her manner is
-formal, but really she's
-a friendly, plucky girl.
-She likes to think of
-Max as her prot{'e}g{'e}.
+Becky é a empregada
+do Hotel Duke.
+Quando sua avó está
+escutando, ela se porta
+de maneira formal, mas
+na verdade é amigável e
+corajosa. Pensa em Max
+como seu protegidinho.
 
 !******************************!
 [711703007f000000:002b00000002f92600000202270000]
 Margaret
 !******************************!
-Margaret is the manager
-of the Hotel Duke on
-Southern Street.
-Though she often dozes
-at reception during
-the hotel's many quiet
-periods, her commitment
-to customer service is
-unwavering. She is
-married to Grafton, but
-he is rarely around.
+Margaret é a dona do
+Hotel Duke na Southern
+Street. Apesar de
+muitas vezes dormir
+na recepção durante os
+períodos mais quietos
+do hotel, seu empenho
+para ajudar os clientes
+é constante. Ela é
+casada com Grafton, mas
+raramente ele é visto lá.
 !******************************!
 [7117030082000000:002c00000002f127000002fa270000]
 Paillard
 !******************************!
-Paillard is the owner
-of the restaurant. He
-gained renown as a chef
-working in a first-class
-hotel. His wife works as
-a researcher in the
-labs. He's finding it
-hard to talk to his son
-Max, of late, which is
-causing him concern.
+Paillard é o dono do
+restaurante. Ganhou
+renome como chefe ao
+trabalhar em um hotel
+de primeira classe. Sua
+esposa é pesquisadora
+nos laboratórios. Ele
+acha difícil falar com
+Max ultimamente, o que
+lhe preocupa um pouco.
 
 !******************************!
 [7117030085000000:002d00000002df28000002e6280000]
 Dupree
 !******************************!
-Dupree is a bearded
-man who spends his time
-reading newspapers.
-He has a great love of
-justice and despises all
-that is evil, but his
-tendency to believe
-everything he reads in
-the newspaper without
-question has made him
-the Family's puppet.
+Dupree é um homem
+barbado que passa o
+tempo lendo jornal.
+Ama muito ter senso de
+justiça e odeia tudo
+que é mal, mas sua
+tendência em acreditar
+em tudo que lê nos
+jornais sem questionar
+fez ele se tornar uma
+marionete da Família.
 !******************************!
 [7117030088000000:002e00000002d829000002e0290000]
 Natalia
 !******************************!
-Natalia is a nurse who
-works on reception at
-Green Hospital. She
-doesn't have many
-patients and usually
-looks rather bored. Her
-pale complexion makes
-her look ill and it is said
-that her patients worry
-more about her than
-she does about them.
+Natalia é uma enfermeira
+que trabalha na recepção
+do Hospital Green. Ela
+não atende muitos
+pacientes e geralmente
+parece entediada. Sua
+pele pálida faz ela
+parecer doente e dizem
+que seus pacientes se
+preocupam mais com ela
+do que ela com eles.
 !******************************!
 [711703008b000000:002f00000002d32a000002da2a0000]
 Harold
 !******************************!
-Harold is the casino's
-bouncer, whose
-unexpectedly liberal
-door policy was in
-evidence when he let
-in Layton and Luke.
-Despite working in a
-casino, he is appallingly
-bad at card games.
+Harold é o segurança
+do cassino, que possui
+uma política de liberar
+a entrada peculiar, vista
+quando deixou Layton e
+Luke entrarem. Apesar de
+trabalhar em um cassino,
+ele é muito ruim em
+jogos de cartas.
 !******************************!
 [711703008e000000:003000000002932b0000029a2b0000]
 Horace
 !******************************!
-Horace is a scientist
-who was abducted and
-taken to future London.
-He realised that the
-Future Layton was in
-fact Dimitri, but held
-his tongue following
-threats from the Family.
-He has a girlfriend
-down in Chinatown.
+Horace é um cientista
+que foi raptado e levado
+até a Londres do futuro.
+Ele percebeu que o Layton
+do futuro era na verdade
+Dimitri, mas guardou
+segredo por causa das
+ameaças da Família.
+Tem uma namorada
+em Chinatown.
 !******************************!
 [7117030091000000:003100000002732c000002792c0000]
 Hardy
 !******************************!
-Hardy is a workman
-drafted in to help with
-the construction of
-future London. He is
-lazy, but very attached
-to the wife and son he
-left behind. His concern
-for them means he
-barely notices which
-decade he's in.
+Hardy é um operário
+escolhido para ajudar na
+construção da Londres do
+futuro. É preguiçoso,
+mas tem muito apego pela
+esposa e filho que deixou
+para trás. A preocupação
+por eles indica que
+ele mal percebe em
+que década ele está.
 
 !******************************!
 [7117030094000000:0032000000024d2d000002562d0000]
 Cuthbert
 !******************************!
-One of the abducted
-scientists taken to
-future London,
-Cuthbert worries about
-his family and often
-sneaks out to see them.
-He is endowed with a
-brilliant mind for
-science and invention,
-but sadly has no
-sense of humour at all.
+Um dos cientistas
+raptados e levados para
+a Londres do futuro,
+Cuthbert se preocupa
+com a família e às
+vezes sai escondido para
+vê-los. Tem uma mente
+brilhante para ciência
+e invenções, mas
+infelizmente não tem
+nenhum senso de humor.
 !******************************!
 [7117030097000000:003300000002392e000002412e0000]
 Grafton
 !******************************!
-Grafton is a crafty
-character who lurks in
-the black market
-bazaar. He has watched
-future London evolve
-and grow, and is likely
-aware of many of its
-secrets. Though he is
-not a bad person, he
-somehow projects a
-suspicious aura.
+Grafton é uma pessoa
+astuta que se espreita
+bazar do mercado negro.
+Viu a evolução e o
+crescimento da Londres
+do futuro, e sabe de
+muitos segredos de lá.
+Apesar de não ser uma
+pessoa ruim, de alguma
+forma possui uma aura
+suspeitas.
 !******************************!
 [711703009a000000:003400000002252f0000022e2f0000]
 Catanova
 !******************************!
-Not even the awful
-dogs can discourage
-the devoted Catanova
-from visiting his female
-feline friends. His long
-sleek body contrasts
-with his short meows,
-but it certainly makes
-him popular with the
-ladies.
+Nem mesmo os temíveis
+cães desencorajam o
+dedicado Catanova de
+visitar suas amigas
+felinas. Seu corpo
+longo e elegante faz
+um contraste com seus
+pequenos miados, mas o
+faz popular entre as
+mulheres.
 !******************************!
 [711703009d000000:003500000002fb2f00000203300000]
 Rosetta
 !******************************!
-Rosetta is a student
-of Professor Layton's
-who is rather enamoured
-with her teacher. She is
-very passionate and
-even goes out to
-dig on her days off.
-Her unusual
-forwardness causes
-confusion to many,
-including Layton himself.
+Rosetta é uma aluna do
+Professor Layton que é
+um tanto apaixonada por
+ele. Ela tem muita
+paixão pelo trabalho e
+até sai para escavações
+nos seus dias de folga.
+Seu atrevimento incomum
+causa confusão a muitas
+pessoas, incluindo o
+próprio Layton.
 !******************************!
 [71170300a0000000:003600000002e530000002eb300000]
 Colby
 !******************************!
-Colby is a constable
-who works on reception
-in Scotland Yard and a
-great fan of Layton's.
-He does his best at his
-job, but is a little tired
-of being stuck at the
-station. His chin gets
-even longer when he
-laughs!
+Colby é um policial que
+trabalha na recepção da
+Scotland Yard e um
+grande fã de Layton.
+Faz o melhor no seu
+trabalho, mas já se
+cansou de ficar preso
+no seu posto. Seu
+queixo fica maior quando
+ele ri!
 !******************************!
 [71170300a3000000:003700000002c131000002c9310000]
 Rudolph
 !******************************!
-No one knows what's
-going down in Chinatown
-better than Rudolph.
-Lately, he has been
-addicted to noodles
-and visits Pepper's shop
-whenever he can. Though
-very fond of his wife
-Myrtle, his love of food
-seems to come first. His
-grandson is Edgar.
+Ninguém sabe melhor o
+que acontece em
+Chinatown do que Rudolph.
+Ultimamente, ele se
+viciou em macarrão e
+visita o restaurante de
+Pepper quando pode. Mesmo
+gostando muito da esposa
+Myrtle, seu amor por
+comida parece vir primeiro.
+Seu neto é Edgar.
 !******************************!
 [71170300a6000000:003800000002be32000002c4320000]
 Misha
 !******************************!
-Misha is a thoughtful
-and poetic woman with a
-philosophical outlook on
-life. She spends a lot of
-time reflecting on the
-nature of life and love
-and improving her mind.
-Her origin and family
-ties are a mystery.
+Misha é uma mulher
+pensativa e poética com
+uma visão filosófica da
+vida. Passa muito tempo
+refletindo na natureza
+da vida e do amor e
+limpando a sua mente.
+Sua origem e conexão
+familiar são um mistério.
 !******************************!
 [71170300a9000000:00390000000296330000029d330000]
 Duncan
 !******************************!
-Duncan is a boy living in
-Chinatown, whose
-brusque manner
-conceals a kind heart.
-He is nuts about toy
-cars and is a regular
-customer at Chequer's
-toy shop, though his
-visits are getting more
-secretive as he gets
-older.
+Duncan é um garoto que
+vive em Chinatown,
+com uma atitude brusca
+que esconde um coração
+sincero. Adora carrinhos
+de brinquedo e é assíduo
+na loja de brinquedos
+de Chequer, apesar de
+suas visitas estarem
+sendo mais secretas
+conforme os anos passam.
 !******************************!
 [71170300ac000000:003a0000000278340000027c340000]
 Viv
 !******************************!
-Viv is a well-mannered
-little girl who lives
-in Chinatown with her
-parents. Her father
-works as a researcher
-specialising in
-mechanical engineering.
-Her mother's influence
-has made her somewhat
-uptight, but she is a
-gentle girl at heart.
+Viv é uma garotinha bem
+posturada que vive em
+Chinatown com seus
+pais. Seu pai é um
+pesquisador de
+engenharia mecânica.
+A influência de sua
+mãe fez ela ser um
+tanto rígida, mas ela
+tem um coração bem
+gentil.
 !******************************!
 [71170300af000000:003b000000026a3500000271350000]
 Pepper
 !******************************!
-Pepper is the owner of
-the noodle shop in
-Chinatown, which is
-thriving thanks to her
-careful and shrewd
-management. It is said
-that her noodle bar
-attracts the unhappy
-inhabitants of future
-London. Her speciality is
-jellied eel noodle soup.
+Pepper é a dona da loja
+de macarrão em Chinatown,
+que está em ascensão
+graças ao seu cuidado
+e administração sagaz.
+Dizem que seu barzinho
+atrai até mesmo os
+moradores mais tristes
+da Londres do futuro.
+Faz uma ótima sopa de
+macarrão de enguia.
 !******************************!
 [71170300b2000000:003c0000000262360000026a360000]
 Chequer
 !******************************!
-Chequer is a toymaker
-who works in the toy
-shop in Chinatown.
-He is the creator of his
-own brand of toy cars
-and his shop is always
-inundated with
-customers in search
-of collectables.
+Chequer é um criador de
+brinquedos que trabalha
+na loja em Chinatown.
+É o criador da própria
+marca de carrinhos e
+sua loja sempre está
+cheia de clientes que
+estão em busca de
+colecionáveis.
 !******************************!
 [71170300b5000000:003d0000000222370000022b370000]
 Avogadro
 !******************************!
-Avogadro is a scientist
-who works in the labs.
-He is impatient and
-quick-tempered but
-has read more books
-than Luke's had hot
-dinners. He is very
-sensitive about his
-height.
+Avogadro é um cientista
+que fica no laboratório.
+É impaciente e tem pavio
+curto, mas já leu mais
+livros do que o tanto
+de jantares que Luke
+teve. É bem sensível
+quando falam sobre sua
+altura.
 
 !******************************!
 [71170300b8000000:003e00000002da37000002df370000]
 Maya
 !******************************!
-Maya runs the
-bookshop in Chinatown -
-the natural vocation
-for someone who loves
-reading as much as she
-does. She's just happy
-if she can persuade
-people to read at all,
-and sometimes even
-directs her customers
-to the library.
+Maya administra a loja
+de livros em Chinatown,
+a vocação natural para
+alguém que ama muito
+ler tanto quanto ela.
+Ela só fica feliz se
+conseguir convencer as
+pessoas a lerem, e de
+vez em quando ela indica
+seus clientes a irem
+para a biblioteca.
 !******************************!
 [71170300bb000000:003f00000002c238000002c9380000]
 Myrtle
 !******************************!
-Myrtle runs the little
-pet shop in Chinatown.
-She and her husband
-Rudolph were like
-lovebirds for years,
-but relations have
-cooled a little recently.
-Myrtle is normally a
-gentle animal-lover, but
-you wouldn't like her
-when she's angry!
+Myrtle administra o
+pet shop em Chinatown.
+Ela e seu marido
+Rudolph eram dois
+apaixonados por anos,
+mas o calor do amor
+esfriou recentemente.
+Myrtle geralmente é uma
+amante dos animais, mas
+você não vai gostar de
+vê-la nervosa!
 !******************************!
 [71170300be000000:004000000002b539000002bb390000]
 Belle
 !******************************!
-Belle is a young lady
-who has developed a
-big crush on Little Luke.
-Her burning passion is a
-bit too much for Luke
-to handle, and he is
-terrified of her. Belle,
-however, has never been
-one to let such
-obstacles get in the
-way of true love.
+Belle é uma jovemzinha
+que desenvolveu uma
+grande paixão no pequeno
+Luke. Sua paixão calorosa
+é grande demais para Luke
+lidar, o que o faz ficar
+assustado com ela. Mas
+ela não é alguém que
+deixa qualquer obstáculo
+entrar no caminho do
+verdadeiro amor.
 !******************************!
 [71170300c1000000:004100000002ab3a000002b23a0000]
 Graham
 !******************************!
-Graham is, in his own
-eyes, the city's most
-stylish gentleman. He
-wears all the most
-expensive clothes and
-possesses an air of
-supreme confidence
-that impresses even the
-Family gangsters. His
-dream is to start a
-clothing line with Belle.
+Graham é, na sua visão,
+o cavalheiro mais
+estiloso da cidade. Ele
+usa as roupas mais caras
+e possui um ar de
+suprema confiança que
+impressiona até mesmo
+os mafiosos da Família.
+O seu sonho é criar
+uma linha de roupas
+com Belle.
 !******************************!
 [71170300c4000000:004200000002a03b000002a63b0000]
 Slate
 !******************************!
-Ever since the wall of
-Slate's garden was
-covered in messy
-splodges of paint, he's
-been working with local
-youngsters to repaint
-it with street art. He
-isn't much good with a
-paintbrush himself, but
-his kindness makes him
-popular with the kids.
+Desde que a parede
+do jardim de Slate
+foi manchada de forma
+bagunçada com tinta, ele
+chamou jovens da área
+para repintá-la como se
+fosse um grafite. Ele
+não é tão bom usando um
+pincel, mas a sua
+bondade faz ele ser
+popular com as crianças.
 !******************************!
 [71170300c7000000:0043000000029b3c000002a23c0000]
 Ernest
 !******************************!
-Ernest is a timid old
-man who dislikes talking
-to strangers, and so
-spends most of his time
-hiding on a corner of
-Midland Road. He is
-friends with Cogg and
-often goes round to
-the clock shop for a
-cup of tea.
+Ernest é um velho tímido
+que não gosta de falar
+com estranhos, e por
+isso passa muito tempo
+se escondendo na
+Midland Road. Ele é
+amigo do Cogg e muitas
+vezes vai na relojoaria
+para degustar uma
+xícara de chá.
 !******************************!
 [71170300ca000000:004400000002733d000002793d0000]
 Berta
 !******************************!
-Berta is a cheerful,
-motherly type with a
-loud laugh. She doesn't
-let trifles worry her
-and thoroughly enjoys
-her life in future
-London. She doesn't see
-much of her husband
-Avogadro, but still
-has food on the table
-whenever he comes home.
+Berta é uma mulher com
+ar de mãezona e uma
+risada bem alta. Ela
+não se preocupa com
+ninharias e gosta da
+sua vida na Londres do
+futuro. Ela não vê
+muito o seu marido
+Avogadro, mas ainda bota
+comida na mesa para
+quando ele chegar em casa.
 !******************************!
 [71170300cd000000:004500000002683e0000026f3e0000]
 Minnie
 !******************************!
-Minnie is a laid-back girl
-with something of a
-sweet tooth. She takes
-something sugary with
-her wherever she goes.
-Her kind, conciliatory
-nature has made her
-many friends, to whom
-she takes great
-pleasure in feeding her
-home-made cakes.
+Minnie é uma garota
+descontraída com um
+paladar doce. Por onde
+ela vai, ela sempre
+leva algo doce consigo.
+Sua natureza gentil e
+conciliadora atraiu
+vários amigos a ela, a
+quem ela tem o grande
+prazer de oferecer seus
+bolos caseiros.
 !******************************!
 [71170300d0000000:0046000000025c3f000002623f0000]
 Paige
 !******************************!
-Paige is a soft-spoken
-shy girl who wears
-glasses. She is earnest
-and hard-working, but
-sometimes needs to
-lighten up a little.
-She is aware of her
-quiet voice and
-practises projecting
-at home. Her hobby is
-writing poetry.
+Paige é uma garota
+meiga e tímida que usa
+óculos. Ela é séria
+e esforçada, mas às
+vezes um pouco de
+calma é necessário.
+Ela sabe que sua voz
+é um tanto baixa, por
+isso pratica a projeção
+dela em casa. Seu hobby
+é escrever poemas.
 !******************************!
 [71170300d3000000:004700000002414000000249400000]
 Raleigh
 !******************************!
-Raleigh is an assertive,
-immature boy. He is
-fascinated by beetles
-and keeps a rhinoceros
-and a stag at home.
-He sulks a lot if things
-don't go his way, but he
-soon forgets his foul
-moods, especially if
-there's a football to be
-kicked.
+Raleigh é um garoto
+imaturo, mas confiante.
+Fascinado por besouros,
+possui dois deles em
+casa: um rinoceronte e um
+escaravelho. Se aborrece
+se as coisas não dão
+certo, mas logo esquece
+do mau humor, em especial
+quando há uma bola de
+futebol para chutar.
 !******************************!
 [71170300d6000000:00480000000235410000023c410000]
 Beacon
 !******************************!
-A passionate lighthouse
-keeper, Beacon has
-unfortunately been
-made redundant by
-technology. The upshot
-is that he now has more
-time to devote to his
-other passion, modern
-dance. He is currently
-choreographing a
-tribute to lighthouses.
+Um faroleiro passional,
+Beacon infelizmente se
+tornou redundante por
+causa da tecnologia.
+Por consequência, agora
+ele tem mais tempo para
+se dedicar em sua outra
+paixão, dança moderna.
+Atualmente, está criando
+uma coreografia em
+tributo aos faróis.
 !******************************!
 [71170300d9000000:00490000000227420000022c420000]
 Mark
 !******************************!
-Mark's bland exterior
-hides a deeply curious
-individual. He tends to
-pontificate on all
-sorts of topics, but
-most of what he says
-is rubbish. He is a
-frequent visitor to the
-casino, where he serves
-as an easy target for
-experienced gamblers.
+Sua cara de sem-graça
+esconde uma pessoa bem
+curiosa. Mark parece
+saber de todo tipo de
+coisa, mas tudo que ele
+fala não passa de
+bobagem. É um visitante
+assíduo ao cassino,
+onde ele se torna uma
+presa fácil para
+jogadores experientes.
 !******************************!
 [71170300dc000000:004a000000021e430000022d430000]
 Stachenscarfen
 !******************************!
-Why, it's our old friend
-Mr Stachenscarfen!
-Where'd he come from?
-He has a strange habit
-of suddenly appearing,
-only to vanish moments
-later. Where he'll show
-up tomorrow is as much
-of a mystery as his
-identity.
+Ora, é nosso velho amigo,
+Sr. Stachenscarfen!
+De onde ele veio?
+Ele tem um hábito
+estranho de aparecer do
+nada e sumir segundos
+depois. Aonde ele irá
+surgir amanhã é um
+mistério e tanto assim
+como sua identidade.
 !******************************!
 [71170300df000000:004b00000002014400000207440000]
 Pavel
 !******************************!
-A man of contradictions,
-Pavel is a fearless
-adventurer with no
-sense of direction.
-He is always breaking
-his beloved compass and
-possesses a unique
-ability to get lost
-no matter how detailed
-a map he is using.
+Um homem contraditório,
+Pavel é um aventureiro
+destemido sem senso de
+direção.
+Está sempre quebrando
+sua amada bússola e
+tem uma habilidade única
+de se perder, não importa
+o quão detalhado seja o
+mapa que ele usa.
 !******************************!
 [71170300e2000000:004c00000002da44000002ed440000]
-Dr Andrew Schrader
+Dr. Andrew Schrader
 !******************************!
-Dr Andrew Schrader is
-Professor Layton and
-Don Paolo's old teacher.
-He is a highly respected
-archaeologist but has a
-tendency to get himself
-into trouble and in need
-of being rescued by his
-students. His collection
-of antiques is the
-stuff of legend.
+O Dr. Andrew Schrader é
+o antigo professor de
+Layton e Don Paolo. Ele
+é um arqueologista muito
+respeitado, mas se coloca
+diversas vezes em muitos
+problemas, tendo que ser
+salvo por seus alunos.
+Sua coleção de
+antiguidades é lendária.
+
 !******************************!
 [71170300e5000000:004d00000002e845000002f5450000]
 Dean Delmona
 !******************************!
-Dean Delmona is the
-head of Gressenheller
-University, a kind man
-well loved by all the
-students. He has a soft
-spot for his little
-granddaughter and
-spoils her rotten.
-His toupee protects
-passers-by from the
-glare of his shiny pate.
+Dean Delmona é o diretor
+da Universidade
+Gressenheller, um homem
+gentil e amado por todos
+os alunos. Tem um apreço
+por sua netinha e mima
+ela até não poder mais.
+Seu topete protege os
+transeuntes do brilhante
+vislumbre de sua cabeça.
+
 !******************************!
 [71170300e8000000:004e00000002de46000002e7460000]
 Caroline
 !******************************!
-Caroline is the wife of
-Prime Minister Bill Hawks,
-a calculating woman
-who enjoys her
-celebrity lifestyle.
-She has an unfortunate
-taste for bling, and her
-dismayed husband has
-no idea of the limits of
-her greed.
+Caroline é a esposa do
+Primeiro Ministro Bill
+Hawks, uma mulher
+calculista que ama viver
+como uma celebridade.
+Tem um gosto infeliz por
+joias, e seu marido
+consternado não tem ideia
+alguma dos limites da
+ganância dela.
 !******************************!
 [71170300eb000000:004f00000002bb47000002c1470000]
 Clive
 !******************************!
-Posing as an older Luke,
-Clive is the instigator
-of the terrible attack
-upon London. For years,
-he cultivated a bitter
-resentment towards the
-scientists and
-politicians involved in
-his parents' premature
-deaths. He has shown
-a desire for atonement.
+Fingindo ser um Luke mais
+velho, Clive é o
+responsável do ataque
+em Londres. Por anos, ele
+guardou um grande rancor
+contra os cientistas e
+políticos que estavam
+envolvidos na morte
+precoce de seus pais.
+Mostrou ter vontade de
+reconciliação.
 !******************************!
 [71170300ee000000:005000000002ba48000002c1480000]
 Claire
 !******************************!
-Claire is Layton's old
-girlfriend. Though she
-worked as Dimitri's
-assistant, she was an
-excellent scientist in
-her own right. She was
-the strong-willed young
-woman who gave
-Layton his beloved hat.
-She lost her life in a
-failed experiment.
+Claire é a antiga
+namorada de Layton. Mesmo
+tendo trabalhado como
+assistente de Dimitri,
+era uma excelente
+cientista por si só. Foi
+ela quem presenteou
+Layton com sua amada
+cartola. Tempos atrás,
+faleceu durante um
+experimento falho.
 !******************************!
 [71170300f1000000:005100000002b049000002bf490000]
 Alain Stahngun
 !******************************!
-Dr Stahngun was the
-identity assumed by
-Dimitri while building
-the fake time machine.
-He was believed to have
-disappeared in the
-accident at the
-presentation site, but
-he had in fact departed
-to future London, along
-with the prime minister.
+O Dr. Stahngun era a
+identidade criada por
+Dimitri enquanto criava
+a falsa máquina do tempo.
+Muitos acharam que ele
+havia desaparecido no
+acidente no local da
+apresentação, mas ele
+havia fugido para a
+Londres do futuro, junto
+do primeiro ministro.
 !******************************!
 [71170300f4000000:005200000002b04a000002be4a0000]
-Future Layton
+Layton do Futuro
 !******************************!
-This is the future
-Professor Layton, who
-rules the dark city of 
-future London with an
-iron fist. Corrupted by
-his study of time
-travel, he no longer has
-the moral compass
-required of a gentleman.
-He was revealed to be
-Dimitri in disguise.
+Esse é o Professor Layton
+do futuro, que comanda
+a obscura cidade da
+Londres do futuro com
+punhos de ferro. Seu
+estudo em viagem no tempo
+o corrompeu, o que o fez
+deixar de lado o senso
+ético de um cavalheiro.
+Foi revelado ser Dimitri
+se disfarçando.
 !******************************!
 [71170300f7000000:005300000002ae4b000002b84b0000]
-Bartender
+Barman
 !******************************!
-The bartender at the
-Thames Arms is a role
-Dimitri likes to adopt
-in his spare time,
-whenever he needs to
-take a breather from
-his gruelling research.
-The lower ranks of the
-Family are still unaware
-of his real identity.
+O barman no Thames Arms
+é um papel que Dimitri
+gosta de fazer no seu
+tempo livre, sempre
+quando precisa de um
+tempo sem fazer sua
+pesquisa exaustiva.
+Os membros de ranque
+menor da Família não tem
+ideia de seu disfarce.
 !******************************!
 [71170300fa000000:005400000002954c0000029c4c0000]
 Layton
 !******************************!
-Before he considered
-himself an English
-gentleman, Hershel
-Layton used to dress
-more casually. Until
-Claire gave him his
-top hat, he was never
-without his red cap.
-He became a professor
-at 27, but remains
-young at heart.
+Antes de se considerar
+um cavalheiro inglês,
+Hershel Layton costumava
+se vestir de forma mais
+casual. Até o dia que
+Claire lhe deu sua
+cartola, nunca era visto
+sem seu boné vermelho.
+Se tornou professor aos
+27 anos, mas continua
+com um coração jovem.
 !******************************!
 [71170300fd000000:005500000002794d000002864d0000]
-Laytonmobile
+Laytonmóvel
 !******************************!
-Layton's pride and joy,
-this little red car has
-served him well on his
-mystery-solving
-adventures. Thanks to
-Don Paolo, there now
-exists a model that can
-fly. Its high roof gives
-Layton the headroom he
-needs to drive with his
-hat on.
+O orgulho e alegria de
+Layton, esse carrinho
+vermelho o ajudou muito
+em suas aventuras
+misteriosas. Graças a
+Don Paolo, agora há um
+modelo que pode voar.
+Seu teto alto permite
+que Layton possa
+dirigi-lo enquanto usa
+sua cartola.
 !******************************!
 [7117030000010000:005600000002704e0000027d4e0000]
-Puzzle Lad 1
+Garoto dos Enigmas 1
 !******************************!
-Puzzle Lad 1 is a
-mischievous boy who
-livens up any puzzle.
-He's a bit of a bragger,
-but a good leader for
-the puzzle lads.
-His impulsive nature
-frequently gets him
-into trouble, but he's
-not one to start a
-fight.
+O Garoto 1 é bem
+travesso e se anima
+para qualquer enigma.
+Ele é um pouco exibido,
+mas um bom líder para
+os garotos de enigmas.
+Sua natureza impulsiva
+frequentemente faz ele
+se meter em encrenca,
+mas ele não é alguém
+que começaria uma briga.
 !******************************!
 [7117030003010000:005700000002534f000002604f0000]
-Puzzle Lad 2
+Garoto dos Enigmas 2
 !******************************!
-Puzzle Lad 2 is a
-clever boy who seems
-to do well at whatever
-he undertakes, a skill
-which sadly is often put
-to mischievous uses.
-Adults seem to be
-rather dubious about
-him. He has an agile
-body for sport and a
-good mind for games.
+O Garoto 2 é bem
+esperto e parece fazer
+bem em tudo que se
+compromete, mas que
+infelizmente é tudo
+para fins travessos.
+Os adultos parecem ter
+um pouco de dúvida sobre
+ele. Tem um corpo ágil
+para esportes e uma
+mente boa para jogos.
 !******************************!
 [7117030006010000:005800000002495000000256500000]
-Puzzle Lad 3
+Garoto dos Enigmas 3
 !******************************!
-The effective personnel
-manager of the puzzle
-troupe, Puzzle Lad
-3 is a level-headed
-boy with an ability to
-rally the other lads.
-He enjoys pranks but
-dislikes violence, so he
-usually plays the role
-of peacekeeper.
+O "gerente" efetivo da
+trupe enigmática, o
+Garoto 3 é bem
+ponderado e possui uma
+habilidade de reunir
+os outros garotos.
+Gosta de pegadinhas mas
+odeia violência, então
+geralmente se faz de
+pacificador.
 !******************************!
 [7117030009010000:0059000000022d510000023a510000]
-Puzzle Lad 4
+Garoto dos Enigmas 4
 !******************************!
-The biggest eater in
-the group, Puzzle Lad
-4 is a taciturn
-child, but his kind heart
-and quiet strength make
-him truly well loved.
-He always carries
-snacks in his pockets in
-case he gets bored and
-fancies a bite to eat.
+O comilão do grupo, o
+Garoto 4 é alguém
+de poucas palavras,
+mas seu bom coração e
+força silenciosa o faz
+ser bem amado. Sempre
+leva alguma coisa no
+bolso para comer, em caso
+dele ficar entediado, e
+ama a hora do lanche.
 
 !******************************!
 [711703000c010000:005a00000002175200000224520000]
-Puzzle Lad 5
+Garoto dos Enigmas 5
 !******************************!
-Puzzle Lad 5 is a
-scaredy cat whose
-actions don't live up to
-his boastful words. He's
-an expert in plotting
-tricks to play on
-unsuspecting victims,
-but he is not usually
-the one to carry them
-out, as he doesn't much
-like physical activities.
+O Garoto 5 é bem
+covarde e suas ações
+não refletem muito bem
+suas palavras arrogantes.
+É bom em fazer pegadinhas
+para enganar vítimas
+inocentes, mas geralmente
+não é ele quem as
+executa, já que ele
+não é muito fã de
+atividades físicas.
 !******************************!
 [711703000f010000:005b00000002165300000224530000]
-Puzzle Lass 1
+Garota dos Enigmas 1
 !******************************!
-Puzzle Lass 1 is a
-hard-working girl who
-follows fashion closely
-and owns all the latest
-trendy gear. She likes
-learning new crafts and
-it is even said that she
-hoped to become a
-professional potter but
-was told that her style
-was too avant-garde.
+A Garota 1 é bem
+esforçada, segue tudo
+que está na moda e tem
+todo tipo de coisa nova
+e atualizada. Gosta de
+aprender artesanato e
+até já disseram que ela
+planeja se tornar uma
+ceramista profissional,
+apesar de falarem que seu
+estilo é vanguardista.
 !******************************!
 [7117030012010000:005c000000021c540000022a540000]
-Puzzle Lass 2
+Garota dos Enigmas 2
 !******************************!
-Puzzle Lass 2 is a
-kindly old lady with
-a romantic streak, who
-loves evening strolls
-and picture books.
-She's fond of children
-and small animals and
-is happy to play the
-part of everybody's
-grandma.
+A Garota 2 é uma
+senhorinha gentil com
+um lado romântico, que
+ama passeios noturnos
+e álbuns ilustrados.
+Gosta de crianças e
+animaizinhos e sempre
+fica feliz de ser
+a vovó de todo mundo.
+
 
 !******************************!
 [7117030015010000:005d00000002f25400000200550000]
-Puzzle Lass 3
+Garota dos Enigmas 3
 !******************************!
-A great art-lover,
-Puzzle Lass 3 can
-usually be found
-wandering around
-antique fairs looking
-for curios and baubles.
-Though she can come
-across as a little
-pretentious, she is 
-reliable and always
-keeps her cool.
+Grande amante de arte,
+a Garota 3 geralmente
+é vista andando por
+aí em feirinhas de
+antiguidades, procurando
+raridades e bijuterias.
+Embora pareça um
+pouco pretensiosa,
+ela é bem confiável
+e sempre se mantém
+calma.
 !******************************!
 [7117030018010000:005e00000002d555000002e3550000]
-Puzzle Lass 4
+Garota dos Enigmas 4
 !******************************!
-Puzzle Lass 4 is a
-motherly lady who looks
-after the puzzle troupe
-and is undoubtedly the
-finest cook of them all.
-She's a chatty type
-who'll natter for hours
-once a conversation has
-started. She enjoys
-handpicking ingredients
-to cook delicious meals.
+A Garota 4 é uma
+senhora mãe que cuida
+da trupe enigmática
+e é a melhor cozinheira
+de todos, sem dúvida.
+Ela é muito tagarela e
+fala até boas horas assim
+que uma conversa começa.
+Ama escolher ingredientes
+a dedo para fazer comidas
+bem gostosas.
 !******************************!
 [711703001b010000:005f00000002df56000002ed560000]
-Puzzle Lass 5
+Garota dos Enigmas 5
 !******************************!
-Puzzle Lass 5 is a
-headstrong intellectual,
-and yet her greatest
-worry is that she might
-shed a tear and ruin
-her make-up. She is a
-brilliant but undeniably
-cold woman. Strange
-though it may sound,
-her hobby is collecting
-teacups.
+A Garota 5 é uma mulher
+bem intelectual, e ainda
+assim ela se preocupa
+mais em talvez derramar
+uma lágrima e borrar
+sua maquiagem. Ela é
+brilhante, mas fria,
+inegavelmente. Mesmo
+que pareça estranho,
+seu hobby é colecionar
+xícaras de chá.
 !******************************!

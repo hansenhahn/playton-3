@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n209
+!******************************!
+n209a
+!******************************!
+n209b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse quadrado está cheio de bolas
+brancas e pretas. Mas como pode ver,
+só é possível ver dois cantos do
+quadrados. O resto do quadrado está fora
+de escala e as bolinhas não estão à
+mostra.
+Você sabe que a borda externa ao redor é
+composta só de bolas pretas - no total,
+36. O resto do quadrado é preenchido por
+bolas brancas, sem mais outros espaços.
+Portanto, quantas bolas brancas existem?
+A imagem abaixo tem apenas fins
+ilustrativos, então não confie nela
+para resolver o enigma.
+!******************************!
+[ec0b01000b000000:0201020000]
+Esperto demais!
+
+Há 64 bolas brancas no quadrado.
+Se há 36 bolas pretas na borda externa,
+então cada fileira, seja vertical ou
+horizontal, deve ter 10 bolas pretas.
+Portanto, o número total de bolas no
+quadrado é 10 x 10 = 100. Subtraia as
+36 bolas pretas de 100 no total e você
+terá o número total de bolas brancas:
+100 - 36 = 64!
+Outro jeito de resolver é notar que cada
+lado do quadrado branco interior tem
+8 bolas, então 8 x 8 = 64!
+!******************************!
+[ed0b01000c000000:02c7030000]
+Que pena!
+
+Há 36 bolas pretas na borda de fora,
+então cada lado deve ter comprimento
+de nove bolas pretas, certo?
+
+Na verdade, não. Pense melhor sobre
+isso e tente novamente.
+!******************************!
+[ee0b01000d000000:0283040000]
+Você chegou à conclusão de que, já que
+há 36 bolas pretas na borda, cada lado
+do quadrado tem nove bolas pretas.
+Mas esse não é o caso.
+
+As bolas do canto contam para dois lados
+diferente, o que significa que cada lado
+possui 10 bolas pretas.
+
+Tente desenhar seu próprio diagrama de
+bolas e então você encontrará a resposta
+rapidinho.
+!******************************!
+[ef0b01000e000000:02de050000]
+
+!******************************!
+[f00b01000f000000:02df050000]
+
+!******************************!
+[f10b010010000000:02e0050000]
+
+!******************************!
