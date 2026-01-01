@@ -2,6 +2,6 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>We shouldn't wander off anywhere
-until we've got some answers.
+<T>Não devemos sair perambulando por aí antes
+de obtermos algumas respostas.
 !******************************!

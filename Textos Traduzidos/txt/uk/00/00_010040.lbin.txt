@@ -2,160 +2,147 @@
 [7117030001000000:000a00000002000000000209000000]
 サマリー
 !******************************!
-<T><A1/2>That'll be my husband.
+<T><A1/2>Deve ser meu marido.
 !******************************!
 [7117030004000000:001400000002290000000232000000]
 ジャック
 !******************************!
-<T><A1/1>Wait till you see the little gem I
-picked up today, love...<W> <A2/1>Oh my,
-customers!
+<T><A1/1>Espera até ver a preciosidade que eu encontrei
+hoje, querida...<W> <A2/1>Ora, clientes!
 !******************************!
 [7117030007000000:001400000002000000000292000000]
 サマリー
 !******************************!
-<T>Welcome back, dear. This here is
-Professor Layton.
+<T>Bem-vindo de volta, querido. Este aqui é
+o Professor Layton.
 !******************************!
 [711703000a000000:0014000000020000000002c8000000]
 サマリー
 !******************************!
-<T><A1/5>He tells me he has some business
-in our shop.
+<T><A1/5>Ele me disse que tem um assunto para tratar
+aqui na loja.
 !******************************!
 [711703000d000000:0014000000022900000002ff000000]
 ジャック
 !******************************!
-<T>Layton? You're Professor Layton?<W>
-My apologies! I wasn't expecting
-you so soon!
+<T>Layton? Você é o Professor Layton?<W>
+Mil desculpas! Não esperava por você tão cedo!
 !******************************!
 [7117030010000000:001e0000000254010000025d010000]
 レイトン
 !******************************!
-<T><A3/1>No apology necessary, my good
-man.<W> Oh, and allow me to introduce
-my-
+<T><A3/1>Não há necessidades de desculpas, meu bom
+homem.<W> Ah, e permita-me apresentar meu-
 !******************************!
 [7117030013000000:001e00000002ae01000002b5010000]
 ルーク
 !******************************!
-<T><A3/2>Apprentice! I'm the professor's
-apprentice, Luke! Pleased to meet
-you, sir!
+<T><A3/2>Aprendiz! Eu sou o aprendiz do professor, Luke!
+Prazer em conhecê-lo, senhor!
 !******************************!
 [7117030016000000:001e0000000229000000020a020000]
 ジャック
 !******************************!
-<T>Luke, you say? Hmm...
+<T>Luke, é? Hmm...
 !******************************!
 [7117030019000000:001e00000002290000000223020000]
 ジャック
 !******************************!
-<T>What I mean to say is, those are
-some fine manners, lad! It's nice to
-meet you too. The name's Cogg.
+<T>Quero dizer, que bons modos, rapaz! É um prazer
+conhecê-lo também. Meu nome é Cogg.
 !******************************!
 [711703001c000000:001e0000000254010000028b020000]
 レイトン
 !******************************!
-<T><A1/1>You seemed a bit flustered by our
-arrival, Cogg. We certainly don't
-mean to impose...
+<T><A1/1>Você pareceu um pouco atrapalhado com nossa
+chegada, Cogg. Não queremos causar nenhum incômodo...
 !******************************!
 [711703001f000000:001e000000022900000002ea020000]
 ジャック
 !******************************!
-<T>Oh no, no, no. It's no trouble
-at all.
+<T>Oh não, não, não. Não é incômodo algum.
 !******************************!
 [7117030022000000:001e00000002290000000214030000]
 ジャック
 !******************************!
-<T>It's just that I had instructions
-to show you our biggest clock in
-action upon your arrival.
+<T>É só que minhas instruções eram mostrar o nosso
+maior relógio funcionando assim que
+você chegasse.
 !******************************!
 [7117030025000000:001e00000002540100000274030000]
 レイトン
 !******************************!
-<T><A4/1>It certainly is a beauty. Pity it's
-not in working order.
+<T><A4/1>É realmente uma belíssima peça. Uma pena que
+não esteja em funcionamento.
 !******************************!
 [7117030028000000:001e000000022900000002b7030000]
 ジャック
 !******************************!
-<T>Yes, I'd planned to give her a
-tune-up before you stopped by, so
-you could see her in all her glory.
+<T>Sim, eu planejava ajustá-lo antes da sua chegada,
+para que pudesse vê-lo em todo seu esplendor.
 !******************************!
 [711703002b000000:001e0000000229000000021f040000]
 ジャック
 !******************************!
-<T>But I'm getting on a bit these days,
-and I have trouble keeping the old
-girl in good repair.
+<T>Mas já não tenho o mesmo vigor de antes, e está
+ficando difícil cuidar bem deste velho camarada.
 !******************************!
 [711703002e000000:001e0000000229000000027f040000]
 ジャック
 !******************************!
-<T>I can't remember where to insert
-this last gear, and the clock won't
-work without it.
+<T>Eu não consigo lembrar onde colocar essa última
+engrenagem, e o relógio não vai funcionar sem ela.
 !******************************!
 [7117030031000000:001e000000025401000002d8040000]
 レイトン
 !******************************!
-<T><A1/2>Ah, I see. That does indeed sound
-problematic.
+<T><A1/2>Ah, entendo. Isso de fato parece problemático.
 !******************************!
 [7117030034000000:001e00000002290000000210050000]
 ジャック
 !******************************!
-<T>Maybe you can help. The papers say
-you're a learned man. Can you work
-out where this gear goes?
+<T>Talvez você possa ajudar. Os jornais dizem que
+o senhor é um homem muito instruído. Consegue
+descobrir onde essa engrenagem deve ir?
 !******************************!
 [7117030037000000:001e00000002540100000273050000]
 レイトン
 !******************************!
-<T><A1/1>Hmm? Me?<W> Well, I'd like to help,
-but I'm no expert in mechanics...
+<T><A1/1>Hmm? Eu?<W> Bem, gostaria de ajudar, mas não sou
+especialista em mecânica...
 !******************************!
 [711703003a000000:001e000000022900000002c2050000]
 ジャック
 !******************************!
-<T>Well, at least give it a try. Don't
-you want to see our biggest clock
-in its full working glory?
+<T>Ora, ao menos tente. Você não quer ver o nosso
+maior relógio em todo seu esplendor?
 !******************************!
 [711703003d000000:001e00000002540100000226060000]
 レイトン
 !******************************!
-<T><A4/1>I certainly do.<W> <A4/2>Very well, I'll
-give it a shot.
+<T><A4/1>Certamente que sim.<W> <A4/2>Muito bem, vou tentar.
 !******************************!
 [7117030040000000:00e803000002290000000268060000]
 ジャック
 !******************************!
-<T>Sorry, Professor. Until we get
-that gear back in place, I can't
-show you the clock in motion.
+<T>Desculpe, Professor. Não posso mostrar o relógio
+em movimento até colocarmos essa
+engrenagem no lugar.
 !******************************!
 [7117030043000000:00d0070000022900000002c9060000]
 ジャック
 !******************************!
-<T>Can you work out where this gear
-goes, Professor?
+<T>Consegue descobrir onde essa engrenagem vai,
+Professor?
 !******************************!
 [7117030046000000:00b80b0000022900000002fe060000]
 ジャック
 !******************************!
-<T>That did the trick!<W> <A3/0>Just wait here,
-and I'll go and start her up!
+<T>Deu certo!<W> <A3/0>Espere aqui,
+vou ligá-lo!
 !******************************!
 [7117030049000000:00b80b00000229000000024c070000]
 ジャック
 !******************************!
-<T>Here goes!
+<T>Aí vai!
 !******************************!

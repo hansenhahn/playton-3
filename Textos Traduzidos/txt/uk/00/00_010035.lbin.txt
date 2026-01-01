@@ -2,6 +2,6 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/1>Oh, I think I just heard the door!
-Someone's here!
+<T><A1/1>Ah, acho que escutei a porta!
+Algém chegou!
 !******************************!

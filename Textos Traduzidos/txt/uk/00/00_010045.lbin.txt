@@ -2,13 +2,13 @@
 [7117030001000000:000a00000002000000000209000000]
 サマリー
 !******************************!
-<T>Tee hee hoo! Didn't you want to
-talk to my husband?
+<T>Tee hee hoo! Vocês não queriam falar
+com meu marido?
 !******************************!
 [7117030004000000:000a00000002000000000240000000]
 サマリー
 !******************************!
-<T>Do stay and help my dear husband
-mend that big clock. We would both
-be very grateful!
+<T>Fiquem e ajudem meu querido marido a consertar
+aquele relógio enorme. Nós dois ficaríamos
+muito agradecidos!
 !******************************!
