@@ -5,6 +5,7 @@ echo "Layton's Assembler by DiegoHH"
 REM rem Arquivos copiados do espanhol/italiano, ou alterados o original, pelo fato de serem maiores ou terem a paleta de cores modificada
 copy "Arquivos Gerais\load_a.cani" "Arquivos Originais\uk\ani\menu\uk\load_a.cani" /B/Y
 copy "Arquivos Gerais\save_a.cani" "Arquivos Originais\uk\ani\menu\uk\save_a.cani" /B/Y
+copy "Arquivos Gerais\quit_btn.cani" "Arquivos Originais\uk\ani\nazo\uk\quit_btn.cani" /B/Y
 
 rem Cria os overlays
 cd Asm
