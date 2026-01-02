@@ -9,8 +9,8 @@ ligado a esta carta...</V>
 [7117030004000000:000a0000000200000000026b000000]
 OPルーク３
 !******************************!
-<V0020><T>Espere! Se a máquina do tempo era
-real, talvez esta carta seja real também!</V>
+<V0020><T>Espere! Se a máquina do tempo era real,
+talvez esta carta seja real também!</V>
 !******************************!
 [7117030007000000:000f00000002bd00000002ca000000]
 OPレイトン３

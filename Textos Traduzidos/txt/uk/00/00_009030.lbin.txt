@@ -3,18 +3,21 @@
 デビット
 !******************************!
 <T>Está procurando por uma relojoaria, é? <W><A3/5>
-Hmm... Não, não me lembro de nenhuma por aqui.
+Hmm... Não, não me lembro de nenhuma
+por aqui.
 !******************************!
 [7117030004000000:000a000000026f0000000276000000]
 ルーク
 !******************************!
-<T>Tá bom. Bem, obrigado de qualquer forma.
+<T>Tá bom. Bem, obrigado
+de qualquer forma.
 !******************************!
 [7117030007000000:000a00000002000000000299000000]
 デビット
 !******************************!
 <T><A1/1>Ah, espere um minuto! <W>Pensando melhor, 
-acho que passei por uma relojoaria outro dia.
+acho que passei por uma relojoaria
+outro dia.
 !******************************!
 [711703000a000000:000a000000026f00000002fe000000]
 ルーク
@@ -29,8 +32,9 @@ acho que passei por uma relojoaria outro dia.
 [7117030010000000:000a00000002000000000255010000]
 デビット
 !******************************!
-<T>Eu tenho dificuldades para lembrar as coisas
-quando estou com outras coisas na cabeça...
+<T>Eu tenho dificuldades para lembrar
+as coisas quando estou com outras coisas
+na cabeça...
 !******************************!
 [7117030013000000:000a000000020000000002a0010000]
 デビット
@@ -42,8 +46,9 @@ onde vi essa loja.
 [7117030016000000:000a000000026f000000020c020000]
 ルーク
 !******************************!
-<T><A3/2>Você está com sorte, senhor! Eu sou
-um verdadeiro craque quando se trata de enigmas!
+<T><A3/2>Você está com sorte, senhor!
+Eu sou um verdadeiro craque quando
+se trata de enigmas!
 !******************************!
 [7117030019000000:00e803000002000000000264020000]
 デビット
@@ -71,8 +76,9 @@ onde fica a relojoaria.
 [7117030025000000:00b80b00000200000000027a030000]
 デビット
 !******************************!
-<T><A2/2>Certo, a relojoaria. Fica em algum lugar
-dessa rua... Eu acho. <W><A1/1>Bem, preciso correr! Até mais!
+<T><A2/2>Certo, a relojoaria. Fica em algum
+lugar dessa rua... Eu acho. <W>
+<A1/1>Bem, preciso correr! Até mais!
 !******************************!
 [7117030028000000:00c20b0000026f00000002ec030000]
 ルーク
@@ -89,8 +95,8 @@ enigma do que realmente ajudar.
 [711703002e000000:00cc0b0000020e0400000284040000]
 レイトン
 !******************************!
-<T><A3/2>Mas não se preocupe. Tenho certeza de que
-conseguiremos encontrar a relojoaria
+<T><A3/2>Mas não se preocupe. Tenho certeza de
+que conseguiremos encontrar a relojoaria
 por conta própria.
 !******************************!
 [7117030031000000:00cc0b0000020e04000002dd040000]

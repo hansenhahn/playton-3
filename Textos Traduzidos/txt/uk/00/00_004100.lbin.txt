@@ -13,9 +13,9 @@ Podemos ajudar em algo?
 [7117030007000000:001400000002000000000282000000]
 スミス
 !******************************!
-<T><A3/5>Ajuda? Ah, sim, por favor! Veja bem,acabei
-de receber um relatório sobre um comportamento
-inapropriado...
+<T><A3/5>Ajuda? Ah, sim, por favor! Veja bem,
+acabei de receber um relatório sobre um
+comportamento inapropriado...
 !******************************!
 [711703000a000000:00e8030000020000000002e6000000]
 スミス
@@ -44,8 +44,8 @@ vai se aproveitar das coisas por aqui!
 [7117030016000000:00c20b000002de01000002e5010000]
 ルーク
 !******************************!
-<T>Viu isso, Professor? Eu acabei de ajudar
-a capturar um suspeito!
+<T>Viu isso, Professor? Eu acabei de
+ajudar a capturar um suspeito!
 !******************************!
 [7117030019000000:00c20b000002de0100000237020000]
 ルーク

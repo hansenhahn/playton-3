@@ -8,14 +8,15 @@ Dois jovenzinhos cheios de energia!
 [7117030004000000:000a0000000200000000023c000000]
 フローレス
 !******************************!
-<T><A2/0>Essas carinhas me dizem tudo! Aposto que
-estão loucos pra ouvir uma dica útil, não é?
+<T><A2/0>Essas carinhas me dizem tudo! Aposto
+que estão loucos pra ouvir uma dica útil,
+não é?
 !******************************!
 [7117030007000000:000a0000000200000000029e000000]
 フローレス
 !******************************!
-<T><A1/1>Muito bem, aqui vai uma dica de ouro: toque
-naquele carro estacionado ali.
+<T><A1/1>Muito bem, aqui vai uma dica de ouro:
+toque naquele carro estacionado ali.
 !******************************!
 [711703000a000000:0014000000020000000002f6000000]
 フローレス

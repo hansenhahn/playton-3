@@ -2,20 +2,22 @@
 [7117030001000000:000a00000002000000000209000000]
 サマリー
 !******************************!
-<T><A1/2>Ah céus, clientes! <W>Faz séculos que não recebemos
-nenhum! Sejam muito bem-vindos!
+<T><A1/2>Ah céus, clientes!
+<W>Faz séculos que não recebemos nenhum!
+Sejam muito bem-vindos!
 !******************************!
 [7117030004000000:000a000000025b0000000264000000]
 レイトン
 !******************************!
-<T><A3/1>Boa tarde, minha boa senhora. Perdoe-nos, temo que
-não estejamos aqui para comprar nada.
+<T><A3/1>Boa tarde, minha boa senhora.
+Perdoe-nos, mas temo que não estejamos
+aqui para comprar nada.
 !******************************!
 [7117030007000000:000a000000025b00000002cb000000]
 レイトン
 !******************************!
-<T>Recebi uma carta recentemente, instruindo-me
-a vir até aqui.
+<T>Recebi uma carta recentemente,
+instruindo-me a vir até aqui.
 !******************************!
 [711703000a000000:000a00000002000000000217010000]
 サマリー
@@ -26,48 +28,54 @@ a vir até aqui.
 [711703000d000000:000a0000000200000000026b010000]
 サマリー
 !******************************!
-<T>Hmm, sim. Não há engano algum.<W> Quem quer que tenha
-enviado isso, queria que vocês visitassem nossa
-lojinha.
+<T>Hmm, sim. Não há engano algum.<W> Quem
+quer que tenha enviado isso, queria
+que vocês visitassem nossa lojinha.
 !******************************!
 [7117030010000000:000a000000025b00000002d6010000]
 レイトン
 !******************************!
-<T><A1/1>Então a senhora não sabe quem me enviou?
+<T><A1/1>Então a senhora não
+sabe quem enviou?
 !******************************!
 [7117030013000000:000a00000002000000000204020000]
 サマリー
 !******************************!
-<T><A1/1>Infelizmente, não sei, não. Mas eu certamente
-sei quem é você, Professor Layton!
+<T><A1/1>Infelizmente, não sei, não.
+Mas eu certamente sei quem é você,
+Professor Layton!
 !******************************!
 [7117030016000000:000a00000002600200000267020000]
 ルーク
 !******************************!
-<T><A3/1>Sério? Como a senhora conhece o professor?
+<T><A3/1>Sério? Como a senhora
+conhece o professor?
 !******************************!
 [7117030019000000:000a0000000200000000029e020000]
 サマリー
 !******************************!
-<T><A1/2>Tee hee hoo! Ora, é difícil não conhecer um homem
-que aparece nos jornais o tempo todo.
+<T><A1/2>Tee hee hoo! Ora, é difícil não conhecer
+um homem que aparece nos jornais
+o tempo todo.
 !******************************!
 [711703001c000000:000a000000020000000002f4020000]
 サマリー
 !******************************!
-<T>E eu adoro o meu jornal matinal! Leio de capa a capa,
-todos os dias!
+<T>E eu adoro o meu jornal matinal!
+Leio de cabo a rabo, todos os dias!
 !******************************!
 [711703001f000000:000a0000000200000000023e030000]
 サマリー
 !******************************!
-<T><A1/5>Então é claro que eu sei sobre o professor.
+<T><A1/5>Então é claro que eu sei
+sobre o professor.
 !******************************!
 [7117030022000000:000a00000002600200000270030000]
 ルーク
 !******************************!
-<T><A3/2>Ouviu isso, Professor! Mais uma prova de que
-o senhor é famoso em toda Londres!
+<T><A3/2>Ouviu isso, Professor!
+Mais uma prova de que o senhor
+é famoso em toda Londres!
 !******************************!
 [7117030025000000:000a000000026002000002d0030000]
 ルーク
@@ -82,40 +90,44 @@ o senhor é famoso em toda Londres!
 [711703002b000000:000a00000002000000000230040000]
 サマリー
 !******************************!
-<T>Só porque a gente não quer viver espremido feito sardinha
-num apartamento minúsculo, não quer dizer que
-não estamos bem localizados!
+<T>Só porque não queremos viver espremidos
+num apartamento minúsculo, não quer
+dizer que não estamos bem localizados!
 !******************************!
 [711703002e000000:000a0000000200000000028b040000]
 サマリー
 !******************************!
-<T><A1/2>De qualquer forma, é mesmo um choque ver o famoso
-Professor Layton assim, ao vivo.
+<T><A1/2>De qualquer forma, é mesmo um choque
+ver o famoso Professor Layton assim,
+em carne e osso.
 !******************************!
 [7117030031000000:000a000000020000000002e0040000]
 サマリー
 !******************************!
-<T>Um choque tão grande que eu vou precisar de uma prova
-de que você não é um sósia qualquer!
+<T>Um choque tão grande que eu vou
+precisar de uma prova de que você não
+é um sósia qualquer!
 !******************************!
 [7117030034000000:00e803000002000000000245050000]
 サマリー
 !******************************!
 <T><A1/2>Dizem que não há enigma no mundo que
-você não resolva, mas eu só acredito vendo!
+você não resolva, mas eu só acredito
+vendo!
 !******************************!
 [7117030037000000:00d0070000020000000002b0050000]
 サマリー
 !******************************!
 <T><A1/2>Eu não vou acreditar que você é o
-verdadeiro Professor Layton até resolver
-este enigma!
+verdadeiro Professor Layton até
+resolver este enigma!
 !******************************!
 [711703003a000000:00b80b000002000000000207060000]
 サマリー
 !******************************!
-<T><A1/5>Bem, devo dizer que estou totalmente convencida.
-Você realmente faz jus à sua fama.
+<T><A1/5>Bem, devo dizer que estou totalmente
+convencida. Você realmente faz jus
+à sua fama.
 !******************************!
 [711703003d000000:00b80b00000260020000026d060000]
 ルーク
@@ -130,18 +142,20 @@ Você realmente faz jus à sua fama.
 [7117030043000000:00b80b0000020000000002b2060000]
 サマリー
 !******************************!
-<T>Eu não lembro de tê-la visto antes, mas meu marido
-talvez saiba de algo.
+<T>Eu não lembro de tê-la visto antes,
+mas meu marido talvez saiba de algo.
 !******************************!
 [7117030046000000:00b80b0000020000000002fb060000]
 サマリー
 !******************************!
-<T>Ele não está no momento, mas deve voltar logo.
-Por que não dão uma olhada na loja enquanto esperam?
+<T>Ele não está no momento, mas deve
+voltar logo. Por que não dão uma olhada
+na loja enquanto esperam?
 !******************************!
 [7117030049000000:00a00f00000200000000025f070000]
 サマリー
 !******************************!
-<T>Ele já deve estar voltando. Fiquem à vontade
-para olhar a loja enquanto aguardam.
+<T>Ele já deve estar voltando. Fiquem
+à vontade para olhar a loja enquanto
+aguardam.
 !******************************!

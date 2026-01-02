@@ -26,9 +26,9 @@ seu criador, Dr. Alain Stahngun!</V>
 [711703000d000000:001400000002020100000244010000]
 変装ディミトリー
 !******************************!
-<T><V0041><A4/5>Após anos de pesquisa no campo
-da viagem no tempo, tenho o prazer
-de compartilhar os frutos do meu trabalho.</V>
+<T><V0041><A4/5>Após anos de pesquisa no campo da
+viagem no tempo, tenho o prazer de
+compartilhar os frutos desse trabalho.</V>
 !******************************!
 [7117030010000000:0014000000020201000002bc010000]
 変装ディミトリー
@@ -47,7 +47,8 @@ Bill Hawks entre nós.</V>
 変装ディミトリー
 !******************************!
 <T><V0061>Para tal ocasião, reservei um lugar
-muito especial para nosso ilustre convidado.</V>
+muito especial para nosso ilustre
+convidado.</V>
 !******************************!
 [7117030019000000:0014000000020201000002e9020000]
 変装ディミトリー
@@ -121,7 +122,7 @@ nos escapou foi o tempo.</V>
 !******************************!
 <T><V0161>De fato, viajar no tempo é um sonho
 que muitos julgavam inalcançável
-para a humanidade...<A1/2>até agora.</V>
+para a humanidade...<A1/2> até agora.</V>
 !******************************!
 [711703003d000000:003200000002360300000298060000]
 ビル・ホーク
@@ -175,8 +176,8 @@ não há motivo para preocupação.</V>
 [7117030055000000:0046000000023603000002da080000]
 ビル・ホーク
 !******************************!
-<V0260><T><A1/5>Mas achei que estaria aqui apenas
-como um mero espectador deste evento...</V>
+<V0260><T><A1/5>Mas achei que estaria aqui apenas como
+um mero espectador deste evento...</V>
 !******************************!
 [7117030058000000:004600000002020100000241090000]
 変装ディミトリー

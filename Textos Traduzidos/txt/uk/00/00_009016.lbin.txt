@@ -14,9 +14,9 @@ a moedinha que saiu voando?<W>
 [7117030007000000:000a000000022b00000002a4000000]
 フローレス
 !******************************!
-<T>Sempre que você ficar empacado num enigma,
-é só gastar uma dessas moedinhas lindas pra
-receber uma dica.
+<T>Sempre que você ficar empacado num
+enigma, é só gastar uma dessas moedinhas
+lindas pra receber uma dica.
 !******************************!
 [711703000a000000:000a000000022b000000020b010000]
 フローレス
@@ -33,9 +33,9 @@ em apuros depois, hein?
 [7117030010000000:000a000000022b00000002a4010000]
 フローレス
 !******************************!
-<T>As moedas de dica estão escondidas por todo
-canto, então toque em qualquer coisa que
-parecer suspeita. Vai que tem uma moeda lá!
+<T>As moedas de dica estão escondidas por
+aí, então toque em qualquer coisa
+suspeita. Vai que tem uma moeda lá!
 !******************************!
 [7117030013000000:000a000000022b0000000211020000]
 フローレス

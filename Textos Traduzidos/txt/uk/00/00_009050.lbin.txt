@@ -40,8 +40,8 @@ completa.
 [7117030013000000:001400000002000000000204020000]
 ヒゲマフラー
 !******************************!
-<T><A2/3>O quê?!<W><A2/5> Mas... Explicar as moedas de dica
-é praticamente a única chance que
+<T><A2/3>O quê?!<W><A2/5> Mas... Explicar as moedas
+de dica é praticamente a única chance que
 tenho de conversar!
 !******************************!
 [7117030016000000:00140000000200000000026a020000]

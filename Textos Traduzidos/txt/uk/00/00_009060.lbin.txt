@@ -33,8 +33,8 @@ Como é que a gente vai entrar?
 [7117030013000000:0014000000023300000002d0000000]
 レイトン
 !******************************!
-<T><A4/1>Deixe-me ver.<W><A2/1> Ah, parece que é
-hora de um enigma. Precisamos resolvê-lo
+<T><A4/1>Deixe-me ver.<W><A2/1> Ah, parece que é hora de
+um enigma. Precisamos resolvê-lo
 para abrir a porta.
 !******************************!
 [7117030016000000:00e803000002000000000247010000]
