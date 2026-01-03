@@ -1,0 +1,54 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T><A2/1>Hmm... Tem algo estranho nessa área também.<W>
+Está tudo completamente diferente
+de antes.
+!******************************!
+[7117030004000000:000a0000000272000000027b000000]
+レイトン
+!******************************!
+<T>De fato, Luke. <A4/5>Há algo acontecendo
+aqui que ainda não compreendo
+por completo.
+!******************************!
+[7117030007000000:000a000000020000000002d1000000]
+ルーク
+!******************************!
+<T>Ah, espera! Acho que sei o que aconteceu!
+<W><A3/2> A gente deve ter saído da loja
+por outra porta.
+!******************************!
+[711703000a000000:000a00000002000000000238010000]
+ルーク
+!******************************!
+<T>Provavelmente estamos seguindo um
+caminho diferente, longe da loja.
+!******************************!
+[711703000d000000:000a00000002720000000277010000]
+レイトン
+!******************************!
+<T><A1/1>Não, isso não pode estar correto.<W> 
+Lembre-se de quando saímos da loja, Luke.
+!******************************!
+[7117030010000000:000a000000027200000002c7010000]
+レイトン
+!******************************!
+<T>Saímos pela mesma porta pela qual entramos.
+Tenho absoluta certeza disso.
+!******************************!
+[7117030013000000:000a0000000200000000021f020000]
+ルーク
+!******************************!
+<T><A4/4>É, acho que o senhor tem razão,
+Professor.<W> Mas então o que poderia
+explicar essa mudança nos arredores?
+!******************************!
+[7117030016000000:000a00000002720000000287020000]
+レイトン
+!******************************!
+<T><A3/1>Vamos investigar a região com 
+mais cuidado. Talvez isso nos ajude
+a esclarecer as coisas.
+!******************************!
