@@ -3,30 +3,33 @@
 ルーク
 !******************************!
 <T><A3/2>Eu nunca vi tantos relógios juntos
-no memso lugar!
+no mesmo lugar!
 !******************************!
 [7117030004000000:000a000000023d0000000246000000]
 レイトン
 !******************************!
-<T><A4/2>Sim, e todos são extremamente bem feitos. Quem os
-construiu deve ser muito talentoso.
+<T><A4/2>Sim, e todos são extremamente
+bem feitos. Quem os construiu deve
+ser muito talentoso.
 !******************************!
 [7117030007000000:000a000000020000000002a3000000]
 ルーク
 !******************************!
-<T><A1/1>Sério? Como dá pra saber isso só de olhar?
+<T><A1/1>Sério? Tem como saber
+isso só de olhar?
 !******************************!
 [711703000a000000:000a000000023d00000002e3000000]
 レイトン
 !******************************!
-<T>Ho ho! Com a idade, a gente acaba criando um olhar
-treinado para essas coisas, meu garoto.
+<T>Ho ho! Com a idade, a gente acaba
+criando um olhar treinado para essas
+coisas, meu garoto.
 !******************************!
 [711703000d000000:000a000000023d0000000221010000]
 レイトン
 !******************************!
-<T><A2/2>Sabe, talvez este seja o momento ideal para
-aquele meu enigma do relógio.
+<T><A2/2>Sabe, talvez este seja o momento
+ideal para aquele meu enigma do relógio.
 !******************************!
 [7117030010000000:000a000000023d0000000270010000]
 レイトン
@@ -46,7 +49,8 @@ aquele meu enigma do relógio.
 [7117030019000000:00d0070000023d00000002cd010000]
 レイトン
 !******************************!
-<T><A1/2>Vamos retomar aquele enigma sobre relógio?
+<T><A1/2>Vamos retomar aquele
+enigma sobre relógio?
 !******************************!
 [711703001c000000:00b80b0000023d000000020b020000]
 レイトン

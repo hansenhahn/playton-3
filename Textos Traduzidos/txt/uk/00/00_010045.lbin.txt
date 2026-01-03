@@ -8,7 +8,7 @@ com meu marido?
 [7117030004000000:000a00000002000000000240000000]
 サマリー
 !******************************!
-<T>Fiquem e ajudem meu querido marido a consertar
-aquele relógio enorme. Nós dois ficaríamos
-muito agradecidos!
+<T>Fiquem e ajudem meu querido marido
+a consertar aquele relógio enorme.
+Nós dois ficaríamos muito agradecidos!
 !******************************!

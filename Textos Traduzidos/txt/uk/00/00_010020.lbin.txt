@@ -2,7 +2,8 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/1>Uau, você consegue acrditar nesse relógio?
+<T><A1/1>Caraca, você consegue acreditar
+nesse relógio?
 !******************************!
 [7117030004000000:000a0000000231000000023a000000]
 レイトン
@@ -13,36 +14,39 @@ não parece estar funcionando.
 [7117030007000000:000a00000002000000000289000000]
 ルーク
 !******************************!
-<T><A4/1>Bom, pelo menos ainda existem várias outras
-maneiras de ver as horas por aqui.
+<T><A4/1>Bom, pelo menos ainda existem
+várias outras maneiras de ver as
+horas por aqui.
 !******************************!
 [711703000a000000:000a000000023100000002dc000000]
 レイトン
 !******************************!
-<T><A2/2>Ah, você acabou de me lembrar de um enigma
-magnífico, Luke.
+<T><A2/2>Ah, você acabou de me lembrar
+de um enigma magnífico, Luke.
 !******************************!
 [711703000d000000:00e80300000231000000021d010000]
 レイトン
 !******************************!
-<T><A4/1>Suponho que possamos deixar este enigma
-para mais tarde.
+<T><A4/1>Acho que possamos deixar este
+enigma para mais tarde.
 !******************************!
 [7117030010000000:00d007000002310000000251010000]
 レイトン
 !******************************!
 <T><A4/2>Sabe, Luke, você ainda não resolveu
-o enigma do relógio que mencionei mais cedo.
+o enigma do relógio que mencionei
+mais cedo.
 !******************************!
 [7117030013000000:00b80b0000020000000002a6010000]
 ルーク
 !******************************!
 <T><A4/1>Sabe, eu nunca tinha visto um relógio tão
-grande assim de perto.<W> <A4/4>É uma pena de verdade
-que ele não esteja funcionando.
+grande assim de perto.<W> <A4/4>É uma pena que ele
+não esteja funcionando.
 !******************************!
 [7117030016000000:00a00f00000200000000021f020000]
 ルーク
 !******************************!
-<T><A1/1>Esse relógio é simplesmente fantástico!
+<T><A1/1>Esse relógio é simplesmente
+fantástico!
 !******************************!
