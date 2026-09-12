@@ -15,11 +15,12 @@ Skill para tradução **não-mecânica** de Professor Layton PT-BR. Use ao tradu
 
 ## Fontes de verdade (ler antes de traduzir)
 
-1. **Regras obrigatórias:** `Spec/REGRAS_TRADUCAO.md` — glossário (`enigma`, `Livro de Enigmas`, `moeda de dica`, `cavalheiro`, `Inspetor/Agente`, `Vovó Riddleton`, `Don Paolo`), placeholders, caixa 3 linhas/210px, tags na mesma posição e sem contar na largura, encoding `windows-1252`
+1. **Regras obrigatórias:** `Spec/REGRAS_TRADUCAO.md` — glossário (`enigma`, `Livro de Enigmas`, `moeda de dica`, `cavalheiro`, `Inspetor/Agente`, `Vovó Riddleton`, `Don Paolo`), placeholders, caixa 3 linhas, tags na mesma posição e sem contar na largura, encoding `utf-8` sem BOM
 2. **Voz por personagem:** `Spec/Personagens/_INDICE.md` → dossiê do falante (`Hershel_Layton.md`, `Luke_Triton.md`, `Flora_Reinhold.md`, `Clive_FutureLuke.md`, `Dimitri_Allen.md`, `Don_Paolo.md`, `Claire_Celeste.md`, `Chelmey_Barton.md`, `Coggs.md`, `Bostro_Family.md`, `Secundarios_*.md`, `Criaturas_Mascotes.md`) — **única fonte de registro, bordões e proibições; não fixar voz na skill**
 3. **Continuidade J2→J3:** `Spec/Personagens/Mapeamento_Continuidae_Jogo2_Jogo3.md` + `Spec/Analise_Traducao_Jogo2.md` (nota 8.4/10) — o que manter (`Bem pensado!`, `Bom trabalho!`, `Pode deixar, Professor!`) e o que corrigir (`quebra-cabeça` → `enigma` exceto `jigsaw`, `Índice` → `Livro`, `Granny` → `Vovó`)
 4. **Resumos narrativos:** `Spec/Capitulo_00_Prologo.md` → `Spec/Capitulo_14.md` + `Spec/Extras_18.md`/`19.md`/`20.md`/`30.md` — contexto narrativo e informações relevantes das falas e arquivos de cada capítulo. **Leia o resumo do capítulo antes de iniciar sua tradução e consulte o resumo específico do arquivo sempre que disponível.** Use esses documentos para manter continuidade de eventos, relações entre personagens, referências, objetos, locais, informações já reveladas e contexto de cada fala. Quando uma fala depender de acontecimentos de outro capítulo, consulte também o resumo correspondente. Não invente contexto ausente nos documentos.
 5. **Original vs traduzido J2:** `../playton-2/Textos Originais/plz` ↔ `../playton-2/Textos Traduzidos/plz` — para checar `gentleman` → `cavalheiro` (`ev_t15.plz.txt:t15_020_500.gds:1`), `my boy` → `meu garoto` (`ht_tlk.plz.txt:ht_011_3:1`), `puzzle` → `enigma` (`txt2.plz.txt:tx_204:1`)
+6. Nomes em japonês **não devem ser traduzidos**
 
 > **Princípio de continuidade:** nunca trate uma fala como texto isolado. Antes de escolher uma tradução ambígua, verifique o contexto narrativo, o falante, a relação entre os personagens e o que já foi estabelecido no jogo. Uma tradução deve ser coerente não apenas com a frase original, mas com o universo narrativo e com as traduções já estabelecidas.
 
