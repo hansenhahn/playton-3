@@ -1,0 +1,51 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n219
+!******************************!
+n219a
+!******************************!
+n219b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ah, não! Você está preso embaixo da
+terra! Para escapar, crie um caminho
+pelos blocos e chegue à superfície. A
+saída está marcada pela seta branca.
+
+Você é a bola laranja lá embaixo.
+
+Boa sorte!
+!******************************!
+[ec0b01000b000000:02d3000000]
+Você está livre!
+
+Esse tipo de enigma continua sendo 
+difícil de resolver não importa o
+quanto você tente!
+!******************************!
+[ed0b01000c000000:023f010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:0254010000]
+Esse enigma é difícil, mas pode ser
+resolvido em até 10 movimentos.
+
+Ache um jeito de mover o bloco azul
+para o espaço quadrado da direita. Então
+deslize o bloco amarelo para o canto do
+bloco azul. Depois, deslize o bloco
+laranja ao redor da ponta do bloco
+amarelo.
+
+Isso deve te ajudar a escapar!
+!******************************!
+[ef0b01000e000000:0285020000]
+
+!******************************!
+[f00b01000f000000:0286020000]
+
+!******************************!
+[f10b010010000000:0287020000]
+
+!******************************!

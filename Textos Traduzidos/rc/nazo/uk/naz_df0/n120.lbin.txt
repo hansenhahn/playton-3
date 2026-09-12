@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000100400000010040000000100000000000000000000000000]
+n120
+!******************************!
+n120a
+!******************************!
+n120b
+!******************************!
+[eb0b01000a000000:0211000000]
+Caminhe do ponto inicial até o final,
+mas cuidado com as cascas de banana.
+Assim que pisar em uma, você deslizará
+até bater em uma parede!
+
+Consegue achar um caminho sólido
+por estas ruas escorregadias?
+
+Toque em uma seta vermelha para ir
+na direção indicada.
+!******************************!
+[ec0b01000b000000:0210010000]
+Frutífero!
+ 
+Curiosidade interessante sobre as
+bananas: elas são uma das frutas que
+continua amadurecendo mesmo após ser
+colhida. Ou seja, elas ainda estarão
+verdes quando colhidas. Apesar disso,
+você não gostaria de comer uma banana
+verde. Talvez não seria uma boa ideia.
+!******************************!
+[ed0b01000c000000:021e020000]
+Errado!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:0236020000]
+Talvez pareça óbvio, mas não dá para
+ir reto no primeiro cruzamento.
+!******************************!
+[ef0b01000e000000:027e020000]
+Desça no primeiro cruzamento e pegue
+a saída à esquerda no próximo.
+
+Agora desliza até o fim!
+!******************************!
+[f00b01000f000000:02d2020000]
+Seguindo a Dica 2, assim que você
+deslizar até a parede da esquerda, desça
+e deslize à parede de baixo. Então vire
+à direita e ande até deslizar de novo!
+!******************************!
+[f10b010010000000:026d030000]
+Seguindo a Dica 3, no cruzamento embaixo
+à direita, volte pela esquerda até antes
+de você passar por uma casca de banana.
+Agora suba e deslize até o topo.
+
+A parte deslizante da viagem acabou.
+Agora é só andar até o final!
+!******************************!

@@ -1,0 +1,79 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n157
+!******************************!
+n157a
+!******************************!
+n157b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você encontrou um bom pedaço de terra
+e deseja dividi-lo no maior número
+possível de lotes diferentes.
+
+Você tem cinco cordas para usar. Cada
+uma deve ser estendida em linha reta
+acima da terra, e elas podem se cruzar
+quantas vezes você quiser.
+
+Usando só essas cinco cordas, qual é o
+número máximo de divisões que podem ser
+feitas no solo?
+!******************************!
+[ec0b01000b000000:0282010000]
+Excelente!
+
+Você pode dividir o pedaço de terra em
+16 partes diferentes!
+
+A primeira corda divide o pedaço em duas
+partes. A segunda divide em quatro. A
+terceira cruza as duas primeiras e
+divide a terra em sete partes. Assim que
+você tiver usado as cinco cordas assim,
+você terá 16 partes no final!
+
+Em resumo, você irá formar uma estrela
+no centro do solo, como mostrado acima.
+!******************************!
+[ed0b01000c000000:0219030000]
+Que pena!
+
+As partes podem ser de tamanhos
+diferentes. O importante é dividi-los
+no maior número de lotes possíveis.
+!******************************!
+[ee0b01000d000000:0299030000]
+Cinco cordas só criariam seis partes
+se não fosse possível cruzá-las.
+
+Mas já que elas podem se cruzar,
+você pode dividir a terra em mais
+partes.
+
+!******************************!
+[ef0b01000e000000:023c040000]
+Se você estender duas cordas acima do
+solo e cruzá-las no meio, você dividirá
+a terra em quatro partes diferentes.
+E assim você já usou duas das cinco
+cordas!
+!******************************!
+[f00b01000f000000:02ec040000]
+Com as cinco cordas, você pode dividir
+o pedaço de terra em mais de 10
+partes diferentes.
+!******************************!
+[f10b010010000000:0249050000]
+Use a Função Notas e desenhe uma estrela
+no meio do círculo, usando cinco linhas
+retas. Certifique-se das pontas da
+estrela estarem bem alinhadas no círculo
+e as linhas criando cada ponta se
+estendam na grama, para que elas criem
+lotes entre a circunferência do círculo
+e o lado de fora da estrela.
+
+Agora conte cada parte. No total,
+são quantas?
+
+!******************************!

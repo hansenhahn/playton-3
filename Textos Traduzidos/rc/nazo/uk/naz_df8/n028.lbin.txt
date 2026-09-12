@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n028
+!******************************!
+n028a
+!******************************!
+n028b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa é uma foto de quatro cavaleiros com
+suas lanças. Uma delas se quebrou, mas
+foi consertada com linha antes da foto
+ser tirada.
+
+De quem é a lança quebrada?
+
+Para deixar claro, todas as lanças
+estavam retas antes.
+!******************************!
+[ec0b01000b000000:02e5000000]
+Na mosca!
+
+É fácil perceber o desalinhamento da
+lança do C ao olhá-la de baixo
+diagonalmente..
+!******************************!
+[ed0b01000c000000:024c010000]
+Resposta errada!
+
+Um olho bem atento vai te ajudar
+bastante nesse enigma.
+!******************************!
+[ee0b01000d000000:028b010000]
+Compare todas as lanças cuidadosamente.
+A gambiarra acima da foto é uma pista.
+!******************************!
+[ef0b01000e000000:02d9010000]
+O cabo e a ponta da lança quebrada
+não estão bem alinhados.
+!******************************!
+[f00b01000f000000:021a020000]
+Olhe a foto de diferentes ângulos.
+Agora você entendeu, não é?
+!******************************!
+[f10b010010000000:0262020000]
+As lanças dos cavaleiros A e B
+parecem estar retas.
+
+Compare as lanças dos cavaleiros C e D
+cuidadosamente.
+!******************************!

@@ -6,59 +6,59 @@ n091a
 n091b
 !******************************!
 [eb0b01000a000000:0211000000]
-How to open:
+Como abrir:
 
-{''}Start from a button and follow the
-arrows from one button to the next.
-Find the only button that will lead
-you through all the other buttons
-on the panel!{''}
+{''}Comece de um botão e siga as
+setas de um botão para o próximo.
+Ache o único botão que te guiará
+por todos os outros botões no
+painel!{''}
 
-Can you work out which button leads
-through all the rest?
+Consegue descobrir qual é o botão
+que te guiará pelo resto deles?
 
-Touch the button to mark it!
+Toque o botão para marcá-lo!
 !******************************!
 [ec0b01000b000000:021b010000]
-That's the one!
+É esse mesmo!
 
-Did you find the button that doesn't
-point to any other button and work
-backwards from there?
+Encontrou o botão que não apontava
+para nenhum outro e fez o caminho
+inverso por ele?
 
-The starting button isn't pointed at
-by any other button either, so that's
-another way to solve this puzzle.
+O botão de partida não é apontado por
+nenhum outro botão também, então essa
+é outra maneira de resolver o enigma.
 !******************************!
 [ed0b01000c000000:02f8010000]
-Too bad!
+Errou!
 
-The answer shouldn't be too difficult
-once you understand the conditions of
-the puzzle. Give it another try!
+A resposta não deve ser difícil desde
+que você entenda as condições deste
+enigma. Tente de novo!
 !******************************!
 [ee0b01000d000000:026f020000]
-Instead of looking for the starting
-button, try looking for the end button
-and work backwards. Bear in mind that
-the arrow on the end button won't point
-to any other button.
+Em vez de procurar por qual botão
+começar, tente procurar pelo último
+botão e faça o caminho inverso. Tenha
+em mente que a seta no botão final
+não aponta para nenhum outro botão.
 !******************************!
 [ef0b01000e000000:021d030000]
-The end button doesn't point to any
-other button, so it must be a button
-on the edge that points outwards.
-Once you've found the end point, you
-can work your way backwards to find
-the starting button!
+O último botão não aponta para nenhum
+outro, então deve ser um botão nas
+pontas que aponta para fora. Assim
+que achar ele, você pode fazer o
+caminho inverso para poder encontrar
+o botão de partida!
 !******************************!
 [f00b01000f000000:02e6030000]
-The end point is the button in the
-top-right corner. Work backwards
-from there to find the start!
+O botão final é o botão do canto
+superior direito. Faça o caminho
+contrário para achar o começo!
 !******************************!
 [f10b010010000000:0248040000]
-The starting button isn't pointed at
-by any other button. Can you find it?
-That's your answer!
+O botão de partida não é apontado por
+nenhum outro. Consegue achá-lo?
+Ele é a sua resposta!
 !******************************!

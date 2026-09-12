@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n003
+!******************************!
+n003a
+!******************************!
+n003b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você demora uma hora para chegar ao
+trabalho de ônibus. Você trabalha por
+duas horas e pega o ônibus para casa no
+ponto próximo de onde trabalha. Os
+horários de partida dos ônibus estão
+mostrados abaixo.
+
+Você quer ir e voltar de ônibus no menor
+tempo possível. Qual ônibus você deve
+pegar para ir ao trabalho para conseguir
+ir o mais rápido possível?
+
+Toque na letra próxima ao horário
+de partida desse ônibus.
+!******************************!
+[ec0b01000b000000:02b4010000]
+Exato!
+
+Pegar o ônibus noturno para o trabalho
+e pegar o primeiro ônibus da manhã para
+voltar vai demorar menos tempo em geral.
+
+!******************************!
+[ed0b01000c000000:023f020000]
+Que azar!
+
+Talvez fazer algumas anotações dos
+horários possa te ajudar.
+!******************************!
+[ee0b01000d000000:028d020000]
+Você pode escolher qualquer ônibus para
+ir trabalhar, mas terá que pegar o
+primeiro a sair depois de trabalhar
+para voltar o mais rápido possível.
+
+Lembre-se de levar isso em consideração.
+!******************************!
+[ef0b01000e000000:025a030000]
+Por exemplo, imagine que tenha um ônibus
+às 12:30. Se você pegar esse ônibus,
+chegaria no trabalho às 13:30. Você
+sairia do trabalho às 15:30. 
+
+Pense em qual horário você sairia do
+trabalho com cada horário dos ônibus.
+!******************************!
+[f00b01000f000000:023e040000]
+Esqueça qualquer noção e conceito que
+você tenha sobre horário de trabalho.
+
+Aqui, você trabalha a hora que quiser. 
+!******************************!
+[f10b010010000000:02af040000]
+Não descarte trabalhar de noite
+e voltar para casa de manhã...
+!******************************!

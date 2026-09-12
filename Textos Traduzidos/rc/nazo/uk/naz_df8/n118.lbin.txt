@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000100400000010040000000100000000000000000000000000]
+n118
+!******************************!
+n118a
+!******************************!
+n118b
+!******************************!
+[eb0b01000a000000:0211000000]
+Caminhe do ponto inicial até o final,
+mas cuidado com as cascas de banana.
+Assim que pisar em uma, você deslizará
+até bater em uma parede!
+
+Consegue achar um caminho sólido
+por estas ruas escorregadias?
+
+Toque em uma seta vermelha para ir
+na direção indicada.
+!******************************!
+[ec0b01000b000000:0210010000]
+Perfeito!
+
+A maioria das pessoas já viu cascas de
+banana sendo usadas em desenhos para
+efeito cômico. Mas se você já pisou em
+uma casca de banana, já sabe que não
+é muito engraçado!
+
+Não é à toa que o Professor Layton
+considera jogar lixo errado como o
+cúmulo da má-educação para cavalheiros.
+!******************************!
+[ed0b01000c000000:0223020000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:023b020000]
+Tente caminhos diferentes.
+
+Só para saber, na última parte você
+vai ter que andar um pouco a mais.
+!******************************!
+[ef0b01000e000000:029e020000]
+No primeiro cruzamento, vá para baixo.
+Você deslizará o caminho todo até
+a parede.
+!******************************!
+[f00b01000f000000:02f7020000]
+Seguindo a Dica 2, volte para onde
+você estava antes da primeira casca
+de banana que você passou.
+!******************************!
+[f10b010010000000:0250030000]
+Seguindo a Dica 3, deve estar bem óbvio
+qual caminho tomar agora. Use a próxima
+casca de banana que encontrar para
+deslizar até a parede e vá para o 
+ponto de chegada de lá. Se você
+deslizar sem querer em uma casca, é
+melhor começar de novo.
+!******************************!

@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000000000000]
+n039
+!******************************!
+n039a
+!******************************!
+n039b
+!******************************!
+[eb0b01000a000000:0211000000]
+Nos últimos anos, esta cidade esteve
+em alta no número de acidentes e crimes.
+De acordo com uma pesquisa, existe um
+lugar na cidade que possui uma média
+elevada de mortes e pessoas feridas
+ao longo do ano do que em outro lugar.
+
+Onde poderia ser esse lugar? Circule
+o nome dele.
+
+!******************************!
+[ec0b01000b000000:022f010000]
+Exatamente!
+
+Podem haver diversos lugares perigosos
+na cidade, mas o hospital é onde as
+pessoas doentes e feridas vão
+ao longo do ano.
+!******************************!
+[ed0b01000c000000:02c0010000]
+Que pena!
+
+Pense na pergunta novamente.
+!******************************!
+[ee0b01000d000000:02ef010000]
+O ponto-chave é o fato de ser a média
+ao longo do ano.
+!******************************!
+[ef0b01000e000000:022b020000]
+Só por haver muitas mortes e pessoas
+feridas em um lugar, ele não
+necessariamente precisa ser perigoso.
+.
+!******************************!
+[f00b01000f000000:02ad020000]
+Essa descrição pode se aplicar a um
+lugar onde muitos crimes e acidentes
+ocorrem. Porém, também se aplica a um
+lugar que reúne pessoas feridas e
+doentes.
+!******************************!
+[f10b010010000000:024c030000]
+Só há um lugar onde as pessoas feridas
+e doentes são levadas.
+!******************************!

@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n116
+!******************************!
+n116a
+!******************************!
+n116b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse é um Laytangram.
+
+Para criar a chave, encaixe as cinco
+peças que formam a cartola no formato
+chave, sem sobrepor as peças ou
+deixando qualquer espaço vazio.
+
+Você consegue?
+
+Se necessário, você pode virar as peças.
+!******************************!
+[ec0b01000b000000:02fe000000]
+Muito bem!
+
+Agora que você tem a chave, você
+só precisa de um cadeado!
+!******************************!
+[ed0b01000c000000:023a010000]
+Que pena.
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:024f010000]
+Coloque o {#3} de pé e encaixe-o
+bem na ponta da chave.
+!******************************!
+[ef0b01000e000000:0293010000]
+Você precisa botar o {#2} na horizontal
+na parte do entalhe da chave.
+
+Você pode completar a chave virando
+ou não o {#0}, mas a posição dele
+vai mudar.
+!******************************!
+[f00b01000f000000:022f020000]
+{#1} não fica virada.
+
+Consegue completar o enigma agora?
+!******************************!
+[f10b010010000000:0266020000]
+{#1} é a base do eixo da chave.
+
+Agora você só precisa encaixar {#0}
+e {#4} juntos.
+!******************************!

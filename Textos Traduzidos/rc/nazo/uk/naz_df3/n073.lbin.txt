@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n073
+!******************************!
+n073a
+!******************************!
+n073b
+!******************************!
+[eb0b01000a000000:0211000000]
+Alguém estava fazendo uma corrida de
+galinhas! Essa é a foto da chegada,
+mas alguém a rasgou em pedaços...
+
+Descubra qual das galinhas chegou
+em sétimo lugar.
+
+Circule a galinha correta.
+!******************************!
+[ec0b01000b000000:02d2000000]
+Resposta certa!
+
+A galinha E chegou em sétimo.
+!******************************!
+[ed0b01000c000000:0208010000]
+Errou!
+
+Essa é bem sacana. Pense cuidadosamente
+antes de responder de novo.
+!******************************!
+[ee0b01000d000000:0256010000]
+Olhe com atenção como as peças se
+encaixam, começando com a linha de
+chegada.
+
+Perceba que as peças não estão viradas.
+!******************************!
+[ef0b01000e000000:02cd010000]
+Por causa de não estarem viradas, é
+nítido que a ponta esquerda da foto é
+a linha de chegada. Quer dizer que a
+peça com a galinha G e a peça do meio
+do canto esquerdo se encaixam para
+formarem juntas o canto esquerdo da
+foto.
+!******************************!
+[f00b01000f000000:02b0020000]
+Usando a Dica 2, você pode descobrir
+quais peças formam o canto direito da
+foto. Exato, são as peças que contém
+as galinhas K e C. Agora encontre as
+peças que se encaixam nelas.
+!******************************!
+[f10b010010000000:0276030000]
+Essa é a ordem de chegada do primeiro
+ao sexto lugar: G, D, H, L, I, M.
+
+Com o número de competidores reduzido,
+a resposta agora ficará mais clara do
+que a gema do ovo da galinha!
+!******************************!

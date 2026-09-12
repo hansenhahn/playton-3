@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n049
+!******************************!
+n049a
+!******************************!
+n049b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse estudante desenhou cinco formas
+na lousa, mas uma delas não parece
+muito certa do padrão.
+
+Circule a forma fora do padrão.
+!******************************!
+[ec0b01000b000000:0298000000]
+Excelente!
+As outras formas são feitas por três
+números 3, quatro números 4, cinco
+números 5 e sete números 7. Esta em 
+específico não parece seis 6 ou nove 9.
+!******************************!
+[ed0b01000c000000:0218010000]
+Resposta errada!
+
+Essas formas são um pouco estranhas,
+mas elas possuem significado.
+!******************************!
+[ee0b01000d000000:0267010000]
+Tente desenhar alguma das formas
+por si só. Desenhá-las talvez te dê
+uma dica de como elas são formadas.
+!******************************!
+[ef0b01000e000000:02d0010000]
+Já percebeu que todas as formas
+são feitas de números?
+
+Pense na relação entre cada forma
+e seu número correspondente.
+
+!******************************!
+[f00b01000f000000:025c020000]
+Uma forma é feita de três números 3,
+e a outra de quatro números 4...
+
+Há uma correlação entre o número
+usado em cada forma e quantos deles
+tem em cada forma. Com isso em mente,
+consegue descobrir qual forma
+não parece correta nesse padrão?
+!******************************!
+[f10b010010000000:0236030000]
+Uma das formas é feita por um número
+que pode ser lido do jeito certo ou
+de ponta-cabeça.
+
+Considere quantos desse número tem
+nessa forma e verá que ela não segue
+a regra.
+!******************************!

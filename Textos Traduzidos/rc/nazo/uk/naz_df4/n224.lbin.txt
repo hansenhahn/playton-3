@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000000000000000000000000000000]
+n224
+!******************************!
+n224a
+!******************************!
+n224b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Nos encontramos novamente, Professor!
+Sou eu, Anton, seu rival em Professor
+Layton e a Caixa de Pandora, e estou aqui
+para lhe presentear com um grande e
+agradável enigma.
+
+Consegue remover a joia dessa caixa
+complexa e colocá-la no espaço indicado
+pelas setas?
+
+Quero que aproveite este enigma em sua
+mais pura forma, então não vou estar lhe
+dando dicas!{''}
+!******************************!
+[ec0b01000b000000:026c010000]
+{''}Excelente!
+
+Vejo que suas habilidades de resolver
+enigmas adquiridas em Professor Layton
+e a Caixa de Pandora ainda perduram.
+
+Isso me lembra... Tenho certeza que
+entenderá se eu lhe pedir que mantenha
+minha identidade em segredo.
+
+Até mais!{''}
+!******************************!
+[ed0b01000c000000:0265020000]
+
+!******************************!
+[ee0b01000d000000:0266020000]
+
+!******************************!
+[ef0b01000e000000:0267020000]
+
+!******************************!
+[f00b01000f000000:0268020000]
+
+!******************************!
+[f10b010010000000:0269020000]
+
+!******************************!

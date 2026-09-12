@@ -1,0 +1,69 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n112
+!******************************!
+n112a
+!******************************!
+n112b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este bonito relógio analógico possui uma
+pequena tela embaixo que mostra o dia
+do mês, assim como pode ser visto
+nos três exemplos abaixo.
+
+Dos três números indicados pelas letras
+A, B e C, qual delas seria, na verdade,
+impossível de se ver neste relógio?
+
+!******************************!
+[ec0b01000b000000:0217010000]
+Genial!
+
+O número do exemplo C é a resposta
+correta.
+
+Podemos inferir A e B mudando os dias
+durante a meia-noite, por isso não há
+chance alguma de C ser possível. 
+!******************************!
+[ed0b01000c000000:02cb010000]
+Resposta errada!
+
+Lembre-se, é um relógio analógico. Pense
+no mecanismo que este relógio deve usar
+para mostrar todos os dias do mês.
+!******************************!
+[ee0b01000d000000:024e020000]
+Todos os dias do mês estão alinhados em
+ordem em um disco dentro do relógio.
+
+Porém, quando a data muda, talvez alguma
+data que não exista possa aparecer...
+!******************************!
+[ef0b01000e000000:02ee020000]
+Dois dos três exemplos mostram a data
+no momento em que se está mudando de um
+dia para o outro. 
+
+Pense em como dois desses números são
+possíveis e tente descobrir o porquê
+de um deles ser impossível.
+!******************************!
+[f00b01000f000000:02b2030000]
+Tenha em mente que cada dia do mês está
+alinhado em ordem em um disco rotatório
+dentro do relógio.
+
+Então quando o dia 19 muda para o dia
+20, por exemplo, você veria, na verdade,
+o número 92 mostrado por alguns segundos
+durante a meia-noite.
+!******************************!
+[f10b010010000000:0295040000]
+O número 93 do exemplo B mostra a data
+do dia 29 mudando para o dia 30 durante
+a meia-noite.
+
+Aliás, não tem nenhum dia 40
+em nenhum mês...
+!******************************!

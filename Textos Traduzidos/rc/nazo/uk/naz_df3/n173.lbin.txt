@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n173
+!******************************!
+n173a
+!******************************!
+n173b
+!******************************!
+[eb0b01000a000000:0211000000]
+O vendedor de um grande rancho exigiu de
+um possível comprador a compra de todas
+as vacas e galinhas que atualmente vivem
+na área ou o negócio não fecha!
+
+{''}Há 30 animais em minha fazenda.{''}
+
+{''}Mas... há quantos de cada?{''}
+
+{''}Bom, há 100 pernas. Ótima barganha,
+não acha? Trato feito?{''}
+
+Todos os animais estão saudáveis e com
+todas as suas pernas. Há quantas vacas?
+!******************************!
+[ec0b01000b000000:029c010000]
+Exato!
+
+Há 20 vacas vivendo na fazenda.
+
+20 vacas com quatro pernas cada possuem
+80 pernas. 10 galinhas com duas pernas
+cada possuem 20 pernas. Juntos, eles
+são 30 animais com 100 pernas!
+!******************************!
+[ed0b01000c000000:025d020000]
+Errado!
+
+Não deixe esse vendedor safado te enganar!
+!******************************!
+[ee0b01000d000000:028e020000]
+Você sabe que no total, são 100 pernas,
+então comece por aí. Tente combinações
+diferentes de números e veja o que você
+consegue descobrir.
+
+Digamos que haja 15 vacas e 15 galinhas.
+Para as vacas, é 15 vezes 4 pernas, e
+para as galinhas, 15 vezes 2 pernas.
+Isso te dá 30 animais e 90 pernas.
+Quase 100, mas não é 100. Tente por si
+só agora e veja se consegue descobrir
+a resposta assim!
+!******************************!
+[ef0b01000e000000:0208040000]
+
+!******************************!
+[f00b01000f000000:0209040000]
+
+!******************************!
+[f10b010010000000:020a040000]
+
+!******************************!

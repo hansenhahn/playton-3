@@ -6,62 +6,62 @@ n071a
 n071b
 !******************************!
 [eb0b01000a000000:0211000000]
-In order to open the cage, you'll need
-to decide which button to push.
-The rules are simple. Think of the buttons
-as squares. Each symbol indicates a
-direction and you proceed from square to
-square following these directions:
-Star = left
-Moon = right
-Sun = down
-Water = up
-There is one square you can start from
-which allows you to pass through every
-square exactly once. Touch that square. 
+Para abrir a gaiola, é preciso
+escolher qual botão apertar.
+Regras simples: pense nos botões
+como quadrados. Cada símbolo indica
+uma direção e é preciso ir de quadrado
+a quadrado seguindo essas direções:
+Estrela = esquerda; Lua = direita;
+Sol = baixo; Água = cima.
+Há um quadrado onde você pode começar
+que te permite passar por todos os
+quadrados exatamente uma vez. Toque
+esse quadrado.
 !******************************!
 [ec0b01000b000000:0299010000]
-Well done!
+Muito bem!
 
-Apart from the last square itself, all
-squares form a single path leading to the
-last square. Once you realise this, it's
-easy to find the starting square.
+Além do próprio último quadrado, todos
+eles formam um único caminho até o
+último quadrado. Assim que perceber
+isso, é fácil achar o ponto de partida.
 !******************************!
 [ed0b01000c000000:0241020000]
-Oh dear.
+Ó céus.
 
-Are you sure you haven't made a mistake
-somewhere?
+Tem certeza que não cometeu um
+erro em algum lugar??
 !******************************!
 [ee0b01000d000000:027e020000]
-This is the type of puzzle for which the
-Memo Function comes in really handy. It's
-difficult to visualise the directions
-using only the symbols, so try drawing
-an arrow in each square to make things
-easier.
+Esse é o tipo de enigma que a Função
+Notas se mostra valiosa. É difícil
+visualizar as direções usando apenas
+os símbolos, então tente desenhar uma
+seta em cada quadrado para facilitar
+as coisas.
 !******************************!
 [ef0b01000e000000:024d030000]
-Try choosing a square at random and
-starting from there. Use the Memo
-Function to write an arrow on each
-square and trace your path.
+Escolha um quadrado aleatório e comece
+por ele. Use a Função Notas para
+desenhar uma seta em cada quadrado
+e trace seu caminho.
 !******************************!
 [f00b01000f000000:02d2030000]
-You've followed the advice given in
-Hint 2 but just went around in little
-circles? That must mean you started in
-one of the top-left squares.
+Você seguiu o conselho da Dica 2 e
+ainda assim ficou dando voltas?
+Quer dizer que você começou por
+um dos quadrados em cima à esquerda.
 
-Those squares are actually the last
-ones on the path.
+Na verdade, esses quadrados são
+os últimos do caminho.
 !******************************!
 [f10b010010000000:0297040000]
-From Hint 3 you know the last squares
-on the path. Now think carefully and
-proceed backwards from here.
+Pela Dica 3, você já sabe quais são
+os últimos quadrados do caminho.
+Agora faça o caminho inverso a
+partir disso.
 
-The starting square is one of the five
-Star squares.
+O ponto de partida é um dos cinco
+quadrados de Estrela.
 !******************************!

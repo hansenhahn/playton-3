@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000300000000f203000000f2030000000100000000000000000000000000]
+n006
+!******************************!
+n006a
+!******************************!
+n006b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Está tão escuro aqui na loja que mal
+consigo ver direito essas agulhinhas e
+linhazinhas. Pode me ajudar aqui, meu
+querido?{''}
+
+Há duas linhas, A e B.
+Por quantas agulhas a linha A passa?
+
+!******************************!
+[ec0b01000b000000:02f4000000]
+Que olho acurado o seu!
+
+A linha A passa por 10 agulhas.
+Contar agulhas é bem difícil mesmo!
+!******************************!
+[ed0b01000c000000:024c010000]
+Resposta errada!
+
+Dê mais uma olhada no enigma.
+!******************************!
+[ee0b01000d000000:0278010000]
+O segredo para resolver esse enigma é
+paciência e fazer uma contagem cautelosa.
+
+Isso é mais um conselho do que uma
+dica, mas tente usar a Função Notas
+para marcar as agulhas por onde a
+linha A passa. Isso talvez faça
+as coisas serem mais fáceis.
+!******************************!
+[ef0b01000e000000:0263020000]
+Use a Função Notas para traçar o caminho
+da linha A. Use uma cor diferente para
+marcar as agulhas por onde a linha A
+passa. Dá até para usar uma linha mais
+grossa para ficar mais fácil de ver.
+
+!******************************!
+[f00b01000f000000:0223030000]
+Ainda não conseguiu?
+
+A resposta tem dois dígitos.
+Talvez isso ajude um pouco.
+!******************************!
+[f10b010010000000:0278030000]
+A resposta é a soma dos números de
+um a quatro.
+!******************************!

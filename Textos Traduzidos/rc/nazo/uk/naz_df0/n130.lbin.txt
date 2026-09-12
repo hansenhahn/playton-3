@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n130
+!******************************!
+n130a
+!******************************!
+n130b
+!******************************!
+[eb0b01000a000000:0211000000]
+O professor e Luke estão discutindo
+sobre o raio-X do Dr. Schrader:
+{''}Veja, Professor! Alguém deve ter
+deixado essa tesoura dentro do Dr.
+Schrader na sua operação! Olha a sombra
+dela! Dá para acreditar?!{''}
+{''}Eu não me preocuparia com isso, Luke.
+É sobre isso com que o doutor deveria
+se preocupar!{''}
+Assim que o professor disse isso, ele
+apontou para algo estranho no raio-X.
+
+A que ele se referia? Circule e
+toque em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:02ce010000]
+Você tem um olho bom!
+
+Há uma sombra branca misteriosa no fundo
+do estômago do Dr. Schrader. Talvez ele
+engoliu uma moeda ou algo por acidente!
+
+Quando os raios-X não conseguem passar
+por algo sólido, o objeto aparece como
+uma sombra branca. Já as sombras pretas
+como a tesoura só podem ser uma
+brincadeira boba. Alguém deve ter
+sobreposto as imagens após o raio-X
+depois da foto ter sido tirada.
+
+!******************************!
+[ed0b01000c000000:025a030000]
+Errado!
+
+Dê outra olhada no raio-X,
+principalmente as partes brancas...
+!******************************!
+[ee0b01000d000000:02a2030000]
+Não é só uma tesoura, tem uma pinça,
+uma agulha e linha e até um rato!
+E o símbolo de uma seta?!
+
+Hmm... Até que dá para se preocupar
+com essas coisas, mas o professor
+fez questão de apontar para outra.
+!******************************!
+[ef0b01000e000000:026e040000]
+Em que cor os objetos sólidos
+aparecem em um raio-X?
+
+Veja mais uma vez e tente
+descobrir através disso.
+!******************************!
+[f00b01000f000000:02cc040000]
+Os ossos no raio-X são brancos.
+Assim você sabe que são de verdade...
+!******************************!
+[f10b010010000000:0215050000]
+Hmm...
+
+Se as coisas que estão no corpo do
+Dr. Schrader, tipo os ossos, aparecem
+em branco, então os objetos pretos
+só podem ser de mentira!
+
+Mas tem uma coisa branca que
+parece bem suspeita...
+!******************************!

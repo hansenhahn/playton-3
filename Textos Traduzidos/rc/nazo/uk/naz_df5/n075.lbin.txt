@@ -1,0 +1,76 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000740400000074040000000100000000000000000000000000]
+n075
+!******************************!
+n075a
+!******************************!
+n075b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para cada um dos quadrados abaixo,
+há um jeito de mostrar os números de
+zero a nove. Toque os quatro botões,
+A, B, C e D, para mudar os números
+de acordo com uma série de regras
+secreta.
+
+Descubra as regras e faça os
+quatro números serem zero.
+!******************************!
+[ec0b01000b000000:020f010000]
+Impressionante!
+
+O Botão A soma cinco, o B soma três,
+o C soma sete e o D soma quatro.
+
+Você deve ter descoberto isso ou
+você é uma dessas pessoas que ficou
+apertando os botões até todos
+ficarem com o número zero...
+!******************************!
+[ed0b01000c000000:02ea010000]
+Que pena!
+
+Melhor tentar de novo.
+!******************************!
+[ee0b01000d000000:0206020000]
+Perceba que quando um número passa do
+nove, o contador recomeça do zero.
+Em outras palavras, os números estão em
+loop, então toque os botões quantas
+vezes quiser. Isso não vai estragar
+nada para você.
+
+Se você tocar cada botão várias vezes
+e prestar atenção no que cada um faz,
+logo logo você entenderá as regras.
+!******************************!
+[ef0b01000e000000:023e030000]
+Os retângulos coloridos ligados
+a cada botão indicam os dois quadrados
+afetados por cada. Ao tocar um botão,
+os dois números dentro do retângulo
+vão aumentar de acordo com uma regra
+secreta. Analise o que acontece com
+os números quando você toca cada botão.
+
+!******************************!
+[f00b01000f000000:0244040000]
+O Botão A soma cinco.
+O Botão B soma três.
+
+Não deve ser tão difícil descobrir
+as regras dos botões C e D agora.
+
+Mas mesmo sabendo as regras, como
+fazer todos os números virarem zero?
+!******************************!
+[f10b010010000000:02fc040000]
+Não fique frustrado se você ainda
+estiver preso. Esse enigma é traiçoeiro.
+
+Para resolvê-lo, não toque no botão A
+primeiro, e sim nos botões C e D até os
+números dentro do retângulo A serem
+ambos cinco. Depois disso, você vai
+conseguir resolver rapidinho.
+!******************************!

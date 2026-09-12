@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n035
+!******************************!
+n035a
+!******************************!
+n035b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Estava em um ônibus de dois andares
+e o cobrador me disse que, além de mim
+mesmo, haviam 25 passageiros na parte
+de baixo. Ele também disse que o número
+de passageiros na parte de cima era 40%
+do número de baixo.{''}
+
+Quantas pessoas o ônibus tem no total?
+!******************************!
+[ec0b01000b000000:0229010000]
+Bom trabalho!
+
+Tem 37 pessoas no ônibus:
+25 passageiros na parte de baixo
+e 40% disso, ou 10 passageiros,
+na parte de cima. Isso totaliza
+35 passageiros.
+
+Se contarmos o cobrador e o motorista,
+temos 37 pessoas no total.
+!******************************!
+[ed0b01000c000000:020f020000]
+Errado!
+
+40% são dois quintos. Mas mesmo se você
+entender isso, ainda tem algo a mais.
+!******************************!
+[ee0b01000d000000:025d020000]
+Mesmo se você pensar que a resposta é
+fácil com uma simples calculadora, você
+pode ter esquecido de algo.
+!******************************!
+[ef0b01000e000000:02d0020000]
+Não esqueça que foi o cobrador quem
+te deu todas essas informações.
+!******************************!
+[f00b01000f000000:0219030000]
+A parte de cima tem 40% dos
+passageiros da parte de baixo.
+Em resumo, dois quintos de 25
+passageiros, ou 10 passageiros.
+
+Isso totaliza 35 passageiros.
+
+São todos esses mesmo?
+
+!******************************!
+[f10b010010000000:02d4030000]
+A Dica 2 te lembrou que além dos
+passageiros, também há um
+cobrador no ônibus.
+
+E o ônibus não precisa
+de um motorista também?
+!******************************!

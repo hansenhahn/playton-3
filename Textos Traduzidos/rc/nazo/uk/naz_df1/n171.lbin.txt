@@ -6,37 +6,37 @@ n171a
 n171b
 !******************************!
 [eb0b01000a000000:0211000000]
-The numbers 1, 2 and 5 shown here look
-exactly the same when they are flipped
-upside down.
+Os números 1, 2 e 5 mostrados aqui
+continuam da mesma forma quando virados
+de ponta-cabeça.
 
-You have two cards with 1 on them, four
-cards with 2 on them, and one card with 5
-on it. Use the cards to create an
-equation that is also valid when flipped
-upside down.
+Você tem duas cartas do número 1, quatro
+cartas do número 2, e uma carta do
+número 5. Use elas e crie uma equação
+que também funcione quando virada de
+ponta-cabeça.
 !******************************!
 [ec0b01000b000000:0217010000]
-That's right!
+Exatamente!
 
 21 x 12 = 252
 
-or
+ou
 
 12 x 21 = 252
 !******************************!
 [ed0b01000c000000:0247010000]
-Too bad!
+Errado!
 
-Are you finding the maths taxing?
+Está achando difícil a matemática?
 !******************************!
 [ee0b01000d000000:0273010000]
-Would it help if you knew what went in
-the slots that form the answer to the
-equation?
+Te ajudaria saber quais números estão
+nas posições que formam a resposta
+da equação?
 
-Well, it's 252. Now, with a little bit of
-calculation the puzzle is solved!
+Bem, é 252. Agora, use um pouco de
+cálculo e resolva o enigma!
 !******************************!
 [ef0b01000e000000:0217020000]
 

@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000620400000062040000000100000000010000000000000000]
+n068
+!******************************!
+n068a
+!******************************!
+n068b
+!******************************!
+[eb0b01000a000000:0211000000]
+16 salas circulares estão organizadas
+no quadrado mostrado abaixo. Raios de
+luz saem em linha reta de cada uma das
+quatro letras, A, B, C e D, e vão até
+as quatro setas amarelas. Espelhos de
+dois lados em quatro das salas refletem
+esses raios de luz. Cada raio passa pelo
+número de quartos listado abaixo de cada
+letra.
+
+Identifique as quatro salas que contém
+espelhos e para onde eles apontam.
+Toque as salas para colocar ou tirar
+espelhos e mudar suas direções.
+!******************************!
+[ec0b01000b000000:02e3010000]
+Deslumbrante!
+
+Certo, vamos continuar!
+!******************************!
+[ed0b01000c000000:020a020000]
+Que pena!
+
+Lembre-se, só há espelhos em quatro
+salas. Não está tentando colocar mais
+do que isso, está?
+!******************************!
+[ee0b01000d000000:027a020000]
+É possível fazer os raios passarem pelo
+número correto de salas colocando
+espelhos em cinco salas, mas você está
+procurando uma solução com quatro salas.
+
+Não esqueça que os espelhos
+possuem duas faces!
+
+!******************************!
+[ef0b01000e000000:025e030000]
+O raio C passa sem ser refletido
+por um espelho.
+
+!******************************!
+[f00b01000f000000:0294030000]
+O raio A só é refletido por um espelho.
+!******************************!
+[f10b010010000000:02bc030000]
+O raio B só é refletido uma vez.
+
+O raio D é refletido três vezes e
+vai até a seta em cima à direita.
+
+Isso deve resolver o problema!
+!******************************!

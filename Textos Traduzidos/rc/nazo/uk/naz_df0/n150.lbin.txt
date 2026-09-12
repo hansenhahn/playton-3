@@ -1,0 +1,81 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n150
+!******************************!
+n150a
+!******************************!
+n150b
+!******************************!
+[eb0b01000a000000:0211000000]
+Duas irmãs estão conversando.
+{''}Um ano atrás, eu tinha exatamente
+metade da sua idade{''}, diz a mais nova.
+A mais velha responde: {''}Mesmo daqui
+a um ano, a sua idade vai ser metade
+da minha. Aqui, se cortarmos os números
+em duas partes, de cima pra baixo, dá
+a sua idade daqui um ano.{''}
+{''}Nossa, você tá certa!{''}
+
+Quantos anos a mais nova tem agora?
+!******************************!
+[ec0b01000b000000:0280010000]
+Correto!
+
+A irmã mais nova tem 9 e a
+mais velha tem 17.
+
+Um ano atrás, a mais velha tinha 16 e
+a mais nova tinha 8, metade da idade
+de sua irmã. Daqui a um ano, a mais velha
+terá 18 e a mais nova terá 10.
+Cortando o 18 horizontalmente
+te dá 10 em duas partes.
+!******************************!
+[ed0b01000c000000:02a9020000]
+Que pena.
+
+Não pense muito - tente mudar
+a sua forma de pensar, na verdade.
+!******************************!
+[ee0b01000d000000:02f5020000]
+Não se preocupe com quantos anos cada
+irmã tinha um ano atrás. O importante
+é a idade delas daqui a um ano. Qual
+o significado de {''}cortar os
+números em duas partes{''}?
+!******************************!
+[ef0b01000e000000:02a3030000]
+Descobriu o que {''}cortar os números
+em duas partes, de cima pra baixo{''}
+significa?
+
+Pense nos números de 0 a 9. Desses,
+só os que possuem um significado numeral
+mesmo quando cortados na metade
+são o 1 e o 8.
+!******************************!
+[f00b01000f000000:027d040000]
+Se a irmã mais velha fizesse aniversário
+ano que vem, a mais nova também
+faria, então isso não faz sentido.
+
+Se a mais velha tivesse 8 anos daqui
+um ano, a mais nova não teria nem
+nascido, então isso também está errado.
+
+Pensando desse jeito, também é óbvio
+entender que isso não funcionaria se a
+irmã mais velha tivesse 81 ou 88 anos.
+!******************************!
+[f10b010010000000:02c2050000]
+Pela Dica 3, você já sabe que a mais
+velha vai ter 11 ou 18 anos no ano que
+vem. Cortando o 11 em duas partes, a de
+cima e a de baixo, te dá 11, que não
+atende às condições. A única opção
+que sobra é que a irmã mais velha vai
+ter 18 ano que vem.
+
+Agora, você só precisa descobrir
+as idades atuais das irmãs.
+!******************************!

@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000010000000001000000]
+n086
+!******************************!
+n086a
+!******************************!
+n086b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa é uma tabela com direções cardinais
+escritas em cada quadrado. Mas o topo da
+tabela não é necessariamente o norte.
+
+Olhando a tabela pela direção certa,
+ao começar do quadrado central e andar
+nas direções que cada quadrado indica
+te permite passar por todos os quadrados
+na tabela.
+
+Sabendo disso, dentre A, B, C ou D,
+qual direção é o norte?
+!******************************!
+[ec0b01000b000000:0292010000]
+Isso mesmo!
+
+O norte é o C.
+Escolhendo C como norte e começando pelo
+quadrado central, é possível passar por
+todos os quadrados.
+!******************************!
+[ed0b01000c000000:020b020000]
+Que pena.
+
+Apague da sua mente esse pensamento
+de que o norte fica para cima.
+!******************************!
+[ee0b01000d000000:024a020000]
+Tabela simples, mas que fica bem difícil
+de se entender no momento que você muda
+a sua direção. Tente imaginá-la de
+diversas direções diferentes.
+!******************************!
+[ef0b01000e000000:02e0020000]
+Não importa para onde fica o norte, as
+posições relativas dos pontos cardinais
+não mudam: norte oposto ao sul,
+leste oposto a oeste.
+
+Pense hipoteticamente e esqueça
+esse pensamento de que norte fica para
+cima, sul para baixo, leste para direita
+e oeste para esquerda.
+!******************************!
+[f00b01000f000000:02f3030000]
+Há três {''}lestes{''} em sequência.
+Ou seja, a sua saída precisa ser
+por essa linha sequencial.
+
+Só isso deve te dar a resposta.
+!******************************!
+[f10b010010000000:028e040000]
+Para passar por todos os quadrados, você
+precisa ir pela esquerda ou pela direita
+pelos três quadrados {''}lestes{''}.
+
+Significa que o leste tem que estar
+na esquerda ou na direita, e também que
+o norte e o sul precisam ficar em cima
+e em baixo, ou vice-versa. Agora só
+restam duas opções!
+
+!******************************!

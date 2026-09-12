@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000060400000006040000000100000000000000000000000000]
+n159
+!******************************!
+n159a
+!******************************!
+n159b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há três latas de diferentes comidas
+enlatadas empilhadas aleatoriamente.
+Você precisa organizá-las de modo que
+haja três pilhas da mesma comida.
+
+Porém, se houver latas em cima da lata
+que você queira mover, você deve mover
+todas de uma vez. E também, você não
+pode ter mais de seis latas numa pilha.
+
+Parece fácil, não é? Ah... outra coisa:
+em quatorze movimentos ou menos.
+!******************************!
+[ec0b01000b000000:0271010000]
+Maravilhoso!
+
+Você fez em quantos movimentos?
+!******************************!
+[ed0b01000c000000:0299010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:02ae010000]
+Há vários jeitos de resolver esse
+enigma, então comece a mexer nessas
+latas para ver o que você descobre.
+
+Não deve ser difícil chegar em um ponto
+onde mais alguns movimentos darão certo.
+!******************************!
+[ef0b01000e000000:0261020000]
+O limite de 14 movimentos complica muito
+as coisas. Não esqueça que é proibido
+empilhar mais de seis latas de uma vez.
+
+Não se empolgue empilhando as mesmas
+latas toda vez. Vai te custar muitos
+movimentos a longo prazo.
+!******************************!
+[f00b01000f000000:024d030000]
+Em vez de empilhar o mesmo tipo de lata
+toda vez que tiver a chance, é melhor
+pensar em que tipo de lata você deve
+empilhar em cada fileira.
+
+Quando for possível, você vai querer
+mover quantas latas juntas forem.
+necessárias. Algumas vezes, você vai ter
+que mover uma de cada vez.
+!******************************!
+[f10b010010000000:025e040000]
+Da esquerda para a direita, pense nas
+pilhas como primeira, segunda, terceira
+e quarta.
+
+Mova o peixe da quarta pilha para a
+primeira. Mova os pêssegos da segunda
+para a quarta. Mova o presunto da
+terceira para a segunda. Mova o peixe
+da terceira para a primeira...
+
+Daqui para frente, é com você!
+!******************************!

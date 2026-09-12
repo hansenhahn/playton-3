@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n184
+!******************************!
+n184a
+!******************************!
+n184b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você pediu a um garoto para acender 10
+velas para você. Mas o amigo travesso
+dele fica assoprando elas toda vez.
+Após quatro minutos, o acendedor acende
+quatro velas, e então acende mais quatro
+a cada quatro minutos depois disso.
+O garoto que apaga começa depois de cinco
+minutos, apagando três a cada cinco
+minutos. Quando ambos os garotos agem
+no mesmo minuto, o que vai primeiro é
+o que apaga.
+Supondo que no começo, nenhuma vela fica
+acesa, quantas velas estarão acesas
+depois de 25 minutos?
+!******************************!
+[ec0b01000b000000:020e020000]
+Exato!
+
+Sete velas.
+
+Com 24 minutos, o garoto acendedor
+começa a acendê-las novamente, mas já que
+oito velas já estão acesas, ele só pode
+acender as últimas duas. Aos 25 minutos,
+o garoto que apaga vem e apaga três
+velas, deixando apenas sete velas
+acesas.
+!******************************!
+[ed0b01000c000000:0229030000]
+Que pena.
+
+Tente usar a Função Notas se estiver
+ficando confuso tentando resolver
+o enigma na sua mente.
+!******************************!
+[ee0b01000d000000:028d030000]
+Você já sabe quantas velas estarão
+acesas após 20 minutos?
+
+Depois de 16 minutos, sete velas estarão
+acesas. Aos 20, os dois garotos agirão
+ao mesmo tempo, o que significa que
+terão oito velas acesas.
+
+!******************************!
+[ef0b01000e000000:026f040000]
+
+!******************************!
+[f00b01000f000000:0270040000]
+
+!******************************!
+[f10b010010000000:0271040000]
+
+!******************************!

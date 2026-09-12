@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n008
+!******************************!
+n008a
+!******************************!
+n008b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse é um relógio sem números que algum
+sem-noção acabou girando um tanto de
+vezes. Ainda assim, o relógio funciona
+normalmente, e cada círculo colorido
+representa uma hora.
+
+É possível dizer que horas são sem os
+números. Escreva a hora exata.
+
+Tenha em mente que a resposta deve
+ser escrita no sistema de 12 horas.
+
+!******************************!
+[ec0b01000b000000:027d010000]
+Na hora certa!
+
+A resposta é 12 horas. O único horário
+em que os dois ponteiros apontam para a
+mesma hora em um relógio desse jeito é
+12 horas, apesar de ser impossível saber
+se é meio-dia ou meia-noite.
+
+!******************************!
+[ed0b01000c000000:024c020000]
+Que pena!
+
+A resposta deve ficar mais clara se você
+ver ou imaginar um relógio de verdade.
+!******************************!
+[ee0b01000d000000:0295020000]
+O ponteiro das horas e o ponteiro dos
+minutos estão um em cima do outro, não?
+!******************************!
+[ef0b01000e000000:02de020000]
+Os dois ponteiros estão um em cima do
+outro. E eles estão apontando para uma
+das horas.
+!******************************!
+[f00b01000f000000:023d030000]
+Os dois ponteiros estão um em cima do
+outro. E eles estão apontando para uma
+das horas.
+Nessas condições, só pode ser uma hora
+em específico.
+!******************************!
+[f10b010010000000:02c0030000]
+Imagine os dois ponteiros apontando
+reto para cima. Essa é a resposta.
+!******************************!

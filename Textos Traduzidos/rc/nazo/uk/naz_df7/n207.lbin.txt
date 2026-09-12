@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n207
+!******************************!
+n207a
+!******************************!
+n207b
+!******************************!
+[eb0b01000a000000:0211000000]
+Duas das cinco letras de papel abaixo
+possuem exatamente a mesma área
+superficial. É possível saber isso sem
+quaisquer cálculo ou usando uma régua.
+Você só precisa de duas unidades de
+cada letra para descobrir isso.
+
+Com essa informação, consegue dizer
+quais letras possuem áreas superficiais
+idênticas?
+
+Marque as caixas no canto inferior
+direito de ambas as letras e aperte
+<CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:0283010000]
+Legal demais!
+
+São as letras C e E.
+
+Como mostrado acima, colocando dois Cs e
+dois Es juntos frente a frente gera a
+mesma forma! Já que essas duas formas
+podem ser sobrepostas, é de certeza que
+as letras C e E devem ter a mesma área
+superficial. Não é possível fazer isso
+com as outras letras.
+!******************************!
+[ed0b01000c000000:02b7020000]
+Que pena!
+
+Ter duas de cada letra é a chave, então
+deve haver um truque para organizá-las.
+!******************************!
+[ee0b01000d000000:0213030000]
+Duas de cada letra...
+
+Pense em como organizar duas unidades
+de cada letra para criar uma forma
+maior. Depois tente achar as letras
+que possuem as mesmas formas
+quando combinadas!
+!******************************!
+[ef0b01000e000000:02d2030000]
+
+!******************************!
+[f00b01000f000000:02d3030000]
+
+!******************************!
+[f10b010010000000:02d4030000]
+
+!******************************!

@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n142
+!******************************!
+n142a
+!******************************!
+n142b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Aí! Alguém comeu meu pedaço de
+bolo! Tinha deixado pra mais tarde!{''}
+
+A: {''}Não foi eu!{''}
+
+B: {''}Não foi nem A e nem D.{''}
+
+C: {''}Também não foi eu!{''}
+
+D: {''}O C tá falando a verdade.{''}
+
+Alguém está mentindo. E esse mentiroso
+é quem comeu o bolo. Quem é?
+Circule a pessoa e aperte em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:025c010000]
+Você resolveu!
+
+{''}Quem comeu o bolo foi eu. Eu não
+tinha deixado pra mais tarde não!{''}
+
+Pensando logicamente, assim que você
+entende que A, B, C e D estão contando
+a verdade, o mentiroso deve ser quem
+reclamou antes!
+!******************************!
+[ed0b01000c000000:0252020000]
+Resposta errada!
+
+Não descarte possibilidade alguma.
+!******************************!
+[ee0b01000d000000:0285020000]
+Compare todas as frases.
+Percebeu que se A está mentindo,
+então B também estaria mentindo?
+!******************************!
+[ef0b01000e000000:02ea020000]
+Se D está mentindo, C também estaria.
+
+Se C está mentindo, D também estaria.
+
+Também, você logo vai ver que se B está
+mentindo, quer dizer que há mais de um
+comedor de bolo e mais de um mentiroso.
+
+Estão todos mentindo?! Não. Só uma
+pessoa deste enigma está mentindo.
+!******************************!
+[f00b01000f000000:02f5030000]
+Se nem A, B, C, e D estão mentindo,
+então ninguém está mentindo...
+
+Mas alguém comeu esse bolo!
+!******************************!
+[f10b010010000000:0240040000]
+A, B, C e D estão todos contando a
+verdade. Mas ainda há um mentiroso.
+
+Quem mais está aí ao redor?
+!******************************!

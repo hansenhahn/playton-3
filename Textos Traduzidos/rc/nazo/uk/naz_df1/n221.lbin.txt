@@ -6,33 +6,33 @@ n221a
 n221b
 !******************************!
 [eb0b01000a000000:0211000000]
-Move the orange ball to the square
-marked by the red arrow at the top.
+Mova a bola laranja até o quadrado
+marcado pela seta vermelha no topo.
 
-It looks daunting, but it can be done.
+Parece difícil, mas não é impossível.
 
-Give it a try!
+Tente uma vez!
 !******************************!
 [ec0b01000b000000:0290000000]
-Well done!
+Muito bem!
 
-Working out the last move and finally
-sliding the orange ball into the final
-square is so satisfying!
+Entender o último movimento e mover
+a bola laranja até o quadrado final
+é tão satisfatório!
 !******************************!
 [ed0b01000c000000:0202010000]
-Too bad!
+Errou!
 
-Try again.
+Tente novamente.
 !******************************!
 [ee0b01000d000000:0217010000]
-The blocks are packed in very tightly,
-but work with the spaces you have and
-you'll find that you can move them
-around quite easily.
+Os blocos estão bem encaixados, mas
+trabalhe com os espaços que tem e
+verá que você consegue movê-los
+de forma até que fácil.
 
-Try working the orange ball up using
-the small gaps on the right-hand side.
+Tente mover a bola laranja para cima
+pelos pequenos vãos do lado direito.
 !******************************!
 [ef0b01000e000000:02e9010000]
 

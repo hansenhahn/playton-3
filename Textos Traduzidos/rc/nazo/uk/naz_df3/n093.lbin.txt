@@ -1,0 +1,58 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000c00000000f203000000f2030000000100000000010000000000000000]
+n093
+!******************************!
+n093a
+!******************************!
+n093b
+!******************************!
+[eb0b01000a000000:0211000000]
+Coloque as pedras de olho de gato nos
+espaços redondos abaixo. A regra é que
+não se pode formar quadrados ou
+retângulos na vertical/horizontal com
+quatro pedras.
+
+Toque o ícone em cima à esquerda para
+ver exemplos de como organizar as
+pedras.
+
+Há 16 espaços nesse enigma.
+Qual o número máximo de pedras que podem
+ser colocadas seguindo a regra acima?
+Escreva esse número como resposta.
+!******************************!
+[ec0b01000b000000:029b010000]
+Excelente!
+
+Não importa como você organiza as
+pedras, você só consegue colocar no
+máximo nove, usando a regra. O diagrama
+acima é um exemplo. A parte difícil é
+confiar em ter descoberto a resposta!
+
+!******************************!
+[ed0b01000c000000:0277020000]
+Que pena!
+
+Nem precisaria dizer, mas
+a resposta é menos de 16.
+!******************************!
+[ee0b01000d000000:02bf020000]
+Primeiro, tente colocar as pedras
+seguindo a regra até você não poder
+colocar mais. Se você repetir isso
+de novo e de novo, a resposta deve
+aparecer para você.
+!******************************!
+[ef0b01000e000000:026e030000]
+É provavelmente óbvio, mas a resposta
+não é 16. E que tal 15 ou 14? Também
+não, pode riscar da lista de opções já.
+!******************************!
+[f00b01000f000000:02e4030000]
+A resposta é um múltiplo de 3.
+!******************************!
+[f10b010010000000:0207040000]
+A resposta não é um número de dois
+dígitos. Já tá perto, você consegue!
+!******************************!

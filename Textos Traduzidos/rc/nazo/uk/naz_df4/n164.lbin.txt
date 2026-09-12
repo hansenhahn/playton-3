@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n164
+!******************************!
+n164a
+!******************************!
+n164b
+!******************************!
+[eb0b01000a000000:0211000000]
+Arraste o bloco A para o espaço A.
+Arraste o bloco B para o espaço B.
+Arraste o bloco C para o espaço C.
+Arraste o bloco D para o espaço D.
+
+É só isso! Quer dizer, isso e o fato de
+você ter que fazer em 13 movimentos...
+!******************************!
+[ec0b01000b000000:02cb000000]
+Muito bem feito!
+
+Conseguiu de primeira?
+!******************************!
+[ed0b01000c000000:02fb000000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:0210010000]
+O espaço onde você move as peças tem um
+formato regular e possui apenas dois
+blocos no caminho, então você deve poder
+resolver esse enigma com uma sequência
+sistemática de movimentos.
+
+Você pode reiniciar quantas vezes
+quiser, então pense na maneira mais
+eficiente de mover as letras de lugar
+e ver o que funciona.
+!******************************!
+[ef0b01000e000000:0252020000]
+Seus movimentos acabarão se tentar
+mover as letras de lugar uma a uma.
+Pense em como girar todas as letras
+de uma vez e deixá-las em posição
+enquanto movimenta elas.
+!******************************!
+[f00b01000f000000:0206030000]
+Aqui há uma parte da solução:
+
+Mova o bloco azul de baixo para cima e
+mova a letra B para a direita. Agora
+mova o mesmo bloco azul de antes para o
+espaço D e mova o bloco C até lá em
+baixo...
+
+Já percebeu o padrão?
+!******************************!
+[f10b010010000000:02e4030000]
+Seguindo a Dica 3, mova o bloco azul
+da direita para o espaço A e mova a
+letra D para a esquerda. Agora você pode
+mover a letra B para seu espaço. Depois
+mova a letra A para cima e então poderá
+mover a letra C para seu espaço.
+
+Metade do caminho! O resto parece
+bem fácil agora, certo?
+
+!******************************!

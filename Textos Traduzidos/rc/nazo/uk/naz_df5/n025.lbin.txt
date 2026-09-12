@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n025
+!******************************!
+n025a
+!******************************!
+n025b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esfregando as costas, o garçom suspirou
+cansado e disse:
+
+{''}Sempre uso a mesma caixa para carregar
+quantos copos eu consigo de uma vez, mas
+tem um tipo de copo que eu realmente
+odeio carregar.{''}
+
+Dos quatro tipos de copo mostrados,
+de qual o garçom está falando?
+Leve em conta que todos tem o mesmo peso.
+!******************************!
+[ec0b01000b000000:024c010000]
+Muito bem!
+
+O tipo de copo em questão é o B. É o
+único tipo que pode se acumular um dentro
+do outro, e ao colocar um monte dentro da
+caixa, ela fica pesada para se carregar.
+!******************************!
+[ed0b01000c000000:0205020000]
+Que pena!
+
+Tente imaginar você carregando
+copos em uma caixa...
+!******************************!
+[ee0b01000d000000:0244020000]
+O garçom disse que odeia carregar a
+caixa quando ela está cheia de um
+tipo de copo.
+
+O que causa desgosto ao carregar coisas?
+!******************************!
+[ef0b01000e000000:02c1020000]
+É o peso da caixa que dá problemas ao
+garçom quando ele está carregando os
+os copos.
+!******************************!
+[f00b01000f000000:0216030000]
+Quanto mais copos dentro da caixa,
+mais pesada ela fica. O tipo de copo
+que o garçom não gosta de carregar é
+o que consegue caber muitos dentro
+de uma caixa.
+!******************************!
+[f10b010010000000:02c1030000]
+Se tem como acumular ou empilhar copos,
+você pode colocar mais deles na caixa.
+
+Qual desses copos faz isso?
+!******************************!

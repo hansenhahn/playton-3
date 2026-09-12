@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n023
+!******************************!
+n023a
+!******************************!
+n023b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa é uma foto de dois jogadores em um
+duelo acirrado de um jogo de cartas.
+
+A princípio, não há nada de estranho,
+mas de vez em quando as pessoas falam:
+{''}Se eles estão duelando acirradamente,
+essa parte da foto não é estranha?{''}
+
+Circule a parte da foto que as pessoas
+estariam achando estranho, depois toque
+em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:025d010000]
+É isso aí! 
+
+Geralmente as cartas tem os números
+marcados em cima à esquerda e embaixo à
+direita.
+
+Não importa o quanto ele quer ganhar,
+o jogador do chapéu laranja vai ter
+problemas vendo a sua mão segurando-a
+desse jeito.
+!******************************!
+[ed0b01000c000000:0261020000]
+Errado.
+
+Tente considerar como as coisas estariam
+de uma perspectiva diferente!
+!******************************!
+[ee0b01000d000000:02af020000]
+Se imagine ali, jogando cartas
+na mesa.
+
+Você vê algo de estranho?
+!******************************!
+[ef0b01000e000000:0209030000]
+Essa foto mostra dois jogadores em
+um duelo bastante acirrado.
+
+Foque mais nos jogadores.
+!******************************!
+[f00b01000f000000:025c030000]
+Já pensou no jeito de como se joga
+cartas?
+
+Veja melhor as cartas que o jogador
+à frente está segurando.
+
+A localização dos números nas cartas
+é uma dica.
+!******************************!
+[f10b010010000000:0219040000]
+Onde o número da carta é mostrado?
+Não é em cima à direita e nem em baixo
+à esquerda.
+
+Se você pensar nisso e olhar o que os
+jogadores estão fazendo, você verá algo
+que é bem anormal nesse jogo de cartas
+extremamente acirrado.
+!******************************!

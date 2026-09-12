@@ -1,0 +1,62 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000001000000]
+n140
+!******************************!
+n140a
+!******************************!
+n140b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você imaginou uma situação com as
+seguintes condições: 
+
+{.} Há um homem na frente de uma criança;
+{.} Dois homens atrás de uma mulher;
+{.} Um homem e uma mulher atrás de um
+homem;
+{.} Uma mulher atrás de uma criança.
+
+E você criou essa situação usando o
+número mínimo de pessoas.
+
+Quantas são?
+!******************************!
+[ec0b01000b000000:026e010000]
+Três é demais!
+
+Um homem adulto, uma mulher adulta e um
+garoto. É só isso considerando como
+eles estão dispostos acima.
+!******************************!
+[ed0b01000c000000:02ed010000]
+Resposta errada!
+
+Há uma leve pegadinha nesse enigma...
+!******************************!
+[ee0b01000d000000:021f020000]
+É mais fácil descobrir isso fazendo
+um desenho dessa situação.
+
+Mas tem algo que você precisa
+ter em mente...
+!******************************!
+[ef0b01000e000000:029a020000]
+Sabe, esse enigma nunca especificou
+que todo mundo está olhando para a
+mesma direção...
+!******************************!
+[f00b01000f000000:02ef020000]
+Há apenas uma criança nessa situação.
+ 
+É um menino ou uma menina?
+!******************************!
+[f10b010010000000:022a030000]
+A criança é um menino!
+
+As coisas ficam mais fáceis
+quando você interpreta isso.
+
+Com isso em mente, um garoto atrás de
+um homem adulto, ambos com as costas
+viradas para uma mulher adulta, se
+encaixa em todas as condições. É isso!
+!******************************!

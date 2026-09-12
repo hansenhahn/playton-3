@@ -1,0 +1,71 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000000000000f203000000f2030000000100000000000000000000000000]
+n067
+!******************************!
+n067a
+!******************************!
+n067b
+!******************************!
+[eb0b01000a000000:0211000000]
+Dois criminosos querem usar essa tábua
+para cobrir a caverna onde eles guardam
+seus bens roubados.
+
+Se eles cortarem a tábua em dois pedaços
+de formato e tamanho iguais, eles
+poderão cobrir a entrada da caverna.
+
+Faça linhas na tábua para indicar
+onde os cortes devem ser feitos.
+!******************************!
+[ec0b01000b000000:022b010000]
+Bom trabalho!
+
+A tábua precisa ser cortada como
+mostrado acima.
+
+E como pode ver, os dois viraram um dos
+pedaços para cobrir a entrada da
+caverna de maneira firme.
+!******************************!
+[ed0b01000c000000:02c2010000]
+Que azar.
+
+Não é necessário um corte tão
+complicado aqui.
+!******************************!
+[ee0b01000d000000:020b020000]
+Conte o número de quadrados que
+compõem essa tábua.
+
+Já que os dois pedaços precisam ser do
+mesmo tamanho, eles devem ter o mesmo
+número de quadrados.
+!******************************!
+[ef0b01000e000000:02aa020000]
+A tábua deve ser cortada em dois pedaços
+de sete quadrados cada. Também devem ser
+do mesmo formato, então não é só cortar
+qualquer pedaço com sete quadrados.
+
+Tente visualizar a forma dos dois
+pedaços após o corte.
+!******************************!
+[f00b01000f000000:028f030000]
+Primeiro, procure dois retângulos
+de seis quadrados cada.
+
+Só existe dois jeitos de cortar dois
+retângulos separados com seis quadrados.
+O importante é descobrir como fazer
+para juntar os dois quadrados restantes.
+
+
+!******************************!
+[f10b010010000000:026b040000]
+Divida os dois quadrados de baixo na
+coluna do meio e você ficará próximo
+de conseguir a resposta.
+
+Consegue visualizar dois pedaços
+como se fossem um par de botas?
+!******************************!

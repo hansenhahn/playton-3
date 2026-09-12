@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n050
+!******************************!
+n050a
+!******************************!
+n050b
+!******************************!
+[eb0b01000a000000:0211000000]
+Em um antiquário, um homem rico observa
+vasos de flor com retratos pintados
+neles.
+
+{''}Uau, o perfil, o barrigão - parece
+igualzinho eu! Levarei este!{''}
+
+Entretanto, os vasos têm apenas rostos
+pintados neles...
+
+Qual vaso esse senhor escolheu?
+!******************************!
+[ec0b01000b000000:021c010000]
+Exato! 
+
+Foi o vaso A.
+Vire-o de ponta-cabeça e olhe os
+contornos. Encaixam perfeitamente
+no perfil corporal do homem!
+!******************************!
+[ed0b01000c000000:028f010000]
+Errou.
+
+Compare os vasos com o homem novamente
+e pense mais no enigma.
+!******************************!
+[ee0b01000d000000:02da010000]
+Esse homem não está olhando apenas para
+os rostos pintados nos vasos. 
+
+Dê um passo para trás e olhe de novo.
+
+!******************************!
+[ef0b01000e000000:0242020000]
+Não fique só encarando os vasos,
+tente virá-los em sua mente. Talvez
+isso faça você perceber qual é o certo.
+!******************************!
+[f00b01000f000000:02b8020000]
+Há um vaso com contornos que encaixam
+exatamente no perfil desse homem...
+!******************************!
+[f10b010010000000:0204030000]
+Não está olhando apenas os vasos que
+são meio gordinhos que nem o homem,
+está?
+
+Não olhe só os contornos dos vasos.
+Pense no que iria encaixar neles.
+
+A silhueta parece encaixar certinho!
+!******************************!

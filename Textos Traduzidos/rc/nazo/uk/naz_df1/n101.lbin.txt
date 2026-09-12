@@ -6,67 +6,67 @@ n101a
 n101b
 !******************************!
 [eb0b01000a000000:0211000000]
-From here, a one-way trip to your
-destination takes an hour. The plan for
-the trip was to divide 12 people into two
-six-seater cars, but one of the cars
-broke down, so you can only use the other
-one.
+Daqui, uma viagem só de ida para seu
+destino leva uma hora. O plano da
+viagem era dividir 12 pessoas em dois
+carros de seis vagas, mas um dos
+carros quebrou, então agora só dá
+para usar um deles.
 
-Assuming that the journey back takes the
-same amount of time as the journey there, 
-how many hours will it take to get all 12 
-people to your destination using one car?
+Supondo que a viagem de volta leva o
+mesmo tempo que a viagem de ida, quantas 
+horas levará para levar todas as 12
+pessoas até o destino com um carro?
 !******************************!
 [ec0b01000b000000:0283010000]
-Car-rect!
+Correto!
 
-Five hours.
-The car always needs a driver in order to
-make the trip back. As such, it will take
-two round trips and one one-way trip for
-all 12 people to reach the destination.
+Cinco horas.
+O carro sempre precisa de um motorista
+para a viagem de volta. Sendo assim, é
+necessário duas viagens ida e volta e
+uma de ida para levar as 12 pessoas.
 !******************************!
 [ed0b01000c000000:023f020000]
-Too bad.
+Errado.
 
-Are you sure you're not overlooking
-a crucial point?
+Será que você não esqueceu de um
+ponto importante?
 !******************************!
 [ee0b01000d000000:027e020000]
-You have a six-seater car, so the
-first step involves six people going
-to the destination. After dropping
-people off, it's time to return to
-the starting point.
+Você tem um carro de seis vagas, então
+primeiro pense em seis pessoas indo até
+o destino. Depois delas saírem, é
+preciso voltar até o ponto de partida
+para buscar as outras.
 
-How many people are there at the
-starting point now? How many are there
-at the destination?
+Há quantas pessoas no ponto de partida
+agora? E quantas estão lá no destino?
 !******************************!
 [ef0b01000e000000:027c030000]
-After two hours, the car has returned
-to the starting point, where there are
-six people waiting.
-Fill the car with as many people as
-possible and set off again.
+Depois de duas horas, o carro voltou ao
+ponto de partida, onde tem seis pessoas
+esperando.
+Preencha o carro com quantas pessoas
+forem possíveis e pé na estrada.
 !******************************!
 [f00b01000f000000:021d040000]
-The second time you set off for the
-destination, did you assume that all
-six people remaining at the starting
-point would be able to make the trip?
+Na segunda vez que você partiu para o
+destino, você achou que todas as seis
+pessoas sobrando no ponto de partida
+iriam conseguir fazer a viagem?
 
-Don't forget that a car needs a driver.
+Não esqueça que o carro precisa de um
+motorista.
 
 !******************************!
 [f10b010010000000:02db040000]
-After making two round trips with a full
-car, all you need to do is get the driver
-and the one person remaining to your
-destination.
+Depois de duas viagens ida e volta com
+o carro cheio, você só precisa do
+motorista e a pessoa sobrando para
+chegar ao destino.
 
-You know that a one-way trip takes
-one hour, so you should already have
-your answer.
+Você sabe que uma viagem de ida leva
+uma hora, então você já deve saber
+qual é a resposta.
 !******************************!

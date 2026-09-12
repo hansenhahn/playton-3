@@ -6,57 +6,57 @@ n051a
 n051b
 !******************************!
 [eb0b01000a000000:0211000000]
-Bowls of plain noodles and pork noodles
-are lined up in a row on the counter.
+Há uma linha de tigelas de macarrão
+normal e macarrão com carne de porco
+em cima do balcão.
 
-With the minimum of fuss, line up the
-bowls so that bowls of plain noodles and
-pork noodles alternate along the counter.
+Sem fazer tanta confusão, alinhe-as de
+forma que as tigelas alternem-se entre
+macarrão e macarrão de porco no balcão.
 
-What is the lowest number of moves it
-takes to accomplish this task?
+Qual o menor número de movimentos
+para cumprir essa tarefa?
 
-Note that in this puzzle, simply switching
-the places of two bowls counts as two
-moves!
+Leve em conta que neste enigma, trocar
+duas tigelas de lugar irá contar como
+dois movimentos!
 !******************************!
 [ec0b01000b000000:0278010000]
-That's right!
+Na mosca!
 
-Don't switch the bowls around, just move
-one.
+Não troque as tigelas, apenas
+mova uma delas.
 
-The chef in the illustration probably got
-angry at his colleague because he spent
-too long over the puzzle and the noodles
-got cold!
+O chefe na ilustração provavelmente
+ficou bravo com seu colega por ele ter
+demorado tanto no enigma e, por isso,
+os macarrões esfriaram!
 !******************************!
 [ed0b01000c000000:023b020000]
-Too bad.
+Errado.
 
-What does {''}with the minimum of fuss{''}
-mean?
+Pense: como assim {''}sem fazer
+tanta confusão?{''}
 !******************************!
 [ee0b01000d000000:0276020000]
-You can actually move the bowls
-yourself, so go ahead and try out some
-different possibilities.
+Você mesmo pode mover as tigelas,
+então vá em frente e tente várias
+possibilidades.
 !******************************!
 [ef0b01000e000000:02d6020000]
-This one's possibly a little bit sneaky.
-Take a good look at the complete
-line-up, you might notice something.
+Esse enigma é um pouquinho sacana.
+Dê uma boa olhada na linha de tigelas
+inteira, talvez você perceba algo.
 !******************************!
 [f00b01000f000000:0245030000]
-Did you notice that there's space for
-one more bowl to the right of the five
-already on the counter?
+Percebeu que tem espaço para mais uma
+tigela à direita das cinco que já
+estão no balcão?
 !******************************!
 [f10b010010000000:02aa030000]
-Just move a bowl from one end to the
-other and the pork and plain noodles
-will line up alternately along the
-counter.
+Só mova uma tigela de uma ponta para
+a outra e os macarrões irão se
+alternar no balcão.
 
-Give it a try.
+Vá em frente e tente.
 !******************************!

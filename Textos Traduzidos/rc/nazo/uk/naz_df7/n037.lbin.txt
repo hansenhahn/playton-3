@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000800000000f203000000f2030000000100000000010000000001000000]
+n037
+!******************************!
+n037a
+!******************************!
+n037b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esses fósforos formam {''}100M{''}.
+
+Mova um deles para o lixo e forme
+algo que demonstre um tamanho que
+seja um milésimo disso.
+
+!******************************!
+[ec0b01000b000000:029d000000]
+Incrível!
+
+{''}100M{''} (100 metros) viram 
+{''}10CM{''} (10 centímetros).
+!******************************!
+[ed0b01000c000000:02e9000000]
+Que pena!
+
+Primeira coisa: tente calcular 
+um milésimo desse valor.
+!******************************!
+[ee0b01000d000000:0243010000]
+{''}100M{''}.
+
+Estamos falando de tamanho, então {''}M{''}
+representa {''}metros{''}.
+!******************************!
+[ef0b01000e000000:0296010000]
+{''}00M{''} está certo? Não.
+
+A resposta é exatamente um milésimo
+do valor original.
+!******************************!
+[f00b01000f000000:02e4010000]
+Não importa o quanto você mexa
+os números, você não consegue fazer
+um milésimo do valor original.
+
+Por que não tenta mudar a
+unidade de medida?
+!******************************!
+[f10b010010000000:0277020000]
+Um milésimo de um quilômetro é um metro.
+
+Um milésimo de 100 metros é 0.1 metros,
+ou 10 centímetros.
+
+!******************************!

@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000002e040000002f040000000100000000000000000000000000]
+n024
+!******************************!
+n024a
+!******************************!
+n024b
+!******************************!
+[eb0b01000a000000:0211000000]
+Construa uma metralhadora de moedas
+usando as peças desse caça-níqueis e
+ajude nossos heróis a contra-atacar!
+
+Gire as peças para encaixá-las na forma
+xadrez abaixo. Você deve usar todas as
+peças, e nenhuma pode sobrepor a outra.
+Agora se apresse!
+!******************************!
+[ec0b01000b000000:02f6000000]
+Bingo!
+
+Hora de contra-atacar!
+!******************************!
+[ed0b01000c000000:0219010000]
+Azar!
+
+Tente de novo, e rápido!
+!******************************!
+[ee0b01000d000000:0245010000]
+A forma é complicada, mas você consegue
+descobrir onde cada peça vai olhando
+como elas se combinam.
+
+A parte que atira as moedas aponta
+para a esquerda. Agora vai fundo!
+!******************************!
+[ef0b01000e000000:02f4010000]
+A peça parecida com um tubo longo é
+o cano da arma, e aponta para a esquerda
+com a parte vermelha na ponta.
+
+A parte parecida com um funil da grande
+peça vermelha fica para cima.
+!******************************!
+[f00b01000f000000:0299020000]
+A peça com uma alavanca encaixa
+na ponta direita.
+
+A peça com uma engrenagem fica próxima
+do cano da arma, com a engrenagem
+apontando para cima.
+!******************************!
+[f10b010010000000:0229030000]
+Se você seguiu corretamente as Dicas
+2 e 3, o resto é fácil.
+
+Você já deve ter posicionado a grande
+peça verde à esquerda da alavanca, com
+o funil apontando para cima.
+
+A peça com o parafuso em forma de
+coração encaixa no canto inferior
+direito, com a parte dourada para cima.
+
+Só falta uma peça agora. Rápido!
+!******************************!

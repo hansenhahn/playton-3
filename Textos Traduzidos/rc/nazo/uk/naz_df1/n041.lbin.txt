@@ -6,62 +6,62 @@ n041a
 n041b
 !******************************!
 [eb0b01000a000000:0211000000]
-Here are three sheets of transparent
-plastic with different patterns painted
-on them. If you layer them correctly,
-a chessboard pattern appears.
+Há três folhas de plástico
+transparente com padrões diferentes em
+cada um. Sobrepondo-as corretamente
+forma um padrão xadrez.
 
-The order in which you layer them is
-important, and you can't flip or rotate
-the sheets.
+A ordem de sobreposição é importante,
+e não tem como virar ou girar as
+folhas.
 
-Which sheet, A, B or C, goes on the very
-bottom? Touch a letter to give your
-answer.
+Qual das folhas deve ser colocada no
+fundo da sobreposição: A, B, ou C?
+Toque uma letra para responder.
 !******************************!
 [ec0b01000b000000:0252010000]
-Nicely done!
+Muito bem!
 
-B goes on the very bottom, and the other
-sheets are laid on top in the order
-pictured above.
+B fica no fundo, e as outras folhas
+são postas em cima conforme a ordem
+mostrada acima.
 !******************************!
 [ed0b01000c000000:02bd010000]
-Too bad!
+Errado!
 
-Think carefully about how the sheets
-should be layered.
+Pense mais em como as folhas
+devem ser sobrepostas.
 !******************************!
 [ee0b01000d000000:02ff010000]
-You're not trying to build the entire
-chessboard in your head at once, are
-you? That will only confuse you.
+Não está tentando criar o xadrez
+inteiro na cabeça, está? Esqueça
+isso, só vai te confundir mais.
 
-Try focusing on just one part of the
-board initially.
+Tente focar apenas em uma parte
+do tabuleiro por enquanto.
 !******************************!
 [ef0b01000e000000:02a2020000]
-The layered sheets must make a
-chessboard pattern. In some areas,
-the pattern won't appear until you
-have layered all three sheets, though.
+As folhas sobrepostas devem criar
+um padrão xadrez. Em algumas áreas,
+o padrão não vai se formar até você
+ter sobreposto todas as três folhas.
  
-Keep this in mind and try to work out
-which sheet could go on top of the pile.
+Foque nisso e tente descobrir primeiro
+qual das folhas deve ficar no topo.
 !******************************!
 [f00b01000f000000:027f030000]
-A sheet that contains adjacent squares
-of the same colour can't go on top.
+Uma folha com quadrados adjacentes
+da mesma cor não pode ficar no topo.
 !******************************!
 [f10b010010000000:02ca030000]
-Sheets A and B contain adjacent
-squares of the same colour. If you
-put either of these sheets on top,
-you won't have a chessboard pattern.
-In other words, you know that C goes
-on top.
+As folhas A e B contém quadrados
+adjacentes de mesma cor. Colocar
+qualquer uma das duas no topo não
+criará o padrão xadrez. Em resumo:
+a folha C deve ser a que ficará no
+topo.
 
-Now that you know this, think about
-which colours need to fit into the blank
-squares of sheet C.
+Agora que sabe sobre isso, pense em
+quais cores se encaixam nos quadrados
+vazios da folha C.
 !******************************!

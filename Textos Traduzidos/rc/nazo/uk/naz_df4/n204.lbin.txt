@@ -1,0 +1,50 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n204
+!******************************!
+n204a
+!******************************!
+n204b
+!******************************!
+[eb0b01000a000000:0211000000]
+Além dele mesmo, o número 28 pode ser
+dividido pelos fatores 1, 2, 4, 7 e 14.
+
+Ao somar esses números juntos, você tem
+1 + 2 + 4 + 7 + 14 = 28. Em outras
+palavras, a soma deles resulta no número
+original.
+
+Agora a parte do enigma:
+
+Qual o menor número que a soma de seus
+fatores (e isso não incluindo o próprio
+número) resulta no número original!
+!******************************!
+[ec0b01000b000000:0275010000]
+Somou bem!
+
+A resposta é 6.
+
+O número 6 é divisível por 1, 2, 3 e 6.
+Não incluindo o 6 na soma, você terá
+1 + 2 + 3 = 6!
+!******************************!
+[ed0b01000c000000:0200020000]
+Que pena!
+
+Não se intimide pelo fato de ser um
+problema de matemática. Só pense um
+pouco mais. É mais simples do que parece.
+!******************************!
+[ee0b01000d000000:0287020000]
+A resposta é um número de um dígito.
+!******************************!
+[ef0b01000e000000:02ac020000]
+
+!******************************!
+[f00b01000f000000:02ad020000]
+
+!******************************!
+[f10b010010000000:02ae020000]
+
+!******************************!

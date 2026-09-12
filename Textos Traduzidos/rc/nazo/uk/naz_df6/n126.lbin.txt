@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000880400000088040000000100000000010000000000000000]
+n126
+!******************************!
+n126a
+!******************************!
+n126b
+!******************************!
+[eb0b01000a000000:0211000000]
+Este lote vazio tem diversas estacas de
+madeira formando uma grade de quadrados.
+Sua missão é estender cordas nas estacas
+para construir uma casa que tenha quatro
+quartos idênticos em formato para uma
+família, e isso usando todo o espaço do
+lote.
+
+Para uma linha reta por várias estacas,
+certifique-se de usar uma corda. Você
+deve completar esse enigma com cinco
+cordas ou menos.
+!******************************!
+[ec0b01000b000000:029b010000]
+Bom trabalho!
+
+Aí está, todos do mesmo tamanho. Demorou
+para entender que nem todos os quartos
+precisavam ser do mesmo tamanho?
+!******************************!
+[ed0b01000c000000:021c020000]
+Errou!
+
+Mesmo com os formatos similares,
+talvez os ângulos estejam diferentes,
+ou a proporção deles não está certa?
+!******************************!
+[ee0b01000d000000:0290020000]
+O lote tem um formato quadrado com dois
+cantos cortados. Mantenha isso em mente
+e pense em que tipo de forma você
+consegue dividir em quatro.
+!******************************!
+[ef0b01000e000000:021e030000]
+Você precisa de quatro salas com mesmo
+formato para resolver o enigma. Porém,
+eles não precisam ser do mesmo tamanho!
+
+Talvez você fez quatro trapézios e se
+perguntou porque errou? Lembre-se, para
+serem considerados da mesma forma, todos
+os quartos devem ser dimensionados de
+forma correta.
+!******************************!
+[f00b01000f000000:0221040000]
+A solução envolve dois quartos maiores
+de mesmo tamanho e dois quartos menores
+de mesmo tamanho. Os quartos maiores
+são perfeitamente proporcionais aos
+menores.
+!******************************!
+[f10b010010000000:02bc040000]
+Imagine um diamante/losango cortado, que
+nem os que tem em um anel, visto de
+lado. Esse é o formato dos quartos.
+
+Se ainda estiver confuso, conte duas
+estacas para a esquerda do canto superior
+direito e estenda uma corda duas estacas
+de lá para baixo. Depois faça o mesmo
+processo, mas estendendo a corda duas
+estacas de lá para esquerda. Viu a forma
+que você fez? É só isso!
+!******************************!

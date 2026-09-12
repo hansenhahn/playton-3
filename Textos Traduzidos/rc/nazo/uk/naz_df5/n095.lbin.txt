@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n095
+!******************************!
+n095a
+!******************************!
+n095b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse é o mapa do andar onde a sala do
+gerador está. As localizações de dois
+robôs de segurança com câmeras embutidas
+são indicadas pelas setas vermelha e
+verde.
+Para impedir o Professor Layton de
+achá-la, Clive fez questão dos robôs
+fazerem rondas por todo o andar, exceto
+próximo à sala do gerador.
+
+Os robôs sempre vão virar nas esquinas
+circuladas em amarelo. Toque a sala que
+os robôs não passam - ela é a sala do
+gerador!
+!******************************!
+[ec0b01000b000000:02ca010000]
+Você achou!
+
+Nem mesmo o Clive consegue enganar
+o Professor Layton e companhia!
+!******************************!
+[ed0b01000c000000:020e020000]
+Que pena!
+
+Dê mais uma olhada
+e tente outra vez.
+!******************************!
+[ee0b01000d000000:0244020000]
+Em um cruzamento com duas esquinas
+circuladas opostas uma a outra, os robôs
+sempre irão virar na esquina que
+eles irão primeiro.
+!******************************!
+[ef0b01000e000000:02be020000]
+Há apenas dois robôs de segurança, mas
+juntos eles podem monitorar quase todas
+as salas. Em suas rondas, eles se cruzam
+de vez em quando, mas se eles estarem no
+mesmo caminho, você cometeu algum erro.
+!******************************!
+[f00b01000f000000:0281030000]
+A rota de cada robô é um loop. Assim que
+você descobrir ambos os caminhos, você
+só precisa achar a sala por onde nenhum
+deles passa perto.
+!******************************!
+[f10b010010000000:0207040000]
+Se você dividir o mapa em quatro
+quadrantes, a sala do gerador
+fica embaixo à direita.
+!******************************!

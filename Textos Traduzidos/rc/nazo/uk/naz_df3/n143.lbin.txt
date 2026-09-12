@@ -1,0 +1,73 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n143
+!******************************!
+n143a
+!******************************!
+n143b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Existem 10 irmãos e irmãs morando
+junto. Agora Luke, imaginemos que você
+é o oitavo irmão.
+A filha mais velha é a irmã mais nova do
+segundo filho e a irmã mais velha do
+terceiro filho. O quarto filho é o irmão
+mais velho da segunda filha e o irmão
+mais novo da filha mais velha. Não há
+meninos entre a terceira e a quarta
+filhas.
+O terceiro filho de baixo para cima é
+um menino ou uma menina?{''}
+{''}Hmm, não sei dizer!{''}
+Diga ao Luke a resposta, mas em segredo.
+!******************************!
+[ec0b01000b000000:02f2010000]
+Corretíssimo!
+
+É um menino.
+
+{''}Eu lhe disse no início, Luke:
+{''}Imaginemos que você é o oitavo
+irmão.{''}
+
+Eu perguntei sobre o terceiro filho de
+baixo para cima, ou em outras palavras,
+o oitavo irmão mais velho. E esse oitavo
+irmão era você, Luke, e sei melhor do
+que ninguém que você é um menino!{''}
+!******************************!
+[ed0b01000c000000:022a030000]
+Errado.
+
+Tente pensar da maneira mais
+simples possível.
+!******************************!
+[ee0b01000d000000:0262030000]
+Você não se confundiu com toda essa
+volta na explicação, né?
+Leia o enigma de novo desde o
+início.
+!******************************!
+[ef0b01000e000000:02d3030000]
+Ler todas as condições desse enigma
+está sendo um pé no saco?
+
+Se começou a pensar assim, então você
+já deveria saber que esse é um enigma
+MUITO simples!
+!******************************!
+[f00b01000f000000:0279040000]
+Dos 10 irmãos e irmãs, Luke é o
+oitavo irmão {''}de cima para baixo{''}.
+
+Se essa é a primeira condição
+do enigma, então...
+!******************************!
+[f10b010010000000:0203050000]
+Dos 10 irmãos e irmãs, o terceiro de
+baixo para cima é o oitavo de cima para
+baixo.
+E o Luke não é uma menina...
+
+{''}Acho que agora você descobriu, Luke!{''}
+!******************************!

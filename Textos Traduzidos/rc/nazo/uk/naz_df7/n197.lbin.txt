@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000000000000]
+n197
+!******************************!
+n197a
+!******************************!
+n197b
+!******************************!
+[eb0b01000a000000:0211000000]
+O correio local vende 10 tipos de selos
+diferentes, valendo 10p, 20p, 30p,
+até o valor de 100p ({po}1).
+
+Você precisa comprar os quatro selos
+que, quando usados em qualquer
+combinação, podem gerar cada acréscimo
+de 10p, começando por 10p até o valor
+mais alto possível.
+
+Os exemplos acima são quatro combinações
+com potencial, mas não a resposta.
+
+Quais selos você deve comprar?
+!******************************!
+[ec0b01000b000000:027d010000]
+Entrega de primeira classe!
+
+Com os selos de 10p, 20p, 40p e 80p,
+você consegue criar cada acréscimo de 
+10p, do 10p até 150p!
+
+Os cálculos mostram como combinar os
+selos para ter cada acréscimo.
+!******************************!
+[ed0b01000c000000:023e020000]
+Que pena!
+
+Pensou que tinha resolvido, né?
+Esvazie a mente e tente de novo.
+!******************************!
+[ee0b01000d000000:028b020000]
+O valor mais alto possível que você
+conseguirá criar com os quatro selos
+corretos é 150p.
+
+Isso usando todos os quatro, claro,
+mas quais são os quatro?
+!******************************!
+[ef0b01000e000000:022c030000]
+
+!******************************!
+[f00b01000f000000:022d030000]
+
+!******************************!
+[f10b010010000000:022e030000]
+
+!******************************!

@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n137
+!******************************!
+n137a
+!******************************!
+n137b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você colocou três copos descartáveis na
+mesa como mostrado acima à esquerda e
+marcou, escondido, o copo do meio como
+mostrado pela seta azul.
+
+Você, então, fecha os olhos e pede para
+seu amigo: {''}Esconda uma moeda em um
+dos copos e então troque os outros dois
+de lugar.{''}
+
+Quando você abriu os olhos, os copos
+estavam como mostrados abaixo. Qual
+deles esconde a moeda: A, B ou C?
+!******************************!
+[ec0b01000b000000:02a7010000]
+Isso!
+
+A moeda está no copo A!
+
+Já que o copo marcado no meio passou
+para a direita e virou o copo C, você
+sabe que ele trocou de lugar com o copo
+que estava lá antes, o copo B.
+
+O copo que seu amigo escondeu a moeda
+não foi movido, então você sabe que
+deve ser o copo A!
+!******************************!
+[ed0b01000c000000:02b7020000]
+Que pena!
+
+Não tem nada confuso nesse enigma se
+você pensar direito nas coisas...
+!******************************!
+[ee0b01000d000000:0211030000]
+Qual copo não foi movido?
+!******************************!
+[ef0b01000e000000:0228030000]
+O copo marcado foi movido.
+!******************************!
+[f00b01000f000000:023e030000]
+O copo marcado foi movido do meio
+para a direita.
+!******************************!
+[f10b010010000000:0276030000]
+O copo marcado estava no meio e trocou
+de lugar com o copo que estava na
+direita.
+
+Então onde está a moeda?
+!******************************!

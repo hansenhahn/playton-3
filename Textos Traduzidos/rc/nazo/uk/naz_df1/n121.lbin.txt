@@ -6,62 +6,63 @@ n121a
 n121b
 !******************************!
 [eb0b01000a000000:0211000000]
-The numbered plates Paillard ordered have
-finally arrived! But wait a second...
-Oh no! The manufacturer painted all the
-numbers on backwards by mistake!
+Finalmente os pratos numerados que o
+Paillard pediu chegaram! Mas espera...
+Ah, não! O fabricante pintou os números
+ao contrário sem querer!
 
-Paillard would like to use them as soon as
-possible, but it will apparently take
-quite a while to fix each and every plate.
-To save time, the manufacturer would like
-him to make do with the plates that he
-can use as they are, and only send back
-the ones that absolutely have to be fixed.
-Paillard wants your help - tick only the
-plates that can't be used.
+Paillard quer usar os pratos o mais
+rápido possível, mas aparentemente vai
+demorar um bom tempo para consertar cada
+um deles. Pra poupar tempo, o fabricante
+aconselhou se contentar com os pratos
+que podem ser usados do jeito que estão,
+enquanto ele conserta os que não podem.
+Ajude o Paillard - marque apenas os
+pratos que não podem ser usados.
 !******************************!
 [ec0b01000b000000:020f020000]
-You're number one!
+Você é o número um!
 
-6 and 9 definitely won't work.
+Não dá para usar os pratos 6 e 9.
 
-0, 1 and 8 are symmetrical, so they're
-clearly okay as they are. The 2 and the 5
-can replace each other if they are
-rotated 180 degrees. And rotating the 3,
-4 and 7 as shown allows them to work just
-fine!
+0, 1 e 8 são simétricos, então é de boa
+usá-los do jeito que estão. 2 e 5 podem
+substituir um ao outro se virados a
+180 graus. E virar o 3, 4 e 7 da forma
+mostrada na imagem os permite serem
+usados normalmente!
 
-Pretty nifty!
+Que bacana!
 !******************************!
 [ed0b01000c000000:021f030000]
-Too bad!
+Errado!
 
-Are you sure you're using all the plates
-that you can and only ticking the ones
-that you absolutely cannot use?
+Tem certeza que está usando todos os
+pratos que pode e marcando apenas os
+que você realmente não consegue usar?
 
-Take another look and try again.
+Dê uma outra olhada e tente de novo.
 !******************************!
 [ee0b01000d000000:02bb030000]
-The 0 and 1 can be used as they are.
+0 e 1 podem ser usados como estão.
 !******************************!
 [ef0b01000e000000:02e0030000]
-You can also use the 8 as it is.
+Você também pode usar o 8 do jeito que
+está.
 
-Hmm... The 2 and 5 look really similar too.
+Hmm... 2 e 5 são bem parecidos também.
 !******************************!
 [f00b01000f000000:022e040000]
-The 4 will work just fine if you rotate
-it 90 degrees.
+O prato 4 pode ser usado de boa se
+virado a 90 graus.
 !******************************!
 [f10b010010000000:0265040000]
-Look closely at the 7, too. It will also
-work if you rotate it.
+Olhe bem para o 7 também. Ele também
+pode ser usado se for rotacionado.
 
-Wow. Quite a few will work just fine as
-they are. Some of them, however, simply
-must be fixed, no matter how usable
-they might look at first glance.
+Caramba. Alguns vão poder ser usados
+do jeito que estão. Porém, outros devem
+ser consertados, não importa o quão
+utilizáveis pareçam à primeira vista.
 !******************************!

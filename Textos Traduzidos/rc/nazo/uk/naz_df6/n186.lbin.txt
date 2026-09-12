@@ -1,0 +1,48 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n186
+!******************************!
+n186a
+!******************************!
+n186b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há um tesouro enterrado no quadrado mais
+à esquerda dos seis quadrados vazios
+abaixo.
+
+Coloque os seis painéis de dados nos
+espaços vazios de forma que eles revelem
+a localização do tesouro para todos.
+!******************************!
+[ec0b01000b000000:02d6000000]
+Arrr!
+
+Ao girá-los e organizá-los corretamente,
+os dados formam uma seta apontando para
+um ponto vermelho em cima do tesouro.
+Isso atrai a atenção de todo mundo!
+
+E o que deve ser o tesouro...?
+!******************************!
+[ed0b01000c000000:0292010000]
+Que pena!
+
+Pense em como você iria apontar para a
+localização do tesouro.
+!******************************!
+[ee0b01000d000000:02e4010000]
+Coloque o dado que chama mais atenção
+em cima da localização do tesouro (o
+quadrado vazio à esquerda). Então crie
+uma seta com os dados que sobraram.
+
+!******************************!
+[ef0b01000e000000:0288020000]
+
+!******************************!
+[f00b01000f000000:0289020000]
+
+!******************************!
+[f10b010010000000:028a020000]
+
+!******************************!

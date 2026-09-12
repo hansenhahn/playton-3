@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n188
+!******************************!
+n188a
+!******************************!
+n188b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um baralho completo de 52 cartas (sem
+coringas) foi embaralhado e dividido em
+três baralhos aproximadamente iguais.
+
+O baralho da esquerda possui 17 cartas,
+sendo quatro delas vermelhas. O do meio
+tem 18 cartas, com seis vermelhas.
+
+Quantas cartas no baralho da
+direita são pretas?
+!******************************!
+[ec0b01000b000000:0222010000]
+Excelente!
+
+Apenas uma carta preta.
+
+O baralho da esquerda de 17 cartas tem
+4 vermelhas e 13 pretas. O do meio de
+18 cartas tem 6 vermelhas e 12 pretas.
+Portanto, o da direita precisa ter
+16 cartas vermelhas e 1 carta preta!
+
+Essas cartas foram embaralhadas, né?
+
+!******************************!
+[ed0b01000c000000:0239020000]
+Resposta errada!
+
+Não pense muito além.
+!******************************!
+[ee0b01000d000000:0257020000]
+Esse enigma pode ser resolvido com
+simples soma e subtração.
+
+Lembre-se: há um número igual de cartas
+vermelhas e pretas em um baralho.
+!******************************!
+[ef0b01000e000000:02e2020000]
+
+!******************************!
+[f00b01000f000000:02e3020000]
+
+!******************************!
+[f10b010010000000:02e4020000]
+
+!******************************!

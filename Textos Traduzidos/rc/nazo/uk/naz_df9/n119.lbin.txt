@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000100400000010040000000100000000000000000000000000]
+n119
+!******************************!
+n119a
+!******************************!
+n119b
+!******************************!
+[eb0b01000a000000:0211000000]
+Caminhe do ponto inicial até o final,
+mas cuidado com as cascas de banana.
+Assim que pisar em uma, você deslizará
+até bater em uma parede!
+
+Consegue achar um caminho sólido
+por estas ruas escorregadias?
+
+Toque em uma seta vermelha para ir
+na direção indicada.
+!******************************!
+[ec0b01000b000000:0210010000]
+Bananástico!
+
+Doce e deliciosa, muitas pessoas
+costumam comer as bananas Cavendish
+cruas, logo após descascá-las. Mas nas
+regiões tropicais, onde a maioria das
+bananas do mundo são produzidas, há
+muitas variantes menos doces que são
+usadas na cozinha.
+!******************************!
+[ed0b01000c000000:021a020000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:0232020000]
+Se você sair do percurso, você voltará
+para começar.
+
+É fácil deslizar para fora sem querer,
+então cuidado por aí.
+!******************************!
+[ef0b01000e000000:02ab020000]
+O primeiro movimento que você precisa
+fazer é andar reto!
+
+Deslize até chegar na parede!
+!******************************!
+[f00b01000f000000:0204030000]
+Assim que chegar na parede, volte
+um pouquinho. Vire no primeiro
+cruzamento que chegar. Você irá
+deslizar de novo, mas está tudo bem.
+!******************************!
+[f10b010010000000:027f030000]
+Assim que bater na parede, fique calmo.
+Dê uma boa olhada no percurso. Dá para
+chegar no final de onde você está.
+!******************************!

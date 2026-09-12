@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000700000000420400000042040000000100000000000000000000000000]
+n032
+!******************************!
+n032a
+!******************************!
+n032b
+!******************************!
+[eb0b01000a000000:0211000000]
+Uma pedra preciosa avermelhada caiu no
+fundo desta mala desarrumada. Consegue
+puxá-la até a abertura da mala tirando
+todos os itens dela do caminho?
+!******************************!
+[ec0b01000b000000:02ad000000]
+Boa!
+
+Olha o brilho desta joia!
+!******************************!
+[ed0b01000c000000:02d6000000]
+Azar.
+
+Tente de novo!
+!******************************!
+[ee0b01000d000000:02eb000000]
+Toda essa bagunça está confusa, não é?
+Bem, aqui vai uma dica. Não dá para só
+puxar a pedra para cima direto. Parece
+que você vai precisar dar uma certa
+voltinha, começando pela direita.
+!******************************!
+[ef0b01000e000000:0296010000]
+Mova as seguintes peças para cima: a
+peça curvada acima da pedra, depois
+a peça em formato de T no canto
+superior direito e a peça abaixo
+em formato do que parece ser um L.
+
+Depois, você consegue mover a pedra
+para cima e para a direita até o canto.
+!******************************!
+[f00b01000f000000:0281020000]
+Assim que você fazer as instruções da
+Dica 2, coloque a pedra no espaço vazio
+da peça em formato de U no canto
+inferior direito.
+
+Com isso, você pode mover as peças acima
+para a esquerda, tirando-as do caminho.
+
+Agora mova a pedra até o canto
+superior direito.
+!******************************!
+[f10b010010000000:0277030000]
+Se você seguiu tudo até a Dica
+3, o resto deve ser simples.
+
+A esse ponto, a pedra deve estar
+no canto superior direito. Se você
+mover as três peças abaixo da abertura
+da mala, uma saída irá se abrir.
+
+O truque é não mover nenhum item
+além dos três primeiros.
+
+!******************************!

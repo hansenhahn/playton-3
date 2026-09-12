@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000010000000001000000]
+n010
+!******************************!
+n010a
+!******************************!
+n010b
+!******************************!
+[eb0b01000a000000:0211000000]
+Embora ainda vemos o tempo passar diante
+de nossos olhos, às vezes é difícil
+pensar na maneira que ele flui.
+
+Sendo assim: pense: se o dia de ontem
+depois de amanhã é Domingo, que dia
+é amanhã antes de ontem?
+
+Marque a resposta e clique em <CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:020e010000]
+Uau!
+
+A resposta correta é Sexta. É fácil
+descobrir se você separar em duas
+partes.
+
+Dois dias depois de ontem é Domingo,
+então amanhã é Domingo. E isso significa
+que hoje é Sábado.
+
+Portanto, dois dias antes de amanhã são
+dois dias antes de Domingo: Sexta-Feira.
+!******************************!
+[ed0b01000c000000:0209020000]
+Que pena!
+
+Esse enigma é bem difícil por causa
+da maneira que é escrito. Tome seu
+tempo e conte os dias nos seus dedos,
+e assim você conseguirá descobrir.
+!******************************!
+[ee0b01000d000000:02ad020000]
+Tente fazer uma tabela, talvez ela
+possa deixar as coisas mais fáceis.
+!******************************!
+[ef0b01000e000000:02f0020000]
+Dois dias depois de ontem é Domingo.
+Então que dia é ontem?
+
+Sexta, é claro!
+!******************************!
+[f00b01000f000000:0242030000]
+Dois dias antes de amanhã é o quê?
+
+Ontem, certo?
+!******************************!
+[f10b010010000000:0277030000]
+As Dicas 2 e 3 quase te dão
+a resposta.
+
+Já que o dia de ontem depois de amanhã
+é Domingo, ontem é Sexta.
+
+O dia de amanhã antes de ontem
+é o próprio ontem.
+
+Agora, qual é mesmo a pergunta?
+
+!******************************!

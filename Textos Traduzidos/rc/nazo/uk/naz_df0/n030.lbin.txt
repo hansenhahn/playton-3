@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n030
+!******************************!
+n030a
+!******************************!
+n030b
+!******************************!
+[eb0b01000a000000:0211000000]
+{''}Tenho medo de alguém da família estar
+ali na frente... E não sei o que farão
+comigo se me acharem. Por isso, estou
+escondido atrás dessa parede, assim 
+posso espiar por esse buraco sem ser
+achado.
+
+Me ajude, por favor - pode me dizer
+quantos capangas estão ali fora?{''} 
+!******************************!
+[ec0b01000b000000:023d010000]
+Na mosca!
+
+{''}Cruzes! Nove capangas! Estava certo
+em ficar com medo...{''}
+!******************************!
+[ed0b01000c000000:028a010000]
+Hmm, resposta errada. 
+
+Analise cada canto e recanto!
+!******************************!
+[ee0b01000d000000:02b2010000]
+{''}O líder deles está ali, em cima
+da varanda no lado direito!
+
+Ele é o primeiro.{''}
+!******************************!
+[ef0b01000e000000:0214020000]
+{''}Eles estão em esconderijos muito
+sorrateiros! Olhe para aquele barril
+embaixo à direita por exemplo, tem
+algo muito errado com ele...{''}
+!******************************!
+[f00b01000f000000:02a7020000]
+{''}Eles estão se escondendo em
+lugares bem estranhos! Tipo ali em cima
+à esquerda, acho que dá pra ver um
+chapéu...
+Dê uma boa olhada de perto!{''}
+!******************************!
+[f10b010010000000:0227030000]
+{''}Eu acho que tem menos de 10
+deles.{''}
+!******************************!
