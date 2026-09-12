@@ -54,7 +54,7 @@ Textos Traduzidos IA/txt/uk/<caminho>/<arquivo>
 
  1. Leia a skill `layton-translation`.
 2. Siga as fontes de verdade indicadas pela skill.
-3. Identifique todos os arquivos que pertencem ao Capítulo 00.
+3. Identifique todos os arquivos que pertencem ao capítulo indicado.
 4. Determine todas as entradas que precisam ser traduzidas.
 5. Identifique os personagens e o contexto necessários para executar a tradução corretamente.
 

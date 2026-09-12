@@ -30,14 +30,25 @@ Skill para tradução **não-mecânica** de Professor Layton PT-BR. Use ao tradu
 2. **Carregue o contexto:** leia o resumo do capítulo que está sendo traduzido e, quando disponível, o resumo específico do arquivo. Consulte outros resumos de capítulos quando a fala fizer referência a acontecimentos anteriores, personagens, objetos, locais ou informações já estabelecidas. O contexto narrativo deve orientar a tradução, mas não substituir o texto original.
 3. **Aplique o glossário** de `REGRAS_TRADUCAO.md:2` sem alterar.
 4. **Escreva na voz do dossiê** — busque a personalidade, registro, bordões e proibições do personagem em questão em `Spec/Personagens/*.md`; não use lista fixa da skill, o dossiê é a fonte da verdade.
-5. **Respeite a caixa:** 3 linhas por página (`!------------------------------!` = nova página). A largura de cada linha deve ser calculada usando as **métricas reais dos glifos da NFTR**, documentadas em `Spec/Fontes_NFTR.md`, e não por quantidade de caracteres ou estimativas de largura média. Para cada caractere, use o valor `adv` correspondente na tabela CWDH e some os avanços da linha. Tags (`<01:...>`, `<W>`, `<A>`) não contam. Nunca hifenizar — palavra inteira por linha. A tela do Nintendo DS tem 256 px de largura; nunca permita que uma linha ultrapasse fisicamente esse limite. Para a área útil específica de cada tela, use a configuração correspondente do Previewer.
-6. **Valide:** `Previewer/Configs/Screen01.ini` (`Texts.png`, `fontevent.nftr`, `ScreenNewLine 16`) + cálculo da largura real por `adv` da NFTR. Não use contagem de caracteres, "caractere médio" ou largura estimada como substituto da validação.
-7. **Checklist:** `REGRAS_TRADUCAO.md:6` (enigma 100%, Livro, moeda, Inspetor/Agente, placeholders, 3 linhas, largura real da NFTR, `windows-1252`).
+5. **Respeite a caixa:** 3 linhas por página (`!------------------------------!` = nova página). A largura de cada linha deve ser calculada usando as **métricas reais dos glifos da NFTR**, documentadas em `Spec/Fontes_NFTR.md`, e não por quantidade de caracteres ou estimativas de largura média. Antes de medir, decodifique placeholders `{...}` para caractere único (`{''}`→`"` 4px etc. `Spec/Fontes_NFTR.md:4`) — não some `{`/`}` como glifos. Para cada caractere já decodificado, use o valor `adv` correspondente na tabela CWDH e some os avanços da linha. Tags (`<01:...>`, `<W>`, `<A>`, `{#0}`) não contam. Nunca hifenizar — palavra inteira por linha. A tela do Nintendo DS tem 256 px de largura; nunca permita que uma linha ultrapasse fisicamente esse limite. Para a área útil específica de cada tela, use a configuração correspondente do Previewer.
+6. **Nunca use `replace` literal com bloco que contém quebra de linha como chave.** O motor LSCR quebra diálogo em linhas físicas (`\n`) — uma chave sem `\n` não casa (causa raiz de `00_004000.lbin.txt:41` `Ummm - gulp...probable!\nHighly` ter ficado em EN). Em vez disso, **parseie por blocos** `re.findall(r'!\*{30}!(.*?)!\*{30}!', txt, DOTALL)` e traduza só o texto fora das tags dentro de cada bloco, preservando toda sequência `<V>`, `<T>`, `<W>`, `<A>` na mesma ordem.
+7. **Valide:**
+   - `Previewer/Configs/Screen01.ini` (`Texts.png`, `fontevent.nftr`, `ScreenNewLine 16`) + cálculo da largura real por `adv` da NFTR (decodificando placeholders antes). Não use contagem de caracteres, "caractere médio" ou largura estimada.
+   - **Completude:** após traduzir, extraia todo `re.findall(r'<T>(.*?)</V>', original, DOTALL)` com `clean = re.sub(r'<[^>]+>','', snippet)` e verifique `clean not in traduzido` (exceção: nomes próprios `Stahngun|Baldwin|Midland Road`). Qualquer `clean` com `len>15` ainda presente = bloco não traduzido — falhar.
+   - **Tags:** `len(re.findall(r'<[^>]+>', original)) == len(re.findall(r'<[^>]+>', traduzido))` e ordem idêntica por página.
+   - **Oralidade:** leia **todo texto de personagem** (dublado `<V>` ou não — `レイトン`/`ルーク`/`バートン` etc.; não é narração) em voz alta como o falante do dossiê (idade/classe/estado). Se soar escrito, literal ou não falável, reescreva pelo sentimento antes de revalidar caixa.
+8. **Checklist:** `REGRAS_TRADUCAO.md:6` (enigma 100%, Livro, moeda, Inspetor/Agente, placeholders, 3 linhas, largura real da NFTR com placeholders decodificados, `windows-1252`/`utf-8` sem BOM) + completude e oralidade acima.
 
-## Exemplos
+## Naturalidade coloquial — jovens e cômicos (sem quebrar época)
+
+Coloquialidade só para quem o dossiê permite. Aplique o **princípio de personalidade** (`sentir → quer provocar → tom`) e consulte o dossiê (`Spec/Personagens/*.md:7`) para registro, bordões e proibições — **não fixe frase na skill; dossiê é a única fonte**. Se o dossiê não autoriza coloquialidade, use forma culta.
+
+## Exemplos (ilustrativos, não copiar fora do contexto do dossiê)
 
 - **CORRETO — Layton:** `Comporte-se, Luke. Um cavalheiro jamais força uma dama a falar mais do que ela quer.` (`ev_t15:t15_020_500.gds:1`)
 - **INCORRETO — Layton:** `Se comporta, Luke. Um cavalheiro nunca força uma mina a falar.` — gíria, perde época
+- **CORRETO — Barton coloquial controlado (ilustrativo):** hesitação + onomatopeia preservam humor faminto (`00_004000.lbin.txt:43` `Chelmey_Barton.md:3` `Ahn... glup... ahn... provável!` — `ahn` + `glup` + `Nhac` cabe em 3 linhas, `adv` <240px) — não é frase fixa, infira do dossiê a cada cena
+- **INCORRETO — jovem coloquial excessivo:** `Véi, que festão, mano!` — quebra classe/época e bordão J2 `Pode deixar, Professor!`
 - **CORRETO — caixa:** `Caro Hershel. Sendo o exímio` / `arqueólogo que sei que é, estou` — `ev_t10:t10_030_500.gds:1` — 3 linhas, com largura validada pelas métricas reais da NFTR e palavra inteira por linha
 
 ## Saída esperada

@@ -41,8 +41,8 @@ Dupla cômica policial recorrente da série. No Prólogo são alívio no banquet
 - **Sósias no futuro:** Walmy & Walton são cópias visuais de Chelmey & Barton no portão de Chinatown (`Spec/Capitulo_07.md:748`), Layton nota `bear an odd resemblance`.
 
 ## 6. Notas de Tradução PT-BR
-- **Chelmey nunca fala gíria jovem;** manter `sir`, `constable`, `blasted`.
-- **Barton comendo:** marcar com `(mastigando)` e manter `nhac nhac`; não normalizar para texto limpo — comida é caracterização.
+- **Chelmey nunca fala gíria jovem;** manter `sir`, `constable`, `blasted`, frases imperativas curtas. Todo texto de Chelmey/Barton (dublado `<V>` ou não, `チェルミー`/`バートン`) é fala — ler em voz alta; se soar escrito, reescrever pelo tom (Chelmey autoritário ranzinza, Barton submisso faminto) antes de revalidar caixa.
+- **Barton comendo — onomatopeia é a piada:** manter `Nhac...`/`nhac nhac`, `slurp`, `glup`, `Hmm...`, hesitação `Ahn...`/`Ummm - gulp - erm...` → `Ahn... glup... ahn...` (`00_004000.lbin.txt:43`); não normalizar para texto limpo — comida é caracterização.
 - **Hierarquia:** Barton sempre `sir` para Chelmey e Layton; Chelmey chama `Barton` seco, `Layton` sem `Professor` quando irritado, `young Luke`.
 - **Humor:** traduzir `Use your ears` literal funciona; não adaptar para provérbio.
 - **Teste Chelmey:** `Dozens of eyewitnesses, myself included, and not one blasted lead to work with!` → `Dezenas de testemunhas, eu inclusive, e nem uma pista decente para trabalhar!`

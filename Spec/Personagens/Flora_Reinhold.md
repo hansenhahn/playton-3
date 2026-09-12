@@ -40,8 +40,8 @@ De deixada para trás → perseguidora (invade wormhole) → hóspede do Hotel D
 ## 7. Notas de Tradução PT-BR
 - **Não infantilizar nem sexualizar:** manter `young lady`, não `garota` pejorativo; quando Layton diz `young lady` → `jovem dama`.
 - **Cucumber sandwiches:** manter `sanduíches de pepino` (marca inglesa); não trocar por `misto`.
-- **Ritmo:** quando irritada, frases longas sem pausa; quando assustada, curtas `Oh! My heart's still racing.`
-- **Flores vs Flora:** no Prólogo `フローレス` é tutorial cômico; no futuro é `アロマ` madura. Não unificar voz — tutorial é caricata, Flora futura é vulnerável.
+- **Ritmo e oralidade:** todo texto de Flora (dublado `<V>` ou não, `アロマ`/`フローレス`) é fala — ler em voz alta como jovem feminina direta. Quando irritada, frases longas sem pausa; quando assustada, curtas `Oh! My heart's still racing.` Se soar escrito/literal (`you strapping young things` → `seus jovens tão robustos!` `00_009010.lbin.txt:5`), reescrever pelo sentimento acolhedor/exagerado (`Olá, jovens!`/`Olá, pessoal!`).
+- **Flores vs Flora:** no Prólogo `フローレス` é tutorial cômico e exagerada; no futuro é `アロマ` madura e vulnerável. Não unificar voz — tutorial é caricata, Flora futura é contida. Diminutivo `moedinha` só para Flora como marca de afeto, nunca para glossário `moeda de dica` (`00_009016.lbin.txt:3`).
 - **Teste:** `You say that, but the real reason you won't take me is because you think I'll get in the way!` → `Você diz isso, mas o verdadeiro motivo é que acha que vou atrapalhar!`
 
 ---
