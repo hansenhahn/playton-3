@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n129
+!******************************!
+n129a
+!******************************!
+n129b
+!******************************!
+[eb0b01000a000000:0211000000]
+A piscina precisa ser enchida de água
+antes das crianças brincarem, mas todas
+as válvulas na mangueira conectada ao
+tanque estão fechadas.
+
+Abra apenas três válvulas para
+encher a piscina de água.
+!******************************!
+[ec0b01000b000000:02e1000000]
+É isso mesmo!
+
+Essas são as três válvulas que você
+precisa abrir. Agora as crianças podem
+brincar à vontade!
+!******************************!
+[ed0b01000c000000:0244010000]
+Que azar.
+
+Lembre-se, abra apenas três válvulas.
+
+Começando do tanque, trace a rota
+que a água passaria pela mangueira.
+
+!******************************!
+[ee0b01000d000000:02d2010000]
+Das três possíveis válvulas por onde a
+água pode passar após o primeiro
+cruzamento da mangueira, a que você
+deve abrir deve ser ou a do meio
+ou a de baixo!
+
+!******************************!
+[ef0b01000e000000:027c020000]
+Depois de abrir a válvula correta dentre
+as duas mencionadas pela Dica 1, escolha
+a rota que envolve abrir a válvula
+de baixo!
+!******************************!
+[f00b01000f000000:02f5020000]
+Assim que você abrir as válvulas
+mencionadas nas Dicas 1 e 2, o resto é
+fácil. Dê uma olhada na parte final da
+mangueira. Enquanto você não escolher
+uma rota com muitas válvulas, você
+estará tranquilo.
+!******************************!
+[f10b010010000000:02c1030000]
+Após ir pela rota descrita nas Dicas 1
+e 2, a última válvula a se abrir é a
+que está no canto inferior esquerdo.
+Abri-la irá permitir com que a água
+vá para a piscina.
+
+Você abriu três válvulas agora,
+então o enigma já está completo.
+!******************************!

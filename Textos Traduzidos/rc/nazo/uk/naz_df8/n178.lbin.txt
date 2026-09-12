@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n178
+!******************************!
+n178a
+!******************************!
+n178b
+!******************************!
+[eb0b01000a000000:0211000000]
+A coroa desse rei possui um número de
+joias dos seguintes tipos: diamantes,
+esmeraldas e safiras.
+
+Há mais que o dobro de diamantes 
+do que esmeraldas. Há menos da metade
+de esmeraldas do que safiras.
+
+Qual o número mínimo de joias na
+coroa do rei?
+
+!******************************!
+[ec0b01000b000000:0236010000]
+Majestoso!
+
+A resposta é 11 joias.
+
+Se existisse apenas uma ou duas
+esmeraldas, o número de safiras não
+serviria nas condições do enigma. Por
+isso o número de esmeraldas tem que ser
+três, indicando que só há uma safira.
+A partir disso, você sabe que o número
+mínimo de diamantes deve ser sete.
+!******************************!
+[ed0b01000c000000:025f020000]
+Hmm, não tá bem certo.
+
+Quanto será que custaria uma
+coroa dessas...?
+!******************************!
+[ee0b01000d000000:02a2020000]
+{''}Há menos da metade de esmeraldas
+do que safiras.{''} O que você consegue
+entender dessa informação?
+
+Lembre-se: há pelo menos uma joia
+de cada tipo.
+
+!******************************!
+[ef0b01000e000000:024f030000]
+
+!******************************!
+[f00b01000f000000:0250030000]
+
+!******************************!
+[f10b010010000000:0251030000]
+
+!******************************!

@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n158
+!******************************!
+n158a
+!******************************!
+n158b
+!******************************!
+[eb0b01000a000000:0211000000]
+Demora 15 minutos para ir da estação A,
+a primeira parada na linha do trem, para
+a estação B. 
+Da B até a estação C, cinco minutos.
+Da C até a estação D, a última da linha,
+10 minutos.
+Entretanto, da estação A até a D, não
+se demora 30 minutos.
+
+Tendo em mente que essa é uma linha reta
+sem nenhum ramal, demora quantos minutos
+para ir da estação A até a estação D?
+!******************************!
+[ec0b01000b000000:02c7010000]
+Tchu tchu, todos a bordo!
+
+Correto, vinte minutos!
+
+Para atender as condições do enigma,
+a estação C deve estar entre as
+estações A e B.
+!******************************!
+[ed0b01000c000000:0251020000]
+Errado!
+
+Tente mudar sua linha de raciocínio.
+!******************************!
+[ee0b01000d000000:027e020000]
+Essa situação é impossível?
+
+Bem, as condições são verdadeiras,
+não tem nenhuma pegadinha acontecendo
+aqui. Você deve pensar um pouco mais
+além para ver se consegue descobrir.
+!******************************!
+[ef0b01000e000000:021d030000]
+Você precisa inverter seu pensamento!
+!******************************!
+[f00b01000f000000:0240030000]
+A estação B deve vir depois da estação
+A, certo? Na verdade, não.
+Essa é só a ordem alfabética!
+
+!******************************!
+[f10b010010000000:02bb030000]
+Para atender as condições do enigma,
+a ordem das estações deve ser A, C, B
+e D. Sabendo disso, você poderá
+calcular quanto tempo demora para ir
+da estação A até a estação D.
+
+!******************************!

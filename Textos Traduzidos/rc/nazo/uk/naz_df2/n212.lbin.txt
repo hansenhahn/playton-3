@@ -1,0 +1,56 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n212
+!******************************!
+n212a
+!******************************!
+n212b
+!******************************!
+[eb0b01000a000000:0211000000]
+A imagem abaixo representa 10 cartas
+de baralho normal, do Ás ao 10 de
+copas.
+
+Mas as cartas de verdade se parecem
+um pouco diferente do que é mostrado.
+
+Quais três cartas somam 12 quando se
+conta os corações de cada carta?
+!******************************!
+[ec0b01000b000000:0204010000]
+Fantástico!
+
+O Às, o dois e o três são a
+resposta!
+
+É fácil esquecer de contar o coração
+embaixo dos dois números de cada ponta
+em toda carta, mas você conseguiu!
+!******************************!
+[ed0b01000c000000:02aa010000]
+Que pena!
+
+Antes de você pegar um baralho real
+para resolver rapidamente o enigma,
+tente fazer sua mente se lembrar de
+como estas cartas de baralho se
+parecem.
+!******************************!
+[ee0b01000d000000:024f020000]
+Tente visualizar como as cartas reais
+se parecem. Elas tem uma quantidade de
+corações no meio que equivale o seu
+valor. Mas isso não é tudo! Também tem
+um coração embaixo do número no canto
+de cada carta.
+
+Agora você consegue resolver!
+!******************************!
+[ef0b01000e000000:024f030000]
+
+!******************************!
+[f00b01000f000000:0250030000]
+
+!******************************!
+[f10b010010000000:0251030000]
+
+!******************************!

@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n128
+!******************************!
+n128a
+!******************************!
+n128b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um dado especial foi feito usando o
+desenho mostrado em cima à direita.
+Esse dado irá rolar, um lado de cada
+vez, pelo caminho de quadrados brancos,
+com cada lado carimbando seu desenho nos
+quadrados. Começando como mostrado
+abaixo, o dado rolará no primeiro
+quadrado e irá carimbar um coração
+invertido.
+Que desenho o dado carimbará no quadrado
+final, o quadrado com uma interrogação?
+Deslize uma das três figuras naquele
+quadrado e certifique-se de girá-la se
+for necessário.
+!******************************!
+[ec0b01000b000000:02fe010000]
+Sorte ao seu favor!
+
+O segredo é ter certeza de que a figura
+esteja na direção certa.
+!******************************!
+[ed0b01000c000000:0252020000]
+Errado!
+
+Está pensando de forma tridimensional?
+!******************************!
+[ee0b01000d000000:0282020000]
+Dê outra olhada no molde do dado no
+canto superior direito. Percebeu que
+tem corações vermelhos nos lados
+opostos?
+!******************************!
+[ef0b01000e000000:02fd020000]
+O círculo verde e losango azul serão
+iguais, não importa em que direção
+estiverem. É na direção designada ao
+coração vermelho que você precisa
+prestar bastante atenção.
+!******************************!
+[f00b01000f000000:02b8030000]
+Na sua segunda rolada, o dado irá
+carimbar um losango azul, e as partes de
+frente e trás terão dois corações, ambas
+de ponta-cabeça.
+
+Ao passo que o dado se move para a
+direita, losangos e círculos se
+alternarão na parte de baixo, e os
+corações irão girar enquanto o dado
+continua rolando.
+Imagine isso na sua mente e veja se
+consegue descobrir o próximo passo.
+!******************************!
+[f10b010010000000:0228050000]
+Você precisa do coração vermelho, mas
+não é só isso. Pense na direção em
+que ele estará. Ele não vai estar
+apontado diretamente para cima.
+
+!******************************!

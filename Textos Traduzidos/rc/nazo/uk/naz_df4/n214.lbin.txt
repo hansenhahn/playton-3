@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000007e040000007e040000000100000000000000000000000000]
+n214
+!******************************!
+n214a
+!******************************!
+n214b
+!******************************!
+[eb0b01000a000000:0211000000]
+Quatro amantes orgulhosos de cartolas
+formaram um clube secreto chamado de
+Sociedade da Cartola. Essa placa fica
+à mostra do lado de fora da sede.
+
+Mas nesta semana, um quinto membro entrou
+no grupo, então eles planejam alterar a
+placa de forma que ela represente as
+cinco cartolas de cada um.
+
+É simples fazer isso se cortarmos a placa
+de agora em três partes e juntá-las
+de um novo jeito novamente. Onde os cortes
+devem ser feitos? Faça duas linhas retas.
+!******************************!
+[ec0b01000b000000:02ef010000]
+De tirar o chapéu!
+
+Cortando a placa como mostrado abaixo e
+trocando as duas peças de cima, você tem
+cinco cartolas invés de quatro!
+
+Claro que as cartolas ficaram menores,
+mas é melhor do que comprar outra placa!
+!******************************!
+[ed0b01000c000000:02b8020000]
+Que pena!
+
+Lembre-se que você está tentando fazer
+cinco cartolas, então todas vão ficar
+um pouco menores.
+!******************************!
+[ee0b01000d000000:0229030000]
+Para o primeiro corte, divida a placa ao
+meio com uma linha da esquerda para a
+direita.
+
+Agora pense muito bem onde fazer
+esse segundo corte.
+!******************************!
+[ef0b01000e000000:02da030000]
+
+!******************************!
+[f00b01000f000000:02db030000]
+
+!******************************!
+[f10b010010000000:02dc030000]
+
+!******************************!

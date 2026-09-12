@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000001000000]
+n104
+!******************************!
+n104a
+!******************************!
+n104b
+!******************************!
+[eb0b01000a000000:0211000000]
+A dona de uma loja aponta para seus
+ornamentos em forma de gato e diz algo
+estranho:
+
+{''}Rubi está próxima à Safira.
+Ébano não é branco.
+Jade não é verde.
+Safira está a três passos de Ébano.
+Rubi está na ponta.{''}
+
+Qual dos gatos é a Pérola?
+!******************************!
+[ec0b01000b000000:02f7000000]
+Mandou bem!
+
+O gato verde é a Pérola.
+
+A dona da loja deu os nomes de pedras
+preciosas de cores diferentes aos
+ornamentos. Ela parece ser de natureza
+um tanto excêntrica...
+!******************************!
+[ed0b01000c000000:02a5010000]
+Resposta errada!
+
+Esse enigma é um pouco complicado, não é?
+O truque é mudar a sua forma de pensar.
+
+!******************************!
+[ee0b01000d000000:0200020000]
+Só para ser inovadora, a dona nomeou
+cada gato com nomes de pedras preciosas
+de cores diferentes dos ornamentos
+em si. Quem diria...
+!******************************!
+[ef0b01000e000000:0286020000]
+{''}Rubi está próxima à Safira{''} e {''}Rubi
+está na ponta{''}, então Safira tem que
+ser o gato B ou D.
+
+{''}Safira está a três passos de Ébano.{''},
+e acabamos de determinar que Safira tem
+que ser B ou D, então Ébano deve ser A
+ou E.
+
+Mas {''}Ébano não é branco{''}, então
+ele deve ser A!
+!******************************!
+[f00b01000f000000:029b030000]
+Se A é Ébano, então D deve ser Safira.
+Qual gato está próximo de Safira? A
+última parte deve ser simples agora.
+!******************************!
+[f10b010010000000:020d040000]
+{''}Rubi está próxima à Safira{''} e {''}Rubi
+está na ponta{''}, então Rubi deve ser E.
+
+Ébano é A.
+
+Safira é D.
+
+Rubi é E.
+
+Agora considere a condição que você
+não levou em conta ainda e você vai
+descobrir qual gato é a Pérola!
+!******************************!

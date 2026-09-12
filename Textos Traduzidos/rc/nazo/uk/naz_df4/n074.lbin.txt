@@ -1,0 +1,65 @@
+[ea0b0a0000000000:02000000000205000000020b00000000010000000000000000006a040000006a040000000100000000000000000000000000]
+n074
+!******************************!
+n074a
+!******************************!
+n074b
+!******************************!
+[eb0b01000a000000:0211000000]
+Mova os três blocos coloridos aos seus
+espaços respectivos. Aperte os botões
+de setas abaixo para girar a placa em
+90 graus. Os blocos caem para baixo
+quando não há nada embaixo deles.
+
+Todos os três blocos devem estar no
+lugar para completar o enigma.
+
+Boa sorte!
+!******************************!
+[ec0b01000b000000:0220010000]
+Incrível!
+
+Mesmo com o número de blocos aumentando,
+a maneira de resolver o enigma é a mesma.
+É fácil se você se manter calmo... certo?
+
+!******************************!
+[ed0b01000c000000:02a8010000]
+Que pena.
+
+Tente outra vez!
+!******************************!
+[ee0b01000d000000:02bd010000]
+Dessa vez, são três blocos para
+você lidar!
+
+Mas relaxe, não entre em pânico.
+Fique calmo e tente!
+!******************************!
+[ef0b01000e000000:0228020000]
+Não parece que as posições dos blocos
+vermelho e amarelo estão invertidas? Olhe
+bem, você consegue trocá-las facilmente.
+!******************************!
+[f00b01000f000000:0290020000]
+Aqui está os primeiros passos para
+trocar as posições dos blocos vermelho
+e amarelo.
+Gire a placa cinco vezes usando o botão
+direito, depois uma vez com o botão
+esquerdo e depois mais uma vez com o
+botão direito.
+
+Ainda assim, fique atento com os
+movimentos que faz. O próximo passo
+é difícil.
+!******************************!
+[f10b010010000000:02c2030000]
+De onde a Dica 3 parou, aperte o
+botão direito e depois o botão
+esquerdo.
+
+O resto você deve conseguir
+desvendar a partir daqui.
+!******************************!

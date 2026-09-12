@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n016
+!******************************!
+n016a
+!******************************!
+n016b
+!******************************!
+[eb0b01000a000000:0211000000]
+Parece que você precisa colocar um número
+para abrir a porta. E a única pista para
+isso é uma nota escrita às pressas por
+uma mulher conhecida pela caligrafia
+não tão boa.
+
+Consegue descobrir o número que precisa?
+!******************************!
+[ec0b01000b000000:02cc000000]
+Certa resposta!
+
+Você precisa do número 8. Se olhar a
+nota do jeito certo, você pode ver que
+está escrito {''}121 - 113 ={''}, então
+é óbvio que a resposta é 8.
+!******************************!
+[ed0b01000c000000:026c010000]
+Que azar!
+
+Seria tão bom se você pudesse achar
+algum número nessa nota...
+!******************************!
+[ee0b01000d000000:02a9010000]
+Parece estar escrito RHB, não é?
+
+Só parece mesmo, fique tranquilo. Tente
+olhar as coisas de outro jeito.
+!******************************!
+[ef0b01000e000000:0217020000]
+A resposta é um número, então talvez
+esses garranchos sejam números também?
+
+Os riscos no final parecem muito o sinal
+de igual (=), não acha?
+!******************************!
+[f00b01000f000000:029f020000]
+A nota se trata de uma equação, com
+dois números de três dígitos.
+
+Olhe mais de perto!
+!******************************!
+[f10b010010000000:02f4020000]
+Está escrito {''}121 - 113 ={''} na nota.
+Se conseguir resolver esse cálculo,
+você terá a resposta do enigma.
+!******************************!

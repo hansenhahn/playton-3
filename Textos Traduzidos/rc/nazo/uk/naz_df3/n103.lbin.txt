@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n103
+!******************************!
+n103a
+!******************************!
+n103b
+!******************************!
+[eb0b01000a000000:0211000000]
+O Professor Layton e Luke estão
+conversando em uma loja de roupas:
+
+{''}Sabe, Luke... Tem algo aqui que
+realmente me interessa muito. Acho que
+tentarei negociar uma compra!{''}
+
+O que chamou a atenção do Professor?
+!******************************!
+[ec0b01000b000000:02f4000000]
+Seu olho é afiado demais!
+
+A resposta é a C.
+
+O item que o Professor Layton se
+interessou, na verdade, é o cabide.
+O formato dele parece uma interrogação!
+
+{''}Sempre que vejo um enigma, Luke,
+tenho que tomar atitude para resolvê-lo!{''}
+
+{''}Mas, Professor... não é um enigma,
+é um cabide!{''}
+!******************************!
+[ed0b01000c000000:0204020000]
+Errado!
+
+Pense nas coisas que o Professor
+Layton ama. Você sabe o que ele
+gosta, né?
+!******************************!
+[ee0b01000d000000:0265020000]
+O professor não é muito fã de
+moda, então...
+!******************************!
+[ef0b01000e000000:0299020000]
+Algo que o professor gosta está
+escondido entre as roupas...
+!******************************!
+[f00b01000f000000:02d9020000]
+Todos nós sabemos do amor por enigmas
+do professor. Então procure por alguma
+coisa que pareça enigmática...
+!******************************!
+[f10b010010000000:023a030000]
+O Professor Layton ama seus enigmas.
+Um símbolo que representa enigmas está
+escondido em algum lugar da tela.
+!******************************!

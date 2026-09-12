@@ -1,0 +1,72 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n040
+!******************************!
+n040a
+!******************************!
+n040b
+!******************************!
+[eb0b01000a000000:0211000000]
+Barton precisa estacionar sua viatura no
+espaço indicado pela bandeira. Ao passar
+por um X, ele deve virar à esquerda ou
+à direita. E ao passar por um círculo,
+ele deve seguir em frente.
+
+Supondo que ele não pode usar a marcha
+ré, qual caminho Barton precisa fazer
+para chegar no espaço para estacionar?
+
+Faça uma linha da viatura até o espaço
+para estacionar. Como pode ver, só dá
+para entrar no espaço por um lado.
+
+!******************************!
+[ec0b01000b000000:02be010000]
+A carteira está em dia!
+
+Barton tem que dar uma grande volta
+nessa área para poder estacionar.
+
+Apesar de você ter mostrado o caminho
+para ele, todas essas curvas parecem
+ter confundido Barton. Ele conseguiu
+bater a viatura e o inspetor não tá
+nem um pouco feliz!
+!******************************!
+[ed0b01000c000000:02bb020000]
+Hmm, vai ter que revogar essa
+habilitação...
+
+Barton deve ter virado ou seguido em
+frente onde não devia.
+!******************************!
+[ee0b01000d000000:020b030000]
+Logo após o ponto de partida, Barton
+precisa virar à esquerda ou direita.
+De preferência, pra esquerda.
+!******************************!
+[ef0b01000e000000:0277030000]
+O caminho que Barton deve traçar segue
+pela segunda linha de cima, da esquerda
+até a direita, de uma ponta para a
+outra.
+
+Tente achar uma maneira de ir do começo
+até o quadrado da ponta esquerda na
+segunda linha.
+!******************************!
+[f00b01000f000000:0250040000]
+Barton precisa dar uma pequena volta
+pelos quatro quadrados em cima à direita
+e depois pelos quatro quadrados em baixo
+à direita.
+
+Depois da segunda voltinha, ele estará
+próximo do espaço para estacionar.
+!******************************!
+[f10b010010000000:0213050000]
+Barton precisa chegar no quadrado em
+frente do espaço de estacionar pela
+direita, e então virar à direita no
+espaço.
+!******************************!

@@ -1,0 +1,55 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n123
+!******************************!
+n123a
+!******************************!
+n123b
+!******************************!
+[eb0b01000a000000:0211000000]
+Uma quadrilha de ladrões será apreendida
+e eles precisam esconder suas riquezas
+de acordo com as ordens do chefe:
+
+{''}Seguinte, galera, essas 10 barra de
+ouro encaixam perfeitamente nessa parede.
+Ninguém vai perceber! A gente esconde aí
+e espera as coisa ficar de boa.
+Ah, quase esqueci o mais importante:
+não bota as barras menores em cima das
+pequenas. Entenderam, galera?{''}
+
+Coloque as barras de ouro na parede para
+cumprir as ordens do chefe!
+!******************************!
+[ec0b01000b000000:02e9010000]
+Brilhante!
+
+Que jeito esperto de esconder as barras!
+Esse chefe é um gênio do crime mesmo!
+!******************************!
+[ed0b01000c000000:0239020000]
+Ah, que azar!
+
+Tem certeza que não tem nenhuma barra
+maior em cima das pequenas?
+!******************************!
+[ee0b01000d000000:0294020000]
+Empilhar as barras de mesmo tamanho em
+cima de cada é completamente válido.
+!******************************!
+[ef0b01000e000000:02e0020000]
+A barra de ouro maior vai lá no fundo,
+bem para a direita.
+!******************************!
+[f00b01000f000000:022d030000]
+Três das menores barras ficam uma do
+lado da outra lá em cima.
+!******************************!
+[f10b010010000000:026c030000]
+Está vendo os dois tijolos formando uma
+base no canto superior esquerdo? Coloque
+uma barra de ouro que tenha tamanho
+igual a dos dois tijolos em cima. O
+resto deve ficar mais fácil agora.
+
+!******************************!

@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n047
+!******************************!
+n047a
+!******************************!
+n047b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um dos alunos quebrou a janela, então
+você perguntou a cada um quem foi, em
+ordem.
+
+A: {''}Não foi eu.{''}
+B: {''}O A tá dizendo a verdade.{''}
+C: {''}O D tá mentindo.{''}
+D: {''}Com certeza não foi eu.{''}
+
+Uma pessoa é a culpada e o que ela
+falou é bem suspeito. Mas quem?
+!******************************!
+[ec0b01000b000000:021b010000]
+Exatamente!
+
+Foi o C que quebrou a janela.
+Ele disse que a D estava mentindo, mesmo
+com a D não tendo falado nada antes.
+
+Mais suspeito que isso não tem como!
+!******************************!
+[ed0b01000c000000:02a0010000]
+Errado.
+
+Pergunte de novo, {''}em ordem{''}.
+!******************************!
+[ee0b01000d000000:02cc010000]
+Ouça cuidadosamente cada depoimento,
+em ordem...
+!******************************!
+[ef0b01000e000000:02ff010000]
+Leia de novo cada depoimento e a
+ordem que cada um foi dito.
+
+Fazendo isso, você logo vai perceber
+que um dos alunos não está falando
+algo correto.
+
+!******************************!
+[f00b01000f000000:02a9020000]
+O culpado é alguém que se apressou para
+falar. Se você tivesse ouvido os
+depoimentos na ordem inversa, talvez
+o culpado nunca seria pego.
+!******************************!
+[f10b010010000000:023e030000]
+O culpado se entregou tentando
+jogar a culpa na D.
+!******************************!

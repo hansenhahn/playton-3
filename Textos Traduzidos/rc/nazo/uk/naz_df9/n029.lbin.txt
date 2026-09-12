@@ -1,0 +1,66 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n029
+!******************************!
+n029a
+!******************************!
+n029b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você cavou alguns túneis, mas no fim
+eles ficaram parecendo mais um
+formigueiro. Você deve ligar A para A', 
+B para B' e C para C', mas sem usar o
+mesmo caminho duas vezes.
+
+Mas para fazer isso, uma dessas conexões
+deve ser feita por cima.
+
+Qual é essa conexão: A, B ou C?
+
+
+!******************************!
+[ec0b01000b000000:0220010000]
+Maravilhoso!
+
+Todas as três conexões são possíveis
+se C tomar um caminho por cima.
+!******************************!
+[ed0b01000c000000:0267010000]
+Errado!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:0286010000]
+Começando de A, vá para o lado direito
+da tela no primeiro cruzamento que
+encontrar.
+
+Começando de B, vá para o lado esquerdo
+da tela no primeiro cruzamento que
+encontrar.
+!******************************!
+[ef0b01000e000000:0246020000]
+Começando de C, vá para o lado esquerdo
+da tela no primeiro cruzamento que
+encontrar.
+
+Começando de A', vá para o lado direito
+da tela no primeiro cruzamento que
+encontrar.
+!******************************!
+[f00b01000f000000:02fd020000]
+Começando de B', vá até o topo da
+tela no primeiro cruzamento que
+encontrar.
+
+Começando de C', continue indo reto até
+o primeiro cruzamento que encontrar.
+!******************************!
+[f10b010010000000:02a3030000]
+Baseado nas instruções das três
+dicas, você deve conseguir completar a
+conexão A e saber que ela não passa
+por cima da terra. Então agora você
+deve verificar as outras duas conexões.
+
+!******************************!

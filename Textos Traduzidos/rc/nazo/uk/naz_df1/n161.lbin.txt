@@ -6,61 +6,63 @@ n161a
 n161b
 !******************************!
 [eb0b01000a000000:0211000000]
-{''}Well now, can you reach the top of this
-gate again? If you think you've solved
-this puzzle before, think again!{''}
+{''}Ora, ora, cá estamos aqui de novo.
+Consegue chegar no topo do portão mais
+uma vez? Se acha que resolveu esse
+enigma antes, achou errado!{''}
 
-This time, it's quite a lot harder...
+Dessa vez, está bem mais difícil...
 !******************************!
 [ec0b01000b000000:02b0000000]
-Very impressive!
+Impressionante!
 
-{''}You may pass.{''}
+{''}Você pode passar.{''}
 !******************************!
 [ed0b01000c000000:02d8000000]
-Too bad!
+Errado!
 
-Try again.
+Tente novamente.
 !******************************!
 [ee0b01000d000000:02ed000000]
-There are multiple ways to solve this
-puzzle. Here's one example:
+Há várias maneiras de resolver este
+enigma. Aqui vai um exemplo:
 
-First, move the yellow block above
-Professor Layton and Luke up and to
-the right so that it's mostly on top
-of the red block. Then move Professor
-Layton and Luke over to the left.
+Primeiro, mova o bloco amarelo acima de
+Layton e Luke para cima e para a
+direita, deixando-o em cima do bloco
+vermelho. Depois, mova Layton e Luke
+para a esquerda.
 
-Start from there and see how far you
-can get!
+Comece assim e veja o quão longe
+você consegue chegar!
 !******************************!
 [ef0b01000e000000:0213020000]
-Continuing from Hint 1, move the red
-block down to the bottom and then the
-yellow block down on top of it.
+Seguindo a Dica 1, mova o bloco vermelho
+para baixo e faça o mesmo com o bloco
+amarelo, deixando-o em cima do vermelho.
 
-Now move the blue block down and over
-to the left, on top of Layton and Luke.
+Agora mova o bloco azul para baixo e
+para a esquerda, acima de Layton e Luke.
 !******************************!
 [f00b01000f000000:02cd020000]
-Continuing from Hint 2, move the yellow
-and red blocks up, then slide Layton and
-Luke to the right, under the red block.
+Seguindo a Dica 2, mova os blocos
+vermelho e amarelo para cima, e então
+mova Layton e Luke para direita, embaixo
+do bloco vermelho.
 
-Now move the blue block down to the
-bottom and over to the right, next to
-Layton and Luke.
+Agora mova o bloco azul para baixo até
+o final e até a direita, próximo de
+Layton e Luke.
 !******************************!
 [f10b010010000000:02a2030000]
-Continuing from Hint 3, move the yellow
-block over to the left wall and down on
-top of the blue block. Then slide the
-green block down as far as you can and
-move the orange block up into the goal
-square. Now move the green block back
-to where it started.
+Seguindo a Dica 3, mova o bloco amarelo
+até a parede da esquerda e para baixo,
+deixando-o acima do bloco azul. Agora
+mova o bloco verde o quanto puder para
+baixo e mova o bloco laranja até o
+quadrado final. Agora mova o bloco verde
+até sua posição original.
 
-See if you can work the rest out from
-there.
+Tente resolver o resto a
+partir disso.
 !******************************!

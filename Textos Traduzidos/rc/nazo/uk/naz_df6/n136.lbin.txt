@@ -1,0 +1,52 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n136
+!******************************!
+n136a
+!******************************!
+n136b
+!******************************!
+[eb0b01000a000000:0211000000]
+Uma digital foi descoberta na cena de
+um crime não resolvido!
+
+Quatro suspeitos foram apreendidos e
+levados até a delegacia.
+
+Compare as digitais dos suspeitos A, B,
+C e D com a digital mostrada na lupa
+e identifique o culpado!
+
+!******************************!
+[ec0b01000b000000:0218010000]
+Caso resolvido!
+
+O suspeito A é o culpado.
+
+À primeira vista, o B parece ser o
+dono da digital, mas as digitais ficam
+espelhadas em uma cena de crime.
+!******************************!
+[ed0b01000c000000:02b8010000]
+Que azar!
+
+Pense em como as digitais seriam
+deixadas na cena do crime.
+!******************************!
+[ee0b01000d000000:020c020000]
+Não se precipite. Considere todas
+as opções cuidadosamente.
+!******************************!
+[ef0b01000e000000:024b020000]
+O suspeito C com certeza é inocente.
+!******************************!
+[f00b01000f000000:0265020000]
+Uma digital é, na verdade, uma imagem
+espelhada do próprio dedo.
+!******************************!
+[f10b010010000000:02a4020000]
+C e D são definitivamente inocentes.
+
+O culpado é A ou B.
+
+Lembra da Dica 3?
+!******************************!

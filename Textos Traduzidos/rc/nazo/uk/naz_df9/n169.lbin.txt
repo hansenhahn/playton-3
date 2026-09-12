@@ -1,0 +1,49 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n169
+!******************************!
+n169a
+!******************************!
+n169b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um garoto bem atlético, ao olhar os
+equipamentos esportivos, diz:
+
+{''}Eu amo todos os esportes, mas tem
+um equipamento aqui que, se eu usar,
+não vou poder fazer meu melhor.{''}
+
+De qual ele está falando?
+
+Escolha o item correto e aperte em
+<CR>Enviar</C>.
+!******************************!
+[ec0b01000b000000:0223010000]
+Bela tacada!
+
+A resposta é o taco de golfe.
+Todos os equipamentos, exceto o taco de
+golfe, podem ser usados por pessoas
+destras ou canhotas.
+!******************************!
+[ed0b01000c000000:02b5010000]
+Que azar.
+
+Tente imaginar como usar cada item.
+!******************************!
+[ee0b01000d000000:02e9010000]
+Ambos o taco de golfe e de beisebol
+são segurados com as duas mãos ao
+serem usados.
+
+Pense um pouco sobre isso...
+!******************************!
+[ef0b01000e000000:0268020000]
+
+!******************************!
+[f00b01000f000000:0269020000]
+
+!******************************!
+[f10b010010000000:026a020000]
+
+!******************************!

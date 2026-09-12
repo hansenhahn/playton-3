@@ -1,0 +1,54 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n038
+!******************************!
+n038a
+!******************************!
+n038b
+!******************************!
+[eb0b01000a000000:0211000000]
+Inserindo um dos blocos (A, B, C ou D)
+no espaço marcado com um {''}?{''}
+revela uma mensagem escondida.
+
+Toque a letra do bloco correto.
+!******************************!
+[ec0b01000b000000:029e000000]
+Muito bem!
+
+A resposta é o bloco B, que tem a forma
+da letra O. Quando você insere o bloco
+naquele espaço e o alinha com os outros,
+forma {''}LAYTON{''}!
+!******************************!
+[ed0b01000c000000:024b010000]
+Resposta errada!
+
+Você precisa olhar esse enigma por
+vários ângulos. 
+!******************************!
+[ee0b01000d000000:028b010000]
+As formas complicadas dos blocos
+estão te confundindo?
+
+Aqui vai uma dica: cada bloco
+representa algo.
+
+!******************************!
+[ef0b01000e000000:02ef010000]
+Os blocos de cima são letras.
+
+Tente descobrir qual letra cada
+bloco representa.
+!******************************!
+[f00b01000f000000:024d020000]
+Como já sabemos, o protagonista desse
+jogo é o Professor Layton. Pense
+nisso por um segundo...
+!******************************!
+[f10b010010000000:02b3020000]
+Como a Dica 3 fez alusão, a sequência
+de blocos acima quase forma {''}LAYTON{''}.
+
+Que letra falta para
+completar a palavra?
+!******************************!

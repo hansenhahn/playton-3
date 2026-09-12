@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n026
+!******************************!
+n026a
+!******************************!
+n026b
+!******************************!
+[eb0b01000a000000:0211000000]
+Três garotos estão brincando de um jogo
+da memória com 20 cartas, ou 10 pares.
+
+O garoto A diz: {''}Eu fiz 10 pares em
+sequência do começo ao fim.{''}
+
+O garoto B diz: {''}Eu fiz nove pares em
+sequência do começo ao fim.{''}
+
+E o garoto C diz: {''}Eu fiz oito pares em
+sequência do começo ao fim.{''}
+
+Um deles está mentindo. Mas qual?
+!******************************!
+[ec0b01000b000000:0240010000]
+Muito bem!
+
+B está mentindo. Se você achou
+nove pares em sequência, não há motivo
+para não contar o décimo e último par.
+!******************************!
+[ed0b01000c000000:02b5010000]
+Errado!
+
+Pense bem sobre esse enigma.
+!******************************!
+[ee0b01000d000000:02dd010000]
+Só um mentiroso vai falar algo
+que é impossível...
+!******************************!
+[ef0b01000e000000:0213020000]
+Alguém falou sobre algo que não poderia
+nem ter chance de acontecer em um jogo
+como esse.
+!******************************!
+[f00b01000f000000:026d020000]
+Quantas cartas sobram assim que você
+consegue formar nove pares entre as
+20 cartas?
+!******************************!
+[f10b010010000000:02bb020000]
+Se você já achou nove de 10 pares,
+não tem motivo para deixar o último
+par virado, não é?
+!******************************!

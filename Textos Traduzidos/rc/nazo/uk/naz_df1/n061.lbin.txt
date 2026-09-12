@@ -6,52 +6,53 @@ n061a
 n061b
 !******************************!
 [eb0b01000a000000:0211000000]
-To be prepared in case of future
-shortages, you've decided to mill some
-of your grain into flour and stash it
-away somewhere safe and dry.
+Se preparando para uma futura
+escassez, você decidiu moer alguns
+grãos em farinha e guardá-los
+em um lugar seguro e seco.
 
-You've rustled up three different boxes
-that are suitable for storage.
+Você tem três caixas diferentes
+que servem para armazenamento.
 
-Which of these containers will store the
-most flour?
+Qual caixa vai armazenar mais farinha?
 !******************************!
 [ec0b01000b000000:021a010000]
-Swheeeeeeeeeeat!
+Incrível!
 
-Box A is correct. It will store the
-most flour if you turn it upside down.
+A caixa A é a correta. Ela guardará
+mais farinha se estiver virada
+de ponta-cabeça.
 !******************************!
 [ed0b01000c000000:0277010000]
-Too bad!
+Que pena!
 
-Consider all the options carefully.
+Considere todas as opções com cuidado.
 !******************************!
 [ee0b01000d000000:02a5010000]
-You'll be storing flour, which is a type
-of powder, so you need a container
-that's both big and deep.
+Você está guardando farinha, um tipo
+de pó, então você precisa de uma caixa
+grande e funda.
 
-Which one best fits this description?
+Qual caixa melhor se encaixa nisso?
 !******************************!
 [ef0b01000e000000:0232020000]
-If you compare boxes A and C, they're
-about the same size. Their lids, however,
-are completely different.
+Ao comparar as caixas A e C, dá pra
+ver que elas são do mesmo tamanho. Mas
+suas tampas são bem diferentes.
 
-Box B looks too small to even consider
-choosing.
+A caixa B é muito pequena para ser
+considerada como escolha.
 !******************************!
 [f00b01000f000000:02ce020000]
-If two of the boxes are the same size,
-the one with the bigger lid would appear
-to be less useful, right?
+Se há duas caixas de mesmo tamanho,
+a de tampa maior seria a menos útil,
+não é?
 
-Unless there's another way of looking
-at it...
+A não ser que tenha outra maneira
+de ver as coisas...
 !******************************!
 [f10b010010000000:0268030000]
-Imagine all the boxes were turned upside
-down. Which box could hold the most now?
+Imagine todas as caixas viradas de
+ponta-cabeça. Qual delas guardaria
+mais?
 !******************************!

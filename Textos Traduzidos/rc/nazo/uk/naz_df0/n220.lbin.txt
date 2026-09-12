@@ -1,0 +1,46 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n220
+!******************************!
+n220a
+!******************************!
+n220b
+!******************************!
+[eb0b01000a000000:0211000000]
+Mova esse grande bloco vermelho embaixo
+à esquerda ao quadrado marcado com a seta
+em cima à direita.
+
+Parece impossível, mas é possível.
+
+Tente e boa sorte!
+!******************************!
+[ec0b01000b000000:02b1000000]
+Você conseguiu!
+
+A hora que você tirou o último bloco do
+caminho e deixou livre o caminho para
+a saída... é satisfatório, não é?
+!******************************!
+[ed0b01000c000000:0236010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:024b010000]
+Mesmo se o enigma parecer impossível,
+não desista. É possível.
+
+Ache uma maneira de trocar o bloco roxo
+grande e os blocos verdes ao redor. Vai
+abrir um enorme espaço e te permitir
+resolver o enigma com mais facilidade.
+!******************************!
+[ef0b01000e000000:0231020000]
+
+!******************************!
+[f00b01000f000000:0232020000]
+
+!******************************!
+[f10b010010000000:0233020000]
+
+!******************************!

@@ -6,69 +6,70 @@ n141a
 n141b
 !******************************!
 [eb0b01000a000000:0211000000]
-The bridge below has been painted in a
-black-and-white check pattern.
+A ponte abaixo foi pintada com um
+padrão preto e branco de xadrez.
 
-Starting from the bottom-left arrow, you
-need to cross the bridge and finish at
-the top-right arrow. You can move one
-square at a time, either up, down, left
-or right. You can't move diagonally.
+Começando da seta abaixo à esquerda,
+você deve cruzar a ponte e acabar na
+seta à direita em cima. Você pode ir até
+um quadrado por vez, seja para cima,
+para baixo, para esquerda ou direita.
+Não dá pra se mover pelas diagonais.
 
-Now here's the tricky part: how many
-different routes across are there that
-cross exactly four black squares and
-three white squares?
+Agora que vem a parte chata: quantos
+caminhos diferentes existem em que você
+cruza exatamente quatro quadrados pretos
+e três quadrados brancos?
 !******************************!
 [ec0b01000b000000:02a2010000]
-Precisely!
+Certa resposta!
 
-There are 15 different routes. More than
-you'd think, eh?
+São 15 caminhos diferentes. Mais do que
+você imaginou, não é?
 !******************************!
 [ed0b01000c000000:02e8010000]
-Too bad!
+Resposta errada!
 
-You can move vertically and horizontally,
-but not diagonally.
+Você pode andar horizontalmente e
+verticalmente, mas não pelas diagonais.
 
-Count the routes again.
+Conte os caminhos novamente.
 !******************************!
 [ee0b01000d000000:0249020000]
-Your task is to find all the routes
-that meet the conditions. Think about
-how each route crosses the central
-column of squares on the bridge.
+Você precisa achar todos os caminhos que
+atendem essas condições. Pense em como
+cada caminho cruza a colune central de
+quadrados na ponte.
 
-Crossing four black squares and three
-white ones means you have to cross the
-bridge in seven moves, so you can't
-afford to backtrack.
+Passar por quatro quadrados pretos e
+três brancos significa ter que passar
+pela ponte em sete movimentos, então
+você não pode dar meia-volta.
 !******************************!
 [ef0b01000e000000:025e030000]
-Once you've worked out the pattern
-in the routes that work, just go
-ahead and count them one by one.
+Assim que descobrir o padrão dos
+caminhos que funcionam, comece a
+contá-los um por um.
 
-As Hint 1 mentioned, backtracking
-won't work. Keep the other conditions
-in mind and you should be fine.
+Assim como a Dica 1 disse, voltar para
+trás não funciona. Lembre-se das outras
+condições e irá conseguir descobrir.
 !******************************!
 [f00b01000f000000:022c040000]
-One route is to go straight up to the
-top row and then turn right.
+Um dos caminhos é seguir em frente na
+linha de cima e virar à direita.
 
-Another is to go straight to the second
-row from the top, turn right, and then
-head up again when you reach the
-rightmost column.
+Outro caminho é seguir em frente até a
+segunda linha de cima, virar à direita,
+e subir novamente assim que chegar na
+coluna mais à direita.
 
-These are just two of several different
-possibilities. Count each one!
+Essas são apenas duas de várias
+possibilidades. Conte cada uma!
 !******************************!
 [f10b010010000000:023a050000]
-There are more than 10 routes, but
-fewer than 20.
+Há mais de 10 caminhos e menos
+de 20.
 
-Keep on counting!
+Continue contando!
 !******************************!

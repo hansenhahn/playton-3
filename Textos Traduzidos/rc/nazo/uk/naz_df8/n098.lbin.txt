@@ -1,0 +1,63 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f3030000000100000000000000000000000000]
+n098
+!******************************!
+n098a
+!******************************!
+n098b
+!******************************!
+[eb0b01000a000000:0211000000]
+Um sistema de engrenagens é mostrado
+abaixo. A engrenagem A gira na direção
+da sua seta vermelha, o que faz a
+engrenagem B girar na direção da sua
+seta vermelha nesse momento.
+Um grupo de engrenagens pequenas ligando
+essas duas engrenagens é denominado "a".
+Esse grupo pode ser girado com sua
+stylus, assim como os grupos "b" e "c".
+
+Use esses grupos para alterar o sistema
+e fazer a engrenagem B girar no sentido
+da seta verde. Porém, você não precisa
+usar todos os grupos de engrenagens.
+!******************************!
+[ec0b01000b000000:02e7010000]
+Maravilha!
+
+Você inverteu o fluxo de energia
+para a fortaleza!
+!******************************!
+[ed0b01000c000000:021e020000]
+Errado!
+
+Você está ficando sem tempo! Rápido!
+!******************************!
+[ee0b01000d000000:024b020000]
+As engrenagens não funcionam se elas
+se sobreporem, então nem comece
+a empilhar uma em cima da outra.
+
+!******************************!
+[ef0b01000e000000:02c7020000]
+Ao conectar um número ímpar de
+engrenagens entre duas principais, essas
+duas principais irão girar na mesma
+direção.
+
+Por outro lado, um número par ligado
+entre duas engrenagens principais vai
+fazer essas duas girarem na direção
+oposta.
+
+Há várias engrenagens para contar nesse
+enigma, mas tente somá-las!
+!******************************!
+[f00b01000f000000:0209040000]
+Você não precisa usar o grupo "a".
+Use os grupos "b" e "c" no sistema.
+!******************************!
+[f10b010010000000:0259040000]
+Coloque o grupo "c" no lugar original
+do grupo "a". Gire o grupo "b" em
+180 graus e coloque-o... em algum lugar.
+!******************************!

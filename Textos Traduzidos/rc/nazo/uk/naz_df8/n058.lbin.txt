@@ -1,0 +1,64 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n058
+!******************************!
+n058a
+!******************************!
+n058b
+!******************************!
+[eb0b01000a000000:0211000000]
+Eis algumas contas estranhas:
+
+0 + 1 = cão          0 + 2 = gato
+6 + 3 = cão          6 + 7 = cão cão
+7 + 9 = cão gato     11 + 12 = gato cão
+11 + 17 = gato gato
+
+Se o que está acima é verdade, então
+qual o menor valor possível para {''}?{''}
+que validará a seguinte conta?
+
+1 + ? = cão cão cão
+
+!******************************!
+[ec0b01000b000000:0238010000]
+Brilhante!
+
+A resposta é 110.
+
+Um cão representa um número ímpar e
+um gato representa um número par.
+Portanto o menor número possível para
+formar {''}cão cão cão{''} é 111, que é
+1 + 110.
+!******************************!
+[ed0b01000c000000:02fe010000]
+Errado!
+
+Tente descobrir o que os cães
+e gatos representam.
+!******************************!
+[ee0b01000d000000:023d020000]
+Já que estamos lidando com matemática
+aqui, não há dúvidas de que cães e
+gatos têm alguma relação com os
+números.
+!******************************!
+[ef0b01000e000000:02b1020000]
+Tente somar o lado esquerdo de cada
+conta e analise os resultados. Já
+está entendendo o que os cães e
+gatos representam?
+!******************************!
+[f00b01000f000000:0231030000]
+Vendo as respostas das contas,
+é possível entender que um cão é
+um número ímpar e um gato é
+um número par.
+!******************************!
+[f10b010010000000:02af030000]
+Cão = ímpar; gato = par. Se você
+tem um número de três dígitos com
+três números ímpares, qual é o menor
+valor possível para cada dígito?
+
+!******************************!

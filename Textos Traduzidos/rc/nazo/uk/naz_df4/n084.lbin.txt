@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n084
+!******************************!
+n084a
+!******************************!
+n084b
+!******************************!
+[eb0b01000a000000:0211000000]
+Derrube a caixa nos bandidos!
+
+Você só precisa cortar a corda...
+que está toda emaranhada.
+Alinhe as partes para endireitar
+a corda e prepará-la para cortar!
+
+Use todas as partes!
+!******************************!
+[ec0b01000b000000:02cb000000]
+É isso mesmo!
+
+Hora de cortar a corda, mesmo se você
+sente um pouco de dó dos bandidos.
+!******************************!
+[ed0b01000c000000:0227010000]
+Que azar.
+
+Você não vai conseguir prosseguir
+se esses bandidos estiverem no caminho.
+!******************************!
+[ee0b01000d000000:0274010000]
+Uma única parte horizontal da corda
+se conecta à caixa. Essa é fácil
+de descobrir qual.
+
+A parte próxima ao Luke possui
+duas polias.
+
+!******************************!
+[ef0b01000e000000:02f9010000]
+As duas partes na parte de baixo terão
+uma polia cada. Se você pensar na direção
+que a corda irá, você deve conseguir
+descobrir quais partes irão se encaixar
+bem ali.
+!******************************!
+[f00b01000f000000:02b5020000]
+A parte em cima à direita tem uma polia
+nela. A corda vem do lado esquerdo e
+volta novamente para o lado esquerdo.
+
+A parte à esquerda desta também tem uma
+polia, e a corda vindo da direita vem
+de baixo. A única coisa acima dessa
+polia é uma corda horizontal.
+
+!******************************!
+[f10b010010000000:02c9030000]
+Esse é o caminho que a corda segue,
+parte a parte.
+Começando da parte próxima à caixa,
+a corda vai para: direita, baixo, direita,
+esquerda, cima, direita, direita,
+esquerda, baixo, direita, baixo, baixo,
+cima. Agora você está na parte onde a
+corda desce três partes para baixo. Ela
+continua para a esquerda, baixo, esquerda,
+cima, baixo, baixo, direita, cima e
+direita, chegando na parte próxima ao
+Luke. Entendeu?
+!******************************!

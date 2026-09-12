@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n113
+!******************************!
+n113a
+!******************************!
+n113b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa velha parede de tijolos foi pintada
+com um desenho bem estranho.
+Há cinco formas diferentes pintadas em
+um fundo branco como mostrado.
+Só de olhar a parede, você consegue
+dizer qual cor que foi mais usada
+para pintar. Então, qual foi?
+
+Toque a lata da tinta que foi
+mais usada.
+!******************************!
+[ec0b01000b000000:0242010000]
+Correto!
+
+Branco.
+Sem dúvida, o fundo branco precisou
+de mais tinta.
+!******************************!
+[ed0b01000c000000:0293010000]
+Errado.
+
+Imagine que você mesmo foi pintar
+a parede. Talvez assim você
+consiga descobrir.
+!******************************!
+[ee0b01000d000000:02f8010000]
+Não tem nada de errado calcular a área
+tomada por cada forma colorida, mas
+tem que ter algum jeito mais fácil...
+!******************************!
+[ef0b01000e000000:0265020000]
+Você não tá contando o número de tijolos
+para cada cor, né?
+
+Mesmo fazendo assim, você consegue
+achar a resposta contanto que você
+não esqueça qualquer coisinha...
+!******************************!
+[f00b01000f000000:020d030000]
+As cores usadas são vermelho, amarelo,
+verde, preto e azul.
+
+Não tem mais nenhuma, né?
+!******************************!
+[f10b010010000000:0269030000]
+Não importa o quão grandes as formas
+sejam, elas nunca serão maiores que
+o fundo.
+!******************************!

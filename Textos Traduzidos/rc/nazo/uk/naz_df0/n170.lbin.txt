@@ -1,0 +1,45 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n170
+!******************************!
+n170a
+!******************************!
+n170b
+!******************************!
+[eb0b01000a000000:0211000000]
+Três horas diferentes do dia estão
+listadas abaixo. Qual hora forma o
+maior ângulo feito com os dois ponteiros
+em um relógio analógico?
+!******************************!
+[ec0b01000b000000:029f000000]
+Muito bem!
+
+2:20 está correto.
+
+O ângulo externo feito pelos ponteiros
+é maior que o ângulo interno de todas as
+três horas. Como mostrado acima, o
+ângulo externo é maior às 2:20.
+!******************************!
+[ed0b01000c000000:0257010000]
+Azar!
+
+Esse é um enigma, afinal de contas,
+então a resposta não é tão simples
+assim quanto parece.
+!******************************!
+[ee0b01000d000000:02c4010000]
+Lembre-se que cada hora, na verdade,
+forma dois ângulos com os ponteiros
+do relógio: um por dentro e um por
+fora.
+!******************************!
+[ef0b01000e000000:023d020000]
+
+!******************************!
+[f00b01000f000000:023e020000]
+
+!******************************!
+[f10b010010000000:023f020000]
+
+!******************************!

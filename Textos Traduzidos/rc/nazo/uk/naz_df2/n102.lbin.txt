@@ -1,0 +1,74 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000420400000042040000000100000000000000000000000000]
+n102
+!******************************!
+n102a
+!******************************!
+n102b
+!******************************!
+[eb0b01000a000000:0211000000]
+Há dois colares abaixo, um dourado na
+esquerda e um prateado na direita.
+
+Consegue trocá-los de lado movendo
+os blocos?
+!******************************!
+[ec0b01000b000000:029e000000]
+Trabalho fabuloso!
+
+Enigmas quadrados de mover blocos
+geralmente possuem 15 blocos e um espaço
+vazio. Porém, esse aqui possui dois
+espaços vazios, então não deve ter sido
+tão difícil para você!
+
+Aliás, de onde vieram esses colares?
+Alguém faz ideia? Ou será que eles...
+são roubados?!
+!******************************!
+[ed0b01000c000000:02bd010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:02d2010000]
+Você precisa mover o colar prateado
+para o lado esquerdo e o colar dourado
+para o lado direito.
+
+Já percebeu que você tem dois espaços
+vazios? Talvez isso possa fazer as
+as coisas mais fáceis. Só continue
+movendo os blocos e você verá!
+!******************************!
+[ef0b01000e000000:02ca020000]
+Ao contrário dos enigmas comuns de mover
+blocos, esse possui dois espaços vazios.
+Se você se aproveitar disso, trocar os
+colares é até que simples.
+!******************************!
+[f00b01000f000000:025f030000]
+O truque é não se preocupar com as
+posições isoladas dos blocos, mas
+sim simplesmente trocar os blocos de
+cada colar para o lado oposto.
+
+Assim que fizer isso, você já pode
+rearranjar cada colar.
+
+Continue tentando, você consegue!
+Mesmo se você usar a super Dica,
+ela não vai te dizer exatamente
+como resolver...
+!******************************!
+[f10b010010000000:02ae040000]
+Não conseguiu resistir, não é?
+Tudo bem.
+
+Trocar os colares é fácil se você
+usar os dois espaços vazios.
+Mantenha os dois espaços vazios acima,
+abaixo ou do lado dos dois blocos que
+você queira reposicionar e você não terá
+problema algum trocando-os um pelo
+outro. Tente, você verá!.
+!******************************!

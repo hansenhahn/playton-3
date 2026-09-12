@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n138
+!******************************!
+n138a
+!******************************!
+n138b
+!******************************!
+[eb0b01000a000000:0211000000]
+É possível cortar essa tábua de forma
+que ela crie duas peças idênticas no
+formato de um número.
+
+Onde você precisa cortar a tábua
+para fazer?
+
+Você só pode cortar na linha pontilhada.
+!******************************!
+[ec0b01000b000000:02c5000000]
+Um corte de primeira!
+
+É possível criar duas peças no formato
+do número 4. Cortar a tábua da forma
+mostrada acima é uma das maneiras.
+!******************************!
+[ed0b01000c000000:0242010000]
+Que azar.
+
+Que formas podem ser feitas a partir
+desse pedaço de madeira?
+!******************************!
+[ee0b01000d000000:0280010000]
+Se não fosse por aqueles quadradinhos se
+sobressaindo, seria possível fazer dois
+grandes números 1... Mas não é isso.
+!******************************!
+[ef0b01000e000000:02ee010000]
+Você não está à procura da forma
+dos números 2 e 5.
+
+O maior problema aqui é descobrir que
+parte do número está sendo representada
+por aqueles dois quadradinhos.
+!******************************!
+[f00b01000f000000:0289020000]
+O número também não é um 6 ou um 9.
+
+Precisaria de muito mais quadradinhos
+para cortar na forma de dois números com
+um buraco no meio.
+!******************************!
+[f10b010010000000:0209030000]
+Uma das duas formas numerais está de
+ponta-cabeça e encaixada na outra. Se
+você pensar por um instante nisso,
+perceberá que o número 3 não pode
+ser a resposta.
+!******************************!

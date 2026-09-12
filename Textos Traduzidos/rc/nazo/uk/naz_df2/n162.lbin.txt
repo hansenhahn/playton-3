@@ -1,0 +1,57 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n162
+!******************************!
+n162a
+!******************************!
+n162b
+!******************************!
+[eb0b01000a000000:0211000000]
+Alinhe e arrume as quatro frutas abaixo
+girando e movendo as peças com sua
+stylus.
+
+A peça central não pode ser movida.
+!******************************!
+[ec0b01000b000000:0299000000]
+Frutabuloso!
+
+Demorou muito para você?
+!******************************!
+[ed0b01000c000000:02c3000000]
+Errado!
+
+Tem algo não alinhado corretamente.
+!******************************!
+[ee0b01000d000000:02f1000000]
+Este enigma parece divertido, mas é bem
+difícil. É até difícil dar alguma dica
+para ele!
+
+Não se irrite se não conseguir resolver
+de primeira. Continue tentando.
+!******************************!
+[ef0b01000e000000:0297010000]
+Todas as peças parecem tão iguais que é
+difícil saber por onde começar. Primeiro
+tente combinar as frutas que aparecem
+na peça central.
+
+Aliás, a peça que vai em cima da peça
+central não tem uma banana nela.
+!******************************!
+[f00b01000f000000:0273020000]
+A peça que vai à esquerda da peça
+central não tem uma laranja nela.
+
+A peça que vai à direita da peça
+central não tem um melão nela.
+
+!******************************!
+[f10b010010000000:0214030000]
+A peça que vai embaixo da peça central
+tem todas as quatro frutas. A fruta de
+cima é uma banana, claro. A da esquerda
+é a metade de baixo de um melão, a da
+direita é a metade de cima da laranja,
+e a de baixo é uma maçã.
+!******************************!

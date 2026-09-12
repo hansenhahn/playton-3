@@ -1,0 +1,41 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000420400000042040000000100000000000000000000000000]
+n218
+!******************************!
+n218a
+!******************************!
+n218b
+!******************************!
+[eb0b01000a000000:0211000000]
+Ah, meu deus! Uma joia grená preciosa
+caiu no fundo de uma mala bem bagunçada.
+
+Você consegue levar a joia até a
+abertura no topo da mala, tirando a
+bagunça toda do caminho?
+!******************************!
+[ec0b01000b000000:02cd000000]
+Bom trabalho!
+
+Que joia tão linda!
+!******************************!
+[ed0b01000c000000:02f4000000]
+Que pena!
+
+Tente novamente.
+!******************************!
+[ee0b01000d000000:0209010000]
+Não deixe essa bagunça te derrotar.
+Ao passo que você cria mais espaço e
+evita fazer os mesmos movimentos de novo
+e de novo, você conseguirá levar a
+joia até o topo.
+!******************************!
+[ef0b01000e000000:02ba010000]
+
+!******************************!
+[f00b01000f000000:02bb010000]
+
+!******************************!
+[f10b010010000000:02bc010000]
+
+!******************************!

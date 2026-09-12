@@ -1,0 +1,61 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n092
+!******************************!
+n092a
+!******************************!
+n092b
+!******************************!
+[eb0b01000a000000:0211000000]
+Qual é o código de acesso?
+
+Aparentemente você precisa arrumar
+estas 10 peças para descobrir.
+
+Mova e gire as peças para descobrir o
+código de acesso, depois toque em 
+<CR>Enviar Resposta</C> para inseri-la.
+!******************************!
+[ec0b01000b000000:02c9000000]
+Acertou!
+
+A resposta é 081127.
+Fica bem claro quando você encaixa
+as peças juntas da maneira correta.
+Agora você sabe o código!
+!******************************!
+[ed0b01000c000000:024d010000]
+Azar demais.
+
+Garanta que você tenha posicionado
+as peças corretamente e ficará óbvio.
+!******************************!
+[ee0b01000d000000:02a3010000]
+Comece encaixando as peças das pontas
+e aquelas com um formato bem mais
+singular e distinto.
+!******************************!
+[ef0b01000e000000:02fe010000]
+Cada peça pode ser encaixada em várias
+posições quando giradas de diferentes
+formas. Porém, só há um padrão que
+permite todas as peças serem encaixadas.
+
+Continue tentando!
+
+!******************************!
+[f00b01000f000000:02b2020000]
+O primeiro dígito do código é 0
+e o último é 7.
+
+Também tem um 1.
+Ainda não descobriu?
+!******************************!
+[f10b010010000000:022b030000]
+Tem dois números 1 no código. Próximo
+a um deles, tem um 2.
+
+As dicas já te contaram cinco
+dos seis dígitos.
+
+Vá em frente e insira o código!
+!******************************!

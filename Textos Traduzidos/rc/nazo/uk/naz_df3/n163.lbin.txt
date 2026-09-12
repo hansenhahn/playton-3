@@ -1,0 +1,59 @@
+[ea0b0a0000000000:02000000000205000000020b00000000020000000000000000006a040000006a040000000100000000000000000000000000]
+n163
+!******************************!
+n163a
+!******************************!
+n163b
+!******************************!
+[eb0b01000a000000:0211000000]
+Manipule a placa e mova os três blocos
+coloridos aos seus respectivos espaços.
+Todos os três blocos devem estar em seus
+lugares ao mesmo tempo para completar o
+enigma.
+
+Para mover os blocos, gire a placa em
+90 graus em sentido horário ou anti-
+-horário apertando as setas abaixo.
+!******************************!
+[ec0b01000b000000:021f010000]
+Boa!
+
+Sua cabeça ficou girando depois dessa?
+!******************************!
+[ed0b01000c000000:0245010000]
+Que pena!
+
+Tente outra vez.
+!******************************!
+[ee0b01000d000000:025a010000]
+Se você ficar girando a placa,
+uma hora você resolve, certo?
+
+Na verdade, não. Se você não se planejar
+antes, pode ficar preso. Mas se pensar
+à frente, fica bem mais fácil do que
+você acha!
+!******************************!
+[ef0b01000e000000:0220020000]
+Se não tomar cuidado, um bloco pode
+ficar preso em algum lugar e fazer o
+enigma ficar impossível. Se acha que
+você ficou preso, só reinicie o
+enigma.
+!******************************!
+[f00b01000f000000:02c3020000]
+A armadilha para você evitar é o canto
+próximo ao espaço final vermelho. Se um
+bloco parar lá, você vai ter que
+reiniciar o enigma.
+!******************************!
+[f10b010010000000:0252030000]
+Não tente mover os blocos de seus pontos
+iniciais de uma vez só.
+
+Em vez disso, tente movê-los para o
+outro lado da placa um de cada vez.
+Se conseguir descobrir como, o resto
+não deve ser tão difícil.
+!******************************!

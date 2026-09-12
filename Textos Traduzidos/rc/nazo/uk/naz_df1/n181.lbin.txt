@@ -6,54 +6,55 @@ n181a
 n181b
 !******************************!
 [eb0b01000a000000:0211000000]
-An exclusive three-year private school
-has admitted only 100 new students a year
-since its inception three years ago.
+Uma escola particular exclusiva de três
+anos admite apenas 100 novos estudantes
+por ano, desde sua criação há três anos.
 
-Starting from year four, the school plans
-to admit 10 more new students each year
-than it did the previous year.
+Começando do quarto ano, a escola quer
+admitir mais 10 novos estudantes a cada
+ano, aumentando o número de cada ano
+anterior.
 
-In what year of operation will the school's
-population first exceed 400 students?
+Em que ano a população da escola passará
+a ter mais de 400 alunos?
 
-You can assume that no students will drop
-out, change schools or leave early.
+Leve em conta que nenhum estudante irá
+sair antes ou mudar de escola.
 !******************************!
 [ec0b01000b000000:029b010000]
-Well done!
+Muito bem!
 
-The school's population will exceed 400
-students in year eight.
+A população da escola passará de 400
+alunos no oitavo ano.
 
-Every year from year four onwards, the
-number of new recruits will increase by 10,
-but the students who started three
-years earlier will finish school and leave.
-In years four, five and six, the population
-will increase by 10, 20 and then 30
-students a year. After that, the
-population will increase steadily by
-30 students a year.
+Todo ano, do quarto ano para frente, o
+número de novos alunos vai aumentar em
+10, mas os estudantes que começaram três
+anos antes se formarão e irão sair. No
+quarto, quinto e sexto anos, a população
+aumentará em 10, 20 e então 30 alunos
+por ano. Depois disso, a população irá
+aumentar constantemente em 30 alunos por
+ano.
 !******************************!
 [ed0b01000c000000:0234030000]
-Too bad!
+Azar!
 
-Think about it carefully and try again.
+Pense cuidadosamente e tente de novo.
 !******************************!
 [ee0b01000d000000:0266030000]
-When calculating the school's total
-population, don't forget that students
-stay at the school for three years.
+Ao calcular a população total da escola,
+não esqueça do tempo de estadia dos
+alunos: três anos.
 
-In its fourth year, the school will have
-10 more students overall than the
-previous year. In the fifth year, it will
-have 20 more than that and in the sixth,
-it will have 30 more.
+Em seu quarto ano, a escola irá ter mais
+10 alunos em geral do que no ano
+anterior. No quinto, terá mais 20, e no
+sexto, haverão mais 30.
 
-Each year thereafter, the number of
-students will grow by 30 per year.
+A cada ano subsequente, o número de
+alunos irá aumentar em 30 a cada ano.
+
 !******************************!
 [ef0b01000e000000:02d2040000]
 

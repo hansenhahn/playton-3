@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n065
+!******************************!
+n065a
+!******************************!
+n065b
+!******************************!
+[eb0b01000a000000:0211000000]
+Estes olhos de dragão não são esferas, e
+sim dodecaedros. Significa que ambos são
+objetos 3D feitos de 12 pentágonos.
+
+Apesar de um dos olhos estar pronto,
+o outro ainda precisa ser montado.
+
+Dentre A, B ou C, qual forma irá montar
+um olho exatamente igual o outro quando
+dobrado e montado?
+!******************************!
+[ec0b01000b000000:0247010000]
+Mandou bem!
+
+A resposta é A. 
+
+Os olhos de dragão brilham
+e a porta se abre!
+!******************************!
+[ed0b01000c000000:0298010000]
+Errou!
+
+Imagine o olho montado e pense em
+quais faces se encaixam juntas.
+!******************************!
+[ee0b01000d000000:02ee010000]
+São três opções, então procure pelas
+diferenças entre elas. É assim
+que você vai achar a reposta.
+!******************************!
+[ef0b01000e000000:0257020000]
+Você talvez poderia fazer seu próprio
+dodecaedro com papel e tesoura... mas
+não é tão fácil assim.
+
+Descobrir onde os padrões do modelo
+se encaixam deve ser mais rápido.
+!******************************!
+[f00b01000f000000:02ec020000]
+Um dos pentágonos de cada opção é
+a pupila do olho. Foque nas áreas que
+se conectam a essa pupila. Use a
+Função Notas e desenhe linhas entre
+as áreas correspondentes.
+!******************************!
+[f10b010010000000:029e030000]
+Olhando a pupila da opção C, caso
+você conecte ela aos pentágonos ao
+redor, ela vai criar um padrão
+que é bem diferente do padrão do
+olho já montado.
+
+É fácil de confirmar isso porque os
+pentágonos próximos da pupila não
+possuem uma coisa em específico.
+
+A resposta, portanto, é A ou B.
+
+!******************************!

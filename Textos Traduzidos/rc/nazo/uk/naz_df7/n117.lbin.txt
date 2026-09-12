@@ -1,0 +1,47 @@
+[ea0b0a0000000000:02000000000205000000020b0000000003000000000000000000f203000000f2030000000100000000000000000000000000]
+n117
+!******************************!
+n117a
+!******************************!
+n117b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse é um Laytangram.
+
+Preencha a silhueta do pintinho usando
+as cinco peças da cartola do Layton,
+sem sobrepô-las e sem deixar qualquer
+espaço vazio.
+
+Você pode girar ou virar as peças
+se quiser.
+!******************************!
+[ec0b01000b000000:02d4000000]
+Muito bem!
+
+Esses pintinhos são tão pequenininhos
+que ainda não conseguem voar!
+!******************************!
+[ed0b01000c000000:0213010000]
+Que pena.
+
+Isso não parece um passarinho...
+!******************************!
+[ee0b01000d000000:0243010000]
+Use o {#4} para as pernas do pintinho.
+!******************************!
+[ef0b01000e000000:0265010000]
+O {#3} forma a testa do pintinho ao
+ser posta verticalmente.
+!******************************!
+[f00b01000f000000:029e010000]
+O {#1} forma o rabinho.
+
+Consegue descobrir para que lado
+a peça precisa ser virada?
+!******************************!
+[f10b010010000000:02e6010000]
+Assim que virada, {#2} forma o peito do
+pintinho. Isso deve ser o suficiente
+para você completar o enigma.
+!******************************!

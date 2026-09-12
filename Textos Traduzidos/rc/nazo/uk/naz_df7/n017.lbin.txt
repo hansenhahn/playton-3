@@ -1,0 +1,67 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n017
+!******************************!
+n017a
+!******************************!
+n017b
+!******************************!
+[eb0b01000a000000:0211000000]
+A doutora precisa fazer nove visitas
+para pacientes. Os números dos quartos
+que ela precisa visitar estão abaixo. Ao
+checar os números, ela percebe que sempre
+que ela passar por um quarto com pelo
+menos um dígito em comum com o quarto
+que ela está, ela pode visitar todos os
+quartos em uma sequência única.
+
+Nessa sequência, qual será o quinto
+quarto que ela vai visitar?
+
+Circule o número do quarto correto.
+!******************************!
+[ec0b01000b000000:02a0010000]
+Exato!
+
+O quarto 63. Os dígitos 2 e 7 só são
+usados uma vez, enquanto o resto é usado
+pelo menos duas vezes, então a rota dela
+pelos nove quartos é igual ao da imagem
+acima. Independentemente de começar no
+quarto 29 ou 71, o quinto sempre será 63.
+!******************************!
+[ed0b01000c000000:029b020000]
+Que pena.
+
+Dê uma boa olhada nos números.
+!******************************!
+[ee0b01000d000000:02c2020000]
+Olhe todos os dígitos usados em cada
+número de quarto. Com que frequência
+cada dígito é usado?
+!******************************!
+[ef0b01000e000000:0212030000]
+Alguns dígitos são usados apenas uma
+vez. Significa que se você estiver em
+um quarto com um número que contém um
+desses dígitos, os únicos números de
+quarto para entrar são os que contém
+o outro dígito do número.
+!******************************!
+[f00b01000f000000:02e7030000]
+Dos nove dígitos, aqueles que são usados
+apenas uma vez são o 2 e o 7. Os quartos
+que possuem esses dígitos são os quartos
+29 e 71. Você precisa visitar esses
+quartos no começo ou no fim.
+!******************************!
+[f10b010010000000:029b040000]
+Começando do quarto 29, a ordem é
+29-49-54.
+
+Começando do quarto 71, a ordem é
+71-18-38.
+
+E se 29 e 71 são o começo e fim
+das visitas médicas...
+!******************************!

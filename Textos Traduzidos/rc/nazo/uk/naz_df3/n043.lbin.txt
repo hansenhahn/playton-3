@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n043
+!******************************!
+n043a
+!******************************!
+n043b
+!******************************!
+[eb0b01000a000000:0211000000]
+Seis pessoas querem se sentar no cinema.
+Você deve organizá-los de maneira que 
+todos fiquem felizes assistindo o filme.
+
+A: {''}Não quero sentar próximo, atrás
+ou na frente do C.{''}
+B: {''}Não quero sentar na frente.{''}
+C: {''}Não gosto de sentar nas pontas.{''}
+D: {''}Não quero sentar na esquerda ou
+atrás.{''}
+E: {''}Prefiro o lado direito.{''}
+F: {''}Sem ser à esquerda ou na frente.{''}
+
+Onde eles devem se sentar?
+!******************************!
+[ec0b01000b000000:02c2010000]
+Excelente!
+
+As únicas duas opções para C são
+sentar nas cadeiras do meio.
+
+Ao organizar os outros lugares com base
+nisso, esse é o único jeito de fazer
+todos felizes.
+!******************************!
+[ed0b01000c000000:0288020000]
+Azar!
+
+Há uma maneira de arrumá-los
+que deixa todos felizes.
+É só você descobrir qual.
+!******************************!
+[ee0b01000d000000:02ea020000]
+Tente usar a Função Notas para anotar
+as possibilidades de cada lugar.
+
+!******************************!
+[ef0b01000e000000:023d030000]
+Depois de anotar as possibilidades de
+cada lugar, fica claro que só uma pessoa
+não se importa em sentar na cadeira da
+ponta esquerda. Quem é?
+!******************************!
+[f00b01000f000000:02cf030000]
+A é o único que deve sentar na cadeira
+da ponta esquerda. Assim você deve saber
+agora onde colocar o C.
+
+Agora, como ninguém quer se sentar na
+cadeira de trás da esquerda, o B deve
+se sentar atrás de A.
+!******************************!
+[f10b010010000000:0287040000]
+Agora que você sabe que o C deve se
+sentar na fileira de trás, o único lugar
+disponível para F é o de trás à direita.
+
+Você conseguirá arrumar todos os lugares
+se entender cada condição uma a uma.
+!******************************!

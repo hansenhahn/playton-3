@@ -1,0 +1,53 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n210
+!******************************!
+n210a
+!******************************!
+n210b
+!******************************!
+[eb0b01000a000000:0211000000]
+Essa é uma foto de cabines telefônicas
+tirada nas ruas de Londres. As cabines
+brilhavam intensamente em vermelho, mas
+infelizmente a foto acabou desbotando.
+Há quatro cabines telefônicas na foto, 
+mas só três funcionam.
+
+Qual cabine telefônica é a única
+que não funciona?
+!******************************!
+[ec0b01000b000000:022a010000]
+Ligou bem os pontos!
+
+É a cabine D.
+
+As setas amarelas mostram a direção da
+luz do sol. Portanto, o lado direito das
+cabines deveria estar sombreado. Mas
+olhando como a sombra reflete no lado
+esquerdo da cabine D, fica fácil de
+notar que é um reflexo da cabine C.
+
+A cabine D não é funcional porque
+ela não existe!
+!******************************!
+[ed0b01000c000000:026d020000]
+Errou!
+
+Uma das cabines não é
+que nem as outras...
+!******************************!
+[ee0b01000d000000:02a8020000]
+Se você olhar de perto, verá que
+uma das cabines, na verdade, é o
+reflexo de outra.
+!******************************!
+[ef0b01000e000000:020d030000]
+
+!******************************!
+[f00b01000f000000:020e030000]
+
+!******************************!
+[f10b010010000000:020f030000]
+
+!******************************!

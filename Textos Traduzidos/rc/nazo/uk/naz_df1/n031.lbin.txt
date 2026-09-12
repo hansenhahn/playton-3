@@ -6,56 +6,56 @@ n031a
 n031b
 !******************************!
 [eb0b01000a000000:0211000000]
-This tomcat is trying to meet up with his
-sweetheart. However, there are dogs on
-the squares marked with Xs, and if the
-tomcat comes within three squares of one,
-they'll pick up his scent and chase him
-off. Rest assured that the dogs can't
-smell through walls, though.
+Este gato está tentando se encontrar
+com sua amada. Entretanto, os cães nos
+quadrados marcados com Xs estão na sua
+cola, e se o gato estiver a três
+passos de um deles, eles sentirão seu
+cheiro e correrão atrás dele. Mas não
+se preocupe: eles não sentem cheiro
+através das paredes.
 
-Which entrance, out of A, B, C and D
-should the tomcat take so that he can be
-safely reunited with his lady friend?
-
+Dentre as entradas A, B, C e D, qual
+é a entrada mais segura para o gato
+passar e se reunir com sua amada?
 
 !******************************!
 [ec0b01000b000000:0295010000]
-Purrrfect!
+Perrrfeito!
 
-The answer is C. Reunited at last!
+A resposta é a C. Enfim juntos!
 !******************************!
 [ed0b01000c000000:02c4010000]
-Too bad!
+Errado!
 
-Might you have overlooked something?
+Talvez você viu algo de forma errada?
 !******************************!
 [ee0b01000d000000:02f3010000]
-Trying to find the safe path by
-starting at each entrance in turn is
-hard work.
+Tentar encontrar o caminho mais seguro
+começando por cada entrada se torna
+um trabalho duro.
 
-Start by thinking about where the
-dogs are.
+Tente começar pensando na posição
+dos cães.
 !******************************!
 [ef0b01000e000000:0270020000]
-Where is the tomcat in danger of
-being noticed by the dogs?
+Quais são as posições em que o gato
+fica em perigo de ser visto pelos cães?
 
-Using the Memo Function to fill in
-the dangerous areas might prove
-helpful.
+Usar a Função Notas para marcar as
+áreas perigosas pode ser de grande
+ajuda.
 !******************************!
 [f00b01000f000000:02f9020000]
-Did you try filling in the dangerous
-squares? Didn't doing that reveal a
-safe path?
+Tentou marcar os quadrados que há
+perigo de ser visto? Isso não revela
+a você um caminho seguro?
 !******************************!
 [f10b010010000000:024d030000]
-On the dangerous paths, the tomcat
-can't turn more than three corners
-without running into a dog. If he can
-clear four corners safely, you know
-he's on the right path!
+Nos caminhos perigosos, o gato não
+pode virar mais de três esquinas sem
+trombar com um cachorro. Se ele puder
+virar quatro esquinas em segurança,
+ele estará no caminho seguro!
 
 !******************************!

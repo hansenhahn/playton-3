@@ -1,0 +1,68 @@
+[ea0b0a0000000000:02000000000205000000020b0000000001000000000000000000f203000000f2030000000100000000000000000000000000]
+n012
+!******************************!
+n012a
+!******************************!
+n012b
+!******************************!
+[eb0b01000a000000:0211000000]
+Esse enigma é mais fácil que tabuada do
+um. É só seguir as setas e mover as
+sete cartas de números e símbolos
+nos espaços abaixo.
+
+Ah, mais uma coisinha: a conta que as
+cartas criarão precisa ser válida.
+!******************************!
+[ec0b01000b000000:02e1000000]
+Certa resposta!
+
+A conta não funciona se você só
+colocar as cartas em seus lugares
+do jeito que elas estão.
+
+Você precisa girar o número 1 em 90
+graus para fazer o sinal de subtração.
+!******************************!
+[ed0b01000c000000:028f010000]
+Resposta errada.
+
+A conta realmente é válida?
+Analise-a melhor.
+!******************************!
+[ee0b01000d000000:02c9010000]
+Você seguiu as setas e colocou as
+cartas nos espaços corretos?
+
+Tenha cuidado para não se confundir
+com a ordem das cartas.
+!******************************!
+[ef0b01000e000000:023a020000]
+Se você seguiu as setas e botou as
+cartas nos espaços certos, você vai
+perceber que a conta está errada, e
+que você não resolveu o enigma.
+
+Mas relaxe. Você pode fazer a conta
+ser válida se pensar em fazer uma
+simples mudança.
+!******************************!
+[f00b01000f000000:0228030000]
+Você pode mudar um dos números
+para alguma outra coisa simplesmente
+mudando a forma como você vê ele.
+
+Dê uma olhada nesse número.
+
+!******************************!
+[f10b010010000000:02c3030000]
+Você precisa achar um cálculo de
+três números que te dê 5 como
+resposta.
+
+Se você usar de forma correta uma das
+cartas, você conseguirá validar a conta.
+
+Use essa carta, mas não como um número,
+e sim como um símbolo.
+!******************************!

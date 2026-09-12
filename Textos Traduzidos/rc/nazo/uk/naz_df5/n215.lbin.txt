@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n215
+!******************************!
+n215a
+!******************************!
+n215b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você recebeu um bilhete:
+
+{''}Depois de entrar no prédio, passei
+pela primeira porta a minha direita e
+entrei em uma sala. De lá, entrei na
+porta a minha esquerda, passando por
+outra sala, pelo corredor e indo até
+a sala oposta. Depois entrei pela porta
+a minha direita e acabei chegando na
+sala onde eu estou agora.{''}
+
+Para encontrar o remetente por essas
+direções, por qual entrada, de A a F,
+você deve entrar para acessar o prédio?
+!******************************!
+[ec0b01000b000000:02c7010000]
+Muito bem!
+
+A entrada E é a única que permite você
+seguir todos esses passos.
+
+O mensageiro se encontra na sala
+mostrada acima.
+!******************************!
+[ed0b01000c000000:0246020000]
+Errou!
+
+Preste muita atenção no caminho descrito
+no bilhete.
+!******************************!
+[ee0b01000d000000:0287020000]
+Tente seguir as direções de cada
+entrada uma de cada vez.
+
+Toda entrada tem uma porta bem na
+direita, mas dá para eliminar todas as
+portas que não levam a um quarto com uma
+porta a esquerda. Continue analisando
+suas escolhas uma a uma.
+
+E mantenha em mente para que lado
+está cada uma das entradas.
+!******************************!
+[ef0b01000e000000:02d1030000]
+
+!******************************!
+[f00b01000f000000:02d2030000]
+
+!******************************!
+[f10b010010000000:02d3030000]
+
+!******************************!

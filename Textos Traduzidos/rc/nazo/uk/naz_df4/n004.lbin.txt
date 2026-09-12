@@ -1,0 +1,78 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000300000000f203000000f2030000000100000000000000000000000000]
+n004
+!******************************!
+n004a
+!******************************!
+n004b
+!******************************!
+[eb0b01000a000000:0211000000]
+Dois homens estão levando caixas do térreo
+para o andar superior. O mais alto carrega
+duas caixas de uma vez, e demora um minuto
+para chegar ao andar superior. O mais baixo
+só carrega uma caixa de uma vez, mas demora
+só 30 segundos para chegar no andar
+superior. Ambos levam o mesmo tempo para
+ir e voltar entre os andares. As caixas
+são muito pesadas para eles passarem uma
+a uma entre eles para os andares.
+Sabendo que há sete caixas no total, eles
+irão demorar quantos minutos para levar
+todas as caixas ao andar superior?
+!******************************!
+[ec0b01000b000000:0234020000]
+Correto!
+
+Vai demorar três minutos para eles levarem
+as caixas ao andar superior. Esse enigma
+fica mais fácil fazendo algumas anotações.
+!******************************!
+[ed0b01000c000000:02b7020000]
+Errou!
+
+Em vez de tentar resolver o enigma
+na sua mente, use a Função Notas
+para fazer algumas anotações.
+!******************************!
+[ee0b01000d000000:0228030000]
+Você pode resolver o enigma fazendo
+muitos cálculos, mas é mais fácil
+visualizá-lo usando a Função Notas.
+
+Quantas caixas foram levadas após
+um minuto? E onde os dois homens
+estarão a esse ponto?
+!******************************!
+[ef0b01000e000000:02fb030000]
+Depois de um minuto, o homem mais alto
+terá levado duas caixas e o mais baixo
+terá levado uma. O mais alto ainda está
+no andar de cima, e o baixinho já desceu
+para o andar de baixo.
+
+Sendo esse o caso, como eles progredirão
+depois de dois minutos?
+
+!******************************!
+[f00b01000f000000:0204050000]
+Após dois minutos, o mais alto chegou
+no andar de baixo e está pronto para
+levar mais caixas, enquanto o seu amigo
+já levou mais uma caixa para cima, o que
+dá um total de quatro caixas no andar de
+cima.
+
+Significa que restam apenas três
+caixas para serem levadas.
+!******************************!
+[f10b010010000000:021a060000]
+Do que você sabe com as dicas de antes,
+após dois minutos, quatro caixas foram
+levadas para cima, e ambos os homens
+estão no andar de baixo. 
+
+Se leva 30 segundos para o mais baixo
+subir com uma caixa, e o mais alto
+consegue subir levando duas caixas
+em um minuto...
+!******************************!

@@ -1,0 +1,70 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n147
+!******************************!
+n147a
+!******************************!
+n147b
+!******************************!
+[eb0b01000a000000:0211000000]
+Você quer pavimentar seu jardim usando
+um desses cinco tipos de pedras.
+Porém, só uma dessas pedras, usada
+repetidamente, irá cobrir cada parte
+do jardim além dos espaços com os
+vasos de flor.
+
+As pedras podem ser giradas, mas
+não viradas e nem sobrepostas.
+
+Qual pedra você deve usar?
+
+
+
+!******************************!
+[ec0b01000b000000:024c010000]
+Muito bem!
+
+A pedra E é a que você deve usar, como
+pode ver acima. Saber usar essas pedras
+é uma habilidade útil para um
+jardineiro.
+!******************************!
+[ed0b01000c000000:02dd010000]
+Que pena.
+
+Talvez jardinagem seja um pouco
+mais difícil do que parece...
+!******************************!
+[ee0b01000d000000:021c020000]
+Comece colocando as pedras nos cantos.
+Alguns tipos de pedras não irão caber
+em todos os cantos, não importa como
+você gire elas.
+!******************************!
+[ef0b01000e000000:029f020000]
+Tente como quiser usar a pedra C,
+você só conseguirá colocar três dela
+no jardim, e sempre irá sobrar um
+espaço vazio.
+
+Portanto, C não é a resposta.
+!******************************!
+[f00b01000f000000:024b030000]
+A pedra D tem um formato peculiar, e
+você não consegue encaixar mais de duas
+dessa pedra no jardim.
+
+Portanto, D também está descartada.
+
+!******************************!
+[f10b010010000000:02dc030000]
+A resposta é A, B ou E.
+
+Como dito na Dica 1, colocando as pedras
+nos cantos do jardim no início, você
+conseguirá descobrir quais pedras
+não se encaixam.
+
+Nenhuma das três é capaz de cobrir o
+jardim com mais de quatro pedras.
+!******************************!

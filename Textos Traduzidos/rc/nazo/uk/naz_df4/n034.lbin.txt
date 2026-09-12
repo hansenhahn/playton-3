@@ -1,0 +1,75 @@
+[ea0b0a0000000000:02000000000205000000020b0000000002000000000000000000f203000000f2030000000100000000000000000000000000]
+n034
+!******************************!
+n034a
+!******************************!
+n034b
+!******************************!
+[eb0b01000a000000:0211000000]
+Perdido em uma cidade desconhecida, você
+pediu informações para um transeunte
+sobre a torre do relógio. Prestativo,
+ele responde:
+
+{''}Saindo reto aqui, vire à esquerda
+na primeira esquina, depois à direita
+na próxima esquina, e depois à esquerda
+na próxima esquina, que a torre vai
+estar na sua frente.{''}
+
+Supondo que você está em um lugar
+específico do mapa abaixo, onde fica
+a torre do relógio? Circule de A a H.
+!******************************!
+[ec0b01000b000000:0289010000]
+Exato!
+
+A torre do relógio fica em H.
+
+Você estava em A e de frente para D
+quando o transeunte te ajudou.
+!******************************!
+[ed0b01000c000000:0212020000]
+Errado!
+
+Apresse-se, o tempo não para!
+!******************************!
+[ee0b01000d000000:023d020000]
+{''}Vire à esquerda na primeira esquina...{''}
+Essa primeira condição pode ser feita
+começando por qualquer localização.
+
+O diferencial é a próxima condição:
+{''}À direita na próxima esquina...{''}
+
+De quais pontos iniciais essa condição
+pode ser realizada?
+!******************************!
+[ef0b01000e000000:023d030000]
+Você pode começar por A, C, D ou G.
+
+Seguindo as condições mencionadas
+na Dica 1:
+A vai para D, depois E, depois G.
+C vai para B, depois E, depois D.
+
+O que acontece quando você começa
+por D ou G?
+!******************************!
+[f00b01000f000000:02f5030000]
+O que acontece quando você começa
+por D ou G?
+
+Bem, seguindo as condições ditas
+na Dica 1:
+D vai para E, depois B, depois C.
+G vai para E, depois D, depois A.
+!******************************!
+[f10b010010000000:028f040000]
+Dos locais finais dados pelas Dicas 2
+e 3, de qual delas você consegue virar
+{''}à esquerda na próxima esquina{''}?
+
+Tenha em mente para onde você está
+olhando, e tente cada uma delas.
+!******************************!

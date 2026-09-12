@@ -1,0 +1,60 @@
+[ea0b0a0000000000:02000000000205000000020b0000000004000000000900000000f203000000f2030000000100000000000000000000000000]
+n033
+!******************************!
+n033a
+!******************************!
+n033b
+!******************************!
+[eb0b01000a000000:0211000000]
+Para abrir a porta, coloque quatro peças
+numeradas nos espaços vazios para que
+todas as condições estabelecidas pela
+equação sejam cumpridas.
+
+Colocar uma peça numerada em um espaço
+vazio a insere na equação, nas posições
+acima e abaixo deste espaço.
+!******************************!
+[ec0b01000b000000:020c010000]
+Brilhante!
+
+Essa é uma solução possível. Os lados
+direito e esquerdo de cada conta são
+permutáveis. Também, já que cada metade
+das equações envolve a soma ou
+multiplicação de dois números, a ordem
+dos fatores de cada par não altera
+o produto final.
+
+!******************************!
+[ed0b01000c000000:023c020000]
+Azar!
+
+É uma combinação simples de números.
+Continue tentando.
+!******************************!
+[ee0b01000d000000:027e020000]
+É difícil escolher os números certos,
+mesmo que sejam apenas quatro deles.
+Só continue tentando possibilidades
+diferentes.
+!******************************!
+[ef0b01000e000000:0202030000]
+Pense em dois pares de números que
+geram o mesmo valor quando os números de
+um par se multiplicam e os números do
+outro par são somados, e vice versa.
+
+!******************************!
+[f00b01000f000000:02b2030000]
+Os dois números de cada lado da equação
+devem gerar o mesmo resultado quando
+multiplicados e quando somados, então
+números maiores não vão funcionar.
+
+!******************************!
+[f10b010010000000:0255040000]
+Quando a solução da equação de cima
+é 6, a solução da equação de baixo
+é 5.
+!******************************!
