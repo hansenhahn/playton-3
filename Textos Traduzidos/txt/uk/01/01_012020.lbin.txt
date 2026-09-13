@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Oi. Estamos procurando um hotel
-na Southern Street. É algum desses
-prédios?
+<T>Olá. Estamos procurando um
+hotel na Southern Street. É um
+destes prédios?
 !******************************!
 [7117030004000000:000a00000002600000000269000000]
 マックス
@@ -14,21 +14,22 @@ prédios?
 [7117030007000000:000a0000000200000000028c000000]
 ルーク
 !******************************!
-<T>Ué… Estamos na Southern Street, não
-estamos? Mas o hotel não fica aqui?
+<T>Espera... Nós estamos na
+Southern Street, não estamos?
+Mas o hotel não está aqui?
 !******************************!
 [711703000a000000:000a000000026000000002dd000000]
 マックス
 !******************************!
-<T><A1/1>DING DING DING!<W> <A1/2>Você está no
-bairro! Quer dizer, no bairro do
-correto!
+<T><A1/1>DING DING DING!<W> <A1/2>Vocês estão
+na vizinhança! Na vizinhança
+do correto, quer dizer.
 !******************************!
 [711703000d000000:000a00000002000000000246010000]
 ルーク
 !******************************!
-<T>Não estou entendendo nada do
-que esse garoto está dizendo,
+<T>Não entendo nada do que
+este garoto está dizendo,
 Professor.
 !******************************!
 [7117030010000000:000a000000028a0100000293010000]
@@ -41,8 +42,8 @@ Observe.
 [7117030013000000:000a000000028a01000002ef010000]
 レイトン
 !******************************!
-<T>Diga-me, jovem: aqui é
-a Southern Street?
+<T>Diga-me, jovem, esta é a
+Southern Street?
 !******************************!
 [7117030016000000:000a0000000260000000021f020000]
 マックス
@@ -58,29 +59,29 @@ a Southern Street?
 マックス
 !******************************!
 <T>DING DING DING!<W> Correto de novo!<W>
-É só procurar o prédio branco logo
-ali adiante.
+Procure o prédio branco
+logo adiante.
 !******************************!
 [711703001f000000:000a000000028a01000002b7020000]
 レイトン
 !******************************!
-<T>Muito obrigado.
+<T>Obrigado.
 !******************************!
 [7117030022000000:000a000000028a01000002c5020000]
 レイトン
 !******************************!
-<T>Muito bem, Luke. A menos que nosso amigo
-esteja enganado, precisamos seguir
-para leste para chegar ao nosso destino.
+<T>Muito bem, Luke. A menos que nosso
+amigo aqui esteja enganado,
+precisamos seguir a leste.
 !******************************!
 [7117030025000000:000a0000000200000000022d030000]
 ルーク
 !******************************!
-<T>Er… se você diz, Professor.
+<T>Ahn... Se o senhor diz, Professor.
 !******************************!
 [7117030028000000:001400000002600000000251030000]
 マックス
 !******************************!
-<T>O hotel é o prédio branco grande ali
-na frente. É só seguir para leste!
+<T>O hotel é o prédio branco grande
+logo adiante. Continue para o leste!
 !******************************!

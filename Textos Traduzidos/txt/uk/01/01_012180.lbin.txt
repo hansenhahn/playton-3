@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Precisamos comprar os bilhetes
-antes de embarcar. Você cuida
-disso, Luke?
+<T>Precisamos comprar bilhetes
+antes de embarcar. Você
+poderia cuidar disso, Luke?
 !******************************!
 [7117030004000000:000a0000000256000000025d000000]
 ルーク

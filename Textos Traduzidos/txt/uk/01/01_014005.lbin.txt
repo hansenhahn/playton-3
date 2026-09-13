@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000209000000]
 シャロン
 !******************************!
-<T>Os fundos do prédio?<W> Siga por
-aquele corredor e passe pela
-porta no final.
+<T>Os fundos do prédio?<W> É só
+seguir por aquele corredor até
+a porta no final.
 !******************************!

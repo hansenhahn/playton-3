@@ -2,29 +2,29 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Já faz um tempo, não é,
+<T>Faz um tempo, não é,
 Andrew?
 !******************************!
 [7117030004000000:000a00000002320000000243000000]
 未来シュレーダー
 !******************************!
-<T>Sem dúvida, Hershel. Imagino que
-ainda passe a maior parte do tempo
-acordado pesquisando, não?
+<T>De fato, Hershel. Imagino que
+ainda passe a maior parte do
+tempo acordado pesquisando?
 !******************************!
 [7117030007000000:000a000000020000000002a7000000]
 レイトン
 !******************************!
 <T><A1/2>O que posso dizer? Aprendi com
-os melhores.<W> Ter um escritório
-também facilitou bastante a vida.
+o melhor.<W> Ter um escritório
+para trabalhar facilitou as coisas.
 !******************************!
 [711703000a000000:000a00000002320000000219010000]
 未来シュレーダー
 !******************************!
-<T>Você tem um escritório?<W> Ah,
-o que estou dizendo? Já tem um
-há algum tempo, não é?
+<T>Você tem escritório próprio?<W> Ah,
+o que estou dizendo? Já tem
+um há um bom tempo, não é?
 !******************************!
 [711703000d000000:000a0000000232000000027c010000]
 未来シュレーダー
@@ -34,71 +34,71 @@ há algum tempo, não é?
 [7117030010000000:000a00000002320000000293010000]
 未来シュレーダー
 !******************************!
-<T>Já vi muitos estudiosos, mas você
-foi o mais brilhante que já pisou
-na minha sala de aula.
+<T>Já vi muitos estudiosos, mas
+você foi o mais brilhante a
+pisar na minha sala de aula.
 !******************************!
 [7117030013000000:001400000002f301000002fa010000]
 ルーク
 !******************************!
-<T>Naturalmente!
+<T>É claro!
 !******************************!
 [7117030016000000:001400000002320000000208020000]
 未来シュレーダー
 !******************************!
-<T>Ora essa! Com toda essa agitação,
-quase esqueci de tomar meu
-remédio. Que bobeira.
+<T>Oh, céus! Com toda essa
+empolgação, quase esqueci
+de tomar meu remédio!
 !******************************!
 [7117030019000000:00140000000232000000025e020000]
 未来シュレーダー
 !******************************!
 <T>Estou com o frasco aqui, mas
-descobrir a dose correta está se
-mostrando bem cansativo.
+calcular a dosagem correta
+está sendo bem complicado.
 !******************************!
 [711703001c000000:0014000000023200000002b8020000]
 未来シュレーダー
 !******************************!
-<T>Luke, seja um bom garoto e me
-ajude a descobrir quanto disso
+<T>Luke, seja um bom menino e
+me ajude a calcular quanto
 preciso tomar.
 !******************************!
 [711703001f000000:00e803000002320000000206030000]
 未来シュレーダー
 !******************************!
-<T>Vai desistir? Mas já está quase
-na hora do meu remédio!
+<T>Vai desistir? Mas já está
+quase na hora do meu remédio!
 !******************************!
 [7117030022000000:00d007000002320000000242030000]
 未来シュレーダー
 !******************************!
-<T>Você voltou! Pensou em uma forma
-de eu tomar meu remédio?
+<T>Voltou! Pensou num jeito de
+eu tomar meu remédio?
 !******************************!
 [7117030025000000:00b80b000002320000000285030000]
 未来シュレーダー
 !******************************!
-<T>Você ensinou bem esse garoto, Hershel.
-Está claro que passou adiante
-algumas das minhas habilidades, heh heh!
+<T>Você ensinou bem este rapaz,
+Hershel. Claramente passou
+minhas habilidades adiante, hehe!
 !******************************!
 [7117030028000000:00b80b000002f301000002e5030000]
 ルーク
 !******************************!
-<T>Ah...
+<T>Ahn...
 !******************************!
 [711703002b000000:00b80b0000023200000002ee030000]
 未来シュレーダー
 !******************************!
 <T>Sim, como eu dizia, você sempre
 foi o mais brilhante, embora
-houvesse outro aluno que quase chegou lá.
+houvesse outro aluno quase tão bom.
 !******************************!
 [711703002e000000:00b80b000002320000000257040000]
 未来シュレーダー
 !******************************!
-<T>Aquele garoto também era muito
-esperto. Fico pensando no que
-terá sido feito dele...
+<T>Aquele rapaz também era um
+gênio. Fico pensando o que
+aconteceu com ele...
 !******************************!

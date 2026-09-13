@@ -2,13 +2,13 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/3>A porta da loja ainda tá
+<T><A1/3>A porta da loja continua
 trancada.
 !******************************!
 [7117030004000000:000a000000022f0000000238000000]
 レイトン
 !******************************!
 <T><A4/1>Não se preocupe, Luke. O mundo
-lá fora está repleto de mistérios 
-esperando para serem investigados.
+lá fora guarda muitos mistérios
+para investigarmos.
 !******************************!

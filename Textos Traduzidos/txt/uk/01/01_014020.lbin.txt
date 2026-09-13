@@ -2,7 +2,6 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Vamos dar uma olhada
-mais de perto naquele
-automóvel, Luke.
+<T>Vamos examinar aquele
+automóvel mais de perto, Luke.
 !******************************!

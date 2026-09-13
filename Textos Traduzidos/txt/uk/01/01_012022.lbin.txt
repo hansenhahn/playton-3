@@ -2,30 +2,30 @@
 [7117030001000000:000a00000002000000000205000000]
 ベル
 !******************************!
-<T>Estou atrasada, estou atrasada, estou atrasada!
+<T>Estou atrasada, atrasada, atrasada!
 !******************************!
 [7117030004000000:00140000000226000000022d000000]
 ルーク
 !******************************!
-<T><A1/6>Ugh!
+<T><A1/6>Uff!
 !******************************!
 [7117030007000000:00190000000200000000023b000000]
 ベル
 !******************************!
-<T>Ai, ai, aaaai…
+<T>Ai ai aiii...
 !******************************!
 [711703000a000000:00190000000226000000024c000000]
 ルーク
 !******************************!
-<T><A4/4>Me desculpe, moça!
-Eu não vi você aí!<W> Está tudo bem?
+<T><A4/4>Me desculpe, moça! Não a vi
+aí!<W> Está tudo bem?
 !******************************!
 [711703000d000000:001900000002000000000297000000]
 ベル
 !******************************!
-<T><A2/4>Ai! Ralei o joelho…<W><A2/6> Mas se você
-me desse um beijinho, ficaria tuuudo
-melhor.
+<T><A2/4>Ai! Ralei o joelho...<W><A2/6> Mas se
+você me desse um beijinho, ia
+ficar tuudo melhor.
 !******************************!
 [7117030010000000:0019000000022600000002ff000000]
 ルーク
@@ -35,34 +35,33 @@ melhor.
 [7117030013000000:00190000000200000000020d010000]
 ベル
 !******************************!
-<T><A3/7>Ótimo! Então faça biquinho.<W>
-Beijinho, beijinho, beijinho!
+<T><A3/7>Ótimo! Então faz biquinho.<W> Beijinho
+beijinho beijinho!
 !******************************!
 [7117030016000000:001b00000002260000000243010000]
 ルーク
 !******************************!
-<T><A1/3>O quê?! Não!<W> Fique longe!
-Não chegue mais perto!
+<T><A1/3>O quê?! Não!<W> Fique longe! Não chegue
+mais perto!
 !******************************!
 [7117030019000000:001e000000027c0100000285010000]
 レイトン
 !******************************!
-<T>Luke! Cuidado com o tom.<W> Um cavalheiro
-jamais deve se esquecer das boas
+<T>Luke! Modere seu tom.<W> Um cavalheiro
+jamais deve esquecer as boas
 maneiras ao falar com uma dama.
 !******************************!
 [711703001c000000:001e000000020000000002e6010000]
 ベル
 !******************************!
-<T><A4/5>Ah, seu nome é Fluke?
-Que nome encantador! Tão… peculiar!
+<T><A4/5>Ah, seu nome é Fluke? Que nome
+charmoso! Tão extravagante!
 !******************************!
 [711703001f000000:001e00000002000000000230020000]
 ベル
 !******************************!
-<T><A3/5>Bom, agora eu tenho que ir,
-mas vamos nos encontrar mais tarde,
-bonitão!
+<T><A3/5>Certo, preciso ir agora, mas
+vamos nos reencontrar, bonitão!
 !******************************!
 [7117030022000000:00280000000226000000027d020000]
 ルーク
@@ -73,11 +72,11 @@ bonitão!
 [7117030025000000:0028000000027c01000002b9020000]
 レイトン
 !******************************!
-<T>Que jovem… peculiar.
+<T>Que jovem... peculiar.
 !******************************!
 [7117030028000000:0028000000022600000002da020000]
 ルーク
 !******************************!
-<T>É um jeito educado de dizer
-isso, Professor.
+<T>É um jeito gentil de dizer,
+Professor.
 !******************************!

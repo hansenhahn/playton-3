@@ -2,13 +2,13 @@
 [7117030001000000:000a00000002000000000209000000]
 ヘイゼル
 !******************************!
-<T>O que vocês querem?<W><A5/1> Por favor,
-n-<W30>n-<W30>não me machuquem!
+<T>O que querem?<W><A5/1> Por favor,
+não<W30> não<W30> me machuquem!
 !******************************!
 [7117030004000000:000a0000000200000000024b000000]
 ヘイゼル
 !******************************!
-<T>Se procuram a estação, ela fica
-l-<W30>l-<W30>logo ali na rua.<W>
+<T>Se procuram a estação, é
+lo-<W30>lo-<W30>logo adiante na rua.<W>
 Por favor, me deixem em paz!
 !******************************!

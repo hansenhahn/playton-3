@@ -2,30 +2,33 @@
 [7117030001000000:000a00000002000000000207000000]
 ニコラ
 !******************************!
-<T>Não acredito no que estou vendo!<W>
-Você é...? Não, não pode ser!
+<T>Não acredito no que estou
+vendo!<W> É você...? Não,
+não pode ser!
 !******************************!
 [7117030004000000:000a000000024b0000000254000000]
 レイトン
 !******************************!
-<T><A1/1>Desculpas, mas... Já nos conhecemos?
+<T><A1/1>Perdão... Já nos conhecemos?
 !******************************!
 [7117030007000000:000a00000002000000000277000000]
 ニコラ
 !******************************!
-<T><A2/6>Ufa! Eu achei que estava em apuros
-quando bati o olho nesse seu chapéu, viu...
+<T><A2/6>Ufa! Achei que ia me dar mal
+quando vi essa sua cartola,
+vou te contar...
 !******************************!
 [711703000a000000:000a000000020000000002d7000000]
 ニコラ
 !******************************!
-<T><A2/5>Mas parece que você não é quem eu
-pensei que fosse, então não temos
-nada pra conversar. Cai fora!
+<T><A2/5>Mas parece que você não é quem
+eu pensei, então não temos nada
+para conversar. Some daqui!
 !******************************!
 [711703000d000000:001400000002000000000240010000]
 ニコラ
 !******************************!
-<T><A2/5>Ei, me deixa em paz, tá? Esse seu
-chapéu tá me dando arrepios!
+<T><A2/5>Ei, me deixe em paz. Sua
+cartola está me dando
+arrepios!
 !******************************!
