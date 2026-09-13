@@ -41,6 +41,7 @@ Aprendiz, olhos do jogador. É quem sente primeiro o futuro (`I feel a bit out o
 De aprendiz que precisa de prova → crê no futuro → mediador moral (parábola do bully com Future Luke — `Spec/Capitulo_03.md:193`) → crise de mudança (Cap.10) → reafirmação `Our friendship is already extraordinary and everlasting.` (`Spec/Capitulo_03.md:499`).
 
 ## 7. Notas de Tradução PT-BR
+- **Boné (termo fixo):** o chapéu do Luke é sempre `boné`, nunca `chapéu`/`cartola` — âncora textual em `01_012040` (`what's wrong with my hat?` → `o que há de errado com meu boné?`, em contraste com o `camarada de cartola` na mesma cena).
 - **Voz jovem, não infantilizada:** variar `Crikey!/Gosh!/Cor` → `Caramba!`/`Nossa!`/`Puxa!`/`Eita!` conforme cena; evitar `cara`, `mano`, `véi`. Não fixar uma interjeição na skill.
 - **Hesitações e oralidade:** `I-I'm...` → `E-eu...`, `er...` → `Ahn...`/`Quer dizer...`, manter gagueira visual quando tag `<W>` + `A1/6`. Todo texto de Luke (dublado `<V>` ou não, `ルーク`) é fala — ler em voz alta como jovem britânico entusiasmado; se soar escrito/literal (`you strapping young things` → `seus jovens tão robustos!`), reescrever pelo sentimento antes de revalidar caixa.
 - **Economia de largura:** `pra` (14px) só como último recurso quando `para` (24px) estoura `adv` `Spec/Fontes_NFTR.md:3`; nunca em narração.

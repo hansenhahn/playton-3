@@ -41,6 +41,7 @@ Constante moral, mas muda de cético → crente no wormhole/lift → desmascarad
 ## 7. Notas de Tradução PT-BR — CRÍTICO
 - **NUNCA fazer Layton falar coloquial jovem:** evitar `tá`, `cara`, `bora`, `mano`. Ele é anacrônico de propósito.
 - **Preservar `my boy` → `meu rapaz` / `meu jovem`, não `meu garoto` (infantiliza).**
+- **Chapéu (termo fixo):** o chapéu do Professor é sempre `cartola` — inclusive onde o original diz só `hat` (`big hat`, `your hat`, `lose the hat`). Exceção: chapéus que NÃO são o dele mantêm `chapéu` (ex.: `matching hats` dos capangas em `01_012150`). `bare head` → `cabeça descoberta`.
 - **Interjeições:** `Ho ho!` → `Ho ho!` (manter, é marca), não `Haha!`; `Hmm...` manter com reticências.
 - **Deduções:** quebrar em frases curtas com pausa, imitando `<W>`. Ex.: `Let's think clearly. Those blocks... They don't float in mid-air.`
 - **Teste:** traduzir `I won't be convinced until I've seen the contraption work for myself.` → `Só me convencerei quando vir o aparelho funcionar com meus próprios olhos.` (formal, sem `só acredito vendo` gírio).

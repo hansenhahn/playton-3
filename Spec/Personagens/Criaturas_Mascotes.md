@@ -7,7 +7,7 @@
 - **Papel:** roubou cufflinks de Graham (`The dreadful creature swooped down and plucked my best cufflinks` — `Spec/Capitulo_04.md:144`), vira amigo de Luke, aprende `Get lost!` de Bostro para abrir Chinatown (`Get... Get lost, get lost!` — `Spec/Capitulo_07.md:196`), revelado como `Subject 1` ex-cobaia (`S-Subject 1?! Is that you?` — `Spec/Capitulo_08.md:281`).
 - **Personalidade:** `Awwwrk!`, `Hallo, hallo! Nice to meetchoo, meetchoo! I'm <N1>!` (`Spec/Capitulo_04.md:215`). Ecolalia perfeita (`Not only can this parrot talk, he can copy sounds perfectly!` — `Spec/Capitulo_06.md:560`).
 - **Registro:** fala em ecolalia + `meetchoo` (meet you) infantilizado. Repete bordões alheios com fidelidade.
-- **PT-BR:** manter `Awwwrk!`, `Olá! Olá! Eu sou <N1>!` com `meetchoo` → `prazer… prazer!` Mantém `<N1>` nunca traduzido. Quando imita Bostro, usar mesma tradução de `Get lost!` escolhida.
+- **PT-BR (Cap.04, fixo):** manter `Awwwrk! / Skwaaarka` intactos; `Hallo, hallo! Nice to meetchoo, meetchoo! I'm <N1>!` → `Olá, olá! Prazer em conhecê, conhecê! Eu sou <N1>!` (manter truncamento `conhecê` como ecolalia, não corrigir para `conhecer`); `<N1>` nunca traduzir. `Don't worry, boy!` (Luke ao papagaio) → `amiguinho` (afeto, distinto de `rapaz/garoto` humanos). Quando imita Bostro, usar mesma tradução de `Get lost!` escolhida.
 
 ## Subject 3 (３号) — Coelho
 - **Papel:** rival territorial `Oi, what mischief have you two got yourselves into?` vs `...tough rabbit by the name of Subject 3` (`Spec/Capitulo_10.md:53`). História trágica: `I was kidnapped and sold as a lab animal... They'd throw me in a room and cut the lights...` (`Spec/Extras_20.md:467`), `Life is hard, kid... The sooner you stop expecting good things...` (`Spec/Extras_20.md:506`).

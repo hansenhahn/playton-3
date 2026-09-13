@@ -43,8 +43,10 @@ De capangas de Dimitri → capangas de Clive → guardas punidos no freezer → 
 
 ## 7. Notas de Tradução PT-BR
 - **Sotaque:** não usar português neutro; criar cockney PT-BR com `tá`, `cê`, `pra`, `né`, `a gente`. Manter `ain't` → `num` não formal.
+- **Ironia ameaçadora (marca de tom):** Bostro e goons combinam diminutivo debochado (`perguntinhas`, `espertinho`) com falsa polidez (`Pode até ser, mas...`, `Seja qual for a desculpa...`). Âncora: `02_022000 blk6` (`pra umas perguntinhas`, não `interrogatório`) e `02_015100 blk5-6` (`O Chefe Bostro odeia crianças. Não suporta nem uma.`). Nunca formalizar: `interrogatório`, `procedimento`, `por obséquio` proibidos para Family.
 - **Get lost!** é plot device (papagaio). Tradução deve ser curta e repetível: escolher `Sai fora!` ou `Vaza!` e usar SEMPRE igual (3 ocorrências: Bostro demite, papagaio repete, guardas obedecem).
 - **Family:** manter `Família` capitalizado como organização, não `família` comum.
+- **Boss → Chefe:** título traduz como `Chefe` (`Inspetor`/`Agente` seguem a mesma lógica). `Boss Bostro` → `Chefe Bostro`; `Boss!` isolado → `Chefe!`. Nunca deixar `Boss` residual (`02_015100`, `02_022000`).
 - **Não dar voz culta a goon:** nunca fazer goon dizer `Por obséquio`.
 - **Teste:** `You're supposed to be on guard duty, you clown! Stop slackin' off!` → `Você devia estar de guarda, seu palhaço! Para de enrolar!`
 

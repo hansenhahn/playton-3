@@ -5,9 +5,9 @@
 
 ## Becky (ベッキー) — Hotel Duke Reception
 - **Papel:** NPC guia 08–15. Única que ajuda sem medo. Bloqueia com `You want to get to the station, don't you? Well, solve this puzzle...` (`Spec/Capitulo_01.md:49`)
-- **Personalidade:** jovem profissional cheerful, `Tee hee!`, `Welcome to the Hotel Duke, one of London's finest!`, sussurra quando Granny dorme, tagarela mas confiável. Defiende hotel: `I can't say we're as popular with the primary school crowd, little boy.` (`Spec/Capitulo_01.md:601`)
-- **Registro:** inglês polido jovem, `sir`, `Tee hee!`, `Shh! Be quiet or you'll wake Granny up!`
-- **PT-BR:** manter `Becky`, jovem atendente atenciosa, não gíria. `Tee hee!` → `Hehe!`.
+- **Personalidade:** jovem adulta debochada sob verniz profissional: cheerful na superfície (`Welcome to the Hotel Duke!`), ironia seca por baixo — provoca Luke (`Bravery is admirable... even if it can get you into trouble`, `02_015140 blk7`), alfineta a segurança dos capangas (`doesn't sound like the best security plan`, `02_015140 blk17`), shade (`not popular with the primary school crowd, little boy`, `Spec/Capitulo_01.md:601`). Fofoqueira que sussurra com Granny dormindo; code-switch formal instantâneo diante da Margaret (`The establishment... north end`, `02_015140 blk22`).
+- **Registro:** inglês polido jovem com tag questions e deadpan, `Tee hee!`, `Shh! Be quiet or you'll wake Granny up!`
+- **PT-BR:** manter `Becky`; base atenciosa + deboche leve nunca cruel: permite `né?` e `lá` (`não parece lá... eficiente`), `Vão lá conferir`; nunca `pra/tô/bora/mano`. Preservar `Tee hee!` (marca identitária, `_INDICE.md:62`), não normalizar para `Hehe!`.
 
 ## Margaret / Granny (マーガレット) — Manager
 - **Papel:** gag recorrente `Snoooozzzz...` (`Spec/Capitulo_01.md:49` / `06_025690`). Dá Toy Car minigame, corrige Becky `refer to me as "the manager"!`
@@ -76,12 +76,20 @@
 - **Personalidade:** melancólico entediado, `So bored. So very, very bored.`
 - **Registro:** trabalhador simples `little chappie`, `Fella threw me in a dark hole...`
 
+## Dolger / Alfie (ドルガー) — Velho do Livro Ilustrado
+- **Papel:** `What can I do for you? WELL?` / `Having a spot of trouble with my puzzle? WELL?` / `Back for another crack at that puzzle? WELL?` (`Spec/Capitulo_01.md:261`) — recompensa com Picture Book minigame, vive sozinho e enfatiza cada frase com interjeição gritada.
+- **Registro:** idoso solitário, interjeição `WELL?` em caixa alta com `<A2/5><W>`, eco de `SPECIAL!`/`BLANK!`, fala repetitiva.
+- **PT-BR:** manter tique como `ENTÃO?` — corresponde a `WELL?` de chamada/insistência. Não usar `BEM?`/`COMO?`. Ex.: `Em que posso ajudar? ENTÃO?` (`01_011060.lbin.txt:15`).
+
 ## Outros rápidos
+- **Harold (ハロルド) — Porteiro do Gilded 7:** pomposo-irônico; deferência zombeteira como arma (`Come now, sir. Don't tell me a gentleman of your calibre is incapable...`, `02_017030 blk10`). PT-BR: formal excessive de propósito (`O senhor... cavalheiro do seu calibre`), nunca gíria; elogia a cartola com segundas intenções.
+- **Delroy / Deroy (デロイ) — Bloqueador de rua:** enigmático-debochado; alonga vogais (`Veeery interesting...` → `Muuuito interessante...`, `02_017010 blk2`), avisa sem revelar (`it would kill all the suspense`). PT-BR: ritmo arrastado, `Hmph`, suspense performático.
+- **Max (マックス):** `BZZT! Incorrect!` / `DING DING DING! Correct!` — quiz boy, nunca traduzir efeito sonoro. Animador infantil debochado lúdico (provoca sem crueldade: `Meu pai me mataria!`); pode `pra/né` eventual, nunca `tô/mano`.
 - **Anita (アニータ):** `a hat like that could get you in trouble` — aviso maternal.
 - **Adeline (アデリン):** `That poster is five years old! Sums not your strong spot, boyo?` — azeda, `Cardiff`.
-- **Max (マックス):** `BZZT! Incorrect!` / `DING DING DING! Correct!` — quiz boy, nunca traduzir efeito sonoro.
 - **Belle (ベル):** `I'm late, I'm late!` + `Fluke` (erro) + `This is nothing short of fate!` — romântica obsessiva.
-- **Graham (グラハム):** `Before you stands London's most distinguished, dashing and debonair man. Italy, I say!` — dândi.
+- **Graham (グラハム) — Dândi da Maleta (Cap.04 04_025131–04_025138):** vaidoso galante, terno italiano; `cufflinks` roubados pelo papagaio → enigma da `garnet` → recompensa Parrot → plano de linha de roupas com Belle musa. Registro afrancesado: `debonair`, `accoutrements`, `accessorise with flash`, `cravat`, `muse`, `seal the deal` (duplo sentido proposta comercial/casamento). **PT-BR — NÃO neutralizar:** `debonair→elegante` (`O homem mais elegante de Londres` fixo; proibir `galante`=Don Juan e `dândi`=desusado); `accoutrements→apetrechos`; `cravat→cravate` (nota) senão `gravata`; `finger on the pulse→faro para moda`; `no stranger→estilo me é íntimo`; `fluffy fiend→patife fofinho`. `garnet→rubi` fixo (`REGRAS_TRADUCAO.md:36`). Bordões: `London's most debonair man`, `devastatingly handsome`, `Every genius needs a muse. Belle is mine!`
+- **Nicola (ニコラ) — Homem do Cochilo (Cap.01→Cap.04 04_025160):** civil irritadiço, não goon; dorme encostado na porta de Midland Road, acorda `Oi! ... kicking down my napping door?`, foge `I can't deal with that hat... I'm out of here`. Cockney civil cansado (`Oi!`, `Oh, not you again...`), sem `Get lost!/numpty`. PT-BR: `Ei!`, `porta do cochilo` (manter invenção), `essa cartola` SEMPRE para `that hat` (foreshadow do pânico à cartola).
 - **Shipley / Butch (ブッチ):** `Evil Layton is holding them captured scientists there` — mensageiro leal de Future Luke / alias Shipley.
 - **Bartender Thames Arms (バーテン):** `Every time he comes in, he's got different gear on... He usually walks in wearing that top hat...` (`Spec/Capitulo_08.md:342`) — observador.
 

@@ -20,15 +20,22 @@
 
 ## Flora Tutoria? Ver `Flora_Reinhold.md`. Aqui: `Flora / Flores (フローレス)` no Prólogo é tutorial lady `Well hello there, you strapping young things! Go and touch that car... Hint coins are tucked away... Ta-ta!` (`Spec/Capitulo_00_Prologo.md:241`+) — mesma atriz, função tutorial.
 
-## David (デビット) — Passerby
-- **Papel:** `You're looking for a clock shop, you say? Hmm. Nah, can't say I know... Help me with this puzzle...and I might be able to remember` (`Spec/Capitulo_00_Prologo.md:267`). Bloqueio clássico Layton.
-- **Registro:** casual `Yeah, until that puzzle gets solved, I don't think I'll be able to remember a thing.`
-- **PT-BR:** `David`, jovem desinteressado.
+## Flawless Florence (フローレス) — Senhora do Ponto (Cap.04 04_025270, presente)
+- **NÃO confundir com Flora:** mesma tag JP do tutorial, mas aqui é `Flawless Florence`, idosa vaidosa do ponto de ônibus. Gag: cobra `thank you` por `hint coins`, explode ao ser chamada `old/elderly` por Luke, pune com enigma, derrete com cavalheirismo de Layton e flerta (`married woman`, `first name`, `Tee hee!`).
+- **Registro:** formal ofendida + melosa: `half-pint! Who are you calling old?`, `Flawless Florence for nothing! fit and nimble as teenager!`, `E-elderly?! Well, I never!`, `teach you lesson old-fashioned way`, `pretty sharp... I'll give you that`, `sweet-talk`, `taken a shine`.
+- **PT-BR — manter gatilho e variedade:** `half-pint→miudinho/pirralho` (DISTINTO de `squirt→baixinho` do David — proibir unificar); `old→velha` + `elderly→idosa` (gatilho duplo obrigatório, mantém lógica da ofensa); `Well, I never!→Ora, essa!` (fixo); `sharp→afiados` (manter metáfora); `sweet-talk→galanteio/cantar` (não `bajular`, que é pejorativo); `taken a shine→causou boa impressão/encantou` (manter `shine` se couber); `paths cross→nossos caminhos se cruzarem` (manter imagem). `cadê meu obrigado?` permitido como brasileirismo cômico só dela. `Tee hee!` manter.
 
-## Moustache-Scarf / Stachenscarfen (ヒゲマフラー)
-- **Papel:** gag recorrente hint coins `Keh heh heh! Don't think I've seen you two whippersnappers before.` (`Spec/Capitulo_00_Prologo.md:287`), depois `Keh heh heh! And how are you doing, boy?... Old Stachenscarfen knows more than you think!` (`Spec/Capitulo_06.md:133`). Em `Spec/Capitulo_04.md:642` auto-batiza `Stachenscarfen`.
-- **Registro:** risada `Keh heh heh!`, `WELL?` gritado, vive perdendo fala.
-- **PT-BR:** manter `Stachenscarfen` + `Keh heh heh!` (não aportuguesar).
+## David (デビット) — Passerby / Bus Aficionado (Cap.04 presente)
+- **Papel:** Prólogo: `You're looking for a clock shop... Help me with this puzzle...` (bloqueio). Cap.04 `04_025260` (presente, contraste temporal): confirma que ônibus ainda circulam (`London still has a bus service?`), fã de `double-deckers`, propõe enigma do ônibus.
+- **Personalidade:** Cap.04 = entusiasta tagarela de ônibus, oposto do futuro sem ônibus. Hiperbólico britânico: `more buses than you can shake a stick at`, `chuffed`, `little number`, `should be a breeze`, `take out for another spin`, `bendy business`.
+- **Registro:** casual caloroso `Hi there, squirt`, `Crikey`, `Well, if you like buses...`, `eh?`
+- **PT-BR — preservar cor de ônibus, não zerar:** `squirt→baixinho` (fixo, distinto de `half-pint` da Florence); `Brilliant!→Brilhante!`; `chuffed→empolgado/animadão` (não só `animado`); `little number→essa belezura/joiazinha`; `breeze→moleza` (fixo, ganho); `spin→dar um giro/test-drive` (manter imagem carro); `double-deckers→dois andares`; `bendy business→sanfonados` (manter técnico com leve deboche). Neutralizar só `shake a stick→que se pode imaginar` (largura + anacronismo).
+- **Contraste:** David presente animado vs futuro sem ônibus — tradução deve soar aliviada, não entediada (inverso do Prólogo).
+
+## Moustache-Scarf / Stachenscarfen (ヒゲマフラー) — Dica Coach (Cap.04 04_025250)
+- **Papel:** gag recorrente hint coins `Keh heh heh! Don't think I've seen you two whippersnappers before.` (`Spec/Capitulo_00_Prologo.md:287`), depois `Keh heh heh! And how are you doing, boy?... Old Stachenscarfen knows more than you think!` (`Spec/Capitulo_06.md:133`). Em `Spec/Capitulo_04.md:642` auto-batiza `Stachenscarfen`. Cap.04 = interrompido ao explicar `picarats`, insiste com enigma.
+- **Registro:** risada `Keh heh heh!`, `WELL?` gritado, vive perdendo fala; jargão puzzle-boy: `stumper`, `crack`, `knocked your socks off`, `playing it cool`, `old mate... eh?`, `top ten`.
+- **PT-BR:** manter `Stachenscarfen` + `Keh heh heh!` (não aportuguesar). **NÃO neutralizar tudo:** `stumper→pedra no sapato/osso duro` (não só `difícil`); `crack→tentar a sorte/de novo` (manter `crack→chance` se couber); `socks off→cair da cadeira/arrancar suspiros` (manter hipérbole corporal); `playing it cool→fingindo indiferença` (proibir `descolado`, anacrônico); `old mate→velho camarada/parceiro` (não só `amigo`); `again business→Que história é essa` (fixo, ganho); `who cares→E daí?` (fixo).
 
 ## Rosetta Stone (ロゼッタ) — Aluna
 - **Papel:** `There you are, Professor L! I see you've cancelled our lecture again... stone relics of Cornwall` (`Spec/Capitulo_05.md:124`), flerte `I'm very much looking forward to our...sessions together.` (`Spec/Capitulo_05.md:144`), antagoniza Luke `I wasn't talking to you, shorty.` / `Listen, pipsqueak... YOU AREN'T!` (`Spec/Capitulo_05.md:336`).
