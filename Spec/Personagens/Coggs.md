@@ -40,6 +40,7 @@ Guardiões do lift/wormhole. No Prólogo vendem relógio gigante como armadilha;
 - **Family:** vítimas coagidas (`Once the Family realised, they forced me to work the clock`).
 
 ## 6. Notas de Tradução PT-BR
+- **Relógio personificado no feminino (REGRA):** onde EN personifica com `she/her/old girl` (`give her a tune-up`, `see her in all her glory`, `keeping the old girl`, `The old girl needs TLC`, `keep the old girl running`, `she's all ready`), PT-BR usa **feminino fixo `a velha máquina / ela`** — não `o velho / ele / relógio`. Âncora: `00_010040` `keeping the old girl → manter a velha máquina`; continuidade obrigatória em `04_025200:69`, `04_025200:257`, `04_025215:63` (`ela está pronta`). Motivos: (1) preserva a personificação afetuosa do artesão; (2) `O velho` é ambíguo (lê-se como o próprio Cogg); (3) `máquina` em PT-BR carrega grandeza/potência adequada ao relógio-wormhole de 100 anos. Onde EN diz neutro `this clock / this thing`, manter `este relógio / isto`.
 - **Normalizar nome:** usar sempre `Jack Cogg` e `Sra. Cogg`; manter `Spring` apenas quando Future Luke fala (apelido), explicar em nota.
 - **Tee hee hoo!** → manter original (risada). Não virar `Hehehe` genérico.
 - **Jack não é `Cog` inglês;** em PT-BR manter `Cogg` (evitar `Dente`).

@@ -39,6 +39,19 @@ Skill para tradução **não-mecânica** de Professor Layton PT-BR. Use ao tradu
    - **Oralidade:** leia **todo texto de personagem** (dublado `<V>` ou não — `レイトン`/`ルーク`/`バートン` etc.; não é narração) em voz alta como o falante do dossiê (idade/classe/estado). Se soar escrito, literal ou não falável, reescreva pelo sentimento antes de revalidar caixa.
 8. **Checklist:** `REGRAS_TRADUCAO.md:6` (enigma 100%, Livro, moeda, Inspetor/Agente, placeholders, 3 linhas, largura real da NFTR com placeholders decodificados, `windows-1252`/`utf-8` sem BOM) + completude e oralidade acima.
 
+## Revisão — contexto (quando já existe `Textos Traduzidos IA`)
+
+Revisão não é retradução: é comparar `Textos Originais` vs `Textos Traduzidos IA` e julgar se a tradução soa estranha **no registro da cena e do falante**. Não use lista fixa de exemplos — infira pelo contexto narrativo e pelo dossiê. Eixos para avaliar:
+
+1. **Registro cerimonial vs. coloquial:** discursos oficiais, apresentações e falas de autoridade exigem formalidade elevada e vocativo cerimonial; diálogos cotidianos exigem naturalidade falada. Se a tradução rebaixa ou eleva o registro em relação ao original e ao dossiê do falante, marque para revisão.
+2. **Tradução literal que soa estranha em PT-BR:** idioms e construções inglesas que, traduzidas palavra a palavra, geram pleonasmo, calque sintático ou sentido mecânico em PT-BR. Julgue pela naturalidade do PT-BR no contexto — não por dicionário — e reescreva com idiom equivalente quando o literal quebrar a fluidez.
+3. **Humor, trocadilho e jogo de palavras:** quando o original usa aliteração, trocadilho ou metáfora humorística, a tradução deve recriar o efeito em PT-BR em vez de neutralizar. Avalie se a graça/ironia se mantém falada em voz alta pelo personagem.
+4. **Gênero gramatical:** em inglês objetos podem ser personificados como `she/her` (`old girl` para relógio, `her` para máquina). Em PT-BR o gênero é gramatical (`relógio` masc., `máquina` fem.). Não preserve o gênero inglês literalmente se gerar ambiguidade com pessoa; escolha o substantivo que mantém a personificação sem confundir referente (ex.: `a velha` só se `máquina` estiver explícita).
+5. **Pleonasmo:** redundância que o original não tem (`convidado não convidado`, `subir para cima`, `ver com os olhos`). Se o PT-BR repete o mesmo traço semântico duas vezes, marque como pleonasmo e reduza ao termo idiomático (`intruso`, `subir`, `ver`).
+6. **Número (singular/plural):** verifique concordância com o original e o glossário. Coletivo/plural inglês (`hint coins`, `scientists`) deve manter número em PT-BR (`moedas de dica`, `cientistas`), salvo genérico singular idiomático. Singular onde o original é plural quebra glossário e sentido.
+
+Em todos os eixos, a fonte de verdade continua sendo o dossiê (`Spec/Personagens/*.md`) + resumo do capítulo. Marque apenas o que destoa do original **e** do registro esperado; não invente correção estilística fora desses critérios.
+
 ## Naturalidade coloquial — jovens e cômicos (sem quebrar época)
 
 Coloquialidade só para quem o dossiê permite. Aplique o **princípio de personalidade** (`sentir → quer provocar → tom`) e consulte o dossiê (`Spec/Personagens/*.md:7`) para registro, bordões e proibições — **não fixe frase na skill; dossiê é a única fonte**. Se o dossiê não autoriza coloquialidade, use forma culta.

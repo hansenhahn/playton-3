@@ -1,7 +1,7 @@
 # Regras de Tradução — Professor Layton PT-BR (Jogo 3)
 
 > **Vale para todo `playton-3/Textos Traduzidos` e deve manter continuidade com `playton-2/LEIA-ME!.txt:1` Release 1.**
-> **Encoding:** `windows-1252` (`playton-2/layton.ini:8`). Nunca salvar como UTF-8 sem BOM — gera `�`.
+> **Encoding:** `utf-8` sem BOM (igual a `layton.ini:8` e aos arquivos em `Textos Originais`). Nunca salvar com BOM — gera `�`.
 > **Preview:** testar sempre em `Previewer/Configs/Screen01.ini` (`fontevent.nftr`, `ScreenNewLine = 16`).
 
 ---
@@ -22,6 +22,7 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 | `hint` | `dica` | `ev_t10.plz.txt:t10_080_100.gds:1` `fancy a hint` → `daria tudo por uma dica` | `pista` |
 | `gentleman` | `cavalheiro` | `ev_t15.plz.txt:t15_020_500.gds:1` `A gentleman never...` → `Um cavalheiro jamais...` | `cavalheiro` com `h`? `cavaleiro` |
 | `Inspector` | `Inspetor` | `m4_2.txt:1` | `Inspector` |
+| `Boss` (título, incl. `Boss Bostro` / `Boss!`) | `Chefe` / `Chefe Bostro` | `02_015100` `Boss Bostro hates kids` → `O Chefe Bostro odeia crianças`; `02_022000` `Boss!` → `Chefe!` | `Boss` residual |
 | `Constable Barton` | `Agente Barton` | `chr_21.txt:1` | `Cabo`, `Constable` |
 | `Professor Layton` | `Professor Layton` | `ide_4.txt:1` | `Prof.` abreviado |
 | `Don Paolo` | `Don Paolo` | `ide_4.txt:1` | `Dom Paulo` |
@@ -30,6 +31,9 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 | `Stylus` | `caneta stylus` / `toque` | `nazo1.plz.txt:n1.dat:1` | `stylus` sozinho, `caneta` |
 | `Good thinking!` | `Bem pensado!` | `nazo1.plz.txt` | `Boa ideia!` |
 | `Excellent work!` | `Bom trabalho!` | `nazo1.plz.txt` | `Excelente!` (reserve para `Brilliant!`) |
+| `hat` (o do Layton, incl. `top hat`, `big hat`) | `cartola` | `01_012040` `matey in the top hat` → `camarada de cartola`; `02_017030` `fine top hat` → `bela cartola` | `chapéu` genérico (só para chapéus que NÃO são o do Layton, ex. `matching hats` dos capangas em `01_012150`) |
+| `cap` / `hat` (o do Luke) | `boné` | `01_012040` `what's wrong with my hat?` (Luke) → `o que há de errado com meu boné?` | `chapéu`, `cartola` |
+| `garnet` (gema-isca do papagaio + enigmas da maleta `n032`/`n218`) | `rubi` | `04_025132` `I always carry a garnet` → `sempre levo um rubi`; `n032` `red garnet` → `rubi vermelho` | `granada` (lê-se explosivo), `grená` (lê-se cor bordô) |
 
 **Regra de ouro:** se o termo aparece em `Mapeamento_Continuidae_Jogo2_Jogo3.md:2`, copie idêntico.
 
@@ -77,7 +81,7 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 
 ## 5. Regras técnicas
 
-- Salvar como `windows-1252` (ver `layton.ini:8`). Commitar com `.gitattributes` `*.plz.txt working-tree-encoding=windows-1252`.
+- Salvar como `utf-8` sem BOM (igual a `layton.ini:8` e aos arquivos em `Textos Originais`).
 - Não deixar `puzzle`, `hint coin`, `Inspector` em inglês no `Textos Traduzidos` — grep deve retornar 0.
 - Manter `...` e `<W>` (pausa) — não remover `<W>` de `ev_t10:t10_030_501.gds:1`.
 
@@ -95,7 +99,7 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 - [ ] **3 linhas por página** (grep `!------------------------------!` conta) — nenhuma página >3
 - [ ] **Nenhuma linha > ~210px** (≈ 34 chars médios; 38 = P95, 44 = máx com `i`/`l`) — `python3 est_width(linha_sem_tags) <= 210` e sem `palavra-\n` hifenizada. Linha com `W`/`M` deve ter ≤32 chars; com `i`/`l` pode até 42. **Tags não contam**
 - [ ] **Toda palavra encaixa inteira** — testar no `Previewer/Screen01` (`Texts.png`); se estourar, reescrever, não forçar quebra
-- [ ] `windows-1252` sem `�`
+- [ ] `utf-8` sem BOM, sem `�`
 
 ---
 
