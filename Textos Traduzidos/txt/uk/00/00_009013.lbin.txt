@@ -2,14 +2,14 @@
 [7117030001000000:000a0000000200000000020b000000]
 フローレス
 !******************************!
-<T><A2/0>Ei, vocês dois! Nada de sair correndo!
-Tenho coisas pra contar!<W>
+<T><A2/0>Ei, vocês dois! Não saiam correndo!
+Tenho coisas para contar!<W>
 Coisas importantes!
 !******************************!
 [7117030004000000:00140000000200000000026a000000]
 フローレス
 !******************************!
-<T><A1/3>Hmph!<W> Ninguém nunca ensinou boas
-maneiras pra vocês?<W> Não se sai andando
-assim no meio da minha explicação!
+<T><A1/3>Hmph!<W> Ninguém lhes ensinou
+boas maneiras?<W> Não podem sair
+andando no meio da minha aula!
 !******************************!
