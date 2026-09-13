@@ -1,0 +1,155 @@
+{
+  "format": "previewer-project",
+  "version": 1,
+  "name": "Playton 3",
+  "encoding": "utf-8",
+  "texts": {
+    "source": "Textos Traduzidos",
+    "original": "Textos Originais"
+  },
+  "fonts": [
+    {
+      "name": "fontevent",
+      "path": "Previewer/Fontes/fontevent.nftr"
+    },
+    {
+      "name": "fontq",
+      "path": "Previewer/Fontes/fontq.nftr"
+    }
+  ],
+  "backgrounds": [
+    {
+      "name": "Chroma",
+      "path": "Previewer/Fundos/Chroma.png"
+    },
+    {
+      "name": "Comments",
+      "path": "Previewer/Fundos/Comments.png"
+    },
+    {
+      "name": "Hints",
+      "path": "Previewer/Fundos/Hints.png"
+    },
+    {
+      "name": "Journal",
+      "path": "Previewer/Fundos/Journal.png"
+    },
+    {
+      "name": "Misteries",
+      "path": "Previewer/Fundos/Misteries.png"
+    },
+    {
+      "name": "Names",
+      "path": "Previewer/Fundos/Names.png"
+    },
+    {
+      "name": "Profile",
+      "path": "Previewer/Fundos/Profile.png"
+    },
+    {
+      "name": "Puzzle",
+      "path": "Previewer/Fundos/Puzzle.png"
+    },
+    {
+      "name": "Texts",
+      "path": "Previewer/Fundos/Texts.png"
+    },
+    {
+      "name": "memo_bg.arc",
+      "path": "Previewer/Fundos/memo_bg.arc.bmp"
+    }
+  ],
+  "screens": [
+    {
+      "name": "Textos Normais",
+      "font": "fontevent",
+      "background": "Texts",
+      "x": 9,
+      "y": 141,
+      "new_line": 16
+    },
+    {
+      "name": "Páginas do Diário",
+      "font": "fontevent",
+      "background": "Journal",
+      "x": 17,
+      "y": 10,
+      "new_line": 15
+    },
+    {
+      "name": "Enigmas",
+      "font": "fontq",
+      "background": "Puzzle",
+      "x": 13,
+      "y": 22,
+      "new_line": 12
+    },
+    {
+      "name": "Comentários",
+      "font": "fontevent",
+      "background": "Comments",
+      "x": 66,
+      "y": 77,
+      "new_line": 15
+    },
+    {
+      "name": "Perfis",
+      "font": "fontq",
+      "background": "Profile",
+      "x": 6,
+      "y": 36,
+      "new_line": 12
+    },
+    {
+      "name": "Nomes",
+      "font": "fontq",
+      "background": "Names",
+      "x": 101,
+      "y": 62,
+      "new_line": 12
+    },
+    {
+      "name": "Mistérios",
+      "font": "fontevent",
+      "background": "Misteries",
+      "x": 17,
+      "y": 45,
+      "new_line": 16
+    },
+    {
+      "name": "Dicas dos Enigmas",
+      "font": "fontq",
+      "background": "Hints",
+      "x": 20,
+      "y": 42,
+      "new_line": 12
+    },
+    {
+      "name": "Fundo Verde",
+      "font": "fontevent",
+      "background": "Chroma",
+      "x": 9,
+      "y": 141,
+      "new_line": 16
+    }
+  ],
+  "tags": [
+    "^<.*?><.*?>.*?<.*?>.*?<.*?><.*?>",
+    "<.*?>",
+    "&.*?&"
+  ],
+  "matches": [
+    "^\\[.+\\]$",
+    "^!\\D{30}!$",
+    "^<.*?><.*?>.*?<.*?>.*?<.*?><.*?>$",
+    "^<.*?><.*?><.*?><.*?><.*?><.*?><.*?><.*?><.*?><.*?><.*?><.*?>$"
+  ],
+  "segments": {
+    "start": [
+      "^\\[.+\\]$"
+    ],
+    "end": [
+      "^!\\D{30}!$"
+    ]
+  }
+}
