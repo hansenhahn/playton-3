@@ -7,14 +7,14 @@
 [7117030004000000:000a00000002000000000233000000]
 披露会場司会者
 !******************************!
-<T><V0011>Obrigado por fazerem parte de
-um evento que, sem dúvida, entrará
-para a história da ciência.</V>
+<T><V0011>Obrigado por participarem de um
+evento que sem dúvida entrará para
+a história da ciência.</V>
 !******************************!
 [7117030007000000:000a0000000200000000029c000000]
 披露会場司会者
 !******************************!
-<V0020><T>E aqui está, para demonstrar a primeira
+<V0020><T>E para demonstrar a primeira
 máquina do tempo da humanidade,
 seu criador, Dr. Alain Stahngun!</V>
 !******************************!
@@ -26,29 +26,29 @@ seu criador, Dr. Alain Stahngun!</V>
 [711703000d000000:001400000002020100000244010000]
 変装ディミトリー
 !******************************!
-<T><V0041><A4/5>Após anos de pesquisa no campo da
-viagem no tempo, tenho o prazer de
-compartilhar os frutos desse trabalho.</V>
+<T><V0041><A4/5>Após anos de pesquisa em viagem
+no tempo, tenho o prazer de
+compartilhar os frutos do meu trabalho.</V>
 !******************************!
 [7117030010000000:0014000000020201000002bc010000]
 変装ディミトリー
 !******************************!
-<V0050><T><A3/2>Dentro de instantes, darei início
-à demonstração programada.</V>
+<V0050><T><A3/2>Em poucos instantes, seguiremos
+para a demonstração programada.</V>
 !******************************!
 [7117030013000000:001400000002020100000221020000]
 変装ディミトリー
 !******************************!
-<V0060><T><A1/1>Mas antes, é com grande alegria que
-anuncio a presença do Primeiro-Ministro
-Bill Hawks entre nós.</V>
+ <V0060><T><A1/1>Mas antes, é com grande alegria
+que anuncio que o Primeiro-Ministro
+Bill Hawks está presente hoje.</V>
 !******************************!
 [7117030016000000:001400000002020100000292020000]
 変装ディミトリー
 !******************************!
-<T><V0061>Para tal ocasião, reservei um lugar
-muito especial para nosso ilustre
-convidado.</V>
+<T><V0061>Assim, reservei um assento muito
+especial para nosso convidado
+muito especial.</V>
 !******************************!
 [7117030019000000:0014000000020201000002e9020000]
 変装ディミトリー
@@ -59,7 +59,7 @@ Primeiro-Ministro.<W> Não seja tímido!</V>
 [711703001c000000:001e00000002360300000243030000]
 ビル・ホーク
 !******************************!
-<V0080><T><A1/1>Esta coisa é mesmo real?</V>
+<V0080><T><A1/1>Isto é de verdade?</V>
 !******************************!
 [711703001f000000:001e0000000202010000026b030000]
 変装ディミトリー
@@ -69,21 +69,21 @@ Primeiro-Ministro.<W> Não seja tímido!</V>
 [7117030022000000:001e0000000236030000028b030000]
 ビル・ホーク
 !******************************!
-<V0100><T><A2/3>Quero dizer... essa engenhoca
-é mesmo uma máquina do tempo
-de verdade?</V>
+<V0100><T><A2/3>Quero dizer, este aparelho é uma
+máquina do tempo genuína e
+funcional?</V>
 !******************************!
 [7117030025000000:001e000000020201000002dc030000]
 変装ディミトリー
 !******************************!
-<V0110><T><A2/5>Por que não se senta e descobre
+<V0110><T><A2/5>Por que não se senta e confere
 por si mesmo?</V>
 !******************************!
 [7117030028000000:002800000002000000000220040000]
 披露会場司会者
 !******************************!
-<V0120><T>Antes de começarmos, poderia
-nos honrar com algumas palavras,
+<V0120><T>Antes de começar, nos honraria
+com algumas palavras,
 Primeiro-Ministro?</V>
 !******************************!
 [711703002b000000:003200000002360300000275040000]
@@ -94,42 +94,43 @@ Primeiro-Ministro?</V>
 [711703002e000000:0032000000023603000002a3040000]
 ビル・ホーク
 !******************************!
-<T><V0131>Hoje é um dia monumental, não só
+<T><V0131>Hoje é um dia monumental não só
 para nossa grande nação, mas para
 toda a humanidade.</V>
 !******************************!
 [7117030031000000:003200000002360300000209050000]
 ビル・ホーク
 !******************************!
-<V0150><T><A1/2>Desde o princípio dos tempos,
-nós, humanos, buscamos ultrapassar
-nossos limites naturais.</V>
+<V0150><T><A1/2>Desde o início dos tempos, nós,
+humanos, nos esforçamos para
+superar nossos limites naturais.</V>
 !******************************!
 [7117030034000000:003200000002360300000272050000]
 ビル・ホーク
 !******************************!
-<T><V0151>Nós conquistamos os céus e os mares,
-e até mesmo viajamos ao espaço.</V>
+<T><V0151>Conquistamos os céus e os mares,
+e até viajamos ao espaço
+exterior.</V>
 !******************************!
 [7117030037000000:0032000000023603000002d5050000]
 ビル・ホーク
 !******************************!
 <V0160><T><A1/1>Mas a única fronteira que sempre
-nos escapou foi o tempo.</V>
+nos escapou é o tempo.</V>
 !******************************!
 [711703003a000000:003200000002360300000221060000]
 ビル・ホーク
 !******************************!
-<T><V0161>De fato, viajar no tempo é um sonho
-que muitos julgavam inalcançável
-para a humanidade...<A1/2> até agora.</V>
+<T><V0161>De fato, viajar no tempo é um
+sonho que muitos julgavam fora do
+alcance da humanidade...<A1/2>até agora.</V>
 !******************************!
 [711703003d000000:003200000002360300000298060000]
 ビル・ホーク
 !******************************!
 <V0170><T><A2/2>Senhoras e senhores, espero que
-se juntem a mim na inauguração
-de uma nova era para a humanidade!</V>
+se juntem a mim para inaugurar
+uma nova era para a humanidade!</V>
 !******************************!
 [7117030040000000:003c00000002000000000200070000]
 披露会場司会者
@@ -140,20 +141,20 @@ Primeiro-Ministro.</V>
 [7117030043000000:003c00000002000000000239070000]
 披露会場司会者
 !******************************!
-<V0200><T>E agora, o momento que todos
-aguardavam!<W2> A palavra é sua,
+<V0200><T>E agora o momento que todos
+esperavam!<W2> Com você,
 Dr. Stahngun!</V>
 !******************************!
 [7117030046000000:0046000000020201000002a1070000]
 変装ディミトリー
 !******************************!
-<V0210><T><A1/1>Tenho apenas mais um pedido
+<V0210><T><A1/1>Tenho só mais um pedido
 antes de começarmos.</V>
 !******************************!
 [7117030049000000:0046000000020201000002e3070000]
 変装ディミトリー
 !******************************!
-<T><V0211><A3/2>Gostaria muito da ajuda do
+<T><V0211><A3/2>Eu apreciaria muito a ajuda do
 Primeiro-Ministro nesta
 demonstração.</V>
 !******************************!
@@ -165,67 +166,67 @@ demonstração.</V>
 [711703004f000000:00460000000236030000027c080000]
 ビル・ホーク
 !******************************!
-<V0230><T><A2/3>O-o quê?!</V>
+<V0230><T><A2/3>Qu-quê?!</V>
 !******************************!
 [7117030052000000:00460000000202010000029a080000]
 変装ディミトリー
 !******************************!
-<V0250><T><A4/5>Por favor, pode ter certeza de que
-não há motivo para preocupação.</V>
+<V0250><T><A4/5>Garanto que não há motivo
+para preocupação.</V>
 !******************************!
 [7117030055000000:0046000000023603000002da080000]
 ビル・ホーク
 !******************************!
-<V0260><T><A1/5>Mas achei que estaria aqui apenas como
-um mero espectador deste evento...</V>
+<V0260><T><A1/5>Mas eu achei que apenas
+observaria os procedimentos...</V>
 !******************************!
 [7117030058000000:004600000002020100000241090000]
 変装ディミトリー
 !******************************!
-<V0270><T><A3/2>Ah, bem, perdoe minha presunção.
-Jamais quis colocá-lo em uma situação
+<V0270><T><A3/2>Ah, perdoe minha presunção.
+Nunca foi minha intenção deixá-lo
 desconfortável.</V>
 !******************************!
 [711703005b000000:0046000000020201000002a9090000]
 変装ディミトリー
 !******************************!
-<V0280><T><A4/5>Sei que faz tempo desde que o senhor
+<V0280><T><A4/5>Sei que faz tempo desde que
 trocou as ciências exatas pelas
 ciências sociais.</V>
 !******************************!
 [711703005e000000:0046000000020201000002190a0000]
 変装ディミトリー
 !******************************!
-<T><V0281>Sinta-se à vontade para retornar
-ao seu assento, Primeiro-Ministro.</V>
+<T><V0281>Fique à vontade para voltar ao seu
+assento, Primeiro-Ministro.</V>
 !******************************!
 [7117030061000000:0046000000023603000002600a0000]
 ビル・ホーク
 !******************************!
-<V0290><T><A2/3>Espere!<W> <A2/5>Quero dizer, é claro
-que posso ajudá-lo.</V>
+<V0290><T><A2/3>Espere!<W> <A2/5>Quero dizer, claro que
+posso ajudá-lo.</V>
 !******************************!
 [7117030064000000:005000000002b60a000002c70a0000]
 カレリナ首相夫人
 !******************************!
-<V0320><T><A2/5>Bill! Você enlouqueceu?!</V>
+<V0320><T><A2/5>Bill! Você perdeu o juízo?!</V>
 !******************************!
 [7117030067000000:005a000000020201000002fb0a0000]
 変装ディミトリー
 !******************************!
-<V0330><T><A3/2>Ah, essa é a coragem que
-esperamos de nosso líder destemido.
-Você tem minha gratidão.</V>
+<V0330><T><A3/2>Ah, esta é a coragem que esperamos
+de nosso destemido líder.
+Meus agradecimentos.</V>
 !******************************!
 [711703006a000000:005a000000020201000002690b0000]
 変装ディミトリー
 !******************************!
 <V0340><T><A3/2>E agora, sem mais delongas,
-apresento-lhes minha máquina do tempo!</V>
+apresento minha máquina do tempo!</V>
 !******************************!
 [711703006d000000:005a000000020201000002b70b0000]
 変装ディミトリー
 !******************************!
-<T><V0341>Sr. Hawks, poderia dar apenas
-um passo adiante e entrar?</V>
+<T><V0341>Sr. Hawks, poderia entrar,
+por gentileza?</V>
 !******************************!

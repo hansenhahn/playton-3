@@ -2,50 +2,49 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/1>Pra onde o senhor acha que
-essas escadas levam, Professor?
+<T><A3/1>Para onde acha que estas escadas
+levam, Professor?
 !******************************!
 [7117030004000000:000a0000000244000000024d000000]
 レイトン
 !******************************!
-<T>Eu diria que provavelmente levam
-até aquela fileira encantadora de
-casas vitorianas.
+<T>Diria que levam àquela fileira de
+charmosas casas vitorianas.
 !******************************!
 [7117030007000000:000a00000002440000000298000000]
 レイトン
 !******************************!
-<T><A1/2>Aliás, Luke, toda essa conversa sobre
-escadas me fez lembrar de um enigma.
-Gostaria de ouvi-lo?
+<T><A1/2>Diga, Luke, toda esta conversa de
+escadas me lembrou de um enigma.
+Quer ouvir?
 !******************************!
 [711703000a000000:000a000000020000000002f2000000]
 ルーク
 !******************************!
-<T><A3/2>Mas é claro!
+<T><A3/2>Claro que quero!
 !******************************!
 [711703000d000000:00e803000002000000000209010000]
 ルーク
 !******************************!
-<T><A4/4>Quer saber? Acho que não tô
-no clima pra um enigma agora.
+<T><A4/4>Acho que não estou com vontade de
+enigma no momento.
 !******************************!
 [7117030010000000:00d007000002440000000248010000]
 レイトン
 !******************************!
-<T>Vamos tentar resolver aquele enigma
-das escadas mais uma vez.
+<T>Vamos tentar aquele enigma das
+escadas de novo.
 !******************************!
 [7117030013000000:00b80b000002440000000275010000]
 レイトン
 !******************************!
-<T>Pensamento exemplar, Luke.
-Agora vamos retomar nosso caminho.
+<T>Pensamento exemplar, Luke. Agora
+vamos voltar ao foco.
 !******************************!
 [7117030016000000:00a00f0000024400000002af010000]
 レイトン
 !******************************!
 <T>Provavelmente não há relojoarias
-numa área residencial tranquila
-como essa.
+numa área residencial calma
+como esta.
 !******************************!

@@ -2,45 +2,45 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/5>Ah, não! Ele se desfez todinho!
+<T><A1/5>Ah não! Desmontou por completo!
 !******************************!
 [7117030004000000:000a000000022b0000000236000000]
 フローレス
 !******************************!
-<T>Não se preocupe com isso! Você viu
-a moedinha que saiu voando?<W>
-É uma moeda de dica, e agora é sua!
+<T>Deixe isso para lá! Viu a moeda
+que saltou?<W> É uma moeda de dica,
+e é sua.
 !******************************!
 [7117030007000000:000a000000022b00000002a4000000]
 フローレス
 !******************************!
-<T>Sempre que você ficar empacado num
-enigma, é só gastar uma dessas moedinhas
-lindas pra receber uma dica.
+<T>Se ficar preso num enigma, pode
+gastar uma dessas lindas moedas
+para obter uma dica.
 !******************************!
 [711703000a000000:000a000000022b000000020b010000]
 フローレス
 !******************************!
-<T>Mas lembre-se de que o número de moedas
-de dica que você pode achar é limitado.
+<T>Lembre-se de que há um limite de
+moedas de dica que pode encontrar.
 !******************************!
 [711703000d000000:000a000000022b000000025b010000]
 フローレス
 !******************************!
-<T>Se sair usando à toa, pode acabar
-em apuros depois, hein?
+<T>Se gastá-las sem pensar, pode
+ficar em apuros depois.
 !******************************!
 [7117030010000000:000a000000022b00000002a4010000]
 フローレス
 !******************************!
-<T>As moedas de dica estão escondidas por
-aí, então toque em qualquer coisa
-suspeita. Vai que tem uma moeda lá!
+<T>Moedas de dica ficam escondidas por
+toda parte, então toque em tudo
+que parecer suspeito. Pode achar uma!
 !******************************!
 [7117030013000000:000a000000022b0000000211020000]
 フローレス
 !******************************!
-<T>Bom, era isso que eu tinha pra dizer.<W>
-Boa sorte com o que quer que vocês
-estejam aprontando por aqui.<W> Tchauzinho!
+<T>Bem, fim do meu discurso. <W>Boa
+sorte no que quer que estejam
+fazendo por aqui.<W> Até logo!
 !******************************!

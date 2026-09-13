@@ -2,15 +2,15 @@
 [7117030001000000:000a0000000200000000020b000000]
 OPルーク３
 !******************************!
-<V0010><T>Então você acha que o que aconteceu
-semana passada está de alguma forma
-ligado a esta carta...</V>
+<V0010><T>Então acha que o que aconteceu
+semana passada tem ligação com
+esta carta...</V>
 !******************************!
 [7117030004000000:000a0000000200000000026b000000]
 OPルーク３
 !******************************!
-<V0020><T>Espere! Se a máquina do tempo era real,
-talvez esta carta seja real também!</V>
+<V0020><T>Espere! Se a máquina do tempo era
+real, esta carta também pode ser!</V>
 !******************************!
 [7117030007000000:000f00000002bd00000002ca000000]
 OPレイトン３
@@ -22,35 +22,34 @@ mistérios.</V>
 [711703000a000000:000f00000002bd0000000229010000]
 OPレイトン３
 !******************************!
-<T><V0031>Diga-me, Luke, você ouviu falar
-dos desaparecimentos recentes
-aqui em Londres?</V>
+<T><V0031>Diga-me, Luke, ouviu falar dos
+recentes desaparecimentos
+ocorridos aqui em Londres?</V>
 !******************************!
 [711703000d000000:00140000000200000000028f010000]
 OPルーク３
 !******************************!
-<V0040><T>Ah, sim. Li sobre isso no jornal.</V>
+<V0040><T>Ah sim, li no jornal.</V>
 !******************************!
 [7117030010000000:0014000000020000000002c3010000]
 OPルーク３
 !******************************!
 <T><V0041>Alguns dos maiores cientistas de
-Londres têm desaparecido
+Londres vêm desaparecendo
 misteriosamente.</V>
 !******************************!
 [7117030013000000:001400000002bd0000000218020000]
 OPレイトン３
 !******************************!
-<V0050><T>Sim, e não consigo tirar da cabeça
-que esses desaparecimentos estão
-ligados a todo esse caso.</V>
+<V0050><T>Sim, e não consigo afastar a
+sensação de que esses sumiços
+estão ligados a todo este caso.</V>
 !******************************!
 [7117030016000000:001e00000002bd0000000284020000]
 OPレイトン３
 !******************************!
-<V0060><T>De qualquer forma, parece que o
-melhor a fazer é irmos até o
-local mencionado na carta.</V>
+<V0060><T>De todo modo, o melhor a fazer
+é ir ao local mencionado na carta.</V>
 !******************************!
 [7117030019000000:001e000000020000000002f6020000]
 OPルーク３
