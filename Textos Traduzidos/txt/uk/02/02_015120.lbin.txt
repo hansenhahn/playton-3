@@ -2,30 +2,31 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Oi, Max. Você sabe onde fica
+<T>Oi, Max. Sabe onde é
 o Cassino Gilded 7?
 !******************************!
 [7117030004000000:000a000000023e0000000247000000]
 マックス
 !******************************!
 <T><A3/0>BZZT!<W> <A2/5>Meu pai diz que cassino
-não é lugar pra criança. A gente
-nem devia falar disso!
+não é lugar pra criança.
+Nem devíamos falar disso.
 !******************************!
 [7117030007000000:000a000000020000000002bf000000]
 ルーク
 !******************************!
-<T>Mas você sabe onde fica, né?
+<T>Mas você sabe onde é?
 !******************************!
 [711703000a000000:000a000000023e00000002df000000]
 マックス
 !******************************!
-<T><A1/1>DING DING DING!<W> Correto!<W> Mas não
-posso contar. Meu pai me mataria!
+<T><A1/1>DING DING DING!<W> Certo!<W> Mas
+não posso contar. Meu pai
+me mataria!
 !******************************!
 [711703000d000000:000a000000023e0000000233010000]
 マックス
 !******************************!
-<T>Talvez a Becky saiba. Tenta
-perguntar pra ela!
+<T>Mas a Becky pode contar.
+Pergunte a ela!
 !******************************!

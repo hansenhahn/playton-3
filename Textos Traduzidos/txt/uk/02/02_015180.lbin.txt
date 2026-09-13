@@ -2,13 +2,12 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Olha! O sujeito que estava
+<T>Olhe. O sujeito que estava
 de guarda ali sumiu.
 !******************************!
 [7117030004000000:000a0000000246000000024f000000]
 レイトン
 !******************************!
-<T>Parece que o palpite da
-Becky foi certeiro.<W>
-Vamos seguir para o norte.
+<T>Parece que o palpite de Becky
+estava certo.<W> Sigamos ao norte.
 !******************************!

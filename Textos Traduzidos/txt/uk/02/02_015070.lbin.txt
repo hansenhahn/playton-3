@@ -2,55 +2,58 @@
 [7117030001000000:000a00000002000000000211000000]
 クローンマフィア
 !******************************!
-<T>Você tem exatamente cinco
-segundos pra parar de me encarar,
-garoto.<W> Um...<W> Dois...
+<T>Cê tem exatamente
+cinco segundos pra parar
+de encarar, moleque.<W> Um...<W> Dois...
 !******************************!
 [7117030004000000:000a000000025e0000000265000000]
 ルーク
 !******************************!
-<T><A1/6>D-desculpa, senhor!
+<T><A1/6>E-eu sinto muito, senhor!
 !******************************!
 [7117030007000000:00140000000285000000028e000000]
 レイトン
 !******************************!
-<T>Pelo visto, isso não deu muito
-certo, Luke?
+<T>Pelo visto não correu
+muito bem, Luke?
 !******************************!
 [711703000a000000:0014000000025e00000002ba000000]
 ルーク
 !******************************!
-<T><A1/3>Vamos perguntar a outra pessoa,
-Professor. Não dá nem pra olhar
-pra ele sem levar bronca!
+<T><A1/3>Vamos perguntar a outro,
+Professor. Nem posso olhar
+para ele que ele rosna comigo.
 !******************************!
 [711703000d000000:001400000002850000000220010000]
 レイトン
 !******************************!
-<T><A1/2>E eu que sempre achei que você
-tinha talento pra lidar com
-animais selvagens! Ha ha!
+<T><A1/2>E eu que achava que você
+tinha talento para se comunicar
+com animais selvagens! Ha ha!
 !******************************!
 [7117030010000000:0014000000025e0000000282010000]
 ルーク
 !******************************!
-<T><A1/5>Não ri disso, Professor!<W> Aquele
-cara dava medo!
+<T><A1/5>Não ria, Professor!<W> Aquele
+homem era assustador!
 !******************************!
 [7117030013000000:0014000000028500000002ba010000]
 レイトン
 !******************************!
-<T>Ora, não fique emburrado. Eu só
-quis aliviar um pouco o clima.
+<T>Ora, ora, não faça
+essa cara. Só tentei
+aliviar o clima.
 !******************************!
 [7117030016000000:00140000000285000000020a020000]
 レイトン
-<T>Que tal procurarmos outra pessoa
-pra nos ajudar?
+!******************************!
+<T>Que tal procurarmos outra
+pessoa para nos ajudar?
 !******************************!
 [7117030019000000:001e00000002000000000238020000]
 クローンマフィア
 !******************************!
-<T>Eu não mandei parar de me encarar?!<W>
-Agora sai da minha frente!
+<T>Achei que mandei parar de
+encarar?!<W> Vaza da
+minha frente!
 !******************************!

@@ -2,12 +2,13 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Ei, para onde foi o Dr. Schrader?
+<T>Ei, onde foi parar
+o Dr. Schrader?
 !******************************!
 [7117030004000000:000a00000002290000000232000000]
 レイトン
 !******************************!
-<T>Bem, nossa visita pareceu deixá-lo
-de ótimo humor. Talvez tenha saído
-para dar uma volta.
+<T>Bem, nossa visita pareceu
+animá-lo. Talvez tenha
+saído para passear.
 !******************************!
