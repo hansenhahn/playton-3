@@ -2,54 +2,52 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Ora... parece ser o meu
-querido Laytonmóvel.
+<T>Ora... parece ser minha
+amada Laytonmobile.
 !******************************!
 [7117030004000000:000a000000023c0000000243000000]
 ルーク
 !******************************!
-<T>Foi o que pensei também.<W>
-Afinal, nunca vi outro carro
-com um formato tão estranho.
+<T>Também achei.<W> Afinal, nunca
+vi ninguém com um carro tão
+engraçado quanto esse.
 !******************************!
 [7117030007000000:000a000000020000000002aa000000]
 レイトン
 !******************************!
-<T>Formato estranho?<W> Saiba
-que este é um clássico,
-meu caro rapaz.
+<T>Engraçado?<W> Saiba que isto é
+um clássico, meu jovem.
 !******************************!
 [711703000a000000:000a000000023c00000002f6000000]
 ルーク
 !******************************!
-<T>Pela quantidade de poeira
-e sujeira, deve ser mesmo.
+<T>Julgando pela poeira e sujeira
+em cima, deve ser mesmo.
 !******************************!
 [711703000d000000:000a000000023c000000022d010000]
 ルーク
 !******************************!
-<T>Não parece que alguém
-tenha cuidado do seu carro
-enquanto ficou aqui, Professor.
+<T>Não parece que alguém tenha
+cuidado do seu carro enquanto
+ficou estacionado aqui, Professor.
 !******************************!
 [7117030010000000:000a00000002000000000297010000]
 レイトン
 !******************************!
-<T>De fato.<W><A3/1> Ele parece ter
-ficado exposto às interpéries
-por um bom tempo.
+<T>De fato.<W><A3/1> Parece exposto
+ao relento por bastante tempo.
 !******************************!
 [7117030013000000:000a000000023c00000002f4010000]
 ルーク
 !******************************!
-<T><A3/2>Por que não vemos se ele
-ainda funciona? Assim não
-vamos mais depender do trem.
+<T><A3/2>Por que não vemos se ainda
+funciona? Não vamos mais
+precisar do trem se funcionar.
 !******************************!
 [7117030016000000:000a00000002000000000259020000]
 レイトン
 !******************************!
-<T>É uma excelente sugestão,
+<T>Essa é uma excelente sugestão,
 Luke.<W></T> <TW><K>Hmm?
 !******************************!
 [7117030019000000:000a000000023c0000000295020000]
@@ -61,22 +59,22 @@ Luke.<W></T> <TW><K>Hmm?
 レイトン
 !******************************!
 <T><A1/1>Alguém instalou uma fechadura
-bem peculiar na porta. Quem
-teria feito algo assim?
+estranha na porta. Quem
+teria feito isso?
 !******************************!
 [711703001f000000:00e803000002000000000216030000]
 レイトン
 !******************************!
-<T>O Laytonmóvel não vai
-a lugar algum enquanto
-não abrirmos essa fechadura.
+<T>A Laytonmobile não vai a
+lugar nenhum sem abrirmos
+esta fechadura.
 !******************************!
 [7117030022000000:00d007000002000000000259030000]
 レイトン
 !******************************!
-<T>Vamos abrir essa fechadura
-irritante para tentar ligar
-o automóvel.
+<T>Vamos abrir esta fechadura
+irritante para tentarmos
+ligar o carro.
 !******************************!
 [7117030025000000:00b80b00000200000000029f030000]
 レイトン
@@ -86,6 +84,5 @@ o automóvel.
 [7117030028000000:00c20b0000023c00000002c9030000]
 ルーク
 !******************************!
-<T>Isso aí! Ligue o carro,
-Professor!
+<T>Muito bem! Ligue ela, Professor!
 !******************************!

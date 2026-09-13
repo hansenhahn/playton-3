@@ -2,14 +2,14 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Não quer dar uma passada no
-restaurante que a Becky indicou,
-Professor?
+<T>Não quer dar uma olhada no
+restaurante que a Becky
+recomendou, Professor?
 !******************************!
 [7117030004000000:000a00000002580000000261000000]
 レイトン
 !******************************!
-<T>Ah, é verdade. Isso me escapou
-completamente. Vamos comer algo
-antes de seguir para a estação.
+<T>Ah, sim. Tinha me esquecido
+completamente. Vamos passar
+lá antes de ir à estação.
 !******************************!

@@ -2,8 +2,8 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Bem, isso foi fácil.<W> Olha,
-Professor. Estamos a poucos
+<T>Até que foi fácil.<W> Olhe,
+Professor, estamos a poucos
 passos do hospital.
 !******************************!
 [7117030004000000:000a00000002690000000272000000]

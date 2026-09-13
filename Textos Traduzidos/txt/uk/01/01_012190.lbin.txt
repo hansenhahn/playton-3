@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Parece que preciso escolher
-o destino.<W> Onde fica o botão
-da estação Auckland Lane?
+<T>Parece que preciso escolher um
+destino.<W> Onde fica o botão
+da Estação Auckland Lane?
 !******************************!

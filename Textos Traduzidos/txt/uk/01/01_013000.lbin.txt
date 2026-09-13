@@ -13,45 +13,46 @@ E o pequeno Luke!</V>
 [7117030007000000:000a00000002000000000276000000]
 未来シュレーダー
 !******************************!
-<V0030><T>Hmm? Por que essa cara,
-Hershel? Será que fiquei com
-comida na barba outra vez?</V>
+<V0030><T>Hmm? Por que essa cara de
+espanto, Hershel? Será que
+estou com comida na barba de novo?</V>
 !******************************!
 [711703000a000000:000a000000020000000002cd000000]
 未来シュレーダー
 !******************************!
-<T><V0031>Ah, não ligue pra isso, meu
-rapaz. Sente-se, sente-se!</V>
+<T><V0031>Ah, não se preocupe com isso,
+meu rapaz. Sente-se, sente-se!</V>
 !******************************!
 [711703000d000000:000a0000000200000000020c010000]
 未来シュレーダー
 !******************************!
-<V0040><T>Sabe, tenho ouvido alguns
-boatos bem desagradáveis sobre
-você ultimamente.</V>
+<V0040><T>Sabe, andei ouvindo uns rumores
+bem desagradáveis sobre você
+ultimamente.</V>
 !******************************!
 [7117030010000000:000a00000002000000000266010000]
 未来シュレーダー
 !******************************!
-<T><V0041>Mas não acredito em nenhum
-deles!</V>
+<T><V0041>Mas não acredito em
+nenhum deles!</V>
 !******************************!
 [7117030013000000:000a0000000256000000029e010000]
 レイトン
 !******************************!
-<V0050><T>Que tipo de boatos?</V>
+<V0050><T>Que tipo de rumores
+desagradáveis?</V>
 !******************************!
 [7117030016000000:000a000000020000000002cc010000]
 未来シュレーダー
 !******************************!
-<V0060><T>Que tipo, você pergunta? Aqueles
-sobre o troço-lá. O negócio-que-
-faz-coisas. O... Ah, droga.</V>
+<V0060><T>Que tipos, você pergunta? Aqueles
+sobre o treco... o negócio...
+o... Ah, droga.</V>
 !******************************!
 [7117030019000000:000a00000002000000000236020000]
 未来シュレーダー
 !******************************!
 <T><V0061>Parece que esqueci tudo
-completamente.<W> Bem, deixe isso
-pra lá.</V>
+completamente.<W> Bem, deixe
+para lá então.</V>
 !******************************!
