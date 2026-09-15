@@ -2,18 +2,17 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Uau! Isso sim é um cassino!
+<T>Nossa! Isso sim é um cassino!
 !******************************!
 [7117030004000000:000a0000000224000000022d000000]
 レイトン
 !******************************!
-<T>Acho que podemos dizer com
-segurança que encontramos
-o Gilded 7.
+<T>Creio ser seguro dizer que
+encontramos o Gilded 7.
 !******************************!
 [7117030007000000:000a00000002000000000268000000]
 ルーク
 !******************************!
-<T>Mal posso esperar para ver isso
-de perto!
+<T>Mal posso esperar para ver
+como é de perto!
 !******************************!

@@ -2,24 +2,26 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Aqui estamos, de volta à
-Flatstone Street.
+<T>Aqui estamos, de volta
+à Flatstone Street.
 !******************************!
 [7117030004000000:000a0000000233000000023a000000]
 ルーク
 !******************************!
-<T><A2/1>É, mas não vejo nada por aqui
-que pareça um cassino.
+<T><A2/1>Sim, mas não vejo nada
+por aqui parecido com
+um cassino.
 !******************************!
 [7117030007000000:000a00000002000000000287000000]
 レイトン
 !******************************!
-<T>Acho que o melhor é perguntarmos
-a alguém da região.
+<T>Acho melhor perguntarmos
+a um morador.
 !******************************!
 [711703000a000000:000a000000023300000002b8000000]
 ルーク
 !******************************!
-<T><A3/1>Olha! Tem alguém ali pra gente
-perguntar! Espera aqui, Professor.
+<T><A3/1>Olhe! Tem alguém
+para perguntar! Espere
+aqui, Professor.
 !******************************!

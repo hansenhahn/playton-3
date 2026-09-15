@@ -2,22 +2,22 @@
 [7117030001000000:000a00000002000000000209000000]
 マックス
 !******************************!
-Ei, escuta essa! Outro dia acabei
-topando com um enigma genial.
-Quer ouvir?
+<T>Ei, escute só! Encontrei um
+enigma brilhante outro dia. Quer
+ouvir?
 !******************************!
 [7117030004000000:000a00000002620000000269000000]
 ルーク
 !******************************!
-<T>Um enigma novo, é?<W> Onde você
-achou isso, Max?
+<T>Um enigma novo, é?<W> Onde
+você o encontrou, Max?
 !******************************!
 [7117030007000000:000a0000000200000000029b000000]
 マックス
 !******************************!
-<T>Segredo. Mas se resolver o
-enigma, eu conto.<W> E então,
-quer tentar?
+<T>É segredo. Mas se resolver
+o enigma, eu te conto.<W> O que
+acha? Quer tentar?
 !******************************!
 [711703000a000000:000a000000026200000002fd000000]
 ルーク
@@ -27,15 +27,15 @@ quer tentar?
 [711703000d000000:00e803000002000000000206010000]
 マックス
 !******************************!
-<T><A3/0>BZZT!<W> <A2/3>Resposta errada!<W> Que
-pena. Eu tinha um baita segredo
-pra contar, sabia?
+<T><A3/0>BZZT!<W> <A2/3>Resposta inválida!<W> Que pena.
+Tenho um grande segredo para
+contar se acertar, sabia.
 !******************************!
 [7117030010000000:00d00700000200000000027c010000]
 マックス
 !******************************!
-<T>Se vencer esse enigma, eu te
-conto algo bem legal!
+<T>Se resolver este enigma, vou
+te contar algo muito legal!
 !******************************!
 [7117030013000000:00b80b0000020000000002c1010000]
 マックス
@@ -45,51 +45,53 @@ conto algo bem legal!
 [7117030016000000:00b80b0000026200000002e0010000]
 ルーク
 !******************************!
-<T>Então, onde você achou esse
+<T>Então, onde encontrou aquele
 enigma legal? Vai me contar
-agora, né?
+agora, não vai?
 !******************************!
 [7117030019000000:00b80b000002000000000236020000]
 マックス
 !******************************!
-<T><A1/2>DING DING DING!<W> Certo!<W> Achei
-tocando num lugar suspeito.
+<T><A1/2>DING DING DING!<W> Correto!<W>
+Encontrei ao tocar num ponto
+de aparência suspeita.
 !******************************!
 [711703001c000000:00b80b000002620000000290020000]
 ルーク
 !******************************!
-<T>Um lugar suspeito?
+<T>Um ponto de aparência suspeita?
 !******************************!
 [711703001f000000:00b80b0000020000000002ae020000]
 マックス
 !******************************!
-<T>DING DING DING!<W> Isso! Se algo
-parecer estranho, dá uma cutucada.
+<T>DING DING DING!<W> É, se algo
+parecer meio suspeito, é só
+dar uma cutucada.
 !******************************!
 [7117030022000000:00b80b00000200000000020b030000]
 マックス
 !******************************!
-<T>Com sorte, pode surgir uma moeda
-de dica ou até um enigma do nada!
+<T>Com sorte, uma moeda de dica ou
+um enigma vai surgir do nada!
 !******************************!
 [7117030025000000:00b80b000002620000000252030000]
 ルーク
 !******************************!
-<T>Uau!<W> Isso é incrível!
+<T>Nossa!<W> Que incrível!
 !******************************!
 [7117030028000000:00b80b00000200000000026d030000]
 マックス
 !******************************!
-<T>É, mas tem que ter olho afiado.
-Essas coisas escondidas podem
+<T>É. Mas é preciso ter olho vivo.
+Esses itens escondidos podem
 estar em qualquer lugar.
 !******************************!
 [711703002b000000:00b80b0000020000000002ba030000]
 マックス
 !******************************!
-<T>Se você tocar num lugar e algo
-acontecer...<W><A1/5>isso é um bom
-sinal.
+<T>Se tocar numa área e algo
+acontecer, bem...<W><A1/5>dá para dizer
+que é um bom sinal.
 !******************************!
 [711703002e000000:00b80b00000262000000021b040000]
 ルーク
@@ -99,20 +101,21 @@ sinal.
 [7117030031000000:00b80b00000200000000023f040000]
 マックス
 !******************************!
-<T><A1/2>Ah, sei lá. Um respingo d’água
-ou uma nuvem de poeira, talvez.
+<T><A1/2>Ah, sabe, talvez veja um
+respingo d'água ou uma nuvem
+de poeira.
 !******************************!
 [7117030034000000:00b80b00000200000000028b040000]
 マックス
 !******************************!
-<T>Se vir algo assim, toque de novo
-no mesmo lugar. Vai que acha
-alguma coisa...
+<T>Se vir algo assim,
+toque no mesmo ponto de novo.
+Nunca se sabe o que vai achar...
 !******************************!
 [7117030037000000:00a00f0000020000000002f0040000]
 マックス
 !******************************!
 <T>Toque em tudo que parecer
-suspeito. Você pode achar algo
-interessante!
+suspeito. Pode encontrar
+algo interessante!
 !******************************!

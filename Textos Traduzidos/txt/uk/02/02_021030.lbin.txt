@@ -2,6 +2,6 @@
 [7117030001000000:000a0000000200000000020b000000]
 未来ルーク
 !******************************!
-<T>Por favor, andem logo. Precisamos
-voltar para a Flatstone Street.
+<T>Por favor, depressa. Precisamos
+voltar à Flatstone Street.
 !******************************!

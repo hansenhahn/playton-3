@@ -7,115 +7,112 @@
 [7117030004000000:000a0000000224000000022b000000]
 ルーク
 !******************************!
-<V0020><T>Hm… oi, Professor.<W> Ah, você
-está falando com ele.</V>
+<V0020><T>Ahn, oi, Professor.<W> Ah, está
+falando com ele.</V>
 !******************************!
 [7117030007000000:000a0000000224000000026a000000]
 ルーク
 !******************************!
-<V0030><T>Vou precisar de um tempo
-pra me acostumar com isso.</V>
+<V0030><T>Vou levar um tempo para
+me acostumar com isso.</V>
 !******************************!
 [711703000a000000:000a00000002a400000002af000000]
 未来ルーク
 !******************************!
-<V0040><T><A2/2>Não acredito no quanto
-eu era baixinho.</V>
+<V0040><T><A2/2>Nem acredito como eu era
+pequeno.</V>
 !******************************!
 [711703000d000000:000a000000022400000002eb000000]
 ルーク
 !******************************!
-<V0050><T><A1/5>Ei! Eu não sou tão
-baixinho assim!</V>
+<V0050><T><A1/5>Ei! Não sou tão pequeno!</V>
 !******************************!
 [7117030010000000:000a00000002000000000218010000]
 レイトン
 !******************************!
-<V0060><T>Diga-me, então, por que
-se deu a todo esse trabalho
-para nos trazer até aqui?</V>
+<V0060><T>Então, diga-me, por que se deu
+a tanto trabalho para nos
+trazer até aqui?</V>
 !******************************!
 [7117030013000000:000a00000002a4000000026f010000]
 未来ルーク
 !******************************!
-<V0070><T>Vou explicar tudo
-em apenas um instante.</V>
+<V0070><T>Contarei com prazer
+em um instante.</V>
 !******************************!
 [7117030016000000:000a00000002a400000002a9010000]
 未来ルーク
 !******************************!
-<V0080><T><A4/3>Mas antes, preciso confirmar se
-estou mesmo diante do verdadeiro
-Professor Layton.</V>
+<V0080><T><A4/3>Mas antes, gostaria de
+confirmar que estou diante
+do verdadeiro Professor Layton.</V>
 !******************************!
 [7117030019000000:000a0000000200000000021c020000]
 レイトン
 !******************************!
-<V0090><T>E quem mais eu poderia ser?</V>
+<V0090><T>Quem mais eu seria?</V>
 !******************************!
 [711703001c000000:000a00000002a4000000023f020000]
 未来ルーク
 !******************************!
-<V0100><T><A4/4>Deixe-me explicar.</V>
+<V0100><T><A4/4>Permita-me explicar.</V>
 !******************************!
 [711703001f000000:000a00000002a40000000268020000]
 未来ルーク
 !******************************!
-<T><V0101>No meu tempo, é raro encontrar
-alguém que não conheça o nome
-Hershel Layton.</V>
+<T><V0101>Na minha Londres, é raro
+encontrar quem não conheça
+o nome Hershel Layton.</V>
 !******************************!
 [7117030022000000:000a00000002a400000002c8020000]
 未来ルーク
 !******************************!
-<V0110><T>Na verdade, muitos impostores
-têm surgido ultimamente,
-dizendo ser ele.</V>
+<V0110><T>De fato, muitos impostores
+surgiram dizendo ser ele.</V>
 !******************************!
 [7117030025000000:000a0000000224000000021c030000]
 ルーク
 !******************************!
-<V0120><T>Você está dizendo que acha
-que o Professor é uma
-fraude?!</V>
+<V0120><T>Está dizendo que acha que
+o professor é um impostor?!</V>
 !******************************!
 [7117030028000000:000a00000002a4000000025e030000]
 未来ルーク
 !******************************!
-<V0130><T><A4/1>Professor, se lembrar de nossas
-aventuras, talvez recorde um
-homem chamado Don Paolo.</V>
+<V0130><T><A4/1>Professor, se recordar nossas
+aventuras, deve lembrar-se
+de um homem chamado Don Paolo.</V>
 !******************************!
 [711703002b000000:000a00000002a400000002d1030000]
 未来ルーク
 !******************************!
-<T><V0131>Como sabe, ele era um
-mestre dos disfarces.</V>
+<T><V0131>Como sabe, ele era um mestre
+dos disfarces.</V>
 !******************************!
 [711703002e000000:000a00000002a40000000209040000]
 未来ルーク
 !******************************!
-<V0140><T>Como posso ter certeza de que
-o homem à minha frente não é Don
-Paolo usando outro disfarce?</V>
+<V0140><T>Como sei que o homem diante
+de mim não é Don Paolo em
+mais um de seus disfarces?</V>
 !******************************!
 [7117030031000000:000a00000002240000000267040000]
 ルーク
 !******************************!
-<V0150><T><A1/3>Isso é um absurdo,
-e você sabe muito bem!</V>
+<V0150><T><A1/3>Isso é um absurdo, e você
+sabe disso!</V>
 !******************************!
 [7117030034000000:000a00000002a400000002a5040000]
 未来ルーク
 !******************************!
-<V0160><T><A4/2>É mesmo? Ele já nos enganou
-antes. Quem garante que não
-poderia fazer isso de novo?</V>
+<V0160><T><A4/2>Será? Ele já nos enganou antes.
+Quem garante que não faria
+de novo?</V>
 !******************************!
 [7117030037000000:000a00000002000000000202050000]
 レイトン
 !******************************!
-<V0170><T>Muito bem. Vamos entrar
-nesse jogo. Como espera
-que eu prove quem sou?</V>
+<V0170><T>Muito bem. Entrarei no jogo.
+Como propõe que eu prove
+quem sou?</V>
 !******************************!

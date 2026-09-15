@@ -2,35 +2,34 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Professor, estou começando a
-acreditar que realmente viajamos
-para o futuro...
+<T>Professor, começo a acreditar
+que viajamos mesmo para o
+futuro...
 !******************************!
 [7117030004000000:000a000000025a0000000263000000]
 レイトン
 !******************************!
-<T>Hmm... Por ora, vamos nos
-concentrar apenas no que temos
-certeza.
+<T>Hmm... Foquemos no que sabemos
+por enquanto.
 !******************************!
 [7117030007000000:000a000000025a0000000298000000]
 レイトン
 !******************************!
 <T>O autor desta carta é Luke
-Triton. Em outras palavras,
-Luke, o remetente é você.
+Triton. Ou seja, Luke,
+o remetente é você.
 !******************************!
 [711703000a000000:000a000000025a00000002ee000000]
 レイトン
 !******************************!
 <T>Seguimos as instruções dele
-desde o início.
+o tempo todo.
 !******************************!
 [711703000d000000:000a000000025a0000000224010000]
 レイトン
 !******************************!
-<T>Talvez encontrá-lo pessoalmente
-possa lançar alguma luz sobre
+<T>Talvez encontrá-lo
+pessoalmente esclareça
 nossa situação atual.
 !******************************!
 [7117030010000000:000a000000025a0000000277010000]
@@ -41,33 +40,32 @@ nossa situação atual.
 [7117030013000000:000a0000000200000000029d010000]
 ルーク
 !******************************!
-<T>Tudo bem, Professor.<W> Pena que
-não dá para ir de carro.
+<T>Certo, Professor.<W> Pena não
+podermos ir de carro.
 !******************************!
 [7117030016000000:000a000000025a00000002e4010000]
 レイトン
 !******************************!
-<T>Por mais lamentável que seja,
-parece que meu carro não vai
-a lugar algum tão cedo.
+<T>Por pior que seja, meu carro
+não vai a lugar algum
+tão cedo.
 !******************************!
 [7117030019000000:000a00000002000000000241020000]
 ルーク
 !******************************!
-<T><A2/2>Não tem problema. Afinal, o melhor
-jeito de fazer o trabalho de campo
-é a pé.
+<T><A2/2>Sem problemas. Afinal, o melhor
+jeito de investigar é a pé.
 !******************************!
 [711703001c000000:000a000000025a00000002a1020000]
 レイトン
 !******************************!
-<T><A1/2>Ha ha! Concordo plenamente
-com você, meu rapaz.
+<T><A1/2>Ha ha! Concordo plenamente,
+meu jovem.
 !******************************!
 [711703001f000000:0014000000025a00000002d9020000]
 レイトン
 !******************************!
-<T>Infelizmente, consertar este carro
-exige mais habilidade do que
-possuo. Vamos a pé.
+<T>Infelizmente, consertar este
+carro exige mais habilidade
+do que tenho. Vamos a pé.
 !******************************!

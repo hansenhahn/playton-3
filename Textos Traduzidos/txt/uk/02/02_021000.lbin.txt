@@ -2,44 +2,44 @@
 [7117030001000000:000a0000000200000000020b000000]
 未来ルーク
 !******************************!
-<V0010><T><A2/2>Parece que você é mesmo o verdadeiro,
-Professor.</T></V>
+<V0010><T><A2/2>Parece que é o autêntico,
+Professor.</V>
 !******************************!
 [7117030004000000:000a000000024f0000000258000000]
 レイトン
 !******************************!
-<V0020><T><A1/2>Fico satisfeito em ver que,
-finalmente, consegui convencê-lo.</T></V>
+<V0020><T><A1/2>Fico feliz em ver que enfim
+o convenci.</V>
 !******************************!
 [7117030007000000:000a0000000200000000029d000000]
 未来ルーク
 !******************************!
-<V0030><T>Para ser sincero, eu já estava
-convencido desde o começo.</T></V>
+<V0030><T>Para ser honesto, eu já estava
+convencido desde o início.</V>
 !******************************!
 [711703000a000000:000a000000020000000002dd000000]
 未来ルーク
 !******************************!
-<V0040><T>Mas não podia perder a chance de
-medir minha inteligência contra a
-do meu mentor.</T></V>
+<V0040><T>Mas não podia perder a chance
+de enfrentar meu mentor num
+duelo de inteligência.</V>
 !******************************!
 [711703000d000000:000a000000024f000000024c010000]
 レイトン
 !******************************!
-<V0060><T>Hmm. Fico lisonjeado...
-acho.</T></V>
+<V0060><T>Hmm... Lisonjeado...
+Suponho.</V>
 !******************************!
 [7117030010000000:0014000000027a0100000281010000]
 ルーク
 !******************************!
-<V0050><T><A1/6>E então? Fala logo! Por que você
-nos chamou até aqui?</T></V>
+<V0050><T><A1/6>E então? Desembucha! Por que
+nos chamou aqui?</V>
 !******************************!
 [7117030013000000:0014000000020000000002c0010000]
 未来ルーク
 !******************************!
-<T>Tem olhos demais aqui dentro.
-Há um depósito nos fundos onde
-podemos conversar. Venham comigo.</T>
+<T>Há olhos demais aqui. Há um
+depósito nos fundos onde
+podemos falar. Sigam-me.
 !******************************!
