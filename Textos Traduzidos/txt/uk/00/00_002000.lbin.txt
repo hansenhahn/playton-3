@@ -15,7 +15,7 @@ amamos, se encontra no mais puro caos.</V>
 [7117030007000000:000a000000020000000002cf000000]
 ナレーション
 !******************************!
-<V0020><T>Para complicar essa situação,
+<V0020><T>Paola Para complicar essa situação,
 a catástrofe da qual eu falo não se
 passa no seu tempo.</V>
 !******************************!
