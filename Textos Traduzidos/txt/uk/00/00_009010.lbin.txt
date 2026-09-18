@@ -2,27 +2,30 @@
 [7117030001000000:000a0000000200000000020b000000]
 フローレス
 !******************************!
-<T>Ora, ora, vejam só quem chegou!
-Dois jovenzinhos cheios de energia!
+<T>Ora, ora, vejam só quem
+chegou! Dois jovenzinhos
+cheios de energia!
 !******************************!
 [7117030004000000:000a0000000200000000023c000000]
 フローレス
 !******************************!
-<T><A2/0>Essas carinhas me dizem tudo! Aposto
-que estão loucos pra ouvir uma dica útil,
-não é?
+<T><A2/0>Dá para ver pela cara de vocês
+que estão loucos para ouvir
+algo útil!
 !******************************!
 [7117030007000000:000a0000000200000000029e000000]
 フローレス
 !******************************!
-<T><A1/1>Muito bem, aqui vai uma dica de ouro:
-toque naquele carro estacionado ali.
+<T><A1/1>Muito bem, aqui vai uma dica
+de ouro: toque naquele carro
+estacionado ali.
 !******************************!
 [711703000a000000:0014000000020000000002f6000000]
 フローレス
 !******************************!
-<T><A1/1>Ei! Tira essas mãos de mim!
-Eu falei pra tocar no carro estacionado ali!
+<T><A1/1>Ei! Tire as mãos de mim! Toque
+naquele carro estacionado ali,
+eu disse!
 !******************************!
 [711703000d000000:001e0000000244010000024b010000]
 ルーク
@@ -32,17 +35,19 @@ Eu falei pra tocar no carro estacionado ali!
 [7117030010000000:001e0000000200000000026e010000]
 フローレス
 !******************************!
-<T>Ai, ai, ai... Mas que bagunça você fez!
-E por que foi fazer uma coisa dessas, hein?
+<T>Ai, ai, ai... Mas que
+bagunça você fez! E por que
+foi fazer uma coisa dessas?
 !******************************!
 [7117030013000000:001e000000024401000002ce010000]
 ルーク
 !******************************!
-<T><A1/5>Eu-eu não tive culpa!
-Foi você quem mandou eu tocar!
+<T><A1/5>Não foi c-culpa minha! Foi você
+que mandou eu tocar nele!
 !******************************!
 [7117030016000000:001e00000002000000000217020000]
 フローレス
 !******************************!
-<T>Ah é?<W> Não lembro de ter dito nada disso, não...
+<T>Ah, foi mesmo?<W> Não lembro de
+ter dito nada disso...
 !******************************!

@@ -2,55 +2,54 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/2>Eu nunca vi tantos relógios juntos
-no mesmo lugar!
+<T><A3/2>Nunca vi tantos relógios num
+só lugar!
 !******************************!
 [7117030004000000:000a000000023d0000000246000000]
 レイトン
 !******************************!
 <T><A4/2>Sim, e todos são extremamente
-bem feitos. Quem os construiu deve
-ser muito talentoso.
+bem feitos. Quem os fez deve ser
+muito talentoso.
 !******************************!
 [7117030007000000:000a000000020000000002a3000000]
 ルーク
 !******************************!
-<T><A1/1>Sério? Tem como saber
-isso só de olhar?
+<T><A1/1>Sério? Como pode dizer só de
+olhar para eles?
 !******************************!
 [711703000a000000:000a000000023d00000002e3000000]
 レイトン
 !******************************!
-<T>Ho ho! Com a idade, a gente acaba
-criando um olhar treinado para essas
-coisas, meu garoto.
+<T>Ho ho! Ganha-se olho para estas
+coisas com a idade, meu jovem.
 !******************************!
 [711703000d000000:000a000000023d0000000221010000]
 レイトン
 !******************************!
-<T><A2/2>Sabe, talvez este seja o momento
-ideal para aquele meu enigma do relógio.
+<T><A2/2>Sabe, pode ser o momento ideal
+para este meu enigma de relógio.
 !******************************!
 [7117030010000000:000a000000023d0000000270010000]
 レイトン
 !******************************!
-<T>Gostaria de tentar?
+<T>Quer tentar?
 !******************************!
 [7117030013000000:000a00000002000000000283010000]
 ルーク
 !******************************!
-<T><A3/2>Com certeza, Professor!
+<T><A3/2>Claro, Professor!
 !******************************!
 [7117030016000000:00e8030000023d00000002a8010000]
 レイトン
 !******************************!
-<T>Vai desistir, é?<W> Muito bem.
+<T>Desistindo?<W> Tudo bem.
 !******************************!
 [7117030019000000:00d0070000023d00000002cd010000]
 レイトン
 !******************************!
-<T><A1/2>Vamos retomar aquele
-enigma sobre relógio?
+<T><A1/2>Vamos revisitar aquele enigma
+do relógio, certo?
 !******************************!
 [711703001c000000:00b80b0000023d000000020b020000]
 レイトン

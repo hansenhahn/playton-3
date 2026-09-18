@@ -2,43 +2,43 @@
 [7117030001000000:000a0000000200000000020f000000]
 バートン（食）
 !******************************!
-<V0010><T>Nhac...<W> Bastante, er, comida
-né, Inspetor?! Nhac...</V>
+<V0010><T>Nhac...<W> Que belo banquete,
+hein, Inspetor. Nhac...</V>
 !******************************!
 [7117030004000000:000a00000002000000000261000000]
 バートン（食）
 !******************************!
-<V0020><T>O que será que fizemos pra
-receber um convite pra um
-banquete como este?</V>
+<V0020><T>E me faz pensar o que fizemos
+para merecer convites
+para tal banquete.</V>
 !******************************!
 [7117030007000000:000a00000002c100000002d2000000]
 チェルミー（食）
 !******************************!
-<V0030><T><A1/5>É óbvio, Barton!<W> Eu sou muito
-influente no mundo das forças
-policiais.</V>
+<V0030><T><A1/5>É óbvio, Barton.<W> Sou um homem
+influente no meio policial.</V>
 !******************************!
 [711703000a000000:000a00000002c10000000237010000]
 チェルミー（食）
 !******************************!
-<T><V0031>É natural que eu seja convidado
-para um evento tão importante
-como este.</V>
+<T><V0031>É natural que me convidem para
+um evento tão importante
+quanto este.</V>
 !******************************!
 [711703000d000000:000a0000000200000000028a010000]
 バートン（食）
 !******************************!
-<V0040><T>Er, não tenho certeza de que...</V>
+<V0040><T>Ahn, suponho que seja
+possível...</V>
 !******************************!
 [7117030010000000:000a00000002c100000002b9010000]
 チェルミー（食）
 !******************************!
-<V0050><T><A1/1>O quê você disse?</V>
+<V0050><T><A1/1>Possível, você diz?</V>
 !******************************!
 [7117030013000000:000a000000020000000002e0010000]
 バートン（食）
 !******************************!
-<V0060><T>Ummm - glup - erm... certeza!
-Com certeza, senhor!</V>
+<V0060><T>Ahn... glup... ahn... provável!
+Muito provável, senhor!</V>
 !******************************!

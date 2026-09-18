@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000211000000]
 カレリナ首相夫人
 !******************************!
-<V0010><T>Ah, está comida é simplesmente
-intragável, Bill. <W> Termine logo isso
-para irmos embora.</V>
+<V0010><T>Esta comida está horrível,
+Bill. <W>Trate de acabar logo para
+podermos ir embora.</V>
 !******************************!
 [7117030004000000:000a00000002790000000286000000]
 ビル・ホーク
@@ -14,19 +14,19 @@ para irmos embora.</V>
 [7117030007000000:0014000000020000000002a1000000]
 カレリナ首相夫人
 !******************************!
-<T><A1/5>Este evento é uma perda
-de tempo! <A1/2>Não concorda, Bill?
+<T><A1/5>Este evento é uma farsa
+completa! <A1/2>Não concorda, Bill?
 !******************************!
 [711703000a000000:0014000000027900000002ea000000]
 ビル・ホーク
 !******************************!
-<T>Hmmm? Como é? Ah sim, uma completa
-perda de tempo.
+<T>Hmm? O quê? Ah, sim,
+uma farsa completa.
 !******************************!
 [711703000d000000:00140000000200000000021c010000]
 カレリナ首相夫人
 !******************************!
-<T><A1/1>Espero que essa apresentação comece
-logo. Temos muitas outras coisas
-para fazer.
+<T><A1/1>Bem, espero que a apresentação
+seja breve. Temos compromissos,
+sabe.
 !******************************!
