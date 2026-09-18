@@ -2,8 +2,9 @@
 [7117030001000000:000a0000000200000000020b000000]
 フローレス
 !******************************!
-<T>Olá, seus jovens tão
-atraentes!
+<T>Ora, ora, vejam só quem
+chegou! Dois jovenzinhos
+cheios de energia!
 !******************************!
 [7117030004000000:000a0000000200000000023c000000]
 フローレス
@@ -15,9 +16,9 @@ algo útil!
 [7117030007000000:000a0000000200000000029e000000]
 フローレス
 !******************************!
-<T><A1/1>Certo, aqui vai minha pérola
-de sabedoria. Vá e toque naquele
-carro estacionado ali.
+<T><A1/1>Muito bem, aqui vai uma dica
+de ouro: toque naquele carro
+estacionado ali.
 !******************************!
 [711703000a000000:0014000000020000000002f6000000]
 フローレス
@@ -34,19 +35,19 @@ eu disse!
 [7117030010000000:001e0000000200000000026e010000]
 フローレス
 !******************************!
-<T>Meu Deus, que bagunça fez,
-hein? Por que foi e fez uma
-coisa dessas?
+<T>Ai, ai, ai... Mas que
+bagunça você fez! E por que
+foi fazer uma coisa dessas?
 !******************************!
 [7117030013000000:001e000000024401000002ce010000]
 ルーク
 !******************************!
-<T><A1/5>Não foi c-culpa minha! Foi o senhor
+<T><A1/5>Não foi c-culpa minha! Foi você
 que mandou eu tocar nele!
 !******************************!
 [7117030016000000:001e00000002000000000217020000]
 フローレス
 !******************************!
-<T>Ah, foi mesmo?<W> Não me lembro de
-dizer coisa alguma.
+<T>Ah, foi mesmo?<W> Não lembro de
+ter dito nada disso...
 !******************************!

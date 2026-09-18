@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A3/1>Para onde acha que estas escadas
+<T><A3/1>Pra onde acha que essas escadas
 levam, Professor?
 !******************************!
 [7117030004000000:000a0000000244000000024d000000]
@@ -14,20 +14,20 @@ charmosas casas vitorianas.
 [7117030007000000:000a00000002440000000298000000]
 レイトン
 !******************************!
-<T><A1/2>Diga, Luke, toda esta conversa de
-escadas me lembrou de um enigma.
-Quer ouvir?
+<T><A1/2>A propósito, Luke, toda esta
+conversa de escadas me lembrou
+de um enigma. Quer ouvir?
 !******************************!
 [711703000a000000:000a000000020000000002f2000000]
 ルーク
 !******************************!
-<T><A3/2>Claro que quero!
+<T><A3/2>Mas é claro!
 !******************************!
 [711703000d000000:00e803000002000000000209010000]
 ルーク
 !******************************!
-<T><A4/4>Acho que não estou com vontade de
-enigma no momento.
+<T><A4/4>Quer saber? Acho que não tô
+no clima pra enigma agora.
 !******************************!
 [7117030010000000:00d007000002440000000248010000]
 レイトン

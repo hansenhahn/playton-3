@@ -59,15 +59,15 @@ nos locomover.
 ナレーション
 !******************************!
 <T>Sei como funciona, Professor. Deixa
-comigo.<W> Vejamos...
-Para começar, toque no ícone do sapato.
+comigo.<W> Vamos ver...
+Pra começar, toque no ícone do sapato.
 !******************************!
 [711703001f000000:00d60b0000020102000002f0020000]
 ナレーション
 !******************************!
 <T>Depois de tocar no sapato,
-setas vão aparecer. Toque numa
-seta para se mover naquela direção.
+vão aparecer umas setas. Toque
+numa delas pra se mover.
 !******************************!
 [7117030022000000:00e00b00000281000000024f030000]
 レイトン

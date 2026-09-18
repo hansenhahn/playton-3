@@ -3,13 +3,13 @@
 フローレス
 !******************************!
 <T><A2/0>Ei, vocês dois! Não saiam correndo!
-Tenho coisas para contar!<W>
+Tenho coisas pra contar!<W>
 Coisas importantes!
 !******************************!
 [7117030004000000:00140000000200000000026a000000]
 フローレス
 !******************************!
-<T><A1/3>Hmph!<W> Ninguém lhes ensinou
-boas maneiras?<W> Não podem sair
-andando no meio da minha aula!
+<T><A1/3>Hmph!<W> Ninguém nunca ensinou
+boas maneiras a vocês?<W> Não se
+sai andando no meio da aula!
 !******************************!

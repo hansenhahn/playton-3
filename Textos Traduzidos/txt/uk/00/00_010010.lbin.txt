@@ -2,8 +2,9 @@
 [7117030001000000:000a00000002000000000209000000]
 サマリー
 !******************************!
-<T><A1/2>Nossa, clientes! <W>Não temos
-nenhum há eras. Bem-vindos!
+<T><A1/2>Ah, céus, clientes!<W> Faz séculos
+que não recebemos nenhum!
+Sejam bem-vindos!
 !******************************!
 [7117030004000000:000a000000025b0000000264000000]
 レイトン
@@ -27,9 +28,9 @@ me instruiu a vir até aqui.
 [711703000d000000:000a0000000200000000026b010000]
 サマリー
 !******************************!
-<T>Hmm, sim. Sem engano.
+<T>Hmm, sim. Não há engano.
 <W>Quem enviou esta carta queria
-que viesse à nossa loja.
+que viesse à nossa lojinha.
 !******************************!
 [7117030010000000:000a000000025b00000002d6010000]
 レイトン
@@ -54,14 +55,14 @@ professor?
 サマリー
 !******************************!
 <T><A1/2>Tee hee hoo! Bem, é difícil não
-conhecer um homem que sai tanto
-nos jornais.
+conhecer um homem que aparece
+tanto nos jornais.
 !******************************!
 [711703001c000000:000a000000020000000002f4020000]
 サマリー
 !******************************!
 <T>E eu adoro meu jornal matinal.
-Leio de capa a capa, todo dia.
+Leio de cabo a rabo, todo dia.
 !******************************!
 [711703001f000000:000a0000000200000000023e030000]
 サマリー
@@ -79,20 +80,20 @@ em toda Londres.
 [7117030025000000:000a000000026002000002d0030000]
 ルーク
 !******************************!
-<T>Mesmo tão longe daqui!
+<T>Até aqui, nesse fim de mundo!
 !******************************!
 [7117030028000000:000a000000020000000002ee030000]
 サマリー
 !******************************!
-<T><A1/1>Ei! O que quer dizer com {''}tão
-longe daqui{''}?
+<T><A1/1>Ei! Como assim {''}nesse fim
+de mundo{''}?
 !******************************!
 [711703002b000000:000a00000002000000000230040000]
 サマリー
 !******************************!
-<T>Só porque não gostamos de viver em
-apartamentos de lata de sardinha
-não quer dizer que não somos centrais!
+<T>Só porque não queremos viver
+espremidos como sardinhas não
+quer dizer que não somos centrais!
 !******************************!
 [711703002e000000:000a0000000200000000028b040000]
 サマリー

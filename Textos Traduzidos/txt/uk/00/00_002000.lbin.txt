@@ -43,7 +43,7 @@ em Baldwin.</V>
 [7117030013000000:000a0000000200000000023c020000]
 ナレーション
 !******************************!
-<V0060><T>Anseio por revê-lo.
+<V0060><T>Mal posso esperar para revê-lo.
 
       <W120>Seu aprendiz, Luke Triton</V>
 !******************************!
@@ -51,8 +51,8 @@ em Baldwin.</V>
 OPレイトン
 !******************************!
 <V0070><T>Por mais estranho que pareça,
-o autor desta carta parece ser
-seu eu do futuro, Luke.</V>
+o autor desta carta é o seu
+próprio eu do futuro, Luke.</V>
 !******************************!
 [7117030019000000:00140000000216030000021f030000]
 OPルーク

@@ -2,45 +2,46 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/5>Ah não! Desmontou por completo!
+<T><A1/5>Ah, não! Ele se desfez todo!
 !******************************!
 [7117030004000000:000a000000022b0000000236000000]
 フローレス
 !******************************!
-<T>Deixe isso para lá! Viu a moeda
-que saltou?<W> É uma moeda de dica,
-e é sua.
+<T>Deixe isso de lado! Viu a
+moedinha que voou?<W> É uma
+moeda de dica, e agora é sua!
 !******************************!
 [7117030007000000:000a000000022b00000002a4000000]
 フローレス
 !******************************!
-<T>Se ficar preso num enigma, pode
-gastar uma dessas lindas moedas
-para obter uma dica.
+<T>Se ficar preso num enigma, é só
+gastar uma dessas moedinhas
+lindas pra receber uma dica.
 !******************************!
 [711703000a000000:000a000000022b000000020b010000]
 フローレス
 !******************************!
-<T>Lembre-se de que há um limite de
-moedas de dica que pode encontrar.
+<T>Mas lembre-se: o número de
+moedas de dica que pode achar
+é limitado.
 !******************************!
 [711703000d000000:000a000000022b000000025b010000]
 フローレス
 !******************************!
-<T>Se gastá-las sem pensar, pode
-ficar em apuros depois.
+<T>Se sair gastando à toa, pode
+acabar em apuros depois.
 !******************************!
 [7117030010000000:000a000000022b00000002a4010000]
 フローレス
 !******************************!
-<T>Moedas de dica ficam escondidas por
-toda parte, então toque em tudo
-que parecer suspeito. Pode achar uma!
+<T>As moedas de dica estão
+escondidas por aí, então toque
+em tudo que parecer suspeito!
 !******************************!
 [7117030013000000:000a000000022b0000000211020000]
 フローレス
 !******************************!
-<T>Bem, fim do meu discurso. <W>Boa
-sorte no que quer que estejam
-fazendo por aqui.<W> Até logo!
+<T>Bom, era isso que eu tinha pra
+dizer.<W> Boa sorte com o que quer
+que estejam fazendo!<W> Tchauzinho!
 !******************************!

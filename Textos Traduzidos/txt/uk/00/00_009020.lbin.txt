@@ -2,14 +2,14 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/1>Diga, Professor, como vamos
+<T><A1/1>Professor, como vamos
 acompanhar nosso progresso?
 !******************************!
 [7117030004000000:00140000000250000000025d000000]
 ナレーション
 !******************************!
 <T>Ah sim.<W><A2/2> Acho que ambos precisamos
-de uma reciclagem sobre o assunto.
+de uma revisão sobre o assunto.
 !******************************!
 [7117030007000000:001e000000025000000002aa000000]
 ナレーション
@@ -56,8 +56,8 @@ ficam em branco.
 [7117030019000000:004600000002500000000279020000]
 ナレーション
 !******************************!
-<T>Qualquer enigma resolvido pode ser
-rejogado por este menu.
+<T>Qualquer enigma resolvido pode
+ser jogado de novo neste menu.
 !******************************!
 [711703001c000000:0046000000025000000002b9020000]
 ナレーション

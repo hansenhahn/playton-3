@@ -2,8 +2,9 @@
 [7117030001000000:000a0000000200000000020d000000]
 ヒゲマフラー
 !******************************!
-<T><A3/0>Keh heh heh!<W><A2/1> Acho que nunca vi
-vocês dois, pirralhos.
+<T><A3/0>Keh heh heh!<W><A2/1> Acho que nunca
+vi vocês dois por aqui, seus
+moleques.
 !******************************!
 [7117030004000000:000a00000002620000000269000000]
 ルーク
@@ -27,8 +28,8 @@ ouvir.
 [711703000d000000:0014000000025f0100000268010000]
 レイトン
 !******************************!
-<T>Ah, se vai falar de moedas de dica,
-melhor interromper agora.
+<T>Ah, se for falar de moedas de dica,
+é melhor eu parar por aqui.
 !******************************!
 [7117030010000000:0014000000025f01000002b8010000]
 レイトン
@@ -46,15 +47,15 @@ conseguimos conversar.
 [7117030016000000:00140000000200000000026a020000]
 ヒゲマフラー
 !******************************!
-<T>Como pôde deixar outra pessoa dar
-meu discurso?
+<T>Como puderam deixar outra pessoa
+dar o meu discurso?
 !******************************!
 [7117030019000000:001e0000000262000000029c020000]
 ルーク
 !******************************!
 <T><A2/1>Quer dizer que já nos deu essa
-palestra antes?<W> Então nós JÁ nos
-vimos!
+palestra antes?<W> Então a gente JÁ
+se encontrou!
 !******************************!
 [711703001c000000:001e000000020000000002ec020000]
 ヒゲマフラー
@@ -65,6 +66,6 @@ vimos!
 ヒゲマフラー
 !******************************!
 <T><A2/5>De repente não estou me sentindo
-muito bem. Melhor ir para casa.
+muito bem. Melhor eu ir pra casa.
 Nos vemos por aí!
 !******************************!

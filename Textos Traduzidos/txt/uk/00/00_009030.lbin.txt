@@ -9,7 +9,7 @@ nenhuma por aqui.
 [7117030004000000:000a000000026f0000000276000000]
 ルーク
 !******************************!
-<T>Certo. Bem, obrigado de todo modo.
+<T>Tá bom, obrigado de qualquer forma.
 !******************************!
 [7117030007000000:000a00000002000000000299000000]
 デビット
@@ -26,7 +26,7 @@ relojoaria outro dia.
 [711703000d000000:000a0000000200000000022f010000]
 デビット
 !******************************!
-<T><A3/5>Hmm... Disso não tenho certeza.
+<T><A3/5>Hmm... Acho que não.
 !******************************!
 [7117030010000000:000a00000002000000000255010000]
 デビット
@@ -45,8 +45,9 @@ onde vi aquela loja.
 [7117030016000000:000a000000026f000000020c020000]
 ルーク
 !******************************!
-<T><A3/2>Deu sorte, senhor! Sou meio craque
-quando se trata de enigmas!
+<T><A3/2>Você está com sorte, senhor!
+Sou um craque quando o assunto
+são enigmas!
 !******************************!
 [7117030019000000:00e803000002000000000264020000]
 デビット
@@ -82,7 +83,7 @@ Bem, preciso ir! Até mais!
 [7117030028000000:00c20b0000026f00000002ec030000]
 ルーク
 !******************************!
-<T><A4/4>Espere!<W> Ah. Ele fugiu.
+<T><A4/4>Espere!<W> Ah. Ele correu.
 !******************************!
 [711703002b000000:00cc0b0000020e0400000217040000]
 レイトン
@@ -94,8 +95,9 @@ resolver seu enigma do que em ajudar.
 [711703002e000000:00cc0b0000020e0400000284040000]
 レイトン
 !******************************!
-<T><A3/2>Sem complicação. Tenho certeza de
-que acharemos a relojoaria sozinhos.
+<T><A3/2>Não se preocupe. Tenho certeza
+de que acharemos a relojoaria
+sozinhos.
 !******************************!
 [7117030031000000:00cc0b0000020e04000002dd040000]
 レイトン

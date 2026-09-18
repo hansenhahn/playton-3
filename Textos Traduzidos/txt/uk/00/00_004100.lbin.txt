@@ -27,20 +27,20 @@ malandro sozinho. Estou perdido!
 [711703000d000000:00d007000002000000000227010000]
 スミス
 !******************************!
-<T><A2/2>Vai me ajudar a encontrar o
-intruso, não vai?
+<T><A2/2>Vocês vão me ajudar a achar
+o intruso, não vão?
 !******************************!
 [7117030010000000:00b80b0000023d0000000265010000]
 レイトン
 !******************************!
-<T><A4/2>Bom trabalho, meu jovem!
+<T><A4/2>Excelente trabalho, meu jovem!
 !******************************!
 [7117030013000000:00bd0b000002000000000285010000]
 スミス
 !******************************!
 <T><A2/2>Ufa! Muito obrigado pela ajuda.
-Não haverá mais penetras sob
-minha vigilância!
+Enquanto eu estiver de olho,
+ninguém mais se aproveita!
 !******************************!
 [7117030016000000:00c20b000002de01000002e5010000]
 ルーク

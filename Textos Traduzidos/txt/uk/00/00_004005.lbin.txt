@@ -2,22 +2,22 @@
 [7117030001000000:000a00000002000000000211000000]
 チェルミー（食）
 !******************************!
-<T>Hm.<W> Bem, esta comida não tem
+<T>Hrm.<W> Bem, esta comida não tem
 nada de mais.
 !******************************!
 [7117030004000000:000a00000002590000000268000000]
 バートン（食）
 !******************************!
 <T>Desculpe que pense assim, senhor.
-Acho bem - nhac nhac -
-saborosa, na verdade.
+Eu acho - nhac nhac - uma
+delícia, na verdade.
 !******************************!
 [7117030007000000:000a000000020000000002c1000000]
 チェルミー（食）
 !******************************!
 <T><A1/2>Credo. Esta costeleta salgada
 e as folhas murchas não chegam
-aos pés da Amelie.
+aos pés da comida da Amelie.
 !******************************!
 [711703000a000000:000a00000002590000000221010000]
 バートン（食）
@@ -43,15 +43,15 @@ crocante!
 [7117030013000000:001400000002000000000220020000]
 チェルミー（食）
 !******************************!
-<T>Hm! Parece que não têm pressa
+<T>Hrm! Parece que não têm pressa
 para começar o espetáculo.
 !******************************!
 [7117030016000000:001400000002590000000265020000]
 バートン（食）
 !******************************!
 <T>Vamos, senhor, não é tão ruim.
-Pelo menos há - nhac - comida
-para aproveitar enquanto esperamos.
+Pelo menos dá pra - nhac - encher
+a barriga enquanto esperamos.
 !******************************!
 [7117030019000000:0014000000020000000002c1020000]
 チェルミー（食）

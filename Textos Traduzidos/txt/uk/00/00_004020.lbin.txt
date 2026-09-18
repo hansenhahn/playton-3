@@ -2,8 +2,8 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<V0010><T>Preciso dizer, me sinto meio
-deslocado aqui, Professor.</V>
+<V0010><T>Sabe, Professor, eu tô me
+sentindo meio deslocado aqui.</V>
 !******************************!
 [7117030004000000:000a000000024f0000000258000000]
 レイトン
@@ -50,7 +50,7 @@ que funciona?</V>
 レイトン
 !******************************!
 <T><V0061>Ainda assim, se for verdade,
-imagina o alvoroço que causará
+consegue imaginar o alvoroço
 na comunidade científica?</V>
 !******************************!
 [711703001c000000:000a0000000200000000028e020000]
