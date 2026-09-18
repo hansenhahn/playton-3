@@ -39,7 +39,8 @@ Ele mecaniza os bullets determinísticos: extração `<T>`→`</V>|!---!|!***!`
 com `join('\n')`, block-count EN↔IA, tags multiset+posição (`REGRAS:68`),
 ≤3 linhas/página (`REGRAS:69`), hifenização (`REGRAS:71`), largura real
 `adv` via `Previewer/Fontes/fontevent.nftr` (hard 247px / safe 210px),
-`windows-1252`, glossário `\b`, voz com falante (FAIL só em Layton/Luke),
+`windows-1252`, glossário `\b`, voz com falante (FAIL só em Layton; Luke
+criança = INFO/revisão manual, nunca FAIL),
 números EN↔PT, e watchlist semântica (`Unless`, `same page`, `WELL?`,
 `Tee hee`, `my boy`, `Room/Old N`, `things... I mean`) como INFO para
 revisão manual. Saída: `qa_<cap>.json` + `qa_<cap>.md`; exit 1 = há FAIL.
