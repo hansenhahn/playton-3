@@ -18,7 +18,7 @@ bem-vindos à Londres do futuro.
 [711703000a000000:000a00000002000000000277000000]
 未来ルーク
 !******************************!
-<T>Você viu o Dr. Schrader,
+<T>O senhor viu o Dr. Schrader,
 não viu?
 !******************************!
 [711703000d000000:000a0000000200000000029b000000]
@@ -108,7 +108,7 @@ quem é então?
 未来ルーク
 !******************************!
 <T>Ele se chama Hershel Layton.<W>
-O gênio do mal é você,
+O gênio do mal é o senhor,
 Professor.
 !******************************!
 [711703003a000000:002d00000002ac01000002ff030000]

@@ -23,6 +23,16 @@ import sys
 HARD_PX = 247
 SAFE_PX = 210
 
+# Severidade: FAIL = erro bloqueante (tags/truncamento/glossario/sentido).
+# WARN = aviso tecnico/estilistico (ex. largura > safe). Nao e erro, nao
+# bloqueia e NAO deprecia o julgamento qualitativo da traducao. O gate e os
+# exit codes usam SOMENTE os FAIL.
+WARN_POLICY = (
+    "FAIL = erro bloqueante. WARN = aviso tecnico/estilistico (ex. largura "
+    "> safe); NAO e erro e NAO deprecia o julgamento da traducao. "
+    "Gate/exit code considera apenas FAIL."
+)
+
 SPEAKERS = {
     "レイトン": "Layton",
     "ルーク": "Luke",
@@ -453,13 +463,18 @@ def main():
 
     fails = [x for x in all_findings if x["sev"] == "FAIL"]
     warns = [x for x in all_findings if x["sev"] == "WARN"]
-    # FAIL relevante = exceto glossario/voz INFO; conta tudo FAIL como gate
+    # Marca bloqueio por severidade: SO FAIL bloqueia/degrada o julgamento.
+    for x in all_findings:
+        x["blocking"] = x["sev"] == "FAIL"
+    gate = "BLOCKED" if fails else "PASS"
     report = {
         "cap": cap,
         "files": len(files),
         "blocks_en": total_blocks,
+        "gate": gate,
         "fails": len(fails),
         "warns": len(warns),
+        "warn_policy": WARN_POLICY,
         "findings": sorted(
             all_findings, key=lambda x: (x.get("file", ""), x.get("line", 0))
         ),
@@ -472,22 +487,39 @@ def main():
     cats = {}
     for x in all_findings:
         cats[(x["sev"], x["cat"])] = cats.get((x["sev"], x["cat"]), 0) + 1
+
+    def fmt(x):
+        where = f"{x.get('file','')}:{x.get('line','?')}"
+        return (f"- [{x['sev']}/{x['cat']}] {where} "
+                f"({x.get('target','')}) blk{x.get('block','?')}: {x['msg']}"
+                + (f" [{x['rule']}]" if x.get("rule") else "") + "\n")
+
     with open(mpath, "w", encoding="utf-8") as fh:
         fh.write(f"# QA cap {cap} — {len(files)} arquivos, {total_blocks} blocos EN\n\n")
-        fh.write(f"FAIL={len(fails)} WARN={len(warns)}\n\n")
+        fh.write(f"**gate={gate}** · FAIL={len(fails)} (erros) · "
+                 f"WARN={len(warns)} (avisos, não bloqueantes)\n\n")
+        fh.write(f"> {WARN_POLICY}\n\n")
         fh.write("## Por categoria\n\n")
         for (sev, cat), n in sorted(cats.items()):
             fh.write(f"- {sev}/{cat}: {n}\n")
-        fh.write("\n## Achados (FAIL primeiro)\n\n")
-        for x in sorted(all_findings,
-                        key=lambda v: (0 if v["sev"] == "FAIL" else 1 if v["sev"] == "WARN" else 2,
-                                       v.get("file", ""), v.get("line", 0))):
-            where = f"{x.get('file','')}:{x.get('line','?')}"
-            fh.write(f"- [{x['sev']}/{x['cat']}] {where} "
-                     f"({x.get('target','')}) blk{x.get('block','?')}: {x['msg']}"
-                     + (f" [{x['rule']}]" if x.get("rule") else "") + "\n")
+        for title, sev, note in (
+            ("Bloqueantes (FAIL — erros)", "FAIL",
+             "Corrigir: impedem o veredito."),
+            ("Avisos (WARN — não bloqueiam o julgamento)", "WARN",
+             "Não são erros nem depreciam a tradução; revisão opcional."),
+            ("Informativos (INFO — revisão manual)", "INFO",
+             "Heurísticas/watchlist para julgamento contextual."),
+        ):
+            subset = [x for x in all_findings if x["sev"] == sev]
+            fh.write(f"\n## {title}\n\n> {note}\n\n")
+            if subset:
+                for x in sorted(subset, key=lambda v: (v.get("file", ""), v.get("line", 0))):
+                    fh.write(fmt(x))
+            else:
+                fh.write("- nenhum\n")
     print(f"cap {cap}: {len(files)} arqs, {total_blocks} blocos EN, "
-          f"FAIL={len(fails)} WARN={len(warns)} -> {rpath}, {mpath}")
+          f"gate={gate} FAIL={len(fails)} WARN={len(warns)} "
+          f"(WARN=aviso nao bloqueante) -> {rpath}, {mpath}")
     return 1 if fails else 0
 
 

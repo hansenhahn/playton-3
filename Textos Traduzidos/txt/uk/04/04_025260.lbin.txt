@@ -47,8 +47,9 @@ essa belezura.
 [7117030016000000:00e80300000200000000023b020000]
 デビット
 !******************************!
-<T>Sabe, se gosta mesmo de ônibus, resolver
-um enigma assim deve ser moleza.
+<T>Sabe, se gosta mesmo de
+ônibus, resolver um enigma
+assim deve ser moleza.
 !******************************!
 [7117030019000000:00d007000002000000000291020000]
 デビット

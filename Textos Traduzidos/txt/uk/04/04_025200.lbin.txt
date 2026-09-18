@@ -212,9 +212,9 @@ uma espécie de buraco de minhoca.
 [7117030067000000:0050000000020000000002f2080000]
 ジャック
 !******************************!
-<T>Não me pergunte. Era tudo conversa fiada.
-Algo sobre abrir um vórtice
-no fluxo do tempo.
+<T>Não me pergunte. Era tudo
+conversa fiada. Algo sobre abrir
+um vórtice no fluxo do tempo.
 !******************************!
 [711703006a000000:005000000002000000000251090000]
 ジャック
@@ -343,9 +343,9 @@ mais interessante.
 [71170300a6000000:005a00000002b4000000026f0e0000]
 未来ルーク
 !******************************!
-<T>Professor, com a ajuda de Cogg podemos
-enviar o senhor e Luke de volta
-ao seu tempo.
+<T>Professor, com a ajuda de Cogg
+podemos enviar o senhor e Luke
+de volta ao seu tempo.
 !******************************!
 [71170300a9000000:005a00000002b400000002be0e0000]
 未来ルーク

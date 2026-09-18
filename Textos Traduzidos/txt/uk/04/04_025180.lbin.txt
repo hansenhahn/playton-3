@@ -62,9 +62,9 @@ tem a dizer.
 [711703001f000000:003200000002d60000000285020000]
 未来ルーク
 !******************************!
-<T>Cogg está na sala dos fundos. Ele conta
-como começou toda esta viagem
-no tempo.
+<T>Cogg está na sala dos fundos.
+Ele vai contar como começou
+toda esta viagem no tempo.
 !******************************!
 [7117030022000000:003200000002d600000002da020000]
 未来ルーク
