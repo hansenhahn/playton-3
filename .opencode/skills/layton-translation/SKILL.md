@@ -39,9 +39,9 @@ Skill para tradução **não-mecânica** de Professor Layton PT-BR. Use ao tradu
    - **Oralidade:** leia **todo texto de personagem** (dublado `<V>` ou não — `レイトン`/`ルーク`/`バートン` etc.; não é narração) em voz alta como o falante do dossiê (idade/classe/estado). Se soar escrito, literal ou não falável, reescreva pelo sentimento antes de revalidar caixa.
 8. **Checklist:** `REGRAS_TRADUCAO.md:6` (enigma 100%, Livro, moeda, Inspetor/Agente, placeholders, 3 linhas, largura real da NFTR com placeholders decodificados, `windows-1252`/`utf-8` sem BOM) + completude e oralidade acima.
 
-## Revisão — contexto (quando já existe `Textos Traduzidos IA`)
+## Revisão — contexto (quando já existe `Textos Traduzidos`)
 
-Revisão não é retradução: é comparar `Textos Originais` vs `Textos Traduzidos IA` e julgar se a tradução soa estranha **no registro da cena e do falante**. Não use lista fixa de exemplos — infira pelo contexto narrativo e pelo dossiê. Eixos para avaliar:
+Revisão não é retradução: é comparar `Textos Originais` vs `Textos Traduzidos` e julgar se a tradução soa estranha **no registro da cena e do falante**. Não use lista fixa de exemplos — infira pelo contexto narrativo e pelo dossiê. Eixos para avaliar:
 
 1. **Registro cerimonial vs. coloquial:** discursos oficiais, apresentações e falas de autoridade exigem formalidade elevada e vocativo cerimonial; diálogos cotidianos exigem naturalidade falada. Se a tradução rebaixa ou eleva o registro em relação ao original e ao dossiê do falante, marque para revisão.
 2. **Tradução literal que soa estranha em PT-BR:** idioms e construções inglesas que, traduzidas palavra a palavra, geram pleonasmo, calque sintático ou sentido mecânico em PT-BR. Julgue pela naturalidade do PT-BR no contexto — não por dicionário — e reescreva com idiom equivalente quando o literal quebrar a fluidez.

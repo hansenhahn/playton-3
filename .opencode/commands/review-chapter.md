@@ -1,5 +1,5 @@
 ---
-description: Revisão cirúrgica (segunda iteração) de tradução PT-BR do Capítulo 00-14 — corrige IA comparando com Originais via layton-qa.
+description: Revisão cirúrgica (segunda iteração) de tradução PT-BR do Capítulo 00-14 — corrige Textos Traduzidos comparando com Originais via layton-qa.
 ---
 
 Você é o agente responsável pela **revisão cirúrgica (segunda iteração)** da tradução de **Professor Layton and the Unwound Future** para **português brasileiro (PT-BR)**.
@@ -16,7 +16,7 @@ Não replique, substitua ou invente regras que já estejam definidas na skill. A
 
 Antes de iniciar a revisão, **pergunte ao usuário qual capítulo deseja revisar**.
 
-Ague a resposta do usuário e, então, revise cirurgicamente o capítulo solicitado.
+Aguarde a resposta do usuário e, então, revise cirurgicamente o capítulo solicitado.
 
 O capítulo informado pelo usuário deve ser utilizado para identificar os arquivos correspondentes no repositório, seguindo as regras da skill `layton-qa`.
 
@@ -24,10 +24,10 @@ Os arquivos de origem e destino são:
 
 ```
 Textos Originais/txt/uk/<cap>/*.lbin.txt          (EN - verdade)
-Textos Traduzidos IA/txt/uk/<cap>/*.lbin.txt      (IA - alvo da correção, editar in-place)
+Textos Traduzidos/txt/uk/<cap>/*.lbin.txt         (PT-BR - alvo da correção, editar in-place)
 ```
 
-**Nunca modifique arquivos em `Textos Originais`. Edite apenas `Textos Traduzidos IA` in-place.**
+**Nunca modifique arquivos em `Textos Originais`. Edite apenas `Textos Traduzidos` in-place.**
 
 ### Estrutura dos arquivos
 
@@ -42,7 +42,7 @@ Textos Originais/txt/uk/<cap>/<arquivo>.lbin.txt
 corrija o correspondente:
 
 ```
-Textos Traduzidos IA/txt/uk/<cap>/<arquivo>.lbin.txt
+Textos Traduzidos/txt/uk/<cap>/<arquivo>.lbin.txt
 ```
 
 Os nomes dos arquivos devem permanecer idênticos. Nunca crie, renomeie ou apague arquivos.
@@ -54,7 +54,7 @@ Antes de revisar:
 1. Leia a skill `layton-qa`.
 2. Siga as fontes de verdade indicadas pela skill (`Spec/REGRAS_TRADUCAO.md`, `Spec/Personagens/_INDICE.md` → dossiê do falante, `Spec/Capitulo_XX.md` do capítulo alvo, `Spec/Fontes_NFTR.md` + `Previewer/Configs/Screen01.ini`).
 3. Identifique todos os arquivos que pertencem ao capítulo solicitado (ex. `uk/00` = 34 dumps, 7 vazios). Liste-os.
-4. Para cada par `Originais ↔ IA`, extraia blocos `<T>…</V>` fazendo `join('\n')` antes de comparar (a quebra `from 10\nyears…` só faz sentido junta).
+4. Para cada par `Originais ↔ Textos Traduzidos`, extraia blocos `<T>…</V>` fazendo `join('\n')` antes de comparar (a quebra `from 10\nyears…` só faz sentido junta).
 5. Determine o falante pela tag `<01:0000000X>` / `レイトン` / `ルーク` etc. e abra o dossiê correspondente antes de julgar voz.
 
 Durante a revisão — execute os 10 cheques da skill por bloco, sempre com contexto narrativo (não frase isolada), e **corrija cirurgicamente** apenas o necessário:
@@ -66,16 +66,16 @@ Durante a revisão — execute os 10 cheques da skill por bloco, sempre com cont
 - **Cheque singular/plural (contexto):** compare número EN vs PT com cena (ex. `clock shops → relojoarias` não `relojoaria` em `00_009055.lbin.txt:47`, `places to be → compromissos`).
 - **Cheque pleonasmo (contexto):** redundância PT ausente em EN (ex. `from 10 years in the future → daqui a dez anos no futuro` pleonasmo → `daqui a dez anos` em `00_002000.lbin.txt:26`).
 - **Cheque semântico (o que a 1ª iteração não pega):** back-translation PT→EN, inversão `from` temporal vs destinatário, `soft sciences → ciências sociais` não `área mais leve` (`00_005000.lbin.txt:30`), negação, deixis. Consulte `Capitulo_XX.md`.
-- **Correção cirúrgica:** edite `Textos Traduzidos IA` **in-place**, preservando tags/quebras. Troque só o necessário, revalide largura/caixa após cada fix. Nunca apague `<W>` ou mova tag para fim.
+- **Correção cirúrgica:** edite `Textos Traduzidos` **in-place**, preservando tags/quebras. Troque só o necessário, revalide largura/caixa após cada fix. Nunca apague `<W>` ou mova tag para fim.
 
 Depois da revisão:
 
 1. Execute validações finais previstas pela skill no capítulo revisado (cálculo exato, não estimativa):
-   - `grep -R "quebra-cabeça|hint coin|Inspector|Granny" Textos\ Traduzidos\ IA/txt -- 0`
-   - `grep -R " tô | pra | né | tá " Textos\ Traduzidos\ IA/txt/uk/<cap> -- triagem: FAIL só em Layton/formal ou em narração; em Luke (criança) é oralidade esperada`
+   - `grep -R "quebra-cabeça|hint coin|Inspector|Granny" Textos\ Traduzidos/txt -- 0`
+   - `grep -R " tô | pra | né | tá " Textos\ Traduzidos/txt/uk/<cap> -- triagem: FAIL só em Layton/formal ou em narração; em Luke (criança) é oralidade esperada`
    - `python3 Spec/Fontes_NFTR.md:4 → largura_texto(linha_sem_tags, "Previewer/Fontes/fontevent.nftr")`: `>247` = FAIL, `210-247` = WARN, `<=210` = OK + visual `Previewer` `Screen01.ini`
    - `diff` EN↔PT: cada `<T>` tem equivalente semântico, sem truncamento tipo `Er, não tenho certeza...` vs `Ahn, suponho que seja possível...`
-2. Verifique se todos os arquivos e todas as entradas do capítulo foram processados e se estrutura de `IA` permanece idêntica a `Originais`.
+2. Verifique se todos os arquivos e todas as entradas do capítulo foram processados e se estrutura de `Textos Traduzidos` permanece idêntica a `Originais`.
 3. Corrija problemas encontrados durante a validação.
 4. Faça revisão final comparando origem e destino.
 
