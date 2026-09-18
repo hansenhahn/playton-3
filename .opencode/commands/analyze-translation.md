@@ -1,5 +1,5 @@
 ---
-description: Análise qualitativa comparando tradução humana vs IA vs original de Professor Layton PT-BR.
+description: Análise qualitativa comparando tradução PT-BR vs original EN de Professor Layton.
 ---
 
 Você é o agente responsável pela **análise qualitativa** da tradução de **Professor Layton and the Unwound Future** para **português brasileiro (PT-BR)**.
@@ -18,17 +18,16 @@ Antes de iniciar a análise, **pergunte ao usuário qual capítulo deseja analis
 
 Aguarde a resposta do usuário e, então, execute a análise qualitativa completa do capítulo solicitado.
 
-O capítulo informado deve ser utilizado para identificar os arquivos correspondentes nos três diretórios, seguindo as regras da skill `layton-qa`.
+O capítulo informado deve ser utilizado para identificar os arquivos correspondentes nos diretórios, seguindo as regras da skill `layton-qa`.
 
 Os arquivos a comparar estão em:
 
 ```
 Textos Originais/txt/uk/<cap>/*.lbin.txt          (EN - verdade)
-Textos Traduzidos/txt/uk/<cap>/*.lbin.txt         (humana - referência de gosto, não verdade)
-Textos Traduzidos IA/txt/uk/<cap>/*.lbin.txt      (IA - alvo da análise)
+Textos Traduzidos/txt/uk/<cap>/*.lbin.txt         (PT-BR - alvo da análise)
 ```
 
-Se `Textos Traduzidos IA` não existir para o capítulo, analise apenas `Originais vs Humana` e registre a ausência. **Nunca modifique arquivos em `Textos Originais`.**
+**Nunca modifique arquivos em `Textos Originais`.** Esta análise **aponta** achados; não reescreve (para corrigir, use o comando de revisão).
 
 ## Procedimento
 
@@ -37,9 +36,9 @@ Antes de analisar:
 1. Leia a skill `layton-qa`.
 2. Siga as fontes de verdade indicadas pela skill (`Spec/REGRAS_TRADUCAO.md`, `Spec/Personagens/_INDICE.md` → dossiê do falante, `Spec/Capitulo_XX.md`).
 3. Identifique todos os arquivos que pertencem ao capítulo solicitado.
-4. Para cada arquivo, extraia blocos `<T>...</V>` de EN, humana e IA fazendo `join('\n')` antes de comparar.
+4. Para cada arquivo, extraia blocos `<T>...</V>` de EN e PT fazendo `join('\n')` antes de comparar.
 
-Durante a análise - execute os 8 cheques da skill por bloco, sempre por contexto (não frase isolada):
+Durante a análise - execute os 10 cheques da skill por bloco, sempre por contexto (não frase isolada):
 
 - **Cheque técnico (bloqueante):** tags na mesma posição (`REGRAS_TRADUCAO.md:68`), ≤3 linhas por página (`REGRAS_TRADUCAO.md:69`), sem hifenização (`REGRAS_TRADUCAO.md:71`), `windows-1252`, largura real via `Spec/Fontes_NFTR.md:4` (`fontevent.nftr` hard 247px / safe 210px).
 - **Cheque glossário:** `puzzle→enigma`, `hint coin→moeda de dica`, `Inspector→Inspetor`, `Granny→Vovó` (`REGRAS_TRADUCAO.md:2`).
@@ -48,6 +47,7 @@ Durante a análise - execute os 8 cheques da skill por bloco, sempre por context
 - **Cheque singular/plural (contexto):** compare número EN vs PT (`clock shops → relojoaria vs relojoarias` em `00_009055.lbin.txt:47`).
 - **Cheque pleonasmo (contexto):** redundância gerada em PT ausente em EN (`from 10 years in the future → daqui a dez anos no futuro` em `00_002000.lbin.txt:26`).
 - **Cheque semântico:** back-translation PT→EN, inversão `from` temporal, `soft sciences → ciências sociais` (`00_005000.lbin.txt:30`), negação, deixis.
+- **Cheque naturalidade idiomática:** tratamento (`você` vs `o senhor`), calque sintático, elipse, termo duro, idioma achatado, intensificador neutralizado e trocadilho neutralizado (`Spec/Humor_Inventario.md`).
 
 Não reescreva do zero - apenas aponte. Se encontrar erro, cite `arquivo:linha` + regra.
 
@@ -55,7 +55,7 @@ Depois da análise:
 
 1. Execute validações finais previstas pela skill (`grep` glossário/voz, `largura_texto`, `diff` sem truncamento).
 2. Verifique se todos os arquivos do capítulo foram comparados.
-3. Classifique cada achado por origem: `IA estranha`, `humana estranha`, `ambas estranhas`, `divergência estilística aceitável`.
+3. Classifique cada achado por gravidade (`FAIL`/`WARN`/`INFO`) e tipo (técnico/glossário/voz/concordância/singular-plural/pleonasmo/semântico/naturalidade).
 4. Só considere concluído quando cada bloco tiver equivalente semântico.
 
 ## Autonomia
@@ -69,13 +69,13 @@ Não peça confirmação para decisões que possam ser resolvidas consultando a 
 Ao concluir, informe de forma objetiva e concisa (sem superlativos), mas com **análise crítica e opinião técnica**:
 
 - capítulo e arquivos comparados (quantidade de blocos);
-- tabela de achados com citação exata `arquivo:linha` EN vs humana vs IA, classificando `IA estranha / humana estranha / ambas estranhas / divergência estilística aceitável`;
-- contagem por categoria (técnico/glossário/voz/concordância/singular-plural/pleonasmo/semântico);
-- **Opinião técnica:** a IA atingiu bom estado autônomo? justifique com taxa de fidelidade e gravidade dos erros (ex. `00_004020.lbin.txt:73` concordância vs `00_004010.lbin.txt:17` inversão `charade→perda de tempo`);
-- **Onde temos ganho (IA vs humana):** liste ganhos objetivos da IA (fidelidade, trocadilho `crackling→pururuca crocante` `00_004005.lbin.txt:39`, caixa/largura, voz Layton `Sua constância... meu jovem` `00_002000.lbin.txt:92`);
-- **Pontos de melhoria (IA e humana):** liste correções prioritárias por impacto, com sugestão mínima cirúrgica preservando tags/caixa (ex. `algo estranha→estranho`, `relojoaria→relojoarias` `00_009055.lbin.txt:47`, `daqui a dez anos no futuro→daqui a dez anos` `00_002000.lbin.txt:26`);
-- **Análise crítica / feedback:** destaque 3-5 padrões recorrentes (ex. humana inventa adjuntos, IA neutraliza metáforas, pleonasmo temporal recorrente), diga o que manter, o que corrigir e o que não mexer;
-- veredito comparativo humana vs IA;
-- ambiguidades ou limitações (ex. capítulo sem IA).
+- tabela de achados com citação exata `arquivo:linha` EN vs PT, classificando gravidade e tipo;
+- contagem por categoria (técnico/glossário/voz/concordância/singular-plural/pleonasmo/semântico/naturalidade);
+- **Opinião técnica:** a tradução atingiu bom estado autônomo? justifique com taxa de fidelidade e gravidade dos erros (ex. `00_004020.lbin.txt:73` concordância vs `00_004010.lbin.txt:17` inversão `charade→perda de tempo`);
+- **Pontos fortes:** liste acertos objetivos (fidelidade, trocadilho `crackling→pururuca crocante` `00_004005.lbin.txt:39`, caixa/largura, voz Layton `Sua constância... meu jovem` `00_002000.lbin.txt:92`);
+- **Pontos de melhoria:** liste correções prioritárias por impacto, com sugestão mínima cirúrgica preservando tags/caixa (ex. `algo estranha→estranho`, `relojoaria→relojoarias` `00_009055.lbin.txt:47`, `daqui a dez anos no futuro→daqui a dez anos` `00_002000.lbin.txt:26`);
+- **Análise crítica / feedback:** destaque 3-5 padrões recorrentes (ex. neutralização de metáforas, pleonasmo temporal, calque sintático), diga o que manter, o que corrigir e o que não mexer;
+- veredito geral da tradução do capítulo;
+- ambiguidades ou limitações (ex. capítulo sem tradução PT).
 
 Não reproduza as regras da skill no relatório. Apenas informe o resultado com evidência `arquivo:linha`.

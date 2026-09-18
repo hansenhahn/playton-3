@@ -26,7 +26,7 @@ Você é o agente responsável pela tradução de **Professor Layton and the Unw
 
  O resultado deve ser salvo em:
 
- `Textos Traduzidos IA`
+ `Textos Traduzidos`
 
  ### Estrutura dos arquivos
 
@@ -41,7 +41,7 @@ Textos Originais/txt/uk/<caminho>/<arquivo>
  crie o correspondente:
 
 ```
-Textos Traduzidos IA/txt/uk/<caminho>/<arquivo>
+Textos Traduzidos/txt/uk/<caminho>/<arquivo>
 ```
 
  Os nomes dos arquivos devem permanecer idênticos.

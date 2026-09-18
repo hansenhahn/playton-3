@@ -1,18 +1,18 @@
 ---
 name: layton-qa
-description: Use ao revisar, validar ou corrigir tradução PT-BR de Professor Layton (playton-3) — QA semântico, glossário, voz, caixa e tags comparando Textos Originais vs Textos Traduzidos IA. Aciona com revisar, revisão, QA, validar tradução, corrigir tradução, segunda iteração, diff, proofread.
+description: Use ao revisar, validar ou corrigir tradução PT-BR de Professor Layton (playton-3) — QA semântico, glossário, voz, caixa e tags comparando Textos Originais vs Textos Traduzidos. Aciona com revisar, revisão, QA, validar tradução, corrigir tradução, segunda iteração, diff, proofread.
 ---
 
 # Skill de QA — Layton
 
-Skill de **segunda iteração** para Professor Layton PT-BR. Pressupõe que `Textos Traduzidos IA` já é uma primeira tradução autônoma suficientemente boa (fluente, ~95% correta) e atua como **revisor cirúrgico**: compara `Textos Originais/txt/uk` ↔ `Textos Traduzidos IA/txt/uk` e corrige apenas pequenos erros semânticos, de voz, glossário, tags e caixa — sem reescrever do zero.
+Skill de **segunda iteração** para Professor Layton PT-BR. Pressupõe que `Textos Traduzidos` já é uma tradução autônoma suficientemente boa (fluente, ~95% correta) e atua como **revisor cirúrgico**: compara `Textos Originais/txt/uk` ↔ `Textos Traduzidos/txt/uk` e corrige apenas pequenos erros semânticos, de voz, glossário, tags e caixa — sem reescrever do zero.
 
 > **Premissa:** erros invisíveis ao checklist técnico da `layton-translation` só caem no diff semântico com contexto. O QA reabre dossiê e capítulo antes de julgar; contexto desambigua tempo, deixis e voz.
 
 ## Quando usar
 
 - `revisar`, `revisão`, `QA`, `validar tradução`, `corrigir tradução`, `segunda iteração`, `diff`, `proofread`
-- Edição de `Textos Traduzidos IA/**/*.lbin.txt` comparando com `Textos Originais`
+- Edição de `Textos Traduzidos/**/*.lbin.txt` comparando com `Textos Originais`
 - Validação pré-`create_rom` ou pré-commit após tradução autônoma
 
 ## Fontes de verdade (mesmas da tradução — não duplicar)
@@ -29,14 +29,14 @@ Skill de **segunda iteração** para Professor Layton PT-BR. Pressupõe que `Tex
 ## Harness obrigatório (não inferir — executar)
 
 Antes de qualquer julgamento, rode o validador genérico (vale para todos
-os capítulos, mesmo sem IA/HUM traduzidos):
+os capítulos, mesmo sem PT traduzido):
 
 ```
 python3 .opencode/scripts/qa_chapter.py --cap <XX>
 ```
 
 Ele mecaniza os bullets determinísticos: extração `<T>`→`</V>|!---!|!***!`
-com `join('\n')`, block-count EN↔IA, tags multiset+posição (`REGRAS:68`),
+com `join('\n')`, block-count EN↔PT, tags multiset+posição (`REGRAS:68`),
 ≤3 linhas/página (`REGRAS:69`), hifenização (`REGRAS:71`), largura real
 `adv` via `Previewer/Fontes/fontevent.nftr` (hard 247px / safe 210px),
 `windows-1252`, glossário `\b`, voz com falante (FAIL só em Layton; Luke
@@ -51,7 +51,7 @@ corrija os FAILs, julgue os INFO/WARN com `Capitulo_XX` + dossiê, e cite
 
 ## Fluxo de trabalho — segunda iteração
 
-1. **Localize par:** para cada `Textos Traduzidos IA/txt/uk/<cap>/<arq>.lbin.txt`, abra `Textos Originais/txt/uk/<cap>/<arq>.lbin.txt` correspondente. Se `Textos Traduzidos/txt/uk` (humana) existir, use como terceira referência de gosto, não como verdade.
+1. **Localize par:** para cada `Textos Traduzidos/txt/uk/<cap>/<arq>.lbin.txt`, abra `Textos Originais/txt/uk/<cap>/<arq>.lbin.txt` correspondente.
 2. **Diff por bloco:** extraia `<T>...</V>` de ambos, faça `join('\n')` antes de comparar. Compare EN→PT sentido a sentido, não linha a linha, sempre com o resumo do capítulo à mão.
 3. **Cheque técnico (bloqueante):** confira `REGRAS_TRADUCAO.md:68` tags na mesma posição e intactas, `REGRAS_TRADUCAO.md:69` ≤3 linhas por página, `REGRAS_TRADUCAO.md:71` sem hifenização, `windows-1252` sem `�` e largura real via `Spec/Fontes_NFTR.md:4` (`fontevent.nftr`/`fontq.nftr`, `Previewer/Configs/Screen01.ini`). Tags não contam. Se estourar largura ou quebrar caixa, reescreva **minimamente** preservando sentido.
 4. **Cheque glossário:** confirme `puzzle→enigma`, `hint coin→moeda de dica`, `gentleman→cavalheiro`, `Inspector→Inspetor`, `Granny→Vovó` etc. conforme `REGRAS_TRADUCAO.md:2`. Uso de `grep` pode apoiar, mas o critério é terminológico, não ferramentístico.
@@ -60,12 +60,12 @@ corrija os FAILs, julgue os INFO/WARN com `Capitulo_XX` + dossiê, e cite
 7. **Cheque singular/plural (contexto):** compare número em EN vs PT com contexto de cena. Consulte `Capitulo_XX.md` para quantificação; plural coletivo só se EN for plural ou cena exigir.
 8. **Cheque pleonasmo (contexto):** acuse redundância gerada em PT ausente em EN, validando com contexto narrativo. Só acuse se EN/contexto não for redundante.
 9. **Cheque semântico (o que a primeira iteração não pega):** faça back-translation mental PT→EN com o capítulo aberto. Desambiguie `from` temporal vs destinatário, deixis, negação e inversões de papel consultando `Capitulo_XX.md`.
-10. **Corrija cirurgicamente:** edite `Textos Traduzidos IA` **in-place**, preservando tags/quebras. Troque só o necessário e revalide com leitura contextual. Nunca apague `<W>` ou mova tag para fim da frase.
+10. **Corrija cirurgicamente:** edite `Textos Traduzidos` **in-place**, preservando tags/quebras. Troque só o necessário e revalide com leitura contextual. Nunca apague `<W>` ou mova tag para fim da frase.
 
 ## O que corrigir vs. o que preservar
 
 - **CORRIGIR:** erro semântico crítico mesmo que fluente (inversão temporal/destinatário), typo, glossário, gíria incompatível com dossiê, tag deslocada, quebra de caixa/largura.
-- **PRESERVAR:** escolha estilística do tradutor que respeita dossiê e glossário, mesmo que diferente da humana.
+- **PRESERVAR:** escolha estilística do tradutor que respeita dossiê e glossário.
 
 ## Naturalidade idiomatica (o que escorrega mesmo sem erro)
 
@@ -73,10 +73,10 @@ Depois do checklist tecnico/glossario/voz, revise estes padroes — nao sao erro
 
 1. **Tratamento:** quem trata Layton com deferencia (`Future Luke`, `Harold`, `Anita`, `Sharon`, `Margaret`, `Bacchus`, `Adeline`, `Woods`, `Delroy`) usa `o senhor`/`a senhora`, nao `você` (`INFO/tratamento`).
 2. **Calque sintatico:** sintaxe inglesa vazando — `chegar ao fundo disso`, `cruza os anos`, `plenamente operacional`, `ao usuário`; reescrever com idioma PT (`INFO/calque`).
-3. **Elipse/telegrafico:** a IA corta sujeito/verbo e soa seca (`Conversamos no caminho`, `Outra pergunta a responder`); restaurar frase falada.
+3. **Elipse/telegrafico:** a tradução corta sujeito/verbo e soa seca (`Conversamos no caminho`, `Outra pergunta a responder`); restaurar frase falada.
 4. **Termo duro:** `operacional`, `usuário`, `registro`, `procedimento` onde o original e falado.
 5. **Idioma achatado:** `Time has a way of changing people` -> `O tempo muda as pessoas` (perdeu "has a way of"). Ver `IDIOM_WATCH` do harness.
-6. **Intensificador neutralizado:** `tudo indica`, `ninguém mais teria chance`, `não deve faltar` (a humana acerta, a IA achata).
+6. **Intensificador neutralizado:** `tudo indica`, `ninguém mais teria chance`, `não deve faltar` — restaurar a força do original.
 7. **Trocadilho/pun — recriar, nunca traduzir:** o efeito vale mais que a palavra. Regra pratica: escolha um par **quase-homofono** (comida/objeto ~ palavra certa); a palavra-pun **nao pode estar no nome** do prato/coisa, senao nao soa como escorregão. Ex.: EN `fish and chips . . . none batter! I mean better!` -> PT `minha massa ao molho de queijo é premiada! Vale a penne! Quero dizer, vale a pena!` (`penne`≈`pena`). Se nao houver par, recrie o efeito com outra piada — nunca deixe literal.
 
 Gags/trocadilhos: consultar `Spec/Humor_Inventario.md` (por capitulo) antes de mexer — trocadilho neutralizado passa batido.
@@ -91,4 +91,4 @@ Após correções no capítulo revisado, valide qualitativamente com contexto:
 
 ## Saída esperada
 
-Ao revisar, cite diff e regra (ex. `REGRAS_TRADUCAO.md:68` para tags, dossiê do falante para voz) e capítulo de contexto. Liste arquivos tocados, nº de fixes por categoria (técnico/glossário/voz/semântico) e se estrutura de `Textos Traduzidos IA` permanece idêntica a `Textos Originais`. Nunca invente bordão; se dúvida, registre como ambiguidade no relatório.
+Ao revisar, cite diff e regra (ex. `REGRAS_TRADUCAO.md:68` para tags, dossiê do falante para voz) e capítulo de contexto. Liste arquivos tocados, nº de fixes por categoria (técnico/glossário/voz/semântico) e se estrutura de `Textos Traduzidos` permanece idêntica a `Textos Originais`. Nunca invente bordão; se dúvida, registre como ambiguidade no relatório.

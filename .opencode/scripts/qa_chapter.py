@@ -4,9 +4,11 @@
 Uso:
     python3 .opencode/scripts/qa_chapter.py --cap 01 [--root .] [--report qa_01.json] [--md qa_01.md]
 
-Nao traduz nem edita: apenas detecta. A skill layton-qa continua mandando
-no rewrite cirurgico; este script mecaniza os bullets deterministicos e
-gera sidecar de flagrados para o julgamento semantico (LLM/manual).
+Compara `Textos Originais/txt/uk/<cap>` (EN, verdade) com
+`Textos Traduzidos/txt/uk/<cap>` (PT-BR). Nao traduz nem edita: apenas
+detecta. A skill layton-qa continua mandando no rewrite cirurgico; este
+script mecaniza os bullets deterministicos e gera sidecar de flagrados
+para o julgamento semantico (LLM/manual).
 
 Cobertura por bloco: split('<T>') -> termina em </V> ou !---!/!***!
 (funciona para dublados <V> e nao-dublados de exploracao).
@@ -216,20 +218,17 @@ def content_lines(clean):
     return lines
 
 
-def check_file(en_path, ia_path, hu_path, wfunc):
+def check_file(en_path, pt_path, wfunc):
     en_txt = open(en_path, encoding="utf-8", errors="replace").read()
     findings = []
     en_blocks = parse_blocks(en_txt)
-    t_poses = [m.start() for m in re.finditer(r"<T>", en_txt)]
 
     targets = []
-    if ia_path and os.path.exists(ia_path):
-        targets.append(("IA", ia_path))
-    if hu_path and os.path.exists(hu_path):
-        targets.append(("HU", hu_path))
+    if pt_path and os.path.exists(pt_path):
+        targets.append(("PT", pt_path))
     if not targets:
         findings.append(
-            {"sev": "INFO", "cat": "cobertura", "msg": "sem par HUM/IA (cap. nao traduzido?)"}
+            {"sev": "INFO", "cat": "cobertura", "msg": "sem par PT (cap. nao traduzido?)"}
         )
         return en_blocks, findings
 
@@ -426,8 +425,7 @@ def main():
 
     cap = args.cap
     en_dir = os.path.join(args.root, "Textos Originais", "txt", "uk", cap)
-    ia_dir = os.path.join(args.root, "Textos Traduzidos IA", "txt", "uk", cap)
-    hu_dir = os.path.join(args.root, "Textos Traduzidos", "txt", "uk", cap)
+    pt_dir = os.path.join(args.root, "Textos Traduzidos", "txt", "uk", cap)
     if not os.path.isdir(en_dir):
         print(f"cap dir nao encontrado: {en_dir}", file=sys.stderr)
         return 2
@@ -445,8 +443,7 @@ def main():
     for f in files:
         en_blocks, ffind = check_file(
             os.path.join(en_dir, f),
-            os.path.join(ia_dir, f) if os.path.isdir(ia_dir) else None,
-            os.path.join(hu_dir, f) if os.path.isdir(hu_dir) else None,
+            os.path.join(pt_dir, f) if os.path.isdir(pt_dir) else None,
             wfunc,
         )
         total_blocks += len(en_blocks)
