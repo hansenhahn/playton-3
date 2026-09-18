@@ -44,6 +44,19 @@ SPEAKERS = {
     "未来ルーク": "Future Luke",
     "ハロルド": "Harold",
     "デロイ": "Delroy",
+    # Cap. 00 (Prologo): NPCs de tutorial/exploracao.
+    "フローレス": "Flora (tutorial)",
+    "ヒゲマフラー": "Moustache-Scarf Man",
+    "サマリー": "Mrs. Cogg",
+    "ジャック": "Jack Cogg",
+    "デビット": "David",
+    "スミス": "Smith (Guard)",
+    "チェルミー": "Chelmey",
+    "バートン": "Barton",
+    "カレリナ首相夫人": "Caroline Hawks",
+    "ビル・ホーク": "Bill Hawks",
+    "披露会場司会者": "Event MC",
+    "変装ディミトリー": "Dimitri (Stahngun)",
 }
 STRICT_VOICE = {"Layton"}  # informal aqui = FAIL; resto = INFO (Luke e criança: oralidade e esperada)
 # Falantes que tratam Layton com deferencia -> "voce" merece checagem (o senhor?)
@@ -175,11 +188,14 @@ def parse_blocks(text):
 
 
 def speaker_before(text, t_pos):
-    """Detecta falante pela ultima tag JP antes da posicao do <T>."""
+    """Detecta falante pela ultima tag JP antes da posicao do <T>.
+
+    Normaliza sufixo parentetico de contexto, ex. `チェルミー（食）` ->
+    `チェルミー` (mesmo personagem comendo), para casar em SPEAKERS.
+    """
     head = text[:t_pos]
-    names = re.findall(r"^ ?(.+)$", head, re.M)
     for line in reversed(head.splitlines()[-6:]):
-        s = line.strip()
+        s = re.sub(r"（[^）]*）\s*$", "", line.strip())
         if s in SPEAKERS:
             return SPEAKERS[s]
     return "?"
