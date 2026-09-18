@@ -2,7 +2,7 @@
 [7117030001000000:000a0000000200000000020d000000]
 ナレーション
 !******************************!
-<V0000><T>Professor, espero que esta carta lhe
+<V0000><T>Lala Professor, espero que esta carta lhe
 encontre bem.<W><W> Quanto a mim, estou em
 grandes apuros.</V>
 !******************************!
