@@ -14,8 +14,8 @@ Professor?
 [7117030007000000:000a0000000200000000027e000000]
 レイトン
 !******************************!
-<T>Digamos que tenho muita
-certeza: o primeiro-ministro
+<T>Digamos que estou convicto
+de que o primeiro-ministro
 ainda está vivo.
 !******************************!
 [711703000a000000:000a000000020000000002cb000000]

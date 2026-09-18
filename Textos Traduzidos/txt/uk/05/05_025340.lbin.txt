@@ -41,8 +41,8 @@ que não consigo resolver sozinho.
 デルモナ学長
 !******************************!
 <T>Minha querida neta o trouxe,
-mas por nada consigo resolver
-esse maldito enigma.
+mas não consigo de jeito nenhum
+resolver esse maldito enigma.
 !******************************!
 [7117030016000000:000a000000023c0000000251020000]
 レイトン
@@ -76,8 +76,9 @@ para mim, Hershel.
 [7117030025000000:000a00000002000000000272030000]
 デルモナ学長
 !******************************!
-<T><A1/1>Sim.<W> Então posso contar com
-sua ajuda para resolver este?
+<T><A1/1>Sim.<W> Então posso contar
+com sua ajuda para resolver
+este enigma?
 !******************************!
 [7117030028000000:000a000000023c00000002c1030000]
 レイトン

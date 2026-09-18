@@ -266,7 +266,7 @@ antigos. Diga que é ordem minha.
 チェルミー
 !******************************!
 <T><A1/1>Os arquivos não podem sair
-do arquivo, mas pode lê-los
+daqui, mas pode lê-los
 lá embaixo.
 !******************************!
 [711703007f000000:003c000000020000000002760c0000]
