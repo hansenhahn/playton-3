@@ -34,9 +34,9 @@ em outro lugar antes?
 [7117030010000000:000a0000000200000000028d010000]
 ベッキー
 !******************************!
-<T><A4/4>Ahn... É um assunto meio
-delicado, prefiro não
-falar sobre isso...
+<T><A4/4>Ahn... É um assunto delicado,
+prefiro não entrar em detalhes.
+Espero que entendam...
 !******************************!
 [7117030013000000:000a000000020000000002f4010000]
 ベッキー
@@ -158,7 +158,7 @@ passar na hora.
 [7117030049000000:00c20b000002100700000219070000]
 レイトン
 !******************************!
-<T><A1/2>Ho ho! Bom saber. Bem, vamos
+<T><A1/2>Ha ha! Bom saber. Bem, vamos
 passar pela galeria e
 conhecer um pouco mais a área.
 !******************************!

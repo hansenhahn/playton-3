@@ -66,7 +66,7 @@ Pra começar, toque no ícone do sapato.
 ナレーション
 !******************************!
 <T>Depois de tocar no sapato,
-vão aparecer umas setas. Toque
+vão aparecer setas. Toque
 numa delas pra se mover.
 !******************************!
 [7117030022000000:00e00b00000281000000024f030000]

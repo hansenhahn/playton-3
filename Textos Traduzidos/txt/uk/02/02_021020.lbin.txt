@@ -118,9 +118,9 @@ do líder da nossa nação, afinal.
 [711703003a000000:000d00000002630000000212050000]
 未来ルーク
 !******************************!
-<T>Desesperado por um esconderijo,
-o doutor foi abrigado por
-alguém improvável.<W> <A3/5>O senhor, Professor.
+<T>Desesperado por um esconderijo, o
+doutor foi abrigado por alguém
+improvável.<W> <A3/5>O senhor, Professor.
 !******************************!
 [711703003d000000:000d00000002690200000284050000]
 レイトン
@@ -155,8 +155,7 @@ do submundo do crime.
 未来ルーク
 !******************************!
 <T><A4/4>Não tenha tanta certeza. O tempo
-tem um jeito de mudar as
-pessoas, Luke.
+costuma mudar as pessoas, Luke.
 !******************************!
 [711703004f000000:000e000000026300000002f3060000]
 未来ルーク

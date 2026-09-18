@@ -215,8 +215,8 @@ segura até lá?
 未来ルーク
 !******************************!
 <T>Vão na frente para Chinatown sem
-mim. Shipley vai explicar como chegar lá.
-Certo?
+mim. Shipley vai explicar como
+chegar lá. Certo?
 !******************************!
 [711703006a000000:0014000000022b0100000230090000]
 レイトン
