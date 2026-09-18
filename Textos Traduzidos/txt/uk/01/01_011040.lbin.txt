@@ -2,12 +2,13 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/1>Olha só, Professor! Esta porta tá
-destrancada.
+<T><A1/1>Olha, Professor. Esta porta
+está destrancada.
 !******************************!
 [7117030004000000:000a000000023c0000000245000000]
 レイトン
 !******************************!
-<T>Interessante... Que tal entrarmos
-um instante, hein, Luke?
+<T>Interessante... Que tal
+entrarmos um instante,
+hein, Luke?
 !******************************!

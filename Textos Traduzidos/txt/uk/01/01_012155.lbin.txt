@@ -2,27 +2,27 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Essa deve ser a avenida grande
-de que o Max falou, a Flatstone
-Street.
+<T>Esta deve ser a rua grande
+de que o Max falava, a
+Flatstone Street.
 !******************************!
 [7117030004000000:000a0000000252000000025b000000]
 レイトン
 !******************************!
-<T>Excelente. Se seguirmos ao norte,
-devemos encontrar a estação à
-direita.
+<T>Excelente. Se continuarmos
+para o norte, devemos
+encontrar a estação à direita.
 !******************************!
 [7117030007000000:000a000000020000000002a8000000]
 ルーク
 !******************************!
-<T>Então já estamos quase lá.
-Vamos andando, Professor!
+<T>Então já estamos quase lá. Vamos
+andando, Professor!
 !******************************!
 [711703000a000000:000a000000020000000002e2000000]
 ルーク
 !******************************!
-<T><K>Hmm?<W></K> Ei, é impressão minha
-ou aquele homem na esquina está
-tremendo?
+<T><K>Hmm?<W></K> Ei, é impressão minha ou
+aquele homem na esquina
+está tremendo?
 !******************************!

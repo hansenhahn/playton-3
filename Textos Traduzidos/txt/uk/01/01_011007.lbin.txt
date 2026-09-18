@@ -2,15 +2,15 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/3>Ei! A porta bateu atrás da gente e
-agora está trancada!<W>
-Que falta de educação!
+<T><A1/3>Ei! A porta bateu atrás
+da gente e agora está
+trancada!<W> Que falta de educação!
 !******************************!
 [7117030004000000:000a000000026b0000000274000000]
 レイトン
 !******************************!
-<T><A4/1>Hmm. Ao que tudo indica, fomos
-trancados para fora.
+<T><A4/1>Hmm... Parece que ficamos
+trancados do lado de fora.
 !******************************!
 [7117030007000000:000a000000020000000002a8000000]
 ルーク
@@ -21,12 +21,12 @@ parece tão diferente?
 [711703000a000000:000a000000026b00000002eb000000]
 レイトン
 !******************************!
-<T>Francamente, não sei dizer, Luke.
+<T>Sinceramente, não sei, Luke.
 !******************************!
 [711703000d000000:000a000000026b000000020b010000]
 レイトン
 !******************************!
-<T><A1/1>Já que não podemos voltar á relojoaria,
-por ora, que tal darmos uma olhada
-ao redor?
+<T><A1/1>Como não podemos voltar à
+relojoaria, que tal darmos
+uma olhada ao redor?
 !******************************!

@@ -2,46 +2,46 @@
 [7117030001000000:000a00000002000000000209000000]
 ベッキー
 !******************************!
-<T>Vou levá-los ao seu quarto agora,
+<T>Vou levá-los ao quarto agora,
 Professor Layton.
 !******************************!
 [7117030004000000:000a00000002000000000244000000]
 ベッキー
 !******************************!
-<T>Meu nome é Becky. Fique à vontade
-para me chamar se precisar
-de qualquer coisa.
+<T>Meu nome é Becky. Não hesitem
+em me pedir caso
+precisem de algo.
 !******************************!
 [7117030007000000:000a0000000293000000029a000000]
 ルーク
 !******************************!
 <T><A3/1>A gente já sabe seu nome, Becky.
-Você disse antes, lembra?<A3/2>
-Eu sou o Luke!
+Você disse antes, lembra? <A3/2>Eu sou o
+Luke!
 !******************************!
 [711703000a000000:000a000000029300000002ff000000]
 ルーク
 !******************************!
-<T>Ah, e não precisa ser tão formal.
-Tanta polidez me deixa meio
-sem graça.
+<T>Ah, e não precisa ser tão
+formal. Toda essa formalidade me
+deixa sem jeito.
 !******************************!
 [711703000d000000:000a00000002000000000256010000]
 ベッキー
 !******************************!
-<T><A3/3>Xiiu! A vovó é rigorosa com
-o atendimento. Tenho que manter
-a formalidade perto dela!
+<T><A3/3>Xiiu! A Vovó é rigorosa com o
+atendimento. Tenho que manter a
+formalidade perto dela!
 !******************************!
 [7117030010000000:000a000000029300000002b9010000]
 ルーク
 !******************************!
-<T><A4/1>Ah, entendi. Beleza!
+<T><A4/1>Ah, entendi. Certo.
 !******************************!
 [7117030013000000:000a000000020000000002d5010000]
 ベッキー
 !******************************!
-<T><A1/1>Então, senhores, se estiverem
-prontos, vou levá-los ao quarto.<W>
-Por aqui, por favor!
+<T><A1/1>Muito bem, se os dois cavalheiros
+estão prontos, vou acompanhá-los
+ao quarto.<W> Por aqui, por favor!
 !******************************!

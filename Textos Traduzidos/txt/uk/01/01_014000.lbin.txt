@@ -2,51 +2,51 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<V0010><T><A1/2>Bem, Andrew, foi ótimo vê-lo,
-mas já está ficando tarde.
-Precisamos seguir viagem.</V>
+<V0010><T><A1/2>Bem, Andrew, foi maravilhoso
+revê-lo, mas já está ficando
+tarde. Devíamos ir andando.</V>
 !******************************!
 [7117030004000000:000a000000027d000000028e000000]
 未来シュレーダー
 !******************************!
-<V0020><T>Ah, ocupado como sempre.
-Passe aqui outra vez quando
-tiver um tempo, sim?</V>
+<V0020><T>Ah, ocupado como sempre, vejo.
+Apareça de novo quando tiver
+um tempo, sim?</V>
 !******************************!
 [7117030007000000:000a000000027d00000002eb000000]
 未来シュレーダー
 !******************************!
-<V0030><T>Oh, mas antes de irem, tenho
-algo seu que preciso devolver.</V>
+<V0030><T>Ah, mas antes de irem, tenho
+algo seu que devo devolver.</V>
 !******************************!
 [711703000a000000:000a000000027d000000023b010000]
 未来シュレーダー
 !******************************!
-<T><V0031>Estive cuidando dela por
-algum tempo, sabe.</V>
+<T><V0031>Estou cuidando dela já faz
+um bom tempo, sabe.</V>
 !******************************!
 [711703000d000000:0014000000027d0000000281010000]
 未来シュレーダー
 !******************************!
 <V0040><T>Não vou mais precisar dela,
 então pode levá-la. A velha
-querida está estacionada ali atrás.</V>
+senhora está nos fundos.</V>
 !******************************!
 [7117030010000000:0019000000020000000002ed010000]
 レイトン
 !******************************!
-<T><A3/1>Entendo. Muito obrigado.
+<T><A3/1>Entendo. Obrigado.
 !******************************!
 [7117030013000000:001e000000027d0000000208020000]
 未来シュレーダー
 !******************************!
-<T>Foi uma agradável surpresa
-revê-lo hoje, Hershel.
+<T>Foi uma grata surpresa
+vê-lo hoje, Hershel.
 !******************************!
 [7117030016000000:001e000000027d0000000241020000]
 未来シュレーダー
 !******************************!
-<T>Sei que está com pressa, mas
-leve essas chaves e vá até
-os fundos do prédio.
+<T>Sei que estão com pressa, mas
+deveriam ir até os fundos
+do prédio com estas chaves.
 !******************************!

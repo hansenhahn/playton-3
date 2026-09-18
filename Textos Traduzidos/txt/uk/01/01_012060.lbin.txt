@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000209000000]
 ベッキー
 !******************************!
-<T><A1/2>Bem-vindos ao Hotel Duke, um dos mais
-finos e renomados estabelecimentos
-de Londres.
+<T><A1/2>Bem-vindos ao Hotel Duke, um dos
+estabelecimentos mais finos e
+renomados de Londres.
 !******************************!
 [7117030004000000:000a0000000266000000026d000000]
 ルーク
@@ -14,84 +14,84 @@ de Londres.
 [7117030007000000:000a00000002000000000281000000]
 ベッキー
 !******************************!
-<T>Tee hee!<W> Saí na frente e tomei
+<T>Tee hee!<W> Corri na frente e tomei
 a liberdade de preparar um quarto
 para vocês.
 !******************************!
 [711703000a000000:000a000000020000000002ce000000]
 ベッキー
 !******************************!
-<T>Posso ajudar com as malas?
+<T>Posso ajudar com suas malas?
 !******************************!
 [711703000d000000:000a000000026600000002f0000000]
 ルーク
 !******************************!
-<T><A4/4>Ah, hum, isso é muito gentil da sua
-parte, mas nós só queríamos pedir
-informações para chegar à estação de trem.
+<T><A4/4>Ah, ahn, muito gentil da sua
+parte, mas só queríamos pedir
+informações da estação de trem.
 !******************************!
 [7117030010000000:000a00000002000000000255010000]
 ベッキー
 !******************************!
-<T><A1/1>Ora, vamos lá, senhores. Imagino
-que estejam aqui a passeio, não?
+<T><A1/1>Venham, cavalheiros. Imagino que
+estejam aqui a passeio?
 !******************************!
 [7117030013000000:000a00000002000000000296010000]
 ベッキー
 !******************************!
-<T>Bem, como podem ver, o Hotel Duke
-fica muito bem localizado.
+<T>Bem, o Hotel Duke fica bem
+no centro, como podem ver.
 !******************************!
 [7117030016000000:000a000000020000000002d4010000]
 ベッキー
 !******************************!
-<T>Hospedem-se conosco e passarão menos
-tempo se deslocando e mais tempo
-aproveitando a cidade.
+<T>Hospedem-se conosco e vão gastar
+menos tempo se deslocando e mais
+se divertindo na cidade.
 !******************************!
 [7117030019000000:00140000000231020000023a020000]
 レイトン
 !******************************!
-<T><A1/2>Ha ha! Seu argumento é bastante
+<T><A1/2>Ha ha! Seu argumento é bem
 convincente, minha jovem. Afinal,
 localização é tudo.
 !******************************!
 [711703001c000000:00140000000231020000029c020000]
 レイトン
 !******************************!
-<T>Ficaremos com o quarto — e também com
-as orientações para chegar
-à estação de trem, é claro.
+<T>Ficaremos com o quarto - e
+com as indicações para a estação
+de trem também, claro.
 !******************************!
 [711703001f000000:0014000000020000000002ee020000]
 ベッキー
 !******************************!
-<T>Por favor, senhor, nada desse negócio
-de {''}jovem{''}. Pode me chamar só de Becky.
+<T>Por favor, nada de {''}jovem{''}.
+Só me chame de Becky.
 !******************************!
 [7117030022000000:001400000002000000000239030000]
 ベッキー
 !******************************!
-<T>Agora, se puderem assinar o livro
-de hóspedes do hotel...
+<T>Agora, se puderem só assinar
+o livro de hóspedes do hotel...
 !******************************!
 [7117030025000000:001e00000002660000000278030000]
 ルーク
 !******************************!
-<T>Hum, Professor… a gente vai
-mesmo ficar aqui?
+<T>Ahn, Professor... a gente
+vai mesmo ficar aqui?
 !******************************!
 [7117030028000000:001e000000023102000002ac030000]
 レイトン
 !******************************!
-<T><A2/1>Sim, vamos. De alguma forma, você
-e eu acabamos nos perdendo em
-uma região desconhecida.
+<T><A2/1>De fato. De algum modo, você e eu
+acabamos nos perdendo em
+uma área desconhecida.
 !******************************!
 [711703002b000000:001e00000002310200000211040000]
 レイトン
 !******************************!
-<T><A2/2>Como a Becky bem observou, ter um local
-central para onde possamos retornar
-enquanto estivermos aqui pode ser bastante útil.
+<T><A2/2>Como a Becky observou, ter um
+lugar central para voltar enquanto
+estivermos aqui pode ser bem útil.
 !******************************!

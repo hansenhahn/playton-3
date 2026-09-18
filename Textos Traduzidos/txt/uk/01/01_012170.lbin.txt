@@ -10,19 +10,18 @@ da Família que vimos antes!
 レイトン
 !******************************!
 <T>De fato. É impressionante como
-eles conseguem parecer tão
-anônimos.
+eles conseguem parecer tão anônimos.
 !******************************!
 [7117030007000000:0014000000020000000002a8000000]
 ルーク
 !******************************!
-Diga, Professor, aquela não é a
-placa da estação de trem?
+<T>Ei, Professor, aquela não é
+a placa da estação de trem?
 !******************************!
 [711703000a000000:0014000000025f00000002e6000000]
 レイトン
 !******************************!
-<T>É sim. Demorou mais do que o
-esperado, mas enfim chegamos
-à estação.
+<T>De fato é. Demorou mais que
+o esperado, mas finalmente
+chegamos à estação.
 !******************************!

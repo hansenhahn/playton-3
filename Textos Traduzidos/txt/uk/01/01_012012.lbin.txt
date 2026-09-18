@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000209000000]
 アデリン
 !******************************!
-<T>Pode esperar o quanto quiser, rapaz.
-O ônibus não vai aparecer.
-É melhor ir de trem.
+<T>Pode esperar o quanto quiser,
+rapazinho. O ônibus não vem.
+É melhor pegar o trem.
 !******************************!

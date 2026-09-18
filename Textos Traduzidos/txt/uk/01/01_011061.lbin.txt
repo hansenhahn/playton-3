@@ -2,12 +2,12 @@
 [7117030001000000:000a00000002000000000209000000]
 ドルガー
 !******************************!
-<T><A1/5>Ah, olá, rapaz!<A3/0>
+<T>Ah, olá, meu rapaz!
 !******************************!
 [7117030004000000:000a00000002210000000228000000]
 ルーク
 !******************************!
-<T><A1/1>Ah... er, olá.
+<T><A1/1>Ah, olá.
 !******************************!
 [7117030007000000:000a00000002000000000240000000]
 ドルガー
@@ -18,31 +18,33 @@
 [711703000a000000:000a00000002210000000263000000]
 ルーク
 !******************************!
-<T><A1/5>Ah... deixa pra lá.
-Não é nada, não.
+<T><A1/5>Ahn... deixa pra lá. Não é
+nada, não.
 !******************************!
 [711703000d000000:000a00000002000000000293000000]
 ドルガー
 !******************************!
-<T><A1/5>Ei, não vá embora! Fica tão solitário
-por aqui sem ninguém pra conversar.
+<T><A1/5>Ei, não vá embora! Fica
+tão solitário por aqui
+sem ninguém pra conversar.
 !******************************!
 [7117030010000000:000a000000022100000002ea000000]
 ルーク
 !******************************!
-<T><A4/4>Ah... isso é horrível...
+<T><A4/4>Ah... Que horrível...
 !******************************!
 [7117030013000000:000a0000000200000000020c010000]
 ドルガー
 !******************************!
-<T><A1/1>Você é um bom garoto. Poucos jovens
-parariam pra ouvir os problemas de
-um velho.
+<T><A1/1>Você é um bom rapaz. Poucos
+jovens parariam pra ouvir
+os problemas de um velho.
 !******************************!
 [7117030016000000:000a0000000200000000026b010000]
 ドルガー
 !******************************!
-<T>Aqui, um presentinho pela sua bondade.
+<T>Aqui está uma lembrancinha
+pela sua gentileza.
 !******************************!
 [7117030019000000:000a0000000221000000029b010000]
 ルーク
@@ -52,24 +54,26 @@ um velho.
 [711703001c000000:00e8030000020000000002a3010000]
 ドルガー
 !******************************!
-<T><A1/5>Está tendo um pouquinho de dificuldade com
+<T><A1/5>Está com dificuldade no
 meu enigma?<A2/5><W> <A1/5>ENTÃO?<W> Não se preocupe.
-Se continuar tentando, uma hora consegue.
+Se continuar tentando, consegue.
 !******************************!
 [711703001f000000:00d007000002000000000226020000]
 ドルガー
 !******************************!
-<T><A1/5>Voltou pra tentar resolver aquele enigma
-de novo?<A2/5><W> <A1/5>ENTÃO?
+<T><A1/5>Voltou para tentar o
+enigma de novo?<A2/5><W> <A1/5>ENTÃO?
 !******************************!
 [7117030022000000:00b80b00000200000000026b020000]
 ドルガー
 !******************************!
-<T><A1/5>Ora, mas você é esperto que só!
+<T><A1/5>Ora, mas você é esperto
+que só!
 !******************************!
 [7117030025000000:00a00f000002000000000299020000]
 ドルガー
 !******************************!
-<T><A1/5>O quê? Quer resolver outro enigma?<A2/5><W> <A1/5>ENTÃO?<W>
-Vou pensar em um. Me dê um minutinho.
+<T><A1/5>O quê? Quer resolver outro
+enigma?<A2/5><W> <A1/5>ENTÃO?<W> Vou pensar em um.
+Me dá um minutinho.
 !******************************!

@@ -2,21 +2,20 @@
 [7117030001000000:000a0000000200000000020d000000]
 ナレーション
 !******************************!
-<T>Você recebeu o mais moderno e incrível
-carrinho de brinquedo da gerente
-do hotel, Margaret.
+<T>Você recebeu o mais novo e
+incrível carrinho de brinquedo
+da gerente do hotel, Margaret.
 !******************************!
 [7117030004000000:000a00000002000000000263000000]
 ナレーション
 !******************************!
-<T>O jogo do Carrinho
-foi adicionado à
-mala.
+<T>O minijogo do Carrinho foi
+adicionado à mala.
 !******************************!
 [7117030007000000:000a00000002000000000298000000]
 ナレーション
 !******************************!
-<T>Use o raciocínio para
-guiar o carrinho por
-pistas cheias de obstáculos.
+<T>Use sua astúcia para guiar
+seu carrinho por pistas
+sinuosas cheias de obstáculos.
 !******************************!
