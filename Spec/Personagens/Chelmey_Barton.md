@@ -21,7 +21,7 @@ Dupla cômica policial recorrente da série. No Prólogo são alívio no banquet
 - **Autodepreciativo:** `I make a lot of mistakes... I have made some howlers... I found myself in quite a jam...` (`Spec/Capitulo_05.md:661`).
 
 ## 3. Registro Linguístico
-- **Chelmey:** britânico autoritário, `Barton!`, `Hmph.`, `Blasted!`, `What did you just say?!` (`<J54>`), `Hmph.` (`<K>`). Frases imperativas curtas. Nunca `please` com Barton.
+- **Chelmey:** britânico autoritário, `Barton!`, `Hrm.`/`Hrm!` (tique, `00_004000`/`00_004005` — não `Hm.`), `Hmph.`, `Blasted!`, `What did you just say?!` (`<J54>`), `Hmph.` (`<K>`). Frases imperativas curtas. Nunca `please` com Barton.
 - **Barton:** gagueira polida `Er...`, `Ummm - gulp - erm...`, `Oh my, sir...`, `Yes, sir! All residents... Yes, sir!` (`Spec/Capitulo_14.md:138`), onomatopeias `Chomp chomp`, `Shlurp`, `Mmm, tea. Lovely, lovely tea...`.
 - **Duo:** Chelmey interrompe, Barton corrige em sussurro.
 

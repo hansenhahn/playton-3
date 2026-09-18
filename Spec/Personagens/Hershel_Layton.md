@@ -42,7 +42,8 @@ Constante moral, mas muda de cético → crente no wormhole/lift → desmascarad
 - **NUNCA fazer Layton falar coloquial jovem:** evitar `tá`, `cara`, `bora`, `mano`. Ele é anacrônico de propósito.
 - **Preservar `my boy` → `meu rapaz` / `meu jovem`, não `meu garoto` (infantiliza).**
 - **Chapéu (termo fixo):** o chapéu do Professor é sempre `cartola` — inclusive onde o original diz só `hat` (`big hat`, `your hat`, `lose the hat`). Exceção: chapéus que NÃO são o dele mantêm `chapéu` (ex.: `matching hats` dos capangas em `01_012150`). `bare head` → `cabeça descoberta`.
-- **Interjeições:** `Ho ho!` → `Ho ho!` (manter, é marca), não `Haha!`; `Hmm...` manter com reticências.
+- **Tratamento e imperativo:** com estranhos/autoridades usa `o senhor`/`a senhora`; nunca imperativo informal — `consegue imaginar?` (não `imagina?`), `veja`/`olhe` (não `vê`/`olha`).
+- **Interjeições:** no EN ele ri **`Ha ha!`** (6× nos caps 0–2) **e `Ho ho!`** (2×) — seguir a linha do original, não fixar uma só; `Hmm...` manter com reticências; `My word...` → `Minha nossa...`.
 - **Deduções:** quebrar em frases curtas com pausa, imitando `<W>`. Ex.: `Let's think clearly. Those blocks... They don't float in mid-air.`
 - **Teste:** traduzir `I won't be convinced until I've seen the contraption work for myself.` → `Só me convencerei quando vir o aparelho funcionar com meus próprios olhos.` (formal, sem `só acredito vendo` gírio).
 

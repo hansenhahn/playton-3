@@ -43,7 +43,7 @@ Durante a análise - execute os 8 cheques da skill por bloco, sempre por context
 
 - **Cheque técnico (bloqueante):** tags na mesma posição (`REGRAS_TRADUCAO.md:68`), ≤3 linhas por página (`REGRAS_TRADUCAO.md:69`), sem hifenização (`REGRAS_TRADUCAO.md:71`), `windows-1252`, largura real via `Spec/Fontes_NFTR.md:4` (`fontevent.nftr` hard 247px / safe 210px).
 - **Cheque glossário:** `puzzle→enigma`, `hint coin→moeda de dica`, `Inspector→Inspetor`, `Granny→Vovó` (`REGRAS_TRADUCAO.md:2`).
-- **Cheque voz:** abrir dossiê do falante (`_INDICE.md:40`) - acuse `tô/pra/tá/né` em Layton/Luke.
+- **Cheque voz:** abrir dossiê do falante (`_INDICE.md:40`) — o dossiê é a fonte da verdade do registro, não uma lista fixa. Layton é formal e proíbe coloquialidade (`Hershel_Layton.md:42`); Luke é criança e **pode** usar oralidade infantil `tá/pra/tô/né/a gente` (`Luke_Triton.md:18`, `Luke_Triton.md:47`) — não formalizar; o que não cabe em Luke é gíria pesada (`mano`, `véi`) e informalidade em narração.
 - **Cheque concordância/gênero (contexto):** valide concordância interna PT-BR contra referente EN (`algo ... estranha → estranho` em `00_004020.lbin.txt:73`).
 - **Cheque singular/plural (contexto):** compare número EN vs PT (`clock shops → relojoaria vs relojoarias` em `00_009055.lbin.txt:47`).
 - **Cheque pleonasmo (contexto):** redundância gerada em PT ausente em EN (`from 10 years in the future → daqui a dez anos no futuro` em `00_002000.lbin.txt:26`).

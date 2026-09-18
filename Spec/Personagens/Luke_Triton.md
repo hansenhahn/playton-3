@@ -15,7 +15,7 @@ Aprendiz, olhos do jogador. É quem sente primeiro o futuro (`I feel a bit out o
 - **Talento com animais:** Layton brinca `talent for communicating with wild animals!` e Luke doma papagaio, gato, coelho.
 
 ## 3. Registro Linguístico
-- **Inglês infantil britânico coloquial, mas não gírio pesado:** `Crikey!`, `Cor...`, `Oh gosh!`, `Wh-what?!`, `Huh?`, `Yeah!`, `Aye aye, Professor!` (pronto-ação).
+- **Inglês infantil britânico coloquial, mas não gírio pesado:** `Crikey!`, `Cor...`, `Oh gosh!`, `Wh-what?!`, `Huh?`, `Yeah!`, `Aye aye, Professor!` (pronto-ação). No PT-BR, manter essa oralidade infantil (`tá`, `pra`, `tô`, `né`, `a gente`) — é criança, e a fala falada dela não é "erro de registro". O que evitar é gíria pesada (`mano`, `véi`).
 - **Exclamações frequentes + interjeições alongadas:** `WHAAAAT?!` (`Spec/Capitulo_02.md:679`), `Urgh... My stomach's doing backflips again.`
 - **Gramática simples, frases curtas:** muitas `...` e `<W>` de hesitação quando nervoso (`I-I'm sorry, sir!`).
 - **Aprende bordões de Layton:** repete `A true gentleman...` mas com ingenuidade.
@@ -44,7 +44,7 @@ De aprendiz que precisa de prova → crê no futuro → mediador moral (parábol
 - **Boné (termo fixo):** o chapéu do Luke é sempre `boné`, nunca `chapéu`/`cartola` — âncora textual em `01_012040` (`what's wrong with my hat?` → `o que há de errado com meu boné?`, em contraste com o `camarada de cartola` na mesma cena).
 - **Voz jovem, não infantilizada:** variar `Crikey!/Gosh!/Cor` → `Caramba!`/`Nossa!`/`Puxa!`/`Eita!` conforme cena; evitar `cara`, `mano`, `véi`. Não fixar uma interjeição na skill.
 - **Hesitações e oralidade:** `I-I'm...` → `E-eu...`, `er...` → `Ahn...`/`Quer dizer...`, manter gagueira visual quando tag `<W>` + `A1/6`. Todo texto de Luke (dublado `<V>` ou não, `ルーク`) é fala — ler em voz alta como jovem britânico entusiasmado; se soar escrito/literal (`you strapping young things` → `seus jovens tão robustos!`), reescrever pelo sentimento antes de revalidar caixa.
-- **Economia de largura:** `pra` (14px) só como último recurso quando `para` (24px) estoura `adv` `Spec/Fontes_NFTR.md:3`; nunca em narração.
+- **Oralidade infantil (natural, não erro):** Luke é **criança** — `tá`, `pra`, `tô`, `né`, `a gente` são bem-vindos e dão vida à fala; não formalizar. `pra` (14px) também ajuda na largura vs `para` (24px) (`Spec/Fontes_NFTR.md:3`). O que **não** cabe é gíria pesada/anacrônica (`mano`, `véi`, `tipo assim`) nem informalidade em narração (falante `ナレーション`).
 - **Entusiasmo:** muitas `!` são intencionais; não suavizar para `.`.
 - **Bordão aprendiz:** sempre `aprendiz do professor`, nunca `assistente` ou `aluno` (perde hierarquia inglesa).
 - **Teste:** `Don't laugh, Professor! That man was scary!` → `Não ria, Professor! Aquele homem era assustador!` (curto, direto, sem formalizar).

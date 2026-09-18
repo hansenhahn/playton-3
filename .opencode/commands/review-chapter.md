@@ -61,7 +61,7 @@ Durante a revisão — execute os 10 cheques da skill por bloco, sempre com cont
 
 - **Cheque técnico (bloqueante) — cálculo exato:** `REGRAS_TRADUCAO.md:68` tags na mesma posição e intactas (`<W>`, `<01:...>`, `<V>`, `<N>` não contam na largura), `REGRAS_TRADUCAO.md:69` ≤3 linhas por página (`!------------------------------!`), `REGRAS_TRADUCAO.md:71` sem hifenização, `windows-1252` sem `�`. Largura: some `adv` por caractere via `Spec/Fontes_NFTR.md:4` (`nftr.py:124-132`) usando `Previewer/Fontes/fontevent.nftr` (Screen01 `Textos Normais`, `ScreenXPos 9`, `ScreenNewLine 16`) e `fontq.nftr` (enigmas). Limite **hard 247px** (`256-ScreenXPos`), **safe 210px** (`REGRAS_TRADUCAO.md:73`). `>247` = reprova (corrigir), `210-247` = aviso (reescrever com sinônimo mais curto se trivial).
 - **Cheque glossário (grep):** `puzzle→enigma`, `Puzzle Index→Livro de Enigmas`, `hint coin→moeda de dica`, `hint→dica`, `gentleman→cavalheiro`, `Inspector→Inspetor`, `Constable Barton→Agente Barton`, `Granny→Vovó Riddleton`, `Don Paolo`, `Good thinking!→Bem pensado!`. `grep -R "quebra-cabeça|hint coin|Granny|Índice de Enigmas|Inspector"` deve dar 0.
-- **Cheque voz:** abra dossiê do falante (`_INDICE.md:40`). Acuse `tá/pra/tô/né/bora/mano` em Layton/Luke/Flora, `tá` em `01_011008`, `Pra onde` em `00_009055`. Corrija para registro do dossiê (`De fato.`, `Meu jovem`, `Pode deixar, Professor!`, `Caramba!`).
+- **Cheque voz:** abra dossiê do falante (`_INDICE.md:40`) — **fonte da verdade do registro**. Layton é formal e não usa coloquialidade (`Hershel_Layton.md:42`); Luke é criança e **pode** usar oralidade infantil `tá/pra/tô/né/a gente` (`Luke_Triton.md:18`, `Luke_Triton.md:47`) — não corrigir para culto; em Luke só gíria pesada (`mano`, `véi`) e informalidade em narração são erro. Demais falantes: revisão manual pelo dossiê. Corrija para registro do dossiê (`De fato.`, `Meu jovem`, `Pode deixar, Professor!`, `Caramba!`).
 - **Cheque concordância/gênero (contexto):** valide contra referente EN + `Capitulo_XX.md` (ex. `something ... off → estranho` não `estranha` em `00_004020.lbin.txt:73`).
 - **Cheque singular/plural (contexto):** compare número EN vs PT com cena (ex. `clock shops → relojoarias` não `relojoaria` em `00_009055.lbin.txt:47`, `places to be → compromissos`).
 - **Cheque pleonasmo (contexto):** redundância PT ausente em EN (ex. `from 10 years in the future → daqui a dez anos no futuro` pleonasmo → `daqui a dez anos` em `00_002000.lbin.txt:26`).
@@ -72,7 +72,7 @@ Depois da revisão:
 
 1. Execute validações finais previstas pela skill no capítulo revisado (cálculo exato, não estimativa):
    - `grep -R "quebra-cabeça|hint coin|Inspector|Granny" Textos\ Traduzidos\ IA/txt -- 0`
-   - `grep -R " tô | pra | né | tá " Textos\ Traduzidos\ IA/txt/uk/<cap> -- 0`
+   - `grep -R " tô | pra | né | tá " Textos\ Traduzidos\ IA/txt/uk/<cap> -- triagem: FAIL só em Layton/formal ou em narração; em Luke (criança) é oralidade esperada`
    - `python3 Spec/Fontes_NFTR.md:4 → largura_texto(linha_sem_tags, "Previewer/Fontes/fontevent.nftr")`: `>247` = FAIL, `210-247` = WARN, `<=210` = OK + visual `Previewer` `Screen01.ini`
    - `diff` EN↔PT: cada `<T>` tem equivalente semântico, sem truncamento tipo `Er, não tenho certeza...` vs `Ahn, suponho que seja possível...`
 2. Verifique se todos os arquivos e todas as entradas do capítulo foram processados e se estrutura de `IA` permanece idêntica a `Originais`.

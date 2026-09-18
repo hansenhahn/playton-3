@@ -8,7 +8,7 @@
 
 ## 1. Princípio
 
-Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personagens/*.md`). Se trocar `meu garoto` por `cara`, quebra o Layton. Se trocar `enigma` por `quebra-cabeça`, quebra o `Livro`.
+Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personagens/*.md`). Se trocar `meu garoto` por `cara`, quebra o Layton. Se trocar `enigma` por `quebra-cabeça`, quebra o `Livro`. Humor e trocadilhos: consultar `Spec/Humor_Inventario.md` (por capítulo) — trocadilho se **recria**, não se traduz ao pé da letra. Os padrões de "naturalidade idiomática" (tratamento, calque, elipse, idioma achatado) estão na skill `layton-qa` e o harness marca como `INFO`.
 
 ---
 
@@ -34,6 +34,10 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 | `hat` (o do Layton, incl. `top hat`, `big hat`) | `cartola` | `01_012040` `matey in the top hat` → `camarada de cartola`; `02_017030` `fine top hat` → `bela cartola` | `chapéu` genérico (só para chapéus que NÃO são o do Layton, ex. `matching hats` dos capangas em `01_012150`) |
 | `cap` / `hat` (o do Luke) | `boné` | `01_012040` `what's wrong with my hat?` (Luke) → `o que há de errado com meu boné?` | `chapéu`, `cartola` |
 | `garnet` (gema-isca do papagaio + enigmas da maleta `n032`/`n218`) | `rubi` | `04_025132` `I always carry a garnet` → `sempre levo um rubi`; `n032` `red garnet` → `rubi vermelho` | `granada` (lê-se explosivo), `grená` (lê-se cor bordô) |
+| `Laytonmobile` | `Laytonmóvel` | `01_014030`/`01_015000` | `Laytonmobile` (anglicismo) |
+| `doppelgänger` | `sósia` | `02_015090` `my doppelgänger` → `meu sósia` | `duplo`, `doppelganger` |
+| `the devil in the top hat` | `o diabo da cartola` | `02_021010` | `demônio` |
+| `wormhole` | `buraco de minhoca` | `02_021020` | `túnel`, `buraco de verme` |
 
 **Regra de ouro:** se o termo aparece em `Mapeamento_Continuidae_Jogo2_Jogo3.md:2`, copie idêntico.
 
@@ -49,6 +53,7 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 ### Luke (`Luke_Triton.md`)
 - **Forma:** `O que é isso, Professor?` (`ev_t10:t10_030_200.gds:1`), `Pode deixar, Professor! Ahn...` (`ev_t10:t10_030_900.gds:1`), `Olhe, Professor!` (`ev_t11:t11_020_100.gds:1`), `Caramba!` (= `Gosh/Crikey`).
 - **Hesitação:** `er...` / `Ahn...` com reticências, não `...` seco.
+- **Oralidade infantil PERMITIDA:** sendo criança, `tá`, `pra`, `tô`, `né`, `a gente` são bem-vindos (não é informalidade proibida). Evitar apenas gíria pesada/anacrônica (`mano`, `véi`). A proibição de `tá/cara/bora/mano/a gente` vale **só para Layton**.
 
 ### Flora (`Flora_Reinhold.md`)
 - `Ai! Que susto!` (`ev_t15:t15_020_200.gds:1`), `Quem, eu? Eu estava... er...` (`t15_020_400.gds:1`), `Só desta vez. Mas não me deixem sozinha de novo!` — manter `er...`.

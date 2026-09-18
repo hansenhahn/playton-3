@@ -41,8 +41,35 @@ SPEAKERS = {
     "ウッズ": "Woods",
     "シャロン": "Sharon",
     "未来シュレーダー": "Future Schrader",
+    "未来ルーク": "Future Luke",
+    "ハロルド": "Harold",
+    "デロイ": "Delroy",
+    # Cap. 00 (Prologo): NPCs de tutorial/exploracao.
+    "フローレス": "Flora (tutorial)",
+    "ヒゲマフラー": "Moustache-Scarf Man",
+    "サマリー": "Mrs. Cogg",
+    "ジャック": "Jack Cogg",
+    "デビット": "David",
+    "スミス": "Smith (Guard)",
+    "チェルミー": "Chelmey",
+    "バートン": "Barton",
+    "カレリナ首相夫人": "Caroline Hawks",
+    "ビル・ホーク": "Bill Hawks",
+    "披露会場司会者": "Event MC",
+    "変装ディミトリー": "Dimitri (Stahngun)",
 }
-STRICT_VOICE = {"Layton", "Luke"}  # informal aqui = FAIL; resto = INFO
+STRICT_VOICE = {"Layton"}  # informal aqui = FAIL; resto = INFO (Luke e criança: oralidade e esperada)
+# Falantes que tratam Layton com deferencia -> "voce" merece checagem (o senhor?)
+TRATAMENTO_SPEAKERS = {
+    "Future Luke", "Harold", "Anita", "Sharon", "Margaret",
+    "Bacchus", "Adeline", "Woods", "Delroy",
+}
+# Calques de sintaxe/registro tipicos de traducao automatica (INFO p/ revisao)
+CALQUE_PT = re.compile(
+    r"chegar ao fundo|ao fundo de|plenamente operacional|ao usu[áa]rio"
+    r"|cruza os \d+ anos|em termos de|fazer sentido|de volta ao",
+    re.I,
+)
 
 TAG_RE = re.compile(r"<[^>]+>")
 END_RE = re.compile(r"(.*?)((</V>)|(![-*]+!))", re.S)
@@ -70,7 +97,7 @@ IDIOM_WATCH = [
     (re.compile(r"on the same page", re.I), "idiom 'same page' (calque? 'de acordo')"),
     (re.compile(r"\bWELL\?", re.I), "'WELL?' interjeicao (ENTÃO?/E AI? nao 'BEM?')"),
     (re.compile(r"Tee hee", re.I), "onomatopeia identitaria (preservar?)"),
-    (re.compile(r"\bmy boy\b", re.I), "'my boy' -> 'Meu jovem' (borda Layton)"),
+    (re.compile(r"\bmy boy\b", re.I), "'my boy' -> 'Meu jovem' (Layton) / 'meu rapaz' (Future Schrader)"),
     (re.compile(r"\bRoom \d+", re.I), "'Room N' hospitalar (Quarto? Sala?)"),
     (re.compile(r"\bOld \d+", re.I), "'Old N' refere pessoa (do N, masc.)"),
     (re.compile(r"Unless\.\.\.", re.I), "'Unless...' suspensao preservada?"),
@@ -80,6 +107,22 @@ IDIOM_WATCH = [
     (re.compile(r"\bfrom \d+ years in the future\b", re.I), "pleonasmo temporal?"),
     (re.compile(r"things.+I mean", re.I | re.S), "ameaca 'things... I mean' omitida?"),
     (re.compile(r"get ugly", re.I), "'get ugly' traduzido ('feia')?"),
+    (re.compile(r"bright as a button", re.I), "'bright as a button' (esperto que só?)"),
+    (re.compile(r"brass neck", re.I), "'brass neck' (cara de pau?)"),
+    (re.compile(r"spill the.{0,4}beans", re.I), "'spill the beans' (abrir o bico?)"),
+    (re.compile(r"fight fire with fire", re.I), "'fight fire with fire' (combater fogo com fogo)"),
+    (re.compile(r"one-way trip", re.I), "'one-way trip to nowhere' (viagem só de ida?)"),
+    (re.compile(r"hotbed", re.I), "'hotbed' (antro?)"),
+    (re.compile(r"not my scene", re.I), "'not my scene' (não é minha praia?)"),
+    (re.compile(r"on the house", re.I), "'on the house' (por conta da casa)"),
+    (re.compile(r"keep your hair on", re.I), "'keep your hair on' (calma!)"),
+    (re.compile(r"whippersnapper", re.I), "'whippersnapper' (moleques?)"),
+    (re.compile(r"strapping", re.I), "'strapping' (robusto/cheio de energia?)"),
+    (re.compile(r"pearl of wisdom", re.I), "'pearl of wisdom' (dica de ouro?)"),
+    (re.compile(r"in a pickle", re.I), "'in a pickle' (em apuros)"),
+    (re.compile(r"on my watch", re.I), "'on my watch' (enquanto eu estiver de olho?)"),
+    (re.compile(r"didn't half", re.I), "'didn't half' (intensificador britanico)"),
+    (re.compile(r"get to the bottom", re.I), "'get to the bottom' (chegar à verdade?)"),
 ]
 PLEO_RE = re.compile(r"daqui a .*no futuro|futuro.*futuro", re.I)
 
@@ -145,11 +188,14 @@ def parse_blocks(text):
 
 
 def speaker_before(text, t_pos):
-    """Detecta falante pela ultima tag JP antes da posicao do <T>."""
+    """Detecta falante pela ultima tag JP antes da posicao do <T>.
+
+    Normaliza sufixo parentetico de contexto, ex. `チェルミー（食）` ->
+    `チェルミー` (mesmo personagem comendo), para casar em SPEAKERS.
+    """
     head = text[:t_pos]
-    names = re.findall(r"^ ?(.+)$", head, re.M)
     for line in reversed(head.splitlines()[-6:]):
-        s = line.strip()
+        s = re.sub(r"（[^）]*）\s*$", "", line.strip())
         if s in SPEAKERS:
             return SPEAKERS[s]
     return "?"
@@ -256,7 +302,7 @@ def check_file(en_path, ia_path, hu_path, wfunc):
                         s.startswith("[") and s.endswith("]")
                     ):
                         continue
-                    px = wfunc(s)
+                    px = wfunc(re.sub(r"\{[^}]*\}", '"', s))
                     # linha do arquivo: aproxima (start_line + offset)
                     fline = b["start_line"] + ln
                     if px > HARD_PX:
@@ -298,6 +344,23 @@ def check_file(en_path, ia_path, hu_path, wfunc):
                      "block": i, "line": b["start_line"],
                      "msg": f"informal '{vm.group(0).strip()}' em falante {sp}",
                      "rule": "dossie Layton/Luke (_INDICE.md:40)"}
+                )
+            # tratamento (deferencia) — 'voce' para quem trata Layton por 'o senhor'
+            if sp in TRATAMENTO_SPEAKERS and re.search(r"\bvoc[êe]\b", b["clean"], re.I):
+                findings.append(
+                    {"sev": "INFO", "cat": "tratamento", "target": label,
+                     "block": i, "line": b["start_line"],
+                     "msg": f"'você' em falante {sp} (para Layton deve ser 'o senhor'?)",
+                     "rule": "dossie do falante + _INDICE.md:40"}
+                )
+            # calque sintatico
+            cm = CALQUE_PT.search(b["clean"])
+            if cm:
+                findings.append(
+                    {"sev": "INFO", "cat": "calque", "target": label,
+                     "block": i, "line": b["start_line"],
+                     "msg": f"possivel calque: '{cm.group(0)}'",
+                     "rule": "Skill layton-qa (naturalidade idiomatica)"}
                 )
             # pleonasmo
             if PLEO_RE.search(b["clean"]):
