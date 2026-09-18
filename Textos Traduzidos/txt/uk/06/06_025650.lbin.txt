@@ -1,0 +1,42 @@
+[7017010000000000:0006000000]
+[7117030001000000:000a00000002000000000209000000]
+ジャック
+!******************************!
+<T>Parece que já pegou o jeito de
+viajar no tempo, Professor. Nem
+parece abalado.
+!******************************!
+[7117030004000000:000a0000000262000000026b000000]
+レイトン
+!******************************!
+<T>Suponho que estou me acostumando,
+embora não diria que acho o
+processo agradável.
+!******************************!
+[7117030007000000:000a000000020000000002c6000000]
+ジャック
+!******************************!
+<T>Sim, se espremer por um vórtice no
+tempo e sair do outro lado pode
+ser exaustivo.
+!******************************!
+[711703000a000000:000a00000002000000000229010000]
+ジャック
+!******************************!
+<T>Provavelmente quer ir logo,
+mas <CR>venha até mim se algum dia
+precisar voltar ao seu tempo</C>.
+!******************************!
+[711703000d000000:000a0000000200000000028f010000]
+ジャック
+!******************************!
+<T>Você é um bom homem.
+Teremos prazer em ajudá-lo a
+qualquer momento.
+!******************************!
+[7117030010000000:000a000000026200000002cc010000]
+レイトン
+!******************************!
+<T><A1/2>Obrigado, Cogg. Voltaremos se
+precisarmos de algo.
+!******************************!

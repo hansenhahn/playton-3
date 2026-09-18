@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Droga! Parece que aqueles dois
+ainda estão guardando a entrada
+de Chinatown.
+!******************************!
+[7117030004000000:000a0000000256000000025f000000]
+レイトン
+!******************************!
+<T>Não se preocupe. Acharemos um
+jeito de passar por eles mais
+cedo ou mais tarde, Luke.
+!******************************!
