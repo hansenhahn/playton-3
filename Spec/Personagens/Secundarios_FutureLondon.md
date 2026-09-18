@@ -69,7 +69,7 @@
 ## Craig / Cuthbert (クレイグ) — Escocês
 - **Papel:** sotaque marcado `Ah reckon this path'll most likely take ye there, aye.` (`Spec/Capitulo_03.md:636`), `Whit?! L-Layton, ye say? He's the head honcho!`
 - **Registro:** escocês fonético `Ah`, `ye`, `nae`, `doon`, `Whit`.
-- **PT-BR:** adaptar com sotaque nordestino leve ou manter grafia escocesa com nota? Recomenda-se manter `Ah`, `ye` com glossário, para diferenciar de cockney.
+- **PT-BR (decisão):** localizar o escocês como **caipira/interior leve** (aspereza rural, distinto do cockney urbano e do Layton culto) — marcadores coerentes entre si: `ocê`/`ocês` (ye), `viu?` (tag p/ aye/eh?), **`bão` só como afirmação/aprovação (`Bão, ...`), nunca como tag final**, vocabulário (`enigma bobo` p/ `wee puzzle`, `briga` p/ `rammy`, `Quê?!` p/ `Whit`). **Não** preservar fonética `Ah`/`ye`/`nae`/`doon`; **não misturar com marcadores caiçara/nordestino (`visse`, `cê`)**; não somar `então` + `bão` na mesma fala. Vale para as aparições em `08_026380` e `11_033410`.
 
 ## Gyorack (ギョラック) — Hole Digger
 - **Papel:** `I've sort of lost my life, and now I can't find it.` (`Spec/Capitulo_03.md:539`), filho `right know-it-all... I do wish I could see the little tyke again.`
@@ -80,6 +80,11 @@
 - **Papel:** `What can I do for you? WELL?` / `Having a spot of trouble with my puzzle? WELL?` / `Back for another crack at that puzzle? WELL?` (`Spec/Capitulo_01.md:261`) — recompensa com Picture Book minigame, vive sozinho e enfatiza cada frase com interjeição gritada.
 - **Registro:** idoso solitário, interjeição `WELL?` em caixa alta com `<A2/5><W>`, eco de `SPECIAL!`/`BLANK!`, fala repetitiva.
 - **PT-BR:** manter tique como `ENTÃO?` — corresponde a `WELL?` de chamada/insistência. Não usar `BEM?`/`COMO?`. Ex.: `Em que posso ajudar? ENTÃO?` (`01_011060.lbin.txt:15`).
+
+## Bacchus (バッカス) — Cozinheiro / Restaurante (Cap.01 `012130` / Cap.02 `015110`)
+- **Papel:** dono/cozinheiro com a porta dos fundos travada (`A patroa mudou o código da fechadura antes de sair`), pede ajuda com o enigma; depois `we're still setting up, come back later!`.
+- **Registro:** coloquial de trabalhador — `Foi mal, pessoal`, `patroa` (não `esposa`), `cê`, `mãos à obra`, `peso das costas`.
+- **PT-BR:** nunca formalizar (`Prezada`, `interrogatório`); `missus → patroa`.
 
 ## Outros rápidos
 - **Harold (ハロルド) — Porteiro do Gilded 7:** pomposo-irônico; deferência zombeteira como arma (`Come now, sir. Don't tell me a gentleman of your calibre is incapable...`, `02_017030 blk10`). PT-BR: formal excessive de propósito (`O senhor... cavalheiro do seu calibre`), nunca gíria; elogia a cartola com segundas intenções.

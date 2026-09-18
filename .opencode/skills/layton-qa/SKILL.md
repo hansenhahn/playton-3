@@ -18,7 +18,7 @@ Skill de **segunda iteração** para Professor Layton PT-BR. Pressupõe que `Tex
 ## Fontes de verdade (mesmas da tradução — não duplicar)
 
 1. **Regras obrigatórias:** `Spec/REGRAS_TRADUCAO.md` — glossário (`enigma`, `Livro de Enigmas`, `moeda de dica`, `cavalheiro`, `Inspetor/Agente`, `Vovó Riddleton`, `Don Paolo`), `REGRAS_TRADUCAO.md:6` checklist, `REGRAS_TRADUCAO.md:68-74` tags/caixa/largura NFTR. **Única fonte de obrigatoriedade.**
-2. **Voz por personagem:** `Spec/Personagens/_INDICE.md` → dossiê (`Hershel_Layton.md`, `Luke_Triton.md`, `Flora_Reinhold.md`, `Clive_FutureLuke.md`, `Dimitri_Allen.md`, `Don_Paolo.md`, `Claire_Celeste.md`, `Chelmey_Barton.md`, `Coggs.md`, `Bostro_Family.md`, `Secundarios_*.md`, `Criaturas_Mascotes.md`) — proíbe `tá/pra/tô/né` em Layton/Luke, fixa `De fato.`, `Meu jovem`, `Pode deixar, Professor!`, `Caramba!`.
+2. **Voz por personagem:** `Spec/Personagens/_INDICE.md` → dossiê (`Hershel_Layton.md`, `Luke_Triton.md`, `Flora_Reinhold.md`, `Clive_FutureLuke.md`, `Dimitri_Allen.md`, `Don_Paolo.md`, `Claire_Celeste.md`, `Chelmey_Barton.md`, `Coggs.md`, `Bostro_Family.md`, `Secundarios_*.md`, `Criaturas_Mascotes.md`) — proíbe `tá/pra/tô/né` em **Layton** (formal); **Luke é criança e pode usar oralidade infantil** (`tá/pra/tô/né/a gente`) — não formalizar. Fixa `De fato.`, `Meu jovem`, `Pode deixar, Professor!`, `Caramba!`.
 3. **Continuidade J2→J3:** `Spec/Personagens/Mapeamento_Continuidae_Jogo2_Jogo3.md` + `Spec/Analise_Traducao_Jogo2.md`
 4. **Contexto narrativo:** `Spec/Capitulo_00_Prologo.md` → `Spec/Capitulo_14.md` + `Spec/Extras_*.md` — leia o capítulo do arquivo sendo revisado; se a fala referencia outro capítulo, consulte também. Contexto desambigua `from` temporal vs. destinatário.
 5. **Métricas reais:** `Spec/Fontes_NFTR.md` + `Previewer/Configs/Screen01.ini` (`fontevent.nftr`, `ScreenNewLine 16`, largura útil ~240px). Tags não contam na largura.
@@ -54,7 +54,7 @@ corrija os FAILs, julgue os INFO/WARN com `Capitulo_XX` + dossiê, e cite
 2. **Diff por bloco:** extraia `<T>...</V>` de ambos, faça `join('\n')` antes de comparar. Compare EN→PT sentido a sentido, não linha a linha, sempre com o resumo do capítulo à mão.
 3. **Cheque técnico (bloqueante):** confira `REGRAS_TRADUCAO.md:68` tags na mesma posição e intactas, `REGRAS_TRADUCAO.md:69` ≤3 linhas por página, `REGRAS_TRADUCAO.md:71` sem hifenização, `windows-1252` sem `�` e largura real via `Spec/Fontes_NFTR.md:4` (`fontevent.nftr`/`fontq.nftr`, `Previewer/Configs/Screen01.ini`). Tags não contam. Se estourar largura ou quebrar caixa, reescreva **minimamente** preservando sentido.
 4. **Cheque glossário:** confirme `puzzle→enigma`, `hint coin→moeda de dica`, `gentleman→cavalheiro`, `Inspector→Inspetor`, `Granny→Vovó` etc. conforme `REGRAS_TRADUCAO.md:2`. Uso de `grep` pode apoiar, mas o critério é terminológico, não ferramentístico.
-5. **Cheque voz:** abra dossiê do falante (`_INDICE.md:40`). Avalie se o registro condiz com o personagem (ex. Layton/Luke não usam `tá/pra/tô/né` informal). Corrija para o registro do dossiê.
+5. **Cheque voz:** abra dossiê do falante (`_INDICE.md:40`). Avalie se o registro condiz com o personagem (ex. **Layton é formal** e não usa `tá/pra/tô/né`; **Luke, criança, pode** usar oralidade infantil — não corrigir para culto). Corrija para o registro do dossiê.
 6. **Cheque concordância/gênero (contexto):** valide concordância interna PT-BR considerando referente em EN e contexto narrativo, não frase isolada. Consulte `Capitulo_XX.md` + dossiê para gênero de entidade/título.
 7. **Cheque singular/plural (contexto):** compare número em EN vs PT com contexto de cena. Consulte `Capitulo_XX.md` para quantificação; plural coletivo só se EN for plural ou cena exigir.
 8. **Cheque pleonasmo (contexto):** acuse redundância gerada em PT ausente em EN, validando com contexto narrativo. Só acuse se EN/contexto não for redundante.
@@ -65,6 +65,20 @@ corrija os FAILs, julgue os INFO/WARN com `Capitulo_XX` + dossiê, e cite
 
 - **CORRIGIR:** erro semântico crítico mesmo que fluente (inversão temporal/destinatário), typo, glossário, gíria incompatível com dossiê, tag deslocada, quebra de caixa/largura.
 - **PRESERVAR:** escolha estilística do tradutor que respeita dossiê e glossário, mesmo que diferente da humana.
+
+## Naturalidade idiomatica (o que escorrega mesmo sem erro)
+
+Depois do checklist tecnico/glossario/voz, revise estes padroes — nao sao erros, sao os "tells" de traducao automatica (o harness marca como `INFO`):
+
+1. **Tratamento:** quem trata Layton com deferencia (`Future Luke`, `Harold`, `Anita`, `Sharon`, `Margaret`, `Bacchus`, `Adeline`, `Woods`, `Delroy`) usa `o senhor`/`a senhora`, nao `você` (`INFO/tratamento`).
+2. **Calque sintatico:** sintaxe inglesa vazando — `chegar ao fundo disso`, `cruza os anos`, `plenamente operacional`, `ao usuário`; reescrever com idioma PT (`INFO/calque`).
+3. **Elipse/telegrafico:** a IA corta sujeito/verbo e soa seca (`Conversamos no caminho`, `Outra pergunta a responder`); restaurar frase falada.
+4. **Termo duro:** `operacional`, `usuário`, `registro`, `procedimento` onde o original e falado.
+5. **Idioma achatado:** `Time has a way of changing people` -> `O tempo muda as pessoas` (perdeu "has a way of"). Ver `IDIOM_WATCH` do harness.
+6. **Intensificador neutralizado:** `tudo indica`, `ninguém mais teria chance`, `não deve faltar` (a humana acerta, a IA achata).
+7. **Trocadilho/pun — recriar, nunca traduzir:** o efeito vale mais que a palavra. Regra pratica: escolha um par **quase-homofono** (comida/objeto ~ palavra certa); a palavra-pun **nao pode estar no nome** do prato/coisa, senao nao soa como escorregão. Ex.: EN `fish and chips . . . none batter! I mean better!` -> PT `minha massa ao molho de queijo é premiada! Vale a penne! Quero dizer, vale a pena!` (`penne`≈`pena`). Se nao houver par, recrie o efeito com outra piada — nunca deixe literal.
+
+Gags/trocadilhos: consultar `Spec/Humor_Inventario.md` (por capitulo) antes de mexer — trocadilho neutralizado passa batido.
 
 ## Validação final
 

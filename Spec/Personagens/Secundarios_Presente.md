@@ -54,7 +54,11 @@
 - **PT-BR:** `Corgi` (manter nome curioso).
 
 ## Outros presente
-- **Beleza:** `Tyler` (construction `Watch your step! Building sites are dangerous!`), `Nicola` (`Phe-ew! I thought I was in big trouble when I clocked that hat...` — `Spec/Capitulo_01.md:212`), `Hazel/Edgar` (pânico `Augh! What is it?! I didn't d-d-do anything!`), `Butch` (entrega carta), `Jack/ Spring` já em `Coggs.md`.
+- **Tyler** (obra): operário falante — `tá/tô/cê`, `cair fora`, `não tá lá essas coisas`; nunca culto (`01_011010`).
+- **Nicola** (`Phe-ew! I thought I was in big trouble when I clocked that hat...` — `Spec/Capitulo_01.md:212`): civil irritadiço/áspero (`Cai fora!`, `me deixa em paz, tá?`); detalhado em `Secundarios_FutureLondon.md`.
+- **Hazel/Edgar** (pânico `Augh! What is it?! I didn't d-d-do anything!`): gago — manter `n-<W30>n-<W30>não`, `i-<W30>i-<W30>implorando`; não normalizar.
+- **Butch** (entrega carta): mensageiro leal de Future Luke / alias Shipley.
+- `Jack/ Spring` já em `Coggs.md`.
 
 ## Notas de Tradução — Contraste Temporal
 - **Mesma pessoa 10 anos depois deve soar 10 anos mais velha:** Schrader jovem vs `Future Schrader` com `toll that time has taken`; Delmona com cabelo branco; Cogg cansado. Usar léxico envelhecido levemente.
