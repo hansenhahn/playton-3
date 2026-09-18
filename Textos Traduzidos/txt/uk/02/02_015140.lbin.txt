@@ -8,67 +8,67 @@ Cassino Gilded 7?
 [7117030004000000:000a00000002390000000242000000]
 レイトン
 !******************************!
-<T>Sim. Temos um encontro marcado
-lá.
+<T>Sim. Devemos nos encontrar
+com alguém lá.
 !******************************!
 [7117030007000000:000a00000002000000000270000000]
 ベッキー
 !******************************!
-<T><A1/5>Bom, se você diz... Mas acho melhor
-avisar que aquele lugar é ponto
-frequentado pela Família.
+<T><A1/5>Bom, se vocês dizem... Mas acho
+que devem saber que o lugar é
+um ponto favorito da Família.
 !******************************!
 [711703000a000000:001400000002d900000002e0000000]
 ルーク
 !******************************!
-<T>Agradecemos a preocupação, Becky,
+<T>Obrigado pela preocupação, Becky,
 mas precisamos mesmo ir até lá.
 !******************************!
 [711703000d000000:001400000002000000000229010000]
 ベッキー
 !******************************!
-<T>Tudo bem...<W> Ah, ótimo, a vovó
+<T>Tudo bem...<W> Ótimo, a Vovó
 dormiu de novo.
 !******************************!
 [7117030010000000:00140000000200000000025c010000]
 ベッキー
 !******************************!
-<T><A2/2>Ela não ficaria nada feliz se
-soubesse que eu estou mandando
-vocês para um ninho de criminosos.
+<T><A2/2>Acho que ela não ia gostar de
+eu indicar um antro de
+criminosos como esse para vocês.
 !******************************!
 [7117030013000000:001400000002d900000002c5010000]
 ルーク
 !******************************!
-<T>Ah...<W30> É...<W30> Não precisamos nos preocupar
-com nossa segurança, precisamos?<W>
-Não que eu esteja com medo nem nada.
+<T>Ah...<W30> É...<W30> Não precisamos nos
+preocupar com a segurança,<W> certo?
+Não que eu esteja com medo, claro.
 !******************************!
 [7117030016000000:001400000002000000000232020000]
 ベッキー
 !******************************!
-<T>Tee hee! Ótimo! Coragem é uma
-qualidade admirável, mesmo quando
-acaba trazendo problemas...
+<T>Tee hee! Boa! A coragem é
+uma qualidade admirável, mesmo
+que possa te meter em encrenca...
 !******************************!
 [7117030019000000:001400000002000000000294020000]
 ベッキー
 !******************************!
-<T>Então, você sabe onde fica a
-Estação Flatstone Street, certo?
+<T>Enfim, sabe onde fica
+a Estação Flatstone Street, né?
 !******************************!
 [711703001c000000:0014000000020000000002d5020000]
 ベッキー
 !******************************!
-<T>Siga para o norte a partir da praça
-em frente à estação.<W> Mais adiante,
-você vai acabar chegando ao cassino.
+<T>Basta seguir ao norte da praça
+em frente à estação.<W> Logo
+você verá o cassino.
 !******************************!
 [711703001f000000:001400000002d90000000236030000]
 ルーク
 !******************************!
-<T>Ah, eu tinha a impressão de que
-ficava por ali.
+<T>Ah, eu já imaginava que ficava
+por ali.
 !******************************!
 [7117030022000000:00140000000200000000026b030000]
 ベッキー
@@ -79,27 +79,27 @@ ficava por ali.
 ルーク
 !******************************!
 <T>Um capanga da Família estava
-vigiando o caminho para o norte
+guardando o caminho ao norte
 quando passamos pela estação.
 !******************************!
 [7117030028000000:001400000002d900000002db030000]
 ルーク
 !******************************!
-<T>Eu achei que tinha algo suspeito
-lá pra cima, mas não consegui
-passar por ele.
+<T>Achei que tinha algo suspeito
+por lá, mas não consegui passar
+por ele para ver.
 !******************************!
 [711703002b000000:001400000002000000000240040000]
 ベッキー
 !******************************!
-<T><A1/2>Bem, talvez desta vez vocês
-tenham sorte.
+<T><A1/2>Bem, desta vez talvez
+vocês consigam passar.
 !******************************!
 [711703002e000000:001400000002000000000271040000]
 ベッキー
 !******************************!
-<T>Esses brutamontes vivem trocando
-de posto o tempo todo.
+<T>Aqueles capangas trocam de
+posto com bastante frequência.
 !******************************!
 [7117030031000000:001400000002d900000002ac040000]
 ルーク
@@ -109,40 +109,40 @@ de posto o tempo todo.
 [7117030034000000:0014000000020000000002c3040000]
 ベッキー
 !******************************!
-<T>É, não parece lá um plano de
-segurança muito eficiente, né?
+<T>É, não parece lá o melhor
+plano de segurança, né?
 !******************************!
 [7117030037000000:00140000000200000000020a050000]
 ベッキー
 !******************************!
-<T>Vão lá conferir. É bem provável
-que agora vocês consigam passar.
+<T>Vão lá ver, têm boa chance
+de passar agora.
 Eu...<W> Ih!
 !******************************!
 [711703003a000000:001e00000002670500000274050000]
 マーガレット
 !******************************!
 <T>Becky!<W> Estes são nossos hóspedes!
-Tenho certeza de que eles têm coisas
-melhores a fazer do que ouvir você tagarelar.
+Têm coisas melhores a fazer do
+que ouvir você tagarelar.
 !******************************!
 [711703003d000000:0028000000023900000002e2050000]
 レイトン
 !******************************!
-<T>Não se preocupe, madame. A Becky
-estava apenas nos explicando como
-chegar ao nosso próximo destino.
+<T>Não se preocupe, senhora. Becky
+estava apenas nos indicando
+nosso próximo destino.
 !******************************!
 [7117030040000000:00280000000267050000023b060000]
 マーガレット
 !******************************!
 <T>Ah, é mesmo?<W> Bem, desde que
-ela esteja sendo prestativa.
+esteja sendo útil.
 !******************************!
 [7117030043000000:003200000002000000000277060000]
 ベッキー
 !******************************!
-<T>O estabelecimento que vocês
-procuram fica na extremidade norte
-da Flatstone Street
+<T>O estabelecimento que procuram
+fica na extremidade norte
+da Flatstone Street.
 !******************************!

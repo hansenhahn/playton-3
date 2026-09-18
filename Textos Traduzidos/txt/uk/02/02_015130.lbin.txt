@@ -2,38 +2,40 @@
 [7117030001000000:000a00000002000000000211000000]
 クローンマフィア
 !******************************!
-<T>Cassino?<W> Com esse garoto?<W> Você
-ficou maluco, foi?
+<T>O cassino? Com esse moleque?<W>
+Cê tá maluco ou quê?
 !******************************!
 [7117030004000000:000a00000002490000000252000000]
 レイトン
 !******************************!
-<T>Não, senhor. O senhor entendeu
-errado. Não vamos lá para jogar,
-apenas para-
+<T>Não, senhor. Está me
+entendendo mal. Não vamos
+jogar, só para-
 !******************************!
 [7117030007000000:000a000000020000000002a0000000]
 クローンマフィア
 !******************************!
-<T>Cassino não é lugar pra criança!
+<T>Cassino não é lugar
+pra levar criança!
 Até eu sei disso!
 !******************************!
 [711703000a000000:000a00000002de00000002e5000000]
 ルーク
 !******************************!
-<T>Uau! É muito legal da sua parte
+<T>Nossa! Que gentil
 se preocupar comigo.
 !******************************!
 [711703000d000000:000a00000002490000000218010000]
 レイトン
 !******************************!
-<T>De fato, mas não precisa se
-preocupar com o bem-estar do
-garoto. Ainda mais quando-
+<T>De fato, mas não precisa
+se preocupar com o bem-estar
+do rapaz. Ainda mais quando-
 !******************************!
 [7117030010000000:000a00000002000000000274010000]
 クローンマフィア
 !******************************!
-<T>Escuta aqui: criança não entra
-num lugar desses, e ponto final.
+<T>Olha, amigo, não se leva
+criança pra um lugar desses,
+e ponto final.
 !******************************!

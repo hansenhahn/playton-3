@@ -7,27 +7,26 @@
 [7117030004000000:001400000002000000000215000000]
 ルーク
 !******************************!
-<T>Aconteceu alguma coisa,
-Professor? Você parece meio
-distraído.
+<T>Aconteceu algo,
+Professor? Parece atordoado.
 !******************************!
 [7117030007000000:0014000000024c0000000255000000]
 レイトン
 !******************************!
-<T>Eu... estou bem, Luke.<W2> Pensei ter
-visto...<W> Não, devo ter me
-enganado...
+<T>Eu... Estou bem, Luke.<W2> Pensei
+ter visto algo...<W> Não, meus
+olhos me enganaram...
 !******************************!
 [711703000a000000:0014000000020000000002b9000000]
 ルーク
 !******************************!
-<T>Tem a ver com aquela moça que
-acabou de passar por aqui?
+<T>Tem algo a ver com aquela
+moça que acabou de passar?
 !******************************!
 [711703000d000000:0014000000024c00000002fe000000]
 レイトン
 !******************************!
-<T><A1/1>Provavelmente não é nada.<W> Ela só
-me lembrou alguém que conheci há
-muito tempo.
+<T><A1/1>Provavelmente não é nada.<W> Ela
+só me lembrou de alguém que
+conheci há muito tempo.
 !******************************!

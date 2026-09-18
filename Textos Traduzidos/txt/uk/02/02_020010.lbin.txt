@@ -2,103 +2,103 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>O que exatamente você tem em mente?</T>
+<T>O que exatamente tem
+em mente?
 !******************************!
 [7117030004000000:000a000000022e0000000239000000]
 未来ルーク
 !******************************!
-<T><A2/2>Como homem cauteloso, imagino
-que também tenha dúvidas sobre
-a minha identidade.</T>
+<T><A2/2>Como homem cauteloso, sei que
+também tem dúvidas sobre
+minha identidade.
 !******************************!
 [7117030007000000:000a000000022e000000028c000000]
 未来ルーク
 !******************************!
-<T>Por isso, sugiro que cada um
-prove quem é, até satisfazer
-o outro.</T>
+<T>Proponho então que cada um
+prove ao outro sua identidade
+de forma convincente.
 !******************************!
 [711703000a000000:000a000000022e00000002e0000000]
 未来ルーク
 !******************************!
 <T>Para isso, proponho que
 demonstremos o poder de
-nossos respectivos intelectos.</T>
+nossos intelectos.
 !******************************!
 [711703000d000000:000a000000022e0000000236010000]
 未来ルーク
 !******************************!
-<T>Preparei um enigma que só alguém
-tão perspicaz quanto o
-Professor Layton poderia resolver.</T>
+<T>Preparei um enigma que só
+alguém tão perspicaz quanto
+o Professor Layton resolveria.
 !******************************!
 [7117030010000000:000a000000022e0000000296010000]
 未来ルーク
 !******************************!
-<T>Se encontrar a solução, darei a
-você a chance de me propor
-um desafio semelhante.</T>
+<T>Se encontrar a solução, lhe
+darei a chance de me lançar
+um desafio semelhante.
 !******************************!
 [7117030013000000:000a000000022e00000002fa010000]
 未来ルーク
 !******************************!
-<T>Se eu for mesmo quem digo ser, não
-terei dificuldade em resolver o que
-quer que me apresente, não é?</T>
+<T>Se sou quem digo ser, não
+terei problema em resolver o
+que me apresentar, certo?
 !******************************!
 [7117030016000000:000a000000022e000000025b020000]
 未来ルーク
 !******************************!
-<T><A1/1>Vamos começar.<W> À nossa frente,
-há quatro cartas dispostas de
-acordo com as seguintes condições:</T>
+<T><A1/1>Comecemos.<W> Diante de nós há
+quatro cartas dispostas segundo
+as seguintes condições:
 !******************************!
 [7117030019000000:0014000000022e00000002ca020000]
 未来ルーク
 !******************************!
-<T><A3/5>Primeiro, uma carta de copas está
-ao lado de uma carta de ouros.
+<T><A3/5>Primeiro, uma de copas está
+ao lado de uma de ouros.
 !******************************!
 [711703001c000000:0014000000022e00000002f8020000]
 未来ルーク
 !******************************!
-<T>Segundo, uma carta de paus não
-está ao lado de uma carta de espadas.
+<T>Segundo, uma de paus não está
+ao lado de espadas.
 !******************************!
 [711703001f000000:0014000000022e0000000222030000]
 未来ルーク
 !******************************!
-<T>Por fim, uma carta de copas está
-imediatamente à direita de
-uma carta de paus.
+<T>Por fim, uma de copas está
+logo à direita de uma de paus.
 !******************************!
 [7117030022000000:0014000000022e000000025a030000]
 未来ルーク
 !******************************!
-<T>Usando apenas essas três condições,
-desafio a encontrar a carta de
-espadas entre essas quatro cartas.
+<T>Só com essas três condições,
+desafio-o a encontrar a de espadas
+entre estas quatro cartas.
 !******************************!
 [7117030025000000:001e000000022e00000002bc030000]
 未来ルーク
 !******************************!
-<T>Tem certeza da sua resposta,
-Professor? Eu reconsideraria,
-se fosse o senhor.
+<T>Está bem certo da resposta,
+Professor? Eu reconsideraria
+se fosse você.
 !******************************!
 [7117030028000000:0028000000022e0000000211040000]
 未来ルーク
 !******************************!
-<T><S671><A2/2>Sim, essa é de fato a posição da
-carta de espadas. Impressionante,
+<T><S671><A2/2>Sim, essa é de fato a posição
+de espadas. Impressionante,
 Professor.
 !******************************!
 [711703002b000000:002d00000002000000000266040000]
 レイトン
 !******************************!
-<T><A4/1>Obrigado.<W> Agora, se me permite,
-posso lhe apresentar um enigma de
-minha própria autoria?
+<T><A4/1>Obrigado.<W> Permite-me agora
+apresentar um enigma criado
+por mim?
 !******************************!
 [711703002e000000:002d000000022e00000002b7040000]
 未来ルーク
@@ -108,145 +108,139 @@ minha própria autoria?
 [7117030031000000:0032000000020000000002de040000]
 レイトン
 !******************************!
-<T>Ótimo. Gostei da ideia por trás do
-seu enigma, então, se não se importar,
-gostaria de fazer algo parecido.
+<T>Ótimo. Gostei da ideia do seu
+enigma e, se não se importa,
+gostaria de fazer algo similar.
 !******************************!
 [7117030034000000:00320000000200000000024a050000]
 レイトン
 !******************************!
-<T><A2/1>Aqui estão as condições para
-minhas quatro cartas:
+<T><A2/1>Eis as condições das minhas
+quatro cartas:
 !******************************!
 [7117030037000000:003c0000000200000000027e050000]
 レイトン
 !******************************!
-<T>Uma carta de paus está imediatamente à
+<T>Uma de paus está logo à
 direita de uma de copas.
 !******************************!
 [711703003a000000:003c000000020000000002af050000]
 レイトン
 !******************************!
-<T>Uma carta de ouro está na extrema
-esquerda ou na extrema direita e ao lado
-dele há uma carta de copas
+<T>Uma de ouros está numa ponta
+e tem uma de copas ao lado.
 !******************************!
 [711703003d000000:003c000000020000000002f8050000]
 レイトン
 !******************************!
-<T>Por fim, uma carta de paus também
-está na extrema esquerda ou
-na extrema direita.
+<T>Por fim, uma de paus também
+está numa das pontas.
 !******************************!
 [7117030040000000:004600000002000000000233060000]
 レイトン
 !******************************!
-<T><A1/1>Você consegue encontrar a
-carta de espadas usando essas
-condições?
+<T><A1/1>Consegue encontrar a de espadas
+com essas condições?
 !******************************!
 [7117030043000000:0050000000022e0000000273060000]
 未来ルーク
 !******************************!
-<T><A2/4>Quase me pegou dessa vez,
-Professor.<W> Mas, como bem sabe, esse
-enigma tem uma falha. Ele não tem solução.
+<T><A2/4>Quase me pegou, Professor.<W>
+Mas, como sabe, este enigma
+tem um defeito. É insolúvel.
 !******************************!
 [7117030046000000:0050000000020000000002dc060000]
 レイトン
 !******************************!
-<T><A4/1>É mesmo?
+<T><A4/1>Será mesmo?
 !******************************!
 [7117030049000000:0050000000022e00000002f1060000]
 未来ルーク
 !******************************!
-<T><A2/4>Sim. Testei várias soluções, mas
-nenhuma funciona com as condições
-que o senhor estabeleceu.
+<T><A2/4>Sim. Tentei várias soluções, mas
+nenhuma funciona com as
+condições propostas.
 !******************************!
 [711703004c000000:005000000002000000000250070000]
 レイトン
 !******************************!
-<T>Ah, é?
+<T>Ah, é mesmo?
 !******************************!
 [711703004f000000:00500000000200000000025e070000]
 レイトン
 !******************************!
 <T>Diga-me, eu cheguei a afirmar que
-as quatro cartas sobre a mesa
-incluíam uma de cada naipe?
+as quatro cartas na mesa incluíam
+uma de cada naipe?
 !******************************!
 [7117030052000000:0050000000022e00000002be070000]
 未来ルーク
 !******************************!
 <T><A3/5>Hmph.<W> Então a resposta é...
-não existe nenhuma de espadas?
+não há espadas?
 !******************************!
 [7117030055000000:005a000000020000000002f6070000]
 レイトン
 !******************************!
-<T><A2/1>Exatamente. Foi uma pergunta
-capciosa, mas ela deixa claro
+<T><A2/1>Exatamente. Era uma pergunta
+capciosa, mas ilustra bem
 um ponto importante.
 !******************************!
 [7117030058000000:005a00000002000000000245080000]
 レイトン
 !******************************!
-<T>No enigma que você me apresentou, você
-deixou de especificar que as quatro
-cartas incluíam um naipe de cada tipo.
+<T>No enigma que me propôs, não
+especificou que as quatro cartas
+incluíam uma de cada naipe.
 !******************************!
 [711703005b000000:005a000000020000000002ac080000]
 レイトン
 !******************************!
-<T>Uma brecha assim pode tornar um
-enigma insolúvel.
+<T>Deixar uma brecha assim pode
+tornar o enigma insolúvel.
 !******************************!
 [711703005e000000:005a000000020000000002ef080000]
 レイトン
 !******************************!
 <T>A mesma omissão também pode
-abrir caminho para soluções
-alternativas.
+abrir porta a outras soluções.
 !******************************!
 [7117030061000000:005a00000002000000000233090000]
 レイトン
 !******************************!
-<T><A1/1>Você me apresentou de propósito
-um enigma que, ao ser analisado com
-atenção, está incompleto.
+<T><A1/1>Apresentou-me de propósito um
+enigma que, visto de perto,
+está na verdade incompleto.
 !******************************!
 [7117030064000000:005a0000000200000000029e090000]
 レイトン
 !******************************!
-<T>Esse era o verdadeiro teste que
-você preparou para mim, não era?
-Ver se eu perceberia a brecha?
+<T>Esse era seu verdadeiro teste,
+não era? Ver se eu notaria
+a brecha?
 !******************************!
 [7117030067000000:00e8030000022e00000002fd090000]
 未来ルーク
 !******************************!
-<T>Quatro cartas estão dispostas em linha:
+<T>Quatro cartas enfileiradas:
 
-{.}Uma copas está ao lado de um ouros.
-{.}Um paus não está ao lado de uma espadas.
-{.}Uma copas está imediatamente à direita de um paus.
+{.}Uma de copas ao lado de uma de ouros.
+{.}Uma de paus não ao lado de espadas.
+{.}Uma de copas à direita de uma de paus.
 
-Consegue descobrir qual delas é a espadas,
-Professor? Toque nessa carta.
+Consegue dizer qual é a de espadas,
+Professor? Toque na carta.
 !******************************!
 [711703006a000000:00d0070000020000000002d30a0000]
 レイトン
 !******************************!
-<T>Quatro cartas estão dispostas em linha:
+<T>Quatro cartas enfileiradas:
 
-{.}Um paus está imediatamente à direita
-de uma copas.
-{.}Uma das cartas da extrema esquerda ou
-da extrema direita é um ouros, e ao
-lado dela há uma copas.
-{.}A outra carta da extrema esquerda ou
-da extrema direita é um paus.
+{.}Uma de paus logo à direita
+de uma de copas.
+{.}Uma carta de uma das pontas é
+de ouros, com uma de copas ao lado.
+{.}A outra carta da ponta é de paus.
 
-Você consegue encontrar a espadas, Luke?
+Consegue achar a de espadas, Luke?
 !******************************!

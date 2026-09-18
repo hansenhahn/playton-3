@@ -2,7 +2,6 @@
 [7117030001000000:000a0000000200000000020d000000]
 マーガレット
 !******************************!
-<T>Vão sair novamente, senhores?<W>
-Aproveitem bem o passeio pela
-cidade.
+<T>Vão sair de novo, senhores? Tenham
+um passeio agradável.
 !******************************!

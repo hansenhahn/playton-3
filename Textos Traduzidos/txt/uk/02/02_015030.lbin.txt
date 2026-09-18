@@ -7,32 +7,34 @@
 [7117030004000000:000a0000000200000000022a000000]
 シャロン
 !******************************!
-<T>Sim, existe um, mas não sei se é
-um lugar apropriado para levar
+<T>É, tem um, mas não sei
+se é lugar pra levar
 crianças...
 !******************************!
 [7117030007000000:000a000000027e0000000287000000]
 レイトン
 !******************************!
-<T>Não se preocupe, senhora. Vamos
-apenas encontrar um amigo lá.
+<T>Não se preocupe, senhora.
+Só vamos encontrar
+um amigo lá.
 !******************************!
 [711703000a000000:000a000000027e00000002c1000000]
 レイトン
 !******************************!
-<T>Por acaso sabe em que parte da
-Flatstone Street o cassino fica?
+<T>Sabe onde é o cassino
+na Flatstone Street?
 !******************************!
 [711703000d000000:000a0000000200000000020b010000]
 シャロン
 !******************************!
-<T>Ah, não. Não é a minha praia.<W>
-Melhor perguntar a alguém da área.
+<T>Ah, desculpa. Não é
+minha praia.<W> Pergunte
+a alguém da área.
 !******************************!
 [7117030010000000:000a000000027e000000024f010000]
 レイトン
 !******************************!
-<T>Sim, um morador da Flatstone
-Street deve saber informar.
-Obrigado.
+<T>Sim, imagino que um morador
+da Flatstone Street possa
+nos dizer. Obrigado.
 !******************************!

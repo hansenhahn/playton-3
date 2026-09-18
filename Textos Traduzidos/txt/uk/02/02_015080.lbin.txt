@@ -2,7 +2,6 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Ei!<W> É aquele sujeito com
-cara de nervoso que vimos
-mais cedo.
+<T>Ei!<W> É aquele sujeito nervoso
+que vimos antes.
 !******************************!

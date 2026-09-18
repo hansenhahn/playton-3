@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Precisamos pegar o trem de volta
-para Flatstone Street se quisermos
-visitar o cassino, Luke.
+<T>Precisamos pegar o trem
+de volta à Flatstone Street
+para visitar o cassino, Luke.
 !******************************!
 [7117030004000000:000a0000000263000000026a000000]
 ルーク

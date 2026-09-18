@@ -2,98 +2,98 @@
 [7117030001000000:000a00000002000000000207000000]
 デロイ
 !******************************!
-<T>Hmph. E para onde vocês dois
-pensam que estão indo?
+<T>Hmph. E aonde vocês dois
+pensam que vão?
 !******************************!
 [7117030004000000:000a000000023e0000000247000000]
 レイトン
 !******************************!
-<T>Estamos a caminho de um encontro
-no Cassino Gilded 7.
+<T>Estamos a caminho de encontrar
+alguém no Cassino Gilded 7.
 !******************************!
 [7117030007000000:000a00000002000000000283000000]
 デロイ
 !******************************!
-<T>Entendo.<W> Indo ao cassino para
-{''}encontrar alguém{''}, é?<W>
-Interessante. Muiiito interessante...
+<T>Entendo.<W> Vão ao cassino
+para {''}encontrar alguém{''}, é?<W>
+Interessante. Muuito interessante...
 !******************************!
 [711703000a000000:000a00000002ec00000002f3000000]
 ルーク
 !******************************!
-<T>Psst, Professor, acho que esse
-sujeito está tentando nos
-intimidar.
+<T>Psiu, Professor, acho que este
+homem quer nos intimidar.
 !******************************!
 [711703000d000000:000a00000002000000000234010000]
 デロイ
 !******************************!
-<T><A6/0>Pare com esses cochichos, garoto!
-Estou bem aqui, sabia?!
+<T><A6/0>Pare de cochichar, garoto! Estou
+bem aqui, sabia!
 !******************************!
 [7117030010000000:000a00000002ec0000000272010000]
 ルーク
 !******************************!
-<T>Ops!<W> Hum... Desculpe, senhor.
+<T>Ops!<W> Ahn... Desculpe, senhor.
 !******************************!
 [7117030013000000:000a00000002000000000293010000]
 デロイ
 !******************************!
-<T><A3/1>Hmph.<W> Bem, já que pediu desculpas,
-suponho que posso relevar sua
+<T><A3/1>Hmph.<W> Bem, como você se desculpou,
+creio que posso relevar sua
 grosseria desta vez.
 !******************************!
 [7117030016000000:000a000000023e00000002f6010000]
 レイトン
 !******************************!
-<T>Perdoe a ousadia, senhor, mas
-seria tão gentil em nos deixar
-passar? Está ficando tarde.
+<T>Perdoe o incômodo, senhor, mas
+teria a bondade de nos deixar
+passar? Já está bem tarde.
 !******************************!
 [7117030019000000:000a00000002000000000259020000]
 デロイ
 !******************************!
-<T><A5/5>Mas é claro, meu caro.<W> Assim que
-resolver este enigma meu,
-naturalmente.
+<T><A5/5>Mas é claro, meu caro.<W> Assim
+que resolver este meu
+enigma, está bem.
 !******************************!
 [711703001c000000:00e8030000020000000002b4020000]
 デロイ
 !******************************!
-<T>Hmph. O que foi? Meu enigma te
-deixou sem resposta?
+<T>Hmph. Qual é o problema? Meu
+enigma te deixou sem resposta?
 !******************************!
 [711703001f000000:00d0070000020000000002eb020000]
 デロイ
 !******************************!
-<T>Vejo que voltou para testar seu
-raciocínio contra meu enigma.
-Muito bem. Prepare-se!
+<T>Voltou para medir astúcia com
+meu enigma, vejo. Muito bem.
+Prepare-se!
 !******************************!
 [7117030022000000:00b80b000002000000000240030000]
 デロイ
 !******************************!
-<T><A2/5>Muito bem. Você provou seu valor,
-então lhe darei um aviso críptico,
-porém valioso.
+<T><A2/5>Muito bem. Provou ser digno,
+então darei um aviso enigmático
+mas valioso.
 !******************************!
 [7117030025000000:00b80b0000020000000002ae030000]
 デロイ
 !******************************!
-<T><A2/6>Há perigo rondando esse seu chapéu.
-É melhor tomar cuidado por aqui.
+<T><A2/6>O perigo ronda essa sua cartola.
+É melhor tomar cuidado
+por aqui.
 !******************************!
 [7117030028000000:00b80b0000023e0000000204040000]
 レイトン
 !******************************!
-<T>Por que todos estão tão obcecados
-com meu chapéu? Conhece alguém
-com um parecido?
+<T>Por que todos estão tão
+obcecados com minha cartola?
+Conhece alguém com uma igual?
 !******************************!
 [711703002b000000:00b80b00000200000000025c040000]
 デロイ
 !******************************!
-<T>Se eu contasse, acabaria com todo
-o suspense, não acha?<W> Deixo esse
-pequeno mistério com vocês.
+<T>Se eu contasse, acabaria com
+todo o suspense, não é? Deixo
+esse mistério para você.
 !******************************!

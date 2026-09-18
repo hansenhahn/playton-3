@@ -2,49 +2,50 @@
 [7117030001000000:000a00000002000000000211000000]
 クローンマフィア
 !******************************!
-<T>Ora, ora... veja só quem apareceu.
+<T>Ora ora, vejam só quem é.
 !******************************!
 [7117030004000000:000a000000022f0000000236000000]
 ルーク
 !******************************!
-<T>Olá, senhor. Desculpe incomodar
-durante o expediente, mas o senhor
-sabe onde fica o Cassino Gilded 7?
+<T>Olá, senhor. Desculpe
+incomodar no trabalho, mas
+sabe onde é o Cassino Gilded 7?
 !******************************!
 [7117030007000000:000a00000002000000000293000000]
 クローンマフィア
 !******************************!
-<T>O Gilded 7?!<W> Não sou teu pai nem
-nada, mas você não acha que é novo
-demais pra se meter em cassino?
+<T>Gilded 7?!<W> Não sou seu pai
+nem nada, mas cê não é novo
+demais pra se meter nas mesas?
 !******************************!
 [711703000a000000:000a000000022f00000002f9000000]
 ルーク
 !******************************!
-<T><A1/5>Ah, não quero apostar em nada.
-Só vou me encontrar com alguém lá.
+<T><A1/5>Ah, não quero jogar.
+Só vou encontrar alguém lá.
 !******************************!
 [711703000d000000:000a00000002000000000246010000]
 クローンマフィア
 !******************************!
-<T>Seja qual for a desculpa, você vai
-ter dificuldade pra entrar.
+<T>Seja qual for a desculpa,
+cê vai ter dificuldade
+pra entrar.
 !******************************!
 [7117030010000000:000a0000000200000000028c010000]
 クローンマフィア
 !******************************!
-<T>O chefe Bostro odeia criança,
-tá vendo. Não suporta nem de perto.
+<T>O Chefe Bostro odeia crianças.
+Não suporta nem uma.
 !******************************!
 [7117030013000000:000a000000020000000002c1010000]
 クローンマフィア
 !******************************!
-<T>Se ele te pegar no cassino dele,
-vai arrancar o seu couro.<W> Eu ficaria
-bem longe, se fosse você.
+<T>Ele esfola você se vir
+no cassino dele.<W> Se fosse
+você, ficava longe.
 !******************************!
 [7117030016000000:000a000000022f0000000216020000]
 ルーク
 !******************************!
-<T>Entendi...
+<T>Entendo...
 !******************************!

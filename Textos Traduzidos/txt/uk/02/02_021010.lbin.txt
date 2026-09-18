@@ -2,13 +2,13 @@
 [7117030001000000:000a0000000200000000020b000000]
 未来ルーク
 !******************************!
-<T>Professor Layton, Luke, bem-vindos
-à Londres do futuro.
+<T>Professor Layton, Luke, sejam
+bem-vindos à Londres do futuro.
 !******************************!
 [7117030004000000:000a000000024b0000000254000000]
 レイトン
 !******************************!
-<T><K>Hmm.
+<T><K>Hmm...
 !******************************!
 [7117030007000000:000a0000000200000000025f000000]
 未来ルーク
@@ -18,58 +18,59 @@
 [711703000a000000:000a00000002000000000277000000]
 未来ルーク
 !******************************!
-<T>Vocês viram o Dr. Schrader, não viram?
+<T>Você viu o Dr. Schrader,
+não viu?
 !******************************!
 [711703000d000000:000a0000000200000000029b000000]
 未来ルーク
 !******************************!
-<T><A1/4>Devem ter percebido o peso que o
-tempo impôs ao seu mentor.
+<T><A1/4>Deve ter notado o peso que
+o tempo impôs ao seu mentor.
 !******************************!
 [7117030010000000:000a000000024b00000002e7000000]
 レイトン
 !******************************!
-<T>Sim... nós o vimos.
+<T>Sim, nós o vimos...
 !******************************!
 [7117030013000000:000a000000020000000002fd000000]
 未来ルーク
 !******************************!
-<T>E quanto à bela Londres?<W> Vocês já
-andaram o bastante para ver como
+<T>E a bela Londres? Já andaram
+o bastante para ver como
 ela mudou.
 !******************************!
 [7117030016000000:000a00000002000000000253010000]
 未来ルーク
 !******************************!
-<T>Conseguiriam imaginar um cassino
-nesta parte tranquila da cidade
-na época de vocês?
+<T>Imaginaria um cassino nesta
+parte pacata da cidade
+no seu tempo?
 !******************************!
 [7117030019000000:000a00000002ac01000002b3010000]
 ルーク
 !******************************!
-<T>É, tudo mudou! O que aconteceu
-com esta cidade?
+<T>É, tudo mudou! O que
+aconteceu com esta cidade?
 !******************************!
 [711703001c000000:000a000000020000000002f0010000]
 未来ルーク
 !******************************!
-<T><A1/5>Um gênio surgiu...<W> um gênio maligno
+<T><A1/5>Surgiu um gênio...<W>um gênio do mal
 que virou a cidade de cabeça
 para baixo.
 !******************************!
 [711703001f000000:000a00000002ac0100000240020000]
 ルーク
 !******************************!
-<T><A1/3>Já sei onde isso vai dar.<W>
-Foi o Don Paolo que tomou
-conta da cidade, não foi?
+<T><A1/3>Ah, já sei onde isso vai dar.<W>
+Don Paolo tomou a cidade,
+não foi?
 !******************************!
 [7117030022000000:001400000002000000000295020000]
 未来ルーク
 !******************************!
-<T><A1/1>Don Paolo?<W> <A1/4>Não, estou falando de
-um homem verdadeiramente brilhante.
+<T><A1/1>Don Paolo?<W> <A1/4>Ah, não. Falo de um
+homem realmente brilhante.
 !******************************!
 [7117030025000000:0014000000020000000002e2020000]
 未来ルーク
@@ -80,13 +81,13 @@ muito bem.
 [7117030028000000:001e00000002ac0100000212030000]
 ルーク
 !******************************!
-<T><A2/1>Se não foi o Don Paolo, então
-quem foi?
+<T><A2/1>Bem, se não é Don Paolo,
+quem é então?
 !******************************!
 [711703002b000000:001e00000002000000000248030000]
 未来ルーク
 !******************************!
-<T>O que você acha, Professor?
+<T>O que acha, Professor?
 !******************************!
 [711703002e000000:001e000000024b0000000269030000]
 レイトン
@@ -96,29 +97,29 @@ quem foi?
 [7117030031000000:001e00000002000000000283030000]
 未来ルーク
 !******************************!
-<T>Hmm... mesmo?
+<T>Hmm... Mesmo?
 !******************************!
 [7117030034000000:001e00000002ac0100000295030000]
 ルーク
 !******************************!
-<T>Quem é ele? Eu preciso saber!
+<T>Quem é? Preciso saber!
 !******************************!
 [7117030037000000:0028000000020000000002ba030000]
 未来ルーク
 !******************************!
-<T>O nome dele é Hershel Layton.<W>
-O gênio maligno é você,
+<T>Ele se chama Hershel Layton.<W>
+O gênio do mal é você,
 Professor.
 !******************************!
 [711703003a000000:002d00000002ac01000002ff030000]
 ルーク
 !******************************!
-<T><A1/6>O QUÊÊÊ?!
+<T><A1/6>QUÊÊÊ?!
 !******************************!
 [711703003d000000:0032000000024b0000000212040000]
 レイトン
 !******************************!
-<T>Eu...<W> temia que você dissesse isso.
+<T>Eu...<W>temia que dissesse isso.
 !******************************!
 [7117030040000000:003200000002ac0100000237040000]
 ルーク
@@ -128,20 +129,21 @@ Professor.
 [7117030043000000:003200000002000000000258040000]
 未来ルーク
 !******************************!
-<T>Lamento dizer que está.
+<T>Sinto dizer que está.
 !******************************!
 [7117030046000000:003200000002000000000278040000]
 未来ルーク
 !******************************!
-<T>Chamam-no de {''}o diabo da cartola{''},
-e ele governa Londres
-a partir das sombras.
+<T>Chamam-no de {''}o diabo da
+cartola{''}, e ele governa Londres
+das sombras.
 !******************************!
 [7117030049000000:0032000000020000000002d1040000]
 未来ルーク
 !******************************!
-<T>Isso é de conhecimento comum
-nesta parte da cidade.
+<T>É de conhecimento geral para
+quem vive nesta parte
+de Londres.
 !******************************!
 [711703004c000000:003c000000024b000000020d050000]
 レイトン
@@ -151,26 +153,26 @@ nesta parte da cidade.
 [711703004f000000:003c00000002ac0100000224050000]
 ルーク
 !******************************!
-<T><A1/1>O quê? Eu não sei mais do que
+<T><A1/1>Quê? Não sei mais do que
 você, Professor.
 !******************************!
 [7117030052000000:003c000000024b0000000261050000]
 レイトン
 !******************************!
-<T>Não, eu quis dizer o outro Luke.<W>
-Céus, isso está ficando bem
-confuso, não está?
+<T>Não, falo do outro Luke.<W>
+Minha nossa, isto está ficando
+bem complicado, não é?
 !******************************!
 [7117030055000000:003c000000024b00000002bb050000]
 レイトン
 !******************************!
-<T>Diga-me, Luke, como foi que eu
-cheguei a governar toda Londres?
+<T>Diga-me, Luke, como cheguei a
+governar toda Londres?
 !******************************!
 [7117030058000000:003c000000020000000002f8050000]
 未来ルーク
 !******************************!
 <T>Por onde começar...?<W> Aqui,
-Professor, tenho certeza de que
-se lembra disto.
+Professor, certamente se lembra
+disto?
 !******************************!

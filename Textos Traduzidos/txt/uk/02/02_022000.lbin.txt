@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000209000000]
 ボストロ
 !******************************!
-<V0010><T>Ora, ora, até que enfim, chefe!</V>
+<V0010><T>Ah, aí tá você, Chefe!</V>
 !******************************!
 [7117030004000000:000f00000002300000000239000000]
 レイトン
@@ -12,9 +12,9 @@
 [7117030007000000:000f0000000200000000024b000000]
 ボストロ
 !******************************!
-<V0030><T><A2/3>Ei, o que você pensa que tá fazendo
-com a roupa do chefe, hein? Isso é
-algum tipo de piada?</V>
+<V0030><T><A2/3>Ei, o que pensa que tá fazendo com
+a roupa do chefe? Tá de
+brincadeira?</V>
 !******************************!
 [711703000a000000:000f000000023000000002ac000000]
 レイトン
@@ -24,23 +24,23 @@ algum tipo de piada?</V>
 [711703000d000000:000f000000020000000002d1000000]
 ボストロ
 !******************************!
-<V0050><T><A3/1>Agora que parei pra pensar, não
-me lembro de ter visto nenhum de
-vocês por aqui antes.</V>
+<V0050><T><A3/1>Parando pra pensar, acho que nunca
+vi nenhum de cês por aqui
+antes.</V>
 !******************************!
 [7117030010000000:000f00000002300000000230010000]
 レイトン
 !******************************!
-<V0060><T>Bem, é que não temos muitas
-oportunidades de visitar este
-respeitável estabelecimento.</V>
+<V0060><T>Sim, bem, raramente temos
+a oportunidade de visitar este
+seu belo estabelecimento.</V>
 !******************************!
 [7117030013000000:000f00000002000000000290010000]
 ボストロ
 !******************************!
-<V0080><T><A1/1>Pode até ser, mas vocês vão ter que
-vir comigo pra responder umas
-perguntinhas. Por aqui, vocês três.</V>
+<V0080><T><A1/1>Pode até ser, mas vão ter que
+vir comigo pra umas perguntinhas.
+Por aqui, vocês três.</V>
 !******************************!
 [7117030016000000:001400000002080200000213020000]
 未来ルーク
@@ -50,12 +50,12 @@ perguntinhas. Por aqui, vocês três.</V>
 [7117030019000000:00140000000208020000022d020000]
 未来ルーク
 !******************************!
-<V0100><T><A1/5>Professor, fuja enquanto ainda dá!</V>
+<V0100><T><A1/5>Professor, fuja enquanto pode!</V>
 !******************************!
 [711703001c000000:001900000002080200000264020000]
 未来ルーク
 !******************************!
-<V0110><T>Ugh!</V>
+<V0110><T>Oof!</V>
 !******************************!
 [711703001f000000:001c0000000277020000027e020000]
 ルーク

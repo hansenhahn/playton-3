@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000209000000]
 バッカス
 !******************************!
-<T>Foi mal, pessoal, ainda estamos
-preparando tudo por aqui. Voltem
-mais tarde!
+<T>Foi mal, pessoal, ainda
+estamos preparando tudo
+por aqui. Voltem mais tarde!
 !******************************!
