@@ -26,9 +26,9 @@ entusiasmado!
 [711703000d000000:000a00000002000000000201010000]
 バッカス
 !******************************!
-<T><A2/5>Primeiro: meu fish and chips
-é premiado. Não há massa
-melhor! Ou melhor, nada melhor!
+<T><A2/5>Primeiro: minha massa ao molho
+de queijo é premiada! Vale a penne!
+Quero dizer, vale a pena!
 !******************************!
 [7117030010000000:000a00000002000000000267010000]
 バッカス
@@ -40,7 +40,7 @@ não a isso, hein?
 ルーク
 !******************************!
 <T>Eu não, com certeza. Adoro
-fish and chips!
+massa ao molho de queijo!
 !******************************!
 [7117030016000000:000a000000020000000002cf010000]
 バッカス
@@ -53,7 +53,7 @@ num dia frio, pode deixar comigo.
 !******************************!
 <T>Meu cozido de cordeiro com
 batatas crocantes: até o cordeiro
-lamberia os dedos! Ha ha!
+lamberia os dedos! Har har!
 !******************************!
 [711703001c000000:000a000000027b0000000286020000]
 ルーク
@@ -63,7 +63,7 @@ lamberia os dedos! Ha ha!
 [711703001f000000:001400000002a302000002ac020000]
 レイトン
 !******************************!
-<T>Contenha-se, Luke. A comida
+<T>Não se empolgue, Luke. A comida
 parece ótima, mas não viemos
 aqui para comer, viemos?
 !******************************!
@@ -77,7 +77,7 @@ Mas peço algo mais tarde!
 [7117030025000000:001e0000000200000000028d030000]
 バッカス
 !******************************!
-<T>Ha ha! Claro, rapazinho. Pense
+<T>Har har! Claro, rapazinho. Pense
 com calma em qual prato
 combina com você.
 !******************************!
@@ -103,7 +103,7 @@ terminarmos aqui.
 [7117030031000000:0032000000020000000002b0040000]
 バッカス
 !******************************!
-<T><A3/2>Ha ha! Não se preocupe, rapazinho.
+<T><A3/2>Har har! Não se preocupe, rapazinho.
 Quando comer, será uma refeição
 inesquecível, eu prometo.
 !******************************!

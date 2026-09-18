@@ -26,7 +26,7 @@ direito.
 未来ルーク
 !******************************!
 <T>Ele teve papel vital para trazer
-você e Little Luke até
+o senhor e Little Luke até
 nossa época.
 !******************************!
 [7117030010000000:000a000000022b0100000234010000]
@@ -72,7 +72,7 @@ nojento e pilantra-
 ブッチ
 !******************************!
 <T>Er, perdão, Professor. Estou
-falando do Layton do mal,
+falando do Layton maligno,
 claro.
 !******************************!
 [7117030025000000:000a0000000200000000023e030000]
@@ -90,7 +90,7 @@ lá em Chinatown?
 [711703002b000000:000a000000023200000002ab030000]
 ブッチ
 !******************************!
-<T>O Layton do mal mantém aqueles
+<T>O Layton maligno mantém aqueles
 cientistas capturados lá,
 pelo visto.
 !******************************!
@@ -149,7 +149,7 @@ do acidente.
 [7117030049000000:0014000000020000000002c7050000]
 未来ルーク
 !******************************!
-<T>Acha que o Layton do mal pode
+<T>Acha que o Layton maligno pode
 ter raptado o primeiro-ministro
 além dos cientistas?
 !******************************!
@@ -215,7 +215,7 @@ segura até lá?
 未来ルーク
 !******************************!
 <T>Vão na frente para Chinatown sem
-mim. Shipley diz como chegar lá.
+mim. Shipley vai explicar como chegar lá.
 Certo?
 !******************************!
 [711703006a000000:0014000000022b0100000230090000]
@@ -232,8 +232,8 @@ por aí.
 [7117030070000000:001e0000000277090000027e090000]
 ルーク
 !******************************!
-<T>Caramba, ele saiu mesmo
-apressado.
+<T>Caramba, ele saiu correndo
+num piscar de olhos!
 !******************************!
 [7117030073000000:0020000000022b01000002aa090000]
 レイトン

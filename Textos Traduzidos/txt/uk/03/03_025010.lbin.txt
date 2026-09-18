@@ -41,7 +41,7 @@ um autor famoso.
 [7117030013000000:000a00000002be00000002e0010000]
 レイトン
 !******************************!
-<T>Um autor, diz? Não um
+<T>Um autor, é? Não um
 professor?
 !******************************!
 [7117030016000000:000a00000002000000000208020000]
@@ -105,7 +105,7 @@ duraria para sempre.{''}</C>
 [7117030031000000:001e00000002be00000002aa040000]
 レイトン
 !******************************!
-<T><A4/2>Acalme-se. Não é tão ruim, meu
+<T><A4/2>Pronto, pronto. Não é tão ruim, meu
 jovem. Parece que os dois
 encontraram amizade verdadeira.
 !******************************!
@@ -144,7 +144,7 @@ e eterna.
 [7117030043000000:001e00000002be00000002a6060000]
 レイトン
 !******************************!
-<T><A1/1>Acalme-se, Luke. Não quis aborrecê-lo.
+<T><A1/1>Ora, ora, Luke. Não quis ofendê-lo.
 Você tem razão.
 Somos grandes amigos.
 !******************************!

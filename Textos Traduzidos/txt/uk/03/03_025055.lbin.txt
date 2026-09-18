@@ -54,7 +54,7 @@ um deles.
 !******************************!
 <T><A2/2>Bem, desde que reconheça seu erro
 absurdo, estou disposto a deixar
-passado para trás.
+o passado para trás.
 !******************************!
 [711703001c000000:000a000000020000000002e6020000]
 グラハム
@@ -67,7 +67,7 @@ permita-me apresentar-me.
 グラハム
 !******************************!
 <T><A1/1>Diante de vocês está o homem mais
-distinto, elegante e galanteador
+distinto, arrojado e elegante
 de Londres.<W> <A4/5>Me chamo Graham.
 !******************************!
 [7117030022000000:000a000000020000000002b6030000]
@@ -93,6 +93,6 @@ prometo!
 グラハム
 !******************************!
 <T>Graham é o nome. Quem procura o
-homem mais galanteador de Londres
+homem mais elegante de Londres
 não precisa ir além!
 !******************************!

@@ -100,20 +100,20 @@ desses?
 ルーク
 !******************************!
 <T>Bem...<W> Ele resolveu vários casos
-difíceis. Talvez a fama o tenha
-convidado.
+difíceis. Talvez a fama dele
+tenha garantido o convite.
 !******************************!
 [7117030034000000:001a00000002a4000000027d040000]
 レイトン
 !******************************!
-<T>Sim, pensei o mesmo. Afinal, fama
-passageira foi o que nos rendeu
-nossos ingressos.
+<T>Sim, pensei o mesmo. Afinal, um
+status de pseudocelebridade nos
+rendeu nossos ingressos.
 !******************************!
 [7117030037000000:001a00000002b900000002e6040000]
 ルーク
 !******************************!
-<T><A4/2>Fama passageira? Absurdo! Você é
+<T><A4/2>Pseudocelebridade? Absurdo! Você é
 o grande Professor Layton.
 !******************************!
 [711703003a000000:001a00000002b9000000022e050000]
