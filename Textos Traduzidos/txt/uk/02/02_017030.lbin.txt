@@ -33,8 +33,8 @@ vez que ouço tal política.
 [7117030010000000:000a000000024a0000000262010000]
 レイトン
 !******************************!
-<T>Não creio que aceitaria abrir
-uma exceção para nós?
+<T>Não haveria a possibilidade
+de abrir uma exceção para nós?
 !******************************!
 [7117030013000000:000a000000020000000002a3010000]
 ハロルド
@@ -59,16 +59,16 @@ bem focado na sua cartola.
 [711703001c000000:0014000000024a00000002b2020000]
 レイトン
 !******************************!
-<T>Naturalmente. Há maior prova
-da natureza de cavalheiro
-que uma bela cartola?
+<T>Naturalmente. Haveria prova
+maior do espírito cavalheiresco
+do que uma bela cartola?
 !******************************!
 [711703001f000000:00e80300000200000000020c030000]
 ハロルド
 !******************************!
 <T><A2/1>Vamos, senhor. Não me diga
 que um cavalheiro do seu calibre
-não resolve um enigma rápido.
+não resolve um simples enigma.
 !******************************!
 [7117030022000000:00d007000002000000000276030000]
 ハロルド

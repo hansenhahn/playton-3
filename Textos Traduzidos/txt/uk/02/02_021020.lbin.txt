@@ -39,13 +39,13 @@ caos total.
 ルーク
 !******************************!
 <T><A4/4>Sim, todos no Parlamento estão
-em pânico.<W> Ahn, no nosso
-tempo, quero dizer.
+em pânico.<W> Quer dizer, na nossa
+época.
 !******************************!
 [7117030016000000:000b000000026300000002d1010000]
 未来ルーク
 !******************************!
-<T><A3/5>Professor, o senhor viu com os
+<T><A3/5>Professor, o senhor viu com seus
 próprios olhos o acidente que
 mudou Londres para sempre.
 !******************************!
@@ -112,15 +112,15 @@ represálias pelo experimento.
 [7117030037000000:000d000000026902000002c7040000]
 レイトン
 !******************************!
-<T>Afinal, ele foi responsável pela
-perda do nosso líder nacional.
+<T>Ele foi responsável pela perda
+do líder da nossa nação, afinal.
 !******************************!
 [711703003a000000:000d00000002630000000212050000]
 未来ルーク
 !******************************!
-<T>Sem ter onde se esconder, o
-doutor foi acolhido por alguém
-improvável.<W> <A3/5>Você, Professor.
+<T>Desesperado por um esconderijo,
+o doutor foi abrigado por
+alguém improvável.<W> <A3/5>O senhor, Professor.
 !******************************!
 [711703003d000000:000d00000002690200000284050000]
 レイトン
@@ -137,8 +137,8 @@ entendi.
 [7117030043000000:000e000000026300000002fc050000]
 未来ルーク
 !******************************!
-<T>Nos meses após a explosão, você
-se afastou de mim aos poucos.
+<T>Nos meses após a explosão, o
+senhor se afastou de mim aos poucos.
 !******************************!
 [7117030046000000:000e0000000263000000024b060000]
 未来ルーク
@@ -155,7 +155,8 @@ do submundo do crime.
 未来ルーク
 !******************************!
 <T><A4/4>Não tenha tanta certeza. O tempo
-muda as pessoas, Luke.
+tem um jeito de mudar as
+pessoas, Luke.
 !******************************!
 [711703004f000000:000e000000026300000002f3060000]
 未来ルーク
@@ -186,7 +187,7 @@ financeiro para isso.
 [711703005b000000:000e00000002630000000234080000]
 未来ルーク
 !******************************!
-<T>Então você usou seu intelecto
+<T>Então o senhor usou seu intelecto
 superior para assumir o controle
 do submundo de Londres.
 !******************************!
@@ -241,8 +242,8 @@ ainda está longe disso.
 [7117030076000000:0010000000026300000002710a0000]
 未来ルーク
 !******************************!
-<T><A1/1>Ela não permite ao usuário
-escolher um destino.
+<T><A1/1>Ela não permite escolher
+um destino.
 !******************************!
 [7117030079000000:0010000000026300000002ad0a0000]
 未来ルーク
@@ -271,7 +272,7 @@ túnel entre duas épocas.
 未来ルーク
 !******************************!
 <T>Este buraco de minhoca se abriu na
-relojoaria e cruza os 10 anos
+relojoaria e conecta os 10 anos
 entre nossas duas épocas.
 !******************************!
 [7117030088000000:0010000000026300000002f80b0000]
@@ -328,14 +329,14 @@ Hershel Layton.
 [71170300a0000000:00140000000269020000026a0e0000]
 レイトン
 !******************************!
-<T>Quer que eu dete... a mim mesmo?
+<T>Quer que eu impeça a mim mesmo?
 !******************************!
 [71170300a3000000:0014000000026300000002890e0000]
 未来ルーク
 !******************************!
 <T><A2/4>Neste momento, o outro Layton
 trabalha para construir uma máquina
-do tempo plenamente operacional.
+do tempo totalmente funcional.
 !******************************!
 [71170300a6000000:0014000000026300000002eb0e0000]
 未来ルーク
@@ -355,14 +356,15 @@ nesta era.
 未来ルーク
 !******************************!
 <T><A1/1>Na verdade, muitos especialistas
-se perderam quando a demonstração
+foram perdidos quando a demonstração
 de Stahngun falhou.
 !******************************!
 [71170300af000000:001400000002630000000215100000]
 未来ルーク
 !******************************!
-<T>Layton precisou voltar a antes da
-explosão para reunir talentos.
+<T>Layton não teve escolha senão
+voltar ao tempo anterior à explosão
+para reunir talentos.
 !******************************!
 [71170300b2000000:001400000002690200000278100000]
 レイトン
@@ -384,8 +386,9 @@ que pode acontecer?
 [71170300bb000000:001400000002630000000206110000]
 未来ルーク
 !******************************!
-<T>Alguém precisa impedir seus planos.
-Mas a única pessoa capaz disso é...
+<T>Alguém precisa impedi-lo de
+concluir seus planos. Mas a única
+pessoa capaz disso é...
 !******************************!
 [71170300be000000:001400000002690200000267110000]
 レイトン
@@ -405,7 +408,7 @@ contra ele.
 !******************************!
 <T>Mas como? Não conheço esta
 Londres do futuro. Nem saberia
-por onde começar.
+por onde começar a procurar.
 !******************************!
 [71170300c7000000:00140000000263000000025a120000]
 未来ルーク
@@ -418,8 +421,8 @@ envoltas em segredo.
 未来ルーク
 !******************************!
 <T>Sua base de operações, porém, é
-bem conhecida. Podemos começar
-por lá.
+bem conhecida. Podemos começar a
+procurá-lo por lá.
 !******************************!
 [71170300cd000000:00140000000200000000021c130000]
 ルーク
@@ -456,9 +459,9 @@ duvidoso.
 [71170300dc000000:001400000002690200000281140000]
 レイトン
 !******************************!
-<T><A1/2>Porém, só chegaremos ao fundo
-disso encontrando esse homem
-que diz ser eu.
+<T><A1/2>Porém, vejo que a única
+forma de chegar à verdade é
+encontrar esse homem que diz ser eu.
 !******************************!
 [71170300df000000:0014000000026300000002f6140000]
 未来ルーク
@@ -490,7 +493,7 @@ meio... tonto.
 !******************************!
 <T>Ha ha!<W> Espero que se acostume
 logo. Vou precisar da sua ajuda
-para deter o Layton do mal.
+para deter o Layton maligno.
 !******************************!
 [71170300ee000000:00140000000263000000025d160000]
 未来ルーク
@@ -507,9 +510,9 @@ Professor.
 [71170300f4000000:0014000000026300000002bb160000]
 未来ルーク
 !******************************!
-<T><A1/2>Não há registro de cientista com
-nome e descrição do Dr. Stahngun.
-É um nome falso.
+<T><A1/2>Não há registro de nenhum cientista
+com o nome ou a descrição do
+Dr. Stahngun. É um nome falso.
 !******************************!
 [71170300f7000000:001400000002690200000225170000]
 レイトン
@@ -519,9 +522,9 @@ nome e descrição do Dr. Stahngun.
 [71170300fa000000:001400000002630000000234170000]
 未来ルーク
 !******************************!
-<T>Quem quer que fosse, esforçou-se
-para ocultar a identidade real
-das pessoas na demonstração.
+<T>Quem quer que fosse, teve o
+cuidado de esconder sua
+verdadeira identidade dos presentes.
 !******************************!
 [71170300fd000000:001400000002690200000294170000]
 レイトン
@@ -539,8 +542,9 @@ nome falso? O que planejava?
 [7117030003010000:00140000000263000000022b180000]
 未来ルーク
 !******************************!
-<T>Outra pergunta interessante a
-responder no caminho.
+<T>Outra pergunta interessante
+que talvez possamos responder
+no caminho.
 !******************************!
 [7117030006010000:001400000002690200000270180000]
 レイトン
@@ -555,6 +559,7 @@ responder no caminho.
 [711703000c010000:0014000000026300000002c0180000]
 未来ルーク
 !******************************!
-<T>Conversamos no caminho. Por ora,
-devemos voltar à Flatstone Street.
+<T>Podemos conversar mais no caminho.
+Por ora, devemos voltar à
+Flatstone Street.
 !******************************!

@@ -19,13 +19,13 @@ me acostumar com isso.</V>
 [711703000a000000:000a00000002a400000002af000000]
 未来ルーク
 !******************************!
-<V0040><T><A2/2>Nem acredito como eu era
-pequeno.</V>
+<V0040><T><A2/2>Não acredito no quanto
+eu era baixinho.</V>
 !******************************!
 [711703000d000000:000a000000022400000002eb000000]
 ルーク
 !******************************!
-<V0050><T><A1/5>Ei! Não sou tão pequeno!</V>
+<V0050><T><A1/5>Ei! Eu não sou tão baixinho assim!</V>
 !******************************!
 [7117030010000000:000a00000002000000000218010000]
 レイトン
@@ -37,8 +37,8 @@ trazer até aqui?</V>
 [7117030013000000:000a00000002a4000000026f010000]
 未来ルーク
 !******************************!
-<V0070><T>Contarei com prazer
-em um instante.</V>
+<V0070><T>Vou explicar tudo
+em apenas um instante.</V>
 !******************************!
 [7117030016000000:000a00000002a400000002a9010000]
 未来ルーク
@@ -67,8 +67,8 @@ o nome Hershel Layton.</V>
 [7117030022000000:000a00000002a400000002c8020000]
 未来ルーク
 !******************************!
-<V0110><T>De fato, muitos impostores
-surgiram dizendo ser ele.</V>
+<V0110><T>Na verdade, muitos impostores
+têm surgido dizendo ser ele.</V>
 !******************************!
 [7117030025000000:000a0000000224000000021c030000]
 ルーク

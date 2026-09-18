@@ -27,6 +27,6 @@ me mataria!
 [711703000d000000:000a000000023e0000000233010000]
 マックス
 !******************************!
-<T>Mas a Becky pode contar.
-Pergunte a ela!
+<T>Talvez a Becky saiba.
+Tenta perguntar pra ela!
 !******************************!

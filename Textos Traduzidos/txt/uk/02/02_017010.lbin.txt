@@ -60,7 +60,7 @@ enigma, está bem.
 デロイ
 !******************************!
 <T>Hmph. Qual é o problema? Meu
-enigma te deixou sem saída?
+enigma te deixou sem resposta?
 !******************************!
 [711703001f000000:00d0070000020000000002eb020000]
 デロイ
@@ -86,9 +86,9 @@ por aqui.
 [7117030028000000:00b80b0000023e0000000204040000]
 レイトン
 !******************************!
-<T>Por que todos implicam com minha
-cartola? Conhece mais alguém
-com uma cartola como a minha?
+<T>Por que todos estão tão
+obcecados com minha cartola?
+Conhece alguém com uma igual?
 !******************************!
 [711703002b000000:00b80b00000200000000025c040000]
 デロイ

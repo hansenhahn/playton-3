@@ -8,6 +8,6 @@ de guarda ali sumiu.
 [7117030004000000:000a0000000246000000024f000000]
 レイトン
 !******************************!
-<T>Parece que o palpite de Becky
-estava certo.<W> Sigamos ao norte.
+<T>Parece que o palpite da Becky
+foi certeiro.<W> Sigamos ao norte.
 !******************************!

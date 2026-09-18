@@ -2,8 +2,8 @@
 [7117030001000000:000a00000002000000000209000000]
 ベッキー
 !******************************!
-<T>Hmm? Está procurando o Cassino
-Gilded 7?
+<T>Hmm? Vocês estão procurando o
+Cassino Gilded 7?
 !******************************!
 [7117030004000000:000a00000002390000000242000000]
 レイトン
@@ -14,9 +14,9 @@ com alguém lá.
 [7117030007000000:000a00000002000000000270000000]
 ベッキー
 !******************************!
-<T><A1/5>Se é o que dizem... Mas acho que
-devem saber que o lugar é um
-ponto favorito da Família.
+<T><A1/5>Bom, se vocês dizem... Mas acho
+que devem saber que o lugar é
+um ponto favorito da Família.
 !******************************!
 [711703000a000000:001400000002d900000002e0000000]
 ルーク
@@ -40,9 +40,9 @@ criminosos como esse para vocês.
 [7117030013000000:001400000002d900000002c5010000]
 ルーク
 !******************************!
-<T>Oh...<W30> Ahn...<W30> Não precisamos
-temer pela segurança, certo?<W> Não
-que eu esteja com medo, claro.
+<T>Ah...<W30> É...<W30> Não precisamos nos
+preocupar com a segurança,<W> certo?
+Não que eu esteja com medo, claro.
 !******************************!
 [7117030016000000:001400000002000000000232020000]
 ベッキー
@@ -86,8 +86,8 @@ quando passamos pela estação.
 ルーク
 !******************************!
 <T>Achei que tinha algo suspeito
-por lá, mas não consegui
-passar para ver com meus olhos.
+por lá, mas não consegui passar
+por ele para ver.
 !******************************!
 [711703002b000000:001400000002000000000240040000]
 ベッキー
@@ -122,9 +122,9 @@ Eu...<W> Ih!
 [711703003a000000:001e00000002670500000274050000]
 マーガレット
 !******************************!
-<T>Becky!<W> São nossos hóspedes!
-Têm mais o que fazer do que
-ouvir sua tagarelice, creio eu.
+<T>Becky!<W> Estes são nossos hóspedes!
+Têm coisas melhores a fazer do
+que ouvir você tagarelar.
 !******************************!
 [711703003d000000:0028000000023900000002e2050000]
 レイトン
