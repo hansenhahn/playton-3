@@ -1,0 +1,54 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000209000000]
+ジャック
+!******************************!
+<T>Hmm? Vocês dois não parecem ter
+explorado esta Londres com
+muita atenção.
+!******************************!
+[7117030004000000:000a00000002000000000252000000]
+ジャック
+!******************************!
+<T>Se querem avançar no caso, vão precisar
+pesquisar um pouco mais.
+!******************************!
+[7117030007000000:000a00000002b000000002b9000000]
+レイトン
+!******************************!
+<T>De quanta pesquisa precisamos,
+exatamente?
+!******************************!
+[711703000a000000:000a000000020000000002e8000000]
+ジャック
+!******************************!
+<T><K>Hmm...<W></K> É o seguinte. Voltem quando
+tiverem resolvido 30 enigmas, e eu
+os levarei de volta ao seu tempo.
+!******************************!
+[711703000d000000:000a00000002b0000000025a010000]
+レイトン
+!******************************!
+<T>Muito bem, Cogg. Você está neste plano
+há mais tempo que nós, então me
+curvo ao seu julgamento.
+!******************************!
+[7117030010000000:000a00000002b000000002c0010000]
+レイトン
+!******************************!
+<T>Veremos se achamos mais enigmas
+para resolver por aí.
+!******************************!
+[7117030013000000:001400000002000000000206020000]
+ジャック
+!******************************!
+<T>Hmm. Deviam investigar um pouco mais
+aqui antes de voltar
+ao seu tempo.
+!******************************!
+[7117030016000000:001400000002000000000266020000]
+ジャック
+!******************************!
+<T>Voltem quando tiverem resolvido 30
+enigmas e eu os levarei de volta
+à sua Londres.
+!******************************!
