@@ -111,6 +111,30 @@
 | `howlers` / `clangers` (Barton, `05_025520`) | idioma | `gafes` / `mancadas` | recriado |
 | `What can I do you for?` (Corgi, `05_025420` blk0) | troca (malapropismo) | `Em que posso ajudar?` | pendente |
 
+## Cap 06 — Chinatown: preparação do golpe do papagaio
+
+| EN (arquivo:blk) | Tipo | Decisão PT | Status |
+|---|---|---|---|
+| `Get lost!` (`06_025880` blk14ª) | corrida | `sai fora` (bordão do Bostro; papagaio vai imitar) | fixar |
+
+## Cap 07 — Chinatown, Pagode e o Layton falso
+
+| EN (arquivo:blk) | Tipo | Decisão PT | Status |
+|---|---|---|---|
+| `Get lost!` (`07_025917` blk5/11; `07_025950` blk7/16) | corrida | `Sai fora!` — **idêntico** nas 4 ocorrências (Bostro → papagaio → guardas) | fixar |
+| `fish and chip suey` / `spotted dim sum` / `jellied eel noodle soup` (`07_026070` blk8) | troca (mashup anglo-chinês) | recriado descritivo em PT mantendo os dois eixos: `chop suey de peixe com fritas, dim sum de passas e nossa sopa de enguia com macarrão` (fish and chips→peixe com fritas; spotted dick→passas; jellied eels→enguia) | recriado |
+| `{''}Only shabby shoppers shop at shabby shops.{''}` (`07_026210` blk7) | troca (aliteração) | `{''}Freguês de segunda compra em loja de segunda.{''}` | recriado |
+| `sluggard` (`07_026270` blk2–3) | idioma (gag: Luke não conhece a palavra) | `madraço` + `Professor, o que é madraço?` | recriado |
+| `Old Father Thames` (`07_026280` blk9) | idioma | `velho Pai Tâmisa` | recriado |
+| `whippersnappers` (Rudolph, `07_026030`/`026240`) | idioma | `meus jovens` (evita literal `chicoteadores`) | fixar |
+| `BZZEEP!` (`07_025960`/`07_025965`) | ono | manter `BZZEEP!` | preservar |
+| `Hyeh heh!` (Chequer) | risada | manter | preservar |
+| `Tee hee!` (Becky) | risada | manter | preservar |
+| `Awwwrk!` / `Skwaaarka skwawk!` (papagaio) | ono | manter | preservar |
+| `DING DING DING!` / `DING DING DIIIING!` (Max) | corrida | manter efeito sonoro | preservar |
+| Pavel multilíngue (`07_025935`) | idioma | manter `Salutations, mein amigo, magnifique, der welt, Hai exactamente, Ja, pour la route` | preservar |
+| `Floral` (Future Delmona, `07_026320` blk2) | troca (nome errado) | manter `Floral` (pista do disfarce de Don Paolo) | preservar |
+
 ## Template (novos capítulos)
 
 ```
