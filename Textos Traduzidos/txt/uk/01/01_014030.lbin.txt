@@ -2,27 +2,27 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Ora... parece ser minha
-amada Laytonmobile.
+<T>Ora... parece ser meu
+querido Laytonmóvel.
 !******************************!
 [7117030004000000:000a000000023c0000000243000000]
 ルーク
 !******************************!
-<T>Também achei.<W> Afinal, nunca
-vi ninguém com um carro tão
-engraçado quanto esse.
+<T>Foi o que pensei também.<W> Nunca
+vi outro carro com um
+formato tão engraçado.
 !******************************!
 [7117030007000000:000a000000020000000002aa000000]
 レイトン
 !******************************!
-<T>Engraçado?<W> Saiba que isto é
-um clássico, meu jovem.
+<T>Formato engraçado?<W> Saiba que
+este é um clássico, meu jovem.
 !******************************!
 [711703000a000000:000a000000023c00000002f6000000]
 ルーク
 !******************************!
-<T>Julgando pela poeira e sujeira
-em cima, deve ser mesmo.
+<T>Pela poeira e sujeira em
+cima, deve ser mesmo.
 !******************************!
 [711703000d000000:000a000000023c000000022d010000]
 ルーク
@@ -65,7 +65,7 @@ teria feito isso?
 [711703001f000000:00e803000002000000000216030000]
 レイトン
 !******************************!
-<T>A Laytonmobile não vai a
+<T>O Laytonmóvel não vai a
 lugar nenhum sem abrirmos
 esta fechadura.
 !******************************!
@@ -84,5 +84,5 @@ ligar o carro.
 [7117030028000000:00c20b0000023c00000002c9030000]
 ルーク
 !******************************!
-<T>Muito bem! Ligue ela, Professor!
+<T>Isso aí! Ligue o carro, Professor!
 !******************************!

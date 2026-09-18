@@ -47,8 +47,8 @@ pisar na minha sala de aula.
 未来シュレーダー
 !******************************!
 <T>Oh, céus! Com toda essa
-empolgação, quase esqueci
-de tomar meu remédio!
+agitação, quase esqueci
+de tomar meu remédio. Que bobeira!
 !******************************!
 [7117030019000000:00140000000232000000025e020000]
 未来シュレーダー
@@ -79,9 +79,9 @@ eu tomar meu remédio?
 [7117030025000000:00b80b000002320000000285030000]
 未来シュレーダー
 !******************************!
-<T>Você ensinou bem este rapaz,
-Hershel. Claramente passou
-minhas habilidades adiante, hehe!
+<T>Você ensinou bem esse garoto,
+Hershel. Passou adiante algumas
+das minhas habilidades, heh heh!
 !******************************!
 [7117030028000000:00b80b000002f301000002e5030000]
 ルーク
@@ -98,7 +98,7 @@ houvesse outro aluno quase tão bom.
 [711703002e000000:00b80b000002320000000257040000]
 未来シュレーダー
 !******************************!
-<T>Aquele rapaz também era um
-gênio. Fico pensando o que
+<T>Aquele rapaz também era
+muito esperto. Fico pensando o que
 aconteceu com ele...
 !******************************!

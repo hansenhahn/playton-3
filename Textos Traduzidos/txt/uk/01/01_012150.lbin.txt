@@ -9,14 +9,14 @@ por aí, não viram?
 [7117030004000000:000a000000025f0000000268000000]
 レイトン
 !******************************!
-<T>Sim, vimos. Por que pergunta?
+<T>Sim, vimos. Por que a pergunta?
 !******************************!
 [7117030007000000:000a00000002000000000287000000]
 ウッズ
 !******************************!
-<T>Achei melhor dar um conselho.
-Aquela gangue toda é
-encrenca na certa.
+<T>Achei melhor dar um aviso.
+Aquele bando todo
+não presta.
 !******************************!
 [711703000a000000:000a000000020000000002d5000000]
 ウッズ
@@ -41,8 +41,8 @@ longos casacos cinza e chapéus iguais.
 ウッズ
 !******************************!
 <T>Ah, e nem tente bancar o herói.
-Coragem só vai lhe trazer
-a pior encrenca.
+Coragem só vai meter você
+na pior encrenca.
 !******************************!
 [7117030016000000:00140000000228020000022f020000]
 ルーク
@@ -60,32 +60,31 @@ ouço essa palavra...
 ウッズ
 !******************************!
 <T>Faz anos que não vejo polícia
-nestas ruas. Hoje é a Família
-quem faz a lei.
+nestas ruas. Hoje quem manda
+é a Família.
 !******************************!
 [711703001f000000:001e000000025f0000000203030000]
 レイトン
 !******************************!
-<T>Que terrível.
+<T>Que situação terrível.
 !******************************!
 [7117030022000000:001e00000002000000000214030000]
 ウッズ
 !******************************!
-<T>Nem me diga. Eu... Opa, lá vem
-um deles agora.<A4/1> Tente
-não encarar.
+<T>Nem me fale. Eu- Opa, aí vem
+um dos capangas deles.<A4/1>
+Melhor não encarar.
 !******************************!
 [7117030025000000:001e000000025f000000026d030000]
 レイトン
 !******************************!
-<T>Você se importaria se eu desse
-uma olhada nesse jornal que
-está segurando, senhor?
+<T>O senhor se importaria se eu
+desse uma olhada nesse jornal?
 !******************************!
 [7117030028000000:001e000000020000000002b2030000]
 ウッズ
 !******************************!
-<T><A3/1>Fique à vontade. Pode pegar.
+<T><A3/1>Fique à vontade. Veja o quanto quiser.
 !******************************!
 [711703002b000000:001e000000025f00000002da030000]
 レイトン
@@ -95,8 +94,8 @@ está segurando, senhor?
 [711703002e000000:0028000000022802000002fa030000]
 ルーク
 !******************************!
-<T>Professor, olhe a data
-neste jornal!
+<T>Professor, olha a data
+desse jornal!
 !******************************!
 [7117030031000000:003200000002000000000228040000]
 ウッズ
@@ -107,9 +106,9 @@ um jornal.
 [7117030034000000:003200000002000000000263040000]
 ウッズ
 !******************************!
-<T>Certo, preciso ir. Tenho
-coisas para fazer. Pode
-devolver meu jornal?
+<T>Certo, preciso ir. Coisas
+pra fazer. Pode me
+devolver o jornal?
 !******************************!
 [7117030037000000:0037000000022802000002b2040000]
 ルーク
@@ -119,8 +118,7 @@ devolver meu jornal?
 [711703003a000000:003c000000022802000002d3040000]
 ルーク
 !******************************!
-<T>Não li errado a data daquele
-jornal, li, Professor?
+<T>Eu não li errado a data, li, Professor?
 !******************************!
 [711703003d000000:003c000000025f0000000211050000]
 レイトン
@@ -145,8 +143,8 @@ na Londres do futuro.
 レイトン
 !******************************!
 <T>Quem escreveu aquela carta
-garantiu a prova da nossa viagem
-no tempo no Green Hospital.
+garantiu que acharíamos a prova
+da viagem no Green Hospital.
 !******************************!
 [7117030049000000:003c000000025f0000000260060000]
 レイトン

@@ -15,9 +15,9 @@ precisem de algo.
 [7117030007000000:000a0000000293000000029a000000]
 ルーク
 !******************************!
-<T><A3/1>Já sabemos seu nome, Becky. Você
-nos disse antes, lembra? <A3/2>Meu nome é
-Luke, aliás!
+<T><A3/1>A gente já sabe seu nome, Becky.
+Você disse antes, lembra? <A3/2>Eu sou o
+Luke!
 !******************************!
 [711703000a000000:000a000000029300000002ff000000]
 ルーク
@@ -29,9 +29,9 @@ deixa sem jeito.
 [711703000d000000:000a00000002000000000256010000]
 ベッキー
 !******************************!
-<T><A3/3>Shh! A Vovó é rigorosa com o
-atendimento. Tenho de manter a
-formalidade com ela por perto!
+<T><A3/3>Xiiu! A Vovó é rigorosa com o
+atendimento. Tenho que manter a
+formalidade perto dela!
 !******************************!
 [7117030010000000:000a000000029300000002b9010000]
 ルーク

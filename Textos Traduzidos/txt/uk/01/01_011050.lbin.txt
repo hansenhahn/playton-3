@@ -2,8 +2,8 @@
 [7117030001000000:000a00000002000000000209000000]
 アニータ
 !******************************!
-<T>Bem-vindos, cavalheiros. Por favor,
-fiquem à vontade.<W> Nossa...
+<T>Bem-vindos, cavalheiros. Por
+favor, fiquem à von-<W> Oh, céus...
 Essa sua cartola...
 !******************************!
 [7117030004000000:000a000000025f0000000268000000]

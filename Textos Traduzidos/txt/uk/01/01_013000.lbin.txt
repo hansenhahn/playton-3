@@ -13,9 +13,9 @@ E o pequeno Luke!</V>
 [7117030007000000:000a00000002000000000276000000]
 未来シュレーダー
 !******************************!
-<V0030><T>Hmm? Por que essa cara de
-espanto, Hershel? Será que
-estou com comida na barba de novo?</V>
+<V0030><T>Hmm? Por que essa cara,
+Hershel? Será que estou
+com comida na barba de novo?</V>
 !******************************!
 [711703000a000000:000a000000020000000002cd000000]
 未来シュレーダー
@@ -46,13 +46,13 @@ desagradáveis?</V>
 未来シュレーダー
 !******************************!
 <V0060><T>Que tipos, você pergunta? Aqueles
-sobre o treco... o negócio...
-o... Ah, droga.</V>
+sobre o troço... o negócio que
+faz coisas... o... Ah, droga.</V>
 !******************************!
 [7117030019000000:000a00000002000000000236020000]
 未来シュレーダー
 !******************************!
 <T><V0061>Parece que esqueci tudo
-completamente.<W> Bem, deixe
-para lá então.</V>
+completamente.<W> Bem, deixe isso
+pra lá.</V>
 !******************************!

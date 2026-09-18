@@ -2,20 +2,20 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Olha! Tem um guarda. Ele é
-igual àqueles gangsters da
-Família que vimos antes!
+<T>Ei, olha só! Tem um guarda ali.
+Ele parece com aqueles bandidos
+da Família que vimos antes!
 !******************************!
 [7117030004000000:000a000000025f0000000268000000]
 レイトン
 !******************************!
-<T>De fato, é notável como
-parecem tão anônimos.
+<T>De fato. É impressionante como
+eles conseguem parecer tão anônimos.
 !******************************!
 [7117030007000000:0014000000020000000002a8000000]
 ルーク
 !******************************!
-<T>Diga, Professor, aquela não é
+<T>Ei, Professor, aquela não é
 a placa da estação de trem?
 !******************************!
 [711703000a000000:0014000000025f00000002e6000000]

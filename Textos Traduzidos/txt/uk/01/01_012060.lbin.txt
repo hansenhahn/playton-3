@@ -52,9 +52,9 @@ se divertindo na cidade.
 [7117030019000000:00140000000231020000023a020000]
 レイトン
 !******************************!
-<T><A1/2>Ho ho! Você tem um argumento
-convincente, jovem. Localização
-é tudo, afinal.
+<T><A1/2>Ha ha! Seu argumento é bem
+convincente, minha jovem. Afinal,
+localização é tudo.
 !******************************!
 [711703001c000000:00140000000231020000029c020000]
 レイトン
@@ -78,8 +78,8 @@ o livro de hóspedes do hotel...
 [7117030025000000:001e00000002660000000278030000]
 ルーク
 !******************************!
-<T>Ahn, Professor, vamos mesmo
-ficar aqui?
+<T>Ahn, Professor... a gente
+vai mesmo ficar aqui?
 !******************************!
 [7117030028000000:001e000000023102000002ac030000]
 レイトン

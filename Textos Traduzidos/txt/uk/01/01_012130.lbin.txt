@@ -2,15 +2,15 @@
 [7117030001000000:000a00000002000000000209000000]
 バッカス
 !******************************!
-<T>Desculpem, rapazes, ainda
-não abrimos.
+<T>Foi mal, rapazes, ainda
+não estamos abertos.
 !******************************!
 [7117030004000000:000a0000000200000000022e000000]
 バッカス
 !******************************!
-<T>Não viram a placa lá
-na frente? Era para estar
-escrito.
+<T>Não viram a placa lá fora?
+Ela devia deixar isso
+bem claro.
 !******************************!
 [7117030007000000:000a0000000275000000027e000000]
 レイトン
@@ -34,9 +34,9 @@ conferir a placa ao sair.
 [7117030010000000:000a00000002000000000240010000]
 バッカス
 !******************************!
-<T><A3/2>Desculpe o transtorno.
-Gostariam de se sentar e
-esperar? Já vamos ficar prontos.
+<T><A3/2>Desculpem o transtorno.
+Querem sentar e esperar um pouco?
+Logo logo estaremos prontos.
 !******************************!
 [7117030013000000:000a000000027500000002ae010000]
 レイトン
@@ -48,9 +48,9 @@ pouco de pressa no momento.
 [7117030016000000:000a0000000200000000020c020000]
 バッカス
 !******************************!
-<T><A2/5>Até melhor, na verdade. Estou
-com um problema que precisa
-da minha atenção agora.
+<T><A2/5>Até que é melhor. Estou
+com uma bela encrenca nas mãos
+que preciso resolver agora.
 !******************************!
 [7117030019000000:000a0000000275000000026a020000]
 レイトン
@@ -61,8 +61,8 @@ da minha atenção agora.
 バッカス
 !******************************!
 <T>Não consigo abrir a porta dos
-fundos.<W> Minha esposa colocou um
-código novo no cadeado ao sair.
+fundos.<W> A patroa mudou o
+código da fechadura antes de sair.
 !******************************!
 [711703001f000000:000a000000020000000002e7020000]
 バッカス
@@ -80,15 +80,15 @@ belo dilema...
 [7117030025000000:00e803000002000000000267030000]
 バッカス
 !******************************!
-<T>Não adianta, simplesmente não
-decifro a letra da minha esposa.
+<T>Não adianta, não consigo
+decifrar os rabiscos da patroa.
 !******************************!
 [7117030028000000:00d0070000020000000002a3030000]
 バッカス
 !******************************!
-<T>Ei, não acha que conseguiria
-descobrir o código? Me tiraria
-um peso das costas.
+<T>Ei, será que vocês conseguem
+descobrir o código? Tiraria
+um peso das minhas costas.
 !******************************!
 [711703002b000000:00b80b000002000000000207040000]
 バッカス
@@ -100,7 +100,7 @@ Voltem para jantar, é por conta da casa!
 [711703002e000000:00a00f000002000000000270040000]
 バッカス
 !******************************!
-<T>Desculpem, rapazes, a cozinha
-ainda não está pronta para
-começar.
+<T>Foi mal, rapazes, a cozinha
+ainda não está pronta
+pra funcionar.
 !******************************!

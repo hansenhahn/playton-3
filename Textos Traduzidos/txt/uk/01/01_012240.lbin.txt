@@ -63,7 +63,7 @@ antigo aluno dele.
 [711703001f000000:0014000000025e0200000265020000]
 ルーク
 !******************************!
-<T><A3/2>O aprendiz do aprendiz do
+<T><A3/2>O aprendiz do aluno do
 Dr. Schrader!
 !******************************!
 [7117030022000000:001400000002000000000292020000]
@@ -87,8 +87,8 @@ preencher uma papelada antes.
 [711703002b000000:001e00000002000000000239030000]
 シャロン
 !******************************!
-<T>Política do hospital, sinto
-muito. Mas não se preocupe.
+<T>Regras do hospital, receio
+eu. Mas não se preocupem.
 É só uma pergunta.
 !******************************!
 [711703002e000000:00e803000002000000000286030000]
@@ -122,12 +122,12 @@ podem visitar o Dr. Schrader.
 シャロン
 !******************************!
 <T>O quarto dele é no terceiro
-andar. É só subir aquela
-escada ali.
+andar. É só subir aquelas
+escadas ali.
 !******************************!
 [711703003d000000:00a00f000002000000000205050000]
 シャロン
 !******************************!
 <T>O quarto do Dr. Schrader é
-subindo aquela escada ali.
+subindo aquelas escadas ali.
 !******************************!

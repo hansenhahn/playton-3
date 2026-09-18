@@ -17,26 +17,26 @@
 [711703000a000000:000a000000022d0000000287000000]
 ルーク
 !******************************!
-<T><A1/5>Ahn... deixe para lá. Não é
-nada, de verdade.
+<T><A1/5>Ahn... deixa pra lá. Não é
+nada, não.
 !******************************!
 [711703000d000000:000a000000020000000002b7000000]
 ドルガー
 !******************************!
-<T><A1/5>Ah, não fuja! É tão solitário
-ficar aqui sem ninguém
-para conversar.
+<T><A1/5>Ei, não vá embora! Fica
+tão solitário por aqui
+sem ninguém pra conversar.
 !******************************!
 [7117030010000000:000a000000022d000000020f010000]
 ルーク
 !******************************!
-<T><A4/4>Ah... Que triste...
+<T><A4/4>Ah... Que horrível...
 !******************************!
 [7117030013000000:000a00000002000000000231010000]
 ドルガー
 !******************************!
 <T><A1/5>Você é um bom rapaz. Poucos
-jovens parariam para ouvir
+jovens parariam pra ouvir
 os problemas de um velho.
 !******************************!
 [7117030016000000:000a00000002000000000290010000]
@@ -53,15 +53,15 @@ pela sua gentileza.
 [711703001c000000:00e8030000020000000002c8010000]
 ドルガー
 !******************************!
-<T><A1/5>Com dificuldade no meu
-enigma?<A2/5><W> <A1/5>ENTÃO?<W> Não se preocupe. Se
-insistir, vai conseguir.
+<T><A1/5>Está com dificuldade no
+meu enigma?<A2/5><W> <A1/5>ENTÃO?<W> Não se preocupe.
+Se continuar tentando, consegue.
 !******************************!
 [711703001f000000:00e80300000200000000024b020000]
 ドルガー
 !******************************!
 <T><A1/5>Um bom rapaz como você
-merece um presente.<W> Tome.
+merece um presente.<W> Aqui.
 !******************************!
 [7117030022000000:00e8030000022d0000000285020000]
 ルーク
@@ -114,14 +114,14 @@ enigma de novo?<A2/5><W> <A1/5>ENTÃO?
 [711703003a000000:00b80b00000200000000024b040000]
 ドルガー
 !******************************!
-<T><A1/5>Ora, mas como você é
-esperto!
+<T><A1/5>Ora, mas você é esperto
+que só!
 !******************************!
 [711703003d000000:00b80b00000200000000024b020000]
 ドルガー
 !******************************!
 <T><A1/5>Um bom rapaz como você
-merece um presente.<W> Tome.
+merece um presente.<W> Aqui.
 !******************************!
 [7117030040000000:00b80b0000022d0000000285020000]
 ルーク
@@ -169,6 +169,6 @@ do livro estão em branco!<A2/5><W>
 ドルガー
 !******************************!
 <T><A1/5>O quê? Quer resolver outro
-enigma?<A2/5><W> <A1/5>ENTÃO?<W> Espere um
-instante. Deixe-me pensar.
+enigma?<A2/5><W> <A1/5>ENTÃO?<W> Vou pensar em um.
+Me dá um minutinho.
 !******************************!

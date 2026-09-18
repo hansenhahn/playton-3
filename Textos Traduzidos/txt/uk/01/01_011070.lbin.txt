@@ -17,7 +17,7 @@ muito bem.
 ルーク
 !******************************!
 <T>Ah, já sei! Acho que sei o
-que aconteceu!<W><A3/2> Devemos ter
+que aconteceu!<W><A3/2> A gente deve ter
 saído da loja por outra porta.
 !******************************!
 [711703000a000000:000a00000002000000000238010000]

@@ -2,13 +2,13 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Acho que este é o pôster do
+<T>Acho que este é o cartaz do
 hospital que procuramos.
 !******************************!
 [7117030004000000:000a00000002470000000250000000]
 レイトン
 !******************************!
-<T>Ótimo. Pelo mapa do pôster,
+<T>Ótimo. Pelo mapa no cartaz,
 o hospital parece ficar bem
 perto da estação.
 !******************************!

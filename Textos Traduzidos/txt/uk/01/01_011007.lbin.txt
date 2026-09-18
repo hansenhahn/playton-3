@@ -2,8 +2,8 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T><A1/3>Ei! A porta acabou de bater
-atrás de nós e agora está
+<T><A1/3>Ei! A porta bateu atrás
+da gente e agora está
 trancada!<W> Que falta de educação!
 !******************************!
 [7117030004000000:000a000000026b0000000274000000]

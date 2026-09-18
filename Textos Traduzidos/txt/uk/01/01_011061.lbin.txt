@@ -18,26 +18,26 @@
 [711703000a000000:000a00000002210000000263000000]
 ルーク
 !******************************!
-<T><A1/5>Ahn... deixe para lá. Não é
-nada, de verdade.
+<T><A1/5>Ahn... deixa pra lá. Não é
+nada, não.
 !******************************!
 [711703000d000000:000a00000002000000000293000000]
 ドルガー
 !******************************!
-<T><A1/5>Ah, não fuja! É tão solitário
-ficar aqui sem ninguém
-para conversar.
+<T><A1/5>Ei, não vá embora! Fica
+tão solitário por aqui
+sem ninguém pra conversar.
 !******************************!
 [7117030010000000:000a000000022100000002ea000000]
 ルーク
 !******************************!
-<T><A4/4>Ah... Que triste...
+<T><A4/4>Ah... Que horrível...
 !******************************!
 [7117030013000000:000a0000000200000000020c010000]
 ドルガー
 !******************************!
 <T><A1/1>Você é um bom rapaz. Poucos
-jovens parariam para ouvir
+jovens parariam pra ouvir
 os problemas de um velho.
 !******************************!
 [7117030016000000:000a0000000200000000026b010000]
@@ -54,9 +54,9 @@ pela sua gentileza.
 [711703001c000000:00e8030000020000000002a3010000]
 ドルガー
 !******************************!
-<T><A1/5>Com dificuldade no meu
-enigma?<A2/5><W> <A1/5>ENTÃO?<W> Não se preocupe. Se
-insistir, vai conseguir.
+<T><A1/5>Está com dificuldade no
+meu enigma?<A2/5><W> <A1/5>ENTÃO?<W> Não se preocupe.
+Se continuar tentando, consegue.
 !******************************!
 [711703001f000000:00d007000002000000000226020000]
 ドルガー
@@ -67,13 +67,13 @@ enigma de novo?<A2/5><W> <A1/5>ENTÃO?
 [7117030022000000:00b80b00000200000000026b020000]
 ドルガー
 !******************************!
-<T><A1/5>Ora, mas como você é
-esperto!
+<T><A1/5>Ora, mas você é esperto
+que só!
 !******************************!
 [7117030025000000:00a00f000002000000000299020000]
 ドルガー
 !******************************!
 <T><A1/5>O quê? Quer resolver outro
-enigma?<A2/5><W> <A1/5>ENTÃO?<W> Espere um
-instante. Deixe-me pensar.
+enigma?<A2/5><W> <A1/5>ENTÃO?<W> Vou pensar em um.
+Me dá um minutinho.
 !******************************!

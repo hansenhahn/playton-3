@@ -16,13 +16,13 @@ encontrar a estação à direita.
 [7117030007000000:000a000000020000000002a8000000]
 ルーク
 !******************************!
-<T>Então estamos quase lá. Vamos
-continuar, Professor!
+<T>Então já estamos quase lá. Vamos
+andando, Professor!
 !******************************!
 [711703000a000000:000a000000020000000002e2000000]
 ルーク
 !******************************!
-<T><K>Hmm?<W></K> Ei, sou só eu ou
+<T><K>Hmm?<W></K> Ei, é impressão minha ou
 aquele homem na esquina
 está tremendo?
 !******************************!

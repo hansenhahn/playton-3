@@ -9,8 +9,8 @@ Professor Layton, não é?
 [7117030004000000:000a00000002680000000271000000]
 レイトン
 !******************************!
-<T><A1/1>De fato sou eu, senhor. E quem
-seria você?
+<T><A1/1>De fato sou eu, senhor. E com
+quem tenho o prazer de falar?
 !******************************!
 [7117030007000000:000a000000020000000002a2000000]
 ブッチ
@@ -30,14 +30,14 @@ confirmar sua identidade.
 !******************************!
 <T>Tenho um enigma feito sob
 medida para isso, então
-pode resolver!
+mãos à obra!
 !******************************!
 [7117030010000000:00e80300000200000000028c010000]
 ブッチ
 !******************************!
 <T><A1/5>Não posso ter certeza de que
 você é o verdadeiro Professor Layton
-até você resolver o enigma, certo?
+até resolver o enigma, certo?
 !******************************!
 [7117030013000000:00d0070000020000000002ea010000]
 ブッチ
