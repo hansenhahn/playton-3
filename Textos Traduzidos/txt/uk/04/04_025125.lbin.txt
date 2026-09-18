@@ -9,7 +9,7 @@ outro lugar no momento.
 [7117030004000000:000a0000000200000000025f000000]
 未来ルーク
 !******************************!
-<T>Além disso, você queria ver o
+<T>Além disso, o senhor queria ver o
 inspetor, não é, Professor?
 <W>Vamos depressa à relojoaria.
 !******************************!

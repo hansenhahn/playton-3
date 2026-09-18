@@ -2,15 +2,15 @@
 [7117030001000000:000a00000002000000000209000000]
 グラハム
 !******************************!
-<T><A1/5>Hoje é o grande dia! Enfim, vou me
-declarar à mulher mais encantadora
+<T><A1/5>Hoje é o grande dia! Enfim, vou
+propor à mulher mais encantadora
 de toda Londres.
 !******************************!
 [7117030004000000:000a0000000200000000026f000000]
 グラハム
 !******************************!
-<T>Propor uma parceria de negócios,
-quero dizer!
+<T>Propor sociedade,
+é claro!
 !******************************!
 [7117030007000000:000a000000029b00000002a2000000]
 ルーク
@@ -58,5 +58,6 @@ com isso.
 グラハム
 !******************************!
 <T>Talvez uma gravata nova seja o que
-preciso para fechar negócio. Hmm...
+preciso para esse momento
+tão especial. Hmm...
 !******************************!

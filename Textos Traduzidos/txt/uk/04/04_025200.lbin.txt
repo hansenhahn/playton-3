@@ -48,9 +48,9 @@ Ahn...<W>o Luke menor, quero dizer.
 [7117030019000000:001e000000020000000002a8010000]
 ジャック
 !******************************!
-<T>Diga-me, rapaz. Com o que este
-aparelho atrás de mim se parece
-para você?
+<T>Diga-me, rapaz. O que lhe
+parece este aparelho atrás
+de mim?
 !******************************!
 [711703001c000000:001e000000025e00000002f0010000]
 ルーク
@@ -113,8 +113,8 @@ que não saem da minha loja!
 [7117030037000000:0032000000026b03000002e1040000]
 ピランチ
 !******************************!
-<T><A3/3>Eu mediria as palavras se fosse
-você, vovô.
+<T><A3/3>Eu fechava essa boca se fosse
+você, velhote.
 !******************************!
 [711703003a000000:0032000000026b0300000225050000]
 ピランチ
@@ -125,8 +125,8 @@ a cumprir aqui.
 [711703003d000000:003c0000000262050000026b050000]
 ボストロ
 !******************************!
-<T><A4/0>O que vocês, seus palhaços, tão
-esperando? Vão trabalhar!
+<T><A4/0>O que estão esperando,
+seus palhaços? Vão trabalhar!
 !******************************!
 [7117030040000000:003c000000026205000002a2050000]
 ボストロ
@@ -139,7 +139,7 @@ você-sabe-quem!
 ゴロッキー
 !******************************!
 <T>Desculpa, Chefe, estamos fazendo
-o possível, mas o vovô aqui
+o possível, mas o velhote aqui
 tá de birra.
 !******************************!
 [7117030046000000:003c0000000262050000024b060000]
@@ -157,7 +157,7 @@ seus idiotas!
 ピランチ
 !******************************!
 <T>Vamos só dar uma voltinha,
-tá bem, vovô?
+tá bem, velhote?
 !******************************!
 [711703004f000000:004b000000020000000002d8060000]
 ジャック
@@ -174,8 +174,8 @@ relógio! Ouviram?
 ボストロ
 !******************************!
 <T>Mas temos que esperar até a hora exata
-que o chefe disse para ligar
-isto.
+em que o chefe disse para
+ligar isto.
 !******************************!
 [7117030058000000:005000000002000000000283070000]
 ジャック
@@ -212,7 +212,7 @@ uma espécie de buraco de minhoca.
 [7117030067000000:0050000000020000000002f2080000]
 ジャック
 !******************************!
-<T>Não me pergunte. Era tudo um jargão.
+<T>Não me pergunte. Era tudo conversa fiada.
 Algo sobre abrir um vórtice
 no fluxo do tempo.
 !******************************!
@@ -326,7 +326,7 @@ jornada até aqui.
 [711703009d000000:005a00000002ca08000002ef0d0000]
 レイトン
 !******************************!
-<T>Que plano e tanto você tramou,
+<T>Que plano e tanto você bolou,
 Big Luke.
 !******************************!
 [71170300a0000000:005a00000002b4000000021f0e0000]
@@ -344,7 +344,7 @@ mais interessante.
 未来ルーク
 !******************************!
 <T>Professor, com a ajuda de Cogg podemos
-enviar você e Luke de volta
+enviar o senhor e Luke de volta
 ao seu tempo.
 !******************************!
 [71170300a9000000:005a00000002b400000002be0e0000]
@@ -397,5 +397,5 @@ Hershel Layton.
 未来ルーク
 !******************************!
 <T><A2/2>Ha ha! É verdade. Peço desculpas.
-Nunca devia ter duvidado de você.
+Nunca devia ter duvidado do senhor.
 !******************************!

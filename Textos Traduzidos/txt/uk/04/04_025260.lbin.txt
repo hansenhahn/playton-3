@@ -28,7 +28,7 @@ Os ônibus estão circulando!
 [711703000d000000:000a00000002390100000242010000]
 レイトン
 !******************************!
-<T><A4/2>Ouvi, Luke.<W> Seu entusiasmo é válido,
+<T><A4/2>Ouvi, Luke.<W> Agradeço o entusiasmo,
 mas não queremos perturbar
 nosso amigo aqui.
 !******************************!

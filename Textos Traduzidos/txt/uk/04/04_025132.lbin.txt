@@ -27,9 +27,9 @@ de pressa.
 [711703000d000000:001e0000000246000000020c010000]
 ルーク
 !******************************!
-<T>Luke, ouça a si mesmo! Não se
-lembra do que o professor
-sempre diz?
+<T>Luke, escute o que está
+dizendo! Não se lembra do
+que o professor sempre diz?
 !******************************!
 [7117030010000000:001e0000000246000000025d010000]
 ルーク
@@ -85,8 +85,8 @@ alcançá-lo!
 [7117030028000000:003200000002000000000281030000]
 未来ルーク
 !******************************!
-<T><A4/4>Você não está facilitando
-para ajudarmos.
+<T><A4/4>Assim fica difícil
+ajudá-lo.
 !******************************!
 [711703002b000000:00e8030000020000000002bd030000]
 未来ルーク
