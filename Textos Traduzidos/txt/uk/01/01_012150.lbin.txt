@@ -34,8 +34,8 @@ faz por aqui.
 ウッズ
 !******************************!
 <T>Tenho certeza que já os viram,
-todos vestidos iguais, com seus
-longos casacos cinza e chapéus iguais.
+todos iguais, de casacos cinza
+compridos e chapéus iguais.
 !******************************!
 [7117030013000000:000a000000020000000002c8010000]
 ウッズ
@@ -84,7 +84,8 @@ desse uma olhada nesse jornal?
 [7117030028000000:001e000000020000000002b2030000]
 ウッズ
 !******************************!
-<T><A3/1>Fique à vontade. Veja o quanto quiser.
+<T><A3/1>Fique à vontade. Veja o
+quanto quiser.
 !******************************!
 [711703002b000000:001e000000025f00000002da030000]
 レイトン
@@ -118,14 +119,15 @@ devolver o jornal?
 [711703003a000000:003c000000022802000002d3040000]
 ルーク
 !******************************!
-<T>Eu não li errado a data, li, Professor?
+<T>Eu não li errado a data, li,
+Professor?
 !******************************!
 [711703003d000000:003c000000025f0000000211050000]
 レイトン
 !******************************!
-<T>Acho que não, Luke. Estava
-datado de 10 anos no futuro.<W>
-É como se tivéssemos viajado no tempo...
+<T>Acho que não, Luke. Estava datado
+de 10 anos no futuro.<W> É como se
+tivéssemos viajado no tempo...
 !******************************!
 [7117030040000000:003c0000000228020000027f050000]
 ルーク

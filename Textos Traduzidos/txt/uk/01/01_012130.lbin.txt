@@ -94,8 +94,8 @@ um peso das minhas costas.
 バッカス
 !******************************!
 <T>Valeu, rapazes! Graças a vocês,
-finalmente posso cozinhar.
-Voltem para jantar, é por conta da casa!
+finalmente posso cozinhar. Voltem
+para jantar, é por conta da casa!
 !******************************!
 [711703002e000000:00a00f000002000000000270040000]
 バッカス

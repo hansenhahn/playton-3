@@ -7,8 +7,8 @@
 [7117030004000000:000a000000022c0000000235000000]
 マックス
 !******************************!
-<T>DING DING DING!<W> Correto!<W> Mas como
-sabe meu nome?
+<T>DING DING DING!<W> Correto!<W> Mas
+como sabe meu nome?
 !******************************!
 [7117030007000000:000a00000002000000000274000000]
 ルーク
@@ -19,8 +19,8 @@ sabe meu nome?
 マックス
 !******************************!
 <T><A3/0>BZZT!<W> Resposta inválida!<W> <A1/2>Então
-foi a Becky mandona que
-mandou vocês! Estão no hotel, não é?
+foi a Becky mandona que mandou
+vocês! Estão no hotel, não é?
 !******************************!
 [711703000d000000:000a000000020000000002f2000000]
 ルーク

@@ -27,8 +27,8 @@ indicar onde fica o Quarto 312?
 [711703000d000000:000a000000020000000002f5000000]
 シャロン
 !******************************!
-<T>Quarto 312, hã? Deixa eu ver...<W> Ah,
-Dr. Andrew Schrader? Claro,
+<T>Quarto 312, hã? Deixa eu ver...<W>
+Ah, Dr. Andrew Schrader? Claro,
 só um instante-
 !******************************!
 [7117030010000000:000a00000002170000000246010000]
@@ -87,9 +87,9 @@ preencher uma papelada antes.
 [711703002b000000:001e00000002000000000239030000]
 シャロン
 !******************************!
-<T>Regras do hospital, receio
-eu. Mas não se preocupem.
-É só uma pergunta.
+<T>Infelizmente, é regra do
+hospital. Mas não se
+preocupem: é só uma pergunta.
 !******************************!
 [711703002e000000:00e803000002000000000286030000]
 シャロン
