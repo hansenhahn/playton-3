@@ -1,0 +1,61 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000209000000]
+セガール
+!******************************!
+<T>Saudações e afins. O que traz
+cidadãos de bem como vocês de
+volta por aqui?
+!******************************!
+[7117030004000000:000a0000000267000000026e000000]
+ルーク
+!******************************!
+<T>Estamos atrás do chefe da Família.
+Recebemos uma pista quente de que
+ele está perto do rio!
+!******************************!
+[7117030007000000:000a000000020000000002cb000000]
+セガール
+!******************************!
+<T><A2/1>Opa, calma! Devagar!
+!******************************!
+[711703000a000000:000a000000020000000002e9000000]
+セガール
+!******************************!
+<T>Continue farejando confusão assim
+e algo vai acabar fedendo.
+Acredite em mim.
+!******************************!
+[711703000d000000:00140000000251010000025a010000]
+レイトン
+!******************************!
+<T>O senhor certamente parece ser
+uma autoridade em tais assuntos.
+!******************************!
+[7117030010000000:001400000002000000000297010000]
+セガール
+!******************************!
+<T>Pode apostar. E vejo que vocês
+dois também não vão dar ouvidos
+ao meu aviso.
+!******************************!
+[7117030013000000:0014000000020000000002f1010000]
+セガール
+!******************************!
+<T><A2/2>Se estão mesmo decididos a ir à
+beira do rio, deviam passar no
+restaurante lá embaixo.
+!******************************!
+[7117030016000000:001400000002000000000252020000]
+セガール
+!******************************!
+<T>A comida deles é de primeira. Se
+vão procurar confusão, que seja de
+barriga cheia.
+!******************************!
+[7117030019000000:001e000000020000000002bb020000]
+セガール
+!******************************!
+<T><A2/2>Tem um restaurante joia à beira do
+rio que vocês deviam experimentar.
+A comida é de outro mundo.
+!******************************!

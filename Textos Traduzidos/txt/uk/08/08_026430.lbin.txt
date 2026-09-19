@@ -1,0 +1,22 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<T>Ora, que galpãozinho curioso.
+Luke, teria a bondade de abrir
+a porta para nós?
+!******************************!
+[7117030004000000:000a0000000258000000025f000000]
+ルーク
+!******************************!
+<T>Não adianta, Professor. Está
+trancado firme. Vamos precisar da
+chave para entrar.
+!******************************!
+[7117030007000000:000a000000020000000002ab000000]
+レイトン
+!******************************!
+<T>Que pena. Talvez devêssemos
+voltar mais tarde. Sigamos em
+frente por ora.
+!******************************!
