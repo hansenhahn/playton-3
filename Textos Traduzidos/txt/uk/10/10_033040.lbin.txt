@@ -1,0 +1,60 @@
+[7017010000000000:0009000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Então, deixa eu entender: Dimitri
+constrói uma máquina do tempo
+para voltar e salvar a Claire?
+!******************************!
+[7117030004000000:000a0000000273000000027c000000]
+レイトン
+!******************************!
+<T>Correto. Ou pelo menos foi o
+que ele disse.
+!******************************!
+[7117030007000000:000a000000020000000002a9000000]
+ルーク
+!******************************!
+<T><A2/1>Engraçado. Passamos por todos os
+andares do pagode e não vi nada
+parecido com uma máquina do tempo.
+!******************************!
+[711703000a000000:000a00000002730000000212010000]
+レイトン
+!******************************!
+<T><A2/2>Bem observado, meu jovem!
+!******************************!
+[711703000d000000:000a00000002730000000232010000]
+レイトン
+!******************************!
+<T>Dimitri claramente tinha um destino
+em mente ao escapar do Pagode
+Imponente.
+!******************************!
+[7117030010000000:000a00000002730000000289010000]
+レイトン
+!******************************!
+<T>Acho que ele foi para outra base,
+talvez o laboratório onde conduz
+suas pesquisas de viagem no tempo.
+!******************************!
+[7117030013000000:000a000000020000000002f5010000]
+ルーク
+!******************************!
+<T><A2/2>Foi isso que você procurava
+enquanto subíamos o Pagode
+Imponente com o Don Paolo?
+!******************************!
+[7117030016000000:000a0000000273000000025b020000]
+レイトン
+!******************************!
+<T><A4/2>Sim - em parte, ao menos. Explico
+tudo quando alcançarmos a Flora
+e o Big Luke.
+!******************************!
+[7117030019000000:000a000000027300000002c1020000]
+レイトン
+!******************************!
+<T>Até lá, desafio você a pensar
+sobre a situação sozinho.
+!******************************!
