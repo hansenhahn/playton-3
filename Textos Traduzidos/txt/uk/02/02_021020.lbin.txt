@@ -137,8 +137,8 @@ entendi.
 [7117030043000000:000e000000026300000002fc050000]
 未来ルーク
 !******************************!
-<T>Nos meses após a explosão, o
-senhor se afastou de mim aos poucos.
+<T>Nos meses após a explosão,
+o senhor foi se afastando de mim.
 !******************************!
 [7117030046000000:000e0000000263000000024b060000]
 未来ルーク
@@ -355,14 +355,14 @@ nesta era.
 未来ルーク
 !******************************!
 <T><A1/1>Na verdade, muitos especialistas
-foram perdidos quando a demonstração
-de Stahngun falhou.
+foram perdidos quando a
+demonstração de Stahngun falhou.
 !******************************!
 [71170300af000000:001400000002630000000215100000]
 未来ルーク
 !******************************!
 <T>Layton não teve escolha senão
-voltar ao tempo anterior à explosão
+voltar ao tempo antes da explosão
 para reunir talentos.
 !******************************!
 [71170300b2000000:001400000002690200000278100000]

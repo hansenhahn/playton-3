@@ -38,7 +38,7 @@ bem aqui, sabia!
 [7117030013000000:000a00000002000000000293010000]
 デロイ
 !******************************!
-<T><A3/1>Hmph.<W> Bem, como você se desculpou,
+<T><A3/1>Hmph.<W> Bem, já que se desculpou,
 creio que posso relevar sua
 grosseria desta vez.
 !******************************!
@@ -95,5 +95,5 @@ Conhece alguém com uma igual?
 !******************************!
 <T>Se eu contasse, acabaria com
 todo o suspense, não é? Deixo
-esse mistério para você.
+esse mistério para o senhor.
 !******************************!

@@ -224,9 +224,9 @@ a brecha?
 !******************************!
 <T>Quatro cartas enfileiradas:
 
-{.}Uma de copas ao lado de uma de ouros.
-{.}Uma de paus não ao lado de espadas.
-{.}Uma de copas à direita de uma de paus.
+{.}Uma de copas ao lado de ouros.
+{.}Uma de paus não está ao lado de espadas.
+{.}Uma de copas à direita de paus.
 
 Consegue dizer qual é a de espadas,
 Professor? Toque na carta.
@@ -239,7 +239,7 @@ Professor? Toque na carta.
 {.}Uma de paus logo à direita
 de uma de copas.
 {.}Uma carta de uma das pontas é
-de ouros, com uma de copas ao lado.
+de ouros, com copas ao lado.
 {.}A outra carta da ponta é de paus.
 
 Consegue achar a de espadas, Luke?
