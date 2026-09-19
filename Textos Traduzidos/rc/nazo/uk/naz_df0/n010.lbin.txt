@@ -10,9 +10,9 @@ Embora ainda vemos o tempo passar diante
 de nossos olhos, às vezes é difícil
 pensar na maneira que ele flui.
 
-Sendo assim: pense: se o dia de ontem
-depois de amanhã é Domingo, que dia
-é amanhã antes de ontem?
+Se o dia de ontem depois de amanhã é
+Domingo, que dia é o dia de amanhã
+antes de ontem?
 
 Marque a resposta e clique em <CR>Enviar</C>.
 !******************************!

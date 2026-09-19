@@ -7,8 +7,8 @@ n220b
 !******************************!
 [eb0b01000a000000:0211000000]
 Mova esse grande bloco vermelho embaixo
-à esquerda ao quadrado marcado com a seta
-em cima à direita.
+à esquerda ao quadrado marcado pela
+seta branca em cima à direita.
 
 Parece impossível, mas é possível.
 
