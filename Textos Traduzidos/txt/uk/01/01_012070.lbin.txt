@@ -59,7 +59,7 @@ Vamos ficar.
 !******************************!
 <T>Hehe. Nossos sanduíches costumam
 ter esse efeito nas pessoas.</T>
-<TW>Agora, se eu pudesse só-<W> Ah, não...
+<TW>Bem, se eu pudesse só-<W> Ah, não...
 !******************************!
 [711703001c000000:000a000000021d0100000246030000]
 ルーク

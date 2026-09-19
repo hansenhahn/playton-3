@@ -7,5 +7,6 @@
 [7117030004000000:000a00000002320000000239000000]
 ルーク
 !******************************!
-<T>Uau! Ela está dormindo profundamente.
+<T>Uau! Ela está dormindo
+profundamente.
 !******************************!

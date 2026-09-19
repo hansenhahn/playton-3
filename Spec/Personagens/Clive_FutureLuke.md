@@ -44,6 +44,7 @@
 - **Até Cap. 11, traduzir como Luke do Futuro jovem confiável;** não dar pista de vilania (evitar vocabulário sombrio).
 - **A partir de `12_039000`, virada brusca:** mudar pronome interno — ele passa a falar `Clive` de si; em PT-BR usar `Clive` com voz mais grave, frases mais longas, `Hmm` mais pesado.
 - **Não traduzir `Big Luke / Little Luke` como `Lukão` (caricato); manter `Luke Grande / Luke Pequeno` ou `Big Luke / Little Luke` em inglês com nota, pois Layton propõe em tom afetivo (`Spec/Capitulo_03.md:130`).**
+- **Tratamento (fixado no QA Cap. 01):** como Future Luke, dirige-se a Layton por `o senhor`/3ª pessoa — nas falas e também nas cartas/bilhetes (`01_012000`, `01_015000`). Não alternar com `você` (o harness não cobre narração; julgamento manual).
 - **Teste máscara:** `There are too many eyes on us in here. Let's talk in the back room.` → `Há olhos demais aqui. Vamos conversar nos fundos.` (conspiratório suave).
 - **Teste Clive:** `I have no choice but to level this place and rebuild it from the ground up.` → `Não tenho escolha senão arrasar este lugar e reconstruí-lo do zero.` (grandiloquente).
 

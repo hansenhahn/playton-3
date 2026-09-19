@@ -41,8 +41,8 @@ beijinho beijinho!
 [7117030016000000:001b00000002260000000243010000]
 ルーク
 !******************************!
-<T><A1/3>O quê?! Não!<W> Fique longe! Não chegue
-mais perto!
+<T><A1/3>O quê?! Não!<W> Fique longe!
+Não chegue mais perto!
 !******************************!
 [7117030019000000:001e000000027c0100000285010000]
 レイトン
@@ -55,7 +55,7 @@ maneiras ao falar com uma dama.
 ベル
 !******************************!
 <T><A4/5>Ah, seu nome é Fluke? Que nome
-charmoso! Tão extravagante!
+charmoso! Tão singular!
 !******************************!
 [711703001f000000:001e00000002000000000230020000]
 ベル

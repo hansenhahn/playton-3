@@ -10,8 +10,8 @@ que os ônibus não vão mais até lá.
 アデリン
 !******************************!
 <T>Certinho, rapazinho.<W> Esses ônibus
-já tinham parado de circular
-quando me mudei para cá, há dois anos.
+já tinham parado de circular quando
+me mudei para cá, há dois anos.
 !******************************!
 [7117030007000000:000a000000020000000002d1000000]
 ルーク
@@ -109,7 +109,7 @@ aquele hotel.
 [7117030034000000:0028000000026a0000000257040000]
 アデリン
 !******************************!
-<T>Se tiverem mais perguntas
-sobre a cidade, perguntem no
-hotel da Southern Street, logo ali.
+<T>Se tiverem mais perguntas sobre
+a cidade, perguntem no hotel
+da Southern Street, logo ali.
 !******************************!
