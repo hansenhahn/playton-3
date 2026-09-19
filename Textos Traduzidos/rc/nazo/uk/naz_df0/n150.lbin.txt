@@ -55,13 +55,13 @@ mesmo quando cortados na metade
 são o 1 e o 8.
 !******************************!
 [f00b01000f000000:027d040000]
-Se a irmã mais velha fizesse aniversário
-ano que vem, a mais nova também
-faria, então isso não faz sentido.
+Se a irmã mais velha tivesse 1 ano
+no ano que vem, a mais nova também
+teria 1, então isso não faz sentido.
 
 Se a mais velha tivesse 8 anos daqui
-um ano, a mais nova não teria nem
-nascido, então isso também está errado.
+um ano, a mais nova teria 0 anos,
+então isso também está errado.
 
 Pensando desse jeito, também é óbvio
 entender que isso não funcionaria se a

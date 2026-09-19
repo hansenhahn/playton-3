@@ -6,17 +6,15 @@ n160a
 n160b
 !******************************!
 [eb0b01000a000000:0211000000]
-Para abrir esta estranha porta, você
-precisa combinar as três peças-chave
-de forma que elas se encaixem em
-todas as fechaduras possíveis.
+Esta estranha porta só abrirá se estas
+três peças-chave em forma de selo, 1, 2 e 3,
+forem encaixadas em todas as fechaduras que
+comportem as três ao mesmo tempo.
 
-Você pode girá-las, mas não pode
-virá-las. E também, o tamanho delas é
-o que está mostrado na imagem.
+Note que as peças-chave mostradas abaixo
+não estão em escala.
 
-Marque as fechaduras que são possíveis
-fazer esse processo.
+Marque todas as fechaduras que funcionarão.
 !******************************!
 [ec0b01000b000000:0218010000]
 Boa visão!
@@ -50,7 +48,7 @@ fechadura C não vai funcionar. Mas a B,
 por outro lado, incrivelmente funciona!
 
 Note que você pode girar as peças-chave
-para a esquerda e para a direita, mas
+no sentido horário ou anti-horário, mas
 elas possuem um cabo nas costas, fazendo
 elas se encaixarem de um só jeito. Você
 precisa empurrá-las segurando o cabo,

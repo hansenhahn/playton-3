@@ -10,8 +10,8 @@ n100b
 próxima aventura está neste envelope
 selado! Aliás, gostou do meu selo?
 É que nem o que o senhor usa, mas
-tem o formato do meu chapéu e o L é de
-Luke! E é até da cor do meu chapéu!
+tem o formato do meu boné e o L é de
+Luke! E é até da cor do meu boné!
 Aliás, o selo me fez pensar em um
 enigma: destes quatro selos, A, B, C e
 D, qual deles é do carimbo que eu uso?
@@ -24,7 +24,7 @@ Circule a resposta e toque em <CR>Enviar</C>.
 Esplêndido!
  
 O desafio é perceber as diferenças
-entre as várias formas do chapéu e
+entre as várias formas do boné e
 perceber que o L do carimbo tem que
 estar ao contrário.
  
@@ -47,7 +47,7 @@ imagem espelhada do desenho.
 [ef0b01000e000000:02a4030000]
 Todos os carimbos são circulares, então
 preste atenção no centro deles: o
-desenho de um chapéu e um L.
+desenho de um boné e um L.
 
 Primeiro, dê uma olhada para onde
 o L está direcionado...
@@ -58,10 +58,10 @@ corretamente, então pode descartar
 essa opção.
 
 Agora olhe mais de perto nas formas
-do chapéu de A, C, e D.
+do boné de A, C, e D.
 !******************************!
 [f10b010010000000:02d7040000]
-O topo do chapéu do carimbo A está
+O topo do boné do carimbo A está
 tocando o círculo, então esse é mais
 um que pode ser descartado.
 

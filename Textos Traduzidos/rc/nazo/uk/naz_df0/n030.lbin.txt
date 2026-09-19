@@ -6,15 +6,15 @@ n030a
 n030b
 !******************************!
 [eb0b01000a000000:0211000000]
-{''}Tenho medo de alguém da família estar
-ali na frente... E não sei o que farão
-comigo se me acharem. Por isso, estou
-escondido atrás dessa parede, assim 
+{''}Tenho medo de ter uns da Família
+ali na frente... Não sei o que farão
+comigo se me acharem. Por isso, tô
+escondido atrás dessa parede, assim
 posso espiar por esse buraco sem ser
 achado.
 
-Me ajude, por favor - pode me dizer
-quantos capangas estão ali fora?{''} 
+Me ajude, por favor - ocê pode me
+dizer quantos capangas estão ali fora?{''}
 !******************************!
 [ec0b01000b000000:023d010000]
 Na mosca!
@@ -29,15 +29,15 @@ Analise cada canto e recanto!
 !******************************!
 [ee0b01000d000000:02b2010000]
 {''}O líder deles está ali, em cima
-da varanda no lado direito!
+da varanda, no canto superior direito!
 
 Ele é o primeiro.{''}
 !******************************!
 [ef0b01000e000000:0214020000]
-{''}Eles estão em esconderijos muito
-sorrateiros! Olhe para aquele barril
-embaixo à direita por exemplo, tem
-algo muito errado com ele...{''}
+{''}Eles se escondem em lugares que
+ocês nem sonhariam! Olhe aquele barril
+embaixo à direita, tem algo muito
+errado com ele...{''}
 !******************************!
 [f00b01000f000000:02a7020000]
 {''}Eles estão se escondendo em
@@ -47,6 +47,6 @@ chapéu...
 Dê uma boa olhada de perto!{''}
 !******************************!
 [f10b010010000000:0227030000]
-{''}Eu acho que tem menos de 10
+{''}Bão, eu acho que tem menos de 10
 deles.{''}
 !******************************!

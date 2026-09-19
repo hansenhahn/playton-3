@@ -10,10 +10,9 @@ Vá do ponto inicial no canto superior
 esquerdo até a bandeira verde no canto
 inferior direito, horizontalmente e
 verticalmente.
-Mas siga essa regra: você não pode ir
-na direção que as setas apontam e você
-não pode passar duas vezes no mesmo
-quadrado.
+Porém, você não pode ir na direção
+que as setas apontam e você não pode
+passar duas vezes no mesmo quadrado.
 
 Consegue chegar na bandeira verde?
 Toque cada quadrado que você passa no

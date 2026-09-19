@@ -25,9 +25,9 @@ Você acertou!
 De fato, a direção D é a de {''}cima{''}!
 Olhando a pilha de cada ângulo, dá para
 perceber quais blocos seriam puxados
-pela gravidade. Com exceção de D, todas
-as outras direções teriam blocos
-caindo.
+pela gravidade. Com exceção de quando
+D está para {''}cima{''}, todas as outras
+direções teriam blocos caindo.
 !******************************!
 [ed0b01000c000000:0273020000]
 Errado.
@@ -46,7 +46,7 @@ Fique atento a blocos que contém
 espaços vazios sob eles.
 !******************************!
 [f00b01000f000000:028c030000]
-Olhando a pilha pelo ângulo de B,
+Olhando a pilha com B para {''}cima{''},
 o quadradinho verde de baixo do quadrado
 vermelho vai cair, então B não pode ser
 a resposta.
@@ -56,7 +56,7 @@ e então você vai conseguir achar a
 resposta!
 !******************************!
 [f10b010010000000:0269040000]
-Olhe a imagem pelo ângulo de C.
+Olhe a imagem com C para {''}cima{''}.
 Dois dos quadradinhos verdes vão cair,
 então C também não pode ser a resposta.
 
