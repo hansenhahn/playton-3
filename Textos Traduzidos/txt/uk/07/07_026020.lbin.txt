@@ -1,0 +1,103 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Olá. O senhor mora em Chinatown?
+Pode nos falar um pouco sobre a
+região?
+!******************************!
+[7117030004000000:000a000000025c0000000265000000]
+ミーチェ
+!******************************!
+<T>Escute a si mesmo, jovem.<A2/1> Como
+todo ser consciente, existimos em
+toda parte e em lugar nenhum.
+!******************************!
+[7117030007000000:000a000000020000000002cd000000]
+ルーク
+!******************************!
+<T>Bem, isso é muito... bonito.
+!******************************!
+[711703000a000000:000a000000025c00000002e9000000]
+ミーチェ
+!******************************!
+<T><A3/1>Ora, se o que queriam perguntar era
+onde meu corpo físico reside, eu
+digo.
+!******************************!
+[711703000d000000:000a000000025c000000024e010000]
+ミーチェ
+!******************************!
+<T>De fato, eu {''}moro{''} em Chinatown.
+!******************************!
+[7117030010000000:000a000000025c0000000278010000]
+ミーチェ
+!******************************!
+<T><A3/3>Aqui se encontram mercadorias
+exóticas e maravilhas raras de todo
+o mundo.
+!******************************!
+[7117030013000000:000a000000025c00000002ca010000]
+ミーチェ
+!******************************!
+<T>Mas nada disso me interessa. Objetos
+materiais são meras partículas de
+poeira na tela do universo.
+!******************************!
+[7117030016000000:000a00000002000000000234020000]
+ルーク
+!******************************!
+<T><A4/4>Aff. Algo me diz que escolhi a
+pessoa errada para pedir
+informação.
+!******************************!
+[7117030019000000:000a000000025c0000000286020000]
+ミーチェ
+!******************************!
+<T><A2/1>Você só agora começou a abrir
+caminho neste mundo, jovenzinho.
+!******************************!
+[711703001c000000:000a000000025c00000002d2020000]
+ミーチェ
+!******************************!
+<T>Para você, muitos dos maiores
+enigmas da vida seguem sem resposta.<W>
+Este, por exemplo.
+!******************************!
+[711703001f000000:00e8030000025c0000000229030000]
+ミーチェ
+!******************************!
+<T>Aprenda, mas não perca sua
+individualidade. Não se conforme
+com os valores das massas.
+!******************************!
+[7117030022000000:00e803000002000000000288030000]
+ルーク
+!******************************!
+<T><A1/1>Ahn... Vou tentar o meu melhor.
+!******************************!
+[7117030025000000:00d0070000025c00000002aa030000]
+ミーチェ
+!******************************!
+<T>Vejo que voltou, jovenzinho.
+!******************************!
+[7117030028000000:00b80b0000025c00000002cf030000]
+ミーチェ
+!******************************!
+<T>Sim, é isso! Busque as respostas
+para as suas próprias perguntas!
+Essa é a raiz da individualidade.
+!******************************!
+[711703002b000000:00b80b0000025c000000022d040000]
+ミーチェ
+!******************************!
+<T>Só assim você encontrará o
+verdadeiro valor do momento
+infinito que chamamos de presente.
+!******************************!
+[711703002e000000:00b80b000002000000000296040000]
+ルーク
+!******************************!
+<T>Ahn...<W> Obrigado pelo elogio, mas
+tenho que ir agora. Tchau!
+!******************************!

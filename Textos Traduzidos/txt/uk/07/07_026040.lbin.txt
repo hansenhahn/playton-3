@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a00000002000000000207000000]
+ルーク
+!******************************!
+<T>Olhe todas essas lojas! E sinto
+cheiro de algo incrível sendo
+preparado numa delas!
+!******************************!
+[7117030004000000:000a0000000263000000026c000000]
+レイトン
+!******************************!
+<T>Vejo que você gostou da região.
+Vamos conversar com alguns
+moradores locais.
+!******************************!

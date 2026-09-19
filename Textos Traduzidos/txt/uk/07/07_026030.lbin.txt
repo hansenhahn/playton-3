@@ -1,0 +1,153 @@
+[7017010000000000:0017000000]
+[7117030001000000:000a00000002000000000209000000]
+ルドルフ
+!******************************!
+<T>Bom dia, meus jovens! Digam-me, já
+pararam para admirar este arco
+maravilhoso?
+!******************************!
+[7117030004000000:000a00000002000000000266000000]
+ルドルフ
+!******************************!
+<T>Foi construído para dar boas-vindas
+aos espíritos da sorte na região.
+!******************************!
+[7117030007000000:000a00000002a400000002ad000000]
+レイトン
+!******************************!
+<T><A1/2>É sem dúvida uma obra de arte de
+tirar o fôlego.<W> Presumo que conheça
+esta parte da cidade?
+!******************************!
+[711703000a000000:000a0000000200000000021c010000]
+ルドルフ
+!******************************!
+<T>Quer dizer Chinatown?<W> Digamos que
+conheço uma coisa ou outra da
+região.
+!******************************!
+[711703000d000000:000a00000002000000000275010000]
+ルドルフ
+!******************************!
+<T>Como o nome sugere, está cheia de
+restaurantes e lojas que vendem
+artigos da Ásia.
+!******************************!
+[7117030010000000:000a000000020000000002ca010000]
+ルドルフ
+!******************************!
+<T>O que poucos sabem é que os prédios
+daqui não são tão antigos, apesar
+da aparência.
+!******************************!
+[7117030013000000:000a00000002a40000000234020000]
+レイトン
+!******************************!
+<T><A3/1>Também ouvi dizer que a sede da
+Família fica nesta área. Eu-
+!******************************!
+[7117030016000000:000a00000002000000000281020000]
+ルドルフ
+!******************************!
+<T>Opa, calma aí! Fale mais baixo,
+está bem?
+!******************************!
+[7117030019000000:000a000000020000000002b0020000]
+ルドルフ
+!******************************!
+<T>Isso pode até ser de conhecimento
+geral, mas não é coisa que se fale
+em público.
+!******************************!
+[711703001c000000:000a00000002110300000218030000]
+ルーク
+!******************************!
+<T>O que o professor quer saber é se
+pode nos dizer como chegar lá.
+!******************************!
+[711703001f000000:000a00000002000000000265030000]
+ルドルフ
+!******************************!
+<T>Hoo hoo hoo! Você não tem papas na
+língua, hein, garoto? Admiro isso.
+!******************************!
+[7117030022000000:000a000000020000000002ad030000]
+ルドルフ
+!******************************!
+<T>Vou lhe dizer o que farei: se
+resolver meu enigma, aponto a sede
+da Família para vocês.
+!******************************!
+[7117030025000000:00e80300000200000000021e040000]
+ルドルフ
+!******************************!
+<T>Se nem meu enigma consegue resolver,
+não está preparado para ir à sede da
+Família.
+!******************************!
+[7117030028000000:00d00700000200000000027f040000]
+ルドルフ
+!******************************!
+<T>Vejo que voltou para tentar de
+novo. Deve querer mesmo saber onde
+fica a sede da Família!
+!******************************!
+[711703002b000000:00b80b0000020000000002de040000]
+ルドルフ
+!******************************!
+<T>Hoo hoo! Num piscar você resolveu.
+Aqui está a recompensa. Vê aquele
+prédio alto?
+!******************************!
+[711703002e000000:00b80b000002a4000000023d050000]
+レイトン
+!******************************!
+<T>Aquele ali?
+!******************************!
+[7117030031000000:00b80b000002000000000255050000]
+ルドルフ
+!******************************!
+<T>É esse mesmo. Chama-se Pagode
+Imponente e é a base de operações da
+Família.
+!******************************!
+[7117030034000000:00b80b0000020000000002b2050000]
+ルドルフ
+!******************************!
+<T>Dizem que o chefe é mais monstro
+que homem. E ele usa uma cartola
+igual à sua...
+!******************************!
+[7117030037000000:00b80b000002000000000215060000]
+ルドルフ
+!******************************!
+<T>Mas chega desse assunto
+desagradável. Aproveitem
+Chinatown.<W> Bom dia.
+!******************************!
+[711703003a000000:001400000002a40000000268060000]
+レイトン
+!******************************!
+<T>Se queremos encontrar meu eu do
+futuro, temos que ir ao Pagode
+Imponente. Isso é claro.
+!******************************!
+[711703003d000000:0014000000021103000002c7060000]
+ルーク
+!******************************!
+<T>Ótimo! Então agora só precisamos
+ir lá e arrombar a porta. Vamos!
+!******************************!
+[7117030040000000:0014000000021a0700000225070000]
+未来ルーク
+!******************************!
+<T>Algo me diz que não vai ser tão
+fácil, mas só há um jeito de
+descobrir, imagino.
+!******************************!
+[7117030043000000:00a00f000002000000000287070000]
+ルドルフ
+!******************************!
+<T>Aproveitando Chinatown, meus
+jovens?
+!******************************!

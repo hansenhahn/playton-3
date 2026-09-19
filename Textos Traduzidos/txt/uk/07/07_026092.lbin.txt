@@ -1,0 +1,41 @@
+[7017010000000000:0006000000]
+[7117030001000000:000a0000000200000000020b000000]
+ドクトリー
+!******************************!
+<T>Saiam da frente! Saiam da frente!
+Com licença! Estou com pressa!
+Preciso voltar!
+!******************************!
+[7117030004000000:0014000000025d0000000264000000]
+アロマ
+!******************************!
+<T>Meu Deus, aquele homenzinho me
+assustou!
+!******************************!
+[7117030007000000:0014000000025d000000028e000000]
+アロマ
+!******************************!
+<T>Quem diria que pernas tão curtas
+poderiam se mover tão rápido? Viu
+como ele saiu correndo da loja?
+!******************************!
+[711703000a000000:001400000002f700000002fe000000]
+ルーク
+!******************************!
+<T>Ele estava correndo mesmo, né? Não
+deve ter sido fácil com aqueles
+sapatos e calças encharcados!
+!******************************!
+[711703000d000000:0014000000025d0000000265010000]
+アロマ
+!******************************!
+<T>E ainda levava duas braçadas de
+livros. Deve ser um grande cliente
+daqui.
+!******************************!
+[7117030010000000:0014000000025d00000002ba010000]
+アロマ
+!******************************!
+<T>Talvez a moça do balcão possa nos
+contar algo sobre ele.
+!******************************!
