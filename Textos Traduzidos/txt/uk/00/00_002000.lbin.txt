@@ -91,9 +91,9 @@ para resolvê-lo.</V>
 [7117030028000000:0014000000029402000002fd040000]
 OPレイトン
 !******************************!
-<T><V0111>Sua lealdade é um grande
-conforto nestes tempos incertos,
-meu jovem.</V>
+<T><V0111>É um grande alívio ver que você
+continua o mesmo de sempre, mesmo
+em tempos incertos, meu jovem.</V>
 !******************************!
 [711703002b000000:001400000002160300000253050000]
 OPルーク

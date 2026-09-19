@@ -34,9 +34,9 @@ acabar em apuros depois.
 [7117030010000000:000a000000022b00000002a4010000]
 フローレス
 !******************************!
-<T>As moedas de dica estão
-escondidas por aí, então toque
-em tudo que parecer suspeito!
+<T>Toque em tudo que parecer
+suspeito: as moedas de dica estão
+escondidas por aí. Talvez ache uma!
 !******************************!
 [7117030013000000:000a000000022b0000000211020000]
 フローレス
