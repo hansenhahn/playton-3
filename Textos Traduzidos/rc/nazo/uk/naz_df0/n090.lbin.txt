@@ -23,7 +23,7 @@ Bingo!
 O truque é apertar os botões no
 formato do número 2.
 
-{''}Deixe 4{''} era uma dica para
+{''}Deixe 4{''} simplesmente significava
 deixar quatro botões sem serem
 apertados.
 !******************************!
@@ -36,7 +36,7 @@ Pense de um ângulo diferente.
 [ee0b01000d000000:0215020000]
 A porta só se abre se você interpretar
 corretamente as instruções. Não tem
-nenhuma pegadinha suja aqui, é só que
+nenhuma pegadinha suja aqui. É só que
 você precisa entender de outra forma.
 !******************************!
 [ef0b01000e000000:02b6020000]

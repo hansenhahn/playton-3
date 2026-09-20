@@ -28,8 +28,9 @@ entre as várias formas do boné e
 perceber que o L do carimbo tem que
 estar ao contrário.
  
-E legal de perceber que o L pode servir
+É legal de perceber que o L pode servir
 tanto para Luke quanto para Layton!
+Útil, né?
  
 {''}Se apresse, Professor! Tire o selo
 e veja o que há no envelope!{''}
@@ -58,12 +59,12 @@ corretamente, então pode descartar
 essa opção.
 
 Agora olhe mais de perto nas formas
-do boné de A, C, e D.
+do boné de A, C e D.
 !******************************!
 [f10b010010000000:02d7040000]
 O topo do boné do carimbo A está
-tocando o círculo, então esse é mais
-um que pode ser descartado.
+tocando o círculo externo, então você
+pode descartar essa opção sem medo.
 
 Tá entre os carimbos C e D agora!
 !******************************!

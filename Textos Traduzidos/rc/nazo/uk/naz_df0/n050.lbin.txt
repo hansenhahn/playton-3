@@ -24,7 +24,7 @@ Exato!
 Foi o vaso A.
 Vire-o de ponta-cabeça e olhe os
 contornos. Encaixam perfeitamente
-no perfil corporal do homem!
+no perfil do homem!
 !******************************!
 [ed0b01000c000000:028f010000]
 Errou.
@@ -56,5 +56,5 @@ está?
 Não olhe só os contornos dos vasos.
 Pense no que iria encaixar neles.
 
-A silhueta parece encaixar certinho!
+A silhueta encaixa perfeitamente!
 !******************************!

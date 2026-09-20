@@ -8,7 +8,7 @@ n020b
 [eb0b01000a000000:0211000000]
 Vá do ponto inicial no canto superior
 esquerdo até a bandeira verde no canto
-inferior direito, horizontalmente e
+inferior direito, horizontalmente ou
 verticalmente.
 Porém, você não pode ir na direção
 que as setas apontam e você não pode
@@ -16,7 +16,7 @@ passar duas vezes no mesmo quadrado.
 
 Consegue chegar na bandeira verde?
 Toque cada quadrado que você passa no
-caminho, e então envie sua resposta.
+caminho e então envie sua resposta.
 !******************************!
 [ec0b01000b000000:025f010000]
 Certa resposta!
@@ -39,9 +39,9 @@ se torna útil. Tente anotar em cada
 quadrado as direções em que você pode
 se mover.
 
-Anotando-os, talvez você perceba que
-quadrados com duas ou mais setas
-restringem muito suas opções de
+Anotando-os, você provavelmente vai
+perceber que quadrados com duas ou mais
+setas restringem muito suas opções de
 movimento, até porque você não pode
 voltar para seu quadrado original.
 !******************************!

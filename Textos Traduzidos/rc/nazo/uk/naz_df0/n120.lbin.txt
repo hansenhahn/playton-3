@@ -9,7 +9,7 @@ n120b
 Caminhe do ponto inicial até o final,
 mas cuidado com as cascas de banana.
 Assim que pisar em uma, você deslizará
-até bater em uma parede!
+sem parar até bater em uma parede!
 
 Consegue achar um caminho sólido
 por estas ruas escorregadias?
@@ -22,11 +22,11 @@ Frutífero!
  
 Curiosidade interessante sobre as
 bananas: elas são uma das frutas que
-continua amadurecendo mesmo após ser
-colhida. Ou seja, elas ainda estarão
-verdes quando colhidas. Apesar disso,
+continuam amadurecendo mesmo após ser
+colhida. Ou seja, elas estão verdes
+quando são colhidas. Apesar disso,
 você não gostaria de comer uma banana
-verde. Talvez não seria uma boa ideia.
+verde. Provavelmente não seria muito bom.
 !******************************!
 [ed0b01000c000000:021e020000]
 Errado!
