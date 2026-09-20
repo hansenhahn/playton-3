@@ -34,8 +34,8 @@ Tem algo no banco do passageiro!</V>
 
 !******************************!
 <V0050><T>Professor, espero que a esta
-altura esteja convencido de que
-esta é a Londres do futuro.</V>
+altura o senhor esteja convencido
+de que esta é a Londres do futuro.</V>
 !******************************!
 [7117030013000000:001400000002b301000002b4010000]
 
@@ -55,7 +55,7 @@ discutirmos isso pessoalmente.</V>
 !******************************!
 <V0070><T>Encontre-me no Cassino Gilded 7
 na Flatstone Street. Estarei
-esperando por você lá. </V>
+esperando pelo senhor lá. </V>
 !******************************!
 [711703001c000000:001e000000020000000002d7020000]
 レイトン

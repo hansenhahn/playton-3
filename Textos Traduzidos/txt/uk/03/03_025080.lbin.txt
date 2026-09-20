@@ -3,8 +3,8 @@
 セガール
 !******************************!
 <T>Psiu. Oi, oi, vocês dois, fiquem
-espertos. Estão com cara de perdidos.
-Sabem onde estão?
+espertos. Estão com cara de
+perdidos. Sabem onde estão?
 !******************************!
 [7117030004000000:000a00000002670000000270000000]
 レイトン
@@ -21,9 +21,9 @@ parecem dois cidadãos de bem.
 [711703000a000000:000a00000002000000000211010000]
 セガール
 !******************************!
-<T>Sou um cara legal, então vou contar.
-Estão bem no meio do bazar
-do mercado negro.
+<T>Sou um cara legal, então
+vou contar. Estão bem no meio
+do bazar do mercado negro.
 !******************************!
 [711703000d000000:000a0000000277010000027e010000]
 ルーク
@@ -33,16 +33,16 @@ do mercado negro.
 [7117030010000000:000a0000000200000000029e010000]
 セガール
 !******************************!
-<T>Nossa mesmo, garoto. Vendemos muita
-coisa duvidosa aqui e ninguém
-pergunta de onde veio.
+<T>Nossa mesmo, garoto. Vendemos
+muita coisa duvidosa aqui e
+ninguém pergunta de onde veio.
 !******************************!
 [7117030013000000:000a00000002000000000206020000]
 セガール
 !******************************!
-<T>Se eu tivesse esses sapatos brilhantes
-de vocês, andava de cabeça baixa
-e saía correndo, rapidinho.
+<T>Se eu usasse esses sapatos
+brilhantes, andava de cabeça
+baixa e saía correndo rapidinho.
 !******************************!
 [7117030016000000:000a0000000267000000026b020000]
 レイトン
@@ -72,21 +72,23 @@ que tesouros vão achar?
 [7117030022000000:000a000000027701000002ac030000]
 ルーク
 !******************************!
-<T><A2/1>Ah, acho que quer dizer antiguidades
-e outros itens raros?
+<T><A2/1>Ah, acho que quer dizer
+antiguidades e outros itens
+raros?
 !******************************!
 [7117030025000000:000a000000026700000002eb030000]
 レイトン
 !******************************!
-<T>Acho que já fizemos perguntas demais
-por hoje, Luke. Vamos indo?
+<T>Acho que já fizemos
+perguntas demais por hoje,
+Luke. Vamos indo?
 !******************************!
 [7117030028000000:000a0000000200000000023f040000]
 セガール
 !******************************!
-<T>Cuidado, vocês dois! Ah, e se
-procurarem algo... difícil de achar,
-passem por aqui.
+<T>Cuidado, vocês dois! Ah, e
+se procurarem algo... difícil
+de achar, passem por aqui.
 !******************************!
 [711703002b000000:0014000000020000000002a0040000]
 セガール

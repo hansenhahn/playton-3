@@ -54,8 +54,8 @@ pela sua gentileza.
 ドルガー
 !******************************!
 <T><A1/5>Está com dificuldade no
-meu enigma?<A2/5><W> <A1/5>ENTÃO?<W> Não
-se preocupe. Continue tentando.
+meu enigma?<A2/5><W> <A1/5>ENTÃO?<W> Não se
+preocupe: uma hora você consegue.
 !******************************!
 [711703001f000000:00e80300000200000000024b020000]
 ドルガー

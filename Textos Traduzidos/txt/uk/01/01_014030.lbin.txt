@@ -28,8 +28,8 @@ cima, deve ser mesmo.
 ルーク
 !******************************!
 <T>Não parece que alguém tenha
-cuidado do seu carro enquanto
-ficou estacionado aqui, Professor.
+cuidado do seu carro enquanto ficou
+estacionado aqui, Professor.
 !******************************!
 [7117030010000000:000a00000002000000000297010000]
 レイトン

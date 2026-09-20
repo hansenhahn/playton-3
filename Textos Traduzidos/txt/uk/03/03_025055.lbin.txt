@@ -13,7 +13,7 @@ não é absolutamente gloriosa?
 [7117030007000000:000a00000002000000000277000000]
 グラハム
 !******************************!
-<T><A1/5>De fato, é simplesmente
+<T><A1/5>É mesmo, é simplesmente
 de tirar o fôlego.
 !******************************!
 [711703000a000000:000a00000002ab00000002b2000000]
@@ -26,14 +26,15 @@ Será que ele é da Família?
 グラハム
 !******************************!
 <T><A2/3>O que disse, menino? Estou bem aqui!
-Se tem algo a dizer, diga-o
-diante de mim!
+Se tem algo a dizer,
+diga na minha cara!
 !******************************!
 [7117030010000000:000a0000000200000000026c010000]
 グラハム
 !******************************!
-<T>Além disso, não gosto que me associem
-a esses bandidos maltrapilhos.
+<T>Além disso, não gosto que me
+associem a esses bandidos
+maltrapilhos.
 !******************************!
 [7117030013000000:000a000000020000000002c1010000]
 グラハム
