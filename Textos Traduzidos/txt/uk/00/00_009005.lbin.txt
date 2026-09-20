@@ -27,21 +27,20 @@ achar a loja sozinho.
 [711703000d000000:00e80300000200000000024a010000]
 ルーク
 !******************************!
-<T><A4/4>Hmm. Mais difícil do que
+<T><A4/4>Hmm. É mais difícil do que
 eu esperava.
 !******************************!
 [7117030010000000:00d007000002000000000280010000]
 ルーク
 !******************************!
-<T>Deixe-me tentar este enigma
-de novo!
+<T>Me deixe tentar este
+enigma outra vez!
 !******************************!
 [7117030013000000:00b80b0000020000000002a9010000]
 ルーク
 !******************************!
 <T><A3/2>Ótimo! Chegar à relojoaria vai
-ser moleza agora. Vamos,
-Professor!
+ser moleza agora. Vamos, Professor!
 !******************************!
 [7117030016000000:00c20b00000201020000020e020000]
 ナレーション
@@ -59,8 +58,8 @@ nos locomover.
 ナレーション
 !******************************!
 <T>Sei como funciona, Professor. Deixa
-comigo.<W> Vamos ver...
-Pra começar, toque no ícone do sapato.
+comigo.<W> Vamos ver... Pra começar,
+Toque no ícone do sapato.
 !******************************!
 [711703001f000000:00d60b0000020102000002f0020000]
 ナレーション
