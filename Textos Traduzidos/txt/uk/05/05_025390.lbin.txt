@@ -53,7 +53,7 @@ de {''}nanico{''}?!
 [7117030019000000:000a00000002d70000000249020000]
 レイトン
 !******************************!
-<T>Acalme-se, Luke. Sempre há
+<T>Ora, Luke, acalme-se. Sempre há
 tempo para o pedido de uma dama.<W>
 Em que posso ajudar, Rosetta?
 !******************************!
