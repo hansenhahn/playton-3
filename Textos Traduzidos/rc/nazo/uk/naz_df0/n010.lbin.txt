@@ -6,8 +6,8 @@ n010a
 n010b
 !******************************!
 [eb0b01000a000000:0211000000]
-Embora estejamos sempre atravessando
-o tempo, às vezes é difícil pensar na
+Embora estejamos sempre vendo o tempo
+passar, às vezes é difícil pensar na
 forma como ele flui.
 
 Se o dia de ontem depois de amanhã é
