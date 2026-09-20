@@ -53,8 +53,8 @@ dar o meu discurso?
 [7117030019000000:001e0000000262000000029c020000]
 ルーク
 !******************************!
-<T><A2/1>Quer dizer que já nos deu essa
-palestra antes?<W> Então a gente JÁ
+<T><A2/1>Quer dizer que já tivemos essa
+conversa antes?<W> Então a gente JÁ
 se encontrou!
 !******************************!
 [711703001c000000:001e000000020000000002ec020000]

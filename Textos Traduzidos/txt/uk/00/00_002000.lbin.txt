@@ -10,22 +10,21 @@ a mim, estou em apuros.</V>
 ナレーション
 !******************************!
 <V0010><T>Veja bem, a Londres que
-conhecemos e amamos foi jogada
-num caos absoluto.</V>
+conhecemos e amamos foi
+atirada no mais absoluto caos.</V>
 !******************************!
 [7117030007000000:000a000000020000000002cf000000]
 ナレーション
 !******************************!
-<V0020><T>Para piorar, a calamidade
-de que falo não ocorre
-no seu tempo.</V>
+<V0020><T>Para piorar, a calamidade de que
+falo não ocorre no seu tempo.</V>
 !******************************!
 [711703000a000000:000a0000000200000000022e010000]
 ナレーション
 !******************************!
 <V0030><T>Pode ser difícil acreditar,<W>
-mas escrevo para o senhor daqui a
-dez anos.</V>
+mas escrevo para o senhor de
+dez anos no futuro.</V>
 !******************************!
 [711703000d000000:000a00000002000000000296010000]
 ナレーション
@@ -45,7 +44,7 @@ em Baldwin.</V>
 !******************************!
 <V0060><T>Mal posso esperar para revê-lo.
 
-      <W120>Seu aprendiz, Luke Triton</V>
+                   <W120>Seu aprendiz, Luke Triton</V>
 !******************************!
 [7117030016000000:00140000000294020000029f020000]
 OPレイトン
@@ -57,8 +56,7 @@ próprio eu do futuro, Luke.</V>
 [7117030019000000:00140000000216030000021f030000]
 OPルーク
 !******************************!
-<V0080><T>Do... meu eu do futuro?</T> <T><W><W>Mas como
-isso é possível?</V>
+<V0080><T>Do... meu eu do futuro?</T> <T><W><W>Mas como isso é possível?</V>
 !******************************!
 [711703001c000000:001400000002940200000270030000]
 OPレイトン
@@ -70,9 +68,8 @@ autêntica, como chegou aqui?</V>
 [711703001f000000:0014000000021603000002e5030000]
 OPルーク
 !******************************!
-<V0100><T>Ahn...<W> Por um carteiro que viaja
-no tempo?</T><W>
-<A2/2><T>Brincadeira, claro!</V>
+<V0100><T>Ahn...<W> Por um carteiro viajante
+do tempo?</T><W> <A2/2><T>Brincadeira, claro!</V>
 !******************************!
 [7117030022000000:001400000002160300000240040000]
 OPルーク

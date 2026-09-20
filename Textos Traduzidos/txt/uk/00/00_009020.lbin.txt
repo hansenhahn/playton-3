@@ -21,8 +21,8 @@ da Tela de Toque.
 [711703000a000000:002800000002500000000201010000]
 ナレーション
 !******************************!
-<T>Isto abrirá a mala, onde pode
-acessar várias opções úteis
+<T>Isto abrirá a mala, onde você
+pode acessar várias opções úteis
 tocando em seus ícones.
 !******************************!
 [711703000d000000:002d00000002500000000263010000]
@@ -62,8 +62,8 @@ ser jogado de novo neste menu.
 [711703001c000000:0046000000025000000002b9020000]
 ナレーション
 !******************************!
-<T>Para tentar de novo um enigma não
-resolvido, porém, precisará voltar
+<T>Mas para tentar de novo um enigma
+não resolvido, você precisará voltar
 ao local dele.
 !******************************!
 [711703001f000000:00500000000250000000021f030000]
