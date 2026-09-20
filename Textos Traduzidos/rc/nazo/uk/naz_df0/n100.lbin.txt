@@ -7,16 +7,16 @@ n100b
 !******************************!
 [eb0b01000a000000:0211000000]
 {''}Ei, Professor! Tudo sobre a nossa
-próxima aventura está neste envelope
+próxima aventura está neste documento
 selado! Aliás, gostou do meu selo?
 É que nem o que o senhor usa, mas
 tem o formato do meu boné e o L é de
 Luke! E é até da cor do meu boné!
 Na verdade, o selo me fez pensar em um
-enigma: destes quatro selos, A, B, C e
+enigma: destes quatro carimbos, A, B, C e
 D, qual deles é o meu carimbo?
 Você tem que resolver esse enigma antes
-de tirar o selo da carta!{''}
+de quebrar o selo!{''}
 
 Circule a resposta e toque em <CR>Enviar</C>.
 !******************************!
@@ -32,8 +32,8 @@ estar ao contrário.
 tanto para Luke quanto para Layton!
 Útil, né?
  
-{''}Se apresse, Professor! Tire o selo
-e veja o que há no envelope!{''}
+{''}Se apresse, Professor! Quebre o selo
+e leia o documento!{''}
 !******************************!
 [ed0b01000c000000:0202030000]
 Que pena!

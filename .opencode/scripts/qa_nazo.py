@@ -131,6 +131,14 @@ WEEKDAYS = {
     "thursday": r"quinta", "friday": r"sexta", "saturday": r"s[áa]bado",
     "sunday": r"domingo",
 }
+# Convencao do projeto: dias da semana capitalizados em PT-BR (`Domingo`,
+# `Sabado`, `Sexta-Feira`). Diferente da norma geral (minuscula), e decisao do
+# revisor; o harness acusa a forma minuscula quando o EN traz o dia.
+WEEKDAYS_CAP = {
+    "monday": r"Segunda", "tuesday": r"Ter[çc]a", "wednesday": r"Quarta",
+    "thursday": r"Quinta", "friday": r"Sexta", "saturday": r"S[áa]bado",
+    "sunday": r"Domingo",
+}
 COLORS = {
     "red": r"vermelh|rubr|encarnad", "blue": r"azu[il]", "green": r"verde",
     "yellow": r"amarel", "white": r"branc", "black": r"pret|negro",
@@ -484,6 +492,10 @@ def check_pair(en_sec, pt_sec, f, puzzle, wfunc, block_idx=0):
         if not re.search(WEEKDAYS[d], pt_prose, re.I):
             add("FAIL", "semantico", "PT", en_sec["start_line"] - 1, pt_sec["start_line"],
                 f"dia EN '{d}' sem equivalente PT ('{WEEKDAYS[d]}')", "resposta do enigma")
+        elif not re.search(WEEKDAYS_CAP[d], pt_prose):
+            add("WARN", "tecnico", "PT", en_sec["start_line"] - 1, pt_sec["start_line"],
+                f"dia PT '{d}' deve ser capitalizado (ex. 'Domingo/Sábado/Sexta-Feira')",
+                "convencao do projeto")
     for c in sorted(find_colors(en_prose)):
         if not re.search(COLORS[c], pt_prose, re.I):
             add("WARN", "semantico", "PT", en_sec["start_line"] - 1, pt_sec["start_line"],

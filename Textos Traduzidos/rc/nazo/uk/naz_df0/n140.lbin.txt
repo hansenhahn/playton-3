@@ -9,11 +9,13 @@ n140b
 Você imaginou uma situação com as
 seguintes condições: 
 
-{.} Há um homem na frente de uma criança;
-{.} Dois homens atrás de uma mulher;
-{.} Um homem e uma mulher atrás de um
-homem;
-{.} Uma mulher atrás de uma criança.
+{.} Há uma figura masculina na frente de
+uma criança;
+{.} Duas figuras masculinas atrás de uma
+feminina;
+{.} Uma figura masculina e outra feminina
+atrás de uma figura masculina;
+{.} Uma figura feminina atrás de uma criança.
 
 E você criou essa situação usando o
 número mínimo de pessoas.
