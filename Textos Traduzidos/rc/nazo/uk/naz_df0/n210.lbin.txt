@@ -8,7 +8,7 @@ n210b
 [eb0b01000a000000:0211000000]
 Essa é uma foto de cabines telefônicas
 tirada nas ruas de Londres. As cabines
-brilhavam intensamente em vermelho, mas
+eram de um vermelho vivo, mas
 infelizmente a foto acabou desbotando.
 Há quatro cabines telefônicas na foto, 
 mas só três funcionam.
@@ -26,7 +26,7 @@ luz do sol. Portanto, o lado direito das
 cabines deveria estar sombreado. Mas
 olhando como a sombra reflete no lado
 esquerdo da cabine D, fica fácil de
-notar que é um reflexo da cabine C.
+notar que é a imagem espelhada da cabine C.
 
 A cabine D não é funcional porque
 ela não existe!

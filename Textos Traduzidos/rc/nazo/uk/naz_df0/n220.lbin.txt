@@ -7,7 +7,7 @@ n220b
 !******************************!
 [eb0b01000a000000:0211000000]
 Mova esse grande bloco vermelho embaixo
-à esquerda ao quadrado marcado pela
+à esquerda para o quadrado marcado pela
 seta branca em cima à direita.
 
 Parece impossível, mas é possível.
@@ -17,8 +17,8 @@ Tente e boa sorte!
 [ec0b01000b000000:02b1000000]
 Você conseguiu!
 
-A hora que você tirou o último bloco do
-caminho e deixou livre o caminho para
+Na hora em que você tira o último bloco
+do caminho e revela o caminho para
 a saída... é satisfatório, não é?
 !******************************!
 [ed0b01000c000000:0236010000]
@@ -30,8 +30,8 @@ Tente outra vez.
 Mesmo se o enigma parecer impossível,
 não desista. É possível.
 
-Ache uma maneira de trocar o bloco roxo
-grande e os blocos verdes ao redor. Vai
+Ache uma maneira de deslocar o bloco
+roxo grande e os blocos verdes. Vai
 abrir um enorme espaço e te permitir
 resolver o enigma com mais facilidade.
 !******************************!

@@ -9,14 +9,14 @@ n070b
 Blocos foram empilhados cuidadosamente
 como mostrados abaixo. A imagem é uma
 visão da pilha de lado, e a perspectiva
-foi mudada para uma direção aleatória.
+foi girada em uma direção desconhecida.
 
 A gravidade se exerce nos blocos, por
 isso qualquer bloco que não toque o chão
 ou um bloco abaixo irá cair.
 
 Olhando os blocos pelo ângulo certo,
-qual direção você diria que está para
+qual direção está para
 {''}cima{''}: A, B, C, ou D?
 !******************************!
 [ec0b01000b000000:0282010000]
@@ -32,7 +32,7 @@ direções teriam blocos caindo.
 [ed0b01000c000000:0273020000]
 Errado.
 
-Olhe mais uma vez.
+Olhe de novo com atenção.
 !******************************!
 [ee0b01000d000000:0293020000]
 Analisando a pilha de blocos de
@@ -42,23 +42,22 @@ bloco instável? Olhe cuidadosamente.
 [ef0b01000e000000:02ff020000]
 Tente virar a imagem e olhá-la de modo
 que cada letra esteja para {''}cima{''}.
-Fique atento a blocos que contém
+Fique atento a blocos que contêm
 espaços vazios sob eles.
 !******************************!
 [f00b01000f000000:028c030000]
 Olhando a pilha com B para {''}cima{''},
 o quadradinho verde de baixo do quadrado
-vermelho vai cair, então B não pode ser
+vermelho cairia, então B não pode ser
 a resposta.
 
 Continue olhando de diferentes direções
-e então você vai conseguir achar a
-resposta!
+assim e logo você vai achar a resposta!
 !******************************!
 [f10b010010000000:0269040000]
 Olhe a imagem com C para {''}cima{''}.
-Dois dos quadradinhos verdes vão cair,
+Dois dos quadradinhos verdes cairiam,
 então C também não pode ser a resposta.
 
-Está entre A ou D.
+Está entre A e D.
 !******************************!

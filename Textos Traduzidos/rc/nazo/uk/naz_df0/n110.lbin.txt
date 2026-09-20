@@ -9,20 +9,20 @@ n110b
 {''}Se prepare para se surpreender!
 Enquanto viajava em um trem, percebi
 que eu sabia exatamente em qual estação
-esse completo estranho iria descer.
+esse estranho total iria descer.
 Mais uma grande prova do meu
 dom psíquico!{''}
 
 Na verdade, esse cara não tem nada de
-psíquico. E qualquer pessoa poderia ter
-presumido o mesmo. Em que trem
+psíquico. Qualquer um poderia ter feito
+a mesma previsão. Em que trem
 ele está viajando?
 
 Circule entre A, B, C ou D e
 toque em <CR>Enviar</C>.
 !******************************!
 [ec0b01000b000000:02b6010000]
-Todos a bordo, a todo vapor!
+A todo vapor!
 
 O trem D é a resposta correta.
 
@@ -37,7 +37,7 @@ Errou!
 
 Lembre-se, esse cara não tem poderes
 psíquicos, e qualquer um poderia
-ter essa mesma presunção.
+fazer a mesma previsão.
 !******************************!
 [ee0b01000d000000:02fe020000]
 Não tá pensando demais, né? Se você

@@ -14,12 +14,12 @@ do mês numericamente, como mostrado pelo
 Cada data deve usar ambos os dados,
 implicando que datas com dígitos únicos,
 como o primeiro e segundo dia do mês,
-serão mostrados como 01 e 02.
+serão mostradas como 01 e 02.
 
 Você pensou ter completado o design,
 mas os formatos abaixo não conseguem
 mostrar todas as datas. Circule o número
-a ser trocado para conseguir mostrar.
+que precisa ser trocado.
 !******************************!
 [ec0b01000b000000:02e9010000]
 Boa!
@@ -30,7 +30,7 @@ O design atual não permite o dado
 mostrar as datas de 07 ou 08. Mas se
 você mudar o 6 por um 0, você pode virar
 o 9 ao contrário e usá-lo como um 6 para
-poder mostrar todas as datas
+poder mostrar todas as datas.
 !******************************!
 [ed0b01000c000000:02ca020000]
 Uma pena!

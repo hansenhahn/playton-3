@@ -13,7 +13,7 @@ deixado essa tesoura dentro do Dr.
 Schrader na sua operação! Olha a sombra
 dela! Dá para acreditar?!{''}
 {''}Eu não me preocuparia com isso, Luke.
-É sobre isso com que o doutor deveria
+É com isso que o doutor deveria
 se preocupar!{''}
 Assim que o professor disse isso, ele
 apontou para algo estranho no raio-X.
@@ -31,10 +31,10 @@ engoliu uma moeda ou algo por acidente!
 Quando os raios-X não conseguem passar
 por algo sólido, o objeto aparece como
 uma sombra branca. Já as sombras pretas
-como a tesoura só podem ser uma
-brincadeira boba. Alguém deve ter
-sobreposto as imagens após o raio-X
-depois da foto ter sido tirada.
+como a tesoura são apenas o resultado
+de uma brincadeira boba. Alguém deve ter
+sobreposto as imagens depois que a foto
+foi tirada.
 
 !******************************!
 [ed0b01000c000000:025a030000]
@@ -50,7 +50,7 @@ E o símbolo de uma seta?!
 
 Hmm... Até que dá para se preocupar
 com essas coisas, mas o professor
-fez questão de apontar para outra.
+só apontou para uma.
 !******************************!
 [ef0b01000e000000:026e040000]
 Em que cor os objetos sólidos

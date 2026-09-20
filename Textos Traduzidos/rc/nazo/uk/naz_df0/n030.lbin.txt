@@ -10,8 +10,7 @@ n030b
 ali na frente... Não sei o que farão
 comigo se me acharem. Por isso, tô
 escondido atrás dessa parede, assim
-posso espiar por esse buraco sem ser
-achado.
+posso espiar sem ser visto.
 
 Me ajude, por favor - ocê pode me
 dizer quantos capangas estão ali fora?{''}
@@ -31,22 +30,21 @@ Analise cada canto e recanto!
 {''}O líder deles está ali, em cima
 da varanda, no canto superior direito!
 
-Ele é o primeiro.{''}
+Ele é o primeiro, viu?{''}
 !******************************!
 [ef0b01000e000000:0214020000]
 {''}Eles se escondem em lugares que
-ocês nem sonhariam! Olhe aquele barril
-embaixo à direita, tem algo muito
-errado com ele...{''}
+ocê nem sonharia! Olhe aquele barril
+embaixo à direita, tem algo errado
+com ele...{''}
 !******************************!
 [f00b01000f000000:02a7020000]
 {''}Eles estão se escondendo em
-lugares bem estranhos! Tipo ali em cima
+lugares bem estranhos! Ali em cima
 à esquerda, acho que dá pra ver um
 chapéu...
-Dê uma boa olhada de perto!{''}
+Olha bem de perto, viu?{''}
 !******************************!
 [f10b010010000000:0227030000]
-{''}Bão, eu acho que tem menos de 10
-deles.{''}
+{''}Bão, tem menos de 10 deles.{''}
 !******************************!

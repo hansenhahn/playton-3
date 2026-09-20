@@ -6,9 +6,9 @@ n010a
 n010b
 !******************************!
 [eb0b01000a000000:0211000000]
-Embora ainda vemos o tempo passar diante
-de nossos olhos, às vezes é difícil
-pensar na maneira que ele flui.
+Embora estejamos sempre vendo o tempo
+passar, às vezes é difícil pensar na
+forma como ele flui.
 
 Se o dia de ontem depois de amanhã é
 Domingo, que dia é o dia de amanhã
@@ -28,19 +28,19 @@ então amanhã é Domingo. E isso significa
 que hoje é Sábado.
 
 Portanto, dois dias antes de amanhã são
-dois dias antes de Domingo: Sexta-Feira.
+dois dias antes de Domingo: Sexta.
 !******************************!
 [ed0b01000c000000:0209020000]
 Que pena!
 
-Esse enigma é bem difícil por causa
-da maneira que é escrito. Tome seu
-tempo e conte os dias nos seus dedos,
-e assim você conseguirá descobrir.
+Esse enigma é um pouco maldoso pela
+forma como é escrito. Tome seu tempo
+e conte os dias nos seus dedos, e
+assim você conseguirá descobrir.
 !******************************!
 [ee0b01000d000000:02ad020000]
-Tente fazer uma tabela, talvez ela
-possa deixar as coisas mais fáceis.
+Tente fazer uma tabela, ela vai
+deixar as coisas bem mais fáceis.
 !******************************!
 [ef0b01000e000000:02f0020000]
 Dois dias depois de ontem é Domingo.

@@ -31,8 +31,8 @@ verdade está invertida.
 Errado!
 
 Lembre-se, são chaves, dá para girá-las
-livremente, mas só é possível encaixar
-elas de apenas uma maneira.
+livremente, mas você só pode encaixá-las
+de uma maneira.
 !******************************!
 [ee0b01000d000000:0250020000]
 Não esqueça da Função Notas!
@@ -49,12 +49,12 @@ por outro lado, incrivelmente funciona!
 
 Note que você pode girar as peças-chave
 no sentido horário ou anti-horário, mas
-elas possuem um cabo nas costas, fazendo
-elas se encaixarem de um só jeito. Você
-precisa empurrá-las segurando o cabo,
-o que significa que as formas mostradas
-na Tela de Toque estarão viradas ao
-serem encaixadas.
+elas possuem um cabo atrás, o que faz
+com que se encaixem de um só jeito.
+Você precisa empurrá-las segurando o
+cabo, o que significa que as formas
+mostradas na Tela de Toque estarão
+viradas ao serem encaixadas.
 !******************************!
 [f10b010010000000:025a040000]
 C não funciona.

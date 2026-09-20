@@ -23,7 +23,7 @@ Bingo!
 O truque é apertar os botões no
 formato do número 2.
 
-{''}Deixe 4{''} era uma dica para
+{''}Deixe 4{''} simplesmente significava
 deixar quatro botões sem serem
 apertados.
 !******************************!

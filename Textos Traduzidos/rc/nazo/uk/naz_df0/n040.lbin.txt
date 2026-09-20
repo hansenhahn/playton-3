@@ -24,18 +24,17 @@ para entrar no espaço por um lado.
 [ec0b01000b000000:02be010000]
 A carteira está em dia!
 
-Barton tem que dar uma grande volta
-nessa área para poder estacionar.
+Barton tem que dar a volta inteira
+no espaço para estacionar lá.
 
 Apesar de você ter mostrado o caminho
 para ele, todas essas curvas parecem
-ter confundido Barton. Ele conseguiu
-bater a viatura e o inspetor não tá
-nem um pouco feliz!
+ter confundido Barton. Ele destruiu
+a viatura e o inspetor não tá nem um
+pouco feliz!
 !******************************!
 [ed0b01000c000000:02bb020000]
-Hmm, vai ter que revogar essa
-habilitação...
+Que pena!
 
 Barton deve ter virado ou seguido em
 frente onde não devia.

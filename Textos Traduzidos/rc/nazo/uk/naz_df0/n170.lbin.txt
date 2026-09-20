@@ -7,9 +7,9 @@ n170b
 !******************************!
 [eb0b01000a000000:0211000000]
 Três horas diferentes do dia estão
-listadas abaixo. Qual hora forma o
-maior ângulo feito com os dois ponteiros
-em um relógio analógico?
+listadas abaixo. Qual delas, A, B ou C,
+forma o maior ângulo entre os dois
+ponteiros em um relógio analógico?
 !******************************!
 [ec0b01000b000000:029f000000]
 Muito bem!
