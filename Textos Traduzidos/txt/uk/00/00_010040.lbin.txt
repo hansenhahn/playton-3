@@ -20,7 +20,7 @@ Este é o Professor Layton.
 [711703000a000000:0014000000020000000002c8000000]
 サマリー
 !******************************!
-<T><A1/5>Diz que tem assuntos em nossa loja.
+<T><A1/5>Diz que tem negócios em nossa loja.
 !******************************!
 [711703000d000000:0014000000022900000002ff000000]
 ジャック
@@ -70,7 +70,7 @@ Sem problema algum.
 [7117030022000000:001e00000002290000000214030000]
 ジャック
 !******************************!
-<T>É só que tinha instruções para
+<T>É que eu tinha instruções para
 mostrar nosso maior relógio em
 ação quando chegassem.
 !******************************!

@@ -10,8 +10,7 @@ Sejam bem-vindos!
 レイトン
 !******************************!
 <T><A3/1>Bom dia, senhora. Perdoe-nos,
-receio que não viemos comprar
-nada.
+receio que não viemos comprar nada.
 !******************************!
 [7117030007000000:000a000000025b00000002cb000000]
 レイトン
@@ -113,7 +112,7 @@ um sósia!
 !******************************!
 <T><A1/2>Dizem que não há enigma que o
 senhor não resolva, mas só
-acreditarei vendo!
+acredito vendo!
 !******************************!
 [7117030037000000:00d0070000020000000002b0050000]
 サマリー
