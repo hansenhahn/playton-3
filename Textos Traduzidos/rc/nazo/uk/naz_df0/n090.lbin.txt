@@ -20,8 +20,8 @@ porta então?
 [ec0b01000b000000:0231010000]
 Bingo!
 
-O truque é apertar os botões no
-formato do número 2.
+O truque era acender os botões para
+formar o número 2.
 
 {''}Deixe 4{''} simplesmente significava
 deixar quatro botões sem serem
@@ -40,10 +40,9 @@ nada muito complicado aqui. É só que
 você precisa entender de outra forma.
 !******************************!
 [ef0b01000e000000:02b6020000]
-Pense um pouco mais na frase
+Pense de forma mais ampla na frase
 {''}abra com 2{''}. Não se prenda
-aos números apenas como botões
-isolados.
+aos números de cada botão individual.
 !******************************!
 [f00b01000f000000:022d030000]
 {''}Abra com 2{''} se refere a apertar
@@ -51,7 +50,7 @@ os botões de maneira que você forme
 o número 2 quando acesos.
 !******************************!
 [f10b010010000000:0299030000]
-Aperte em ordem: 1, 2, 3, 6, 9, 8, 7...
+Aperte: 1, 2, 3, 6, 9, 8, 7...
 Você deve começar a ver a forma de um
 certo número surgir.
 
@@ -59,7 +58,7 @@ Exato! O truque é apertar os botões
 que juntos formam o número 2 quando
 acesos. Bem legal, não é?
 
-Aliás, viu como tem apenas quatro
-botões apagados? A outra parte das
-instruções se refere a isso.
+Aliás, viu como sobraram quatro
+botões sem serem apertados? A outra
+parte das instruções se refere a isso.
 !******************************!

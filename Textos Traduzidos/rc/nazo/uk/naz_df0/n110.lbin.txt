@@ -13,8 +13,8 @@ esse estranho total iria descer.
 Mais uma prova do meu
 dom psíquico!{''}
 
-Na verdade, esse cara não tem nada de
-psíquico. Qualquer um poderia ter feito
+Na verdade, esse homem não tem poderes
+psíquicos. Qualquer um poderia ter feito
 a mesma previsão correta. Em que
 trem ele está viajando?
 
@@ -35,15 +35,15 @@ próxima parada.
 [ed0b01000c000000:0286020000]
 Errou!
 
-Lembre-se, esse cara não tem poderes
-psíquicos, e qualquer um poderia
-fazer a mesma previsão.
+Lembre-se, esse homem não tem poderes
+psíquicos, e qualquer um poderia ter
+feito a mesma previsão correta.
 !******************************!
 [ee0b01000d000000:02fe020000]
-Você não está pensando demais, né? Se você
-estivesse no mesmo trem desse cara,
-você saberia em qual estação esse
-estranho iria descer.
+Você não está pensando demais, está? Se
+você estivesse no mesmo trem desse
+sujeito, você saberia em qual estação
+esse estranho iria descer.
 !******************************!
 [ef0b01000e000000:0293030000]
 Imagine que o trem só parou em uma

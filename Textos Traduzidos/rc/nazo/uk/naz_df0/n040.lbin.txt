@@ -43,7 +43,7 @@ frente onde não devia.
 [ee0b01000d000000:020b030000]
 Logo após o ponto de partida, Barton
 precisa virar à esquerda ou direita.
-De preferência, pra esquerda.
+Ele vai querer virar à esquerda aqui.
 !******************************!
 [ef0b01000e000000:0277030000]
 O caminho que Barton deve traçar segue
@@ -57,16 +57,16 @@ segunda linha.
 !******************************!
 [f00b01000f000000:0250040000]
 Barton precisa dar uma pequena volta
-pelos quatro quadrados em cima, à direita
-e depois pelos quatro quadrados
-embaixo, à direita.
+pelos quatro quadrados no canto
+superior direito e depois pelos quatro
+quadrados no canto inferior direito.
 
 Depois da segunda voltinha, ele estará
 próximo do espaço para estacionar.
 !******************************!
 [f10b010010000000:0213050000]
 Barton precisa chegar ao quadrado em
-frente do espaço de estacionar pela
+frente do espaço para estacionar pela
 direita e então virar à direita no
 espaço.
 !******************************!

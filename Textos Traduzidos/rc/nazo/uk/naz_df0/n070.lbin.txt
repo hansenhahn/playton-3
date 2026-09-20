@@ -11,7 +11,7 @@ como mostrados abaixo. A imagem é uma
 visão da pilha de lado, e a perspectiva
 foi girada em uma direção desconhecida.
 
-A gravidade se exerce nos blocos, por
+A gravidade age sobre os blocos, por
 isso qualquer bloco que não toque o chão
 ou um bloco abaixo irá cair.
 

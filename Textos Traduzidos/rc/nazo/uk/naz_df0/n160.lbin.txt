@@ -39,8 +39,8 @@ Não esqueça da Função Notas!
 Use-a e desenhe as formas.
 !******************************!
 [ef0b01000e000000:029c020000]
-A coisa mais importante a se saber
-é como usar a peça número 2.
+O mais importante é como você
+usa a peça número 2.
 !******************************!
 [f00b01000f000000:02d1020000]
 Só de olhar, você pode dizer que a

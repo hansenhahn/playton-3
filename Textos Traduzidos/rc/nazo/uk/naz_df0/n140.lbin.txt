@@ -24,8 +24,8 @@ Quantas pessoas há na sua cena?
 Três é demais!
 
 Um homem adulto, uma mulher adulta e um
-garoto. É só isso considerando como
-eles estão dispostos acima.
+garoto. É só isso, se eles estiverem
+dispostos como acima.
 !******************************!
 [ed0b01000c000000:02ed010000]
 Resposta errada!
