@@ -13,7 +13,7 @@ A mais velha responde: {''}Mesmo daqui
 a um ano, a sua idade vai ser metade
 da minha. Aqui, se cortarmos os números
 em duas partes, de cima pra baixo, as
-duas dão a sua idade daqui um ano.{''}
+duas dão a sua idade daqui a um ano.{''}
 {''}Nossa, você tá certa!{''}
 
 Quantos anos a mais nova tem agora?
@@ -28,8 +28,8 @@ Um ano atrás, a mais velha tinha 16 e
 a mais nova tinha 8, metade da idade
 de sua irmã. Daqui a um ano, a mais velha
 terá 18 e a mais nova terá 10.
-Cortando o 18 horizontalmente
-te dá 10 em duas partes.
+Cortando o 18 horizontalmente,
+dá 10 duas vezes.
 !******************************!
 [ed0b01000c000000:02a9020000]
 Que pena.
@@ -71,10 +71,10 @@ mais velha tivesse 81 ou 88 anos.
 Pela Dica 3, você já sabe que a mais
 velha vai ter 11 ou 18 anos no ano que
 vem. Cortando o 11 em duas partes, a de
-cima e a de baixo, te dá 11, que não
+cima e a de baixo, dá 11, que não
 atende às condições. A única opção
 que sobra é que a irmã mais velha vai
-ter 18 anos que vem.
+ter 18 anos no ano que vem.
 
 Agora, você só precisa descobrir
 as idades atuais das irmãs.

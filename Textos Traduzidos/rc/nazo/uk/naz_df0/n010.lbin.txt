@@ -24,8 +24,8 @@ descobrir se você separar em duas
 partes.
 
 Dois dias depois de ontem é Domingo,
-então amanhã é Domingo. E isso significa
-que hoje é Sábado.
+então amanhã é Domingo. Então hoje
+é Sábado.
 
 Portanto, dois dias antes de amanhã são
 dois dias antes de Domingo: Sexta-Feira.
@@ -36,7 +36,7 @@ Que pena!
 Esse enigma é um pouco maldoso pela
 forma como é escrito. Tome seu tempo,
 conte os dias nos dedos e assim você
-conseguirá descobrir.
+deve conseguir descobrir.
 !******************************!
 [ee0b01000d000000:02ad020000]
 Tente fazer uma tabela, pois ela vai

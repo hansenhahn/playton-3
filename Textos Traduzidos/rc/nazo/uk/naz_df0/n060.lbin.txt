@@ -12,9 +12,9 @@ do mês numericamente, como mostrado pelo
 12 no topo da tela abaixo.
 
 Cada data deve usar ambos os dados,
-implicando que datas com dígitos únicos,
-como o primeiro e segundo dia do mês,
-serão mostradas como 01 e 02,
+o que significa que datas de um só
+dígito, como o primeiro e o segundo dia
+do mês, serão mostradas como 01 e 02,
 respectivamente.
 
 Você pensou ter completado o projeto,
@@ -45,9 +45,9 @@ data, começando com o primeiro dia
 do mês.
 !******************************!
 [ef0b01000e000000:026c030000]
-Do jeito que as coisas estão, os dias
-7 e 8 de cada mês não podem ser
-mostrados. 
+Do jeito que as coisas estão, o sétimo
+e o oitavo dia do mês não podem ser
+mostrados.
 
 Por exemplo, não dá para
 fazer o 07 para o sétimo dia porque não
