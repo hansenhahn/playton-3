@@ -55,16 +55,16 @@ deviam ir por lá.
 [711703001c000000:00e8030000020000000002f9010000]
 クレイグ
 !******************************!
-<T>Vão ter que provar que são espertos
-resolvendo esse
+<T>Vão ter que provar que
+são espertos resolvendo esse
 enigma bobo primeiro.
 !******************************!
 [711703001f000000:00d007000002000000000247020000]
 クレイグ
 !******************************!
-<T>Tenho um pressentimento de que
-essa Chinatown é encrenca, viu.
-Mais seguro ficar aqui com uns enigmas.
+<T>Pressinto que essa Chinatown
+é encrenca, viu. Mais seguro
+ficar aqui resolvendo enigmas.
 !******************************!
 [7117030022000000:00b80b0000020000000002af020000]
 クレイグ
@@ -83,9 +83,9 @@ da Família! Sou Luke, e este aqui
 [7117030028000000:00b80b000002000000000280030000]
 クレイグ
 !******************************!
-<T><A2/8>Quê?!<W> L-Layton, ocê diz? Claro que
-ele não é capanga da Família!<W> Ele é
-o chefão!
+<T><A2/8>Quê?!<W> L-Layton, ocê diz?
+Claro que ele não é capanga da
+Família!<W> Ele é o chefão!
 !******************************!
 [711703002b000000:00b80b0000020000000002df030000]
 クレイグ
@@ -95,8 +95,9 @@ o chefão!
 [711703002e000000:00c20b0000021d00000002fa030000]
 ルーク
 !******************************!
-<T>Ops. Esqueci como o nome Layton
-assusta as pessoas nesta época.
+<T>Ops. Esqueci como o nome
+Layton apavora as pessoas
+nesta época.
 !******************************!
 [7117030031000000:00cc0b000002580400000261040000]
 レイトン
@@ -119,8 +120,9 @@ que acabou de fugir.
 [711703003a000000:00d60b0000021d0000000224050000]
 ルーク
 !******************************!
-<T>Pensando bem, os sapatos e as calças
-dele estavam ensopados. Mas por quê?
+<T>Pensando bem, os sapatos
+e as calças dele estavam
+ensopados. Mas por quê?
 !******************************!
 [711703003d000000:00d60b0000021d000000026a050000]
 ルーク

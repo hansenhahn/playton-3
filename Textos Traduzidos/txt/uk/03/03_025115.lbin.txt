@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000209000000]
 シャロン
 !******************************!
-<T>Ah, vocês de novo. Voltaram para
-visitar alguém? Ou estão se sentindo
-meio mal?
+<T>Ah, vocês de novo. Voltaram
+para visitar alguém? Ou estão
+se sentindo meio mal?
 !******************************!
 [7117030004000000:000a00000002000000000263000000]
 シャロン
@@ -15,9 +15,9 @@ agora, se precisarem.
 [7117030007000000:000a00000002900000000297000000]
 ルーク
 !******************************!
-<T><A4/4>V-vacina?!<W> Ah, não, estou em forma!
-Não, não precisa me cutucar
-com agulha!
+<T><A4/4>V-vacina?!<W> Ah, não,
+estou em forma! Não, não
+precisa me cutucar com agulha!
 !******************************!
 [711703000a000000:000a000000020000000002f8000000]
 シャロン

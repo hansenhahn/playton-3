@@ -47,8 +47,9 @@ professor?
 [7117030016000000:000a00000002000000000208020000]
 ルーク
 !******************************!
-<T>Imagine se fosse! Que coincidência!<W>
-Vamos ver o que mais diz.
+<T>Imagine se fosse! Aí sim seria
+coincidência!<W> Vamos ver o que
+mais diz.
 !******************************!
 [7117030019000000:000a0000000200000000025f020000]
 ルーク
@@ -61,8 +62,8 @@ por causa deste menino.
 ルーク
 !******************************!
 <T>O menino estava doente e, para
-animá-lo, o homem escreveu um
-romance de aventura para todos.
+animá-lo, o homem escreveu uma
+aventura para todas as idades.
 !******************************!
 [711703001f000000:000a0000000200000000021f030000]
 ルーク
@@ -105,8 +106,8 @@ duraria para sempre.{''}</C>
 [7117030031000000:001e00000002be00000002aa040000]
 レイトン
 !******************************!
-<T><A4/2>Pronto, pronto. Não é tão ruim, meu
-jovem. Parece que os dois
+<T><A4/2>Pronto, pronto. Não é tão ruim,
+meu jovem. Parece que os dois
 encontraram amizade verdadeira.
 !******************************!
 [7117030034000000:001e00000002be0000000218050000]
@@ -144,8 +145,8 @@ e eterna.
 [7117030043000000:001e00000002be00000002a6060000]
 レイトン
 !******************************!
-<T><A1/1>Ora, ora, Luke. Não quis ofendê-lo.
-Você tem razão.
+<T><A1/1>Ora, ora, Luke. Não quis
+ofendê-lo. Você tem razão.
 Somos grandes amigos.
 !******************************!
 [7117030046000000:001e00000002be000000020d070000]
