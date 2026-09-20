@@ -135,6 +135,26 @@
 | Pavel multilíngue (`07_025935`) | idioma | manter `Salutations, mein amigo, magnifique, der welt, Hai exactamente, Ja, pour la route` | preservar |
 | `Floral` (Future Delmona, `07_026320` blk2) | troca (nome errado) | manter `Floral` (pista do disfarce de Don Paolo) | preservar |
 
+## Cap 10 — Hotel, busca por Luke, túnel sob o Tâmisa
+
+| EN (arquivo:blk) | Tipo | Decisão PT | Status |
+|---|---|---|---|
+| `knobbly-kneed squirt` (`10_033080` blk2) | idioma | `baixinho de joelhos ossudos` | recriado |
+| `Scratch my back and I'll scratch yours` (`10_033080` blk6) | idioma | `Uma mão lava a outra` | recriado |
+| `my lips are sealed` (`10_033080` blk7) | idioma | `meus lábios estão selados` | recriado |
+| `joined to you at the hip` (`10_033100` blk5) | idioma | `grudado em você` | recriado |
+| `every hatchling has to spread their wings` (`10_033100` blk6) | idioma | `toda cria precise abrir as asas um dia` | recriado |
+| `I'll tear this town apart` (`10_033165` blk6) | idioma | `Vou destruir a cidade` | recriado |
+| `burst your bubble` (`10_033170` blk6) | idioma | `estourar sua bolha` | recriado |
+| `SAD!` (Dolger, `10_033190` blk2) | corrida (caixa alta) | `TRISTE!` | recriado |
+| `Have ya tried jumpin'?` (`10_033250` blk6) | idioma | `Já tentou pular?` | recriado |
+| `pullin' yer leg` (`10_033250` blk8) | idioma | `é só brincadeira` | recriado |
+| `a good egg` (`10_033250` blk4) | idioma | `gente boa` | recriado |
+| `coded lock` (`10_033250`/`10_033270`/`10_033280`) | termo | `fechadura codificada` (fixar) | fixar |
+| `BZZT!` / `DING DING DING!` (Max) | corrida | manter efeito sonoro | preservar |
+| `Nhac`/`glup`/`slurp` (Barton) | ono | `Nhac`/`glup`/`slurp` | preservar |
+| `Hoo hoo.` (Rudolph) | risada | `Hoo hoo.` | preservar |
+
 ## Template (novos capítulos)
 
 ```
