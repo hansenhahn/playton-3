@@ -17,8 +17,8 @@
 [711703000a000000:000a000000022d0000000287000000]
 ルーク
 !******************************!
-<T><A1/5>Ahn... deixa pra lá. Não é
-nada, não.
+<T><A1/5>Ahn... deixa pra lá.
+Não é nada, não.
 !******************************!
 [711703000d000000:000a000000020000000002b7000000]
 ドルガー
@@ -85,8 +85,8 @@ caso não tenha notado.
 ドルガー
 !******************************!
 <T>Ah sim, para livros ilustrados
-normais. Mas este é
-especial.<A2/5><W> <A1/5>ESPECIAL!
+normais. Mas este é especial.<A2/5><W>
+<A1/5>ESPECIAL!
 !******************************!
 [711703002e000000:00e8030000022d000000027d030000]
 ルーク
@@ -114,8 +114,7 @@ enigma de novo?<A2/5><W> <A1/5>ENTÃO?
 [711703003a000000:00b80b00000200000000024b040000]
 ドルガー
 !******************************!
-<T><A1/5>Ora, mas você é esperto
-que só!
+<T><A1/5>Ora, mas você é esperto que só!
 !******************************!
 [711703003d000000:00b80b00000200000000024b020000]
 ドルガー
@@ -145,8 +144,8 @@ caso não tenha notado.
 ドルガー
 !******************************!
 <T>Ah sim, para livros ilustrados
-normais. Mas este é
-especial.<A2/5><W> <A1/5>ESPECIAL!
+normais. Mas este é especial.<A2/5><W> 
+<A1/5>ESPECIAL!
 !******************************!
 [711703004c000000:00b80b0000022d000000027d030000]
 ルーク
@@ -168,7 +167,7 @@ do livro estão em branco!<A2/5><W>
 [7117030055000000:00a00f000002000000000279040000]
 ドルガー
 !******************************!
-<T><A1/5>O quê? Quer resolver outro
-enigma?<A2/5><W> <A1/5>ENTÃO?<W> Vou pensar em um.
+<T><A1/5>O quê? Quer resolver outro enigma?<A2/5><W>
+<A1/5>ENTÃO?<W> Vou pensar em um.
 Me dá um minutinho.
 !******************************!

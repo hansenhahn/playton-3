@@ -16,9 +16,9 @@ tempo que está aberto?
 [7117030007000000:000a000000020000000002c3000000]
 アニータ
 !******************************!
-<T><A2/5>Bem, eu mesma só estou
-tomando conta do lugar
-há dois ou três anos.
+<T><A2/5>Bem, eu mesma tenho tomado
+conta do lugar nos últimos
+dois ou três anos.
 !******************************!
 [711703000a000000:000a00000002000000000212010000]
 アニータ
@@ -43,21 +43,19 @@ Só abrem à noite?
 アニータ
 !******************************!
 <T>Fechados? Ah, não, aqui não.<W>
-Abro bem cedinho
-todo dia.
+Abro bem cedinho todo dia.
 !******************************!
 [7117030016000000:000a0000000200000000022b020000]
 アニータ
 !******************************!
 <T>Só fica cheio mais tarde,
-mas é assim mesmo
-no ramo.
+mas é assim mesmo no ramo.
 !******************************!
 [7117030019000000:000a00000002000000000280020000]
 アニータ
 !******************************!
-<T><A3/1>E já que parece ser gente boa,
-deixe-me dar um conselho:
+<T><A3/1>E já que você parece ser gente
+boa, deixe-me dar um conselho:
 livre-se da cartola.
 !******************************!
 [711703001c000000:000a000000025f00000002e5020000]
@@ -77,8 +75,7 @@ pode lhe trazer problemas aqui.
 アニータ
 !******************************!
 <T>Se fosse você, eu pensaria
-bem em se livrar
-dessa cartola.
+bem em se livrar dessa cartola.
 !******************************!
 [7117030025000000:0014000000025f00000002b8030000]
 レイトン

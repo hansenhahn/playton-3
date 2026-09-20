@@ -24,8 +24,7 @@ saído da loja por outra porta.
 ルーク
 !******************************!
 <T>Provavelmente estamos fazendo
-um caminho diferente para
-sair da loja.
+um caminho diferente desde então.
 !******************************!
 [711703000d000000:000a00000002720000000277010000]
 レイトン
@@ -43,9 +42,9 @@ absoluta disso.
 [7117030013000000:000a0000000200000000021f020000]
 ルーク
 !******************************!
-<T><A4/4>É, acho que tem razão,
-Professor.<W> Mas o que mais
-poderia explicar esta mudança?
+<T><A4/4>É, acho que tem razão, Professor.<W>
+Mas o que mais poderia explicar
+esta mudança?
 !******************************!
 [7117030016000000:000a00000002720000000287020000]
 レイトン

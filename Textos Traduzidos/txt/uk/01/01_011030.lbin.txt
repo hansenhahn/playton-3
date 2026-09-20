@@ -9,7 +9,8 @@ não pode ser!
 [7117030004000000:000a000000024b0000000254000000]
 レイトン
 !******************************!
-<T><A1/1>Perdão... Já nos conhecemos?
+<T><A1/1>Perdão...
+Já nos conhecemos?
 !******************************!
 [7117030007000000:000a00000002000000000277000000]
 ニコラ
@@ -21,8 +22,8 @@ vou te contar...
 [711703000a000000:000a000000020000000002d7000000]
 ニコラ
 !******************************!
-<T><A2/5>Mas parece que você não é quem
-eu pensei, então não temos nada
+<T><A2/5>Mas parece que você não é quem eu
+pensei que fosse, então não temos nada
 para conversar. Some daqui!
 !******************************!
 [711703000d000000:001400000002000000000240010000]
