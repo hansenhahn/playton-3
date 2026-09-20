@@ -4,7 +4,7 @@
 !******************************!
 <T>Bem-vindos à Scotland Yard,
 quartel da polícia de Londres.<W>
-Em que posso ajudar?
+O que posso fazer por vocês?
 !******************************!
 [7117030004000000:000a00000002690000000272000000]
 レイトン
