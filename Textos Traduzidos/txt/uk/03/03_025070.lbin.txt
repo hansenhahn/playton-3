@@ -2,15 +2,16 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Sabe, Professor, com todas essas
-árvores e tal, esta colina é meio...
-assustadora.
+<T>Sabe, Professor, com essas
+árvores e tal, esta colina é
+meio... assustadora.
 !******************************!
 [7117030004000000:000a000000025f0000000268000000]
 レイトン
 !******************************!
-<T>O que foi, Luke? Não está com medo
-de ver um fantasma, está?
+<T>O que foi, Luke? Não está
+com medo de ver um fantasma,
+está?
 !******************************!
 [7117030007000000:000a000000020000000002b2000000]
 ルーク

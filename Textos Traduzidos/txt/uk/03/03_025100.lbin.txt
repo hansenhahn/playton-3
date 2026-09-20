@@ -8,8 +8,8 @@ Ninguém passa por este portão!
 [7117030004000000:000a0000000200000000025f000000]
 ワルミー
 !******************************!
-<T>Sumam ou vamos ter mais que
-palavras um com o outro.
+<T>Sumam daqui, ou vamos trocar
+mais do que palavras.
 !******************************!
 [7117030007000000:000a00000002a400000002ad000000]
 レイトン
@@ -19,8 +19,8 @@ palavras um com o outro.
 [711703000a000000:001400000002b900000002c0000000]
 ルーク
 !******************************!
-<T><A1/3>Que atrevimento! São só dois brutos,
-não concorda?
+<T><A1/3>Que atrevimento! São só
+dois brutos, não concorda?
 !******************************!
 [711703000d000000:001400000002b90000000205010000]
 ルーク
@@ -32,7 +32,8 @@ pensando?
 レイトン
 !******************************!
 <T><A2/1>Diga-me, Luke. Aqueles dois não
-lhe lembraram ninguém?
+fazem lembrar de alguém que
+conhecemos?
 !******************************!
 [7117030013000000:001400000002b9000000027f010000]
 ルーク
@@ -66,8 +67,8 @@ notáveis, não acha?
 [7117030022000000:001900000002b90000000287020000]
 ルーク
 !******************************!
-<T>Grandão mandando, confere.<W> Baixinho
-ajudando, confere!
+<T>Grandão mandando, confere.<W>
+Baixinho ajudando, confere!
 !******************************!
 [7117030025000000:001900000002b900000002bf020000]
 ルーク
@@ -113,8 +114,8 @@ rendeu nossos ingressos.
 [7117030037000000:001a00000002b900000002e6040000]
 ルーク
 !******************************!
-<T><A4/2>Pseudocelebridade? Absurdo! Você é
-o grande Professor Layton.
+<T><A4/2>Pseudocelebridade? Absurdo!
+Você é o grande Professor Layton.
 !******************************!
 [711703003a000000:001a00000002b9000000022e050000]
 ルーク
@@ -158,8 +159,9 @@ convidou o inspetor e a mim?
 [711703004c000000:001a00000002a400000002f3060000]
 レイトン
 !******************************!
-<T>Como eu gostaria de ouvir a opinião
-do inspetor sobre o evento...
+<T>Como eu gostaria de ouvir
+a opinião do inspetor sobre
+o evento...
 !******************************!
 [711703004f000000:001a00000002b90000000238070000]
 ルーク
@@ -193,9 +195,9 @@ ver o inspetor?
 [711703005e000000:002800000002a4000000026f080000]
 レイトン
 !******************************!
-<T>Sim. Idealmente, o veríamos em nosso
-tempo, enquanto os eventos ainda
-estão frescos.
+<T>Sim. Idealmente, o veríamos
+em nosso tempo, enquanto os
+eventos ainda estão frescos.
 !******************************!
 [7117030061000000:002800000002d507000002d3080000]
 未来ルーク

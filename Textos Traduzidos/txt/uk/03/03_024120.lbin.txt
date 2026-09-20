@@ -65,7 +65,7 @@ lamberia os beiços! Har har!
 !******************************!
 <T>Não se empolgue, Luke. A comida
 parece ótima, mas não viemos
-aqui para comer, viemos?
+aqui para comer, não é?
 !******************************!
 [7117030022000000:001e000000027b0000000214030000]
 ルーク
@@ -103,7 +103,7 @@ terminarmos aqui.
 [7117030031000000:0032000000020000000002b0040000]
 バッカス
 !******************************!
-<T><A3/2>Har har! Não se preocupe, rapazinho.
+<T><A3/2>Har har! Fica tranquilo, rapazinho.
 Quando comer, será uma refeição
 inesquecível, eu prometo.
 !******************************!

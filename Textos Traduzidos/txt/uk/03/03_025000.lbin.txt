@@ -7,8 +7,8 @@
 [7117030004000000:00140000000216000000021d000000]
 ルーク
 !******************************!
-<T>Você viu aquilo, Professor? Era a
-mesma mulher de antes,
+<T>O senhor viu aquilo, Professor?
+Era a mesma mulher de antes,
 não era?
 !******************************!
 [7117030007000000:001400000002000000000270000000]
@@ -19,8 +19,8 @@ não era?
 [711703000a000000:00140000000216000000028a000000]
 ルーク
 !******************************!
-<T>Você parece distraído, Professor.
-Está tudo bem?
+<T>O senhor parece distraído,
+Professor. Está tudo bem?
 !******************************!
 [711703000d000000:0014000000020000000002c0000000]
 レイトン
