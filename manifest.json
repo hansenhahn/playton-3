@@ -149,5 +149,6 @@
       "^\\[.+\\]$",
       "^!\\D{30}!$"
     ]
-  }
+  },
+  "screen_rules": "Previewer/screens.json"
 }
