@@ -1,7 +1,7 @@
 # Roadmap — Tradução PT-BR | Professor Layton and the Unwound Future
 
 > **Última atualização:** 2026-09-20
-> **Base:** `master` @ `fa02a5ae`
+> **Base:** `master` @ `9e0bcc00`
 > **Métrica:** comparação `Textos Originais/txt/uk` × `Textos Traduzidos/txt/uk`
 > (e `Textos Originais/rc/nazo/uk` × `Textos Traduzidos/rc/nazo/uk`). Uma unidade
 > conta como traduzida quando o PT difere do EN (tags LSCR, headers `[...]` e
@@ -14,8 +14,8 @@
 
 | Frente | Feito | Total | % |
 |---|---|---|---|
-| História (caps 00–14) — capítulos | 12 | 15 | **80%** |
-| História (caps 00–14) — unidades de texto | 4.198 | 4.915 | **85%** |
+| História (caps 00–14) — capítulos | 13 | 15 | **87%** |
+| História (caps 00–14) — unidades de texto | 4.403 | 4.915 | **90%** |
 | Enigmas (naz_df0–df9) — grupos traduzidos | 10 | 10 | **100%** |
 | Enigmas — grupos com QA | 1 (df0) | 10 | **10%** |
 | Extras (18/19/20/30/40/50/90/99) | 0 | 8 | **0%** |
@@ -41,8 +41,8 @@
 | 08 | 17 | 149 | 96% | ✅ #23 |
 | 09 | 32 | 427 | 98% | ✅ #24 |
 | 10 | 47 | 421 | 98% | ✅ #26 |
-| 11 | 28 | 257 | ~100% (257/257 blocos) | 🔶 harness PASS — pair review pendente |
-| 12 | 21 | 214 | 0% | — |
+| 11 | 28 | 257 | ~100% (257/257 blocos) | ✅ #43 — pair review pendente |
+| 12 | 21 | 214 | ~100% (205/212 blocos; 7 idênticos por natureza) | 🔶 #44 — pair review pendente |
 | 13 | 42 | 309 | 0% | — |
 | 14 | 15 | 136 | 0% | — |
 
@@ -97,7 +97,8 @@ O número útil é **403 imagens efetivamente localizadas**.
 
 ## 5. Próximos passos (ordem de impacto)
 
-1. **Caps 12–14** — história final (3 caps / ~659 unidades). Maior vazio narrativo.
+1. **Caps 13–14** — história final (2 caps / ~445 unidades). Maior vazio narrativo.
+   Cap. 12 em PR (#44) — pair review pendente.
 2. **QA dos enigmas `naz_df1`–`df9`** (9 grupos) — tradução existe; falta passe
    semântico/voz/gramática do `layton-nazo`.
 3. **Extras 18/19/20/30** — traduzir (Spec já existe para todos).
@@ -113,3 +114,4 @@ O número útil é **403 imagens efetivamente localizadas**.
 |---|---|
 | 2026-09-20 | Roadmap criado. Caps 00–10 traduzidos e com QA; cap. 00 fechado (PR #40). Enigmas df0 com QA; df1–df9 traduzidos sem QA. Extras e caps 11–14 pendentes. |
 | 2026-09-20 | Cap. 11 traduzido (257 blocos) e QA automático (harness PASS); pair review pendente. Caps 12–14 pendentes. |
+| 2026-09-20 | Cap. 12 traduzido (212 blocos) e QA semântico/voz (5 correções cirúrgicas); pair review pendente. Caps 13–14 pendentes. |
