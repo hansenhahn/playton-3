@@ -1,0 +1,54 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000209000000]
+クラウス
+!******************************!
+<V0010><T>Ha ha ha ha!<W> <A2/6>Eu sabia que vocês
+encontrariam o caminho até aqui
+mais cedo ou mais tarde.</V>
+!******************************!
+[7117030004000000:000a0000000200000000025e000000]
+クラウス
+!******************************!
+<V0020><T>Mas se esperam encontrar nosso
+líder destemido, receio que ele
+esteja indisposto no momento.</V>
+!******************************!
+[7117030007000000:000a000000020000000002cb000000]
+クラウス
+!******************************!
+<V0030><T><A2/6>Sei como você gosta de bancar o
+herói, mas aconselho a não ter
+nenhuma ideia tola.</V>
+!******************************!
+[711703000a000000:000a00000002000000000236010000]
+クラウス
+!******************************!
+<T><V0031>Veja bem, o primeiro-ministro está
+sentado num assento muito especial.</V>
+!******************************!
+[711703000d000000:000a00000002000000000283010000]
+クラウス
+!******************************!
+<V0040><T>E se tentar tirá-lo dessa cápsula,
+esta fortaleza inteira vai
+detonar.</V>
+!******************************!
+[7117030010000000:000a000000020000000002e2010000]
+クラウス
+!******************************!
+<V0050><T>Além disso, saiba que há carga
+suficiente aqui para arrasar
+quase toda Londres.</V>
+!******************************!
+[7117030013000000:000a00000002000000000242020000]
+クラウス
+!******************************!
+<V0060><T>Claro, Londres será arrasada
+de qualquer forma. He he he!</V>
+!******************************!
+[7117030016000000:000a0000000200000000028b020000]
+クラウス
+!******************************!
+<V0070><T>Agora, odeio ter que fugir, mas
+tenho trabalho a fazer.</V>
+!******************************!
