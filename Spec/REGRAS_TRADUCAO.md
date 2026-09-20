@@ -82,6 +82,29 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
    - **Regra prática:** use **orçamento de largura, não de caracteres.** Alvo seguro = **~210px** (≈ 34 chars médios). **34 é média conservadora**, não limite fixo.
    - **Como validar:** `Previewer/Configs/Screen01.ini` (`Texts.png`, `ScreenXPos 9`, `ScreenYPos 141`, `ScreenNewLine 16`) — largura útil ≈ 240px. Teste sempre; se a linha tem `W`/`M`/`m` use 30-32 chars; se tem `i`/`l`/`1` pode ir a 40-42. J2 tem média PT/EN = 1.01 porque tradutores compensaram trocando palavras largas por finas — faça o mesmo (ex.: `investigar` (w=~42px) → `vasculhar` (w=~48px) — pior; prefira `ver` se precisar ganhar pixels).
 
+### Vírgulas — quando usar e quando não usar (PT-BR)
+
+> Vírgula é um dos maiores pontos de erro do PT-BR. **Regra de ouro:** vírgula **não** separa sujeito de predicado nem verbo de complemento; ela **isola** termos, não marca "respiração".
+
+**NÃO usar:**
+- Antes de `e` que liga orações de **mesmo sujeito** ou termos de **mesma função**: `Tome seu tempo e conte os dias…`; `esquerda ou direita`. Exceções (aí **usa**): sujeitos **diferentes** (`Ele contou, e nós entendemos`), `e` **adversativo** (`Tentou, e não conseguiu`) ou para evitar **ambiguidade**.
+- Entre **sujeito e verbo** / **verbo e complemento**: `O professor apontou para uma coisa` (nunca `O professor, apontou…`).
+- Antes de **oração restritiva** (`que`/`porque`/`pois` sem pausa real): `Pense que…`; `os vasos que têm rostos`.
+- Antes do `e` do último item de uma enumeração: `tesoura, pinça, agulha e rato`.
+- Em `entre X e Y`: `entre A e D` (não `entre A ou D`, nem `entre A, e D`).
+
+**USAR:**
+- Antes de `pois` **explicativo/causal**: `Tente fazer uma tabela, pois ela vai ajudar.`
+- Depois de **adjunto adverbial deslocado** para o início: `Na verdade, …` / `Amanhã, …` / `No fim, …`.
+- **Vocativo**: `Professor, …` / `Luke, …`.
+- **Aposto**: `Barton, o policial, …`.
+- **Oração adjetiva explicativa** (pausa real): `Dr. Schrader, que sumiu, …`.
+- **Subordinada adverbial anteposta**: `Se você tomar seu tempo, conseguirá.`
+- **Expressões intercaladas / respostas curtas**: `Ele, aliás, …` / `Sim, …` / `Uau, …`.
+- Entre **orações coordenadas assindéticas**: `Chegou, viu, venceu.`
+
+**Aplicação no J3:** `Tome seu tempo e conte os dias nos dedos e assim você conseguirá…` (sem vírgula antes de `e`, mesmo sujeito) e `Tente fazer uma tabela, pois ela vai deixar as coisas mais fáceis.` (vírgula antes de `pois` explicativo).
+
 ---
 
 ## 5. Regras técnicas
@@ -102,6 +125,7 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 - [ ] Luke `Professor!` / `Pode deixar, Professor!` / `Caramba!`
 - [ ] Placeholders intactos
 - [ ] **3 linhas por página** (grep `!------------------------------!` conta) — nenhuma página >3
+- [ ] **Vírgulas:** sem vírgula entre sujeito/verbo nem antes de `e`/`ou` de mesmo sujeito ou mesma função; com vírgula em vocativo, aposto, adjunto deslocado, oração explicativa e `pois` explicativo (ver §4, *Vírgulas*)
 - [ ] **Nenhuma linha > ~210px** (≈ 34 chars médios; 38 = P95, 44 = máx com `i`/`l`) — `python3 est_width(linha_sem_tags) <= 210` e sem `palavra-\n` hifenizada. Linha com `W`/`M` deve ter ≤32 chars; com `i`/`l` pode até 42. **Tags não contam**
 - [ ] **Toda palavra encaixa inteira** — testar no `Previewer/Screen01` (`Texts.png`); se estourar, reescrever, não forçar quebra
 - [ ] `utf-8` sem BOM, sem `�`
