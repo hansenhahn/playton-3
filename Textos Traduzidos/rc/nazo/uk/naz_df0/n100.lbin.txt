@@ -59,7 +59,7 @@ corretamente, então pode descartar
 essa opção.
 
 Agora olhe mais de perto nas formas
-do boné de A, C, e D.
+do boné de A, C e D.
 !******************************!
 [f10b010010000000:02d7040000]
 O topo do boné do carimbo A está

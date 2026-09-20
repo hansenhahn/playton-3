@@ -18,7 +18,7 @@ psíquico. Qualquer um poderia ter feito
 a mesma previsão. Em que trem
 ele está viajando?
 
-Circule entre A, B, C ou D e
+Circule a resposta, A, B, C ou D, e
 toque em <CR>Enviar</C>.
 !******************************!
 [ec0b01000b000000:02b6010000]
@@ -26,7 +26,7 @@ A todo vapor!
 
 O trem D é a resposta correta.
 
-É o único trem que se chega no fim
+É o único trem que chega ao fim
 da linha sem passar por outra estação,
 assim fica claro que todos os 
 passageiros terão que descer nessa

@@ -35,7 +35,7 @@ Ele é o primeiro, viu?{''}
 [ef0b01000e000000:0214020000]
 {''}Eles se escondem em lugares que
 ocê nem sonharia! Olhe aquele barril
-embaixo à direita, tem algo errado
+embaixo à direita: tem algo errado
 com ele...{''}
 !******************************!
 [f00b01000f000000:02a7020000]

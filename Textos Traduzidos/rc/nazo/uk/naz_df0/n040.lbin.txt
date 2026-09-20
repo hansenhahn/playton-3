@@ -66,6 +66,6 @@ próximo do espaço para estacionar.
 [f10b010010000000:0213050000]
 Barton precisa chegar no quadrado em
 frente do espaço de estacionar pela
-direita, e então virar à direita no
+direita e então virar à direita no
 espaço.
 !******************************!

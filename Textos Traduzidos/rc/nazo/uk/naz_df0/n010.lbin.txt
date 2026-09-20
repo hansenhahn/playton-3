@@ -34,12 +34,12 @@ dois dias antes de Domingo: Sexta-Feira.
 Que pena!
 
 Esse enigma é um pouco maldoso pela
-forma como é escrito. Tome seu tempo
-e conte os dias nos seus dedos, e
-assim você conseguirá descobrir.
+forma como é escrito. Tome seu tempo,
+conte os dias nos dedos e assim você
+conseguirá descobrir.
 !******************************!
 [ee0b01000d000000:02ad020000]
-Tente fazer uma tabela, ela vai
+Tente fazer uma tabela, pois ela vai
 deixar as coisas bem mais fáceis.
 !******************************!
 [ef0b01000e000000:02f0020000]

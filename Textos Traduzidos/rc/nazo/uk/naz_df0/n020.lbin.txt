@@ -16,7 +16,7 @@ passar duas vezes no mesmo quadrado.
 
 Consegue chegar na bandeira verde?
 Toque cada quadrado que você passa no
-caminho, e então envie sua resposta.
+caminho e então envie sua resposta.
 !******************************!
 [ec0b01000b000000:025f010000]
 Certa resposta!

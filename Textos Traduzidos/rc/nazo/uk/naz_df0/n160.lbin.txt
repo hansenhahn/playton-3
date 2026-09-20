@@ -30,7 +30,7 @@ verdade está invertida.
 [ed0b01000c000000:02e5010000]
 Errado!
 
-Lembre-se, são chaves, dá para girá-las
+Lembre-se: são chaves, dá para girá-las
 livremente, mas você só pode encaixá-las
 de uma maneira.
 !******************************!

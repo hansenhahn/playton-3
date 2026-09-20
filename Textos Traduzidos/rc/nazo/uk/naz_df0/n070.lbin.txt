@@ -17,7 +17,7 @@ ou um bloco abaixo irá cair.
 
 Olhando os blocos pelo ângulo certo,
 qual direção está para
-{''}cima{''}: A, B, C, ou D?
+{''}cima{''}: A, B, C ou D?
 !******************************!
 [ec0b01000b000000:0282010000]
 Você acertou!
