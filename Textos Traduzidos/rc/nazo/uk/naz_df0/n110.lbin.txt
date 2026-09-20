@@ -6,17 +6,17 @@ n110a
 n110b
 !******************************!
 [eb0b01000a000000:0211000000]
-{''}Se prepare para se surpreender!
+{''}Prepare-se para se surpreender!
 Enquanto viajava em um trem, percebi
 que eu sabia exatamente em qual estação
 esse estranho total iria descer.
-Mais uma grande prova do meu
+Mais uma prova do meu
 dom psíquico!{''}
 
 Na verdade, esse cara não tem nada de
 psíquico. Qualquer um poderia ter feito
-a mesma previsão. Em que trem
-ele está viajando?
+a mesma previsão correta. Em que
+trem ele está viajando?
 
 Circule a resposta, A, B, C ou D, e
 toque em <CR>Enviar</C>.
@@ -40,7 +40,7 @@ psíquicos, e qualquer um poderia
 fazer a mesma previsão.
 !******************************!
 [ee0b01000d000000:02fe020000]
-Não tá pensando demais, né? Se você
+Você não está pensando demais, né? Se você
 estivesse no mesmo trem desse cara,
 você saberia em qual estação esse
 estranho iria descer.

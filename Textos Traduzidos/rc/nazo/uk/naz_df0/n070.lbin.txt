@@ -41,15 +41,16 @@ bloco instável? Olhe cuidadosamente.
 !******************************!
 [ef0b01000e000000:02ff020000]
 Tente virar a imagem e olhá-la de modo
-que cada letra esteja para {''}cima{''}.
-Fique atento a blocos que contêm
+que cada letra diferente esteja para
+{''}cima{''}.
+Fique atento a blocos com
 espaços vazios sob eles.
 !******************************!
 [f00b01000f000000:028c030000]
 Olhando a pilha com B para {''}cima{''},
-o quadradinho verde de baixo do quadrado
-vermelho cairia, então B não pode ser
-a resposta.
+o quadradinho verde embaixo do
+quadrado vermelho grande cairia, então
+B não pode ser a resposta.
 
 Continue olhando de diferentes direções
 assim e logo você vai achar a resposta!

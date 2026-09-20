@@ -105,6 +105,41 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 
 **Aplicação no J3:** `Tome seu tempo e conte os dias nos dedos e assim você conseguirá…` (sem vírgula antes de `e`, mesmo sujeito) e `Tente fazer uma tabela, pois ela vai deixar as coisas mais fáceis.` (vírgula antes de `pois` explicativo).
 
+### Gramática PT-BR — correção automática (no-brainer)
+
+> **Estas regras NÃO vão para discussão.** `layton-translation`, `layton-qa` e `layton-nazo` devem corrigi-las **automaticamente, in-place**, no passe gramatical; o relatório registra apenas "já corrigido", nunca como "proposta". Só continua em aberto o que for decisão de **estilo/voz** do dossiê. Este passe é **obrigatório duas vezes**: (a) no fim da revisão autônoma, antes do humano; (b) no fim do passe interativo, depois das correções aprovadas (edits/reflows introduzem erros novos).
+
+**Regência / crase**
+- `chegar` com preposição correta: `chegar à bandeira`, `chegar ao espaço`, `chegar a ele` — nunca `chegar na/no/nele/nela`.
+- `páreo **para**` (não `páreo contra`).
+- `olhar **as** formas` / `olhar **os** números` (não `olhar nas/em`).
+- `**De** que cor` (não `Em que cor`).
+- `deslizar **até** a parede` (não `deslizar a/à`).
+- `aplicar-se **a** A ou C` (não `falar sobre A`).
+
+**Subjuntivo após gatilhos** — `supondo que`, `talvez`, `embora`, `mesmo que`, `caso`, `a menos que`, `para que`, `antes que` → verbo no subjuntivo: `Supondo que ele **possa**…`, `Talvez ele **tenha engolido**…`.
+
+**Concordância**
+- Sujeito composto → verbo no plural: `só nos **restam** o primeiro, o terceiro e o quinto`.
+- Referente plural → `… mesmo após **serem colhidas**` (não `ser colhida`).
+- Não inventar gênero: `C deve ser **o** segundo` (não `a segunda`), salvo referente feminino no EN.
+- Concordância nominal com o referente: `uma banana … muito **boa**`.
+- Gênero do falante conforme dossiê (ex. Craig: `Estava certo`).
+
+**Ordem / sintaxe**
+- Advérbio anteposto quando o EN pede: `os botões que **juntos formam** a forma` (não `formam juntos`).
+- `já que` causal: depois da oração principal no mesmo período → isolado por vírgula (`… do B, já que descobrimos…`); iniciando período → sem vírgula antes.
+- Sem dupla negativa/pleonasmo (`não tem problema não usar` → `pode descartar`).
+
+**Ortografia**
+- `embaixo` (não `em baixo`); plural correto (`18 anos`, não `18 ano`).
+
+**Continuidade de falas repetidas**
+- O mesmo trecho EN entre `{''}` que reaparece em blocos diferentes (pergunta ↔ dica) **deve ter PT idêntico**. Divergência = defeito de continuidade; `qa_nazo.py` mecaniza esse check.
+
+**Voz do narrador**
+- Bloco sem `{''}` de personagem (pergunta/acerto/erro/dica) é narração: não coloquializar (`Você não está pensando demais`, não `Não tá pensando demais`) nem "caipirizar".
+
 ---
 
 ## 5. Regras técnicas

@@ -44,8 +44,8 @@ A coisa mais importante a se saber
 !******************************!
 [f00b01000f000000:02d1020000]
 Só de olhar, você pode dizer que a
-fechadura C não vai funcionar. Mas a B,
-por outro lado, incrivelmente funciona!
+fechadura C não vai funcionar. Mas a
+B, surpreendentemente, funciona!
 
 Note que você pode girar as peças-chave
 no sentido horário ou anti-horário, mas
@@ -59,7 +59,7 @@ viradas ao serem encaixadas.
 [f10b010010000000:025a040000]
 C não funciona.
 
-A, B e G funcionam perfeitamente.
+A, B e G funcionam.
 
 Das três restantes, D, E e F,
 só uma não funciona. Qual delas?

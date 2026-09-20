@@ -18,7 +18,7 @@ homem;
 E você criou essa situação usando o
 número mínimo de pessoas.
 
-Quantas são?
+Quantas pessoas há na sua cena?
 !******************************!
 [ec0b01000b000000:026e010000]
 Três é demais!

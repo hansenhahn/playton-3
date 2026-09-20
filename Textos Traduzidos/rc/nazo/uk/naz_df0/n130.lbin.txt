@@ -6,8 +6,8 @@ n130a
 n130b
 !******************************!
 [eb0b01000a000000:0211000000]
-O professor e Luke estão discutindo
-sobre o raio-X do Dr. Schrader:
+O professor Layton e Luke
+discutem o raio-X do Dr. Schrader:
 {''}Veja, Professor! Alguém deve ter
 deixado essa tesoura dentro do Dr.
 Schrader na sua operação! Olha a sombra
@@ -26,15 +26,16 @@ Você tem um olho bom!
 
 Há uma sombra branca misteriosa no fundo
 do estômago do Dr. Schrader. Talvez ele
-engoliu uma moeda ou algo por acidente!
+tenha engolido uma moeda ou algo por
+acidente!
 
 Quando os raios-X não conseguem passar
 por algo sólido, o objeto aparece como
 uma sombra branca. Já as sombras pretas
-como a tesoura são apenas o resultado
-de uma brincadeira boba. Alguém deve ter
-sobreposto as imagens depois que a foto
-foi tirada.
+como a tesoura são provavelmente
+apenas o resultado de uma brincadeira
+boba. Alguém deve ter sobreposto as
+imagens depois que a foto foi tirada.
 
 !******************************!
 [ed0b01000c000000:025a030000]
@@ -53,8 +54,8 @@ com essas coisas, mas o professor
 só apontou para uma.
 !******************************!
 [ef0b01000e000000:026e040000]
-Em que cor os objetos sólidos
-aparecem em um raio-X?
+De que cor são os objetos sólidos
+em um raio-X?
 
 Veja mais uma vez e tente
 descobrir através disso.

@@ -12,9 +12,9 @@ selado! Aliás, gostou do meu selo?
 É que nem o que o senhor usa, mas
 tem o formato do meu boné e o L é de
 Luke! E é até da cor do meu boné!
-Aliás, o selo me fez pensar em um
+Na verdade, o selo me fez pensar em um
 enigma: destes quatro selos, A, B, C e
-D, qual deles é do carimbo que eu uso?
+D, qual deles é o meu carimbo?
 Você tem que resolver esse enigma antes
 de tirar o selo da carta!{''}
 
@@ -39,11 +39,11 @@ e veja o que há no envelope!{''}
 Que pena!
 
 {''}Vamos lá, Professor! Você tem que
-ler o documento que está dentro!{''}
+ler o documento que selei aí dentro!{''}
 !******************************!
 [ee0b01000d000000:025a030000]
 Lembre-se que um carimbo irá mostrar uma
-imagem espelhada do desenho.
+imagem espelhada do desenho real.
 !******************************!
 [ef0b01000e000000:02a4030000]
 Todos os carimbos são circulares, então
@@ -58,7 +58,7 @@ O carimbo B não tem um L invertido
 corretamente, então pode descartar
 essa opção.
 
-Agora olhe mais de perto nas formas
+Agora olhe mais de perto as formas
 do boné de A, C e D.
 !******************************!
 [f10b010010000000:02d7040000]

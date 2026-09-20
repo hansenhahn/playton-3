@@ -22,11 +22,12 @@ Frutífero!
  
 Curiosidade interessante sobre as
 bananas: elas são uma das frutas que
-continuam amadurecendo mesmo após ser
-colhida. Ou seja, elas estão verdes
-quando são colhidas. Apesar disso,
+continuam amadurecendo mesmo após
+serem colhidas. Ou seja, elas estão
+verdes quando são colhidas. Apesar disso,
 você não gostaria de comer uma banana
-verde. Provavelmente não seria muito bom.
+verde. Provavelmente não seria muito
+agradável.
 !******************************!
 [ed0b01000c000000:021e020000]
 Errado!
@@ -38,16 +39,17 @@ Talvez pareça óbvio, mas não dá para
 ir reto no primeiro cruzamento.
 !******************************!
 [ef0b01000e000000:027e020000]
-Desça no primeiro cruzamento e pegue
-a saída à esquerda no próximo.
+Desça no primeiro cruzamento e vire
+à esquerda no próximo.
 
 Agora desliza até o fim!
 !******************************!
 [f00b01000f000000:02d2020000]
 Seguindo a Dica 2, assim que você
 deslizar até a parede da esquerda, desça
-e deslize à parede de baixo. Então vire
-à direita e ande até deslizar de novo!
+e deslize até a parede de baixo.
+Então vire à direita e ande até deslizar
+de novo!
 !******************************!
 [f10b010010000000:026d030000]
 Seguindo a Dica 3, no cruzamento embaixo

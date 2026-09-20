@@ -14,9 +14,10 @@ do mês numericamente, como mostrado pelo
 Cada data deve usar ambos os dados,
 implicando que datas com dígitos únicos,
 como o primeiro e segundo dia do mês,
-serão mostradas como 01 e 02.
+serão mostradas como 01 e 02,
+respectivamente.
 
-Você pensou ter completado o design,
+Você pensou ter completado o projeto,
 mas os formatos abaixo não conseguem
 mostrar todas as datas. Circule o número
 que precisa ser trocado.
@@ -26,11 +27,11 @@ Boa!
 
 O número 6 precisa ser trocado.
 
-O design atual não permite o dado
-mostrar as datas de 07 ou 08. Mas se
-você mudar o 6 por um 0, você pode virar
-o 9 ao contrário e usá-lo como um 6 para
-poder mostrar todas as datas.
+O projeto atual não permite que o
+dado mostre as datas de 07 ou 08.
+Mas se você mudar o 6 por um 0, você pode
+virar o 9 ao contrário e usá-lo como um 6
+para poder mostrar todas as datas.
 !******************************!
 [ed0b01000c000000:02ca020000]
 Uma pena!
@@ -62,8 +63,8 @@ todas as datas?
 Para mostrar o 07, você precisa mudar um
 dos números do dado da direita por um 0.
 Você precisa da maioria desses números,
-mas há um que não tem problema não usar
-porque você pode virar o 9 do dado da
-esquerda de ponta-cabeça.
+mas há um que você pode descartar sem
+problema porque pode virar o 9 do dado
+da esquerda de ponta-cabeça.
 
 !******************************!
