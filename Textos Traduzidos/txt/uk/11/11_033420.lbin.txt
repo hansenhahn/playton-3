@@ -1,0 +1,53 @@
+[7017010000000000:0008000000]
+[7117030001000000:000a00000002000000000209000000]
+レイトン
+!******************************!
+<T>Esta porta parece levar à sala
+de pesquisa central.
+!******************************!
+[7117030004000000:000a0000000244000000024b000000]
+ルーク
+!******************************!
+<T>Espero que Dimitri esteja aí
+dentro, Professor!
+!******************************!
+[7117030007000000:000a00000002000000000275000000]
+レイトン
+!******************************!
+<T>Eu também. Você o ouviu falar
+antes, Luke. Ele ainda pode ser
+convencido, tenho certeza.
+!******************************!
+[711703000a000000:000a000000024400000002d5000000]
+ルーク
+!******************************!
+<T>Bem, nosso primeiro desafio é
+abrir esta porta. Ela tem uma
+fechadura estranha.
+!******************************!
+[711703000d000000:000a0000000200000000022e010000]
+レイトン
+!******************************!
+<T>Outro enigma, suspeito. Dimitri
+sem dúvida quer testar a
+inteligência de todos que entram.
+!******************************!
+[7117030010000000:00e803000002000000000295010000]
+レイトン
+!******************************!
+<T>Dimitri nos preparou um desafio
+assustador. Preciso de um momento
+para organizar meus pensamentos.
+!******************************!
+[7117030013000000:00d0070000020000000002f0010000]
+レイトン
+!******************************!
+<T>Tenho certeza de que conseguirei
+abri-la desta vez.
+!******************************!
+[7117030016000000:00b80b000002000000000223020000]
+レイトン
+!******************************!
+<T>Pronto! A fechadura da porta parece
+ter sido destravada.
+!******************************!
