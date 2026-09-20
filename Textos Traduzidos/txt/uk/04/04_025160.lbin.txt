@@ -29,8 +29,8 @@ Luke. Eu a abro.<S310></S310>
 [7117030010000000:001400000002100100000219010000]
 レイトン
 !******************************!
-<T>Olhem isto, vocês dois. Há um conjunto
-estranho de números gravado
+<T>Olhem isto, vocês dois. Há um
+conjunto estranho de números gravado
 na porta.
 !******************************!
 [7117030013000000:00e80300000200000000026b010000]
@@ -42,20 +42,21 @@ devia estar aberta.
 [7117030016000000:00d0070000021001000002ac010000]
 レイトン
 !******************************!
-<T>Tentem o enigma da fechadura de novo.
-Vamos resolvê-lo mais cedo
+<T>Tentem o enigma da fechadura de
+novo. Vamos resolvê-lo mais cedo
 ou mais tarde.
 !******************************!
 [7117030019000000:00b80b000002100100000202020000]
 レイトン
 !******************************!
-<T>Bom trabalho, Big Luke.
+<T>Trabalho maravilhoso, Big Luke.
 !******************************!
 [711703001c000000:00b80b00000243000000021f020000]
 ルーク
 !******************************!
-<T>Acho cedo para comemorar, Professor.
-A porta continua sem abrir.
+<T>Acho cedo para comemorar,
+Professor. A porta continua sem
+abrir.
 !******************************!
 [711703001f000000:00b80b000002100100000279020000]
 レイトン

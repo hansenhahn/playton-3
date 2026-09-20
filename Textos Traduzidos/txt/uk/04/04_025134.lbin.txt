@@ -2,8 +2,8 @@
 [7117030001000000:000a0000000200000000020d000000]
 ナレーション
 !******************************!
-<T>Você ganhou um novo amigo emplumado,
-o papagaio <N1>!
+<T>Você ganhou um novo amigo
+emplumado, o papagaio <N1>!
 !******************************!
 [7117030004000000:000a00000002000000000242000000]
 ナレーション
@@ -20,7 +20,7 @@ com Luke para aprender o básico.
 [711703000a000000:0014000000020000000002b4000000]
 ナレーション
 !******************************!
-<T>Depois disso, você terá a chance de
-fazer muito mais com seu amigo
+<T>Depois disso, você terá a chance
+de fazer muito mais com seu amigo
 papagaio.
 !******************************!

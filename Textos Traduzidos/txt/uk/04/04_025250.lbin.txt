@@ -31,9 +31,9 @@ só isso.
 [7117030010000000:000a00000002000000000235010000]
 ヒゲマフラー
 !******************************!
-<T>Pouca gente sabe, mas quando resolvem
-enigmas, vocês podem ganhar
-estes...
+<T>Pouca gente sabe, mas quando
+resolvem enigmas, vocês podem
+ganhar estes...
 !******************************!
 [7117030013000000:000a00000002480000000282010000]
 ルーク
@@ -51,8 +51,8 @@ grande assim.
 [7117030019000000:000a00000002480000000245020000]
 ルーク
 !******************************!
-<T>Certo, bem, obrigado. Precisamos ir.
-Temos muito a fazer.
+<T>Certo, bem, obrigado. Precisamos
+ir. Temos muito a fazer.
 !******************************!
 [711703001c000000:000a0000000200000000028f020000]
 ヒゲマフラー
@@ -108,9 +108,9 @@ te fez cair da cadeira.
 [7117030037000000:00a00f0000020000000002b3040000]
 ヒゲマフラー
 !******************************!
-<T><A3/0>Keh heh heh.<A2/1> Olá, rapaz. Voltou para
-conversar com seu velho camarada
-Stachenscarfen, hein?
+<T><A3/0>Keh heh heh.<A2/1> Olá, rapaz. Voltou
+para conversar com seu velho
+camarada Stachenscarfen, hein?
 !******************************!
 [711703003a000000:00a00f000002480000000215050000]
 ルーク

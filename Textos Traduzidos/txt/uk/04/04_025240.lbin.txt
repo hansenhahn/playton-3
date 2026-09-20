@@ -21,7 +21,8 @@ me deixou exausto, sabia?
 レイトン
 !******************************!
 <T><A1/2>Sim, eu também preciso descansar.
-Mas não devemos deixar Cogg esperando.
+Mas não devemos deixar Cogg
+esperando.
 !******************************!
 [711703000d000000:000a00000002000000000215010000]
 ルーク
@@ -51,8 +52,8 @@ com o Inspetor Chelmey.
 [7117030019000000:000a00000002480000000221020000]
 レイトン
 !******************************!
-<T>Preparação, meu jovem, é a base sobre
-a qual toda boa investigação
+<T>Preparação, meu jovem, é a base
+sobre a qual toda boa investigação
 se constrói.
 !******************************!
 [711703001c000000:000a00000002000000000279020000]
@@ -63,9 +64,9 @@ se constrói.
 [711703001f000000:000a0000000248000000029c020000]
 レイトン
 !******************************!
-<T><A4/2>Agora que voltamos ao nosso tempo,
-chegamos à universidade em minutos
-de ônibus.
+<T><A4/2>Agora que voltamos ao nosso
+tempo, chegamos à universidade em
+minutos de ônibus.
 !******************************!
 [7117030022000000:000a00000002480000000205030000]
 レイトン
