@@ -59,7 +59,7 @@ nos locomover.
 !******************************!
 <T>Sei como funciona, Professor. Deixa
 comigo.<W> Vamos ver... Pra começar,
-Toque no ícone do sapato.
+toque no ícone do sapato.
 !******************************!
 [711703001f000000:00d60b0000020102000002f0020000]
 ナレーション
