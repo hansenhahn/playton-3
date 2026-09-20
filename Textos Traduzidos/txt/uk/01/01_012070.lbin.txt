@@ -10,14 +10,14 @@ entrando.
 マーガレット
 !******************************!
 <T>Bem-vindos ao Hotel Duke, lar
-do serviço exemplar e do
-melhor café da manhã do mundo.
+do serviço exemplar e do melhor
+café da manhã do mundo.
 !******************************!
 [7117030007000000:000a000000020000000002c2000000]
 マーガレット
 !******************************!
-<T>Sou a Margaret, a gerente do hotel.
-Não hesitem em pedir
+<T>Sou a Margaret, a gerente
+do hotel. Não hesitem em pedir
 se precisarem de algo.
 !******************************!
 [711703000a000000:000a000000021d0100000224010000]
@@ -31,7 +31,7 @@ mundo também?
 マーガレット
 !******************************!
 <T>Aha! Parece que temos um pequeno
-gourmet aqui.
+crítico gourmet aqui.
 !******************************!
 [7117030010000000:000a000000020000000002ae010000]
 マーガレット
@@ -51,8 +51,7 @@ melhor de Londres.
 ルーク
 !******************************!
 <T><A3/2>Sabe, Professor, mudei de ideia.
-Gostei bastante daqui.
-Vamos ficar.
+Gostei bastante daqui. Vamos ficar.
 !******************************!
 [7117030019000000:000a000000020000000002d8020000]
 マーガレット
@@ -75,15 +74,13 @@ uma delas tem tinta.
 [7117030022000000:000a000000020000000002a1030000]
 マーガレット
 !******************************!
-<T>Será que poderia pedir para me
-ajudarem a descobrir qual é,
-por favor?
+<T>Será que eu poderia pedir para me
+ajudarem a descobrir qual é, por favor?
 !******************************!
 [7117030025000000:00e8030000020000000002f3030000]
 マーガレット
 !******************************!
-<T>Vejamos... Qual caneta
-era?
+<T>Vejamos... Qual caneta era?
 !******************************!
 [7117030028000000:00d007000002000000000219040000]
 マーガレット
@@ -114,7 +111,7 @@ A Becky vai levá-los ao quarto.
 [7117030034000000:00a00f000002000000000268050000]
 マーガレット
 !******************************!
-<T>O check-in está feito e o quarto
-pronto. A Becky ali vai
+<T>O check-in está feito e
+o quarto pronto. A Becky vai
 levá-los lá para cima.
 !******************************!

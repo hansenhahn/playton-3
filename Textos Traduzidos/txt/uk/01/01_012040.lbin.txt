@@ -9,15 +9,15 @@ Tá ou não tá?
 [7117030004000000:000a0000000268000000026f000000]
 ルーク
 !******************************!
-<T>Ahn... N-não. D-desculpe muito.
+<T>Ahn... N-não. M-mil desculpas.
 Eu só-
 !******************************!
 [7117030007000000:000a000000020000000002a1000000]
 クローンマフィア
 !******************************!
 <T>E ainda tem a maior cara de pau,
-andando por aí com essa cartola!
-Cara de pau e cabeça vazia!
+andando por aí com esse chapéu!
+Cara de pau e cabeça oca!
 !******************************!
 [711703000a000000:000a00000002680000000201010000]
 ルーク
@@ -28,15 +28,15 @@ Cara de pau e cabeça vazia!
 クローンマフィア
 !******************************!
 <T>Não tô falando com você,
-espertinho. Tô falando do sujeito
-aí de cartola.
+espertinho. Tô falando com
+o sujeito aí de cartola.
 !******************************!
 [7117030010000000:001400000002790100000282010000]
 レイトン
 !******************************!
 <T><A1/1>Eu?<W> Bem, também não vejo
-nada de errado com minha cartola,
-senhor.
+nada de errado com minha
+cartola, senhor.
 !******************************!
 [7117030013000000:0014000000020000000002cc010000]
 クローンマフィア
@@ -80,7 +80,7 @@ digo {''}coisa{''}, é {''}a cara dele{''}.
 [7117030025000000:00a00f0000020000000002d5030000]
 クローンマフィア
 !******************************!
-<T><A1/1>Eu não disse pra não falar comigo?<W>
-NÃO DISSE?!<W> Cai fora da
-minha frente!
+<T><A1/1>Eu não disse pra não falar
+comigo?<W> NÃO DISSE?!<W>
+Vaza da minha frente!
 !******************************!

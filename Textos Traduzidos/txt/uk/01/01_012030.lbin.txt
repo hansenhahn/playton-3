@@ -2,22 +2,21 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Bom dia, jovem. Por acaso
-sabe me dizer se este
+<T>Bom dia, minha jovem. Por
+acaso sabe me dizer se este
 estabelecimento é um hotel?
 !******************************!
 [7117030004000000:000a0000000262000000026b000000]
 ベッキー
 !******************************!
 <T>Olá, cavalheiros. Se procuram
-um hotel, vieram ao
-lugar certo!
+um hotel, vieram ao lugar certo!
 !******************************!
 [7117030007000000:000a000000026200000002c5000000]
 ベッキー
 !******************************!
-<T>O Hotel Duke é um dos
-mais finos e famosos de Londres!
+<T>O Hotel Duke é um dos mais
+finos e famosos de Londres!
 !******************************!
 [711703000a000000:000a000000026200000002fe000000]
 ベッキー
@@ -63,5 +62,5 @@ nome do hotel dela, Luke.
 レイトン
 !******************************!
 <T>Obrigado pela ajuda,
-jovem.
+minha jovem.
 !******************************!
