@@ -2,7 +2,7 @@
 [7117030001000000:000a00000002000000000209000000]
 レイトン
 !******************************!
-<T>Vamos voltar ao meu escritório. Então,
-qual ônibus vai para a Universidade
-Gressenheller?
+<T>Vamos voltar ao meu escritório.
+Então, qual ônibus vai para a
+Universidade Gressenheller?
 !******************************!

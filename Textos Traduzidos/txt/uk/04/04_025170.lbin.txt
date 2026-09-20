@@ -2,8 +2,8 @@
 [7117030001000000:000a00000002000000000207000000]
 ルーク
 !******************************!
-<T>Lá está a loja. A porta estava trancada
-antes e ninguém respondia
+<T>Lá está a loja. A porta estava
+trancada antes e ninguém respondia
 quando batemos.
 !******************************!
 [7117030004000000:000a00000002650000000270000000]

@@ -47,8 +47,8 @@ gosta de objetos brilhantes.
 [7117030016000000:001e00000002000000000200020000]
 未来ルーク
 !******************************!
-<T>Com licença, senhor, por acaso teria
-algo brilhante que pudéssemos
+<T>Com licença, senhor, por acaso
+teria algo brilhante que pudéssemos
 pegar emprestado um momento?
 !******************************!
 [7117030019000000:002800000002620000000258020000]
@@ -174,8 +174,8 @@ amigos?
 [7117030058000000:00d90b00000215060000021e060000]
 レイトン
 !******************************!
-<T>Bem, agora que são amigos, por que
-não lhe dá um nome?
+<T>Bem, agora que são amigos, por
+que não lhe dá um nome?
 !******************************!
 [711703005b000000:00db0b00000246000000025f060000]
 ルーク

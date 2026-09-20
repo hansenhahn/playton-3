@@ -26,8 +26,8 @@ sabia?
 [711703000d000000:000a0000000200000000021a010000]
 OPルーク２
 !******************************!
-<T>Acho que preciso recapitular
-nosso caso.
+<T>Acho que uma recapitulação
+do caso cairia bem.
 !******************************!
 [7117030010000000:000a00000002720000000253010000]
 OPレイトン２
@@ -49,15 +49,15 @@ maligno.
 [7117030019000000:000a000000027200000002d7010000]
 OPレイトン２
 !******************************!
-<T>E o que exatamente estamos impedindo
-meu eu futuro de fazer?
+<T>E o que exatamente estamos
+impedindo meu eu futuro de fazer?
 !******************************!
 [711703001c000000:000a00000002000000000216020000]
 OPルーク２
 !******************************!
 <T>Ahn...<W> Oh, certo! Queremos impedir
-você, quero dizer ele, de concluir a
-pesquisa da máquina do tempo!
+você, quero dizer ele, de concluir
+a pesquisa da máquina do tempo!
 !******************************!
 [711703001f000000:000a00000002720000000278020000]
 OPレイトン２
@@ -80,20 +80,21 @@ no fim.
 [7117030028000000:000a00000002000000000219030000]
 OPルーク２
 !******************************!
-<T>Foi então que você disse que seria útil
-falar com o inspetor.
+<T>Foi então que você disse que seria
+útil falar com o inspetor.
 !******************************!
 [711703002b000000:000a00000002720000000275030000]
 OPレイトン２
 !******************************!
-<T>Sim, mas na época eu não imaginava que
-poderíamos saltar ao nosso tempo
-para falar com ele.
+<T>Sim, mas na época eu não imaginava
+que poderíamos saltar ao nosso
+tempo para falar com ele.
 !******************************!
 [711703002e000000:000a000000020000000002d6030000]
 OPルーク２
 !******************************!
-<T>Nesse sentido, tivemos sorte, hein?
+<T>Nesse sentido, acho que demos
+bastante sorte, hein?
 !******************************!
 [7117030031000000:000a0000000272000000020c040000]
 OPレイトン２
@@ -121,6 +122,6 @@ nosso ponto.
 [711703003d000000:000a000000027200000002d0040000]
 OPレイトン２
 !******************************!
-<T>Passaremos no meu escritório e depois
-vamos ver o inspetor.
+<T>Passaremos no meu escritório e
+depois vamos ver o inspetor.
 !******************************!

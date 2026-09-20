@@ -35,8 +35,8 @@ nosso amigo aqui.
 [7117030010000000:000a000000020000000002ac010000]
 デビット
 !******************************!
-<T>Caramba, nunca vi alguém tão empolgado
-com ônibus.
+<T>Caramba, nunca vi alguém tão
+empolgado com ônibus.
 !******************************!
 [7117030013000000:000a000000020000000002f0010000]
 デビット

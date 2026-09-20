@@ -8,8 +8,8 @@ pelo menos 30 enigmas.
 [7117030004000000:000a00000002000000000245000000]
 ジャック
 !******************************!
-<T>Parece que pesquisaram o bastante para
-levar a investigação de volta
+<T>Parece que pesquisaram o bastante
+para levar a investigação de volta
 ao seu tempo.
 !******************************!
 [7117030007000000:000a0000000200000000029c000000]
@@ -22,9 +22,9 @@ situação aqui.
 [711703000a000000:000a00000002ff0000000208010000]
 レイトン
 !******************************!
-<T>Sim, espero. Então, Cogg, se pudesse
-ter a bondade de ligar
-o relógio...
+<T>Sim, espero. Então, Cogg, se
+pudesse ter a bondade de ligar o
+relógio...
 !******************************!
 [711703000d000000:0014000000025f010000026a010000]
 未来ルーク
@@ -47,9 +47,9 @@ que o necessário.
 [7117030016000000:001400000002ff00000002f6010000]
 レイトン
 !******************************!
-<T>Além disso, os olhos do pobre inspetor
-saltariam da cabeça se eu aparecesse
-com dois Lukes.
+<T>Além disso, os olhos do pobre
+inspetor saltariam da cabeça se eu
+aparecesse com dois Lukes.
 !******************************!
 [7117030019000000:001400000002620200000269020000]
 ルーク
