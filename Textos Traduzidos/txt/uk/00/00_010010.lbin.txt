@@ -35,14 +35,13 @@ que viesse à nossa lojinha.
 [7117030010000000:000a000000025b00000002d6010000]
 レイトン
 !******************************!
-<T><A1/1>Então não sabe quem a enviou
-para mim?
+<T><A1/1>Então não sabe quem a enviou?
 !******************************!
 [7117030013000000:000a00000002000000000204020000]
 サマリー
 !******************************!
 <T><A1/1>Infelizmente, não sei dizer.
-Mas sei quem é você,
+Mas sei quem você é,
 Professor Layton!
 !******************************!
 [7117030016000000:000a00000002600200000267020000]
@@ -74,8 +73,8 @@ professor.
 ルーク
 !******************************!
 <T><A3/2>Ouviu só, Professor?
-Mais uma prova de que é famoso
-em toda Londres.
+Mais uma prova de que o senhor
+é famoso em toda Londres.
 !******************************!
 [7117030025000000:000a000000026002000002d0030000]
 ルーク
@@ -92,7 +91,7 @@ de mundo{''}?
 サマリー
 !******************************!
 <T>Só porque não queremos viver
-espremidos como sardinhas não
+espremidos feito sardinhas não
 quer dizer que não somos centrais!
 !******************************!
 [711703002e000000:000a0000000200000000028b040000]
@@ -106,7 +105,7 @@ carne e osso.
 サマリー
 !******************************!
 <T>Choque tão grande, aliás, que vou
-precisar de prova de que não é
+precisar de provas de que não é
 um sósia!
 !******************************!
 [7117030034000000:00e803000002000000000245050000]
@@ -156,7 +155,7 @@ olhada na loja enquanto esperam?
 [7117030049000000:00a00f00000200000000025f070000]
 サマリー
 !******************************!
-<T>Meu marido já volta, então só deem
+<T>Meu marido já volta, então deem
 uma olhada na loja enquanto
 esperam.
 !******************************!

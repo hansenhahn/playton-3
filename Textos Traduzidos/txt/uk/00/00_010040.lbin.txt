@@ -7,15 +7,15 @@
 [7117030004000000:001400000002290000000232000000]
 ジャック
 !******************************!
-<T><A1/1>Espere até ver a preciosidade que
-achei hoje, amor...<W> <A2/1>Nossa,
-clientes!
+<T><A1/1>Espere até ver a preciosidade
+que achei hoje, amor...<W>
+<A2/1>Nossa, clientes!
 !******************************!
 [7117030007000000:001400000002000000000292000000]
 サマリー
 !******************************!
-<T>Bem-vindo de volta, querido. Este é
-o Professor Layton.
+<T>Bem-vindo de volta, querido.
+Este é o Professor Layton.
 !******************************!
 [711703000a000000:0014000000020000000002c8000000]
 サマリー
@@ -50,22 +50,22 @@ Luke! Prazer em conhecê-lo, senhor!
 [7117030019000000:001e00000002290000000223020000]
 ジャック
 !******************************!
-<T>Ora, que belas maneiras,
-garoto! Prazer em conhecê-lo também.
+<T>Ora, que belas maneiras, garoto!
+Prazer em conhecê-lo também.
 Meu nome é Cogg.
 !******************************!
 [711703001c000000:001e0000000254010000028b020000]
 レイトン
 !******************************!
-<T><A1/1>Pareceu um tanto agitado com
+<T><A1/1>Pareceu um tanto agitado com a
 nossa chegada, Cogg. Não queremos
-incomodar...
+atrapalhar...
 !******************************!
 [711703001f000000:001e000000022900000002ea020000]
 ジャック
 !******************************!
-<T>Ah não, não, não. Sem problema
-nenhum.
+<T>Ah não, não, não.
+Sem problema algum.
 !******************************!
 [7117030022000000:001e00000002290000000214030000]
 ジャック
@@ -150,7 +150,7 @@ vai, Professor?
 [7117030046000000:00b80b0000022900000002fe060000]
 ジャック
 !******************************!
-<T>Isso funcionou!<W> <A3/0>Espere aqui,
+<T>Deu certo!<W> <A3/0>Espere aqui
 que vou ligá-la!
 !******************************!
 [7117030049000000:00b80b00000229000000024c070000]
