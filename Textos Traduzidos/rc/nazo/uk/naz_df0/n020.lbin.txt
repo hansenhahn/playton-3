@@ -59,8 +59,8 @@ dá para ir até esse quadrado por cima ou
 por baixo, você deve chegar a ele pelo
 quadrado à esquerda dele.
 
-Tem vezes que você precisa enxergar de
-outra forma para achar a solução.
+Há vezes em que você precisa enxergar
+por outro ângulo para achar a solução.
 !******************************!
 [f10b010010000000:023b050000]
 Aqui vai a sequência para passar
@@ -72,5 +72,6 @@ baixo e baixo. Você deve estar agora
 no quadrado inferior esquerdo.
 
 A verdade é que esse labirinto mal
-usa os quadrados em cima à direita.
+usa os quadrados no canto superior
+direito.
 !******************************!

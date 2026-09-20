@@ -42,7 +42,7 @@ ir reto no primeiro cruzamento.
 Desça no primeiro cruzamento e vire
 à esquerda no próximo.
 
-Agora desliza até o fim!
+Agora deslize!
 !******************************!
 [f00b01000f000000:02d2020000]
 Seguindo a Dica 2, assim que você

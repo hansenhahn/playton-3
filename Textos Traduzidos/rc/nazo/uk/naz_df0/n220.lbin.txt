@@ -6,9 +6,9 @@ n220a
 n220b
 !******************************!
 [eb0b01000a000000:0211000000]
-Mova esse grande bloco vermelho embaixo
-à esquerda para o quadrado marcado pela
-seta branca em cima à direita.
+Mova esse grande bloco vermelho no canto
+inferior esquerdo para o quadrado marcado
+pela seta branca no canto superior direito.
 
 Parece impossível, mas é possível.
 
@@ -17,9 +17,9 @@ Tente!
 [ec0b01000b000000:02b1000000]
 Você conseguiu!
 
-Na hora em que você tira o último bloco
-do caminho e revela o caminho para
-a saída... é satisfatório, não é?
+Na hora em que você desliza o último bloco
+para fora do caminho e revela a passagem
+para a saída... é uma sensação ótima, não é?
 !******************************!
 [ed0b01000c000000:0236010000]
 Que pena!
