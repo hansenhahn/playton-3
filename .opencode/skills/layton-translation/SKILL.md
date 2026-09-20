@@ -41,7 +41,7 @@ Skill para tradução **não-mecânica** de Professor Layton PT-BR. Use ao tradu
 
 ## Passe gramatical (obrigatório, automático — sem discussão)
 
-Gramática é **no-brainer**: corrige-se, não se discute. Rode `Spec/REGRAS_TRADUCAO.md` → *“Gramática PT-BR — correção automática”* sobre **todo** bloco do arquivo e aplique os fixes in-place. Não envie desvio gramatical como "proposta" ao usuário — só registre "já corrigido". Vale para: regência/crase (`chegar a/ao/à`, `páreo para`, `De que cor`, `olhar as`, `deslizar até`), subjuntivo após `supondo que`/`talvez`/`embora`, concordância verbal/nominal, gênero não inventado, ordem de advérbios, `embaixo`, dupla negativa, **continuidade de falas repetidas** (mesmo trecho `{''}` EN → PT idêntico) e voz do narrador (não coloquializar bloco sem falante).
+Gramática é **no-brainer**: corrige-se, não se discute. Rode `Spec/REGRAS_TRADUCAO.md` → *“Gramática PT-BR — correção automática”* sobre **todo** bloco do arquivo e aplique os fixes in-place. Não envie desvio gramatical como "proposta" ao usuário — só registre "já corrigido". Vale para: regência/crase (`chegar a/ao/à`, `páreo para`, `De que cor`, `olhar as`, `deslizar até`), subjuntivo após `supondo que`/`talvez`/`embora`, concordância verbal/nominal, gênero não inventado, ordem de advérbios, `embaixo`, dupla negativa, **continuidade de falas repetidas** (mesmo trecho `{''}` EN → PT idêntico), **naturalidade/não-literalidade** (EN literal não justifica PT-BR mecânico; calque/pleonasmo/idiom achatado = defeito) e voz do narrador (não coloquializar bloco sem falante).
 
 O passe é **sempre duplo**: no fim da tradução/revisão autônoma **e de novo** no fim do passe interativo, após as correções aprovadas — edits e reflows introduzem erros novos.
 

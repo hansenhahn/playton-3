@@ -122,7 +122,7 @@ O passe é **obrigatório duas vezes**:
 1. **No fim da revisão autônoma** (`review-puzzles`), antes de entregar ao humano.
 2. **No fim do passe interativo** (`analyze-puzzles`), **depois** de aplicar as correções aprovadas — edits e reflows introduzem erros novos.
 
-Cobre, no mínimo: regência/crase (`chegar a/ao/à`, `páreo para`, `De que cor`, `olhar as`, `deslizar até`, `aplicar-se a`), subjuntivo após `supondo que`/`talvez`/`embora`, concordância verbal/nominal (sujeito composto → plural), gênero não inventado (`C deve ser o segundo`), ordem de advérbios (`que juntos formam`), `embaixo`, dupla negativa, `já que` causal, **continuidade de falas repetidas** (mesmo trecho EN `{''}` → PT idêntico) e voz do narrador (bloco sem falante não coloquializa).
+Cobre, no mínimo: regência/crase (`chegar a/ao/à`, `páreo para`, `De que cor`, `olhar as`, `deslizar até`, `aplicar-se a`), subjuntivo após `supondo que`/`talvez`/`embora`, concordância verbal/nominal (sujeito composto → plural), gênero não inventado (`C deve ser o segundo`), ordem de advérbios (`que juntos formam`), `embaixo`, dupla negativa, `já que` causal, **continuidade de falas repetidas** (mesmo trecho EN `{''}` → PT idêntico), **naturalidade/não-literalidade** (EN literal não justifica PT-BR mecânico; calque/pleonasmo/idiom achatado = defeito) e voz do narrador (bloco sem falante não coloquializa).
 
 ## Reportar ≠ corrigir
 

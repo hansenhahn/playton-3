@@ -137,6 +137,9 @@ Tradução **não-mecânica**: cada personagem tem voz distinta (`Spec/Personage
 **Continuidade de falas repetidas**
 - O mesmo trecho EN entre `{''}` que reaparece em blocos diferentes (pergunta ↔ dica) **deve ter PT idêntico**. Divergência = defeito de continuidade; `qa_nazo.py` mecaniza esse check.
 
+**Naturalidade (não-literalidade)**
+- EN literal **não** justifica PT-BR mecânico: reescreva pelo **sentido**, não palavra a palavra (ex. `passing through time` → `vendo o tempo passar`, **não** `atravessando o tempo`). Calque sintático, idiom achatado e pleonasmo são **defeito**, não estilo (ver `layton-translation` §Revisão e `layton-qa`). Corrige-se automaticamente no passe gramatical.
+
 **Voz do narrador**
 - Bloco sem `{''}` de personagem (pergunta/acerto/erro/dica) é narração: não coloquializar (`Você não está pensando demais`, não `Não tá pensando demais`) nem "caipirizar".
 
