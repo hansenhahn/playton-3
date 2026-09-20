@@ -36,7 +36,7 @@ Pense de um ângulo diferente.
 [ee0b01000d000000:0215020000]
 A porta só se abre se você interpretar
 corretamente as instruções. Não tem
-nenhuma pegadinha suja aqui. É só que
+nada muito complicado aqui. É só que
 você precisa entender de outra forma.
 !******************************!
 [ef0b01000e000000:02b6020000]
@@ -52,12 +52,12 @@ o número 2 quando acesos.
 !******************************!
 [f10b010010000000:0299030000]
 Aperte em ordem: 1, 2, 3, 6, 9, 8, 7...
-Talvez a forma de um certo número
-esteja sendo criada.
+Você deve começar a ver a forma de um
+certo número surgir.
 
 Exato! O truque é apertar os botões
-que formam juntos a forma do número
-2 quando acesos. Bem legal, não é?
+que juntos formam o número 2 quando
+acesos. Bem legal, não é?
 
 Aliás, viu como tem apenas quatro
 botões apagados? A outra parte das

@@ -40,7 +40,7 @@ a sua forma de pensar, em vez disso.
 [ee0b01000d000000:02f5020000]
 Não se preocupe com quantos anos cada
 irmã tinha um ano atrás. O importante
-é a idade delas daqui a um ano. Qual
+é a idade delas daqui a um ano. Qual é
 o significado de {''}cortar os
 números em duas partes{''}?
 !******************************!
@@ -50,9 +50,9 @@ em duas partes, de cima pra baixo{''}
 significa?
 
 Pense nos números de 0 a 9. Desses,
-só os que possuem um significado numeral
-mesmo quando cortados na metade
-são o 1 e o 8.
+só os que possuem um significado
+numérico mesmo quando cortados na
+metade são o 1 e o 8.
 !******************************!
 [f00b01000f000000:027d040000]
 Se a irmã mais velha tivesse 1 ano

@@ -3,6 +3,7 @@
 
 Uso:
     python3 .opencode/scripts/qa_nazo.py --df 0 [--root .] [--report qa_nazo_df0.json] [--md qa_nazo_df0.md]
+    python3 .opencode/scripts/qa_nazo.py --df 0 --exhaustive   # dump EN<->PT de TODOS os blocos + qa_nazo_df0.audit.md
     python3 .opencode/scripts/qa_nazo.py --all
     python3 .opencode/scripts/qa_nazo.py --verify-font   # audita CWDH/CMAP
 
@@ -177,6 +178,37 @@ GLOSSARY_PHRASES = [
     (re.compile(r"\bBrilliant!"), r"excelente",
      "Brilliant! -> Excelente! (REGRAS_TRADUCAO.md:33)"),
 ]
+
+# Continuidade de falas: o mesmo trecho EN entre {''} que reaparece em blocos
+# diferentes (pergunta <-> dica) deve ter PT identico (REGRAS_TRADUCAO.md,
+# "Continuidade de falas repetidas"). Divergencia = WARN.
+QUOTE_RE = re.compile(r"\{''\}(.*?)\{''\}", re.S)
+
+# Watchlist gramatical de alta precisao (INFO): padroes que quase sempre
+# indicam desvio de PT-BR. Nao bloqueiam o gate; alimentam o passe gramatical
+# obrigatorio (REGRAS_TRADUCAO.md, "Gramatica PT-BR").
+GRAMMAR_WATCH = [
+    (re.compile(r"\bem baixo\b", re.I), "ortografia: use 'embaixo'"),
+    (re.compile(r"[Ss]upondo que[^\n]*\bn[ãa]o pode\b"),
+     "subjuntivo: 'supondo que ... nao possa'"),
+    (re.compile(r"\bp[áa]reo contra\b", re.I),
+     "regência: 'páreo para', não 'páreo contra'"),
+    (re.compile(r"\bolh\w+[^\n]*\bde perto nas\b", re.I),
+     "regência: 'olhar as' (sem 'nas')"),
+    (re.compile(r"\bEm que cor\b", re.I), "regência: 'De que cor'"),
+    (re.compile(r"\bchegar (?:na|no|nele|nela|neles|nelas)\b", re.I),
+     "regência/crase: 'chegar a/ao/à/a ele'"),
+    (re.compile(r"\bdesliz\w+ (?:a|à|ao) parede\b", re.I),
+     "regência: 'deslizar até a parede'"),
+    (re.compile(r"\bfalar sobre [A-D]\b"), "fidelidade: 'aplicar-se a'"),
+    (re.compile(r"\bformam juntos\b", re.I), "ordem: 'que juntos formam'"),
+]
+
+
+def norm_quote(s):
+    """Normaliza aspas de fala para comparar continuidade EN<->PT."""
+    return re.sub(r"\s+", " ", TAG_RE.sub("", s)).strip()
+
 
 
 def decode_font(nftr_path):
@@ -472,6 +504,13 @@ def check_pair(en_sec, pt_sec, f, puzzle, wfunc, block_idx=0):
             add("WARN", "glossario", "PT", en_sec["start_line"] - 1, pt_sec["start_line"],
                 f"EN '{m.group(0)}' sem '{prx}' no PT", rule)
 
+    # watchlist gramatical (INFO) — alimenta o passe gramatical obrigatorio
+    for grx, note in GRAMMAR_WATCH:
+        m = grx.search(pt_plain)
+        if m:
+            add("INFO", "gramatica", "PT", en_sec["start_line"] - 1, pt_sec["start_line"],
+                f"{note}: '{m.group(0).strip()}'", "REGRAS_TRADUCAO.md/gramatica")
+
     return findings
 
 
@@ -513,6 +552,24 @@ def check_file(en_path, pt_path, wfunc):
 
     for i, (es, ps) in enumerate(zip(en_secs, pt_secs)):
         findings.extend(check_pair(es, ps, os.path.basename(en_path), puzzle, wfunc, i))
+
+    # continuidade de falas repetidas: mesmo trecho EN {''}-> PT identico
+    en_quotes = [norm_quote(q) for q in QUOTE_RE.findall(en_txt)]
+    pt_quotes = [norm_quote(q) for q in QUOTE_RE.findall(pt_txt)]
+    if len(en_quotes) == len(pt_quotes) and len(en_quotes) > 1:
+        by_en = collections.defaultdict(list)
+        for i, q in enumerate(en_quotes):
+            by_en[q].append(i)
+        for q, idxs in by_en.items():
+            if len(idxs) > 1 and len({pt_quotes[i] for i in idxs}) > 1:
+                findings.append({
+                    "sev": "WARN", "cat": "continuidade", "target": "PT",
+                    "file": os.path.basename(en_path), "puzzle": puzzle,
+                    "block": idxs[0], "line": 1,
+                    "msg": (f"fala repetida EN '{q[:60]}' com PT divergente: "
+                            + " | ".join(f"'{pt_quotes[i][:40]}'" for i in idxs)),
+                    "rule": "REGRAS_TRADUCAO.md/continuidade",
+                })
     return findings
 
 
@@ -589,6 +646,70 @@ def write_reports(root, report, out_json, out_md):
     return 1 if fails else 0
 
 
+def write_audit(root, report, group, out_path):
+    """Dump EN<->PT de TODOS os blocos para forcar leitura exaustiva.
+
+    `gate=PASS` nao significa "sem achados": este artefato existe para que a
+    varredura bloco-a-bloco seja auditavel e para que a proxima run COMPARE com
+    a anterior em vez de re-resumir. Nao julga: so mostra o par EN<->PT e marca
+    os blocos que o harness flagrou.
+    """
+    en_dir = os.path.join(root, "Textos Originais", "rc", "nazo", "uk", group)
+    pt_dir = os.path.join(root, "Textos Traduzidos", "rc", "nazo", "uk", group)
+    files = sorted(f for f in os.listdir(en_dir) if f.endswith(".lbin.txt"))
+    by_block = collections.defaultdict(list)
+    for x in report["findings"]:
+        by_block[(x.get("file"), x.get("role"), x.get("block"))].append(x)
+
+    rows = []
+    for f in files:
+        en_txt = open(os.path.join(en_dir, f), encoding="utf-8", errors="replace").read()
+        pt_path = os.path.join(pt_dir, f)
+        pt_txt = (open(pt_path, encoding="utf-8", errors="replace").read()
+                  if os.path.exists(pt_path) else "")
+        en_secs = parse_sections(en_txt)
+        pt_secs = parse_sections(pt_txt)
+        for i, es in enumerate(en_secs):
+            ps = pt_secs[i] if i < len(pt_secs) else None
+            rows.append({
+                "file": f, "puzzle": f.split(".")[0], "block": i,
+                "role": es["role"], "line": es["start_line"],
+                "en": block_text(es),
+                "pt": block_text(ps) if ps is not None else "(sem par PT)",
+                "findings": by_block.get((f, es["role"], i), []),
+            })
+
+    total = len(rows)
+    empty = sum(1 for r in rows if not r["en"].strip())
+    flagged = sum(1 for r in rows if r["findings"])
+    with open(out_path, "w", encoding="utf-8") as fh:
+        fh.write(f"# Auditoria exaustiva {group} — todos os blocos EN<->PT\n\n")
+        fh.write(f"Blocos: **{total}** ({empty} vazios/placeholder) · "
+                 f"com achado do harness: **{flagged}**\n\n")
+        fh.write("> `gate=PASS` NAO significa \"sem achados\". Leia cada bloco e "
+                 "atribua veredito nas 7 dimensoes: resposta/condicao, fidelidade "
+                 "(adicao/omissao), gramatica/ortografia, voz/registro, glossario, "
+                 "tokens/tags, caixa (fontq 230/210 + teto 14/12). Nada pode ser "
+                 "omitido por gravidade; priorizar so ordena, nao filtra.\n\n")
+        last = None
+        for r in rows:
+            if r["file"] != last:
+                fh.write(f"\n# {r['file']}\n")
+                last = r["file"]
+            sev = ""
+            if r["findings"]:
+                sev = " ⚠ " + ", ".join(sorted({x["sev"] for x in r["findings"]}))
+            fh.write(f"\n## {r['puzzle']}/{ROLE_PT.get(r['role'], r['role'])} "
+                     f"(linha {r['line']}){sev}\n\n")
+            fh.write("**EN:**\n```\n" + (r["en"] or "(vazio)") + "\n```\n\n")
+            fh.write("**PT:**\n```\n" + (r["pt"] or "(vazio)") + "\n```\n")
+            for x in r["findings"]:
+                fh.write(f"- `{x['sev']}/{x['cat']}` {x['msg']}"
+                         + (f" [{x['rule']}]" if x.get("rule") else "") + "\n")
+    print(f"auditoria: {out_path} ({total} blocos, {empty} vazios, {flagged} com achado)")
+    return out_path
+
+
 def main():
     ap = argparse.ArgumentParser(description="Harness QA layton-qa — enigmas (nazo)")
     ap.add_argument("--df", default=None, help="grupo 0..9 (naz_dfN)")
@@ -596,6 +717,8 @@ def main():
     ap.add_argument("--root", default=".", help="raiz do repo")
     ap.add_argument("--report", default=None, help="json de saida")
     ap.add_argument("--md", default=None, help="resumo markdown")
+    ap.add_argument("--exhaustive", action="store_true",
+                    help="dump EN<->PT de todos os blocos + qa_nazo_dfN.audit.md")
     ap.add_argument("--verify-font", action="store_true",
                     help="confere CWDH/CMAP do .nftr contra Spec/Fontes_NFTR.md e sai")
     args = ap.parse_args()
@@ -622,6 +745,8 @@ def main():
         out_md = args.md or f"qa_nazo_{suffix}.md"
         if write_reports(args.root, rep, out_json, out_md):
             rc = 1
+        if args.exhaustive:
+            write_audit(args.root, rep, g, f"qa_nazo_{suffix}.audit.md")
     return rc
 
 

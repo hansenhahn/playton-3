@@ -61,6 +61,7 @@ corrija os FAILs, julgue os INFO/WARN com `Capitulo_XX` + dossiê, e cite
 8. **Cheque pleonasmo (contexto):** acuse redundância gerada em PT ausente em EN, validando com contexto narrativo. Só acuse se EN/contexto não for redundante.
 9. **Cheque semântico (o que a primeira iteração não pega):** faça back-translation mental PT→EN com o capítulo aberto. Desambiguie `from` temporal vs destinatário, deixis, negação e inversões de papel consultando `Capitulo_XX.md`.
 10. **Corrija cirurgicamente:** edite `Textos Traduzidos` **in-place**, preservando tags/quebras. Troque só o necessário e revalide com leitura contextual. Nunca apague `<W>` ou mova tag para fim da frase.
+11. **Passe gramatical obrigatório (automático, sem discussão):** aplique `Spec/REGRAS_TRADUCAO.md` → *“Gramática PT-BR — correção automática”* em **todos** os blocos — regência/crase, subjuntivo (`supondo que`/`talvez`), concordância verbal/nominal, gênero não inventado, ordem de advérbios, `embaixo`, dupla negativa, `já que` causal, **continuidade de falas repetidas** (`{''}` EN idêntico → PT idêntico) e voz do narrador. Gramática **corrige-se, não se discute**: o relatório registra "já corrigido", nunca "proposta". Rode o passe **de novo** ao final, após as correções aprovadas.
 
 ## O que corrigir vs. o que preservar
 

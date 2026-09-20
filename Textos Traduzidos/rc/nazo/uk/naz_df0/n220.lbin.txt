@@ -12,7 +12,7 @@ seta branca em cima à direita.
 
 Parece impossível, mas é possível.
 
-Tente e boa sorte!
+Tente!
 !******************************!
 [ec0b01000b000000:02b1000000]
 Você conseguiu!
@@ -32,8 +32,9 @@ não desista. É possível.
 
 Ache uma maneira de deslocar o bloco
 roxo grande e os blocos verdes. Vai
-abrir um enorme espaço e te permitir
-resolver o enigma com mais facilidade.
+abrir um espaço surpreendentemente
+grande e te permitir resolver o enigma
+com mais facilidade.
 !******************************!
 [ef0b01000e000000:0231020000]
 

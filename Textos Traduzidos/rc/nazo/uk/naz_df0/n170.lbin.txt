@@ -19,14 +19,14 @@ Muito bem!
 O ângulo externo feito pelos ponteiros
 é maior que o ângulo interno de todas as
 três horas. Como mostrado acima, o
-ângulo externo é maior às 2:20.
+ângulo externo é o maior às 2:20.
 !******************************!
 [ed0b01000c000000:0257010000]
 Azar!
 
 Esse é um enigma, afinal de contas,
 então a resposta não é tão simples
-assim quanto parece.
+à primeira vista quanto parece.
 !******************************!
 [ee0b01000d000000:02c4010000]
 Lembre-se que cada hora, na verdade,

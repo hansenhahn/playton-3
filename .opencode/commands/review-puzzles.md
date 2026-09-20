@@ -76,11 +76,13 @@ Cada arquivo tem **8 blocos** iniciados por uma linha `[...]`, e as linhas `[...
    - medir largura com `fontq.nftr` antes de fechar o fix (hard 230 / safe 210);
    - troque só o necessário; não reescreva o enigma inteiro.
 
-6. **Reexecute o harness** ao final e confirme `gate=PASS` (0 FAIL) e que a estrutura permanece idêntica aos Originais.
+6. **Passe gramatical obrigatório (automático, sem discussão):** aplique `Spec/REGRAS_TRADUCAO.md` → *“Gramática PT-BR — correção automática”* em **todos** os blocos, corrigindo in-place: regência/crase (`chegar a/ao/à`, `páreo para`, `De que cor`, `olhar as`, `deslizar até`, `aplicar-se a`), subjuntivo após `supondo que`/`talvez`/`embora`, concordância verbal/nominal (sujeito composto → plural), gênero não inventado, ordem de advérbios, `embaixo`, dupla negativa, `já que` causal, **continuidade de falas repetidas** (mesmo trecho `{''}` EN → PT idêntico) e voz do narrador. Gramática **corrige-se, não se discute**; no relatório entra como "já corrigido". Rode este passe **de novo** após qualquer correção posterior.
+
+7. **Reexecute o harness** ao final e confirme `gate=PASS` (0 FAIL) e que a estrutura permanece idêntica aos Originais.
 
 ## O que corrigir vs. preservar
 
-- **CORRIGIR:** omissão/inversão de resposta (dia/cor/número/direção), token funcional perdido, tag/token quebrado, glossário, largura `>230px`, hifenização, `�`.
+- **CORRIGIR:** omissão/inversão de resposta (dia/cor/número/direção), token funcional perdido, tag/token quebrado, glossário, largura `>230px`, hifenização, `�`, e **qualquer desvio gramatical** (regência/crase, subjuntivo, concordância, gênero, ordem, continuidade de fala) — gramática é auto-correção, não discussão.
 - **PRESERVAR:** paráfrase fluente que mantém sentido e resposta; sinônimo de feedback aceitável; estilo do tradutor.
 
 ## Relatório final

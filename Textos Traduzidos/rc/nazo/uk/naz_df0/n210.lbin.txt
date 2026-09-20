@@ -7,14 +7,14 @@ n210b
 !******************************!
 [eb0b01000a000000:0211000000]
 Essa é uma foto de cabines telefônicas
-tirada nas ruas de Londres. As cabines
-eram de um vermelho vivo, mas
+tirada numa esquina de Londres.
+As cabines eram de um vermelho vivo, mas
 infelizmente a foto acabou desbotando.
-Há quatro cabines telefônicas na foto, 
-mas só três funcionam.
+Há quatro cabines telefônicas na foto,
+mas só três têm telefone funcionando.
 
-Qual cabine telefônica é a única
-que não funciona?
+Qual cabine telefônica é a
+que não pode ser usada?
 !******************************!
 [ec0b01000b000000:022a010000]
 Ligou bem os pontos!
@@ -24,7 +24,7 @@ Ligou bem os pontos!
 As setas amarelas mostram a direção da
 luz do sol. Portanto, o lado direito das
 cabines deveria estar sombreado. Mas
-olhando como a sombra reflete no lado
+olhando como a sombra incide no lado
 esquerdo da cabine D, fica fácil de
 notar que é a imagem espelhada da cabine C.
 

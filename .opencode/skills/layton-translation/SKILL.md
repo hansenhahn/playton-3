@@ -39,6 +39,12 @@ Skill para tradução **não-mecânica** de Professor Layton PT-BR. Use ao tradu
    - **Oralidade:** leia **todo texto de personagem** (dublado `<V>` ou não — `レイトン`/`ルーク`/`バートン` etc.; não é narração) em voz alta como o falante do dossiê (idade/classe/estado). Se soar escrito, literal ou não falável, reescreva pelo sentimento antes de revalidar caixa.
 8. **Checklist:** `REGRAS_TRADUCAO.md:6` (enigma 100%, Livro, moeda, Inspetor/Agente, placeholders, 3 linhas, largura real da NFTR com placeholders decodificados, `windows-1252`/`utf-8` sem BOM) + completude e oralidade acima.
 
+## Passe gramatical (obrigatório, automático — sem discussão)
+
+Gramática é **no-brainer**: corrige-se, não se discute. Rode `Spec/REGRAS_TRADUCAO.md` → *“Gramática PT-BR — correção automática”* sobre **todo** bloco do arquivo e aplique os fixes in-place. Não envie desvio gramatical como "proposta" ao usuário — só registre "já corrigido". Vale para: regência/crase (`chegar a/ao/à`, `páreo para`, `De que cor`, `olhar as`, `deslizar até`), subjuntivo após `supondo que`/`talvez`/`embora`, concordância verbal/nominal, gênero não inventado, ordem de advérbios, `embaixo`, dupla negativa, **continuidade de falas repetidas** (mesmo trecho `{''}` EN → PT idêntico), **naturalidade/não-literalidade** (EN literal não justifica PT-BR mecânico; calque/pleonasmo/idiom achatado = defeito) e voz do narrador (não coloquializar bloco sem falante).
+
+O passe é **sempre duplo**: no fim da tradução/revisão autônoma **e de novo** no fim do passe interativo, após as correções aprovadas — edits e reflows introduzem erros novos.
+
 ## Revisão — contexto (quando já existe `Textos Traduzidos`)
 
 Revisão não é retradução: é comparar `Textos Originais` vs `Textos Traduzidos` e julgar se a tradução soa estranha **no registro da cena e do falante**. Não use lista fixa de exemplos — infira pelo contexto narrativo e pelo dossiê. Eixos para avaliar:

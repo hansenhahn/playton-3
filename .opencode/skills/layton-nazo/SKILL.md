@@ -114,6 +114,16 @@ Para cada par `Originais ↔ Textos Traduzidos`, leia **pergunta + acerto + erro
 
 Nunca julgue a frase isolada: o número na dica só faz sentido com a pergunta; a cor no acerto só faz sentido com o enunciado.
 
+## Passe gramatical obrigatório (auto-correção, sem discussão)
+
+> **Regra:** gramática é **no-brainer**. Todo desvio gramatical é **corrigido automaticamente**, não vira item de discussão. O relatório registra "já corrigido", nunca "proposta". A fonte da lista é `Spec/REGRAS_TRADUCAO.md` → *“Gramática PT-BR — correção automática”*.
+
+O passe é **obrigatório duas vezes**:
+1. **No fim da revisão autônoma** (`review-puzzles`), antes de entregar ao humano.
+2. **No fim do passe interativo** (`analyze-puzzles`), **depois** de aplicar as correções aprovadas — edits e reflows introduzem erros novos.
+
+Cobre, no mínimo: regência/crase (`chegar a/ao/à`, `páreo para`, `De que cor`, `olhar as`, `deslizar até`, `aplicar-se a`), subjuntivo após `supondo que`/`talvez`/`embora`, concordância verbal/nominal (sujeito composto → plural), gênero não inventado (`C deve ser o segundo`), ordem de advérbios (`que juntos formam`), `embaixo`, dupla negativa, `já que` causal, **continuidade de falas repetidas** (mesmo trecho EN `{''}` → PT idêntico), **naturalidade/não-literalidade** (EN literal não justifica PT-BR mecânico; calque/pleonasmo/idiom achatado = defeito) e voz do narrador (bloco sem falante não coloquializa).
+
 ## Reportar ≠ corrigir
 
 Preservar estilo **não** autoriza omitir do relatório. **Todo** desvio — de fidelidade (adição/omissão/inversão), gramática/ortografia, voz/registro ou rótulo — deve ser **REPORTADO**, ainda que de gravidade baixa; só a **CORREÇÃO** é subordinada à solvabilidade e à aprovação do usuário. `gate=PASS`/`FAIL=0` **não** significa "sem achados": o harness cobre só o mecanizável.
