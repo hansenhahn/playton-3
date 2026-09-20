@@ -11,6 +11,8 @@ Skill de **segunda iteração** para os 224 enigmas de Professor Layton PT-BR. P
 
 > **Fidelidade semântica — nem mais, nem menos:** o enigma PT deve ter **o mesmo sentido** do original. Não é tradução literal, mas é proibido **acrescentar** fala, regra, dica ou condição que o EN não tem e **omitir** o que ele tem. Ex.: em `n160`, o PT antigo inventou na *pergunta* a regra de girar/virar (que só existe no bloco *erro* e na *dica 1*) e apagou o aviso `not to scale`.
 >
+> **Compreensão > literalidade:** a fidelidade se subordina ao entendimento. Quando a construção do EN for **trava-língua, ambígua ou de ordem impossível em PT** (ex. `n010`: *yesterday's day after tomorrow* / *tomorrow's day before yesterday*), é lícito **reordenar/parafrasear** para que o jogador entenda — desde que a **resposta e as condições fiquem idênticas** e nada seja acrescentado ou omitido. O que não se admite é o 1:1 ilegível que atrapalha a leitura do enigma.
+>
 > **Voz ≠ invenção:** localizar o sotaque pelo dossiê (escocês→caipira `ocê/ocês`, cockney, etc.) é **obrigatório** e **não** é conteúdo inventado. Conteúdo inventado é criar fala/regra/dica inexistente no original. Se o dossiê não cobre o falante, não invente sotaque: registre "falante não mapeado".
 
 ## Quando usar
@@ -31,7 +33,7 @@ Compartilhadas (não duplicar — ler a fonte):
 Próprias do enigma (esta skill):
 
 5. **Harness:** `.opencode/scripts/qa_nazo.py` — única ferramenta de medida.
-6. **Comandos:** `review-puzzles` (corrige in-place) e `analyze-puzzles` (só relatório).
+6. **Comandos:** `review-puzzles` (revisão automatizada, corrige in-place) e `analyze-puzzles` (passe final em conversa, relatório + correção in-place após aprovação do usuário).
 
 ## Estrutura de um enigma (224/224 arquivos)
 
@@ -112,10 +114,18 @@ Para cada par `Originais ↔ Textos Traduzidos`, leia **pergunta + acerto + erro
 
 Nunca julgue a frase isolada: o número na dica só faz sentido com a pergunta; a cor no acerto só faz sentido com o enunciado.
 
+## Reportar ≠ corrigir
+
+Preservar estilo **não** autoriza omitir do relatório. **Todo** desvio — de fidelidade (adição/omissão/inversão), gramática/ortografia, voz/registro ou rótulo — deve ser **REPORTADO**, ainda que de gravidade baixa; só a **CORREÇÃO** é subordinada à solvabilidade e à aprovação do usuário. `gate=PASS`/`FAIL=0` **não** significa "sem achados": o harness cobre só o mecanizável.
+
+- Varredura **bloco a bloco** via `qa_nazo.py --df N --exhaustive` (`qa_nazo_dfN.audit.md`), com veredito nas 7 dimensões do protocolo.
+- **Priorizar só ordena; não filtra.** Tabela completa primeiro, síntese depois.
+- Armadilhas que costumam escapar: `ou`↔`e`; `unknown`/`probably`→certeza; `only`/`at least`/`exactly` perdidos; palavras adicionadas (`ao redor`, `ou estranha`); interjeições omitidas; gênero/número inventado (`a nadadora C`); plural/subjuntivo (`18 ano`, `Embora vemos`); idiom→literal; regionalismo onde o EN é neutro.
+
 ## O que corrigir vs. preservar
 
 - **CORRIGIR:** omissão/inversão de resposta (dia/cor/número/direção), **conteúdo inventado** (regra/dica/fala que o EN não tem), **omissão** de conteúdo do EN, token funcional perdido, tag/token quebrado, glossário (incl. `cartola`/`boné`, `Família`, `Chefe`), voz/registro fora do dossiê, largura `>230px`, hifenização, `�`, linhas acima do teto.
-- **PRESERVAR:** paráfrase fluente em PT natural que mantém o **mesmo sentido e resposta**; sinônimo de feedback aceitável; **sotaque localizado pelo dossiê** (requisito, não invenção); estilo do tradutor.
+- **PRESERVAR:** paráfrase fluente em PT natural que mantém o **mesmo sentido e resposta**; **reordenação/paráfrase de trava-língua ou construção ambígua** (`n010`) que preserve resposta e condições; sinônimo de feedback aceitável; **sotaque localizado pelo dossiê** (requisito, não invenção); estilo do tradutor.
 
 ## Saída esperada
 
