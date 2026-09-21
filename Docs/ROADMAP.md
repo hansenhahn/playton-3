@@ -1,7 +1,7 @@
 # Roadmap — Tradução PT-BR | Professor Layton and the Unwound Future
 
 > **Última atualização:** 2026-09-20
-> **Base:** `master` @ `f61e7991`
+> **Base:** `master` @ `fef16d4c`
 > **Métrica:** comparação `Textos Originais/txt/uk` × `Textos Traduzidos/txt/uk`
 > (e `Textos Originais/rc/nazo/uk` × `Textos Traduzidos/rc/nazo/uk`). Uma unidade
 > conta como traduzida quando o PT difere do EN (tags LSCR, headers `[...]` e
@@ -14,8 +14,8 @@
 
 | Frente | Feito | Total | % |
 |---|---|---|---|
-| História (caps 00–14) — capítulos | 14 | 15 | **93%** |
-| História (caps 00–14) — unidades de texto | 4.712 | 4.915 | **96%** |
+| História (caps 00–14) — capítulos | 15 | 15 | **100%** |
+| História (caps 00–14) — unidades de texto | 4.848 | 4.915 | **99%** |
 | Enigmas (naz_df0–df9) — grupos traduzidos | 10 | 10 | **100%** |
 | Enigmas — grupos com QA | 1 (df0) | 10 | **10%** |
 | Extras (18/19/20/30/40/50/90/99) | 0 | 8 | **0%** |
@@ -43,8 +43,8 @@
 | 10 | 47 | 421 | 98% | ✅ #26 |
 | 11 | 28 | 257 | ~100% (257/257 blocos) | ✅ #43 — pair review pendente |
 | 12 | 21 | 214 | ~100% (205/212 blocos; 7 idênticos por natureza) | 🔶 #44 — pair review pendente |
-| 13 | 42 | 309 | ~100% (309/309 blocos) | 🔶 este PR — pair review pendente |
-| 14 | 15 | 136 | 0% | — |
+| 13 | 42 | 309 | ~100% (309/309 blocos) | 🔶 #46 — pair review pendente |
+| 14 | 15 | 136 | ~100% (132/136 blocos; 4 idênticos por natureza) | 🔶 este PR — pair review pendente |
 
 ### 2.2 Extras
 
@@ -97,14 +97,13 @@ O número útil é **403 imagens efetivamente localizadas**.
 
 ## 5. Próximos passos (ordem de impacto)
 
-1. **Cap. 14** — fecho da história (~136 unidades). Caps 12–13 com pair review
-   pendente.
+1. **História completa (caps 00–14)** — pair review dos caps 11–14 pendente.
 2. **QA dos enigmas `naz_df1`–`df9`** (9 grupos) — tradução existe; falta passe
    semântico/voz/gramática do `layton-nazo`.
 3. **Extras 18/19/20/30** — traduzir (Spec já existe para todos).
 4. **caps 40/50/90/99** — decidir escopo (journal/ending/menus); cap. 40 está
    com placeholder em inglês.
-5. **Fechar PRs abertos:** #41 (caixas cap. 01) e #42 (harness).
+5. **Fechar PRs abertos:** #41 (caixas cap. 01).
 
 ---
 
@@ -116,3 +115,4 @@ O número útil é **403 imagens efetivamente localizadas**.
 | 2026-09-20 | Cap. 11 traduzido (257 blocos) e QA automático (harness PASS); pair review pendente. Caps 12–14 pendentes. |
 | 2026-09-20 | Cap. 12 traduzido (212 blocos) e QA semântico/voz (5 correções cirúrgicas); pair review pendente. Caps 13–14 pendentes. |
 | 2026-09-20 | Cap. 13 traduzido (309 blocos) e QA semântico/voz/glossário (9 correções cirúrgicas); pair review pendente. Cap. 14 pendente. |
+| 2026-09-20 | Cap. 14 traduzido (136 blocos; 132/136, 4 idênticos por natureza) e QA semântico/voz (4 correções cirúrgicas); pair review pendente. História 00–14 completa. |

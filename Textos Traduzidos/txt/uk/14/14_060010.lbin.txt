@@ -1,0 +1,46 @@
+[7017010000000000:0007000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T><A5/0>Seja franco comigo, Layton. Você
+consegue mesmo parar aquele aparelho?
+!******************************!
+[7117030004000000:000a00000002000000000257000000]
+チェルミー
+!******************************!
+<T><A4/2>Se deixarmos aquilo continuar, não dá
+para saber quantos danos pode causar a
+Londres!
+!******************************!
+[7117030007000000:000a00000002b100000002ba000000]
+レイトン
+!******************************!
+<T>Farei o possível para parar a máquina.
+Enquanto isso, preciso que tire todos
+daqui.
+!******************************!
+[711703000a000000:000a00000002b1000000021b010000]
+レイトン
+!******************************!
+<T>Leve todos até a relojoaria e os ponha na
+superfície o mais rápido possível.
+!******************************!
+[711703000d000000:000a0000000200000000026e010000]
+チェルミー
+!******************************!
+<T>Não se preocupe, Layton. Vou garantir
+que todos estejam a salvo. Foque em parar
+aquela máquina.
+!******************************!
+[7117030010000000:000a00000002b100000002cb010000]
+レイトン
+!******************************!
+<T>Obrigado, Inspetor.
+!******************************!
+[7117030013000000:0014000000020000000002e4010000]
+チェルミー
+!******************************!
+<T>Vou garantir que todos evacuem a área em
+segurança. Você só foque em parar o Clive
+e a máquina dele.
+!******************************!
