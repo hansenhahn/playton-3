@@ -3,7 +3,7 @@
 タイラー
 !******************************!
 <T><A3/1>Cuidado onde pisa, rapazes!<W>
-Canteiros de obra são lugares
+Canteiros de obras são lugares
 perigosos, sabia!
 !******************************!
 [7117030004000000:000a000000025b0000000264000000]

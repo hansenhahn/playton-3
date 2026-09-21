@@ -55,8 +55,8 @@ um bom enigma...
 ベッキー
 !******************************!
 <T>Eu também! Que tal assim:
-você resolve este enigma para mim
-e eu digo como chegar à estação.
+resolva este enigma para mim e
+eu digo como chegar à estação.
 !******************************!
 [711703001c000000:00e8030000020000000002e6020000]
 ベッキー

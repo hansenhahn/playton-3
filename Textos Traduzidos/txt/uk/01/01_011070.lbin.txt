@@ -16,7 +16,7 @@ muito bem.
 [7117030007000000:000a000000020000000002d1000000]
 ルーク
 !******************************!
-<T>Ah, já sei! Acho que sei o
+<T>Ah, espera aí! Acho que sei o
 que aconteceu!<W><A3/2> A gente deve ter
 saído da loja por outra porta.
 !******************************!

@@ -16,7 +16,7 @@ me mudei para cá, há dois anos.
 [7117030007000000:000a000000020000000002d1000000]
 ルーク
 !******************************!
-<T>Há dois anos? Mas...<W> o pôster
+<T>Há dois anos? Mas...<W> o cartaz
 diz que os ônibus só vão parar
 daqui a cinco anos.
 !******************************!
@@ -24,7 +24,7 @@ daqui a cinco anos.
 アデリン
 !******************************!
 <T>Do que você está falando?<W>
-Esse pôster tem cinco anos!<A3/0> Conta
+Esse cartaz tem cinco anos!<A3/0> Conta
 não é seu forte, não é, rapazinho?
 !******************************!
 [711703000d000000:000a00000002000000000299010000]
