@@ -3,8 +3,8 @@
 タイラー
 !******************************!
 <T><A3/1>Cuidado onde pisa, rapazes!<W>
-Canteiro de obras é lugar
-perigoso, sabia!
+Canteiros de obras são lugares
+perigosos, sabia!
 !******************************!
 [7117030004000000:000a000000025b0000000264000000]
 レイトン
@@ -21,8 +21,8 @@ passamos por aqui antes.
 [711703000a000000:000a000000025b00000002ea000000]
 レイトン
 !******************************!
-<T>Quando começou o trabalho
-aqui?
+<T>Quando começou
+o trabalho aqui?
 !******************************!
 [711703000d000000:000a0000000200000000020e010000]
 タイラー

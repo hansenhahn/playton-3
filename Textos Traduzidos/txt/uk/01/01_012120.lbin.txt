@@ -9,8 +9,8 @@ baixinho?
 ルーク
 !******************************!
 <T>Ah, er, oi... A gente não
-acabou de se encontrar na frente
-do hotel?
+acabou de se encontrar na
+frente do hotel?
 !******************************!
 [7117030007000000:000a00000002000000000284000000]
 クローンマフィア
@@ -42,9 +42,9 @@ não vai dar no pé agora.
 [7117030013000000:000a000000020000000002ed010000]
 クローンマフィア
 !******************************!
-<T>Ficar plantado o dia todo
-é um tédio danado. Ver você
-se contorcer com o enigma ajuda.
+<T>Ficar plantado o dia todo é um tédio
+danado. Ver você se contorcer com
+o enigma vai ajudar a passar o tempo.
 !******************************!
 [7117030016000000:00e80300000200000000025d020000]
 クローンマフィア

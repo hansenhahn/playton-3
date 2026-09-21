@@ -9,8 +9,8 @@ da gerente do hotel, Margaret.
 [7117030004000000:000a00000002000000000263000000]
 ナレーション
 !******************************!
-<T>O minijogo do Carrinho foi
-adicionado à mala.
+<T>O minijogo do Carrinho de
+Brinquedo foi adicionado à mala.
 !******************************!
 [7117030007000000:000a00000002000000000298000000]
 ナレーション

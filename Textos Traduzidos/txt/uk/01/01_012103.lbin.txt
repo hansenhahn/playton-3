@@ -17,8 +17,8 @@
 [711703000a000000:000a0000000235000000027e000000]
 ルーク
 !******************************!
-<T>Isso mesmo!
-O que posso fazer por você?
+<T>Isso mesmo! O que posso
+fazer por você?
 !******************************!
 [711703000d000000:000a000000020000000002a6000000]
 マーガレット
@@ -36,7 +36,7 @@ um presente de boas-vindas.
 [7117030013000000:000a00000002350000000247010000]
 ルーク
 !******************************!
-<T><A4/1>Um presente? Para mim?
+<T><A4/1>Um presente? Pra mim?
 !******************************!
 [7117030016000000:000a00000002000000000260010000]
 マーガレット
@@ -60,7 +60,8 @@ carrinhos de brinquedo!
 ベッキー
 !******************************!
 <T><A1/5>Eu? Hah!<W> De jeito nenhum.
-Não gosto de brinquedos de criança.
+Não gosto de brinquedos
+de criança.
 !******************************!
 [7117030022000000:001400000002350000000235020000]
 ルーク
@@ -71,8 +72,7 @@ Não gosto de brinquedos de criança.
 ベッキー
 !******************************!
 <T><A1/2>Não que haja algo de errado
-em gostar de brinquedos,
-claro.
+em gostar de brinquedos, claro.
 !******************************!
 [7117030028000000:001400000002a90100000297020000]
 ベッキー

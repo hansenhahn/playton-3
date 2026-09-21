@@ -7,8 +7,8 @@
 [7117030004000000:000a000000022c0000000235000000]
 マックス
 !******************************!
-<T>DING DING DING!<W> Correto!<W> Mas
-como sabe meu nome?
+<T>DING DING DING!<W> Correto!<W>
+Mas como sabe meu nome?
 !******************************!
 [7117030007000000:000a00000002000000000274000000]
 ルーク
@@ -37,9 +37,9 @@ E ela leva à estação?
 [7117030013000000:000a000000022c0000000266010000]
 マックス
 !******************************!
-<T>DING DING DING!<W> Correto!<W> Essa é
-a galeria mesmo! E dá para
-chegar à estação por lá.
+<T>DING DING DING!<W> Correto!<W>
+Essa é a galeria mesmo! E dá
+para chegar à estação por lá.
 !******************************!
 [7117030016000000:0014000000022c00000002d0010000]
 マックス

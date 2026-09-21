@@ -2,9 +2,8 @@
 [7117030001000000:000a0000000200000000020d000000]
 ナレーション
 !******************************!
-<T>Você recebeu um livro
-ilustrado e alguns adesivos
-do Alfie!
+<T>Você recebeu um livro ilustrado
+e alguns adesivos do Alfie!
 !******************************!
 [7117030004000000:000a0000000200000000024a000000]
 ナレーション
