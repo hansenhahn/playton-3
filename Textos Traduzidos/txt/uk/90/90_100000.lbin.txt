@@ -1,0 +1,240 @@
+[7017010000000000:0027000000]
+[7117030001000000:000100000002000000000201000000]
+
+!******************************!
+O Cogumelo do Stachen
+!******************************!
+[7117030004000000:000100000002140000000215000000]
+
+!******************************!
+Keh heh heh! Escute com atenção. Não se
+preocupe, não é tão difícil! Quero que
+me traga um cogumelo, um belo cogumelo
+vermelho, bem brilhante. Acha que
+consegue?
+!******************************!
+[7117030007000000:000100000002bc00000002bd000000]
+
+!******************************!
+Entregue o cogumelo em 10 seg.
+!******************************!
+[711703000a000000:000200000002dd00000002de000000]
+
+!******************************!
+Uma Flor para Adeline
+!******************************!
+[711703000d000000:000200000002f300000002f4000000]
+
+!******************************!
+Gostou do meu estilo, não é? Uma beleza
+dessas dá muito trabalho, veja bem. Mas
+ainda falta alguma coisa. Traga o que
+preciso para completar meu visual, está
+bem?
+!******************************!
+[7117030010000000:000200000002950100000296010000]
+
+!******************************!
+Entregue a flor em 15 seg.
+!******************************!
+[7117030013000000:000300000002b401000002b5010000]
+
+!******************************!
+O Bolo Caseiro da Minnie
+!******************************!
+[7117030016000000:000300000002cd01000002ce010000]
+
+!******************************!
+Ei, passarim! Assei um bolo delicioso,
+mas ele está tão cheio de coisas
+gostosas que é pesado demais para eu
+carregar sozinha! Você poderia levá-lo
+para mim?
+!******************************!
+[7117030019000000:000300000002640200000265020000]
+
+!******************************!
+Entregue o bolo em 10 seg.
+!******************************!
+[711703001c000000:000400000002810200000282020000]
+
+!******************************!
+O Tomate Supremo do Paillard
+!******************************!
+[711703001f000000:0004000000029c020000029d020000]
+
+!******************************!
+Ai de mim! Estou em apuros. Preciso
+preparar uma terrina do meu famoso Tomate
+Supremo, mas os tomates acabaram! Você
+poderia ir buscar alguns para mim?
+!******************************!
+[7117030022000000:000400000002350300000236030000]
+
+!******************************!
+Entregue os tomates em 10 seg.
+!******************************!
+[7117030025000000:000500000002560300000257030000]
+
+!******************************!
+O Café do Silky
+!******************************!
+[7117030028000000:000500000002660300000267030000]
+
+!******************************!
+Hrrrm! Que criaturinha simpática! Como?
+Se tenho algum pedido? Bem, agora que
+você mencionou, estou com uma vontade
+enorme de tomar um café preto fortíssimo!
+Hrrrm...
+!******************************!
+[711703002b000000:0005000000020b040000020c040000]
+
+!******************************!
+Entregue o café em 10 seg.
+!******************************!
+[711703002e000000:0006000000022a040000022b040000]
+
+!******************************!
+Um Amigo para Viv
+!******************************!
+[7117030031000000:0006000000023c040000023d040000]
+
+!******************************!
+Sabe, eu adoraria ter um bichinho de
+estimação. Um cachorrinho fofo ou um
+gatinho... Talvez até um papagaio! Mas a
+mamãe não quer nem ouvir falar. Você
+poderia me ajudar a achar um amiguinho?
+!******************************!
+[7117030034000000:000600000002e804000002e9040000]
+
+!******************************!
+Entregue o ursinho de pelúcia em 15 seg.
+!******************************!
+[7117030037000000:0007000000020b050000020c050000]
+
+!******************************!
+Ajudando Maya
+!******************************!
+[711703003a000000:00070000000219050000021a050000]
+
+!******************************!
+Acabei de receber uma nova remessa de
+livros para a loja. São romances de
+aventura grossos e ótimos, e as pessoas
+vão adorar. Mas são pesados! Você me
+ajuda a carregá-los?
+!******************************!
+[711703003d000000:000700000002c805000002c9050000]
+
+!******************************!
+Entregue os livros em 10 seg.
+!******************************!
+[7117030040000000:000800000002e605000002e7050000]
+
+!******************************!
+Paige, a Distraída
+!******************************!
+[7117030043000000:000800000002fc05000002fd050000]
+
+!******************************!
+Ai, ai! Ai, ai! Tenho uma lição de casa
+para entregar amanhã! Coloquei na mochila,
+mas depois deixei a mochila em algum lugar!
+Bata as asas, passarim! Consegue ver minha
+mochila daí de cima?
+!******************************!
+[7117030046000000:000800000002a106000002a2060000]
+
+!******************************!
+Entregue a mochila em 7 seg.
+!******************************!
+[7117030049000000:000900000002bc06000002bd060000]
+
+!******************************!
+O Chapéu do Beacon
+!******************************!
+[711703004c000000:000900000002ca06000002cb060000]
+
+!******************************!
+Ahhh! O que vou fazer? Tenho uma
+competição de dança na semana que vem, mas
+não consigo decidir o que vestir —
+principalmente na cabeça. Preciso de um
+chapéu. Pensei em um bem alto e elegante...
+!******************************!
+[711703004f000000:0009000000027d070000027e070000]
+
+!******************************!
+Entregue o chapéu em 18 seg.
+!******************************!
+[7117030052000000:000a0000000299070000029a070000]
+
+!******************************!
+A Bola do Raleigh
+!******************************!
+[7117030055000000:000a00000002a907000002aa070000]
+
+!******************************!
+Droga! Chutei aquela bola com tanta força
+que ela foi parar numa árvore! Não tenho
+mesada suficiente para comprar outra...
+Você pode derrubá-la para mim?
+!******************************!
+[7117030058000000:000a00000002470800000248080000]
+
+!******************************!
+Entregue a bola em 10 seg.
+!******************************!
+[711703005b000000:000b00000002640800000265080000]
+
+!******************************!
+O Almoço do Hardy
+!******************************!
+[711703005e000000:000b00000002730800000274080000]
+
+!******************************!
+Adivinha? Chego ao trabalho hoje de manhã
+e percebo que deixei minha marmita em casa.
+Não consigo trabalhar de estômago vazio!
+Você pode buscar meu almoço para mim?
+!******************************!
+[7117030061000000:000b00000002100900000211090000]
+
+!******************************!
+Entregue a marmita em 10 seg.
+!******************************!
+[7117030064000000:000c00000002310900000232090000]
+
+!******************************!
+O Presente do Edgar
+!******************************!
+[7117030067000000:000c000000023f0900000240090000]
+
+!******************************!
+Bem... É que tem uma garota de quem eu meio
+que gosto... Quero dar algo legal para
+ela, mas não sei do que ela gosta. Você é
+o único que pode me ajudar!
+!******************************!
+[711703006a000000:000c00000002e509000002e6090000]
+
+!******************************!
+Entregue o presente em 10 seg.
+!******************************!
+[711703006d000000:000d00000002050a000002060a0000]
+
+!******************************!
+Diversão com Luke
+!******************************!
+[7117030070000000:000d00000002140a000002150a0000]
+
+!******************************!
+X
+!******************************!
+[7117030073000000:000d00000002170a000002180a0000]
+
+!******************************!
+Entregue a maçã em 15 seg.
+!******************************!
