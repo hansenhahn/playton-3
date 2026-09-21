@@ -18,7 +18,7 @@
 | História (caps 00–14) — unidades de texto | 4.848 | 4.915 | **99%** |
 | Enigmas (naz_df0–df9) — grupos traduzidos | 10 | 10 | **100%** |
 | Enigmas — grupos com QA | 1 (df0) | 10 | **10%** |
-| Extras (18/19/20/30/40/50/90/99) | 0 | 8 | **0%** |
+| Extras (18/19/20/30/40/50/90/99) | 1 | 8 | **13%** |
 | Imagens localizadas | 403 | — | ver §3 |
 | Harness / infra | texto + enigma | — | ver §4 |
 
@@ -51,7 +51,7 @@
 | Cap | Conteúdo | Arquivos | Unid. EN | Tradução |
 |---|---|---|---|---|
 | 18 | Compendium de Enigmas | 78 | 718 | 0% |
-| 19 | Digest / recapitulação | 34 | 93 | 0% |
+| 19 | Digest / recapitulação | 34 | 93 | ~100% (93/93 blocos) |
 | 20 | Lost Puzzles / tutoriais / pós-jogo | 60 | 402 | 0% |
 | 30 | Tap exploration / hint coins / flavor | 100 | 1.112 | 0% |
 | 40 | Journal / Letter from the Future | 17 | 583 | 0%¹ |
@@ -100,7 +100,7 @@ O número útil é **403 imagens efetivamente localizadas**.
 1. **História completa (caps 00–14)** — pair review dos caps 11–14 pendente.
 2. **QA dos enigmas `naz_df1`–`df9`** (9 grupos) — tradução existe; falta passe
    semântico/voz/gramática do `layton-nazo`.
-3. **Extras 18/19/20/30** — traduzir (Spec já existe para todos).
+3. **Extras 18/20/30** — traduzir (Spec já existe para todos).
 4. **caps 40/50/90/99** — decidir escopo (journal/ending/menus); cap. 40 está
    com placeholder em inglês.
 5. **Fechar PRs abertos:** #41 (caixas cap. 01).
@@ -116,3 +116,4 @@ O número útil é **403 imagens efetivamente localizadas**.
 | 2026-09-20 | Cap. 12 traduzido (212 blocos) e QA semântico/voz (5 correções cirúrgicas); pair review pendente. Caps 13–14 pendentes. |
 | 2026-09-20 | Cap. 13 traduzido (309 blocos) e QA semântico/voz/glossário (9 correções cirúrgicas); pair review pendente. Cap. 14 pendente. |
 | 2026-09-20 | Cap. 14 traduzido (136 blocos; 132/136, 4 idênticos por natureza) e QA semântico/voz (4 correções cirúrgicas); pair review pendente. História 00–14 completa. |
+| 2026-09-20 | Extras 19 (Digest) traduzido (93 blocos) e QA semântico/voz (8 correções cirúrgicas); pair review pendente. Narração neutra. |
