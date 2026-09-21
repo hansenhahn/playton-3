@@ -305,29 +305,36 @@ def check_file(en_path, pt_path, wfunc):
                 )
             # largura real por linha
             if wfunc:
-                for ln, line in enumerate(b["clean"].split("\n")):
-                    s = line.strip()
-                    if not s or set(s) <= set("*!-") or (
-                        s.startswith("[") and s.endswith("]")
-                    ):
-                        continue
-                    px = wfunc(re.sub(r"\{[^}]*\}", '"', s))
-                    # linha do arquivo: aproxima (start_line + offset)
-                    fline = b["start_line"] + ln
-                    if px > HARD_PX:
-                        findings.append(
-                            {"sev": "FAIL", "cat": "tecnico", "target": label,
-                             "block": i, "line": fline,
-                             "msg": f"largura {px}px > hard {HARD_PX}: {s[:80]}",
-                             "rule": "Fontes_NFTR.md:4/Screen01"}
-                        )
-                    elif px > SAFE_PX:
-                        findings.append(
-                            {"sev": "WARN", "cat": "tecnico", "target": label,
-                             "block": i, "line": fline,
-                             "msg": f"largura {px}px > safe {SAFE_PX}: {s[:80]}",
-                             "rule": "REGRAS_TRADUCAO.md:73"}
-                        )
+                # `</T>` fecha a caixa de texto: a medicao reinicia no proximo
+                # `<T>` (senao dois blocos numa mesma linha fisica somariam px
+                # e gerariam falso FAIL). Tags de controle nao contam.
+                raw = b["raw"]
+                consumed = 0
+                for seg in raw.split("</T>"):
+                    base = b["start_line"] + raw[:consumed].count("\n")
+                    for off, line in enumerate(TAG_RE.sub("", seg).split("\n")):
+                        s = line.strip()
+                        if not s or set(s) <= set("*!-") or (
+                            s.startswith("[") and s.endswith("]")
+                        ):
+                            continue
+                        px = wfunc(re.sub(r"\{[^}]*\}", '"', s))
+                        fline = base + off
+                        if px > HARD_PX:
+                            findings.append(
+                                {"sev": "FAIL", "cat": "tecnico", "target": label,
+                                 "block": i, "line": fline,
+                                 "msg": f"largura {px}px > hard {HARD_PX}: {s[:80]}",
+                                 "rule": "Fontes_NFTR.md:4/Screen01"}
+                            )
+                        elif px > SAFE_PX:
+                            findings.append(
+                                {"sev": "WARN", "cat": "tecnico", "target": label,
+                                 "block": i, "line": fline,
+                                 "msg": f"largura {px}px > safe {SAFE_PX}: {s[:80]}",
+                                 "rule": "REGRAS_TRADUCAO.md:73"}
+                            )
+                consumed += len(seg) + len("</T>")
             # glossario
             if EN_RESIDUAL.search(b["clean"]):
                 findings.append(
