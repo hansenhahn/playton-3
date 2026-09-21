@@ -42,7 +42,7 @@ Espero que entendam...
 ベッキー
 !******************************!
 <T><A2/2>Hehe, fiquei bem impressionada
-com o jeito que resolveu o
+com o jeito que você resolveu o
 enigma que a Vovó lhe passou.
 !******************************!
 [7117030016000000:000a00000002630000000260020000]
@@ -55,7 +55,7 @@ um bom enigma...
 ベッキー
 !******************************!
 <T>Eu também! Que tal assim:
-resolva este enigma para mim
+você resolve este enigma para mim
 e eu digo como chegar à estação.
 !******************************!
 [711703001c000000:00e8030000020000000002e6020000]
@@ -158,7 +158,7 @@ passar na hora.
 [7117030049000000:00c20b000002100700000219070000]
 レイトン
 !******************************!
-<T><A1/2>Ha ha! Bom saber. Bem, vamos
-passar pela galeria e
+<T><A1/2>Ha ha! Bom saber. Bem,
+vamos passar pela galeria e
 conhecer um pouco mais a área.
 !******************************!

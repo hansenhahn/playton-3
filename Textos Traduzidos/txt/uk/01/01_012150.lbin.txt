@@ -15,8 +15,7 @@ por aí, não viram?
 ウッズ
 !******************************!
 <T>Achei melhor dar um aviso.
-Aquele bando todo
-não presta.
+Aquele bando não presta.
 !******************************!
 [711703000a000000:000a000000020000000002d5000000]
 ウッズ
@@ -33,9 +32,9 @@ faz por aqui.
 [7117030010000000:000a00000002000000000268010000]
 ウッズ
 !******************************!
-<T>Tenho certeza que já os viram,
-todos iguais, de casacos cinza
-compridos e chapéus iguais.
+<T>Tenho certeza de que já os viram,
+todos vestidos iguais, de casaco cinza
+comprido e chapéu.
 !******************************!
 [7117030013000000:000a000000020000000002c8010000]
 ウッズ
@@ -107,9 +106,8 @@ um jornal.
 [7117030034000000:003200000002000000000263040000]
 ウッズ
 !******************************!
-<T>Certo, preciso ir. Coisas
-pra fazer. Pode me
-devolver o jornal?
+<T>Certo, preciso ir. Coisas pra fazer.
+Pode me devolver o jornal?
 !******************************!
 [7117030037000000:0037000000022802000002b2040000]
 ルーク

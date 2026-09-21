@@ -80,7 +80,7 @@ digo {''}coisa{''}, é {''}a cara dele{''}.
 [7117030025000000:00a00f0000020000000002d5030000]
 クローンマフィア
 !******************************!
-<T><A1/1>Eu não disse pra não falar
-comigo?<W> NÃO DISSE?!<W>
-Vaza da minha frente!
+<T><A1/1>Eu não disse pra não falar comigo?<W>
+NÃO DISSE?!<W> Cai fora da
+minha frente!
 !******************************!

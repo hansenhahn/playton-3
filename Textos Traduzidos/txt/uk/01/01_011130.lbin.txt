@@ -43,7 +43,8 @@ até resolver o enigma, certo?
 ブッチ
 !******************************!
 <T>Se você é o verdadeiro Professor
-Layton, prove resolvendo este enigma.
+Layton, prove resolvendo
+este enigma.
 !******************************!
 [7117030016000000:00b80b000002000000000230020000]
 ブッチ

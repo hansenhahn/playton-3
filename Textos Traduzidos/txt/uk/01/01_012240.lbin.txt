@@ -40,7 +40,7 @@ disse Andrew Schrader?
 [7117030013000000:000a00000002000000000286010000]
 シャロン
 !******************************!
-<T>Fale baixo, sim? Está
+<T>Fale baixo, sim? Você está
 num hospital.</T> <TW>Então, são
 parentes do Dr. Schrader?
 !******************************!
@@ -69,7 +69,7 @@ Dr. Schrader!
 [7117030022000000:001400000002000000000292020000]
 シャロン
 !******************************!
-<T>Ah. O velho da 312 tem até
+<T>Ah. O velho do 312 tem até
 fã-clube, é?
 !******************************!
 [7117030025000000:0014000000020000000002c4020000]
@@ -94,9 +94,9 @@ preocupem: é só uma pergunta.
 [711703002e000000:00e803000002000000000286030000]
 シャロン
 !******************************!
-<T><K>Hmm.<W></K> Desculpe, não
-permitimos visitas sem
-preencher a papelada necessária.
+<T><K>Hmm.<W></K> Desculpe, não permitimos
+visitas sem que a papelada necessária
+seja preenchida.
 !******************************!
 [7117030031000000:00e8030000020000000002e6030000]
 シャロン

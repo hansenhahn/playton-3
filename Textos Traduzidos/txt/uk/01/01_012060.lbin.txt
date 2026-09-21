@@ -2,8 +2,8 @@
 [7117030001000000:000a00000002000000000209000000]
 ベッキー
 !******************************!
-<T><A1/2>Bem-vindos ao Hotel Duke, um
-dos estabelecimentos mais finos e
+<T><A1/2>Bem-vindos ao Hotel Duke, um dos
+estabelecimentos mais finos e
 renomados de Londres.
 !******************************!
 [7117030004000000:000a0000000266000000026d000000]
@@ -53,20 +53,20 @@ se divertindo na cidade.
 レイトン
 !******************************!
 <T><A1/2>Ha ha! Seu argumento é bem
-convincente, minha jovem.
-Afinal, localização é tudo.
+convincente, minha jovem. Afinal,
+localização é tudo.
 !******************************!
 [711703001c000000:00140000000231020000029c020000]
 レイトン
 !******************************!
-<T>Ficaremos com o quarto!
-E com as indicações para a estação
+<T>Ficaremos com o quarto - e
+com as indicações para a estação
 de trem também, claro.
 !******************************!
 [711703001f000000:0014000000020000000002ee020000]
 ベッキー
 !******************************!
-<T>Por favor, nada de {''}minha jovem{''}.
+<T>Por favor, nada de {''}jovem{''}.
 Só me chame de Becky.
 !******************************!
 [7117030022000000:001400000002000000000239030000]
@@ -84,8 +84,8 @@ vai mesmo ficar aqui?
 [7117030028000000:001e000000023102000002ac030000]
 レイトン
 !******************************!
-<T><A2/1>De fato. De algum modo, você
-e eu acabamos nos perdendo em
+<T><A2/1>De fato. De algum modo, você e eu
+acabamos nos perdendo em
 uma área desconhecida.
 !******************************!
 [711703002b000000:001e00000002310200000211040000]

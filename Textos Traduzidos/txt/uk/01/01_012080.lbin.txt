@@ -9,7 +9,8 @@ Professor Layton.
 ベッキー
 !******************************!
 <T>Meu nome é Becky. Não hesitem
-em me chamar caso precisem de algo.
+em me pedir caso
+precisem de algo.
 !******************************!
 [7117030007000000:000a0000000293000000029a000000]
 ルーク
