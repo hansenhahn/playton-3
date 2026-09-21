@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>O relógio gigante desperta com um
+solavanco, e Layton e Luke se veem numa
+Londres que não reconhecem.
+!******************************!
+[7117030004000000:00140000000200000000027c000000]
+ナレーション
+!******************************!
+<T>Para se familiarizarem com aqueles
+arredores desconhecidos, eles saem para
+investigar a região.
+!******************************!
