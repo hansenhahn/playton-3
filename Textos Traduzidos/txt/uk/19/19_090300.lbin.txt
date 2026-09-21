@@ -1,0 +1,15 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Com Flora a salvo, Layton e Luke correm
+para impedir que a fortaleza de Clive
+arrase Londres.
+!******************************!
+[7117030004000000:001400000002000000000266000000]
+ナレーション
+!******************************!
+<T>Conseguirá o professor impedir que Clive
+destrua a grande metrópole com sua
+máquina?
+!******************************!

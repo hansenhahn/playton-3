@@ -1,0 +1,33 @@
+[7017010000000000:0005000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Layton e os outros encontram Don Paolo
+nos arredores do laboratório de pesquisa.
+!******************************!
+[7117030004000000:000a00000002000000000267000000]
+ナレーション
+!******************************!
+<T>Enquanto o grupo avança, pilhas de
+materiais curiosos chamam a atenção do
+professor.
+!******************************!
+[7117030007000000:0014000000020000000002b6000000]
+ナレーション
+!******************************!
+<T>Que tipo de pesquisa estranha é conduzida
+neste laboratório?
+!******************************!
+[711703000a000000:0014000000020000000002fc000000]
+ナレーション
+!******************************!
+<T>Será que Layton e os outros têm chance
+de encontrar Dimitri aqui?
+!******************************!
+[711703000d000000:001400000002000000000240010000]
+ナレーション
+!******************************!
+<T>Essas perguntas atormentam a mente de
+Layton enquanto o grupo segue para o
+núcleo do laboratório.
+!******************************!

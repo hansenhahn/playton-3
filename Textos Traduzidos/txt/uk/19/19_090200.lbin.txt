@@ -1,0 +1,21 @@
+[7017010000000000:0003000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Tendo usado Don Paolo como isca, o
+verdadeiro Layton aparece e inverte o
+jogo contra Dimitri.
+!******************************!
+[7117030004000000:000a0000000200000000026b000000]
+ナレーション
+!******************************!
+<T>Infelizmente, momentos depois chegam
+reforços inimigos, permitindo que Dimitri
+fuja.
+!******************************!
+[7117030007000000:0014000000020000000002c4000000]
+ナレーション
+!******************************!
+<T>Enquanto o inimigo se aproxima, Layton e
+os outros planejam uma fuga ousada.
+!******************************!
