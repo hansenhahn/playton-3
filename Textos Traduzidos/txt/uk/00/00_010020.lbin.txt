@@ -14,9 +14,8 @@ funcionar.
 [7117030007000000:000a00000002000000000289000000]
 ルーク
 !******************************!
-<T><A4/1>Então ainda bem que há tantas
-outras formas de ver as horas
-aqui.
+<T><A4/1>Ainda bem que há tantas outras
+formas de ver as horas aqui.
 !******************************!
 [711703000a000000:000a000000023100000002dc000000]
 レイトン

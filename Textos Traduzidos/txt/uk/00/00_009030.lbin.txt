@@ -2,14 +2,15 @@
 [7117030001000000:000a00000002000000000209000000]
 デビット
 !******************************!
-<T>Procuram uma relojoaria,
-dizem?<W><A3/5> Hmm. Não, não conheço
+<T>Procuram uma relojoaria, é?<W><A3/5>
+Hmm. Não, não conheço
 nenhuma por aqui.
 !******************************!
 [7117030004000000:000a000000026f0000000276000000]
 ルーク
 !******************************!
-<T>Tá bom, obrigado de qualquer forma.
+<T>Tá bom! Obrigado
+de qualquer forma.
 !******************************!
 [7117030007000000:000a00000002000000000299000000]
 デビット
@@ -31,9 +32,9 @@ relojoaria outro dia.
 [7117030010000000:000a00000002000000000255010000]
 デビット
 !******************************!
-<T>Tenho dificuldade de lembrar das
-coisas quando estou com outras
-coisas na cabeça...
+<T>Tenho dificuldade de lembrar
+das coisas quando estou com
+a cabeça cheia...
 !******************************!
 [7117030013000000:000a000000020000000002a0010000]
 デビット
@@ -76,14 +77,14 @@ relojoaria...
 [7117030025000000:00b80b00000200000000027a030000]
 デビット
 !******************************!
-<T><A2/2>Certo, a relojoaria. Fica em algum
-lugar desta rua... acho.<W><A1/1>
+<T><A2/2>Certo, a relojoaria. Fica em
+algum lugar desta rua... acho.<W><A1/1>
 Bem, preciso ir! Até mais!
 !******************************!
 [7117030028000000:00c20b0000026f00000002ec030000]
 ルーク
 !******************************!
-<T><A4/4>Espere!<W> Ah. Ele correu.
+<T><A4/4>Espere!<W> Ah. Ele saiu correndo.
 !******************************!
 [711703002b000000:00cc0b0000020e0400000217040000]
 レイトン

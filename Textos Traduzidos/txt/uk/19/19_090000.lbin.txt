@@ -1,0 +1,14 @@
+[7017010000000000:0002000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Uma carta do Luke do futuro leva Layton e
+Luke a uma relojoaria na Midland Road.
+!******************************!
+[7117030004000000:00140000000200000000026f000000]
+ナレーション
+!******************************!
+<T>A caminho da relojoaria, eles recordam
+os estranhos eventos da apresentação da
+máquina do tempo da semana passada.
+!******************************!

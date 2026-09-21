@@ -1,0 +1,105 @@
+[7017010000000000:0010000000]
+[7117030001000000:000a0000000200000000020b000000]
+チェルミー
+!******************************!
+<T>Ah, Layton. Algum avanço na sua
+investigação?
+!******************************!
+[7117030004000000:000a0000000243000000024c000000]
+レイトン
+!******************************!
+<T>Talvez, Inspetor. Na verdade, fico
+muito contente em vê-lo. Preciso
+que me acompanhe ao Thames Arms.
+!******************************!
+[7117030007000000:000a000000020000000002b6000000]
+チェルミー
+!******************************!
+<T>O Thames Arms? 
+!******************************!
+[711703000a000000:001400000002cb00000002d4000000]
+バートン
+!******************************!
+<T>Minha investigação do local
+revelou cheiros deliciosos, senhor.
+!******************************!
+[711703000d000000:00190000000200000000021a010000]
+チェルミー
+!******************************!
+<T><A3/5>Fique quieto um instante,
+Barton?
+!******************************!
+[7117030010000000:001e00000002000000000251010000]
+チェルミー
+!******************************!
+<T><A3/1>O que há no Thames Arms de tão
+incrível que eu precise ir correndo
+até lá neste exato instante?
+!******************************!
+[7117030013000000:001e000000024300000002ba010000]
+レイトン
+!******************************!
+<T><A1/2>Não prometo nada, mas é bem
+possível que o que aconteça lá o
+leve ao primeiro-ministro.
+!******************************!
+[7117030016000000:001e00000002000000000224020000]
+チェルミー
+!******************************!
+<T><A2/5>Sério mesmo?<W> <A2/1>Hmm... Bem,
+meu interesse despertou. Mas há a
+questão deste maldito enigma...
+!******************************!
+[7117030019000000:001e00000002430000000297020000]
+レイトン
+!******************************!
+<T>Que enigma?
+!******************************!
+[711703001c000000:001e000000020000000002a7020000]
+チェルミー
+!******************************!
+<T>Está nesta nota que encontrei. Tenho
+a sensação de que pode ter relação
+com o caso.
+!******************************!
+[711703001f000000:001e000000024300000002fe020000]
+レイトン
+!******************************!
+<T>O senhor se importaria se eu desse
+uma olhada nela, Inspetor?
+!******************************!
+[7117030022000000:00e803000002000000000232030000]
+チェルミー
+!******************************!
+<T>Sem sorte? Bem, temo que eu fique
+preso aqui até conseguir resolver
+este enigma.
+!******************************!
+[7117030025000000:00d00700000200000000027e030000]
+チェルミー
+!******************************!
+<T>Tenho certeza de que há uma pista
+útil nesta nota, se eu conseguisse
+resolver o enigma.
+!******************************!
+[7117030028000000:00b80b0000024300000002dc030000]
+レイトン
+!******************************!
+<T>Sinto muito, Inspetor, mas esta
+carta parece não ter nenhuma
+relevância para o seu caso.
+!******************************!
+[711703002b000000:00b80b000002000000000238040000]
+チェルミー
+!******************************!
+<T><A2/5>Ah. Que maravilha! Mais uma
+pista promissora que se esvai.<A3/5>
+Estou no meu limite, eu lhe digo.
+!******************************!
+[711703002e000000:00b80b0000020000000002b3040000]
+チェルミー
+!******************************!
+<T><A3/1>Seja o que for que tenha para
+me mostrar no Thames Arms, tem de
+ser mais útil que essa nota.
+!******************************!

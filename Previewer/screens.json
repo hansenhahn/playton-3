@@ -1,0 +1,14 @@
+{
+  "format": "previewer-screens",
+  "version": 1,
+  "rules": [
+    {
+      "pattern": "*",
+      "screen": "Textos Normais"
+    },
+    {
+      "pattern": "Textos Traduzidos/rc/**",
+      "screen": "Enigmas"
+    }
+  ]
+}

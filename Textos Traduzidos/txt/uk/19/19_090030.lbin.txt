@@ -1,0 +1,26 @@
+[7017010000000000:0004000000]
+[7117030001000000:000a0000000200000000020d000000]
+ナレーション
+!******************************!
+<T>Luke e Layton encontram o Dr. Schrader no
+Green Hospital.
+!******************************!
+[7117030004000000:000a00000002000000000249000000]
+ナレーション
+!******************************!
+<T>O doutor instrui a dupla a ir aos fundos do
+hospital, onde encontram o Laytonmóvel.
+!******************************!
+[7117030007000000:0014000000020000000002b1000000]
+ナレーション
+!******************************!
+<T>Dentro do carro, encontram outra carta
+do Luke do futuro, dizendo onde se
+encontrar com ele.
+!******************************!
+[711703000a000000:00140000000200000000020b010000]
+ナレーション
+!******************************!
+<T>Luke e Layton seguem para o Cassino
+Gilded 7, na Flatstone Street.
+!******************************!

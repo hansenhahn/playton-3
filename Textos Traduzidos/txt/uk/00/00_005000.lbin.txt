@@ -26,9 +26,9 @@ seu criador, Dr. Alain Stahngun!</V>
 [711703000d000000:001400000002020100000244010000]
 変装ディミトリー
 !******************************!
-<T><V0041><A4/5>Após anos de pesquisa em viagem
-no tempo, tenho o prazer de
-compartilhar os frutos do meu trabalho.</V>
+<T><V0041><A4/5>Após anos de pesquisa em viagem no
+tempo, tenho o prazer de compartilhar
+os frutos do meu trabalho.</V>
 !******************************!
 [7117030010000000:0014000000020201000002bc010000]
 変装ディミトリー
@@ -76,8 +76,8 @@ funcional?</V>
 [7117030025000000:001e000000020201000002dc030000]
 変装ディミトリー
 !******************************!
-<V0110><T><A2/5>Por que não se senta e confere
-por si mesmo?</V>
+<V0110><T><A2/5>Por que não se senta e
+confere por si mesmo?</V>
 !******************************!
 [7117030028000000:002800000002000000000220040000]
 披露会場司会者
@@ -109,8 +109,7 @@ superar nossos limites naturais.</V>
 ビル・ホーク
 !******************************!
 <T><V0151>Conquistamos os céus e os mares,
-e até viajamos ao espaço
-exterior.</V>
+e até viajamos ao espaço sideral.</V>
 !******************************!
 [7117030037000000:0032000000023603000002d5050000]
 ビル・ホーク
@@ -141,8 +140,8 @@ Primeiro-Ministro.</V>
 [7117030043000000:003c00000002000000000239070000]
 披露会場司会者
 !******************************!
-<V0200><T>E agora o momento que todos
-esperavam!<W2> Com você,
+<V0200><T>E agora o momento que
+todos esperavam!<W2> Com você,
 Dr. Stahngun!</V>
 !******************************!
 [7117030046000000:0046000000020201000002a1070000]
@@ -203,8 +202,8 @@ assento, Primeiro-Ministro.</V>
 [7117030061000000:0046000000023603000002600a0000]
 ビル・ホーク
 !******************************!
-<V0290><T><A2/3>Espere!<W> <A2/5>Quero dizer, claro que
-posso ajudá-lo.</V>
+<V0290><T><A2/3>Espere!<W> <A2/5>Quero dizer, claro
+que posso ajudá-lo.</V>
 !******************************!
 [7117030064000000:005000000002b60a000002c70a0000]
 カレリナ首相夫人
@@ -216,7 +215,7 @@ posso ajudá-lo.</V>
 !******************************!
 <V0330><T><A3/2>Ah, esta é a coragem que esperamos
 de nosso destemido líder.
-Meus agradecimentos.</V>
+Você tem minha gratidão.</V>
 !******************************!
 [711703006a000000:005a000000020201000002690b0000]
 変装ディミトリー
