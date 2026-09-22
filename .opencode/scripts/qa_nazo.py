@@ -222,9 +222,9 @@ def norm_quote(s):
 def decode_font(nftr_path):
     """Decodifica CWDH+CMAP de um `.nftr`.
 
-    Verificado contra `Spec/Fontes_NFTR.md` (ver `verify_font`): o avanco e o
-    3o byte do CWDH (`cw[idx][2]`, == coluna `Total` documentada, 147/147
-    glifos em fontq e fontevent) e o CMAP comeca em `+16`, nao `+20`.
+    O avanco e o 3o byte do CWDH (`cw[idx][2]`, == coluna `Total`). O CMAP
+    comeca em `block + 20` (first 2 + last 2 + method 2 + reserved 2 + next 4,
+    apos o header de bloco de 8 bytes); usar `+16` desloca codepoint->glifo em 2.
     Retorna dict `{cw, cmap, mmin, mmax}` ou None.
     """
     try:
@@ -243,7 +243,7 @@ def decode_font(nftr_path):
             for i in range(cmax - cmin + 1)
         ]
         cmap = [
-            struct.unpack_from("<H", data, mo + 16 + i * 2)[0]
+            struct.unpack_from("<H", data, mo + 20 + i * 2)[0]
             for i in range(mmax - mmin + 1)
         ]
         return {"cw": cw, "cmap": cmap, "mmin": mmin, "mmax": mmax}

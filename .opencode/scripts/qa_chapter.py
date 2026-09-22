@@ -156,8 +156,10 @@ def load_widths(nftr_path):
             (data[co + 16 + i * 3], data[co + 16 + i * 3 + 1], data[co + 16 + i * 3 + 2])
             for i in range(cmax - cmin + 1)
         ]
+        # Cabecalho do CMAP (apos o header de bloco de 8): first(2) + last(2) +
+        # method(2) + reserved(2) + next(4) = 12 bytes -> tabela em `mo + 20`.
         cmap = [
-            struct.unpack_from("<H", data, mo + 16 + i * 2)[0]
+            struct.unpack_from("<H", data, mo + 20 + i * 2)[0]
             for i in range(mmax - mmin + 1)
         ]
 
