@@ -27,8 +27,8 @@ mas precisamos mesmo ir até lá.
 [711703000d000000:001400000002000000000229010000]
 ベッキー
 !******************************!
-<T>Tudo bem...<W> Ótimo, a Vovó
-dormiu de novo.
+<T>Tudo bem...<W> Ótimo,
+a Vovó dormiu de novo.
 !******************************!
 [7117030010000000:00140000000200000000025c010000]
 ベッキー
@@ -67,8 +67,8 @@ você verá o cassino.
 [711703001f000000:001400000002d90000000236030000]
 ルーク
 !******************************!
-<T>Ah, eu já imaginava que ficava
-por ali.
+<T>Ah, eu já imaginava que
+ficava por ali.
 !******************************!
 [7117030022000000:00140000000200000000026b030000]
 ベッキー
@@ -115,15 +115,14 @@ plano de segurança, né?
 [7117030037000000:00140000000200000000020a050000]
 ベッキー
 !******************************!
-<T>Vão lá ver, têm boa chance
-de passar agora.
-Eu...<W> Ih!
+<T>Vão lá ver, vocês têm boa chance
+de passar agora. Eu...<W> Ih!
 !******************************!
 [711703003a000000:001e00000002670500000274050000]
 マーガレット
 !******************************!
 <T>Becky!<W> Estes são nossos hóspedes!
-Têm coisas melhores a fazer do
+Eles têm coisas melhores a fazer do
 que ouvir você tagarelar.
 !******************************!
 [711703003d000000:0028000000023900000002e2050000]
@@ -137,12 +136,12 @@ nosso próximo destino.
 マーガレット
 !******************************!
 <T>Ah, é mesmo?<W> Bem, desde que
-esteja sendo útil.
+ela esteja sendo útil.
 !******************************!
 [7117030043000000:003200000002000000000277060000]
 ベッキー
 !******************************!
-<T>O estabelecimento que procuram
-fica na extremidade norte
-da Flatstone Street.
+<T>O estabelecimento que
+procuram fica no extremo
+norte da Flatstone Street.
 !******************************!

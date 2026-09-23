@@ -16,8 +16,8 @@ medo de mim?
 ヘイゼル
 !******************************!
 <T>Você?<W> Não, é seu amigo
-com a c-<W30>c-<W30>cartola grande!<W>
-<A4/5>Aaah! Ele está olhando pra mim!
+com a c-<W30>c-<W30>cartola!<W> <A4/5>Aaah!
+Ele está olhando pra mim!
 !******************************!
 [711703000a000000:000a00000002fe0000000207010000]
 レイトン
@@ -48,9 +48,8 @@ Edgar vai abrir o b-<W30>b-<W30>bico!
 [7117030016000000:000a0000000200000000024a020000]
 ヘイゼル
 !******************************!
-<T>E se eu abrir, vão me
-mandar numa viagem só de ida
-pro nada!
+<T>E se eu abrir, vão me mandar
+numa viagem só de ida pro nada!
 !******************************!
 [7117030019000000:000a00000002650000000290020000]
 ルーク
