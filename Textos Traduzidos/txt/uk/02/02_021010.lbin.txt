@@ -36,15 +36,13 @@ o tempo impôs ao seu mentor.
 未来ルーク
 !******************************!
 <T>E a bela Londres? Já andaram
-o bastante para ver como
-ela mudou.
+o bastante para ver como ela mudou.
 !******************************!
 [7117030016000000:000a00000002000000000253010000]
 未来ルーク
 !******************************!
-<T>Imaginaria um cassino nesta
-parte pacata da cidade
-no seu tempo?
+<T>Imaginaria um cassino nesta parte
+pacata da cidade no seu tempo?
 !******************************!
 [7117030019000000:000a00000002ac01000002b3010000]
 ルーク
@@ -134,7 +132,7 @@ Professor.
 [7117030046000000:003200000002000000000278040000]
 未来ルーク
 !******************************!
-<T>Chamam-no de {''}o diabo da
+<T>As pessoas o chamam de {''}o diabo da
 cartola{''}, e ele governa Londres
 das sombras.
 !******************************!
@@ -172,7 +170,7 @@ governar toda Londres?
 [7117030058000000:003c000000020000000002f8050000]
 未来ルーク
 !******************************!
-<T>Por onde começar...?<W> Aqui,
-Professor, certamente se lembra
-disto?
+<T>Por onde começar...?<W>
+Aqui, Professor, certamente se
+lembra disto?
 !******************************!
