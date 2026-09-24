@@ -27,8 +27,8 @@ homem quer nos intimidar.
 [711703000d000000:000a00000002000000000234010000]
 デロイ
 !******************************!
-<T><A6/0>Pare de cochichar, garoto! Estou
-bem aqui, sabia!
+<T><A6/0>Pare de cochichar, garoto!
+Estou bem aqui, sabia!
 !******************************!
 [7117030010000000:000a00000002ec0000000272010000]
 ルーク
@@ -65,23 +65,22 @@ enigma te deixou sem resposta?
 [711703001f000000:00d0070000020000000002eb020000]
 デロイ
 !******************************!
-<T>Voltou para medir astúcia com
-meu enigma, vejo. Muito bem.
+<T>Voltou para testar forças contra 
+meu enigma, pelo que vejo. Muito bem.
 Prepare-se!
 !******************************!
 [7117030022000000:00b80b000002000000000240030000]
 デロイ
 !******************************!
-<T><A2/5>Muito bem. Provou ser digno,
-então darei um aviso enigmático
+<T><A2/5>Muito bem. Você provou ser digno,
+então darei um aviso enigmático,
 mas valioso.
 !******************************!
 [7117030025000000:00b80b0000020000000002ae030000]
 デロイ
 !******************************!
 <T><A2/6>O perigo ronda essa sua cartola.
-É melhor tomar cuidado
-por aqui.
+É melhor tomar cuidado por aqui.
 !******************************!
 [7117030028000000:00b80b0000023e0000000204040000]
 レイトン

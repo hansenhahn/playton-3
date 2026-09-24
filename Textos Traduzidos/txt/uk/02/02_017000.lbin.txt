@@ -7,8 +7,8 @@
 [7117030004000000:001400000002000000000215000000]
 ルーク
 !******************************!
-<T>Aconteceu algo,
-Professor? Parece atordoado.
+<T>Aconteceu algo, Professor?
+O senhor parece atordoado.
 !******************************!
 [7117030007000000:0014000000024c0000000255000000]
 レイトン
