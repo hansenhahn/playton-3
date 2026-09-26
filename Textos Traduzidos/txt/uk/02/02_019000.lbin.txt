@@ -13,7 +13,7 @@ falando com ele.</V>
 [7117030007000000:000a0000000224000000026a000000]
 ルーク
 !******************************!
-<V0030><T>Vou levar um tempo para
+<V0030><T>Vou levar um tempo pra
 me acostumar com isso.</V>
 !******************************!
 [711703000a000000:000a00000002a400000002af000000]
@@ -30,8 +30,8 @@ eu era baixinho.</V>
 [7117030010000000:000a00000002000000000218010000]
 レイトン
 !******************************!
-<V0060><T>Então, diga-me, por que se deu
-a tanto trabalho para nos
+<V0060><T>Então, diga-me, por que exatamente
+se deu a tanto trabalho para nos
 trazer até aqui?</V>
 !******************************!
 [7117030013000000:000a00000002a4000000026f010000]
@@ -43,9 +43,9 @@ em apenas um instante.</V>
 [7117030016000000:000a00000002a400000002a9010000]
 未来ルーク
 !******************************!
-<V0080><T><A4/3>Mas antes, gostaria de
-confirmar que estou diante
-do verdadeiro Professor Layton.</V>
+<V0080><T><A4/3>Mas antes, gostaria de confirmar
+que estou diante do verdadeiro
+Professor Layton.</V>
 !******************************!
 [7117030019000000:000a0000000200000000021c020000]
 レイトン
@@ -99,7 +99,7 @@ mais um de seus disfarces?</V>
 [7117030031000000:000a00000002240000000267040000]
 ルーク
 !******************************!
-<V0150><T><A1/3>Isso é um absurdo, e você
+<V0150><T><A1/3>Isso é um absurdo e você
 sabe disso!</V>
 !******************************!
 [7117030034000000:000a00000002a400000002a5040000]

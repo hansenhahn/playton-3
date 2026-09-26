@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000211000000]
 クローンマフィア
 !******************************!
-<T>Cê tem exatamente
-cinco segundos pra parar
-de encarar, moleque.<W> Um...<W> Dois...
+<T>Cê tem exatamente cinco
+segundos pra parar de encarar,
+moleque.<W> Um...<W> Dois...
 !******************************!
 [7117030004000000:000a000000025e0000000265000000]
 ルーク
@@ -20,9 +20,9 @@ muito bem, Luke?
 [711703000a000000:0014000000025e00000002ba000000]
 ルーク
 !******************************!
-<T><A1/3>Vamos perguntar a outra
-pessoa, Professor. Não dá nem
-pra olhar pra ele sem levar bronca!
+<T><A1/3>Vamos perguntar a outra pessoa,
+Professor. Não dá nem pra olhar
+pra ele sem levar bronca!
 !******************************!
 [711703000d000000:001400000002850000000220010000]
 レイトン

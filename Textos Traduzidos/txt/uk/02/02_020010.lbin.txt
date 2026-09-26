@@ -76,8 +76,8 @@ logo à direita de uma de paus.
 未来ルーク
 !******************************!
 <T>Só com essas três condições,
-desafio-o a encontrar a de espadas
-entre estas quatro cartas.
+desafio-o a encontrar a carta de
+espadas entre estas quatro cartas.
 !******************************!
 [7117030025000000:001e000000022e00000002bc030000]
 未来ルーク
@@ -90,7 +90,7 @@ se fosse você.
 未来ルーク
 !******************************!
 <T><S671><A2/2>Sim, essa é de fato a posição
-de espadas. Impressionante,
+da carta de espadas. Impressionante,
 Professor.
 !******************************!
 [711703002b000000:002d00000002000000000266040000]
@@ -139,15 +139,15 @@ está numa das pontas.
 [7117030040000000:004600000002000000000233060000]
 レイトン
 !******************************!
-<T><A1/1>Consegue encontrar a de espadas
-com essas condições?
+<T><A1/1>Consegue encontrar a carta
+de espadas com essas condições?
 !******************************!
 [7117030043000000:0050000000022e0000000273060000]
 未来ルーク
 !******************************!
 <T><A2/4>Quase me pegou, Professor.<W>
-Mas, como sabe, este enigma
-tem um defeito. É insolúvel.
+Mas, como sabe, este enigma tem
+um defeito. Ele não tem resposta.
 !******************************!
 [7117030046000000:0050000000020000000002dc060000]
 レイトン
@@ -177,7 +177,7 @@ uma de cada naipe?
 未来ルーク
 !******************************!
 <T><A3/5>Hmph.<W> Então a resposta é...
-não há espadas?
+não há carta de espadas?
 !******************************!
 [7117030055000000:005a000000020000000002f6070000]
 レイトン
@@ -189,7 +189,7 @@ um ponto importante.
 [7117030058000000:005a00000002000000000245080000]
 レイトン
 !******************************!
-<T>No enigma que me propôs, não
+<T>No enigma que você me propôs, não
 especificou que as quatro cartas
 incluíam uma de cada naipe.
 !******************************!
@@ -197,7 +197,7 @@ incluíam uma de cada naipe.
 レイトン
 !******************************!
 <T>Deixar uma brecha assim pode
-tornar o enigma insolúvel.
+tornar o enigma sem solução.
 !******************************!
 [711703005e000000:005a000000020000000002ef080000]
 レイトン
@@ -208,9 +208,9 @@ abrir porta a outras soluções.
 [7117030061000000:005a00000002000000000233090000]
 レイトン
 !******************************!
-<T><A1/1>Apresentou-me de propósito um
-enigma que, visto de perto,
-está na verdade incompleto.
+<T><A1/1>Você me apresentou de propósito um
+enigma que, visto de perto, está na
+verdade incompleto.
 !******************************!
 [7117030064000000:005a0000000200000000029e090000]
 レイトン
@@ -228,7 +228,7 @@ a brecha?
 {.}Uma de paus não está ao lado de espadas.
 {.}Uma de copas à direita de paus.
 
-Consegue dizer qual é a de espadas,
+Consegue dizer qual é a carta de espadas,
 Professor? Toque na carta.
 !******************************!
 [711703006a000000:00d0070000020000000002d30a0000]
@@ -242,5 +242,5 @@ de uma de copas.
 de ouros, com copas ao lado.
 {.}A outra carta da ponta é de paus.
 
-Consegue achar a de espadas, Luke?
+Consegue achar a carta de espadas, Luke?
 !******************************!

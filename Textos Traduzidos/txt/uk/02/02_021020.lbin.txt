@@ -31,9 +31,9 @@ sombrio para Londres.
 [7117030010000000:000a0000000263000000022c010000]
 未来ルーク
 !******************************!
-<T>Com o primeiro-ministro sumido,
-o Parlamento mergulhou num
-caos total.
+<T>Com o primeiro-ministro
+desaparecido, o Parlamento
+mergulhou num caos total.
 !******************************!
 [7117030013000000:000a00000002000000000278010000]
 ルーク
@@ -112,8 +112,8 @@ represálias pelo experimento.
 [7117030037000000:000d000000026902000002c7040000]
 レイトン
 !******************************!
-<T>Ele foi responsável pela perda
-do líder da nossa nação, afinal.
+<T>Afinal, ele foi responsável pela
+perda do líder da nossa nação.
 !******************************!
 [711703003a000000:000d00000002630000000212050000]
 未来ルーク
@@ -161,14 +161,13 @@ costuma mudar as pessoas, Luke.
 未来ルーク
 !******************************!
 <T>Era claro que algo na pesquisa
-de Stahngun o fascinava,
-Professor.
+de Stahngun o fascinava, Professor.
 !******************************!
 [7117030052000000:000e00000002630000000247070000]
 未来ルーク
 !******************************!
-<T><A4/3>Não parava de falar em viagem
-no tempo. Parecia obcecado pela
+<T><A4/3>O senhor não parava de falar em
+viagem no tempo. Parecia obcecado pela
 ideia de mudar o passado.
 !******************************!
 [7117030055000000:000e000000026902000002b5070000]
@@ -179,9 +178,9 @@ ideia de mudar o passado.
 [7117030058000000:000e000000026300000002cb070000]
 未来ルーク
 !******************************!
-<T>Dr. Stahngun queria continuar a
-pesquisa, mas precisava de apoio
-financeiro para isso.
+<T>Dr. Stahngun estava muito interessado
+em continuar a pesquisa, mas
+precisava de apoio financeiro.
 !******************************!
 [711703005b000000:000e00000002630000000234080000]
 未来ルーク
@@ -205,8 +204,8 @@ para o Professor Layton.
 [7117030064000000:000f000000026300000002f6080000]
 未来ルーク
 !******************************!
-<T>Logo estava lucrando com todo
-tipo de negócio escuso.
+<T>Logo o senhor estava lucrando com
+todo tipo de negócio escuso.
 !******************************!
 [7117030067000000:000f00000002630000000242090000]
 未来ルーク
@@ -283,8 +282,8 @@ seu presente e o meu.
 [711703008b000000:00100000000269020000024b0c0000]
 レイトン
 !******************************!
-<T>Então usou o buraco de minhoca
-para nos enviar a mensagem
+<T>Então você usou o buraco de
+minhoca para nos enviar a mensagem
 e nos trazer aqui.
 !******************************!
 [711703008e000000:0010000000026902000002960c0000]
@@ -340,9 +339,9 @@ do tempo totalmente funcional.
 [71170300a6000000:0014000000026300000002eb0e0000]
 未来ルーク
 !******************************!
-<T>Ele volta ao seu tempo para reunir
-todo cientista brilhante que estuda
-viagem no tempo.
+<T>Ele tem se infiltrado no seu tempo
+para recrutar todo cientista brilhante
+especializado em viagem no tempo.
 !******************************!
 [71170300a9000000:00140000000200000000024d0f0000]
 ルーク
@@ -458,9 +457,9 @@ duvidoso.
 [71170300dc000000:001400000002690200000281140000]
 レイトン
 !******************************!
-<T><A1/2>Porém, vejo que a única
-forma de chegar à verdade é
-encontrar esse homem que diz ser eu.
+<T><A1/2>Porém, vejo que a única forma
+de chegar à verdade é encontrar
+esse homem que diz ser eu.
 !******************************!
 [71170300df000000:0014000000026300000002f6140000]
 未来ルーク
@@ -479,7 +478,7 @@ também vou!
 !******************************!
 <T>Claro que vai.<W> Se não posso contar
 comigo mesmo, com quem
-posso contar?
+mais posso contar?
 !******************************!
 [71170300e8000000:0014000000020000000002a3150000]
 ルーク

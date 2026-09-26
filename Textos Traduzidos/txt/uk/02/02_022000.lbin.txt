@@ -25,8 +25,7 @@ brincadeira?</V>
 ボストロ
 !******************************!
 <V0050><T><A3/1>Parando pra pensar, acho que nunca
-vi nenhum de cês por aqui
-antes.</V>
+vi nenhum de vocês por aqui antes.</V>
 !******************************!
 [7117030010000000:000f00000002300000000230010000]
 レイトン

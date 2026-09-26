@@ -2,9 +2,8 @@
 [7117030001000000:000a00000002000000000209000000]
 マックス
 !******************************!
-<T>Ei, escute só! Encontrei um
-enigma brilhante outro dia. Quer
-ouvir?
+<T>Ei, escute só! Encontrei um enigma
+brilhante outro dia. Quer ouvir?
 !******************************!
 [7117030004000000:000a00000002620000000269000000]
 ルーク
@@ -29,7 +28,7 @@ acha? Quer tentar?
 !******************************!
 <T><A3/0>BZZT!<W> <A2/3>Resposta inválida!<W> Que pena.
 Tenho um grande segredo para
-contar se acertar, sabia.
+contar se acertar, viu?
 !******************************!
 [7117030010000000:00d00700000200000000027c010000]
 マックス
@@ -116,6 +115,6 @@ Nunca se sabe o que vai achar...
 マックス
 !******************************!
 <T>Toque em tudo que parecer
-suspeito. Pode encontrar
+suspeito. Você pode encontrar
 algo interessante!
 !******************************!

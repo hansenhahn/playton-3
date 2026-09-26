@@ -15,9 +15,8 @@ jogar, só para-
 [7117030007000000:000a000000020000000002a0000000]
 クローンマフィア
 !******************************!
-<T>Cassino não é lugar
-pra levar criança!
-Até eu sei disso!
+<T>Cassino não é lugar pra
+levar criança! Até eu sei disso!
 !******************************!
 [711703000a000000:000a00000002de00000002e5000000]
 ルーク
@@ -36,6 +35,6 @@ do rapaz. Ainda mais quando-
 クローンマフィア
 !******************************!
 <T>Olha, amigo, não se leva
-criança pra um lugar desses,
+criança pra um lugar desses
 e ponto final.
 !******************************!

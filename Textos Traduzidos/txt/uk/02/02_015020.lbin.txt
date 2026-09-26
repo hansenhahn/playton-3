@@ -28,9 +28,8 @@ o tempo todo.
 [711703000d000000:000a000000025a0000000224010000]
 レイトン
 !******************************!
-<T>Talvez encontrá-lo
-pessoalmente esclareça
-nossa situação atual.
+<T>Talvez encontrá-lo pessoalmente
+esclareça nossa situação atual.
 !******************************!
 [7117030010000000:000a000000025a0000000277010000]
 レイトン
@@ -47,8 +46,7 @@ podermos ir de carro.
 レイトン
 !******************************!
 <T>Por pior que seja, meu carro
-não vai a lugar algum
-tão cedo.
+não vai a lugar algum tão cedo.
 !******************************!
 [7117030019000000:000a00000002000000000241020000]
 ルーク
@@ -66,6 +64,6 @@ meu jovem.
 レイトン
 !******************************!
 <T>Infelizmente, consertar este
-carro exige mais habilidade
-do que tenho. Vamos a pé.
+carro está além das minhas
+habilidades. Vamos a pé.
 !******************************!
