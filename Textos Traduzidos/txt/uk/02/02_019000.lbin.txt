@@ -30,8 +30,8 @@ eu era baixinho.</V>
 [7117030010000000:000a00000002000000000218010000]
 レイトン
 !******************************!
-<V0060><T>Então, diga-me, por que se deu
-a tanto trabalho para nos
+<V0060><T>Então, diga-me, por que exatamente
+se deu a tanto trabalho para nos
 trazer até aqui?</V>
 !******************************!
 [7117030013000000:000a00000002a4000000026f010000]

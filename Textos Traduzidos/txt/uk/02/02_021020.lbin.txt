@@ -178,9 +178,9 @@ ideia de mudar o passado.
 [7117030058000000:000e000000026300000002cb070000]
 未来ルーク
 !******************************!
-<T>Dr. Stahngun queria continuar a
-pesquisa, mas precisava de apoio
-financeiro para isso.
+<T>Dr. Stahngun estava muito interessado
+em continuar a pesquisa, mas
+precisava de apoio financeiro.
 !******************************!
 [711703005b000000:000e00000002630000000234080000]
 未来ルーク
@@ -478,7 +478,7 @@ também vou!
 !******************************!
 <T>Claro que vai.<W> Se não posso contar
 comigo mesmo, com quem
-posso contar?
+mais posso contar?
 !******************************!
 [71170300e8000000:0014000000020000000002a3150000]
 ルーク

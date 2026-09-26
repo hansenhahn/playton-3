@@ -65,9 +65,9 @@ enigma te deixou sem resposta?
 [711703001f000000:00d0070000020000000002eb020000]
 デロイ
 !******************************!
-<T>Voltou para medir seu intelecto contra 
-meu enigma, pelo que vejo. Muito bem.
-Prepare-se!
+<T>Voltou para medir seu intelecto
+contra meu enigma, pelo que vejo.
+Muito bem. Prepare-se!
 !******************************!
 [7117030022000000:00b80b000002000000000240030000]
 デロイ

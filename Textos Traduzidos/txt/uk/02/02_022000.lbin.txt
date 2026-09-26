@@ -39,7 +39,7 @@ seu belo estabelecimento.</V>
 !******************************!
 <V0080><T><A1/1>Pode até ser, mas vão ter que
 vir comigo pra umas perguntinhas.
-Por aqui, cês três.</V>
+Por aqui, vocês três.</V>
 !******************************!
 [7117030016000000:001400000002080200000213020000]
 未来ルーク
