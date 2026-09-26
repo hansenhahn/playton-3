@@ -64,6 +64,5 @@ meu jovem.
 レイトン
 !******************************!
 <T>Infelizmente, consertar este
-carro exige habilidades que 
-não tenho. Vamos a pé.
+carro exige mais perícia. Vamos a pé.
 !******************************!
