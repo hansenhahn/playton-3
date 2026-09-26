@@ -1,6 +1,6 @@
 # Roadmap — Tradução PT-BR | Professor Layton and the Unwound Future
 
-> **Última atualização:** 2026-09-20
+> **Última atualização:** 2026-09-25
 > **Base:** `master` @ `fef16d4c`
 > **Métrica:** comparação `Textos Originais/txt/uk` × `Textos Traduzidos/txt/uk`
 > (e `Textos Originais/rc/nazo/uk` × `Textos Traduzidos/rc/nazo/uk`). Uma unidade
@@ -32,7 +32,7 @@
 |---|---|---|---|---|
 | 00 | 34 | 283 | ~100% (279/281 blocos) | ✅ #27, #40 |
 | 01 | 62 | 495 | 99% | ✅ #30 — caixas #41 aberto |
-| 02 | 31 | 359 | 99% | ✅ #31 |
+| 02 | 31 | 359 | 99% | ✅ #31 + #53 (revisão manual; caixa validada no Previewer; 2 falso-positivos de tela de enigma aceitos) |
 | 03 | 25 | 325 | 98% | ✅ #34 |
 | 04 | 26 | 301 | 98% | ✅ #37 |
 | 05 | 31 | 317 | 99% | ✅ #39 |
@@ -103,7 +103,7 @@ O número útil é **403 imagens efetivamente localizadas**.
 3. **Extras 18/20/30** — traduzir (Spec já existe para todos).
 4. **caps 40/50/99** — decidir escopo (journal/ending/menus); cap. 40 está
    com placeholder em inglês.
-5. **Fechar PRs abertos:** #41 (caixas cap. 01).
+5. **Fechar PRs abertos:** #41 (caixas cap. 01); #53 (revisão manual cap. 02).
 
 ---
 
@@ -118,3 +118,4 @@ O número útil é **403 imagens efetivamente localizadas**.
 | 2026-09-20 | Cap. 14 traduzido (136 blocos; 132/136, 4 idênticos por natureza) e QA semântico/voz (4 correções cirúrgicas); pair review pendente. História 00–14 completa. |
 | 2026-09-20 | Extras 19 (Digest) traduzido (93 blocos) e QA semântico/voz (8 correções cirúrgicas); pair review pendente. Narração neutra. |
 | 2026-09-20 | Extras 90 (Stachen/itens/minijogo do papagaio) traduzido (105 blocos) e QA (4 correções de continuidade terminológica); pair review pendente. |
+| 2026-09-25 | Cap. 02 — revisão manual (PR #53): QA semântico/voz/tratamento/gramática nos 359 blocos; correções de naturalidade (`está além das minhas habilidades`), tratamento (`o senhor` para Harold/Delroy) e precisão (`por que exatamente`, `carta de espadas`, `mais posso contar?`). Caixa validada no Previewer. Gate do harness fica em 2 FAIL de tela de enigma (`02_020010`), idênticos ao EN — falso-positivo aceito. |
