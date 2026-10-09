@@ -28,13 +28,13 @@ podem se chamar Luke.
 レイトン
 !******************************!
 <T>Se for preciso distingui-los,
-você será {''}Big Luke{''},
-e você {''}Little Luke{''}.
+você será o {''}Luke Sênior{''},
+e você o {''}Luke Júnior{''}.
 !******************************!
 [7117030010000000:000a000000020000000002b5010000]
 ルーク
 !******************************!
-<T>Não sou fã de {''}Little Luke{''},
+<T>Não sou fã de {''}Luke Júnior{''},
 mas é melhor que essa
 confusão toda.
 !******************************!
@@ -42,14 +42,13 @@ confusão toda.
 未来ルーク
 !******************************!
 <T><A2/2>O senhor é quem manda, Professor.<W>
-É um prazer conhecê-lo,
-Little Luke!
+É um prazer conhecê-lo, Luke Júnior!
 !******************************!
 [7117030016000000:000a0000000200000000026a020000]
 ルーク
 !******************************!
 <T><A3/2>Ora, o prazer é todo meu,
-Big Luke!
+Luke Sênior!
 !******************************!
 [7117030019000000:000a0000000240000000029e020000]
 未来ルーク
@@ -68,8 +67,8 @@ a caminho do cassino?
 [711703001f000000:000a00000002fe0000000255030000]
 レイトン
 !******************************!
-<T>Aquele perto da saída sul da
-galeria?
+<T>Aquele perto da saída sul
+da galeria?
 !******************************!
 [7117030022000000:000a00000002400000000281030000]
 未来ルーク
