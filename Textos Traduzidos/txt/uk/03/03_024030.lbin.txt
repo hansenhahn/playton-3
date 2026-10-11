@@ -2,9 +2,9 @@
 [7117030001000000:000a00000002000000000207000000]
 ホリス
 !******************************!
-<T>Credo!<W> O que estão fazendo,
+<T>Cruzes!<W> O que estão fazendo,
 chegando assim de mansinho?!
-Quase me deu um infarto!
+Quase tive um infarto!
 !******************************!
 [7117030004000000:000a00000002690000000270000000]
 ルーク
@@ -18,7 +18,7 @@ tanto assim.
 !******************************!
 <T>Eu estava distraído e não vi
 vocês chegando. Enfim, tenho
-coisas a fazer. Adeus.
+coisas a fazer. Adeus!
 !******************************!
 [711703000a000000:00140000000216010000021f010000]
 レイトン

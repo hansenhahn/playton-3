@@ -31,9 +31,9 @@ Perfeitamente bem.
 [7117030010000000:0014000000021600000002f8000000]
 ルーク
 !******************************!
-<T>Se o senhor diz, Professor.<W> Ei,
-olhe, aposto que esta é a escada
-que Shipley mencionou.
+<T>Se o senhor diz, Professor.<W>
+Ei, olhe, aposto que esta é
+a escada que o Shipley mencionou.
 !******************************!
 [7117030013000000:001900000002000000000250010000]
 レイトン
@@ -51,9 +51,9 @@ está preso lá em cima.
 [7117030019000000:0028000000020000000002fe010000]
 レイトン
 !******************************!
-<T><A3/1>Talvez tenha sido isso quando
-o primeiro-ministro foi raptado há
-10 anos...
+<T><A3/1>Talvez tenha sido isso que aconteceu
+quando o primeiro-ministro foi raptado
+há 10 anos...
 !******************************!
 [711703001c000000:002800000002000000000259020000]
 レイトン
@@ -65,7 +65,7 @@ no tempo for real?
 [711703001f000000:0028000000020000000002be020000]
 レイトン
 !******************************!
-<T>Se for, então talvez aquela era
+<T>Se for, então talvez aquela fosse 
 mesmo a Claire...
 !******************************!
 [7117030022000000:0028000000020000000002ed020000]

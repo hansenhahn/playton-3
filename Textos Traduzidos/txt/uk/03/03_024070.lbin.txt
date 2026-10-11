@@ -16,13 +16,13 @@ e eu vamos a Chinatown.
 !******************************!
 <T>Caramba, primeiro o cassino
 e agora Chinatown? Vocês dois
-são turistas de verdade!
+são verdadeiros turistas!
 !******************************!
 [711703000a000000:000a000000020000000002c9000000]
 ベッキー
 !******************************!
-<T><A1/2>Parece divertido. O que
-vão fazer por lá?
+<T><A1/2>Parece bem divertido. O que
+planejam fazer por lá?
 !******************************!
 [711703000d000000:000a00000002340000000214010000]
 ルーク
@@ -46,6 +46,6 @@ a Vovó!
 ベッキー
 !******************************!
 <T>Prometa que vai me contar
-todos os detalhes suculentos
+tudo nos mínimos detalhes
 quando voltarem!
 !******************************!

@@ -26,7 +26,7 @@ direito.
 未来ルーク
 !******************************!
 <T>Ele teve papel vital para trazer
-o senhor e Little Luke até
+o senhor e Luke Júnior até
 nossa época.
 !******************************!
 [7117030010000000:000a000000022b0100000234010000]
@@ -45,8 +45,8 @@ quando nos vimos.
 ブッチ
 !******************************!
 <T>O Luke me disse para não contar
-detalhes até ele falar com
-o senhor mesmo.
+detalhes até ele mesmo falar
+com o senhor.
 !******************************!
 [7117030019000000:000a000000022b010000020b020000]
 レイトン
@@ -162,7 +162,7 @@ fatos por conta própria.
 [711703004f000000:0014000000022b0100000266060000]
 レイトン
 !******************************!
-<T><A1/1>Big Luke, você pareceu apreensivo
+<T><A1/1>Luke Sênior, você pareceu apreensivo
 ao ouvir falar do Pagode
 Imponente.<W> Que lugar é esse?
 !******************************!
@@ -226,8 +226,8 @@ chegar lá. Certo?
 [711703006d000000:00140000000200000000023e090000]
 未来ルーク
 !******************************!
-<T>Certo. Preciso ir andando. Cuidado
-por aí.
+<T>Certo. Preciso ir andando.
+Cuidem-se por aí.
 !******************************!
 [7117030070000000:001e0000000277090000027e090000]
 ルーク
@@ -250,7 +250,7 @@ pela Flatstone Street.
 [7117030079000000:0020000000023200000002370a0000]
 ブッチ
 !******************************!
-<T>Indo ao norte rumo ao cassino,
+<T>Indo para o norte rumo ao cassino,
 há uma escadinha à direita.
 !******************************!
 [711703007c000000:00200000000232000000028b0a0000]
