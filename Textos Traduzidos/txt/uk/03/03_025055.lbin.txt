@@ -26,8 +26,7 @@ Será que ele é da Família?
 グラハム
 !******************************!
 <T><A2/3>O que disse, menino? Estou bem aqui!
-Se tem algo a dizer,
-diga na minha cara!
+Se tem algo a dizer, diga na minha cara!
 !******************************!
 [7117030010000000:000a0000000200000000026c010000]
 グラハム
@@ -47,8 +46,7 @@ Na Itália, eu disse!
 ルーク
 !******************************!
 <T><A1/6>Perdão, senhor. Não quis ofender!
-Nem achei mesmo que fosse
-um deles.
+Nem achei mesmo que fosse um deles.
 !******************************!
 [7117030019000000:000a0000000200000000027c020000]
 グラハム
