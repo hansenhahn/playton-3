@@ -3,8 +3,8 @@
 ギョラック
 !******************************!
 <T><A1/4>Olá, rapazinho. Já ficou tão
-entediado a ponto de cair duro?<W>
-Eu também.
+entediado a ponto de desmaiar?<W>
+Eu já.
 !******************************!
 [7117030004000000:000a000000026d0000000274000000]
 ルーク
@@ -14,7 +14,7 @@ Eu também.
 [7117030007000000:000a0000000200000000028d000000]
 ギョラック
 !******************************!
-<T><A1/5>Bem, não tenho nada para fazer.
+<T><A1/5>Bem, não tenho nada pra fazer.
 Isso conta muito.
 !******************************!
 [711703000a000000:000a000000020000000002ce000000]
@@ -32,9 +32,9 @@ própria vida?
 [7117030010000000:000a00000002000000000236010000]
 ギョラック
 !******************************!
-<T><A2/1>Há um tempo, um cara me disse que
-eu ganhava um trocado num serviço
-moleza.
+<T><A2/1>Há um tempo, um cara me disse
+que eu podia ganhar um trocado
+num serviço moleza.
 !******************************!
 [7117030013000000:000a0000000200000000028c010000]
 ギョラック
@@ -58,12 +58,14 @@ que tinha caído num golpe.
 !******************************!
 <T>O cara me jogou num buraco escuro
 e me fez cavar dia e noite.
-Trabalhando feito um cão.
+Eu trabalhava feito um cão.
 !******************************!
 [711703001f000000:000a000000026d000000027b020000]
 ルーク
 !******************************!
-<T><A4/4>Parece que não valia o que pagava.
+<T><A4/4>Parece que não valia a pena,
+independente de quanto fosse
+o salário.
 !******************************!
 [7117030022000000:000a000000020000000002c3020000]
 ギョラック
@@ -76,8 +78,8 @@ né?
 ギョラック
 !******************************!
 <T>Mas tudo tinha mudado enquanto eu
-estava no buraco, e não achei minha
-casa nem minha família!
+estava no buraco, e não consegui achar
+mais nem minha casa nem minha família!
 !******************************!
 [7117030028000000:000a000000026d000000028f030000]
 ルーク
@@ -104,7 +106,7 @@ tente um.
 !******************************!
 <T>Sem sorte?<W> Não se sinta mal,
 rapazinho. Pode voltar e tentar
-de novo. Não saio daqui...
+de novo. Prometo não sair daqui...
 !******************************!
 [7117030034000000:00d0070000020000000002f4040000]
 ギョラック
@@ -137,6 +139,6 @@ ver o pequeno de novo.
 ギョラック
 !******************************!
 <T>Queria achar o caminho de volta
-para casa. Seria bom ver a família
+pra casa. Seria bom ver minha família
 de novo.
 !******************************!
