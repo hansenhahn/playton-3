@@ -14,7 +14,7 @@ mais cedo.
 [7117030007000000:000a0000000200000000027d000000]
 未来ルーク
 !******************************!
-<T><A2/2>Ah, claro. Você já tinha
+<T><A2/2>Ah, é claro. Você já tinha
 mencionado isso, não é?
 !******************************!
 [711703000a000000:000a000000024b00000002ca000000]
@@ -69,9 +69,9 @@ implicando com você.
 [7117030022000000:000a000000020000000002cd020000]
 未来ルーク
 !******************************!
-<T>Agora, digamos que você tivesse
-aquela máquina do tempo
-de que falamos.
+<T>Agora, digamos que você
+tivesse aquela máquina do
+tempo de que falamos.
 !******************************!
 [7117030025000000:000a00000002000000000213030000]
 未来ルーク
@@ -88,8 +88,9 @@ cinco aninhos para se vingar?
 [711703002b000000:000a000000020000000002a9030000]
 未来ルーク
 !******************************!
-<T><A1/4>Claro que não, mas isso é
-porque você tem um bom coração.
+<T><A1/4>Claro que você não faria
+isso, mas isso é porque você
+tem um bom coração.
 !******************************!
 [711703002e000000:000a000000020000000002f6030000]
 未来ルーク

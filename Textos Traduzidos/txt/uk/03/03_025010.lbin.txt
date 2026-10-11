@@ -9,16 +9,16 @@ Vou dar uma olhada rápida.
 [7117030004000000:000a00000002000000000270000000]
 ルーク
 !******************************!
-<T><A3/1>Hã? Olhe, Professor, o homem da
-estátua usa a mesma cartola
+<T><A3/1>Hã? Olhe, Professor, o homem
+da estátua usa a mesma cartola
 que o senhor!
 !******************************!
 [7117030007000000:000a00000002be00000002c7000000]
 レイトン
 !******************************!
-<T><A1/2>Ha ha! É mesmo!<W> Se eu sou o homem
-da estátua, então você é
-aquele menino ali?
+<T><A1/2>Ha ha! É mesmo!<W> Se eu sou
+o homem da estátua, então você
+é aquele menino ali?
 !******************************!
 [711703000a000000:000a00000002000000000227010000]
 ルーク
@@ -69,8 +69,7 @@ aventura para todas as idades.
 ルーク
 !******************************!
 <T>Acho que o livro fez tanto sucesso
-que ele passou a escrever
-mais deles.
+que ele passou a escrever mais deles.
 !******************************!
 [7117030022000000:000a00000002be000000026e030000]
 レイトン
